@@ -6,7 +6,7 @@ patch: "26.21"
 reviewed: false
 difficulty: Hard
 favoredWhen: Respect his dashes, play Wind Wall windows, and win teamfights instead of duels.
-sources: [peng04, shok-ahri]
+sources: [peng04, shok-ahri, pengyasuo]
 ---
 
 ## Key tips
@@ -29,6 +29,9 @@ sources: [peng04, shok-ahri]
 - Keep the wave on your side and take care pushed up: he is strong in lane but very gankable.
   sources: [shok-ahri]
 
+- Concede blind level-1 prio rather than losing XP: falling behind early hands him the easier lane.
+  sources: [pengyasuo]
+
 - After he dashes through a minion, that path is closed: he cannot E it again for a while.
   sources: [peng04]
   abilities: [Yasuo.E]
@@ -42,6 +45,10 @@ sources: [peng04, shok-ahri]
   sources: [peng04]
   abilities: [Yasuo.E]
 
+- Aim Charm where he sidesteps, not at the minion he hides behind: Q toward the blocker, then Charm the dodge.
+  sources: [pengyasuo]
+  abilities: [Ahri.Q, Ahri.E]
+
 ## Win condition
 
 - Win teamfights, not duels: avoid fair 1v1s all game.
@@ -51,3 +58,7 @@ sources: [peng04, shok-ahri]
   sources: [shok-ahri]
 
 ## Itemization
+
+- First base into Lost Chapter plus boots: the spike plus the movement to space his dashes.
+  sources: [pengyasuo]
+  items: [3802, 1001]

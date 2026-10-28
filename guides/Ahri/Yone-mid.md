@@ -6,7 +6,7 @@ patch: "26.21"
 reviewed: false
 difficulty: Hard
 favoredWhen: Respect his Q3 and E windows, hold Charm, and punish his ult with Charm behind you.
-sources: [peng04, shok-ahri]
+sources: [peng04, shok-ahri, sjorry]
 ---
 
 ## Key tips
@@ -34,6 +34,13 @@ sources: [peng04, shok-ahri]
 - Give ground on his empowered Q, then trade back after.
   sources: [peng04, shok-ahri]
   abilities: [Yone.Q]
+
+- Harass him hard at level 1 and abuse your range while slow-stacking the wave.
+  sources: [sjorry]
+
+- Take E at level 2 unless your spacing is perfect; it stops him getting on top of you.
+  sources: [sjorry]
+  abilities: [Ahri.E]
 
 ## Mid lane
 
