@@ -176,9 +176,9 @@ for (const [name, edit, message] of invalidAuthors) {
   test(`rejects authors ${name}`, () => reject(change('authors.yml', edit), message, 'authors.yml'));
 }
 
-test('validates every allowed source host and both kinds', () => {
-  for (const hostname of ['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be']) {
-    const files = change('authors.yml', text => text.replaceAll('www.mobafire.com', hostname).replace('kind: mobafire', 'kind: sheet'));
+test('validates every allowed source host and every kind', () => {
+  for (const kind of ['sheet', 'youtube']) for (const hostname of ['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be']) {
+    const files = change('authors.yml', text => text.replaceAll('www.mobafire.com', hostname).replace('kind: mobafire', `kind: ${kind}`));
     assert.equal(compile(files).index.champions['103'].guides, 1);
   }
 });

@@ -19,7 +19,7 @@ function readAuthors(text) {
     if (sources.has(source.id)) fail(at, `duplicate author id ${source.id}`);
     plain(source.author, at, 'author');
     plain(source.rankClaim, at, 'rankClaim');
-    if (!['mobafire', 'sheet'].includes(source.kind)) fail(at, 'source kind must be mobafire or sheet');
+    if (!['mobafire', 'sheet', 'youtube'].includes(source.kind)) fail(at, 'source kind must be mobafire, sheet or youtube');
     sourceUrl(source.url, at);
     sources.set(source.id, source);
   }
