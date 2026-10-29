@@ -143,3 +143,68 @@
   rankClaim: Rank 1 LeBlanc, 2941LP Challenger (title); Challenger (profile badge) · LeBlanc main
   url: https://www.mobafire.com/league-of-legends/build/26-17-2941lp-challenger-rank-1-leblancs-gunblade-1v9-build-653268
   kind: mobafire
+- id: autolykus
+  author: Autolykus
+  rankClaim: Grandmaster (profile badge; title claims Challenger) · Sett main
+  url: https://www.mobafire.com/league-of-legends/build/26-20-autolykuss-challenger-sett-guide-594869
+  kind: mobafire
+- id: raideru
+  author: Raideru
+  rankClaim: Challenger · Camille main
+  url: https://www.mobafire.com/league-of-legends/build/camille-challenger-guide-by-raider-matchups-643464
+  kind: mobafire
+- id: loganjg
+  author: L0ganJG
+  rankClaim: Grandmaster (profile badge; title claims Rank 1 Briar) - Briar main
+  url: https://www.mobafire.com/league-of-legends/build/26-21-rank-1-briar-all-matchups-briar-jungle-all-builds-check-notes-629922
+  kind: mobafire
+
+- id: omibro
+  author: Omibro
+  rankClaim: Challenger ADC and coach · Jhin main
+  url: https://www.youtube.com/watch?v=8Ln7EC-ryxo&t=3259s
+  kind: youtube
+
+- id: antiwis
+  author: Antiwis
+  rankClaim: Diamond (profile badge; title claims Master Elo OTP) · Jhin main
+  url: https://www.mobafire.com/league-of-legends/build/26-21-jhin-guide-real-updates-every-patch-master-elo-otp-633981
+  kind: mobafire
+
+- id: yunfang
+  author: Yunfang
+  rankClaim: Diamond (profile badge; guide text claims Master ADC main) · Jhin main
+  url: https://www.mobafire.com/league-of-legends/build/s2026-20-easy-to-read-simple-1v9-live-ama-full-guide-updated-650175
+  kind: mobafire
+
+- id: rowzkit
+  author: rowzkit
+  rankClaim: Emerald (profile badge; title and guide text claim Master ADC) · Caitlyn main
+  url: https://www.mobafire.com/league-of-legends/build/26-21-master-adc-caitlyn-guide-1-shot-late-game-scaling-caitlyn-build-meta-build-included-643874
+  kind: mobafire
+
+- id: yunfang-mf
+  author: Yunfang
+  rankClaim: Diamond (profile badge; guide text claims Master ADC main) · Miss Fortune main
+  url: https://www.mobafire.com/league-of-legends/build/s2026-21-easy-to-read-simple-1v9-live-ama-full-guide-updated-650250
+  kind: mobafire
+- id: razing42
+  author: Razing42
+  rankClaim: Emerald (profile badge; no title claim) · Thresh main
+  url: https://www.mobafire.com/league-of-legends/build/the-chain-warden-of-botlane-623203
+  kind: mobafire
+- id: rhino-nami
+  author: Pocket Rhino
+  rankClaim: Multi-year NA Challenger and former professional support player (channel claim)
+  url: https://www.youtube.com/watch?v=H80f4xIYR-I
+  kind: youtube
+- id: rhino-braum
+  author: Pocket Rhino
+  rankClaim: Multi-year NA Challenger and former professional support player (channel claim)
+  url: https://www.youtube.com/watch?v=gbSt7wdkHro
+  kind: youtube
+- id: henry
+  author: needyhenry
+  rankClaim: Grandmaster (video claims grandmaster-or-challenger on any server; modest reading) · Soraka main
+  url: https://www.youtube.com/watch?v=5DFoZ6eOdy0
+  kind: youtube
