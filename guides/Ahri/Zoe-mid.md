@@ -27,7 +27,7 @@ sources: [peng04, shok-ahri, shok-zoe]
 
 ## Early lane
 
-- Survive levels 1-5: concede pressure and punish only spent cooldowns.
+- Survive levels 1-5 by conceding pressure: punish only spent cooldowns, when her spells cannot answer.
   sources: [peng04]
 
 - If she holds Exhaust or Ignite, keep Charm defensive; she may force an all-in.

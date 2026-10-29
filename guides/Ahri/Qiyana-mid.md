@@ -11,8 +11,9 @@ sources: [peng04, shok-ahri]
 
 ## Key tips
 
-- Bully her very hard at levels 1-2.
+- Bully her very hard at levels 1-2 with autos and Q: she has no answer yet.
   sources: [shok-ahri]
+  abilities: [Ahri.Q]
 
 - Hold Charm for her engage: never panic-throw it when she all-ins before 6.
   sources: [peng04, shok-ahri]
@@ -29,7 +30,7 @@ sources: [peng04, shok-ahri]
 - Abuse the first two levels, then set the wave middle or pushing back to you for her level-3 spike.
   sources: [shok-ahri]
 
-- Never let the wave sit in a bad position.
+- Keep the wave off her side: a long lane is her engage room, a short one is yours.
   sources: [peng04]
 
 ## Mid lane

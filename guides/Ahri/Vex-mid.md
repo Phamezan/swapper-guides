@@ -11,7 +11,7 @@ sources: [peng04, shok-ahri, irdefender]
 
 ## Key tips
 
-- Dodge her E with W speed ({cd:711:E}).
+- Dodge her E with W speed: eating it starts her fear pressure ({cd:711:E}).
   sources: [peng04, shok-ahri]
   abilities: [Ahri.W, Vex.E]
 

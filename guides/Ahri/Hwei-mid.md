@@ -11,7 +11,7 @@ sources: [peng04, shok-ahri]
 
 ## Key tips
 
-- Dodge his E spells with W speed.
+- Dodge his E spells with W speed: they start every trade he wins.
   sources: [peng04]
   abilities: [Ahri.W, Hwei.E]
 
@@ -43,7 +43,7 @@ sources: [peng04, shok-ahri]
 
 ## Win condition
 
-- Convert picks and jungle plays into map control.
+- Convert picks and jungle ganks into map control while he cannot match you.
   sources: [shok-ahri]
 
 - Keep dodging his E all game: it stays his key spell.

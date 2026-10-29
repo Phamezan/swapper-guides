@@ -15,8 +15,9 @@ sources: [peng04, shok-ahri, auroraaddict]
   sources: [shok-ahri]
   abilities: [Aurora.Q, Aurora.E]
 
-- Punish her positioning mistakes and the windows when her spells are on cooldown.
+- Punish her cooldown windows and oversteps: step in only when Q or E is down.
   sources: [peng04]
+  abilities: [Aurora.Q, Aurora.E]
 
 - Whoever lands first wins: match her range and strike first.
   sources: [auroraaddict]
@@ -25,7 +26,7 @@ sources: [peng04, shok-ahri, auroraaddict]
 
 ## Early lane
 
-- Survive levels 1-5; concede pressure rather than forcing.
+- Do not force trades in levels 1-5: her poke wins them, so wait for cooldown windows.
   sources: [peng04]
 
 - Regain control by dodging at CS time: every dodged spell is a won trade.

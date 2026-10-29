@@ -57,7 +57,8 @@ sources: [peng04, shok-ahri, sjorry]
   sources: [shok-ahri, peng04]
   abilities: [Ahri.E]
 
-- Keep waves safe and never hand him a run-down: patience wins this lane.
-  sources: [shok-ahri]
+- Turn every wasted window: an E or Q3 spent without a kill is your turn to trade.
+  sources: [shok-ahri, peng04]
+  abilities: [Yone.E, Yone.Q]
 
 ## Itemization

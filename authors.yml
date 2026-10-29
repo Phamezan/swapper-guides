@@ -23,20 +23,10 @@
   rankClaim: Master (profile badge; title claims 2000LP GrandMaster EUW and Challenger EUNE) · Akali main
   url: https://www.mobafire.com/league-of-legends/build/26-20-anguish-2000lp-grandmasters-euw-challenger-eune-akali-mid-top-s16-guide-every-matchup-item-rune-explained-625064
   kind: mobafire
-- id: intaggar
-  author: InTaggar
-  rankClaim: Emerald · Viktor main
-  url: https://www.mobafire.com/league-of-legends/build/26-17-viktor-guide-in-depth-eng-esp-633306
-  kind: mobafire
 - id: shokviktor
   author: ShokLoL
   rankClaim: Rank 1 Challenger · Viktor main
   url: https://www.mobafire.com/league-of-legends/build/26-1-shoks-rank-1-challenger-viktor-guide-645712
-  kind: mobafire
-- id: acee1
-  author: Kazuki Shroudo
-  rankClaim: Challenger · Katarina main
-  url: https://www.mobafire.com/league-of-legends/build/all-matchups-26-21-acee1s-katarina-guide-649538
   kind: mobafire
 - id: shokleblanc
   author: ShokLoL
@@ -108,10 +98,10 @@
   rankClaim: Grandmaster (profile badge, no title claim) · Vex main
   url: https://www.mobafire.com/league-of-legends/build/vex-have-some-misery-651014
   kind: mobafire
-- id: acee1-irelia
-  author: Kazuki Shroudo
-  rankClaim: Challenger (profile badge); title names player Acee1 · Irelia main
-  url: https://www.mobafire.com/league-of-legends/build/all-matchups-26-18-acee1s-irelia-guide-650579
+- id: v222yasuo
+  author: V222
+  rankClaim: Diamond (profile badge; title claims Challenger EUW) · Yasuo main
+  url: https://www.mobafire.com/league-of-legends/build/all-matchups-26-14-challenger-yasuo-guide-651917
   kind: mobafire
 - id: pengekko
   author: Peng04
@@ -143,3 +133,13 @@
   rankClaim: Former Rank 1 Ahri NA; challenger most seasons (video intro) · Ahri main
   url: https://www.youtube.com/watch?v=HogChD8fsdo&t=55s
   kind: youtube
+- id: trisend3
+  author: Trisend3
+  rankClaim: Challenger (title and profile badge) · Syndra main
+  url: https://www.mobafire.com/league-of-legends/build/challenger-season-16-trisend3-syndra-guide-623459
+  kind: mobafire
+- id: pumptm
+  author: pumpTM
+  rankClaim: Rank 1 LeBlanc, 2941LP Challenger (title); Challenger (profile badge) · LeBlanc main
+  url: https://www.mobafire.com/league-of-legends/build/26-17-2941lp-challenger-rank-1-leblancs-gunblade-1v9-build-653268
+  kind: mobafire
