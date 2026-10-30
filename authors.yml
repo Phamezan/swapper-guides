@@ -208,3 +208,23 @@
   rankClaim: Grandmaster (video claims grandmaster-or-challenger on any server; modest reading) · Soraka main
   url: https://www.youtube.com/watch?v=5DFoZ6eOdy0
   kind: youtube
+- id: justsad42
+  author: TTVJustSad42
+  rankClaim: Challenger EUNE / Grandmaster EUW (self-claim, no badge) · Fiora main
+  url: https://docs.google.com/spreadsheets/d/1g_YjX4jYcz15k8FZuOkhc4IWA1LLm28WinrVCGBXxLY/edit?gid=0#gid=0
+  kind: sheet
+- id: ph45
+  author: PH45
+  rankClaim: Master (profile badge; no title claim) · Jax main
+  url: https://www.mobafire.com/league-of-legends/build/26-21-thisispatriks-in-depth-jax-guide-503356
+  kind: mobafire
+- id: yshuro13
+  author: Yshuro13
+  rankClaim: Grandmaster (self-stated 800 LP+ peak) · Garen main
+  url: https://docs.google.com/spreadsheets/d/1GbCYcSJLSrSIdOja9EhNFWWSynM0Oin157plraoHO3s/edit?gid=522857221#gid=522857221
+  kind: sheet
+- id: dreadknight
+  author: Dreadknight_EUW
+  rankClaim: Former Rank 1 Mordekaiser (self-report, 1,148 LP peak EUW) · Mordekaiser main
+  url: https://docs.google.com/spreadsheets/d/117W-tymfna-J8tbp7r-3GC24uZgyyAHhFuX0AfAZ8Fo/edit?gid=0#gid=0
+  kind: sheet
