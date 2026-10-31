@@ -228,3 +228,48 @@
   rankClaim: Former Rank 1 Mordekaiser (self-report, 1,148 LP peak EUW) · Mordekaiser main
   url: https://docs.google.com/spreadsheets/d/117W-tymfna-J8tbp7r-3GC24uZgyyAHhFuX0AfAZ8Fo/edit?gid=0#gid=0
   kind: sheet
+- id: federals1-darius
+  author: Federals1
+  rankClaim: Challenger · Darius main
+  url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-darius-top-guide-636714
+  kind: mobafire
+- id: houcs
+  author: Houcs
+  rankClaim: Master (profile badge; title claims Challenger Irelia OTP) · Irelia main
+  url: https://www.mobafire.com/league-of-legends/build/season-16-split-3-irelia-guide-challenger-irelia-otp-649210
+  kind: mobafire
+- id: goliath-urgot
+  author: I Am Goliath
+  rankClaim: Master (profile badge) · Urgot main
+  url: https://www.mobafire.com/league-of-legends/build/goliathgames-ultimate-guide-to-urgot-tips-on-every-matchup-8m-mastery-554383
+  kind: mobafire
+- id: justsad42-mf
+  author: TTVJustSad42
+  rankClaim: Rank 1 Challenger (title, no badge) · Fiora main
+  url: https://www.mobafire.com/league-of-legends/build/25-21-rank-1-challenger-fiora-matchups-comprehensive-guide-619642
+  kind: mobafire
+- id: lilpicky
+  author: LilPicky
+  rankClaim: Emerald · Aatrox main
+  url: https://www.mobafire.com/league-of-legends/build/not-basic-aatrox-s16-guide-630818
+  kind: mobafire
+- id: federals1-malphite
+  author: Federals1
+  rankClaim: Challenger · Malphite main
+  url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-malphite-top-guide-651329
+  kind: mobafire
+- id: eve0030
+  author: Eve0030
+  rankClaim: Master OTP (title and badge) · Ornn main
+  url: https://www.mobafire.com/league-of-legends/build/26-21-master-otp-ornn-in-depth-guide-642099
+  kind: mobafire
+- id: federals1-volibear
+  author: Federals1
+  rankClaim: Challenger · Volibear main
+  url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-volibear-top-guide-609641
+  kind: mobafire
+- id: procatking
+  author: procatking
+  rankClaim: Emerald (badge, no title claim) · Pantheon main
+  url: https://www.mobafire.com/league-of-legends/build/pantheons-what-to-do-list-for-top-lane-26-7-634392
+  kind: mobafire
