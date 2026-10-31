@@ -20,7 +20,7 @@ async function markdownFiles(root, relative) {
 }
 
 export async function build(root = process.cwd(), options = {}) {
-  const files = ['authors.yml', 'champions.json', ...await markdownFiles(root, 'guides'), ...await markdownFiles(root, 'enemies')];
+  const files = ['authors.yml', 'champions.json', ...await markdownFiles(root, 'guides'), ...await markdownFiles(root, 'enemies'), ...await markdownFiles(root, 'general')];
   const input = new Map();
   for (const file of files) {
     try { input.set(file, await readFile(path.join(root, file), 'utf8')); }
@@ -39,7 +39,8 @@ export async function build(root = process.cwd(), options = {}) {
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   try {
     const index = await build();
-    console.log(`Built ${Object.values(index.champions).reduce((total, champion) => total + champion.guides, 0)} guides into dist/`);
+    const total = key => Object.values(index.champions).reduce((sum, champion) => sum + (champion[key] ?? 0), 0);
+    console.log(`Built ${total('guides')} guides and ${total('general')} general guides into dist/`);
   } catch (error) {
     console.error(error.message);
     process.exitCode = 1;

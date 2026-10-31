@@ -20,6 +20,7 @@ and installed `node_modules/` are ignored by Git.
 ```text
 guides/Ahri/Zed-mid.md             champion/enemy/lane guide
 enemies/Zed.md                    shared advice against Zed
+general/Ahri-mid.md               general Ahri mid guide, the fallback for any enemy
 authors.yml                      vetted source records
 champions.json                   champion name → numeric id snapshot
 scripts/                         Markdown compiler, validation and refresh
@@ -212,6 +213,19 @@ credentials or a custom port, with one of these exact hosts:
 `www.youtube.com`, `youtu.be`, `reddit.com`, `www.reddit.com`, `old.reddit.com`,
 `lolmatchups.gg`, `www.inven.co.kr`, `talk.op.gg`, `mobalytics.gg`. Vetting remains a maintainer decision; the build
 checks the registry and URL rules, without visiting links.
+
+## General guides
+
+When no matchup guide exists, the app falls back to the champion's general guide
+for that lane. A general guide lives at `general/<Champion>-<lane>.md`, with
+frontmatter `champion`, `lane`, `patch`, `reviewed`, `sources` (no `enemy`,
+`difficulty` or `favoredWhen`). It has the same six sections, three key tips and
+quality bar as a matchup guide. Ability and cooldown references may name only the
+champion. Tips compile with `scope: "champion"`.
+
+General guides compile into the champion file's `general` array, sorted by lane,
+and the index entry gains a `general` count. Both are omitted when a champion has
+no general guide, so a champion with only general guides has `guides: 0`.
 
 ## Validation and output
 

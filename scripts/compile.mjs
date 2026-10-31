@@ -3,6 +3,7 @@ import { parseMarkdown, yaml, fail, SECTION_LABELS } from './markdown.mjs';
 import { fields, plain, patch, ids, sourceUrl, championMap, championId, compileTip, LANES } from './validate.mjs';
 
 const REQUIRED = ['champion', 'enemy', 'lane', 'patch', 'reviewed', 'difficulty', 'favoredWhen', 'sources'];
+const GENERAL_REQUIRED = ['champion', 'lane', 'patch', 'reviewed', 'sources'];
 const MAX_CHAMPION_BYTES = 2_000_000;
 const json = value => `${JSON.stringify(value, null, 2)}\n`;
 
@@ -58,6 +59,7 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
   const champions = championMap(rows);
   const cores = new Map();
   const guideDocuments = [];
+  const generalDocuments = [];
   for (const [file, text] of [...input].sort(([a], [b]) => a.localeCompare(b, 'en'))) {
     if (file.startsWith('enemies/')) {
       const document = parseMarkdown(text, file, { core: true });
@@ -70,29 +72,19 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
       cores.set(enemy, { document, enemyTips });
     } else if (file.startsWith('guides/')) {
       guideDocuments.push({ file, document: parseMarkdown(text, file) });
+    } else if (file.startsWith('general/')) {
+      generalDocuments.push({ file, document: parseMarkdown(text, file) });
     }
   }
-  const groups = new Map();
-  const identities = new Set();
-  for (const { file, document } of guideDocuments) {
-    const { value: meta, at } = document.frontmatter;
-    fields(meta, REQUIRED, [], document.loc);
-    const champion = championId(meta.champion, champions, at('champion'));
-    const enemy = championId(meta.enemy, champions, at('enemy'), 'enemy champion');
+  // Shared by matchup guides and per-lane general guides.
+  const guideBody = (document, meta, at, participants, scope) => {
     if (!LANES.includes(meta.lane)) fail(at('lane'), `lane must be one of ${LANES.join(', ')}`);
-    if (file !== `guides/${meta.champion}/${meta.enemy}-${meta.lane}.md`) fail(document.loc, 'guide file path must match champion/enemy/lane frontmatter');
-    const identity = `${champion}/${enemy}/${meta.lane}`;
-    if (identities.has(identity)) fail(document.loc, 'duplicate champion/enemy/lane guide');
-    identities.add(identity);
     patch(meta.patch, at('patch'));
     if (typeof meta.reviewed !== 'boolean') fail(at('reviewed'), 'reviewed must be a boolean');
-    if (!['Easy', 'Medium', 'Hard', 'Skill matchup'].includes(meta.difficulty)) fail(at('difficulty'), 'invalid difficulty; expected Easy, Medium, Hard or Skill matchup');
-    const participants = [champion, enemy];
-    plain(meta.favoredWhen, at('favoredWhen'), 'favoredWhen', participants);
     const sourceIds = ids(meta.sources, at('sources'), 'guide sources');
     for (const id of sourceIds) if (!authors.has(id)) fail(at('sources'), `source ${id} is not vetted in authors.yml`);
     const sources = new Map(sourceIds.map(id => [id, authors.get(id)]));
-    const context = { champions, sources, participants, scope: 'pair' };
+    const context = { champions, sources, participants, scope };
     for (const [label, id] of [...SECTION_LABELS, ['Key tips', 'keyTips'], ['Itemization', 'itemization']]) {
       if (!document.blocks.has(id)) fail(document.loc, `required section ${label} is missing`);
     }
@@ -100,7 +92,29 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
     if (keyBlock.tips.length !== 3) fail(keyBlock.loc, 'keyTips must contain exactly 3 tips');
     const sections = Object.fromEntries([...SECTION_LABELS.values()].map(id => [id, compileSection(document.blocks.get(id), context)]));
     const qualified = ['early-lane', 'mid-lane', 'win-condition'].filter(id => sections[id].tips.length >= 2);
-    if (qualified.length < 2) fail(document.loc, 'quality bar: at least two phase sections must contain 2 or more pair tips each');
+    if (qualified.length < 2) fail(document.loc, `quality bar: at least two phase sections must contain 2 or more ${scope} tips each`);
+    return {
+      sources,
+      keyTips: keyBlock.tips.map(tip => compileTip(tip, context)),
+      sections,
+      itemization: document.blocks.get('itemization').tips.map(tip => compileTip(tip, context)),
+    };
+  };
+  const groups = new Map();
+  const identities = new Set();
+  for (const { file, document } of guideDocuments) {
+    const { value: meta, at } = document.frontmatter;
+    fields(meta, REQUIRED, [], document.loc);
+    const champion = championId(meta.champion, champions, at('champion'));
+    const enemy = championId(meta.enemy, champions, at('enemy'), 'enemy champion');
+    if (file !== `guides/${meta.champion}/${meta.enemy}-${meta.lane}.md`) fail(document.loc, 'guide file path must match champion/enemy/lane frontmatter');
+    const identity = `${champion}/${enemy}/${meta.lane}`;
+    if (identities.has(identity)) fail(document.loc, 'duplicate champion/enemy/lane guide');
+    identities.add(identity);
+    if (!['Easy', 'Medium', 'Hard', 'Skill matchup'].includes(meta.difficulty)) fail(at('difficulty'), 'invalid difficulty; expected Easy, Medium, Hard or Skill matchup');
+    const participants = [champion, enemy];
+    plain(meta.favoredWhen, at('favoredWhen'), 'favoredWhen', participants);
+    const { sources, keyTips, sections, itemization } = guideBody(document, meta, at, participants, 'pair');
     const enemyTips = cores.get(enemy)?.enemyTips ?? {};
     for (const block of cores.get(enemy)?.document.blocks.values() ?? []) {
       for (const tip of block.tips) {
@@ -112,21 +126,36 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
     const guide = {
       champion, enemy, lane: meta.lane, patch: meta.patch, reviewed: meta.reviewed,
       difficulty: meta.difficulty, favoredWhen: meta.favoredWhen,
-      keyTips: keyBlock.tips.map(tip => compileTip(tip, context)), enemyTips, sections,
-      itemization: document.blocks.get('itemization').tips.map(tip => compileTip(tip, context)),
+      keyTips, enemyTips, sections, itemization,
       sources: [...sources.values()],
     };
-    if (!groups.has(champion)) groups.set(champion, []);
-    groups.get(champion).push({ guide, loc: document.loc });
+    if (!groups.has(champion)) groups.set(champion, { guides: [], general: [] });
+    groups.get(champion).guides.push({ guide, loc: document.loc });
+  }
+  for (const { file, document } of generalDocuments) {
+    const { value: meta, at } = document.frontmatter;
+    fields(meta, GENERAL_REQUIRED, [], document.loc);
+    const champion = championId(meta.champion, champions, at('champion'));
+    if (file !== `general/${meta.champion}-${meta.lane}.md`) fail(document.loc, 'general guide file path must match champion/lane frontmatter');
+    const identity = `${champion}/${meta.lane}`;
+    if (identities.has(identity)) fail(document.loc, 'duplicate champion/lane general guide');
+    identities.add(identity);
+    const { sources, keyTips, sections, itemization } = guideBody(document, meta, at, [champion], 'champion');
+    const guide = { champion, lane: meta.lane, patch: meta.patch, reviewed: meta.reviewed, keyTips, sections, itemization, sources: [...sources.values()] };
+    if (!groups.has(champion)) groups.set(champion, { guides: [], general: [] });
+    groups.get(champion).general.push({ guide, loc: document.loc });
   }
   const index = { schema: 1, generatedAt, champions: {} };
   const files = new Map();
   for (const [champion, entries] of [...groups].sort(([a], [b]) => a - b)) {
-    const guides = entries.map(entry => entry.guide).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
-    const bytes = json({ schema: 1, champion, generatedAt, guides });
-    if (Buffer.byteLength(bytes, 'utf8') > MAX_CHAMPION_BYTES) fail(entries[0].loc, `champion ${champion} file exceeds 2 MB`);
+    const guides = entries.guides.map(entry => entry.guide).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
+    const general = entries.general.map(entry => entry.guide).sort((a, b) => a.lane.localeCompare(b.lane, 'en'));
+    // `general` is omitted when empty so matchup-only files keep their original shape.
+    const bytes = json({ schema: 1, champion, generatedAt, guides, ...general.length && { general } });
+    const loc = (entries.guides[0] ?? entries.general[0]).loc;
+    if (Buffer.byteLength(bytes, 'utf8') > MAX_CHAMPION_BYTES) fail(loc, `champion ${champion} file exceeds 2 MB`);
     files.set(`champions/${champion}.json`, bytes);
-    index.champions[champion] = { sha256: createHash('sha256').update(bytes, 'utf8').digest('hex'), guides: guides.length };
+    index.champions[champion] = { sha256: createHash('sha256').update(bytes, 'utf8').digest('hex'), guides: guides.length, ...general.length && { general: general.length } };
   }
   files.set('index.json', json(index));
   return { index, files };

@@ -260,3 +260,76 @@ test('multiple guides are grouped, counted and hashed per champion', () => {
     assert.equal(entry.sha256, createHash('sha256').update(result.files.get(`champions/${champion}.json`)).digest('hex'));
   }
 });
+
+const generalPath = 'general/Ahri-mid.md';
+const general = () => `---
+champion: Ahri
+lane: mid
+patch: "26.21"
+reviewed: false
+sources: [peng04]
+---
+
+## Key tips
+
+- Push with Q and roam.
+  sources: [peng04]
+  abilities: [Ahri.Q]
+
+- Hold Charm for the engage.
+  sources: [peng04]
+  abilities: [Ahri.E]
+
+- Rush lost chapter.
+  sources: [peng04]
+
+## Overview
+
+## Early lane
+
+- Last-hit with Q.
+  sources: [peng04]
+
+- Trade on cooldowns.
+  sources: [peng04]
+
+## Mid lane
+
+- Shove then move.
+  sources: [peng04]
+
+- Ward river.
+  sources: [peng04]
+
+## Win condition
+
+## Itemization
+`;
+const withGeneral = (text = general(), file = generalPath) => new Map(base).set(file, text);
+
+test('general guides compile into the champion file and index', () => {
+  const result = compile(withGeneral());
+  const champion = JSON.parse(result.files.get('champions/103.json'));
+  assert.equal(champion.guides.length, 1);
+  assert.deepEqual(champion.general.map(guide => [guide.champion, guide.lane]), [[103, 'mid']]);
+  assert.equal(champion.general[0].keyTips[0].scope, 'champion');
+  assert.equal(champion.general[0].enemy, undefined);
+  assert.deepEqual(result.index.champions['103'], {
+    sha256: createHash('sha256').update(result.files.get('champions/103.json')).digest('hex'), guides: 1, general: 1,
+  });
+});
+
+test('a champion with only a general guide gets an entry', () => {
+  const files = withGeneral();
+  files.delete(pilotPath);
+  assert.deepEqual(compile(files).index.champions['103'].guides, 0);
+});
+
+for (const [name, edit, message] of [
+  ['general guide path mismatch', text => text.replace('lane: mid', 'lane: top'), /general guide file path/],
+  ['general guide with an enemy', text => text.replace('lane: mid', 'enemy: Zed\nlane: mid'), /enemy/],
+  ['general guide naming another champion', text => text.replace('abilities: [Ahri.E]', 'abilities: [Zed.R]'), /participant/],
+  ['general guide below the quality bar', text => text.replace(/## Mid lane[\s\S]*?## Win condition/u, '## Mid lane\n\n## Win condition'), /quality bar/],
+]) {
+  test(`rejects ${name}`, () => reject(withGeneral(edit(general())), message, generalPath));
+}
