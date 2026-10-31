@@ -273,3 +273,48 @@
   rankClaim: Emerald (badge, no title claim) · Pantheon main
   url: https://www.mobafire.com/league-of-legends/build/pantheons-what-to-do-list-for-top-lane-26-7-634392
   kind: mobafire
+- id: paul231
+  author: Paul231
+  rankClaim: Master (lolmatchups account tier, Riot-linked Paul231#NA1) · Akali main
+  url: https://lolmatchups.gg/Akali/matchups?lane=TOP
+  kind: web
+- id: zacheryzztop
+  author: ZacheryZZTOP
+  rankClaim: Grandmaster (lolmatchups account tier, Riot-linked ZacheryZZTOP#TOP) · Yone main
+  url: https://lolmatchups.gg/Yone/matchups?lane=TOP
+  kind: web
+- id: godkingaatrox
+  author: GodKingAatrox
+  rankClaim: Master (lolmatchups account tier, Riot-linked GodKingAatrox#NA1) · Aatrox main
+  url: https://lolmatchups.gg/tips/Aatrox-Yone?languageCode=en
+  kind: web
+- id: naayil
+  author: Naayil
+  rankClaim: Challenger (video description tag) · Aatrox main
+  url: https://www.youtube.com/watch?v=DN_GEYD6YEM&t=141s
+  kind: youtube
+- id: federals1-garen
+  author: Federals1
+  rankClaim: Challenger (self-stated 900 LP+ each season since 2018; EUW Challenger) · Garen main
+  url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-garen-top-guide-642197
+  kind: mobafire
+- id: yshuro13-web
+  author: Yshuro13
+  rankClaim: Grandmaster (lolmatchups, Yshuro13 #EUW) · Garen main
+  url: https://lolmatchups.gg/Garen/matchups?lane=TOP
+  kind: web
+- id: sharphandjoe
+  author: SharpHandJoe
+  rankClaim: Master (lolmatchups, SharpHandJoe #camel) · Camille main
+  url: https://lolmatchups.gg/Camille/matchups?lane=TOP
+  kind: web
+- id: wizbe
+  author: Wizbe
+  rankClaim: Grandmaster (lolmatchups, Wizbe #EUW) · Camille main
+  url: https://lolmatchups.gg/Camille/matchups?lane=TOP
+  kind: web
+- id: chaddouk
+  author: Chaddouk
+  rankClaim: Grandmaster (lolmatchups badge) · Tryndamere main
+  url: https://lolmatchups.gg/Tryndamere/matchups
+  kind: web
