@@ -323,3 +323,28 @@
   rankClaim: Grandmaster (video claims grandmaster-or-challenger on any server; modest reading) · Soraka main
   url: https://www.youtube.com/watch?v=-Zyqp_NxBHA
   kind: youtube
+- id: temoonlyifok
+  author: TemoOnlyIfOK
+  rankClaim: Diamond (profile badge; no title claim) Teemo main
+  url: https://www.mobafire.com/league-of-legends/build/a-different-type-of-teemo-vibes-based-wip-650397
+  kind: mobafire
+- id: trickybam
+  author: TrickyBAM
+  rankClaim: Diamond (profile badge; no title claim) Teemo main
+  url: https://www.mobafire.com/league-of-legends/build/teemo-top-dark-harvest-ap-shrooms-patch-26-17-526194
+  kind: mobafire
+- id: manco1
+  author: Manco1
+  rankClaim: Challenger (lolmatchups account tier, Riot-linked Manco1#NA1) Teemo main
+  url: https://lolmatchups.gg/Teemo/matchups?lane=TOP
+  kind: web
+- id: persimannon
+  author: Persimannon
+  rankClaim: Diamond (self-stated post title) Aatrox main
+  url: https://www.reddit.com/r/AatroxMains/comments/1x5etj3/mid_diamond_thoughts_on_aatrox_matchups/
+  kind: web
+- id: xsagi
+  author: xSagi
+  rankClaim: Diamond (title; no badge shown) Akali OTP
+  url: https://www.mobafire.com/league-of-legends/build/27-03-euw-diamond-akali-otp-582552
+  kind: mobafire
