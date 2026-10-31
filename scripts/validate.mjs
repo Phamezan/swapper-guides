@@ -1,7 +1,7 @@
 import { fail } from './markdown.mjs';
 
 export const LANES = ['top', 'jungle', 'mid', 'adc', 'support'];
-const HOSTS = new Set(['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be']);
+const HOSTS = new Set(['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be', 'reddit.com', 'www.reddit.com', 'old.reddit.com', 'lolmatchups.gg', 'www.inven.co.kr', 'talk.op.gg', 'mobalytics.gg']);
 
 export function fields(value, required, optional, loc) {
   if (!value || typeof value !== 'object' || Array.isArray(value)) fail(loc, `expected a YAML mapping with required fields: ${required.join(', ')}`);

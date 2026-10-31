@@ -206,10 +206,11 @@ The three pilot records were copied exactly from the app fixture.
 ```
 
 All five fields are required. Ids must be unique lowercase letters/digits with
-optional `_` or `-`. Kinds are `mobafire`, `sheet` or `youtube` (a video; link the timestamp in the URL). URLs require HTTPS without
+optional `_` or `-`. Kinds are `mobafire`, `sheet`, `youtube` (a video; link the timestamp in the URL) or `web` (a written guide or post on another site). URLs require HTTPS without
 credentials or a custom port, with one of these exact hosts:
 `mobafire.com`, `www.mobafire.com`, `docs.google.com`, `youtube.com`,
-`www.youtube.com`, `youtu.be`. Vetting remains a maintainer decision; the build
+`www.youtube.com`, `youtu.be`, `reddit.com`, `www.reddit.com`, `old.reddit.com`,
+`lolmatchups.gg`, `www.inven.co.kr`, `talk.op.gg`, `mobalytics.gg`. Vetting remains a maintainer decision; the build
 checks the registry and URL rules, without visiting links.
 
 ## Validation and output
