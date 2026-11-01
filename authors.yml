@@ -498,3 +498,173 @@
   rankClaim: Challenger (title); none shown
   url: https://www.mobafire.com/league-of-legends/build/season-16-challenger-zaahen-guide-653093
   kind: mobafire
+- id: mobalytics-morgana-support
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/morgana/guide
+  kind: web
+- id: mobalytics-morgana-support-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/morgana/build
+  kind: web
+- id: mobalytics-nasus-top
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/nasus/guide
+  kind: web
+- id: mobalytics-nasus-top-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/nasus/build
+  kind: web
+- id: mobalytics-ornn-top
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/ornn/guide
+  kind: web
+- id: mobalytics-ornn-top-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/ornn/build
+  kind: web
+- id: mobalytics-pantheon-support
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/pantheon/guide/support
+  kind: web
+- id: mobalytics-pantheon-support-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/pantheon/build/support
+  kind: web
+- id: mobalytics-pantheon-top
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/pantheon/guide
+  kind: web
+- id: mobalytics-pantheon-top-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/pantheon/build
+  kind: web
+- id: mobalytics-pyke-support
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/pyke/guide
+  kind: web
+- id: mobalytics-pyke-support-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/pyke/build
+  kind: web
+- id: mobalytics-rell-support
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/rell/guide
+  kind: web
+- id: mobalytics-rell-support-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/rell/build
+  kind: web
+- id: lathyrus
+  author: Lathyrus
+  rankClaim: Challenger (title claim); Grandmaster (profile badge)
+  url: https://www.mobafire.com/league-of-legends/build/lathyrus-15-18-challenger-renata-support-609588
+  kind: mobafire
+- id: scottysseus
+  author: Scottysseus
+  rankClaim: No rank claim
+  url: https://www.mobafire.com/league-of-legends/build/how-to-climb-as-sera-support-a-kill-stealers-guide-to-iron-639007
+  kind: mobafire
+- id: darkoey
+  author: Darkoey
+  rankClaim: No rank claim
+  url: https://www.mobafire.com/league-of-legends/build/thebausffs-sion-build-for-season-15-636728
+  kind: mobafire
+- id: kaziz
+  author: Kaziz
+  rankClaim: Emerald (profile badge; no title claim)
+  url: https://www.mobafire.com/league-of-legends/build/swain-support-guide-25-23-632823
+  kind: mobafire
+- id: luffrey
+  author: luffrey
+  rankClaim: No rank claim
+  url: https://www.mobafire.com/league-of-legends/build/tahm-kench-support-best-guide-652866
+  kind: mobafire
+- id: mobalytics-tryndamere-top
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/tryndamere/guide
+  kind: web
+- id: mobalytics-tryndamere-top-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/tryndamere/build
+  kind: web
+- id: mobalytics-veigar-adc
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/veigar/guide/adc
+  kind: web
+- id: mobalytics-veigar-adc-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/veigar/build/adc
+  kind: web
+- id: mobalytics-veigar-mid
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/veigar/guide
+  kind: web
+- id: mobalytics-veigar-mid-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/veigar/build
+  kind: web
+- id: mobalytics-velkoz-mid
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/velkoz/guide/mid
+  kind: web
+- id: mobalytics-velkoz-mid-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/velkoz/build/mid
+  kind: web
+- id: mobalytics-velkoz-support
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/velkoz/guide/support
+  kind: web
+- id: mobalytics-velkoz-support-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/velkoz/build/support
+  kind: web
+- id: izianni
+  author: iZianni
+  rankClaim: No rank claim
+  url: https://www.mobafire.com/league-of-legends/build/ziannis-vex-guide-603903
+  kind: mobafire
+- id: mobalytics-volibear-top
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/volibear/guide/top
+  kind: web
+- id: mobalytics-volibear-top-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/volibear/build/top
+  kind: web
+- id: mobalytics-xerath-support
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/xerath/guide/support
+  kind: web
+- id: mobalytics-xerath-support-build
+  author: Mobalytics
+  rankClaim: No rank claim
+  url: https://mobalytics.gg/lol/champions/xerath/build/support
+  kind: web
