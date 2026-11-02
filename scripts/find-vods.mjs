@@ -12,6 +12,18 @@ const RANK = /\b(?:rank 1|challenger|grandmaster|master|diamond)\b/i;
 // Channels that upload other people's games; their name is not the player.
 const REPLAY_CHANNEL = /replay|challenger|grandmaster|otp|mid[-.]gg|\bpro\b|highlight/i;
 const LANE_WORD = /^(?:top|jungle|jg|mid|middle|adc|bot|support|sup)$/i;
+// Moment kinds stated outright by a chapter title; anything vaguer ("catches", "outplays") gets no kind.
+const KIND_WORDS = [
+  ['baron', /\b(?:baron|nashor)\b/i], ['herald', /\bherald\b/i], ['grubs', /\b(?:void ?)?grubs\b/i],
+  ['dragon', /\b(?:dragon|drake)s?\b/i], ['tower', /\b(?:tower|turret)s?\b/i], ['teamfight', /\bteam ?fights?\b|\bace\b/i],
+  ['kill', /\b(?:first blood|kills?)\b/i], ['trade', /\btrades?\b/i], ['roam', /\broam(?:s|ing)?\b/i],
+];
+
+export function momentKind(label, champion) {
+  const name = champion.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&');
+  if (new RegExp(`\\b${name}\\s+(?:dies|died|is killed|gets killed)\\b`, 'iu').test(label)) return 'death';
+  return KIND_WORDS.find(([, words]) => words.test(label))?.[0];
+}
 
 const clock = sec => {
   const h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s = String(Math.floor(sec % 60)).padStart(2, '0');
@@ -32,7 +44,8 @@ export function draftVod(info, champion, enemy) {
   const end = (info.chapters ?? []).map(c => c.title.trim().toLowerCase());
   const result = end.includes('victory') ? 'W' : end.includes('defeat') ? 'L' : '?';
   const moments = (info.chapters ?? []).filter(c => c.start_time > 0 && c.start_time < info.duration)
-    .map(c => `    - at: "${clock(c.start_time)}"\n      label: ${JSON.stringify(c.title)}\n`).join('');
+    .map(c => `    - at: "${clock(c.start_time)}"\n      label: ${JSON.stringify(c.title)}\n`
+      + (momentKind(c.title, champion) ? `      kind: ${momentKind(c.title, champion)}\n` : '')).join('');
   const date = info.upload_date.replace(/(\d{4})(\d\d)(\d\d)/u, '$1-$2-$3');
   return `# ${title} | ${info.channel}, uploaded ${date}\n# https://www.youtube.com/watch?v=${info.id}\n`
     + `- videoId: ${JSON.stringify(info.id)}\n  title: ${JSON.stringify(title)}\n  player: ${JSON.stringify(player)}\n`
@@ -66,7 +79,7 @@ async function main([champion, enemy, lane, count = '3']) {
   }
   if (!drafts.length) return console.log(`No 2026 VODs of ${champion} vs ${enemy} ${lane} found.`);
   mkdirSync(dirname(file), { recursive: true });
-  writeFileSync(file, `# Draft from find-vods.mjs. Fill every "?" (result, player, rankClaim, patch), add a section to moments\n# where it fits, and delete videos you do not want. The build rejects the file until then.\n\n${drafts.join('\n')}`);
+  writeFileSync(file, `# Draft from find-vods.mjs. Fill every "?" (result, player, rankClaim, patch), add a section to moments\n# where it fits, check each moment kind, and delete videos you do not want. The build rejects the file until then.\n\n${drafts.join('\n')}`);
   console.log(`Wrote ${drafts.length} draft VODs to ${file}`);
 }
 

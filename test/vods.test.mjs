@@ -11,14 +11,14 @@ for (const file of ['authors.yml', 'champions.json', 'guides/Ahri/Zed-mid.md', '
 }
 const generatedAt = '2026-10-27T20:00:00Z';
 const video = { videoId: 'A_b-cD12345', title: 'Hold Charm.', player: 'Test player', team: 'T1', rankClaim: 'Challenger', patch: '26.21', result: 'W', durationSec: 4000,
-  moments: [{ at: '3:04', label: 'Trading window', section: 'early-lane' }, { at: '1:02:03', label: 'Final fight' }] };
+  moments: [{ at: '3:04', label: 'Trading window', section: 'early-lane', kind: 'trade' }, { at: '1:02:03', label: 'Final fight' }] };
 const file = 'vods/Ahri/Zed-mid.yml';
 const compile = (videos = [video], name = file) => compileContent(new Map([...base, [name, JSON.stringify(videos)]]), { generatedAt });
 
 test('VODs compile beside guides with timestamps converted and a matchup count', () => {
   const result = compile();
   const champion = JSON.parse(result.files.get('champions/103.json'));
-  assert.deepEqual(champion.vods, [{ enemy: 238, lane: 'mid', videos: [{ ...video, moments: [{ atSec: 184, label: 'Trading window', section: 'early-lane' }, { atSec: 3723, label: 'Final fight' }] }] }]);
+  assert.deepEqual(champion.vods, [{ enemy: 238, lane: 'mid', videos: [{ ...video, moments: [{ atSec: 184, label: 'Trading window', section: 'early-lane', kind: 'trade' }, { atSec: 3723, label: 'Final fight' }] }] }]);
   assert.equal(result.index.champions[103].vods, 1);
   const before = compileContent(base, { generatedAt });
   const empty = compile([]);
@@ -46,6 +46,7 @@ test('invalid VOD fields, moments and paths fail with source locations', () => {
     { moments: [{ at: '1:06:40', label: 'At end' }] }, { moments: [{ at: '-1:00', label: 'Bad' }] },
     { moments: [{ at: '0:01', label: '', section: 'overview' }] }, { moments: [{ at: '0:01', label: 'Bad', section: 'build' }] },
     { moments: null }, { moments: [{ atSec: 1, label: 'Bad' }] },
+    { moments: [{ at: '0:01', label: 'Bad', kind: 'ward' }] }, { moments: [{ at: '0:01', label: 'Bad', kind: 'Kill' }] }, { moments: [{ at: '0:01', label: 'Bad', kind: 1 }] },
   ]) assert.throws(() => compile([{ ...video, ...change }]), /vods\/Ahri\/Zed-mid\.yml:\d+:/, JSON.stringify(change));
   assert.throws(() => compile({}), /must be an array/);
   assert.throws(() => compile([video, video]), /duplicate/);

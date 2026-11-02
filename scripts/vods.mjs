@@ -1,6 +1,9 @@
 import { yaml, fail, SECTION_LABELS } from './markdown.mjs';
 import { fields, plain, patch, championId, LANES } from './validate.mjs';
 
+// Mirrored by the app's MomentKind (src-tauri guides model and matchupGuide.ts).
+export const MOMENT_KINDS = ['kill', 'death', 'teamfight', 'dragon', 'baron', 'herald', 'grubs', 'tower', 'trade', 'roam', 'other'];
+
 export function compileVods(text, file, champions) {
   const loc = { file, line: 1 };
   const match = /^vods\/([^/]+)\/([^/]+)-(top|jungle|mid|adc|support)\.yml$/u.exec(file);
@@ -22,13 +25,14 @@ export function compileVods(text, file, champions) {
     if (!Number.isSafeInteger(video.durationSec) || video.durationSec <= 0) fail(at, 'durationSec must be a positive integer');
     if (Object.hasOwn(video, 'moments') && !Array.isArray(video.moments)) fail(at, 'moments must be an array');
     const moments = (video.moments ?? []).map(moment => {
-      fields(moment, ['at', 'label'], ['section'], at);
+      fields(moment, ['at', 'label'], ['section', 'kind'], at);
       if (typeof moment.at !== 'string' || !/^(?:\d+:[0-5]\d|\d+:[0-5]\d:[0-5]\d)$/u.test(moment.at)) fail(at, 'moment at must be m:ss or h:mm:ss');
       const atSec = moment.at.split(':').reduce((total, part) => total * 60 + Number(part), 0);
       if (!Number.isSafeInteger(atSec) || atSec >= video.durationSec) fail(at, 'moment must be before durationSec');
       plain(moment.label, at, 'moment label');
       if (Object.hasOwn(moment, 'section') && ![...SECTION_LABELS.values()].includes(moment.section)) fail(at, 'unknown moment section');
-      return { atSec, label: moment.label, ...moment.section && { section: moment.section } };
+      if (Object.hasOwn(moment, 'kind') && !MOMENT_KINDS.includes(moment.kind)) fail(at, `moment kind must be one of ${MOMENT_KINDS.join(', ')}`);
+      return { atSec, label: moment.label, ...moment.section && { section: moment.section }, ...moment.kind && { kind: moment.kind } };
     });
     return { ...video, moments };
   });
