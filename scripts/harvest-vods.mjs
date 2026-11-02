@@ -16,6 +16,10 @@ const laneName = name => ({ middle: 'mid', jg: 'jungle', bot: 'adc', sup: 'suppo
 const LANE = '(top|jungle|jg|mid|middle|adc|bot|support|sup)';
 const safe = text => { try { plain(text, loc, 'metadata'); return true; } catch { return false; } };
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+// Chapters that mark the video's structure, not a moment in the game.
+const NOT_A_MOMENT = /^(?:game\s*start|gameplay|ban\s*(?:&|and)\s*picks?|picks?\s*(?:&|and)\s*bans?|loading(?:\s*screen)?|intro|outro|victory|defeat)$/iu;
+// Unavailable videos and videos whose uploader disabled embedding cannot play in the app.
+const playable = info => !info?.unavailable && info?.embeddable !== false;
 
 export function championAliases(champions) {
   const aliases = new Map(champions.map(({ name }) => [normalize(name), name]));
@@ -87,14 +91,16 @@ export function selectVideos(rows) {
 }
 
 export function videoDetails(row, info) {
+  const day = /^(\d{4})(\d{2})(\d{2})$/u.exec(info.uploadDate ?? '');
   const video = { videoId: row.id, title: row.title, rankClaim: row.rankClaim, patch: row.patch, durationSec: row.durationSec,
-    ...row.player && { player: row.player }, ...row.team && { team: row.team } };
+    ...row.player && { player: row.player }, ...row.team && { team: row.team }, ...day && { uploaded: `${day[1]}-${day[2]}-${day[3]}` } };
   const moments = [];
   const results = new Set();
   for (const chapter of info.chapters ?? []) {
     const at = Math.floor(chapter.start_time), label = typeof chapter.title === 'string' ? chapter.title.trim() : undefined;
     if (!Number.isFinite(at) || at < 0 || at >= row.durationSec || !safe(label)) continue;
     if (/^(victory|defeat)$/iu.test(label)) results.add(/^victory$/iu.test(label) ? 'W' : 'L');
+    if (NOT_A_MOMENT.test(label)) continue;
     const kind = momentKind(label, row.champion);
     moments.push({ at: `${Math.floor(at / 60)}:${String(at % 60).padStart(2, '0')}`, label, ...kind && { kind } });
   }
@@ -243,7 +249,7 @@ export async function writeGenerated(root, rows, details) {
   const groups = new Map();
   for (const row of rows) {
     const info = details[row.id] ?? {};
-    if (info.unavailable) continue;
+    if (!playable(info)) continue;
     const file = `${row.champion}/${row.enemy}-${row.lane}.yml`;
     if (!groups.has(file)) groups.set(file, []);
     groups.get(file).push(videoDetails(row, info));
@@ -300,7 +306,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
       const facts = parseTitle(row.title, approved.get(row.channel), aliases);
       if (facts) parsed.push({ ...row, ...facts, ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
     }
-    selected = selectVideos(parsed.filter(row => !details[row.id]?.unavailable));
+    selected = selectVideos(parsed.filter(row => playable(details[row.id])));
     // Publish every eligible video before starting a potentially long detail pass.
     if (!stopped && !cachedOnly) await writeGenerated(root, selected, details);
     const pending = selected.filter(row => !details[row.id]);
@@ -311,7 +317,8 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
       for (const row of pending) {
         try {
           const info = await client.get(['-J', `https://www.youtube.com/watch?v=${row.id}`]);
-          details[row.id] = { ...(info.upload_date && { uploadDate: info.upload_date }), chapters: info.chapters ?? [] };
+          details[row.id] = { ...(info.upload_date && { uploadDate: info.upload_date }),
+            ...(typeof info.playable_in_embed === 'boolean' && { embeddable: info.playable_in_embed }), chapters: info.chapters ?? [] };
           await atomicWrite(path.join(root, 'vods/cache/details.json'), `${JSON.stringify(details, null, 2)}\n`);
         } catch (error) {
           if (!(error instanceof YouTubeStop) && !(error instanceof HarvestStop) && /video unavailable|video is (?:private|not available)|has been removed|members.only|not available in your country/iu.test(error.message)) {
@@ -328,7 +335,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
     }
   }
   // Re-sort with exact dates for cached details, retaining videos still awaiting details.
-  const ready = selectVideos(parsed.filter(row => !details[row.id]?.unavailable).map(row => ({ ...row,
+  const ready = selectVideos(parsed.filter(row => playable(details[row.id])).map(row => ({ ...row,
     ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) })));
   const output = discovery.length ? [] : await writeGenerated(root, ready, details);
   const report = { mode: discovery.length ? 'discover' : cachedOnly ? 'cached' : 'harvest',

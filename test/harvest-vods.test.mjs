@@ -67,9 +67,20 @@ test('drops unsafe chapters individually, infers kinds and leaves unknown result
   const video = videoDetails(row, { chapters: [{ start_time: 10, title: '<b>bad</b>' }, { start_time: 20, title: 'Ahri dies' },
     { start_time: 999, title: 'Victory' }, { start_time: 1000, title: 'Past end' }] });
   assert.equal(video.result, 'W');
-  assert.deepEqual(video.moments, [{ at: '0:20', label: 'Ahri dies', kind: 'death' }, { at: '16:39', label: 'Victory' }]);
+  assert.deepEqual(video.moments, [{ at: '0:20', label: 'Ahri dies', kind: 'death' }], 'Victory sets the result but is not a moment');
   assert.equal(Object.hasOwn(videoDetails(row, {}), 'result'), false);
   assert.equal(Object.hasOwn(video, 'player'), false);
+});
+
+test('skips structural chapters and publishes the upload day', () => {
+  const row = { id: 'abcdefghijk', title: 'Ahri Mid vs Zed', champion: 'Ahri', rankClaim: 'Master', patch: '26.21', durationSec: 1000 };
+  const chapters = ['Game Start', 'Gameplay', 'Ban & Pick', 'Picks and Bans', 'Loading Screen', 'Intro', 'Defeat', 'Ahri takes down Zed', 'Team FIGHT']
+    .map((title, i) => ({ start_time: i * 10, title }));
+  const video = videoDetails(row, { uploadDate: '20260825', chapters });
+  assert.deepEqual(video.moments.map(m => m.label), ['Ahri takes down Zed', 'Team FIGHT']);
+  assert.equal(video.result, 'L');
+  assert.equal(video.uploaded, '2026-08-25');
+  assert.equal(Object.hasOwn(videoDetails(row, { uploadDate: 'soon' }), 'uploaded'), false);
 });
 
 test('extracts POV player/team without attributing an opponent or channel', () => {
@@ -218,6 +229,22 @@ test('unavailable videos are cached and do not block other selected details or g
     assert.equal((await harvest(root, { client })).written, 1);
     assert.equal(detailRequests, 2);
     assert.equal(JSON.parse(await readFile(path.join(root, 'vods/cache/details.json'), 'utf8')).abcdefghijk.unavailable, true);
+  });
+});
+
+test('videos with embedding disabled are recorded and left out of the generated files', async () => {
+  await temporaryRoot(async root => {
+    const client = { async get(args, onEntry) {
+      if (onEntry) {
+        for (const id of ['abcdefghijk', 'newvideo001']) if (onEntry(listing(id)) === false) break;
+        return {};
+      }
+      return { chapters: [], playable_in_embed: !args.at(-1).endsWith('abcdefghijk') };
+    } };
+    assert.equal((await harvest(root, { client })).written, 1);
+    const cached = JSON.parse(await readFile(path.join(root, 'vods/cache/details.json'), 'utf8'));
+    assert.equal(cached.abcdefghijk.embeddable, false);
+    assert.equal(cached.newvideo001.embeddable, true);
   });
 });
 

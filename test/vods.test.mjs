@@ -41,7 +41,7 @@ test('VOD-only champions compile and matchups sort by enemy then lane', () => {
 test('invalid VOD fields, moments and paths fail with source locations', () => {
   for (const change of [
     { videoId: '../bad' }, { title: '<b>bad</b>' }, { player: '' }, { team: '**T1**' }, { rankClaim: '[rank](https://bad)' },
-    { patch: 26.21 }, { patch: 'current' }, { result: 'win' }, { durationSec: 0 }, { durationSec: 1.5 }, { fixture: true },
+    { patch: 26.21 }, { patch: 'current' }, { result: 'win' }, { durationSec: 0 }, { durationSec: 1.5 }, { fixture: true }, { uploaded: '2026-13-01' }, { uploaded: 20260825 },
     { moments: [{ at: '66:60', label: 'Bad' }] }, { moments: [{ at: '1:2', label: 'Bad' }] },
     { moments: [{ at: '1:06:40', label: 'At end' }] }, { moments: [{ at: '-1:00', label: 'Bad' }] },
     { moments: [{ at: '0:01', label: '', section: 'overview' }] }, { moments: [{ at: '0:01', label: 'Bad', section: 'build' }] },

@@ -15,7 +15,7 @@ export function compileVods(text, file, champions) {
   const seen = new Set();
   const videos = document.value.map((video, i) => {
     const at = document.at(i);
-    fields(video, ['videoId', 'title', 'rankClaim', 'patch', 'durationSec'], ['player', 'result', 'team', 'moments'], at);
+    fields(video, ['videoId', 'title', 'rankClaim', 'patch', 'durationSec'], ['player', 'result', 'team', 'uploaded', 'moments'], at);
     if (typeof video.videoId !== 'string' || !/^[A-Za-z0-9_-]{11}$/u.test(video.videoId)) fail(at, 'videoId must be an 11-character YouTube id');
     if (seen.has(video.videoId)) fail(at, 'duplicate videoId');
     seen.add(video.videoId);
@@ -23,6 +23,7 @@ export function compileVods(text, file, champions) {
     patch(video.patch, at);
     if (Object.hasOwn(video, 'result') && !['W', 'L'].includes(video.result)) fail(at, 'result must be W or L');
     if (!Number.isSafeInteger(video.durationSec) || video.durationSec <= 0) fail(at, 'durationSec must be a positive integer');
+    if (Object.hasOwn(video, 'uploaded') && (typeof video.uploaded !== 'string' || !/^2\d{3}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])$/u.test(video.uploaded))) fail(at, 'uploaded must be YYYY-MM-DD');
     if (Object.hasOwn(video, 'moments') && !Array.isArray(video.moments)) fail(at, 'moments must be an array');
     const moments = (video.moments ?? []).map(moment => {
       fields(moment, ['at', 'label'], ['section', 'kind'], at);
