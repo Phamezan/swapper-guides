@@ -44,7 +44,7 @@ test('normalizes season patches without treating old calendar patches as current
 
 test('maps aliases to snapshot display names', () => {
   for (const [input, expected] of [['kaisa', "Kai'Sa"], ['monkeyking', 'Wukong'], ['nunu', 'Nunu & Willump'],
-    ['jarvaniv', 'Jarvan IV'], ['renata', 'Renata Glasc'], ['drmundo', 'Dr. Mundo']]) assert.equal(aliases.get(input), expected);
+    ['chogatch', "Cho'Gath"], ['ireli', 'Irelia'], ['hercarim', 'Hecarim'], ['fiddlestick', 'Fiddlesticks'], ['xinzhao', 'Xin Zhao'], ['vaus', 'Varus'], ['jarvaniv', 'Jarvan IV'], ['renata', 'Renata Glasc'], ['drmundo', 'Dr. Mundo']]) assert.equal(aliases.get(input), expected);
 });
 
 test('keeps every video and sorts newest patch then newest upload across champions', () => {
@@ -392,4 +392,73 @@ test('manual cancellation kills only the active downloader tree and prevents lat
     await assert.rejects(client.get(['-J', 'https://www.youtube.com/watch?v=newvideo001']), HarvestStop);
     assert.equal(invocations, 1);
   } finally { stub.mock.restore(); syncBuiltinESMExports(); }
+});
+
+import { derivePatchCalendar, estimatePatch, readChannels } from '../scripts/harvest-vods.mjs';
+test('calendar ignores isolated early and late reuploads and excludes unapproved evidence', () => {
+  const c = { id: 'one', approved: true, patchStyle: 'calendar' };
+  const row = (patch, uploadDate, channel = 'one') => ({ title: `Patch ${patch}`, uploadDate, channel });
+  const rows = [row('26.20', '20260101'), ...['20261012', '20261013', '20261014', '20261102'].map(d => row('26.20', d)),
+    ...['20261023', '20261024', '20261025'].map(d => row('26.21', d)), row('26.22', '20261026', 'unapproved')];
+  const calendar = derivePatchCalendar(rows, [c]);
+  assert.deepEqual(calendar, [{ patch: '26.20', start: '20261012' }, { patch: '26.21', start: '20261023' }]);
+  assert.deepEqual(derivePatchCalendar([...rows].reverse(), [c]), calendar);
+  for (const date of [undefined, '20260101', '20260230', 'bad']) assert.equal(estimatePatch(date, calendar), null);
+  assert.equal(estimatePatch('20261022', calendar), '26.20');
+  assert.equal(estimatePatch('20261023', calendar), '26.21');
+  assert.equal(estimatePatch('20261108', calendar), '26.21', 'sixteen days into a patch is still estimated');
+  assert.equal(estimatePatch('20261109', calendar), null, 'past one patch cycle the next patch may have started unseen');
+  const shared = [{ patch: '26.1', start: '20260202' }, { patch: '26.2', start: '20260202' }, { patch: '26.3', start: '20260216' }];
+  assert.equal(estimatePatch('20260205', shared), null, 'approximate dates that start two patches together give no estimate');
+  assert.equal(estimatePatch('20260217', shared), '26.3');
+});
+test('real Korean pro tags preserve team, player, lane, region and strict rank', () => {
+  const c = { style: 'korean-pro', patchStyle: 'calendar' };
+  for (const [title, team, player] of [
+    ['Ashe vs Tristana ADC [ Gen.G Ruler ] Ranked Master NA | Patch 26.21', 'Gen.G', 'Ruler'],
+    ['T1 Faker Leblanc vs Syndra [ MID ] Korea Challenger 2210 LP | Patch 26.20', 'T1', 'Faker'],
+    ['Deft Zeri vs Xayah [ ADC ] Korea Challenger 1935 LP | Patch 26.20 ✅', undefined, 'Deft'],
+  ]) { const p = parseTitle(title, c, aliases); assert.equal(p.team, team); assert.equal(p.player, player); assert.ok(p.region); }
+  assert.equal(parseTitle('T1 Faker Leblanc vs Lissandra [ MID ] Patch 26.21 Ranked NA', c, aliases), null);
+  assert.equal(parseTitle('Ahri vs Zed ADC [ Solo Player ] Ranked Master NA | Patch 26.21', c, aliases).team, undefined);
+  assert.equal(parseTitle('Ahri vs Zed ADC [ Al Player ] Ranked Master NA | Patch 26.21', c, aliases).team, undefined, 'team tags are case-sensitive');
+  assert.equal(parseTitle('Ahri vs Zed ADC [ T1 Faker ] Ranked Challengerr NA | Patch 26.21', c, aliases).rankClaim, 'Challenger');
+});
+test('real patchless MID-GG and OTP titles require opt-in and date; explicit patches always win', () => {
+  const calendar = [{ patch: '26.21', start: '20261023' }];
+  for (const [style, title, player] of [
+    ['midgg', 'MID.GG: [ Caedrel ] Ahri MID vs Syndra | EUW MASTER | LOL Season 2026', 'Caedrel'],
+    ['otp', 'Riven vs Zed 19/3/5 (Mid) | EUW Challenger | Riven OTP Replay', undefined],
+  ]) {
+    const c = { style, patchStyle: 'calendar', estimatePatch: true };
+    const p = parseTitle(title, c, aliases, '20261025', calendar);
+    assert.equal(p.patch, '26.21'); assert.equal(p.patchEstimated, true); assert.equal(p.player, player);
+    assert.equal(videoDetails({ ...p, id: 'abcdefghijk', title, durationSec: 1200 }, {}).patchEstimated, true);
+    assert.equal(parseTitle(title, { ...c, estimatePatch: false }, aliases, '20261025', calendar), null);
+    assert.equal(parseTitle(title, c, aliases, undefined, calendar), null);
+    assert.equal(parseTitle(title, c, aliases, '20260101', calendar), null);
+    const explicit = parseTitle(title + ' | Patch 26.20', c, aliases, '20261025', calendar);
+    assert.equal(explicit.patch, '26.20'); assert.equal(Object.hasOwn(explicit, 'patchEstimated'), false);
+    assert.equal(parseTitle(title + ' | Patch 25.24', c, aliases, '20261025', calendar), null);
+  }
+});
+test('estimated patches are published only from the exact upload day', async () => {
+  const { writeGenerated } = await import('../scripts/harvest-vods.mjs');
+  const calendar = [{ patch: '26.20', start: '20261008' }, { patch: '26.21', start: '20261022' }];
+  const row = id => ({ id, title: 'MID.GG: [ Caedrel ] Ahri MID vs Syndra | EUW MASTER | LOL Season 2026', champion: 'Ahri', enemy: 'Syndra',
+    lane: 'mid', rankClaim: 'Master', patch: '26.20', patchEstimated: true, player: 'Caedrel', durationSec: 1200 });
+  const root = await mkdtemp(path.join(process.cwd(), '.harvest-test-'));
+  try {
+    const details = { exactDay001: { uploadDate: '20261023', chapters: [] }, noDetails01: undefined, staleDay001: { uploadDate: '20261201', chapters: [] } };
+    const written = await writeGenerated(root, ['exactDay001', 'noDetails01', 'staleDay001'].map(row), details, calendar);
+    assert.deepEqual(written.map(v => [v.videoId, v.patch, v.patchEstimated]), [['exactDay001', '26.21', true]],
+      'the provisional listing guess is replaced; no exact day or a day past one patch cycle publishes nothing');
+  } finally { await rm(root, { recursive: true, force: true }); }
+});
+test('channel estimation flag must be boolean', async () => {
+  const root = await mkdtemp(path.join(process.cwd(), '.harvest-test-'));
+  try { await mkdir(path.join(root, 'vods')); for (const flag of [true, false, 'true', 1, null]) {
+    await writeFile(path.join(root, 'vods/channels.yml'), stringify([{ id: 'UCE0Lc9IJigVbujM51FqkMwg', name: 'MID-GG', style: 'midgg', patchStyle: 'calendar', approved: true, estimatePatch: flag }]));
+    if (typeof flag === 'boolean') await readChannels(root); else await assert.rejects(readChannels(root), /Invalid/);
+  } } finally { await rm(root, { recursive: true, force: true }); }
 });

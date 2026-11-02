@@ -12,6 +12,7 @@
 - id: UCE0Lc9IJigVbujM51FqkMwg
   name: MID-GG Ahri
   style: midgg
+  estimatePatch: true
   patchStyle: calendar
   approved: true
 - id: UCmgtmJxFHtwLPru3JRlki5A
@@ -27,6 +28,7 @@
 - id: UCK1bMiRMCS3b05wbllSSBQQ
   name: League of Legends OTP
   style: otp
+  estimatePatch: true
   patchStyle: calendar
   approved: true
 - id: UCsVz2qkd_oGXGC66fcH4SFA

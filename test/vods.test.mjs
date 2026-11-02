@@ -89,3 +89,11 @@ test('generated and hand-made matchups merge once, hand-made first, independent 
     assert.equal(result.index.champions[103].vods, 1);
   }
 });
+
+test('estimated patch is an optional boolean preserved by compilation', () => {
+  for (const patchEstimated of [true, false]) {
+    const output = compile([{ ...video, patchEstimated }]);
+    assert.equal(JSON.parse(output.files.get('champions/103.json')).vods[0].videos[0].patchEstimated, patchEstimated);
+  }
+  for (const patchEstimated of ['true', 1, null, {}]) assert.throws(() => compile([{ ...video, patchEstimated }]), /patchEstimated must be boolean/);
+});

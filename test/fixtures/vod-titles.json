@@ -127,7 +127,12 @@
   {
     "style": "super-carry",
     "title": "Aatrox vs Camille Top - KR Grandmaster - Patch 16.06 Season 16",
-    "expected": ["Aatrox", "Camille", "top", "26.6"]
+    "expected": [
+      "Aatrox",
+      "Camille",
+      "top",
+      "26.6"
+    ]
   },
   {
     "style": "midgg",
@@ -158,5 +163,115 @@
     "style": "otp",
     "title": "Riven vs Zed 19/3/5 (Mid) | EUW Challenger | Riven OTP Replay",
     "expected": null
+  },
+  {
+    "style": "korean-pro",
+    "title": "Ashe vs Tristana ADC [ Gen.G Ruler ] Ranked Master NA | Patch 26.21",
+    "expected": [
+      "Ashe",
+      "Tristana",
+      "adc",
+      "26.21"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "T1 Peyz Lucian vs Ziggs [ ADC ] Patch 26.21 Ranked Master NA",
+    "expected": [
+      "Lucian",
+      "Ziggs",
+      "adc",
+      "26.21"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "T1 Faker Leblanc vs Syndra [ MID ] Korea Challenger 2210 LP | Patch 26.20",
+    "expected": [
+      "LeBlanc",
+      "Syndra",
+      "mid",
+      "26.20"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "Deft Zeri vs Xayah [ ADC ] Korea Challenger 1935 LP | Patch 26.20 ✅",
+    "expected": [
+      "Zeri",
+      "Xayah",
+      "adc",
+      "26.20"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "HLE Gumayusi Lucian ADC vs Tristana - Patch 26.20 Korea Challenger 2417 LP",
+    "expected": [
+      "Lucian",
+      "Tristana",
+      "adc",
+      "26.20"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "DK Smash Vaus vs Jinx ADC - NA Master - Patch 16.21 Season 16",
+    "expected": [
+      "Varus",
+      "Jinx",
+      "adc",
+      "26.21"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Darius vs ChoGatch Top - KR Master - Patch 16.20 Season 16",
+    "expected": [
+      "Darius",
+      "Cho'Gath",
+      "top",
+      "26.20"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Xinzhao vs Fiddlestick Jungle - KR Challenger - Patch 16.20 Season 16",
+    "expected": [
+      "Xin Zhao",
+      "Fiddlesticks",
+      "jungle",
+      "26.20"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Graves vs Hercarim Jungle - KR Challenger - Patch 16.20 Season 16",
+    "expected": [
+      "Graves",
+      "Hecarim",
+      "jungle",
+      "26.20"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Jayce vs Cho'Gatch Jungle - KR Challenger - Patch 16.20 Season 16",
+    "expected": [
+      "Jayce",
+      "Cho'Gath",
+      "jungle",
+      "26.20"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Camille vs Ireli Top - KR Challenger - Patch 16.20 Season 20",
+    "expected": [
+      "Camille",
+      "Irelia",
+      "top",
+      "26.20"
+    ]
   }
 ]
