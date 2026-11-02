@@ -1,0 +1,17 @@
+{
+  "startedAt": "2026-11-02T11:53:39.356Z",
+  "wallSeconds": 253,
+  "requests": 184,
+  "invocations": 4,
+  "requestCountMethod": "YouTube download diagnostics; corrected to exclude 5192 item progress lines",
+  "listed": 5192,
+  "parsed": 1307,
+  "selected": 981,
+  "written": 0,
+  "matchups": 0,
+  "champions": 0,
+  "withMoments": 0,
+  "withResult": 0,
+  "candidates": [],
+  "stopped": "ERROR: UCmgtmJxFHtwLPru3JRlki5A page 22: Unable to download API page: HTTP Error 500: Internal Server Error (caused by <HTTPError 500: Internal Server Error>)"
+}

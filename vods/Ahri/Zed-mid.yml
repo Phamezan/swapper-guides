@@ -1,0 +1,70 @@
+# Draft from find-vods.mjs. Fill every "?" (result, player, rankClaim, patch), add a section to moments
+# where it fits, and delete videos you do not want. The build rejects the file until then.
+
+# Ahri Mid vs Zed - KR Grandmaster Patch 26.16 | Ahri Challenger Replays, uploaded 2026-08-25
+# https://www.youtube.com/watch?v=WuwvkjlQn5M
+- videoId: "WuwvkjlQn5M"
+  title: "Ahri Mid vs Zed - KR Grandmaster Patch 26.16"
+  player: "?"
+  rankClaim: "Grandmaster"
+  patch: "26.16"
+  result: "W"
+  durationSec: 1447
+  moments:
+    - at: "2:38"
+      label: "First Blood — Ahri kills Diana"
+      kind: kill
+    - at: "2:40"
+      label: "Ahri Double Kill"
+      kind: kill
+    - at: "3:31"
+      label: "Ahri takes down Zed"
+      kind: kill
+    - at: "7:50"
+      label: "Ahri catches Zed again"
+      kind: kill
+    - at: "8:56"
+      label: "Ahri outduels Zed (3rd time)"
+      kind: kill
+    - at: "9:33"
+      label: "Kai'Sa picks off Thresh"
+      kind: kill
+    - at: "10:02"
+      label: "Blue takes 1st Dragon (Hextech)"
+      kind: dragon
+    - at: "12:03"
+      label: "Ahri outplays Zed (4th time)"
+      kind: kill
+    - at: "13:22"
+      label: "Ahri picks off Diana"
+      kind: kill
+    - at: "15:56"
+      label: "Blue takes Rift Herald"
+      kind: herald
+    - at: "16:46"
+      label: "Blue takes 2nd Dragon (Cloud)"
+      kind: dragon
+    - at: "16:53"
+      label: "Kai'Sa Double Kill"
+      kind: kill
+    - at: "21:15"
+      label: "Kai'Sa kills Zed"
+      kind: kill
+    - at: "21:49"
+      label: "Kindred takes down Diana"
+      kind: kill
+    - at: "22:11"
+      label: "Ahri catches Jinx"
+      kind: kill
+    - at: "22:16"
+      label: "Blue takes 3rd Dragon (Chemtech)"
+      kind: dragon
+    - at: "22:42"
+      label: "Ahri solo kills Zed (5th time)"
+      kind: kill
+    - at: "23:42"
+      label: "Ahri kills Jinx"
+      kind: kill
+    - at: "24:02"
+      label: "Victory"
+

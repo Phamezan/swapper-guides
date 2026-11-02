@@ -1,0 +1,71 @@
+# Approval is a maintainer decision. Discovery only appends unapproved candidates.
+- id: UCBT1vkFS4C7GlsjyNfglgrw
+  name: Ahri Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: true
+- id: UCEflCDloIcofvi2GFQOHvPg
+  name: Zed Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: true
+- id: UCE0Lc9IJigVbujM51FqkMwg
+  name: MID-GG Ahri
+  style: midgg
+  patchStyle: calendar
+  approved: true
+- id: UCmgtmJxFHtwLPru3JRlki5A
+  name: Korean Pro Replays
+  style: korean-pro
+  patchStyle: calendar
+  approved: true
+- id: UCejjkETjJXop6MP8eMjYL3g
+  name: Super Carry
+  style: super-carry
+  patchStyle: season
+  approved: true
+- id: UCK1bMiRMCS3b05wbllSSBQQ
+  name: League of Legends OTP
+  style: otp
+  patchStyle: calendar
+  approved: true
+- id: UCsVz2qkd_oGXGC66fcH4SFA
+  name: Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCb7SL0KGuq3Q8m4L9AGbPJA
+  name: Aurora Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCHQbIu4BId5UjXY_qHdD7TA
+  name: Viktor Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCHB-XdZ5B8PmF-JlkpllKJQ
+  name: Challenger Replays Highlights
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCmKloVPOSuc4conaiOdc4Cg
+  name: Jinx Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCUsYTcSq7_7l1qleESlEvYA
+  name: Twitch Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCA7Q5TezlsynU867BZlpgIg
+  name: Aphelios Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false
+- id: UCt9_trgha6JwMbDVaNDACiQ
+  name: Yunara Challenger Replays
+  style: challenger
+  patchStyle: calendar
+  approved: false

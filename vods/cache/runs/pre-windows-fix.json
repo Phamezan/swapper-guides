@@ -1,0 +1,17 @@
+{
+  "startedAt": "2026-11-02T11:59:08.518Z",
+  "wallSeconds": 911,
+  "requests": 657,
+  "invocations": 5,
+  "requestCountMethod": "yt-dlp HTTP download diagnostics (redirects not observable)",
+  "listed": 20665,
+  "parsed": 4294,
+  "selected": 3586,
+  "written": 0,
+  "matchups": 0,
+  "champions": 0,
+  "withMoments": 0,
+  "withResult": 0,
+  "candidates": [],
+  "stopped": "yt-dlp exited 1"
+}

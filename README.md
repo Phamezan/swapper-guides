@@ -227,6 +227,104 @@ General guides compile into the champion file's `general` array, sorted by lane,
 and the index entry gains a `general` count. Both are omitted when a champion has
 no general guide, so a champion with only general guides has `guides: 0`.
 
+## VODs
+
+Add a YAML list at `vods/<Champion>/<Enemy>-<lane>.yml`, using exact display names.
+Each video requires `videoId` (11-character YouTube id), `title`,
+`rankClaim`, quoted `patch` and positive integer `durationSec`.
+`player`, `result` (`W` or `L`), `team` and `moments` are optional;
+omit unknown players and results. Text uses the same plain-text
+validation as guides. A moment has `at` (`m:ss` or `h:mm:ss`, before the end),
+`label`, optional `section` (`overview`, `early-lane`, `mid-lane`, `win-condition`) and optional
+`kind` for the app's timeline icon: `kill`, `death` (the featured player dies), `teamfight`, `dragon`,
+`baron`, `herald`, `grubs`, `tower`, `trade`, `roam` or `other`. A moment without a kind gets a neutral icon.
+
+To start a file, `node scripts/find-vods.mjs <Champion> <Enemy> <lane> [count]` (needs
+`yt-dlp` on PATH) drafts it from YouTube search metadata and chapters. Anything the video
+does not state is written as `"?"`; fill or remove unknown fields and delete incomplete videos before building.
+A moment gets a `kind` only when its chapter title says so ("Dragon", "Rift Herald", "kills",
+"Double Kill"); vaguer titles such as "catches" or "outplays" get none, so add it by hand.
+
+```yaml
+- videoId: A_b-cD12345 # syntax example only; replace with a verified game
+  title: Hold Charm.
+  player: Player name
+  rankClaim: Challenger
+  patch: "26.21"
+  result: W
+  durationSec: 1746
+  moments:
+    - at: "3:04"
+      label: Trading window
+      section: early-lane
+      kind: trade
+```
+
+The champion file gains `vods: [{ enemy, lane, videos }]`, sorted by enemy id
+then lane. Moment times compile to `atSec`; absent moments compile to `[]`.
+The optional index `vods` count counts matchup entries, like the guide count.
+Champions with only VODs are supported. Empty VOD lists add no fields and preserve
+the previous output bytes for the same build timestamp. A real pilot game is
+left to the maintainer; no player claims or key moments have been invented.
+
+### Automatic replay harvest
+
+Run `node scripts/harvest-vods.mjs`, then `node scripts/build.mjs`. It uses
+metadata only from approved channels in `vods/channels.yml`, without an API key.
+On Windows it defaults to the WinGet `yt-dlp.exe` link; elsewhere it uses PATH.
+Set `YTDLP` to override the executable. No dependencies need to be installed.
+
+The six initial channels are approved for maintainer review. To find more, run
+`node scripts/harvest-vods.mjs --discover Ahri Zed Jinx`. Discovery searches only
+those champions and appends candidates with `approved: false`. Review each
+candidate's channel, title style and patch numbering before approving it.
+
+`vods/cache/listings.json` keeps upload IDs, titles, durations, publication dates
+and per-channel completion state; `details.json` keeps video chapters
+and exact upload dates. Keep these JSON files in version control. A completed
+channel stops at the first known ID on reruns; an interrupted first listing
+traverses again to ensure older pages are not lost. Details are fetched once per
+eligible video. Listings use YouTube's approximate publication dates and upload
+ordering; cached details supply exact dates. Cache files and generated
+YAML are replaced atomically. Run one harvester at a time in a checkout.
+Private/removed videos are cached as unavailable and skipped on later runs.
+Other listing failures preserve partial results while other approved channels
+continue; the run reports the failure with a nonzero exit status.
+
+Titles must identify both champions, the lane, a Master/Grandmaster/Challenger
+rank claim and patch 26.1 or later. Season-style patches (16.21) normalize to
+calendar style (26.21) only for configured season-style channels. Older calendar-style
+titles on the same channel (25.x) stay old and are skipped. A season alone does not
+establish a patch, so patchless MID.GG and OTP uploads are skipped.
+Durations must be 10–60 minutes. Every video passing these filters is kept; there
+is no cap per matchup. Videos sort newest patch first, then newest upload.
+Details are fetched for all eligible videos in that same global order. Rerunning
+`node scripts/harvest-vods.mjs` alone resumes missing details and prints the cached
+and remaining counts, progress and seconds per lookup. Ctrl+C stops cleanly and
+keeps completed lookups. A bot check/429 also stops the whole downloader process
+tree. No cookies or proxies are used.
+
+All eligible videos ship immediately, including videos without cached details;
+those have no moments/result yet. To regenerate only from the committed cache,
+without contacting YouTube, run `node scripts/harvest-vods.mjs --cached`, then
+`node scripts/build.mjs`. This is also the way to build a partial detail pass.
+
+Generated files live in `vods-auto/<Champion>/<Enemy>-<lane>.yml` and carry a
+generator marker. Hand-made files under `vods/` are never rewritten. The build
+merges both trees into one enemy/lane entry, hand-made videos first, deduplicated
+by video ID; hand-made data wins duplicates. Champion files are limited to 8 MB
+(8,000,000 UTF-8 bytes).
+Chapters become moments using the existing `find-vods` kind inference. Unsafe
+chapter labels are dropped individually. Only a Victory/Defeat chapter supplies
+a result; unknown players and results are omitted.
+
+The harvester spaces requests with `--sleep-requests 1` and pauses between
+invocations. A YouTube bot check or HTTP 429 stops all fetching, preserves cached
+metadata and prints instructions to wait or pass the check manually. It never
+uses cookies, proxies, browser automation or other sites. Reports under
+`vods/cache/` include coverage, wall time, invocations and HTTP requests observed
+in yt-dlp diagnostics (HTTP redirects are not observable).
+
 ## Validation and output
 
 Every guide must have exactly three key tips. At least two of `Early lane`,
@@ -244,8 +342,9 @@ never emitted. Each champion file has `schema: 1`, `champion`, `generatedAt`,
 
 `dist/index.json` has `schema: 1`, `generatedAt`, and `champions` keyed by numeric
 champion id. Each entry has `sha256` (the exact champion JSON file's bytes,
-including the final newline) and `guides` (count). Only champions with guides
-are listed. All files in a build share one UTC timestamp. Guide order is stable
+including the final newline) and `guides` (count), with optional `general` and
+`vods` counts. Champions with any guides or VODs are listed. All files in a build
+share one UTC timestamp. Guide order is stable
 by enemy id, then lane. Validation finishes before replacing the previous output;
 a successful rebuild removes files for deleted guides.
 

@@ -1,0 +1,73 @@
+{
+  "startedAt": "2026-11-02T11:52:48.705Z",
+  "wallSeconds": 16,
+  "requests": 12,
+  "invocations": 3,
+  "requestCountMethod": "YouTube download diagnostics; corrected to exclude 30 item progress lines",
+  "listed": 500,
+  "parsed": 0,
+  "selected": 0,
+  "written": 0,
+  "matchups": 0,
+  "champions": 0,
+  "withMoments": 0,
+  "withResult": 0,
+  "candidates": [
+    {
+      "id": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "name": "Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCb7SL0KGuq3Q8m4L9AGbPJA",
+      "name": "Aurora Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCHQbIu4BId5UjXY_qHdD7TA",
+      "name": "Viktor Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCHB-XdZ5B8PmF-JlkpllKJQ",
+      "name": "Challenger Replays Highlights",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCmKloVPOSuc4conaiOdc4Cg",
+      "name": "Jinx Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCUsYTcSq7_7l1qleESlEvYA",
+      "name": "Twitch Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCA7Q5TezlsynU867BZlpgIg",
+      "name": "Aphelios Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    },
+    {
+      "id": "UCt9_trgha6JwMbDVaNDACiQ",
+      "name": "Yunara Challenger Replays",
+      "style": "challenger",
+      "patchStyle": "calendar",
+      "approved": false
+    }
+  ]
+}

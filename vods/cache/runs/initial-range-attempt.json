@@ -1,0 +1,9 @@
+{
+  "startedAt": "2026-11-02T11:50:48Z",
+  "requests": null,
+  "requestCountMethod": "Not retained: this preliminary attempt was interrupted before its final report",
+  "completedInvocations": 5,
+  "completedRanges": [100, 200, 300, 400, 500],
+  "cachedUploads": 500,
+  "reason": "Replaced explicit playlist ranges with streaming to avoid requesting earlier pages repeatedly"
+}

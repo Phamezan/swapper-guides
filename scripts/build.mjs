@@ -3,15 +3,15 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { compileContent } from './compile.mjs';
 
-async function markdownFiles(root, relative) {
+async function sourceFiles(root, relative, extension = '.md') {
   let entries;
   try { entries = await readdir(path.join(root, relative), { withFileTypes: true }); }
   catch (error) { if (error.code === 'ENOENT') return []; throw error; }
   const files = [];
   for (const entry of entries) {
     const file = `${relative}/${entry.name}`;
-    if (entry.isDirectory()) files.push(...await markdownFiles(root, file));
-    else if (entry.name.endsWith('.md')) {
+    if (entry.isDirectory()) files.push(...await sourceFiles(root, file, extension));
+    else if (entry.name.endsWith(extension)) {
       if (!entry.isFile()) throw new Error(`${file}:1: source must be a regular file`);
       files.push(file);
     }
@@ -20,7 +20,7 @@ async function markdownFiles(root, relative) {
 }
 
 export async function build(root = process.cwd(), options = {}) {
-  const files = ['authors.yml', 'champions.json', ...await markdownFiles(root, 'guides'), ...await markdownFiles(root, 'enemies'), ...await markdownFiles(root, 'general')];
+  const files = ['authors.yml', 'champions.json', ...await sourceFiles(root, 'guides'), ...await sourceFiles(root, 'enemies'), ...await sourceFiles(root, 'general'), ...await sourceFiles(root, 'vods', '.yml'), ...await sourceFiles(root, 'vods-auto', '.yml')];
   const input = new Map();
   for (const file of files) {
     try { input.set(file, await readFile(path.join(root, file), 'utf8')); }
@@ -40,7 +40,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
   try {
     const index = await build();
     const total = key => Object.values(index.champions).reduce((sum, champion) => sum + (champion[key] ?? 0), 0);
-    console.log(`Built ${total('guides')} guides and ${total('general')} general guides into dist/`);
+    console.log(`Built ${total('guides')} guides, ${total('general')} general guides and ${total('vods')} VOD matchups into dist/`);
   } catch (error) {
     console.error(error.message);
     process.exitCode = 1;

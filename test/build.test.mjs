@@ -195,8 +195,14 @@ test('reports malformed champion JSON', () => {
   reject(change('champions.json', () => '{'), /JSON/, 'champions.json');
 });
 
-test('rejects a champion file larger than 2 MB in UTF-8 bytes', () => {
-  reject(change(pilotPath, text => text.replace('Levels 1–5,', '界'.repeat(700_000))), /2 MB/);
+test('accepts champion files between 2 and 8 MB in UTF-8 bytes', () => {
+  const bytes = compile(change(pilotPath, text => text.replace('Levels 1–5,', '界'.repeat(700_000)))).files.get('champions/103.json');
+  assert.ok(Buffer.byteLength(bytes, 'utf8') > 2_000_000);
+  assert.ok(Buffer.byteLength(bytes, 'utf8') <= 8_000_000);
+});
+
+test('rejects a champion file larger than 8 MB in UTF-8 bytes', () => {
+  reject(change(pilotPath, text => text.replace('Levels 1–5,', '界'.repeat(2_700_000))), /8 MB/);
 });
 
 test('all five lanes compile with matching paths', () => {

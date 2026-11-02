@@ -1,0 +1,162 @@
+[
+  {
+    "style": "challenger",
+    "title": "Ahri Mid vs Aurora - KR Grandmaster Patch 26.21",
+    "expected": [
+      "Ahri",
+      "Aurora",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "(Hydra) Ahri Mid vs Yone (UniqueCORN) - EUW Challenger Patch 26.21",
+    "expected": [
+      "Ahri",
+      "Yone",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "(WBG Xiaohao) Ahri Mid vs Orianna (BFX Raptor) - KR Grandmaster Patch 26.21",
+    "expected": [
+      "Ahri",
+      "Orianna",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "(XOL Infinity) Zed Mid vs Vladimir (Kaizen) - EUW Challenger Patch 26.21",
+    "expected": [
+      "Zed",
+      "Vladimir",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "(BZ) Zed Mid vs Vladimir (Tea) - EUW Challenger Patch 26.21",
+    "expected": [
+      "Zed",
+      "Vladimir",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "(BZ) Zed Mid vs Viktor (NBS Vasco) - EUW Challenger Patch 26.21",
+    "expected": [
+      "Zed",
+      "Viktor",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "T1 Oner Hecarim vs Kai'Sa [ Jungle ] Ranked Master NA | Patch 26.21",
+    "expected": [
+      "Hecarim",
+      "Kai'Sa",
+      "jungle",
+      "26.21"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "T1 Peyz Lucian vs Swain [ ADC ] Ranked Master NA | Patch 26.21",
+    "expected": [
+      "Lucian",
+      "Swain",
+      "adc",
+      "26.21"
+    ]
+  },
+  {
+    "style": "korean-pro",
+    "title": "T1 Faker Yone vs Xerath [ MID ] Ranked Master NA | Patch 26.21",
+    "expected": [
+      "Yone",
+      "Xerath",
+      "mid",
+      "26.21"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Darius vs Fiora Top - KR Master - Patch 16.21 Season 16",
+    "expected": [
+      "Darius",
+      "Fiora",
+      "top",
+      "26.21"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "KC Canna Olaf vs GangPlank Top - NA Master - Patch 16.21 Season 16",
+    "expected": [
+      "Olaf",
+      "Gangplank",
+      "top",
+      "26.21"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Ruler Kalista vs Ezreal ADC - NA Master - Patch 16.21 Season 16",
+    "expected": [
+      "Kalista",
+      "Ezreal",
+      "adc",
+      "26.21"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Aatrox vs Ambessa Top - KR Grandmaster - Patch 25.19 Season 15",
+    "expected": null
+  },
+  {
+    "style": "super-carry",
+    "title": "Aatrox vs Camille Top - KR Grandmaster - Patch 16.06 Season 16",
+    "expected": ["Aatrox", "Camille", "top", "26.6"]
+  },
+  {
+    "style": "midgg",
+    "title": "MID.GG: [ Caedrel ] Ahri MID vs Syndra | EUW MASTER | LOL Season 2026",
+    "expected": null
+  },
+  {
+    "style": "midgg",
+    "title": "MID.GG: [ LegitKorea ] Ahri MID vs Jayce | NA MASTER | LOL Season 2026",
+    "expected": null
+  },
+  {
+    "style": "midgg",
+    "title": "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026",
+    "expected": null
+  },
+  {
+    "style": "otp",
+    "title": "Neeko vs Veigar 9/2/13 (Mid) | EUW Master | Neeko OTP Replay",
+    "expected": null
+  },
+  {
+    "style": "otp",
+    "title": "Garen vs Warwick 10/1/7 (Top) | EUW Master | Garen OTP Replay",
+    "expected": null
+  },
+  {
+    "style": "otp",
+    "title": "Riven vs Zed 19/3/5 (Mid) | EUW Challenger | Riven OTP Replay",
+    "expected": null
+  }
+]
