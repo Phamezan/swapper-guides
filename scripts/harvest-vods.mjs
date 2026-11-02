@@ -52,7 +52,6 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
     : channel.estimatePatch ? estimatePatch(uploadDate, calendar, { provisional: true }) : null;
   if (!patch) return null;
   const rank = /(?:\bRanked\s+|\bKorea\s+|[-|]\s*(?:[A-Z]{2,4}\s+)?)(Challengerr?|Grandmaster|Master)\b/iu.exec(title)?.[1]?.replace(/rr$/iu, 'r');
-  if (!rank) return null;
   let match, champion, enemy, lane, player = {};
   if (channel.style === 'challenger') {
     match = new RegExp(`^(?:\\(([^)]+)\\)\\s*)?(.+?)\\s+${LANE}\\s+vs\\s+(.+?)(?:\\s*\\([^)]*\\))?\\s+-\\s+`, 'iu').exec(title);
@@ -94,8 +93,9 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   }
   enemy = aliases.get(normalize(enemy ?? ''));
   if (!champion || !enemy || Object.values(player).some(value => !safe(value))) return null;
+  if (!rank && !(channel.style === 'korean-pro' && player.team)) return null;
   const region = /\b(KR|NA|EUW|EUNE|Korea)\b/iu.exec(title)?.[1];
-  return { champion, enemy, ...channel.style === 'korean-pro' && region && { region: /^Korea$/iu.test(region) ? 'KR' : region.toUpperCase() }, lane: laneName(lane), rankClaim: rank[0].toUpperCase() + rank.slice(1).toLowerCase(), patch, ...!titledPatch && { patchEstimated: true }, ...player };
+  return { champion, enemy, ...channel.style === 'korean-pro' && region && { region: /^Korea$/iu.test(region) ? 'KR' : region.toUpperCase() }, lane: laneName(lane), rankClaim: rank ? rank[0].toUpperCase() + rank.slice(1).toLowerCase() : 'Master+', patch, ...!titledPatch && { patchEstimated: true }, ...player };
 }
 
 // Require three uploads within three days: isolated mislabeled/re-uploaded games cannot set a boundary.

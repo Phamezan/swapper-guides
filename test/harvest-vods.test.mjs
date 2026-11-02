@@ -419,7 +419,13 @@ test('real Korean pro tags preserve team, player, lane, region and strict rank',
     ['T1 Faker Leblanc vs Syndra [ MID ] Korea Challenger 2210 LP | Patch 26.20', 'T1', 'Faker'],
     ['Deft Zeri vs Xayah [ ADC ] Korea Challenger 1935 LP | Patch 26.20 ✅', undefined, 'Deft'],
   ]) { const p = parseTitle(title, c, aliases); assert.equal(p.team, team); assert.equal(p.player, player); assert.ok(p.region); }
-  assert.equal(parseTitle('T1 Faker Leblanc vs Lissandra [ MID ] Patch 26.21 Ranked NA', c, aliases), null);
+  for (const [title, team, player] of [
+    ['T1 Faker Leblanc vs Lissandra [ MID ] Patch 26.21 Ranked NA', 'T1', 'Faker'],
+    ['BLG Viper Aphelios vs Jinx [ ADC ] Patch 26.1 Ranked Korea', 'BLG', 'Viper'],
+    ['Miss Fortune vs Aphelios ADC [ Gen.G Ruler ] Patch 26.1 Ranked Korea', 'Gen.G', 'Ruler'],
+    ['DK ShowMaker Ekko vs Mel [ MID ] Patch 26.3 Ranked Korea', 'DK', 'ShowMaker'],
+  ]) { const p = parseTitle(title, c, aliases); assert.equal(p.team, team); assert.equal(p.player, player); assert.equal(p.rankClaim, 'Master+'); }
+  assert.equal(parseTitle('Faker Leblanc vs Lissandra [ MID ] Patch 26.21 Ranked NA', c, aliases), null);
   assert.equal(parseTitle('Ahri vs Zed ADC [ Solo Player ] Ranked Master NA | Patch 26.21', c, aliases).team, undefined);
   assert.equal(parseTitle('Ahri vs Zed ADC [ Al Player ] Ranked Master NA | Patch 26.21', c, aliases).team, undefined, 'team tags are case-sensitive');
   assert.equal(parseTitle('Ahri vs Zed ADC [ T1 Faker ] Ranked Challengerr NA | Patch 26.21', c, aliases).rankClaim, 'Challenger');
