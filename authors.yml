@@ -1083,3 +1083,23 @@
   rankClaim: No rank claim
   url: https://mobalytics.gg/lol/champions/xerath/build/support
   kind: web
+- id: mauro2347
+  author: mauro2347
+  rankClaim: Master 260 LP (stated in post) · Yone main
+  url: https://www.reddit.com/r/YoneMains/comments/1q1wnaz/my_personal_yone_mid_matchup_tierlistmid_to_high/
+  kind: web
+- id: mmjyn
+  author: mmjyn
+  rankClaim: Master (stated in post) · Yone main
+  url: https://www.reddit.com/r/YoneMains/comments/1sms1wy/i_find_the_yasuo_matchup_unplayable/
+  kind: web
+- id: dennissuarez69
+  author: Dennissuarez69
+  rankClaim: Diamond 1 OTP Yasuo (stated in comment)
+  url: https://www.reddit.com/r/YoneMains/comments/1sms1wy/i_find_the_yasuo_matchup_unplayable/
+  kind: web
+- id: nicolaslamelas
+  author: nicolas_lamelas17
+  rankClaim: Diamond (4) Yone OTP (stated in comment)
+  url: https://www.reddit.com/r/YoneMains/comments/1sms1wy/i_find_the_yasuo_matchup_unplayable/
+  kind: web
