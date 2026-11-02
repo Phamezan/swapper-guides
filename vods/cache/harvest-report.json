@@ -1,0 +1,19 @@
+{
+  "mode": "cached",
+  "startedAt": "2026-11-02T14:06:28.855Z",
+  "wallSeconds": 2,
+  "requests": 0,
+  "invocations": 0,
+  "requestCountMethod": "yt-dlp HTTP download diagnostics (redirects not observable)",
+  "listed": 35282,
+  "parsed": 2236,
+  "selected": 2236,
+  "written": 2236,
+  "matchups": 1116,
+  "champions": 108,
+  "detailsCached": 482,
+  "detailsRemaining": 1754,
+  "withMoments": 296,
+  "withResult": 253,
+  "candidates": []
+}

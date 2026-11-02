@@ -6,8 +6,8 @@ export const MOMENT_KINDS = ['kill', 'death', 'teamfight', 'dragon', 'baron', 'h
 
 export function compileVods(text, file, champions) {
   const loc = { file, line: 1 };
-  const match = /^vods\/([^/]+)\/([^/]+)-(top|jungle|mid|adc|support)\.yml$/u.exec(file);
-  if (!match || !LANES.includes(match[3])) fail(loc, 'VOD file path must match vods/<Champion>/<Enemy>-<lane>.yml');
+  const match = /^(?:vods|vods-auto)\/([^/]+)\/([^/]+)-(top|jungle|mid|adc|support)\.yml$/u.exec(file);
+  if (!match || !LANES.includes(match[3])) fail(loc, 'VOD file path must match vods/<Champion>/<Enemy>-<lane>.yml or vods-auto/<Champion>/<Enemy>-<lane>.yml');
   const champion = championId(match[1], champions, loc);
   const enemy = championId(match[2], champions, loc, 'enemy champion');
   const document = yaml(text, loc);
@@ -15,13 +15,13 @@ export function compileVods(text, file, champions) {
   const seen = new Set();
   const videos = document.value.map((video, i) => {
     const at = document.at(i);
-    fields(video, ['videoId', 'title', 'player', 'rankClaim', 'patch', 'result', 'durationSec'], ['team', 'moments'], at);
+    fields(video, ['videoId', 'title', 'rankClaim', 'patch', 'durationSec'], ['player', 'result', 'team', 'moments'], at);
     if (typeof video.videoId !== 'string' || !/^[A-Za-z0-9_-]{11}$/u.test(video.videoId)) fail(at, 'videoId must be an 11-character YouTube id');
     if (seen.has(video.videoId)) fail(at, 'duplicate videoId');
     seen.add(video.videoId);
-    for (const key of ['title', 'player', 'rankClaim', ...(Object.hasOwn(video, 'team') ? ['team'] : [])]) plain(video[key], at, key);
+    for (const key of ['title', 'rankClaim', ...['player', 'team'].filter(key => Object.hasOwn(video, key))]) plain(video[key], at, key);
     patch(video.patch, at);
-    if (!['W', 'L'].includes(video.result)) fail(at, 'result must be W or L');
+    if (Object.hasOwn(video, 'result') && !['W', 'L'].includes(video.result)) fail(at, 'result must be W or L');
     if (!Number.isSafeInteger(video.durationSec) || video.durationSec <= 0) fail(at, 'durationSec must be a positive integer');
     if (Object.hasOwn(video, 'moments') && !Array.isArray(video.moments)) fail(at, 'moments must be an array');
     const moments = (video.moments ?? []).map(moment => {

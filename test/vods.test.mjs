@@ -57,13 +57,35 @@ test('disk build discovers YAML VODs', async () => {
   const root = path.resolve(import.meta.dirname, '..');
   const temp = await mkdtemp(path.join(root, '.vod-test-'));
   try {
-    for (const [name, text] of [...base, [file, JSON.stringify([video])]]) {
+    for (const [name, text] of [...base, [file, JSON.stringify([video])], ['vods/channels.yml', '[]'],
+      ['vods-auto/Ahri/Zed-mid.yml', JSON.stringify([{ ...video, videoId: 'abcdefghijk' }])]]) {
       await mkdir(path.dirname(path.join(temp, name)), { recursive: true });
       await writeFile(path.join(temp, name), text);
     }
     assert.equal((await build(temp, { generatedAt })).champions[103].vods, 1);
+    assert.equal(JSON.parse(await readFile(path.join(temp, 'dist/champions/103.json'), 'utf8')).vods[0].videos.length, 2);
   } finally {
     assert.equal(path.dirname(temp), root);
     await rm(temp, { recursive: true, force: true });
+  }
+});
+
+test('player and result may be absent but explicit invalid values still fail', () => {
+  const { player, result, ...optional } = video;
+  assert.equal(JSON.parse(compile([optional]).files.get('champions/103.json')).vods[0].videos[0].player, undefined);
+  for (const change of [{ player: null }, { player: '' }, { result: null }, { result: '?' }]) {
+    assert.throws(() => compile([{ ...optional, ...change }]));
+  }
+});
+
+test('generated and hand-made matchups merge once, hand-made first, independent of input order', () => {
+  const auto = ['vods-auto/Ahri/Zed-mid.yml', JSON.stringify([{ ...video, title: 'Automatic duplicate' }, { ...video, videoId: 'abcdefghijk' }])];
+  const manual = [file, JSON.stringify([video])];
+  for (const entries of [[auto, manual], [manual, auto]]) {
+    const result = compileContent(new Map([...base, ...entries]), { generatedAt });
+    const vods = JSON.parse(result.files.get('champions/103.json')).vods;
+    assert.equal(vods.length, 1);
+    assert.deepEqual(vods[0].videos.map(v => [v.videoId, v.title]), [[video.videoId, video.title], ['abcdefghijk', video.title]]);
+    assert.equal(result.index.champions[103].vods, 1);
   }
 });
