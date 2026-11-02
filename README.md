@@ -236,6 +236,10 @@ Each video requires `videoId` (11-character YouTube id), `title`, `player`,
 validation as guides. A moment has `at` (`m:ss` or `h:mm:ss`, before the end),
 `label`, and optional `section` (`overview`, `early-lane`, `mid-lane`, `win-condition`).
 
+To start a file, `node scripts/find-vods.mjs <Champion> <Enemy> <lane> [count]` (needs
+`yt-dlp` on PATH) drafts it from YouTube search metadata and chapters. Anything the video
+does not state is written as `"?"`, so the build rejects the draft until you fill or delete it.
+
 ```yaml
 - videoId: A_b-cD12345 # syntax example only; replace with a verified game
   title: Hold Charm.
