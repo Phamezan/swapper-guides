@@ -1103,3 +1103,23 @@
   rankClaim: Challenger EUW S16 (title/description) · Aatrox main
   url: https://www.youtube.com/watch?v=Wpb6pGepkOI&t=0s
   kind: youtube
+- id: nottheredad
+  author: NotThereDad
+  rankClaim: Master (stated in comment, advising in r/Jaxmains)
+  url: https://www.reddit.com/r/Jaxmains/comments/1xjsqyl/how_do_you_win_agaisnt_yone_i_am_new_to_jax/
+  kind: web
+- id: kakaglad
+  author: kakaglad
+  rankClaim: Master (stated in comment; 2.5M mastery Jax OTP)
+  url: https://www.reddit.com/r/Jaxmains/comments/1xjsqyl/how_do_you_win_agaisnt_yone_i_am_new_to_jax/
+  kind: web
+- id: differenthumanpal
+  author: DifferentHumanPal
+  rankClaim: Diamond (post title) · Yone OTP
+  url: https://www.reddit.com/r/YoneMains/comments/1pvn13y/yone_matchup_tierlist_diamond_top_yone_otp/
+  kind: web
+- id: snekirl
+  author: SnekIrl
+  rankClaim: Diamond (modest reading of stated 100 LP) · Yone top
+  url: https://www.reddit.com/r/YoneMains/comments/1pvn13y/yone_matchup_tierlist_diamond_top_yone_otp/
+  kind: web
