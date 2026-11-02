@@ -1,4 +1,5 @@
 import { createHash } from 'node:crypto';
+import { compileVods } from './vods.mjs';
 import { parseMarkdown, yaml, fail, SECTION_LABELS } from './markdown.mjs';
 import { fields, plain, patch, ids, sourceUrl, championMap, championId, compileTip, LANES } from './validate.mjs';
 
@@ -146,16 +147,25 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
     groups.get(champion).general.push({ guide, loc: document.loc });
   }
   const index = { schema: 1, generatedAt, champions: {} };
+  for (const [file, text] of input) {
+    if (!file.startsWith('vods/')) continue;
+    const { champion, ...entry } = compileVods(text, file, champions);
+    if (!entry.videos.length) continue;
+    if (!groups.has(champion)) groups.set(champion, { guides: [], general: [] });
+    const group = groups.get(champion);
+    (group.vods ??= []).push(entry);
+  }
   const files = new Map();
   for (const [champion, entries] of [...groups].sort(([a], [b]) => a - b)) {
     const guides = entries.guides.map(entry => entry.guide).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
     const general = entries.general.map(entry => entry.guide).sort((a, b) => a.lane.localeCompare(b.lane, 'en'));
+    const vods = (entries.vods ?? []).map(({ loc, ...entry }) => entry).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
     // `general` is omitted when empty so matchup-only files keep their original shape.
-    const bytes = json({ schema: 1, champion, generatedAt, guides, ...general.length && { general } });
-    const loc = (entries.guides[0] ?? entries.general[0]).loc;
+    const bytes = json({ schema: 1, champion, generatedAt, guides, ...general.length && { general }, ...vods.length && { vods } });
+    const loc = (entries.guides[0] ?? entries.general[0] ?? entries.vods[0]).loc;
     if (Buffer.byteLength(bytes, 'utf8') > MAX_CHAMPION_BYTES) fail(loc, `champion ${champion} file exceeds 2 MB`);
     files.set(`champions/${champion}.json`, bytes);
-    index.champions[champion] = { sha256: createHash('sha256').update(bytes, 'utf8').digest('hex'), guides: guides.length, ...general.length && { general: general.length } };
+    index.champions[champion] = { sha256: createHash('sha256').update(bytes, 'utf8').digest('hex'), guides: guides.length, ...general.length && { general: general.length }, ...vods.length && { vods: vods.length } };
   }
   files.set('index.json', json(index));
   return { index, files };

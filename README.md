@@ -227,6 +227,36 @@ General guides compile into the champion file's `general` array, sorted by lane,
 and the index entry gains a `general` count. Both are omitted when a champion has
 no general guide, so a champion with only general guides has `guides: 0`.
 
+## VODs
+
+Add a YAML list at `vods/<Champion>/<Enemy>-<lane>.yml`, using exact display names.
+Each video requires `videoId` (11-character YouTube id), `title`, `player`,
+`rankClaim`, quoted `patch`, `result` (`W` or `L`) and positive integer
+`durationSec`. `team` and `moments` are optional. Text uses the same plain-text
+validation as guides. A moment has `at` (`m:ss` or `h:mm:ss`, before the end),
+`label`, and optional `section` (`overview`, `early-lane`, `mid-lane`, `win-condition`).
+
+```yaml
+- videoId: A_b-cD12345 # syntax example only; replace with a verified game
+  title: Hold Charm.
+  player: Player name
+  rankClaim: Challenger
+  patch: "26.21"
+  result: W
+  durationSec: 1746
+  moments:
+    - at: "3:04"
+      label: Trading window
+      section: early-lane
+```
+
+The champion file gains `vods: [{ enemy, lane, videos }]`, sorted by enemy id
+then lane. Moment times compile to `atSec`; absent moments compile to `[]`.
+The optional index `vods` count counts matchup entries, like the guide count.
+Champions with only VODs are supported. Empty VOD lists add no fields and preserve
+the previous output bytes for the same build timestamp. A real pilot game is
+left to the maintainer; no player claims or key moments have been invented.
+
 ## Validation and output
 
 Every guide must have exactly three key tips. At least two of `Early lane`,
@@ -244,8 +274,9 @@ never emitted. Each champion file has `schema: 1`, `champion`, `generatedAt`,
 
 `dist/index.json` has `schema: 1`, `generatedAt`, and `champions` keyed by numeric
 champion id. Each entry has `sha256` (the exact champion JSON file's bytes,
-including the final newline) and `guides` (count). Only champions with guides
-are listed. All files in a build share one UTC timestamp. Guide order is stable
+including the final newline) and `guides` (count), with optional `general` and
+`vods` counts. Champions with any guides or VODs are listed. All files in a build
+share one UTC timestamp. Guide order is stable
 by enemy id, then lane. Validation finishes before replacing the previous output;
 a successful rebuild removes files for deleted guides.
 
