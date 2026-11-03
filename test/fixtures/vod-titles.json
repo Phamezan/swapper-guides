@@ -122,7 +122,12 @@
   {
     "style": "super-carry",
     "title": "Aatrox vs Ambessa Top - KR Grandmaster - Patch 25.19 Season 15",
-    "expected": null
+    "expected": [
+      "Aatrox",
+      "Ambessa",
+      "top",
+      "25.19"
+    ]
   },
   {
     "style": "super-carry",
@@ -196,7 +201,7 @@
   },
   {
     "style": "korean-pro",
-    "title": "Deft Zeri vs Xayah [ ADC ] Korea Challenger 1935 LP | Patch 26.20 ✅",
+    "title": "Deft Zeri vs Xayah [ ADC ] Korea Challenger 1935 LP | Patch 26.20 \u00e2\u0153\u2026",
     "expected": [
       "Zeri",
       "Xayah",
@@ -272,6 +277,146 @@
       "Irelia",
       "top",
       "26.20"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "AATROX vs JAX (TOP) | Good KDA: 13/1/5, Grasp Of The Undying | KR Master | 26.13",
+    "expected": [
+      "Aatrox",
+      "Jax",
+      "top",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "AATROX vs DARIUS (TOP) | EUW Master | 26.13",
+    "expected": [
+      "Aatrox",
+      "Darius",
+      "top",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "AATROX vs VAYNE (TOP) | Stormraider's Surge | EUW Master | 26.13",
+    "expected": [
+      "Aatrox",
+      "Vayne",
+      "top",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "AATROX vs GAREN (TOP) | Perfect KDA: 17/0/8 | TR Challenger | 26.13",
+    "expected": [
+      "Aatrox",
+      "Garen",
+      "top",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "AATROX vs DR. MUNDO (TOP) | 104K damage, Good KDA: 20/1/8, 5k gold comeback | EUW Diamond | 26.13",
+    "expected": null
+  },
+  {
+    "style": "domisum",
+    "title": "SAMIRA & Nautilus vs CAITLYN & Teemo (ADC) | Good KDA: 26/3/6, 57K damage | EUNE Master | 26.13",
+    "expected": [
+      "Samira",
+      "Caitlyn",
+      "adc",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "SAMIRA & Nautilus vs JHIN & Miss Fortune (ADC) | Good KDA: 30/3/6 | KR Master | 26.13",
+    "expected": [
+      "Samira",
+      "Jhin",
+      "adc",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "SAMIRA & Poppy vs TRISTANA & Camille (ADC) | Good KDA: 28/1/7 | EUW Diamond | 26.13",
+    "expected": null
+  },
+  {
+    "style": "domisum",
+    "title": "SAMIRA & Shen vs MISS FORTUNE & K'Sante (ADC) | Good KDA: 20/2/5 | KR Master | 26.13",
+    "expected": [
+      "Samira",
+      "Miss Fortune",
+      "adc",
+      "26.13"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "SAMIRA & Blitzcrank vs JINX & Camille (ADC) | Perfect KDA: 23/0/3 | KR Master | 26.13",
+    "expected": [
+      "Samira",
+      "Jinx",
+      "adc",
+      "26.13"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "Ahri SUPP vs Zed - KR Grandmater Patcj 25.1",
+    "expected": [
+      "Ahri",
+      "Zed",
+      "support",
+      "25.1"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "Ahri JGL vs Zed - KR Grandmater Patcj 25.1",
+    "expected": [
+      "Ahri",
+      "Zed",
+      "jungle",
+      "25.1"
+    ]
+  },
+  {
+    "style": "challenger",
+    "title": "Ahri Junlge vs Zed - KR Grandmater Patcj 25.1",
+    "expected": [
+      "Ahri",
+      "Zed",
+      "jungle",
+      "25.1"
+    ]
+  },
+  {
+    "style": "super-carry",
+    "title": "Ahri vs Zed Mid - KR Challengerr Patch 16 20",
+    "expected": [
+      "Ahri",
+      "Zed",
+      "mid",
+      "26.20"
+    ]
+  },
+  {
+    "style": "domisum",
+    "title": "NUNU & WILLUMP vs JAX (JGL) | BR Challenger | 25.1",
+    "expected": [
+      "Nunu & Willump",
+      "Jax",
+      "jungle",
+      "25.1"
     ]
   }
 ]

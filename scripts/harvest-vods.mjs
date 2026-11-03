@@ -7,13 +7,14 @@ import { parse, stringify } from 'yaml';
 import { plain } from './validate.mjs';
 import { momentKind } from './find-vods.mjs';
 
-const STYLES = ['challenger', 'midgg', 'korean-pro', 'super-carry', 'otp'];
+const STYLES = ['challenger', 'midgg', 'korean-pro', 'super-carry', 'otp', 'domisum'];
+const MIN_PATCH_YEAR = 25;
 const ID = /^[A-Za-z0-9_-]{11}$/u;
 const CHANNEL_ID = /^UC[A-Za-z0-9_-]{22}$/u;
 const loc = { file: 'YouTube metadata', line: 1 };
 const normalize = name => name.toLowerCase().replace(/[^a-z0-9]/gu, '');
-const laneName = name => ({ middle: 'mid', jg: 'jungle', bot: 'adc', sup: 'support' })[name.toLowerCase()] ?? name.toLowerCase();
-const LANE = '(top|jungle|jg|mid|middle|adc|bot|support|sup)';
+const laneName = name => ({ middle: 'mid', jg: 'jungle', jgl: 'jungle', bot: 'adc', sup: 'support', supp: 'support' })[name.toLowerCase()] ?? name.toLowerCase();
+const LANE = '(top|jungle|jg|jgl|mid|middle|adc|bot|support|sup|supp)';
 const safe = text => { try { plain(text, loc, 'metadata'); return true; } catch { return false; } };
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 // Chapters that mark the video's structure, not a moment in the game.
@@ -34,7 +35,7 @@ export function normalizePatch(value, style) {
   if (!match || !['calendar', 'season'].includes(style)) return null;
   const major = Number(match[1]);
   const year = major + (style === 'season' && major < 20 ? 10 : 0), number = Number(match[2]);
-  return year >= 26 && number >= 1 && number <= 99 ? `${year}.${number}` : null;
+  return year >= MIN_PATCH_YEAR && number >= 1 && number <= 99 ? `${year}.${number}` : null;
 }
 
 function playerTag(tag) {
@@ -47,7 +48,9 @@ function playerTag(tag) {
 
 export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   if (typeof title !== 'string' || !safe(title)) return null;
-  const titledPatch = /\bpatch\s+(\d+\.\d+)\b/iu.exec(title);
+  title = title.replace(/\bJunlge\b/giu, 'Jungle').replace(/\bGrandmater\b/giu, 'Grandmaster')
+    .replace(/\bPatcj\b/giu, 'Patch').replace(/\bPatch (\d+) (\d+)\b/giu, 'Patch $1.$2');
+  const titledPatch = (channel.style === 'domisum' ? /\|\s*(\d+\.\d+)\s*$/u : /\bpatch\s+(\d+\.\d+)\b/iu).exec(title);
   const patch = titledPatch ? normalizePatch(titledPatch[1], channel.patchStyle)
     : channel.estimatePatch ? estimatePatch(uploadDate, calendar, { provisional: true }) : null;
   if (!patch) return null;
@@ -73,6 +76,21 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   } else if (channel.style === 'super-carry') {
     match = new RegExp(`^(.+?)\\s+vs\\s+(.+?)\\s+${LANE}\\s+-\\s+`, 'iu').exec(title);
     if (match) [, champion, enemy, lane] = match;
+  } else if (channel.style === 'domisum') {
+    match = new RegExp(`^(.+?)\\s+vs\\s+(.+?)\\s*\\(${LANE}\\)\\s*\\|(?:[^|]*\\|)*\\s*[A-Z]{2,4}\\s+(?:Master|Grandmaster|Challenger)\\s*\\|\\s*\\d+\\.\\d+\\s*$`, 'iu').exec(title);
+    if (match) {
+      [, champion, enemy, lane] = match;
+      const duoChampion = value => {
+        if (aliases.has(normalize(value))) return value;
+        const parts = value.split(' & ');
+        for (let i = 1; i < parts.length; i++) {
+          const first = parts.slice(0, i).join(' & '), second = parts.slice(i).join(' & ');
+          if (aliases.has(normalize(first)) && aliases.has(normalize(second))) return first;
+        }
+        return value;
+      };
+      champion = duoChampion(champion); enemy = duoChampion(enemy);
+    }
   } else if (channel.style === 'otp') {
     match = new RegExp(`^(.+?)\\s+vs\\s+(.+?)\\s+\\d+/\\d+/\\d+\\s*\\(${LANE}\\)\\s*\\|`, 'iu').exec(title);
     if (match) [, champion, enemy, lane] = match;
@@ -95,7 +113,7 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   if (!champion || !enemy || Object.values(player).some(value => !safe(value))) return null;
   if (!rank && !(channel.style === 'korean-pro' && player.team)) return null;
   const region = /\b(KR|NA|EUW|EUNE|Korea)\b/iu.exec(title)?.[1];
-  return { champion, enemy, ...channel.style === 'korean-pro' && region && { region: /^Korea$/iu.test(region) ? 'KR' : region.toUpperCase() }, lane: laneName(lane), rankClaim: rank ? rank[0].toUpperCase() + rank.slice(1).toLowerCase() : 'Master+', patch, ...!titledPatch && { patchEstimated: true }, ...player };
+  return { champion, enemy, ...region && { region: /^Korea$/iu.test(region) ? 'KR' : region.toUpperCase() }, lane: laneName(lane), rankClaim: rank ? rank[0].toUpperCase() + rank.slice(1).toLowerCase() : 'Master+', patch, ...!titledPatch && { patchEstimated: true }, ...player };
 }
 
 // Require three uploads within three days: isolated mislabeled/re-uploaded games cannot set a boundary.
@@ -131,7 +149,17 @@ export function estimatePatch(uploadDate, calendar, { provisional = false } = {}
 }
 
 const patchNumber = patch => patch.split('.').reduce((n, part) => n * 100 + Number(part), 0);
-export function selectVideos(rows) {
+export function selectVideos(rows, published = new Set()) {
+  const games = new Map();
+  rows = [...rows].sort((a, b) => Number(published.has(b.id)) - Number(published.has(a.id))
+    || Number(a.channel === 'UCsVz2qkd_oGXGC66fcH4SFA') - Number(b.channel === 'UCsVz2qkd_oGXGC66fcH4SFA')
+    || a.id.localeCompare(b.id));
+  rows = rows.filter(row => {
+    if (!row.title || !Number.isFinite(row.durationSec)) return true;
+    const key = normalize(row.title), prior = games.get(key) ?? [];
+    if (prior.some(other => other.channel !== row.channel && [other.channel, row.channel].includes('UCsVz2qkd_oGXGC66fcH4SFA') && Math.abs(other.durationSec - row.durationSec) <= 60)) return false;
+    prior.push(row); games.set(key, prior); return true;
+  });
   return [...new Map(rows.map(row => [row.id, row])).values()].sort((a, b) => patchNumber(b.patch) - patchNumber(a.patch)
     || (b.uploadDate ?? '').localeCompare(a.uploadDate ?? '')
     || a.channel.localeCompare(b.channel, 'en') || (a.order ?? 0) - (b.order ?? 0) || a.id.localeCompare(b.id, 'en'));
@@ -330,6 +358,16 @@ export async function writeGenerated(root, rows, details, calendar = []) {
 }
 
 export async function harvest(root, { discovery = [], cachedOnly = false, client = new MetadataClient() } = {}) {
+  const published = new Set();
+  const generated = path.join(root, 'vods-auto');
+  for (const champion of await readdir(generated, { withFileTypes: true }).catch(error => {
+    if (error.code === 'ENOENT') return []; throw error;
+  })) {
+    if (!champion.isDirectory()) continue;
+    for (const file of await readdir(path.join(generated, champion.name))) {
+      if (file.endsWith('.yml')) for (const video of parse(await readFile(path.join(generated, champion.name, file), 'utf8')) ?? []) published.add(video.videoId);
+    }
+  }
   const started = Date.now();
   const channels = await readChannels(root);
   const aliases = championAliases(await jsonFile(path.join(root, 'champions.json')));
@@ -364,7 +402,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
       const facts = parseTitle(row.title, approved.get(row.channel), aliases, details[row.id]?.uploadDate ?? row.uploadDate, calendar);
       if (facts) parsed.push({ ...row, ...facts, ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
     }
-    selected = selectVideos(parsed.filter(row => playable(details[row.id])));
+    selected = selectVideos(parsed.filter(row => playable(details[row.id])), published);
     // Publish every eligible video before starting a potentially long detail pass.
     if (!stopped && !cachedOnly) await writeGenerated(root, selected, details, calendar);
     const pending = selected.filter(row => !details[row.id]);
@@ -394,12 +432,13 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
   }
   // Re-sort with exact dates for cached details, retaining videos still awaiting details.
   const ready = selectVideos(parsed.filter(row => playable(details[row.id])).map(row => ({ ...row,
-    ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) })));
+    ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) })), published);
   const output = discovery.length ? [] : await writeGenerated(root, ready, details, exactCalendar());
   const report = { mode: discovery.length ? 'discover' : cachedOnly ? 'cached' : 'harvest',
     startedAt: new Date(started).toISOString(), wallSeconds: Math.round((Date.now() - started) / 1000),
     requests: client.requests, invocations: client.invocations, requestCountMethod: 'yt-dlp HTTP download diagnostics (redirects not observable)',
     listed: Object.values(cache.videos).filter(row => approved.has(row.channel)).length, parsed: parsed.length, selected: selected.length,
+    duplicatesDropped: parsed.filter(row => playable(details[row.id])).length - ready.length,
     written: output.length, matchups: new Set(ready.map(row => `${row.champion}/${row.enemy}/${row.lane}`)).size,
     champions: new Set(ready.map(row => row.champion)).size,
     detailsCached: ready.filter(row => details[row.id]).length,

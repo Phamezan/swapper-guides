@@ -35,7 +35,7 @@
   name: Challenger Replays
   style: challenger
   patchStyle: calendar
-  approved: false
+  approved: true
 - id: UCb7SL0KGuq3Q8m4L9AGbPJA
   name: Aurora Challenger Replays
   style: challenger
@@ -71,3 +71,14 @@
   style: challenger
   patchStyle: calendar
   approved: false
+
+- id: UCDo4B_kn0taQJx8qlroA81g
+  name: 'domisumReplay: Aatrox'
+  style: domisum
+  patchStyle: calendar
+  approved: true
+- id: UCRQnUohdtGP8STT18Lufq8A
+  name: 'domisumReplay: Samira'
+  style: domisum
+  patchStyle: calendar
+  approved: true

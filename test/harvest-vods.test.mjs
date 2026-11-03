@@ -22,7 +22,7 @@ for (const { style, title, expected } of fixtures) {
 
 test('rejects ambiguous, unknown, old and incomplete titles', () => {
   for (const title of ['Ahri montage vs Zed', 'Ahri Mid vs Unknown - KR Master Patch 26.21',
-    'Ahri Mid vs Zed - KR Master Patch 25.24', 'Ahri Mid vs Zed - KR Master Patch 26.0',
+    'Ahri Mid vs Zed - KR Master Patch 24.24', 'Ahri Mid vs Zed - KR Master Patch 26.0',
     'Ahri Mid vs Zed - KR Diamond Patch 26.21', 'Ahri Mid vs Zed - KR Master Patch 16.21']) {
     assert.equal(parseTitle(title, { style: 'challenger', patchStyle: 'calendar' }, aliases), null, title);
   }
@@ -35,8 +35,8 @@ test('rejects ambiguous, unknown, old and incomplete titles', () => {
 test('normalizes season patches without treating old calendar patches as current', () => {
   assert.equal(normalizePatch('16.21', 'season'), '26.21');
   assert.equal(normalizePatch('26.01', 'calendar'), '26.1');
-  assert.equal(normalizePatch('15.24', 'season'), null);
-  assert.equal(normalizePatch('25.24', 'season'), null, 'this channel also has calendar-style older titles');
+  assert.equal(normalizePatch('15.24', 'season'), '25.24');
+  assert.equal(normalizePatch('25.24', 'season'), '25.24', 'this channel also has calendar-style older titles');
   assert.equal(normalizePatch('26.21', 'season'), '26.21');
   assert.equal(normalizePatch('26.0', 'calendar'), null);
   assert.equal(normalizePatch('16.21', 'calendar'), null);
@@ -86,7 +86,7 @@ test('skips structural chapters and publishes the upload day', () => {
 test('extracts POV player/team without attributing an opponent or channel', () => {
   const channel = { style: 'challenger', patchStyle: 'calendar' };
   assert.deepEqual(parseTitle('(WBG Xiaohao) Ahri Mid vs Orianna (BFX Raptor) - KR Grandmaster Patch 26.21', channel, aliases), {
-    champion: 'Ahri', enemy: 'Orianna', lane: 'mid', rankClaim: 'Grandmaster', patch: '26.21', team: 'WBG', player: 'Xiaohao',
+    champion: 'Ahri', enemy: 'Orianna', lane: 'mid', rankClaim: 'Grandmaster', patch: '26.21', region: 'KR', team: 'WBG', player: 'Xiaohao',
   });
   assert.equal(parseTitle('Zed Mid vs Ahri (CNA Pcelica) - EUW Grandmaster Patch 26.21', channel, aliases).player, undefined);
   for (const [style, title] of [['midgg', 'MID.GG: [ LegitKorea ] Ahri MID vs Zed | NA MASTER | Patch 26.21'],
@@ -127,7 +127,7 @@ test('harvest lists only approved channels, skips invalid durations and reruns w
         assert.match(args.at(-1), new RegExp(channel.id));
         visited = [];
         for (const entry of [listing('abcdefghijk'), { ...listing('shortshort1'), duration: 599 },
-          { ...listing('longlong123'), duration: 3601 }, { ...listing('oldoldold12'), title: 'Ahri Mid vs Zed - KR Master Patch 25.24' }]) {
+          { ...listing('longlong123'), duration: 3601 }, { ...listing('oldoldold12'), title: 'Ahri Mid vs Zed - KR Master Patch 24.24' }]) {
           visited.push(entry.id);
           if (onEntry(entry) === false) break;
         }
@@ -445,7 +445,7 @@ test('real patchless MID-GG and OTP titles require opt-in and date; explicit pat
     assert.equal(parseTitle(title, c, aliases, '20260101', calendar), null);
     const explicit = parseTitle(title + ' | Patch 26.20', c, aliases, '20261025', calendar);
     assert.equal(explicit.patch, '26.20'); assert.equal(Object.hasOwn(explicit, 'patchEstimated'), false);
-    assert.equal(parseTitle(title + ' | Patch 25.24', c, aliases, '20261025', calendar), null);
+    assert.equal(parseTitle(title + ' | Patch 24.24', c, aliases, '20261025', calendar), null);
   }
 });
 test('estimated patches are published only from the exact upload day', async () => {
@@ -468,3 +468,26 @@ test('channel estimation flag must be boolean', async () => {
     if (typeof flag === 'boolean') await readChannels(root); else await assert.rejects(readChannels(root), /Invalid/);
   } } finally { await rm(root, { recursive: true, force: true }); }
 });
+
+ test('cross-posts keep the published ID within sixty seconds only', () => {
+  const row = { title: 'Ahri Mid vs Zed - KR Master Patch 25.1', durationSec: 1200, patch: '25.1', channel: 'UCsVz2qkd_oGXGC66fcH4SFA', id: 'b' };
+  const old = { ...row, channel: 'champion', id: 'a', durationSec: 1259 };
+  assert.deepEqual(selectVideos([row, old], new Set(['a'])).map(r => r.id), ['a']);
+  assert.deepEqual(selectVideos([row, old], new Set(['b'])).map(r => r.id), ['b']);
+  assert.equal(selectVideos([row, { ...old, durationSec: 1261 }]).length, 2);
+});
+test('regions are explicit and schema supported across styles', () => {
+  for (const style of ['challenger', 'midgg', 'korean-pro', 'super-carry', 'otp', 'domisum']) {
+    const fixture = [...fixtures, { style: 'midgg', expected: true, title: 'MID.GG: [ LegitKorea ] Ahri MID vs Zed | NA MASTER | Patch 26.21' }, { style: 'otp', expected: true, title: 'Ahri vs Zed 19/3/17 (Mid) | EUW Master | Patch 26.21' }].find(f => f.style === style && f.expected && /\b(KR|NA|EUW|EUNE)\b/.test(f.title));
+    assert.ok(fixture, style);
+    for (const region of ['KR', 'NA', 'EUW', 'EUNE', 'TR', 'BR']) {
+      const parsed = parseTitle(fixture.title.replace(/\b(KR|NA|EUW|EUNE)\b/g, region), { style, patchStyle: style === 'super-carry' ? 'season' : 'calendar' }, aliases);
+      assert.equal(parsed.region, ['TR', 'BR'].includes(region) ? undefined : region);
+    }
+  }
+  assert.equal(normalizePatch('24.24', 'calendar'), null);
+  assert.equal(normalizePatch('25.0', 'calendar'), null);
+  assert.equal(normalizePatch('25.1', 'calendar'), '25.1');
+});
+
+
