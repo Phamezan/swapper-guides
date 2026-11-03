@@ -6,10 +6,9 @@
   durationSec: 1953
   player: Vladi
   team: FNC
+  uploaded: 2026-10-10
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 0:46
       label: First Blood — Ahri kills Irelia
       kind: kill
@@ -54,19 +53,15 @@
       label: Mid Inhibitor falls (Red)
     - at: 32:16
       label: Bot Inhibitor falls (Red)
-    - at: 32:28
-      label: Defeat
 - videoId: xJw65vEo-Iw
   title: (HRTS Mercy9) Ahri Mid vs Irelia - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1981
-  player: Mercy9
-  team: HRTS
+  player: HRTS Mercy9
+  uploaded: 2026-09-05
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:12
       label: First Blood — Ahri kills Irelia
       kind: kill
@@ -113,10 +108,9 @@
       label: Mid Inhibitor falls (Blue)
     - at: 32:04
       label: Ezreal picks off Bard
-    - at: 32:21
-      label: Victory
 - videoId: zjsuDwJmk1s
   title: Ahri vs Irelia Mid - KR Grandmaster - Patch 26.02 Season 16
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1606
+  uploaded: 2026-01-26

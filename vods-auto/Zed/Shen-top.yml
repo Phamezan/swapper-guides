@@ -4,6 +4,53 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1885
+  uploaded: 2026-10-13
+  result: W
+  moments:
+    - at: 7:50
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:36
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:51
+      label: First Blood — Aurora kills Akali
+      kind: kill
+    - at: 19:30
+      label: Zed kills Rek'Sai
+      kind: kill
+    - at: 19:50
+      label: Zed eliminates Shen
+    - at: 20:13
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:23
+      label: Aphelios kills Akali
+      kind: kill
+    - at: 22:25
+      label: Zed kills Rek'Sai
+      kind: kill
+    - at: 23:06
+      label: Red takes Baron
+      kind: baron
+    - at: 25:33
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:06
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:59
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 27:17
+      label: Zed solo kills Caitlyn
+      kind: kill
+    - at: 29:16
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 30:00
+      label: Zed takes down Caitlyn again
+    - at: 30:05
+      label: Mid Inhibitor falls (Blue)
 - videoId: bf892aDqWmc
   title: Zed Top vs Shen - KR Master Patch 26.11
   rankClaim: Master

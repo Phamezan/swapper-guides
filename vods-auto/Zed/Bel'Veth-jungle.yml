@@ -4,17 +4,165 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1924
+  uploaded: 2026-10-04
+  result: W
+  moments:
+    - at: 4:11
+      label: First Blood — Zed kills Diana
+      kind: kill
+    - at: 9:59
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:25
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:47
+      label: Zed outduels Kennen
+    - at: 19:08
+      label: Zed takes down Caitlyn
+    - at: 20:53
+      label: Zed picks off Diana
+    - at: 21:11
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 22:17
+      label: Zed catches Lux
+    - at: 23:39
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:48
+      label: Zed picks off Diana
+    - at: 26:00
+      label: Zed outduels Lux again
+    - at: 26:32
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:00
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 30:40
+      label: Zed outplays Bel'Veth
+    - at: 31:10
+      label: Zed kills Lux
+      kind: kill
+    - at: 31:24
+      label: Zed Triple Kill
+      kind: kill
+    - at: 31:26
+      label: Mid Inhibitor falls (Red)
 - videoId: omH_7HpZHEc
   title: (Jzr) Zed Jungle vs Bel'Veth - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1552
   player: Jzr
+  uploaded: 2026-08-15
+  result: W
+  moments:
+    - at: 5:21
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 13:51
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:30
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:31
+      label: Zed kills Senna
+      kind: kill
+    - at: 16:55
+      label: Zed kills Senna
+      kind: kill
+    - at: 17:21
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:34
+      label: Zed picks off Sylas
+    - at: 19:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 19:34
+      label: Gwen eliminates Senna
+    - at: 20:11
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:54
+      label: Zed takes down Bel'Veth
+    - at: 22:02
+      label: Vladimir picks off Bel'Veth
+    - at: 22:27
+      label: Yunara picks off Dr. Mundo
+    - at: 23:53
+      label: Zed kills Senna
+      kind: kill
+    - at: 24:07
+      label: Mid Inhibitor falls (Red)
+    - at: 24:16
+      label: Top Inhibitor falls (Red)
+    - at: 25:08
+      label: Zed kills Senna
+      kind: kill
+    - at: 25:34
+      label: Vladimir picks off Bel'Veth
 - videoId: 6J5vh-kyxOA
   title: Zed Jungle vs Bel'Veth - KR Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1480
+  uploaded: 2026-06-30
+  result: W
+  moments:
+    - at: 2:37
+      label: First Blood — Fizz kills Katarina
+      kind: kill
+    - at: 10:57
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:33
+      label: Zed outplays Bel'Veth
+    - at: 13:32
+      label: Zed takes down Bel'Veth
+    - at: 15:12
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:33
+      label: Zed takes down Kai'Sa
+    - at: 16:36
+      label: Pantheon kills Bel'Veth
+      kind: kill
+    - at: 17:07
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 17:44
+      label: Zed picks off Katarina
+    - at: 18:48
+      label: Zed kills Blitzcrank
+      kind: kill
+    - at: 19:46
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:05
+      label: Top Inhibitor falls (Red)
+    - at: 21:25
+      label: Mid Inhibitor falls (Red)
+    - at: 23:00
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:36
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:05
+      label: Bot Inhibitor falls (Red)
+    - at: 24:21
+      label: Senna Double Kill
+      kind: kill
+    - at: 24:24
+      label: Senna Triple Kill
+      kind: kill
 - videoId: MMX886CbrgM
   title: Zed Jungle vs Bel'Veth - KR Master Patch 26.10
   rankClaim: Master

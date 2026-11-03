@@ -4,11 +4,104 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1577
+  uploaded: 2026-08-19
+  result: W
+  moments:
+    - at: 3:54
+      label: First Blood — Evelynn kills Olaf
+      kind: kill
+    - at: 9:35
+      label: Zed catches Olaf
+    - at: 12:02
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:53
+      label: Zed outduels Olaf again
+    - at: 13:50
+      label: Zed picks off Xerath
+    - at: 14:11
+      label: Evelynn kills Olaf
+      kind: kill
+    - at: 14:35
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:51
+      label: Zed outplays Olaf (3rd time)
+    - at: 17:37
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:36
+      label: Zed outduels Qiyana
+    - at: 19:56
+      label: Zed eliminates Olaf
+    - at: 20:34
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:08
+      label: Zed eliminates Olaf
+    - at: 23:03
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 24:35
+      label: Bard eliminates Camille
+    - at: 25:36
+      label: Mid Inhibitor falls (Red)
+    - at: 26:07
+      label: Bot Inhibitor falls (Red)
 - videoId: uDqEM-qchzI
   title: Zed Top vs Olaf - KR Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1732
+  uploaded: 2026-07-06
+  result: W
+  moments:
+    - at: 2:25
+      label: First Blood — Zed kills Olaf
+      kind: kill
+    - at: 5:28
+      label: Zed catches Olaf
+    - at: 7:19
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:11
+      label: Zed outduels Olaf again
+    - at: 12:44
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:49
+      label: Zed Triple Kill
+      kind: kill
+    - at: 18:36
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 21:12
+      label: Zed solo kills Vel'Koz
+      kind: kill
+    - at: 22:44
+      label: Anivia Double Kill
+      kind: kill
+    - at: 24:11
+      label: Zed takes down Qiyana
+    - at: 24:42
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 25:33
+      label: Zed takes down Qiyana
+    - at: 25:53
+      label: Mid Inhibitor falls (Red)
+    - at: 26:14
+      label: Zed picks off Vel'Koz
+    - at: 26:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:30
+      label: Zed kills Lee Sin
+      kind: kill
+    - at: 28:19
+      label: Top Inhibitor falls (Red)
+    - at: 28:35
+      label: Zed picks off Vel'Koz
 - videoId: k9K6J2pORXM
   title: Zed Top vs Olaf - EUW Grandmaster Patch 26.02
   rankClaim: Grandmaster

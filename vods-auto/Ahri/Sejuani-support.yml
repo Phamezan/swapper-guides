@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1703
+  uploaded: 2026-06-29
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:41
       label: First Blood — Ahri kills Sejuani
       kind: kill
@@ -54,5 +53,3 @@
       kind: kill
     - at: 27:56
       label: Mid Inhibitor falls (Red)
-    - at: 28:18
-      label: Victory

@@ -4,49 +4,34 @@
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1627
+  uploaded: 2026-03-25
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 3:44
       label: Get a SOLO KILL
       kind: kill
     - at: 3:58
       label: Team FIGHT
       kind: teamfight
-    - at: 4:13
-      label: Gameplay
     - at: 7:13
       label: Team FIGHT
       kind: teamfight
-    - at: 7:41
-      label: Gameplay
     - at: 8:36
       label: Team FIGHT
       kind: teamfight
-    - at: 9:32
-      label: Gameplay
     - at: 10:43
       label: Get a SOLO KILL
       kind: kill
-    - at: 11:11
-      label: Gameplay
     - at: 15:07
       label: Team FIGHT
       kind: teamfight
-    - at: 15:35
-      label: Gameplay
     - at: 18:27
       label: Get a Double Kill
       kind: kill
     - at: 18:56
       label: Take down The Turret
       kind: tower
-    - at: 19:20
-      label: Gameplay
     - at: 21:05
       label: Team FIGHT
       kind: teamfight
@@ -73,8 +58,6 @@
       kind: kill
     - at: 24:43
       label: Take down The Inhibitor
-    - at: 25:02
-      label: Gameplay
     - at: 26:09
       label: Take down The Inhibitor
     - at: 26:25

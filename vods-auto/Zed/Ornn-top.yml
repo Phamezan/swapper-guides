@@ -5,8 +5,98 @@
   patch: "26.21"
   durationSec: 1457
   player: BZ
+  uploaded: 2026-10-30
+  result: W
+  moments:
+    - at: 5:32
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:49
+      label: Zed kills Briar
+      kind: kill
+    - at: 8:35
+      label: Zed catches Ornn
+    - at: 10:03
+      label: Zed outduels Ornn again
+    - at: 12:02
+      label: Yunara Double Kill
+      kind: kill
+    - at: 12:35
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:13
+      label: Zed kills Briar
+      kind: kill
+    - at: 13:23
+      label: Zed Triple Kill
+      kind: kill
+    - at: 15:06
+      label: Ryze picks off Briar
+    - at: 16:48
+      label: Zed kills Briar
+      kind: kill
+    - at: 17:57
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 18:22
+      label: Zed picks off Kalista
+    - at: 18:57
+      label: Ryze picks off Briar
+    - at: 20:25
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:57
+      label: Yunara takes down Kalista
+    - at: 23:43
+      label: Mid Inhibitor falls (Red)
+    - at: 24:04
+      label: Yunara takes down Kalista
 - videoId: LBT0iZdGcy0
   title: Zed Top vs Ornn - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1519
+  uploaded: 2026-07-12
+  result: L
+  moments:
+    - at: 5:54
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:36
+      label: First Blood — Zed kills Ornn
+      kind: kill
+    - at: 11:20
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:47
+      label: Ryze picks off Naafiri
+    - at: 17:32
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:57
+      label: Zed eliminates Ornn
+    - at: 19:37
+      label: Zed eliminates Seraphine
+    - at: 21:25
+      label: Zed catches Ornn
+    - at: 22:06
+      label: Red takes Baron
+      kind: baron
+    - at: 22:42
+      label: Zed outduels Naafiri
+    - at: 22:56
+      label: Zed eliminates Seraphine
+    - at: 23:00
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 23:13
+      label: Zed takes down Ziggs
+    - at: 23:24
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:53
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:04
+      label: Zed kills Naafiri
+      kind: kill
+    - at: 24:53
+      label: Zed takes down Ziggs

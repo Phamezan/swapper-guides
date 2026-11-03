@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1417
+  uploaded: 2026-06-23
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:13
       label: First Blood — Ahri kills Cho'Gath
       kind: kill
@@ -52,17 +51,14 @@
     - at: 23:17
       label: Ahri Double Kill
       kind: kill
-    - at: 23:32
-      label: Defeat
 - videoId: tpODpCtouss
   title: Ahri Top vs Cho'Gath - EUW Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1751
+  uploaded: 2026-05-17
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:27
       label: First Blood — Ahri kills Cho'Gath
       kind: kill
@@ -106,71 +102,48 @@
       kind: dragon
     - at: 28:37
       label: Bot Inhibitor falls (Blue)
-    - at: 29:06
-      label: Defeat
 - videoId: WX61zM18rUI
   title: Ahri Top vs Cho'Gath - NA Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1532
+  uploaded: 2026-01-24
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 2:25
       label: Team FIGHT
       kind: teamfight
-    - at: 2:53
-      label: Gameplay
     - at: 4:57
       label: Team FIGHT
       kind: teamfight
-    - at: 5:25
-      label: Gameplay
     - at: 8:32
       label: Team FIGHT
       kind: teamfight
-    - at: 9:00
-      label: Gameplay
     - at: 10:27
       label: Team FIGHT
       kind: teamfight
     - at: 11:00
       label: Take down The Turret
       kind: tower
-    - at: 11:22
-      label: Gameplay
     - at: 11:58
       label: Team FIGHT
       kind: teamfight
-    - at: 12:26
-      label: Gameplay
     - at: 13:52
       label: Team FIGHT
       kind: teamfight
-    - at: 14:20
-      label: Gameplay
     - at: 15:03
       label: Team FIGHT
       kind: teamfight
-    - at: 16:23
-      label: Gameplay
     - at: 19:16
       label: Team FIGHT
       kind: teamfight
-    - at: 19:53
-      label: Gameplay
     - at: 22:00
       label: Get a SOLO KILL
       kind: kill
     - at: 22:20
       label: Team FIGHT
       kind: teamfight
-    - at: 22:58
-      label: Gameplay
     - at: 24:00
       label: Team FIGHT
       kind: teamfight

@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1717
+  uploaded: 2026-08-11
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:24
       label: First Blood — Swain kills Yunara
       kind: kill
@@ -51,5 +50,3 @@
       label: Top Inhibitor falls (Blue)
     - at: 27:45
       label: Vel'Koz eliminates Viktor
-    - at: 27:57
-      label: Defeat

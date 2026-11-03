@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1878
+  uploaded: 2026-05-28
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:37
       label: First Blood — Ahri kills Volibear
       kind: kill
@@ -52,5 +51,3 @@
       label: Mid Inhibitor falls (Blue)
     - at: 30:02
       label: Ahri takes down Naafiri
-    - at: 30:38
-      label: Defeat

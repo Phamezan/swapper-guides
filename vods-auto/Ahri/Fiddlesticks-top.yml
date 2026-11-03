@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1597
+  uploaded: 2026-05-20
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:19
       label: First Blood — Ahri kills Fiddlesticks
       kind: kill
@@ -56,5 +55,3 @@
       kind: kill
     - at: 26:14
       label: Bot Inhibitor falls (Red)
-    - at: 26:32
-      label: Victory

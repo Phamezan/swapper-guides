@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1709
+  uploaded: 2026-10-23
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:15
       label: First Blood — Ahri kills Lee Sin
       kind: kill
@@ -53,19 +52,15 @@
     - at: 27:36
       label: Ahri Double Kill
       kind: kill
-    - at: 27:49
-      label: Victory
 - videoId: 3ZydJtpJPh0
   title: (GSMC Alix) Ahri Mid vs Hwei (danzA) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1583
-  player: Alix
-  team: GSMC
+  player: GSMC Alix
+  uploaded: 2026-10-06
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:05
       label: First Blood — Ahri kills Hwei
       kind: kill
@@ -107,19 +102,23 @@
       label: Ahri outplays Bard again
     - at: 25:17
       label: Mid Inhibitor falls (Red)
-    - at: 25:43
-      label: Victory
+- videoId: Ruo_nr5ZeDM
+  title: "MID.GG: [ Pobelter ] Ahri MID vs Hwei | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.17"
+  durationSec: 1931
+  patchEstimated: true
+  player: Pobelter
+  uploaded: 2026-09-01
 - videoId: gQtiFL_dclU
   title: (DIA Yuros) Ahri Mid vs Hwei - EUW Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1754
-  player: Yuros
-  team: DIA
+  player: DIA Yuros
+  uploaded: 2026-08-17
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:25
       label: First Blood — Karthus kills Hwei
       kind: kill
@@ -166,19 +165,15 @@
       kind: dragon
     - at: 28:58
       label: Top Inhibitor falls (Blue)
-    - at: 29:09
-      label: Defeat
 - videoId: SCC-f8cR0RQ
   title: (DP Typhoon) Ahri Mid vs Hwei - EUW Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1457
-  player: Typhoon
-  team: DP
+  player: DP Typhoon
+  uploaded: 2026-08-12
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:48
       label: First Blood — Ahri kills Jarvan IV
       kind: kill
@@ -216,5 +211,3 @@
       kind: kill
     - at: 23:48
       label: Top Inhibitor falls (Blue)
-    - at: 24:12
-      label: Defeat

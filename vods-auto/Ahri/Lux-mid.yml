@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1645
+  uploaded: 2026-09-20
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 0:04
       label: First Blood — Ahri kills Poppy
       kind: kill
@@ -54,17 +53,14 @@
     - at: 26:53
       label: Ahri Double Kill
       kind: kill
-    - at: 27:14
-      label: Victory
 - videoId: TJjBkWbXQTs
   title: Ahri Mid vs Lux - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 2099
+  uploaded: 2026-08-31
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:42
       label: First Blood — Warwick kills Jarvan IV
       kind: kill
@@ -110,5 +106,3 @@
       label: Mid Inhibitor falls (Blue)
     - at: 34:45
       label: Ahri outduels Sona
-    - at: 34:54
-      label: Victory

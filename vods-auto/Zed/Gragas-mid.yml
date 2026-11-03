@@ -4,3 +4,51 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1731
+  uploaded: 2026-09-10
+  result: W
+  moments:
+    - at: 3:39
+      label: First Blood — Zed kills Lee Sin
+      kind: kill
+    - at: 7:30
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:55
+      label: Zed catches Twitch
+    - at: 13:39
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:27
+      label: Zed takes down Gragas
+    - at: 18:27
+      label: Zed outduels Twitch again
+    - at: 19:11
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 21:11
+      label: Gnar takes down Gragas
+    - at: 21:23
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:11
+      label: Zed takes down Nautilus
+    - at: 23:36
+      label: Zed takes down Rumble
+    - at: 24:32
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 24:54
+      label: Kog'Maw Double Kill
+      kind: kill
+    - at: 26:15
+      label: Zed outplays Rumble
+    - at: 27:54
+      label: Zed outplays Twitch (3rd time)
+    - at: 27:57
+      label: Zed Double Kill
+      kind: kill
+    - at: 28:17
+      label: Zed Double Kill
+      kind: kill
+    - at: 28:27
+      label: Mid Inhibitor falls (Red)

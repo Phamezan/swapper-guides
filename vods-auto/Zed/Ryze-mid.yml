@@ -4,31 +4,315 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1441
+  uploaded: 2026-10-29
+  result: W
+  moments:
+    - at: 3:47
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 5:15
+      label: Xin Zhao kills Naafiri
+      kind: kill
+    - at: 10:34
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:32
+      label: Xin Zhao takes down Lee Sin
+    - at: 15:11
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:50
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:52
+      label: Zed takes down Naafiri
+    - at: 18:01
+      label: Bot Inhibitor falls (Red)
+    - at: 18:21
+      label: Zed picks off Lee Sin
+    - at: 19:32
+      label: Sylas picks off Ezreal
+    - at: 21:02
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:32
+      label: Irelia kills Lee Sin
+      kind: kill
+    - at: 22:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:01
+      label: Zed takes down Naafiri
+    - at: 23:25
+      label: Cassiopeia eliminates Lee Sin
+    - at: 23:33
+      label: Mid Inhibitor falls (Red)
+    - at: 23:39
+      label: Bot Inhibitor falls (Red)
+    - at: 23:45
+      label: Top Inhibitor falls (Red)
 - videoId: 4k0TS5JGJ4k
   title: Zed Mid vs Ryze - KR Grandmaster Patch 26.21
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1752
+  uploaded: 2026-10-24
+  result: W
+  moments:
+    - at: 5:16
+      label: Zed takes down Camille
+    - at: 7:30
+      label: Taliyah picks off Ryze
+    - at: 10:29
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:53
+      label: Zed takes down Ryze
+    - at: 14:33
+      label: Zed kills Kalista
+      kind: kill
+    - at: 16:00
+      label: Zed kills Kalista
+      kind: kill
+    - at: 16:45
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:51
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:36
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:17
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:55
+      label: Taliyah picks off Ryze
+    - at: 28:02
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 28:20
+      label: Taliyah eliminates Kalista
+    - at: 28:44
+      label: Bot Inhibitor falls (Red)
+    - at: 28:46
+      label: Mid Inhibitor falls (Red)
 - videoId: RnYKdCbLfHQ
   title: Zed Mid vs Ryze - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1898
+  uploaded: 2026-09-12
+  result: W
+  moments:
+    - at: 5:02
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:35
+      label: First Blood — Zed kills Ryze
+      kind: kill
+    - at: 10:19
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:52
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 16:06
+      label: Lee Sin eliminates Ezreal
+    - at: 17:03
+      label: Lee Sin eliminates Ezreal
+    - at: 18:07
+      label: Zed takes down Alistar
+    - at: 19:40
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:09
+      label: Zed picks off Viego
+    - at: 21:49
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 25:39
+      label: Mid Inhibitor falls (Red)
+    - at: 27:31
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:45
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 28:04
+      label: Zed eliminates Ryze
+    - at: 28:55
+      label: Bot Inhibitor falls (Red)
+    - at: 29:11
+      label: Viktor kills Ryze
+      kind: kill
+    - at: 31:09
+      label: Lee Sin Double Kill
+      kind: kill
+    - at: 31:27
+      label: Mid Inhibitor falls (Red)
 - videoId: 60D-36YZXuI
   title: Zed Mid vs Ryze - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 2108
+  uploaded: 2026-09-06
+  result: W
+  moments:
+    - at: 6:10
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:08
+      label: First Blood — Zed kills Zyra
+      kind: kill
+    - at: 12:31
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:12
+      label: Zed outplays Camille
+    - at: 18:37
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:33
+      label: Tristana Triple Kill
+      kind: kill
+    - at: 22:24
+      label: Zed solo kills Camille again
+      kind: kill
+    - at: 26:08
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 26:39
+      label: Zed takes down Ryze
+    - at: 28:02
+      label: Red takes Baron
+      kind: baron
+    - at: 28:10
+      label: Zed catches Xayah
+    - at: 30:55
+      label: Zed catches Ryze again
+    - at: 31:03
+      label: Tristana takes down Xayah
+    - at: 31:19
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 31:54
+      label: Zed takes down Camille (3rd time)
+    - at: 32:42
+      label: Bot Inhibitor falls (Red)
+    - at: 33:48
+      label: Zed solo kills Zyra
+      kind: kill
+    - at: 34:41
+      label: Mid Inhibitor falls (Red)
+- videoId: nZHM_6LlcgE
+  title: Zed vs Ryze [ MID ] Korea Master 471 LP | Patch 26.16
+  rankClaim: Master
+  patch: "26.16"
+  durationSec: 1454
+  region: KR
+  uploaded: 2026-08-24
 - videoId: 1s4H0nqGgNU
   title: Zed Mid vs Ryze - KR Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1569
+  uploaded: 2026-08-16
+  result: W
+  moments:
+    - at: 8:22
+      label: First Blood — Zed kills Ryze
+      kind: kill
+    - at: 10:50
+      label: Zed takes down Ryze
+    - at: 12:20
+      label: Jax eliminates Nasus
+    - at: 13:28
+      label: Zed takes down Galio
+    - at: 13:56
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:16
+      label: Zed picks off Zyra
+    - at: 15:07
+      label: Zed takes down Nasus
+    - at: 16:17
+      label: Zed solo kills Zyra
+      kind: kill
+    - at: 18:33
+      label: Zed takes down Galio
+    - at: 19:12
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:57
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:22
+      label: Zed catches Xayah
+    - at: 22:54
+      label: Zed outduels Xayah again
+    - at: 23:13
+      label: Zed takes down Galio
+    - at: 23:38
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:29
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:11
+      label: Bot Inhibitor falls (Red)
 - videoId: eaNo93VUtsw
   title: Zed Mid vs Ryze - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1761
+  uploaded: 2026-06-27
+  result: L
+  moments:
+    - at: 5:04
+      label: First Blood — Zed kills Wukong
+      kind: kill
+    - at: 5:48
+      label: Rengar takes down Wukong
+    - at: 8:38
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:15
+      label: Zed takes down Leona
+    - at: 12:11
+      label: Zed eliminates Ryze
+    - at: 13:55
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:08
+      label: Nautilus eliminates Viego
+    - at: 15:35
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:22
+      label: Zed picks off Wukong
+    - at: 19:47
+      label: Zed catches Ezreal
+    - at: 20:43
+      label: Red takes Baron
+      kind: baron
+    - at: 21:27
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:46
+      label: Zed solo kills Wukong
+      kind: kill
+    - at: 24:36
+      label: Zed outplays Viego
+    - at: 26:05
+      label: Zed outduels Ezreal again
+    - at: 26:46
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 27:26
+      label: Rengar eliminates Ezreal
+    - at: 28:52
+      label: Zed takes down Viego
 - videoId: 7XW0ip8gsZQ
   title: Zed Mid vs Ryze - KR Grandmaster Patch 26.08
   rankClaim: Grandmaster

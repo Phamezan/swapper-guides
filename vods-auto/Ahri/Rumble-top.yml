@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1633
+  uploaded: 2026-05-27
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:53
       label: Red takes 1st Dragon (Cloud)
       kind: dragon
@@ -53,17 +52,14 @@
     - at: 26:50
       label: Lucian Quadra Kill
       kind: kill
-    - at: 27:08
-      label: Defeat
 - videoId: Nn0Ky6445vw
   title: Ahri Top vs Rumble - EUW Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1840
+  uploaded: 2026-05-07
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:01
       label: First Blood — Ahri kills Rumble
       kind: kill
@@ -101,5 +97,3 @@
       kind: kill
     - at: 30:17
       label: Bot Inhibitor falls (Blue)
-    - at: 30:35
-      label: Defeat

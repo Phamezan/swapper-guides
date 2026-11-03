@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1673
+  uploaded: 2026-08-11
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:46
       label: First Blood — Ahri kills Fiora
       kind: kill
@@ -50,17 +49,14 @@
       label: Syndra eliminates Bel'Veth
     - at: 26:49
       label: Mid Inhibitor falls (Red)
-    - at: 27:13
-      label: Victory
 - videoId: Xd79NB1s1ng
   title: Ahri Top vs Fiora - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1628
+  uploaded: 2026-05-29
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:56
       label: First Blood — Ahri kills Fiora
       kind: kill
@@ -109,48 +105,33 @@
       label: Ahri takes down Kai'Sa again
     - at: 26:01
       label: Mid Inhibitor falls (Blue)
-    - at: 26:28
-      label: Defeat
 - videoId: xiiBpIfT7cc
   title: Ahri Top vs Fiora - EUW Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1595
+  uploaded: 2026-02-07
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 5:45
       label: Team FIGHT
       kind: teamfight
-    - at: 6:13
-      label: Gameplay
     - at: 7:06
       label: Team FIGHT
       kind: teamfight
-    - at: 7:34
-      label: Gameplay
     - at: 10:43
       label: Get a SOLO KILL
       kind: kill
-    - at: 11:11
-      label: Gameplay
     - at: 12:37
       label: Get a Quadra Kill
       kind: kill
     - at: 13:06
       label: Team FIGHT
       kind: teamfight
-    - at: 13:22
-      label: Gameplay
     - at: 14:34
       label: Team FIGHT
       kind: teamfight
-    - at: 15:02
-      label: Gameplay
     - at: 15:33
       label: Team FIGHT
       kind: teamfight
@@ -160,23 +141,15 @@
     - at: 16:24
       label: Team FIGHT
       kind: teamfight
-    - at: 16:44
-      label: Gameplay
     - at: 18:14
       label: Get a Quadra Kill
       kind: kill
-    - at: 18:57
-      label: Gameplay
     - at: 22:00
       label: Team FIGHT
       kind: teamfight
-    - at: 22:54
-      label: Gameplay
     - at: 23:26
       label: Team FIGHT
       kind: teamfight
-    - at: 23:54
-      label: Gameplay
     - at: 25:17
       label: Team FIGHT
       kind: teamfight

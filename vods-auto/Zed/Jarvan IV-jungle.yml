@@ -4,35 +4,254 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1701
+  uploaded: 2026-09-28
+  result: W
+  moments:
+    - at: 2:16
+      label: First Blood — Volibear kills K'Sante
+      kind: kill
+    - at: 6:30
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:08
+      label: Zed outplays Jarvan IV
+    - at: 13:49
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:05
+      label: Viktor eliminates Ahri
+    - at: 16:17
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:46
+      label: Zed solo kills Ahri
+      kind: kill
+    - at: 17:56
+      label: Viktor takes down Taric
+    - at: 19:05
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 19:07
+      label: Amumu eliminates Taric
+    - at: 20:34
+      label: Viktor picks off Jarvan IV
+    - at: 22:33
+      label: Zed eliminates Aphelios
+    - at: 22:43
+      label: Zed Triple Kill
+      kind: kill
+    - at: 23:11
+      label: Red takes Baron
+      kind: baron
+    - at: 24:13
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 24:50
+      label: Tristana picks off Taric
+    - at: 25:13
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:32
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: oMypGHUgZNg
   title: Zed Jungle vs Jarvan IV - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1554
+  uploaded: 2026-09-17
+  result: W
+  moments:
+    - at: 3:26
+      label: First Blood — Ahri kills Yorick
+      kind: kill
+    - at: 7:47
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:02
+      label: Yunara takes down Zeri
+    - at: 9:43
+      label: Zed takes down Jarvan IV
+    - at: 10:53
+      label: Zed kills Swain
+      kind: kill
+    - at: 13:09
+      label: Lissandra kills Zeri
+      kind: kill
+    - at: 13:17
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:08
+      label: Yunara Double Kill
+      kind: kill
+    - at: 15:37
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:36
+      label: Lissandra picks off Jarvan IV
+    - at: 19:30
+      label: Zed kills Swain
+      kind: kill
+    - at: 20:03
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 20:56
+      label: Zed solo kills LeBlanc
+      kind: kill
+    - at: 21:55
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:04
+      label: Yunara Double Kill
+      kind: kill
+    - at: 23:07
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 23:42
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:09
+      label: Bot Inhibitor falls (Red)
 - videoId: 0q9ub5CMjBA
   title: Zed Jungle vs Jarvan IV - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1774
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 5:14
+      label: First Blood — Zed kills Swain
+      kind: kill
+    - at: 5:32
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:53
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:53
+      label: Zed takes down Jarvan IV
+    - at: 16:04
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 17:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:30
+      label: Sylas takes down Blitzcrank
+    - at: 21:17
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:46
+      label: Zed kills Blitzcrank
+      kind: kill
+    - at: 23:39
+      label: Zed outplays Jarvan IV
+    - at: 25:28
+      label: Zed eliminates Ezreal
+    - at: 25:50
+      label: Red takes Baron
+      kind: baron
+    - at: 26:28
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 27:41
+      label: Zed picks off Orianna
+    - at: 28:36
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:47
+      label: Zed picks off Orianna
+    - at: 28:58
+      label: Bot Inhibitor falls (Blue)
+    - at: 29:02
+      label: Zed takes down Jarvan IV
 - videoId: lbnXvwrlz78
   title: (USE White) Zed Jungle vs Jarvan IV (IJC Manaty) - EUW Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1486
-  player: White
-  team: USE
+  player: USE White
+  uploaded: 2026-08-15
+  result: L
+  moments:
+    - at: 4:09
+      label: First Blood — Zed kills Heimerdinger
+      kind: kill
+    - at: 8:17
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:19
+      label: Zed eliminates Varus
+    - at: 13:37
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 14:37
+      label: Zed takes down Jarvan IV
+    - at: 15:59
+      label: Zed outduels Riven
+    - at: 16:19
+      label: Zed eliminates Varus
+    - at: 19:07
+      label: Kalista eliminates Jarvan IV
+    - at: 20:10
+      label: Zed takes down Jarvan IV
+    - at: 20:32
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 22:28
+      label: Red takes Baron
+      kind: baron
+    - at: 23:16
+      label: Zed outplays Riven again
 - videoId: EQFJmnzucYQ
   title: Zed Jungle vs Jarvan IV - EUW Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1834
+  uploaded: 2026-08-12
+  result: L
+  moments:
+    - at: 2:58
+      label: First Blood — Zed kills Rakan
+      kind: kill
+    - at: 5:39
+      label: Zed eliminates Viktor
+    - at: 9:22
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:03
+      label: Zed picks off Akali
+    - at: 14:08
+      label: Zed outduels Ambessa
+    - at: 14:40
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:38
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:24
+      label: Zed kills Rakan
+      kind: kill
+    - at: 25:22
+      label: Ahri kills Viktor
+      kind: kill
+    - at: 25:55
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 27:30
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:04
+      label: Lucian eliminates Jarvan IV
+    - at: 29:54
+      label: Zed takes down Jarvan IV
 - videoId: X8-MiunsItY
   title: (IN5 Alix) Zed Jungle vs Jarvan IV - EUW Challenger Patch 26.11
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1801
-  player: Alix
-  team: IN5
+  player: IN5 Alix
 - videoId: HYPVoRyt2HY
   title: Zed Jungle vs Jarvan IV - EUW Master Patch 26.11
   rankClaim: Master

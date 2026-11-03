@@ -4,6 +4,54 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1723
+  uploaded: 2026-08-13
+  result: L
+  moments:
+    - at: 5:25
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:09
+      label: First Blood — Nidalee kills Rek'Sai
+      kind: kill
+    - at: 11:50
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 12:03
+      label: Zed picks off Kai'Sa
+    - at: 14:32
+      label: Lissandra takes down Ekko
+    - at: 16:46
+      label: Zed picks off Kai'Sa
+    - at: 17:34
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 17:57
+      label: Zed picks off Kai'Sa
+    - at: 21:28
+      label: Nidalee kills Garen
+      kind: kill
+    - at: 21:32
+      label: Red takes Baron
+      kind: baron
+    - at: 22:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:27
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 24:31
+      label: Ahri picks off Rek'Sai
+    - at: 24:58
+      label: Zed outplays Ekko
+    - at: 25:11
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:51
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:48
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:03
+      label: Zed picks off Kai'Sa
 - videoId: R2Jb6-_3XD0
   title: Zed Top vs Garen - EUW Master Patch 26.12
   rankClaim: Master

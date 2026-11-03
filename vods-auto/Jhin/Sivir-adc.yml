@@ -4,3 +4,20 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1836
+  uploaded: 2026-10-19
+- videoId: gHHiSghjZ_4
+  title: HLE Gumayusi Jhin vs Sivir [ ADC ] Korea Challenger 2463 LP | Patch 26.8
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1599
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: atNoBB5pa3E
+  title: T1 Peyz Jhin vs Sivir [ ADC ] Korea Challenger 2050 LP | Patch 26.5
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1490
+  region: KR
+  player: Peyz
+  team: T1

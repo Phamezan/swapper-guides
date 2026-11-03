@@ -5,46 +5,342 @@
   patch: "26.21"
   durationSec: 1617
   player: MagiFelix
+  uploaded: 2026-10-27
+  result: W
+  moments:
+    - at: 5:40
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 6:53
+      label: Zed takes down Pyke
+    - at: 7:21
+      label: Zed eliminates Aurora
+    - at: 9:49
+      label: Zed eliminates Aurora
+    - at: 10:17
+      label: Zed outduels Pyke
+    - at: 11:36
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:20
+      label: Zed eliminates Aurora
+    - at: 14:25
+      label: Aurelion Sol eliminates Vi
+    - at: 17:08
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:26
+      label: Shen kills Vi
+      kind: kill
+    - at: 20:10
+      label: Irelia kills Vi
+      kind: kill
+    - at: 21:46
+      label: Zed outplays Pyke again
+    - at: 21:52
+      label: Red takes Baron
+      kind: baron
+    - at: 22:16
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 25:55
+      label: Shen eliminates Rumble
+    - at: 26:31
+      label: Mid Inhibitor falls (Blue)
 - videoId: DjjQ9FY0HKY
   title: Zed Mid vs Aurora - KR Grandmaster Patch 26.21
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 2111
+  uploaded: 2026-10-25
+  result: W
+  moments:
+    - at: 8:58
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:07
+      label: Zed catches Aphelios
+    - at: 15:16
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:13
+      label: Zed solo kills Fiddlesticks
+      kind: kill
+    - at: 20:39
+      label: Red takes Baron
+      kind: baron
+    - at: 20:53
+      label: Akali picks off Aphelios
+    - at: 22:26
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:53
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:49
+      label: Zed outduels Aphelios again
+    - at: 25:31
+      label: Mid Inhibitor falls (Red)
+    - at: 27:43
+      label: Bot Inhibitor falls (Red)
+    - at: 28:05
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:07
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:46
+      label: Jinx eliminates Fiddlesticks
+    - at: 33:18
+      label: Akali Double Kill
+      kind: kill
+    - at: 34:16
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 34:47
+      label: Zed takes down Fiddlesticks again
+    - at: 34:54
+      label: Akali Double Kill
+      kind: kill
 - videoId: qqpP6b3BB8I
   title: (BZ) Zed Mid vs Aurora (Pesho) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1850
   player: BZ
+  uploaded: 2026-10-05
+  result: W
+  moments:
+    - at: 3:20
+      label: First Blood — Zed kills Aurora
+      kind: kill
+    - at: 6:07
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:26
+      label: Zed takes down Aurora
+    - at: 11:44
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:30
+      label: Talon kills Akali
+      kind: kill
+    - at: 16:58
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 17:03
+      label: Zed kills Aphelios
+      kind: kill
+    - at: 18:13
+      label: Zed kills Aphelios
+      kind: kill
+    - at: 21:37
+      label: Talon takes down Naafiri
+    - at: 22:15
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:02
+      label: Talon kills Thresh
+      kind: kill
+    - at: 23:27
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:31
+      label: Zed takes down Thresh
+    - at: 27:43
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 28:16
+      label: Zed outduels Thresh
+    - at: 28:23
+      label: Zed Double Kill
+      kind: kill
+    - at: 29:51
+      label: Yunara takes down Aphelios
+    - at: 30:19
+      label: Mid Inhibitor falls (Red)
 - videoId: B64ZfFa2VCA
   title: Zed Mid vs Aurora - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1668
+  uploaded: 2026-09-25
+  result: W
+  moments:
+    - at: 6:54
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:31
+      label: First Blood — Vi kills Aurora
+      kind: kill
+    - at: 12:39
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:59
+      label: Zed takes down Dr. Mundo
+    - at: 15:54
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 18:09
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:07
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:18
+      label: Zed eliminates Aurora
+    - at: 22:33
+      label: Zed solo kills Talon
+      kind: kill
+    - at: 23:25
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 25:11
+      label: Red takes Baron
+      kind: baron
+    - at: 26:22
+      label: Camille takes down Aurora
+    - at: 26:56
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:14
+      label: Top Inhibitor falls (Blue)
 - videoId: X24jBK4g850
   title: Zed Mid vs Aurora - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 2143
+  uploaded: 2026-09-08
+  result: W
+  moments:
+    - at: 4:39
+      label: First Blood — Zed kills Lucian
+      kind: kill
+    - at: 5:13
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:04
+      label: Zed outplays Olaf
+    - at: 11:32
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:08
+      label: Zed catches Lucian
+    - at: 15:40
+      label: Zed takes down Aurora
+    - at: 18:10
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:17
+      label: Red takes Baron
+      kind: baron
+    - at: 24:52
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 29:59
+      label: Zed solo kills Olaf again
+      kind: kill
+    - at: 30:21
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 31:24
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 32:20
+      label: Jax takes down Aurora
+    - at: 32:30
+      label: Top Inhibitor falls (Blue)
+    - at: 32:32
+      label: Mid Inhibitor falls (Blue)
+    - at: 34:25
+      label: Zed kills Lucian
+      kind: kill
+    - at: 34:33
+      label: Zed Triple Kill
+      kind: kill
+    - at: 34:47
+      label: Bot Inhibitor falls (Blue)
 - videoId: mXTV_dP8vSg
   title: Zed Mid vs Aurora - KR Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1500
+  uploaded: 2026-08-27
+  result: W
+  moments:
+    - at: 5:40
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 6:02
+      label: First Blood — Zed kills Aurora
+      kind: kill
+    - at: 8:58
+      label: Naafiri takes down Lee Sin
+    - at: 11:27
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:45
+      label: Gnar eliminates Maokai
+    - at: 17:13
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 20:06
+      label: Zed kills Corki
+      kind: kill
+    - at: 21:52
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 22:40
+      label: Red takes Baron
+      kind: baron
+    - at: 23:20
+      label: Zed eliminates Aurora
+    - at: 23:56
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 24:11
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:21
+      label: Mid Inhibitor falls (Blue)
 - videoId: i2toa9Xf9RM
   title: (LYON Dhokla) Zed Mid vs Aurora - NA Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1542
-  player: Dhokla
-  team: LYON
+  player: LYON Dhokla
+  uploaded: 2026-07-26
+  result: L
+  moments:
+    - at: 5:25
+      label: Ivern takes down Lee Sin
+    - at: 8:10
+      label: Ivern picks off Aurora
+    - at: 8:58
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:56
+      label: Zed takes down Aurora
+    - at: 13:29
+      label: Zed picks off Lee Sin
+    - at: 16:53
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:26
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 22:08
+      label: Zed takes down Teemo
+    - at: 22:44
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 24:18
+      label: Red takes Baron
+      kind: baron
 - videoId: BYKX3GT17pQ
   title: (IN5 Alix) Zed Mid vs Aurora - EUW Challenger Patch 26.12
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1601
-  player: Alix
-  team: IN5
+  player: IN5 Alix
 - videoId: 65cha420vhk
   title: Zed Mid vs Aurora - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster

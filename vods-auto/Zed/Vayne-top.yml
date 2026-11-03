@@ -4,11 +4,111 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1655
+  uploaded: 2026-08-07
+  result: W
+  moments:
+    - at: 4:57
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 5:50
+      label: First Blood — Vladimir kills Malzahar
+      kind: kill
+    - at: 7:48
+      label: Xin Zhao kills Vayne
+      kind: kill
+    - at: 11:40
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 12:19
+      label: Vladimir eliminates Malzahar
+    - at: 12:39
+      label: Zed kills Graves
+      kind: kill
+    - at: 14:52
+      label: Zed kills Graves
+      kind: kill
+    - at: 15:12
+      label: Zed eliminates Vayne
+    - at: 16:38
+      label: Zed eliminates Karma
+    - at: 17:32
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 19:32
+      label: Zed solo kills Jayce
+      kind: kill
+    - at: 20:53
+      label: Zed takes down Malzahar
+    - at: 22:05
+      label: Zed kills Graves
+      kind: kill
+    - at: 23:28
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:43
+      label: Zed picks off Jayce
+    - at: 24:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:19
+      label: Mid Inhibitor falls (Red)
+    - at: 26:58
+      label: Kog'Maw kills Malzahar
+      kind: kill
 - videoId: JEBhAwc_Y_k
   title: Zed Top vs Vayne - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1573
+  uploaded: 2026-06-30
+  result: W
+  moments:
+    - at: 7:32
+      label: First Blood — Zed kills Vayne
+      kind: kill
+    - at: 8:23
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:32
+      label: Blitzcrank eliminates Vayne
+    - at: 13:41
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:35
+      label: Zed catches Vayne
+    - at: 16:05
+      label: Zeri kills Sylas
+      kind: kill
+    - at: 18:57
+      label: Zed eliminates Vayne
+    - at: 20:03
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:39
+      label: Zed Triple Kill
+      kind: kill
+    - at: 20:46
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 21:12
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:40
+      label: Malzahar kills Mel
+      kind: kill
+    - at: 24:07
+      label: Zed picks off Mel
+    - at: 25:10
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 25:18
+      label: Zed Double Kill
+      kind: kill
+    - at: 25:24
+      label: Zed Triple Kill
+      kind: kill
+    - at: 25:51
+      label: Mid Inhibitor falls (Red)
 - videoId: CRBqvviUhko
   title: Zed Top vs Vayne - EUW Challenger Patch 26.12
   rankClaim: Challenger

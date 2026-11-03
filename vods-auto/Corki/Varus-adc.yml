@@ -4,5 +4,15 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1340
+  region: NA
   player: Gumayusi
   team: HLE
+  uploaded: 2026-10-23
+- videoId: hXA_p5U204Y
+  title: T1 Peyz Corki vs Varus [ ADC ] Korea Challenger 2483 LP | Patch 26.7
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1579
+  region: KR
+  player: Peyz
+  team: T1

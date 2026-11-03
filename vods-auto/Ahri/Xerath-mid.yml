@@ -6,10 +6,9 @@
   durationSec: 1921
   player: Karis
   team: WE
+  uploaded: 2026-10-25
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 13:19
       label: Blue takes 1st Dragon (Mountain)
       kind: dragon
@@ -54,5 +53,11 @@
       kind: kill
     - at: 31:34
       label: Mid Inhibitor falls (Blue)
-    - at: 31:56
-      label: Victory
+- videoId: 1WEx1rVN2Tg
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Xerath | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.20"
+  durationSec: 1577
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-13

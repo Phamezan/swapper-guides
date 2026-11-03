@@ -4,3 +4,58 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1644
+  uploaded: 2026-09-23
+  result: W
+  moments:
+    - at: 1:51
+      label: First Blood — Zed kills Cho'Gath
+      kind: kill
+    - at: 6:22
+      label: Ezreal takes down Seraphine
+    - at: 7:12
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:06
+      label: Fizz picks off Pantheon
+    - at: 13:06
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:04
+      label: Ambessa kills Cho'Gath
+      kind: kill
+    - at: 16:21
+      label: Zed takes down Pyke
+    - at: 17:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:33
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:58
+      label: Zed picks off Cho'Gath
+    - at: 23:29
+      label: Ezreal eliminates Cho'Gath
+    - at: 23:32
+      label: Ezreal Triple Kill
+      kind: kill
+    - at: 24:20
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:03
+      label: Fizz picks off Pantheon
+    - at: 25:30
+      label: Red takes Baron
+      kind: baron
+    - at: 26:43
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:59
+      label: Mid Inhibitor falls (Blue)
+- videoId: eFb-JBtt49g
+  title: T1 Faker Zed vs Pantheon [ MID ] Patch 26.8 Korea Challenger 1872 LP
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1856
+  region: KR
+  player: Faker
+  team: T1

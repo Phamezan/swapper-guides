@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1620
+  uploaded: 2026-09-12
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:53
       label: Blue takes 1st Dragon (Chemtech)
       kind: dragon
@@ -56,5 +55,3 @@
     - at: 24:55
       label: Kha'Zix kills Nami
       kind: kill
-    - at: 26:55
-      label: Victory

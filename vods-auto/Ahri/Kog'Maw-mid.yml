@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1445
+  uploaded: 2026-10-29
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:53
       label: Ahri eliminates Kog'Maw
     - at: 4:52
@@ -47,17 +46,14 @@
       kind: dragon
     - at: 23:40
       label: Top Inhibitor falls (Blue)
-    - at: 24:00
-      label: Victory
 - videoId: -s_2waQU1BY
   title: Ahri Mid vs Kog'Maw - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 2103
+  uploaded: 2026-09-20
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:20
       label: First Blood — Ahri kills Kog'Maw
       kind: kill
@@ -104,5 +100,3 @@
       kind: kill
     - at: 34:03
       label: Mid Inhibitor falls (Blue)
-    - at: 34:23
-      label: Victory

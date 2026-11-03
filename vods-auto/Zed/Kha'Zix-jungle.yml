@@ -4,16 +4,156 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1449
+  uploaded: 2026-10-16
+  result: W
+  moments:
+    - at: 1:39
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 2:14
+      label: Zed eliminates Jinx
+    - at: 5:59
+      label: Zed picks off Sylas
+    - at: 8:11
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:55
+      label: Zed picks off Sylas
+    - at: 11:02
+      label: Zed catches Lulu
+    - at: 12:39
+      label: Zed outduels Mordekaiser
+    - at: 13:43
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:21
+      label: Zed outduels Lulu again
+    - at: 14:23
+      label: Zed Double Kill
+      kind: kill
+    - at: 15:46
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:55
+      label: Zed outplays Lulu (3rd time)
+    - at: 19:23
+      label: Leona eliminates Mordekaiser
+    - at: 19:44
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 21:20
+      label: Jax picks off Jinx
+    - at: 23:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:45
+      label: Mid Inhibitor falls (Red)
 - videoId: 92JT9lKXbzQ
   title: Zed Jungle vs Kha'Zix - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1741
+  uploaded: 2026-09-26
+  result: W
+  moments:
+    - at: 3:06
+      label: First Blood — Yorick kills Udyr
+      kind: kill
+    - at: 8:31
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:04
+      label: Zed outplays Kha'Zix
+    - at: 14:01
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:35
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 20:13
+      label: Master Yi Double Kill
+      kind: kill
+    - at: 20:40
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:13
+      label: Yorick eliminates Udyr
+    - at: 24:42
+      label: Master Yi Double Kill
+      kind: kill
+    - at: 25:14
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 25:23
+      label: Top Inhibitor falls (Red)
+    - at: 26:30
+      label: Zed takes down Aphelios
+    - at: 26:38
+      label: Master Yi eliminates Kha'Zix
+    - at: 27:03
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:16
+      label: Yorick eliminates Leona
+    - at: 27:43
+      label: Zed kills Udyr
+      kind: kill
+    - at: 28:27
+      label: Mid Inhibitor falls (Red)
+    - at: 28:40
+      label: Bot Inhibitor falls (Red)
 - videoId: 5-VrmTrOmQc
   title: Zed Jungle vs Kha'Zix - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 2047
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 4:07
+      label: First Blood — Zed kills Kalista
+      kind: kill
+    - at: 10:54
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:37
+      label: Zed takes down Kalista
+    - at: 16:50
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 22:19
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:20
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:33
+      label: Zed outplays Kha'Zix
+    - at: 25:46
+      label: Zed picks off Diana
+    - at: 27:31
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 30:07
+      label: Red takes Baron
+      kind: baron
+    - at: 31:05
+      label: Mid Inhibitor falls (Blue)
+    - at: 31:18
+      label: Top Inhibitor falls (Blue)
+    - at: 31:31
+      label: Zed catches Kalista again
+    - at: 31:57
+      label: Zed kills Neeko
+      kind: kill
+    - at: 32:06
+      label: Bot Inhibitor falls (Blue)
+    - at: 33:00
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 33:49
+      label: Kai'Sa Double Kill
+      kind: kill
 - videoId: sI7fThW4_IY
   title: Zed Jungle vs Kha'Zix - EUW Master Patch 26.11
   rankClaim: Master

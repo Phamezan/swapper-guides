@@ -4,3 +4,53 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1888
+  uploaded: 2026-09-18
+  result: W
+  moments:
+    - at: 3:55
+      label: First Blood — Zed kills Tristana
+      kind: kill
+    - at: 10:22
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:55
+      label: Zed takes down Tristana
+    - at: 15:22
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 17:24
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:15
+      label: Red takes Baron
+      kind: baron
+    - at: 22:32
+      label: Nidalee takes down Briar
+    - at: 22:44
+      label: Nidalee Triple Kill
+      kind: kill
+    - at: 22:46
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 24:52
+      label: Yunara takes down Syndra
+    - at: 26:27
+      label: Zed eliminates Tristana
+    - at: 26:51
+      label: Nidalee takes down Briar
+    - at: 28:10
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 28:45
+      label: Yunara Double Kill
+      kind: kill
+    - at: 29:18
+      label: Mid Inhibitor falls (Red)
+    - at: 29:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 31:07
+      label: Yasuo Double Kill
+      kind: kill
+    - at: 31:18
+      label: Bot Inhibitor falls (Red)

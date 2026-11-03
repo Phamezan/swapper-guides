@@ -4,3 +4,50 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1560
+  uploaded: 2026-09-20
+  result: W
+  moments:
+    - at: 0:30
+      label: First Blood — Ambessa kills Olaf
+      kind: kill
+    - at: 4:20
+      label: Zed picks off Sylas
+    - at: 4:55
+      label: Zed eliminates Riven
+    - at: 8:19
+      label: Qiyana picks off Riven
+    - at: 8:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:29
+      label: Zed takes down Riven
+    - at: 15:50
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:59
+      label: Zed kills Jhin
+      kind: kill
+    - at: 16:34
+      label: Zed eliminates Riven
+    - at: 19:24
+      label: Zed catches Riven again
+    - at: 20:28
+      label: Zed takes down Olaf
+    - at: 21:07
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 21:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:05
+      label: Red takes Baron
+      kind: baron
+    - at: 22:58
+      label: Ambessa eliminates Seraphine
+    - at: 23:32
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:52
+      label: Zed solo kills Sylas
+      kind: kill
+    - at: 24:56
+      label: Ambessa takes down Riven

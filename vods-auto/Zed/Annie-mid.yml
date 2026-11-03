@@ -4,3 +4,53 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1980
+  uploaded: 2026-10-15
+  result: W
+  moments:
+    - at: 2:58
+      label: First Blood — Zed kills Annie
+      kind: kill
+    - at: 5:36
+      label: Zed takes down Annie
+    - at: 6:55
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:30
+      label: Zed catches Annie again
+    - at: 13:14
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:45
+      label: Zed solo kills Darius
+      kind: kill
+    - at: 17:09
+      label: Zed outduels Annie (3rd time)
+    - at: 18:28
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:07
+      label: Red takes Baron
+      kind: baron
+    - at: 23:53
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 24:23
+      label: Zed outplays Yone
+    - at: 27:56
+      label: Zed catches Jhin
+    - at: 27:58
+      label: Zed Double Kill
+      kind: kill
+    - at: 28:13
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:20
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:23
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 32:17
+      label: Kennen takes down Annie
+    - at: 32:34
+      label: Top Inhibitor falls (Blue)

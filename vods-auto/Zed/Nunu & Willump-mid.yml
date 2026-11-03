@@ -4,8 +4,90 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1408
+  uploaded: 2026-10-07
+  result: W
+  moments:
+    - at: 4:01
+      label: First Blood — Xin Zhao kills Nunu & Willump
+      kind: kill
+    - at: 5:18
+      label: Elise takes down Nunu & Willump
+    - at: 6:46
+      label: Zed eliminates Nunu & Willump
+    - at: 8:16
+      label: Zed eliminates Nunu & Willump
+    - at: 9:29
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:03
+      label: Zed eliminates Nunu & Willump
+    - at: 15:22
+      label: Zed Double Kill
+      kind: kill
+    - at: 15:36
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:14
+      label: Zed catches Aphelios
+    - at: 20:53
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:51
+      label: Gwen takes down Nunu & Willump
+    - at: 21:56
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:50
+      label: Gwen takes down Nunu & Willump
 - videoId: geWGOGNMrL0
   title: Zed Mid vs Nunu & Willump - KR Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1788
+  uploaded: 2026-08-27
+  result: W
+  moments:
+    - at: 4:44
+      label: First Blood — Briar kills Nunu & Willump
+      kind: kill
+    - at: 6:00
+      label: Zed eliminates Nunu & Willump
+    - at: 8:20
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:05
+      label: Renekton kills Vi
+      kind: kill
+    - at: 16:16
+      label: Zed picks off Vi
+    - at: 17:15
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:39
+      label: Zed Double Kill
+      kind: kill
+    - at: 18:58
+      label: Corki eliminates Vi
+    - at: 20:35
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:25
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:28
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:37
+      label: Corki eliminates Vi
+    - at: 25:39
+      label: Briar takes down Vi
+    - at: 27:46
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 28:29
+      label: Briar Double Kill
+      kind: kill
+    - at: 28:51
+      label: Mid Inhibitor falls (Blue)

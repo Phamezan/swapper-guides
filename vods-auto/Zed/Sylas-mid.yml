@@ -4,63 +4,619 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1846
+  uploaded: 2026-10-27
+  result: W
+  moments:
+    - at: 1:56
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 6:06
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:27
+      label: Zed takes down Sylas
+    - at: 13:04
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 16:47
+      label: Zed catches Sylas again
+    - at: 19:47
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:54
+      label: Zed outduels Sylas (3rd time)
+    - at: 21:02
+      label: Zed takes down Rakan
+    - at: 21:19
+      label: Zed catches Viktor
+    - at: 21:42
+      label: Zed eliminates Sylas
+    - at: 22:25
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:26
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:21
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 26:42
+      label: Bot Inhibitor falls (Red)
+    - at: 26:51
+      label: Mid Inhibitor falls (Red)
+    - at: 27:31
+      label: Zyra picks off Sylas
+    - at: 29:44
+      label: Zed outplays K'Sante
+    - at: 30:20
+      label: Zed eliminates Sylas
 - videoId: SuPwedh_sjw
   title: Zed Mid vs Sylas - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1752
+  uploaded: 2026-10-23
+  result: W
+  moments:
+    - at: 5:08
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:35
+      label: First Blood — Zed kills Yunara
+      kind: kill
+    - at: 10:16
+      label: Zyra picks off Sylas
+    - at: 10:38
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 11:45
+      label: Zed picks off Wukong
+    - at: 14:08
+      label: Zed catches Yunara
+    - at: 14:26
+      label: Zed takes down Sylas
+    - at: 15:11
+      label: Zed outduels Yunara again
+    - at: 16:02
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:45
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:34
+      label: Ezreal takes down Yunara
+    - at: 20:46
+      label: Zed eliminates Sylas
+    - at: 21:16
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:12
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:27
+      label: Zed picks off Wukong
+    - at: 27:35
+      label: Zed takes down Neeko
+    - at: 28:01
+      label: Mid Inhibitor falls (Red)
+    - at: 28:44
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: E1IX0N0e894
   title: (Usan) Zed Mid vs Sylas (SK Mikyx) - EUW Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1830
   player: Usan
+  uploaded: 2026-10-16
+  result: W
+  moments:
+    - at: 2:18
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 6:42
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:34
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:40
+      label: Zed outplays Lucian
+    - at: 20:39
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:03
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:50
+      label: Mid Inhibitor falls (Red)
+    - at: 23:18
+      label: Zed solo kills Lucian again
+      kind: kill
+    - at: 23:26
+      label: Bot Inhibitor falls (Red)
+    - at: 24:33
+      label: Zed picks off Elise
+    - at: 24:47
+      label: Zed takes down Sylas
+    - at: 26:52
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 27:40
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:49
+      label: Xerath Double Kill
+      kind: kill
+    - at: 29:03
+      label: Zed outduels Camille
+    - at: 29:13
+      label: Zed picks off Elise
+    - at: 29:32
+      label: Mid Inhibitor falls (Red)
+    - at: 29:40
+      label: Bard eliminates Lucian
 - videoId: Mu9Oa67hHYY
   title: Zed Mid vs Sylas (Inugami) - EUW Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1393
+  uploaded: 2026-10-11
+  result: W
+  moments:
+    - at: 2:45
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:51
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:56
+      label: Zed takes down Sylas
+    - at: 9:00
+      label: Zed catches Sylas again
+    - at: 11:17
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:52
+      label: Zed takes down Irelia
+    - at: 13:49
+      label: Zed picks off Viego
+    - at: 16:32
+      label: Bard eliminates Irelia
+    - at: 17:49
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 18:21
+      label: Zed takes down Tahm Kench
+    - at: 18:30
+      label: Zed Triple Kill
+      kind: kill
+    - at: 18:35
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 19:56
+      label: Zed takes down Tahm Kench
+    - at: 20:24
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:36
+      label: Zed kills Tristana
+      kind: kill
+    - at: 21:08
+      label: Zed takes down Tahm Kench
+    - at: 22:08
+      label: Zed outduels Sylas (3rd time)
+    - at: 22:35
+      label: Top Inhibitor falls (Red)
 - videoId: 3CtoyWSFOlc
   title: Zed Mid vs Sylas - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1495
+  uploaded: 2026-10-06
+  result: W
+  moments:
+    - at: 2:00
+      label: First Blood — Pantheon kills Qiyana
+      kind: kill
+    - at: 7:27
+      label: Zed eliminates Sylas
+    - at: 7:53
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:34
+      label: Zed takes down Sylas
+    - at: 13:10
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:18
+      label: Zed takes down Karma
+    - at: 16:34
+      label: Zed catches Sylas again
+    - at: 18:02
+      label: Tristana picks off Karma
+    - at: 19:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:35
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:51
+      label: Zed takes down Karma
+    - at: 21:12
+      label: Zed solo kills Qiyana
+      kind: kill
+    - at: 21:49
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:22
+      label: Zed outduels Sylas (3rd time)
+    - at: 22:42
+      label: Top Inhibitor falls (Red)
+    - at: 22:45
+      label: Mid Inhibitor falls (Red)
+    - at: 24:17
+      label: Bot Inhibitor falls (Red)
+    - at: 24:26
+      label: Tristana eliminates Qiyana
 - videoId: VOTLtvWX2O0
   title: (BZ) Zed Mid vs Sylas (Kaitze) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1840
   player: BZ
+  uploaded: 2026-10-03
+  result: W
+  moments:
+    - at: 4:56
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 8:08
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:16
+      label: Zed takes down Sylas
+    - at: 14:17
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 17:26
+      label: Zed outduels Zoe
+    - at: 17:30
+      label: Elise Triple Kill
+      kind: kill
+    - at: 20:00
+      label: Zed catches Zeri
+    - at: 20:14
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:57
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:28
+      label: Zed outplays Zoe again
+    - at: 25:25
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 26:50
+      label: Top Inhibitor falls (Red)
+    - at: 28:02
+      label: Zed solo kills Zoe (3rd time)
+      kind: kill
+    - at: 28:36
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:20
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 29:30
+      label: Zed Triple Kill
+      kind: kill
+    - at: 29:39
+      label: Mid Inhibitor falls (Red)
 - videoId: UVGMhlyqUIg
   title: Zed Mid vs Sylas - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1697
+  uploaded: 2026-09-27
+  result: W
+  moments:
+    - at: 2:39
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 4:00
+      label: Zed takes down Sylas
+    - at: 5:10
+      label: Zed catches Sylas again
+    - at: 5:20
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:51
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:18
+      label: Zed outduels Sylas (3rd time)
+    - at: 16:13
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:27
+      label: Red takes Baron
+      kind: baron
+    - at: 22:21
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:49
+      label: Zed outplays Tahm Kench
+    - at: 23:43
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:09
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:38
+      label: Zed kills Yasuo
+      kind: kill
+    - at: 26:14
+      label: Zed takes down Seraphine
+    - at: 26:48
+      label: Zed outplays Sylas (4th time)
+    - at: 27:47
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 27:59
+      label: Zed catches Yasuo
+    - at: 28:07
+      label: Jhin eliminates Kayn
 - videoId: T-dx3X-cjao
   title: Zed Mid vs Sylas - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1553
+  uploaded: 2026-09-18
+  result: W
+  moments:
+    - at: 4:41
+      label: First Blood — Zed kills Lillia
+      kind: kill
+    - at: 7:19
+      label: Zed takes down Sylas
+    - at: 8:17
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:12
+      label: Zed catches Sylas again
+    - at: 13:01
+      label: Zed takes down Zaahen
+    - at: 14:12
+      label: Cho'Gath kills Zaahen
+      kind: kill
+    - at: 15:33
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:03
+      label: Zed picks off Lillia
+    - at: 18:11
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:39
+      label: Zed outplays Zaahen
+    - at: 20:25
+      label: Cho'Gath picks off Sylas
+    - at: 21:10
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:13
+      label: Zed picks off Lillia
+    - at: 21:30
+      label: Zed Triple Kill
+      kind: kill
+    - at: 22:53
+      label: Cho'Gath kills Rell
+      kind: kill
+    - at: 23:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:43
+      label: K'Sante eliminates Zaahen
+    - at: 25:04
+      label: Mid Inhibitor falls (Red)
 - videoId: JzykzFiy3qM
   title: Zed Mid vs Sylas - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1405
+  uploaded: 2026-09-08
+  result: W
+  moments:
+    - at: 7:53
+      label: First Blood — Lillia kills Sylas
+      kind: kill
+    - at: 9:22
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:13
+      label: Zed picks off Rek'Sai
+    - at: 14:18
+      label: Yunara Double Kill
+      kind: kill
+    - at: 17:16
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:46
+      label: Camille Double Kill
+      kind: kill
+    - at: 20:15
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:59
+      label: Zed picks off Rek'Sai
+    - at: 21:18
+      label: Lillia Triple Kill
+      kind: kill
+    - at: 21:54
+      label: Mid Inhibitor falls (Red)
+    - at: 22:46
+      label: Yunara kills Sylas
+      kind: kill
 - videoId: wRtMK-CHbcc
   title: Zed Mid vs Sylas - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1420
+  uploaded: 2026-09-01
+  result: W
+  moments:
+    - at: 2:06
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:23
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 5:28
+      label: Zed eliminates Sylas
+    - at: 7:15
+      label: Zed eliminates Sylas
+    - at: 9:04
+      label: Zed takes down Sylas
+    - at: 10:49
+      label: Fizz kills Thresh
+      kind: kill
+    - at: 11:43
+      label: Fizz kills Vex
+      kind: kill
+    - at: 12:14
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 12:36
+      label: Zed catches Sylas again
+    - at: 13:07
+      label: Zed takes down Vex
+    - at: 14:27
+      label: Zed eliminates Sylas
+    - at: 18:47
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 20:28
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:33
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 22:11
+      label: Mid Inhibitor falls (Red)
+    - at: 22:39
+      label: Fizz picks off Sylas
+    - at: 22:49
+      label: Zed solo kills Zac
+      kind: kill
 - videoId: uQcjZTvVC8I
   title: Zed Mid vs Sylas - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1664
+  uploaded: 2026-08-21
+  result: W
+  moments:
+    - at: 5:26
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 7:28
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:30
+      label: Zed takes down Sylas
+    - at: 13:34
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:05
+      label: Zed outplays Irelia
+    - at: 18:56
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:22
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:21
+      label: Zed takes down Blitzcrank
+    - at: 22:13
+      label: Zed takes down Blitzcrank
+    - at: 23:24
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:35
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 24:59
+      label: Zed picks off Qiyana
+    - at: 25:22
+      label: Mid Inhibitor falls (Red)
+    - at: 25:30
+      label: Zed catches Sylas again
+    - at: 26:29
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 27:20
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:29
+      label: Zed kills Zeri
+      kind: kill
 - videoId: XM8NVp37LJQ
   title: Zed Mid vs Sylas - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1883
+  uploaded: 2026-07-20
+  result: L
+  moments:
+    - at: 1:31
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:20
+      label: Zed takes down Sylas
+    - at: 5:54
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:56
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:16
+      label: Zed catches Sylas again
+    - at: 17:26
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 21:58
+      label: Red takes Baron
+      kind: baron
+    - at: 22:18
+      label: Zed takes down Camille
+    - at: 22:58
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 23:02
+      label: Zed kills Vel'Koz
+      kind: kill
+    - at: 24:01
+      label: Zed kills Vel'Koz
+      kind: kill
+    - at: 24:34
+      label: Jarvan IV takes down Naafiri
+    - at: 26:30
+      label: Zed takes down Camille
+    - at: 27:31
+      label: Zed takes down Camille
+    - at: 28:22
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 29:01
+      label: Blue takes Baron
+      kind: baron
+    - at: 29:49
+      label: Zed takes down Vayne
+    - at: 29:55
+      label: Mid Inhibitor falls (Blue)
 - videoId: LErpoeMfB8k
   title: Zed Mid vs Sylas - EUW Challenger Patch 26.08
   rankClaim: Challenger

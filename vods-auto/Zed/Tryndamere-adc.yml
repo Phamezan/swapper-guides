@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1656
+  uploaded: 2026-08-14
+  result: W
+  moments:
+    - at: 0:34
+      label: First Blood — Zed kills Tryndamere
+      kind: kill
+    - at: 7:56
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:48
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:43
+      label: Zed outplays Zoe
+    - at: 16:18
+      label: Zed picks off Heimerdinger
+    - at: 17:32
+      label: Zed outduels Tryndamere
+    - at: 18:59
+      label: Zed takes down Tryndamere
+    - at: 19:23
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:47
+      label: Zed picks off Zoe
+    - at: 20:20
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:31
+      label: Zed kills Talon
+      kind: kill
+    - at: 23:27
+      label: Mid Inhibitor falls (Red)
+    - at: 23:33
+      label: Vi picks off Talon
+    - at: 24:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:39
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 25:23
+      label: Anivia eliminates Zoe
+    - at: 26:00
+      label: Anivia kills Skarner
+      kind: kill
+    - at: 26:52
+      label: Blue takes 2nd Baron
+      kind: baron

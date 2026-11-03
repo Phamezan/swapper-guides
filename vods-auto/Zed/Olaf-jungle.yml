@@ -4,6 +4,54 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1585
+  uploaded: 2026-07-13
+  result: L
+  moments:
+    - at: 5:28
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 5:33
+      label: First Blood — Zed kills Malphite
+      kind: kill
+    - at: 11:02
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 12:22
+      label: Zed picks off Viktor
+    - at: 16:01
+      label: Sylas Double Kill
+      kind: kill
+    - at: 17:19
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 17:31
+      label: Zed eliminates Brand
+    - at: 18:58
+      label: Zed eliminates Brand
+    - at: 20:10
+      label: Zed takes down Olaf
+    - at: 20:34
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:10
+      label: Red takes Baron
+      kind: baron
+    - at: 23:13
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:33
+      label: Zed takes down Brand
+    - at: 23:37
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:55
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:33
+      label: Zed takes down Olaf
+    - at: 25:04
+      label: Zed catches Brand again
+    - at: 26:01
+      label: Zed picks off Viktor
 - videoId: GUjAlf545yQ
   title: Zed Jungle vs Olaf - EUW Master Patch 26.10
   rankClaim: Master

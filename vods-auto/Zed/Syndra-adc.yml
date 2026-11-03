@@ -4,18 +4,140 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1569
+  uploaded: 2026-07-31
+  result: W
+  moments:
+    - at: 5:30
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:39
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:32
+      label: First Blood — Zed kills Camille
+      kind: kill
+    - at: 14:20
+      label: Zed outduels Syndra
+    - at: 17:18
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:27
+      label: Zed takes down Syndra
+    - at: 18:02
+      label: Hecarim kills Garen
+      kind: kill
+    - at: 19:54
+      label: Zed picks off Camille
+    - at: 21:17
+      label: Bard picks off Syndra
+    - at: 22:26
+      label: Hecarim eliminates Syndra
+    - at: 23:14
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:51
+      label: Darius picks off Syndra
+    - at: 24:26
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:12
+      label: Zed outplays Syndra again
+    - at: 25:35
+      label: Mid Inhibitor falls (Red)
 - videoId: Y5im3BzxCoA
   title: Zed ADC vs Syndra - KR Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1524
+  uploaded: 2026-07-17
+  result: W
+  moments:
+    - at: 2:25
+      label: First Blood — Zed kills Pyke
+      kind: kill
+    - at: 3:54
+      label: Zed outduels Syndra
+    - at: 9:58
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:00
+      label: Zed outplays Syndra again
+    - at: 13:57
+      label: Zed solo kills Syndra (3rd time)
+      kind: kill
+    - at: 15:44
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:07
+      label: Zed takes down Syndra
+    - at: 18:28
+      label: Zed takes down Syndra
+    - at: 20:04
+      label: Lee Sin Double Kill
+      kind: kill
+    - at: 21:07
+      label: Zed solo kills Kayle
+      kind: kill
+    - at: 21:19
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 22:33
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:07
+      label: Zed picks off Pyke
+    - at: 23:31
+      label: Lee Sin takes down Hecarim
+    - at: 24:07
+      label: Bot Inhibitor falls (Red)
+    - at: 24:14
+      label: Ryze takes down Pyke
+    - at: 24:24
+      label: Mid Inhibitor falls (Red)
+    - at: 25:08
+      label: Zed catches Talon
 - videoId: yL-pKEGtD-w
   title: (SPXF Lelouch) Zed ADC vs Syndra (Worthless) - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1552
-  player: Lelouch
-  team: SPXF
+  player: SPXF Lelouch
+  uploaded: 2026-07-15
+  result: L
+  moments:
+    - at: 5:39
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:24
+      label: First Blood — Sylas kills Syndra
+      kind: kill
+    - at: 8:34
+      label: Zed outplays Sona
+    - at: 11:09
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:17
+      label: Zed picks off Sona
+    - at: 14:35
+      label: Zed picks off Sona
+    - at: 16:25
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 18:06
+      label: Zed takes down Syndra
+    - at: 21:23
+      label: Red takes Baron
+      kind: baron
+    - at: 21:38
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 22:44
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:25
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:57
+      label: Zed takes down Kha'Zix
 - videoId: wb_4uvG3a4M
   title: Zed ADC vs Syndra - EUW Master Patch 26.08
   rankClaim: Master

@@ -5,26 +5,270 @@
   patch: "26.20"
   durationSec: 2019
   player: Usan
+  uploaded: 2026-10-17
+  result: W
+  moments:
+    - at: 2:44
+      label: First Blood — Lillia kills LeBlanc
+      kind: kill
+    - at: 6:19
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:43
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:29
+      label: Zed outplays Viktor
+    - at: 17:05
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:40
+      label: Zed solo kills Viktor again
+      kind: kill
+    - at: 22:34
+      label: Zed picks off Jayce
+    - at: 24:17
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:30
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:53
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:24
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:32
+      label: Jinx picks off Blitzcrank
+    - at: 28:17
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 31:47
+      label: Mid Inhibitor falls (Red)
+    - at: 32:40
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 32:44
+      label: Mid Inhibitor falls (Blue)
 - videoId: tzMQPr_WPWU
   title: Zed Mid vs LeBlanc - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1863
+  uploaded: 2026-10-04
+  result: W
+  moments:
+    - at: 2:45
+      label: First Blood — Zed kills LeBlanc
+      kind: kill
+    - at: 4:25
+      label: Zed takes down LeBlanc
+    - at: 8:35
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:07
+      label: Zed catches LeBlanc again
+    - at: 12:09
+      label: Caitlyn takes down Aphelios
+    - at: 14:14
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:26
+      label: Zed takes down Maokai
+    - at: 20:08
+      label: Zed takes down Nautilus
+    - at: 20:55
+      label: Red takes Baron
+      kind: baron
+    - at: 20:57
+      label: Jax takes down LeBlanc
+    - at: 21:28
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:14
+      label: Zed kills Aphelios
+      kind: kill
+    - at: 24:23
+      label: Zed eliminates LeBlanc
+    - at: 26:53
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 28:26
+      label: Mid Inhibitor falls (Red)
+    - at: 29:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 29:51
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:06
+      label: Caitlyn Double Kill
+      kind: kill
 - videoId: lrA3n6WXic8
   title: Zed Mid vs LeBlanc - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1869
+  uploaded: 2026-09-15
+  result: W
+  moments:
+    - at: 1:30
+      label: First Blood — Zed kills LeBlanc
+      kind: kill
+    - at: 5:17
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 5:52
+      label: Zed takes down LeBlanc
+    - at: 9:25
+      label: Zed outplays Gwen
+    - at: 10:17
+      label: Zed catches Kai'Sa
+    - at: 12:00
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:24
+      label: Zed solo kills Gwen again
+      kind: kill
+    - at: 17:28
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:25
+      label: Zed catches LeBlanc again
+    - at: 22:36
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 23:11
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:01
+      label: Zed solo kills Jarvan IV
+      kind: kill
+    - at: 26:47
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:06
+      label: Zed takes down Gwen (3rd time)
+    - at: 28:23
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 30:06
+      label: Zed eliminates LeBlanc
+    - at: 30:42
+      label: Top Inhibitor falls (Red)
+    - at: 30:49
+      label: Mid Inhibitor falls (Red)
 - videoId: STYUu7uwHWQ
   title: Zed Mid vs LeBlanc - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1428
+  uploaded: 2026-09-07
+  result: W
+  moments:
+    - at: 3:01
+      label: First Blood — Zed kills LeBlanc
+      kind: kill
+    - at: 5:20
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:26
+      label: Zed takes down LeBlanc
+    - at: 10:43
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 11:16
+      label: Zed catches LeBlanc again
+    - at: 12:43
+      label: Zed outduels LeBlanc (3rd time)
+    - at: 14:48
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:11
+      label: Lee Sin picks off LeBlanc
+    - at: 17:00
+      label: Zed catches Aphelios
+    - at: 17:18
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:41
+      label: Zed solo kills Jarvan IV
+      kind: kill
+    - at: 20:29
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:37
+      label: Zed kills Aphelios
+      kind: kill
+    - at: 20:55
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:40
+      label: Warwick Double Kill
+      kind: kill
+    - at: 22:38
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 22:51
+      label: Zed outplays LeBlanc (4th time)
+    - at: 23:13
+      label: Mid Inhibitor falls (Red)
 - videoId: 2udw_i1vxk4
   title: Zed Mid vs LeBlanc - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1833
+  uploaded: 2026-08-20
+  result: L
+  moments:
+    - at: 5:15
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:06
+      label: First Blood — Zed kills LeBlanc
+      kind: kill
+    - at: 11:51
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:48
+      label: Zed catches Draven
+    - at: 15:20
+      label: Maokai Double Kill
+      kind: kill
+    - at: 17:23
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 18:33
+      label: Zed takes down Rumble
+    - at: 22:12
+      label: Zed kills Draven
+      kind: kill
+    - at: 23:28
+      label: Zed kills Draven
+      kind: kill
+    - at: 23:55
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 24:19
+      label: Zed eliminates LeBlanc
+    - at: 26:26
+      label: Karma kills Lee Sin
+      kind: kill
+    - at: 28:13
+      label: Zed outduels Draven again
+    - at: 28:19
+      label: Red takes Baron
+      kind: baron
+    - at: 28:30
+      label: Jayce Double Kill
+      kind: kill
+    - at: 29:18
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 29:54
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:15
+      label: Zed Double Kill
+      kind: kill
 - videoId: m_9ZXdP_jP0
   title: Zed Mid vs LeBlanc (LCKL Ambition) - KR Master Patch 26.12
   rankClaim: Master

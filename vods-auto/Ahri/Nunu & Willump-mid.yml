@@ -4,12 +4,10 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1581
-  player: Fred
-  team: WD
+  player: WD Fred
+  uploaded: 2026-10-23
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:47
       label: Red takes 1st Dragon (Hextech)
       kind: dragon
@@ -58,5 +56,3 @@
       label: Mid Inhibitor falls (Red)
     - at: 26:04
       label: Top Inhibitor falls (Red)
-    - at: 26:16
-      label: Victory

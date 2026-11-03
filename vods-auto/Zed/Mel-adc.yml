@@ -4,3 +4,52 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1874
+  uploaded: 2026-07-22
+  result: L
+  moments:
+    - at: 1:54
+      label: First Blood — Zed kills Mel
+      kind: kill
+    - at: 5:17
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:40
+      label: Zed outplays Bard
+    - at: 10:42
+      label: Zed takes down Mel
+    - at: 11:15
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 13:30
+      label: Locke kills Mel
+      kind: kill
+    - at: 16:07
+      label: Zaahen eliminates Bard
+    - at: 17:49
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 20:26
+      label: Ekko takes down Gragas
+    - at: 21:03
+      label: Locke takes down Bard
+    - at: 21:58
+      label: Zed kills Qiyana
+      kind: kill
+    - at: 22:55
+      label: Red takes Baron
+      kind: baron
+    - at: 24:05
+      label: Zed picks off Bard
+    - at: 25:17
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 25:58
+      label: Locke takes down Bard
+    - at: 28:00
+      label: Zed kills Qiyana
+      kind: kill
+    - at: 29:38
+      label: Ekko Double Kill
+      kind: kill
+    - at: 30:12
+      label: Bot Inhibitor falls (Blue)

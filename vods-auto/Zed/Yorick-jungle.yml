@@ -5,3 +5,52 @@
   patch: "26.15"
   durationSec: 1695
   player: Shakur
+  uploaded: 2026-08-01
+  result: L
+  moments:
+    - at: 2:25
+      label: First Blood — Kog'Maw kills Leona
+      kind: kill
+    - at: 5:47
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:41
+      label: Zed takes down Yorick
+    - at: 8:02
+      label: Elise eliminates Darius
+    - at: 8:46
+      label: Zed takes down Yorick
+    - at: 10:59
+      label: Zed eliminates Jhin
+    - at: 12:11
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:09
+      label: Zed kills Leona
+      kind: kill
+    - at: 14:52
+      label: Zed kills Darius
+      kind: kill
+    - at: 16:23
+      label: Zed takes down Yorick
+    - at: 17:47
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 19:35
+      label: Zed kills Darius
+      kind: kill
+    - at: 20:29
+      label: Red takes Baron
+      kind: baron
+    - at: 22:14
+      label: Zed takes down Yorick
+    - at: 23:05
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 24:14
+      label: Kog'Maw eliminates Yorick
+    - at: 25:01
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:01
+      label: Zed kills Leona
+      kind: kill

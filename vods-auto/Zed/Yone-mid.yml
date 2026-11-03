@@ -5,86 +5,817 @@
   patch: "26.21"
   durationSec: 1453
   player: Usan
+  uploaded: 2026-10-28
+  result: W
+  moments:
+    - at: 6:02
+      label: Zed picks off Evelynn
+    - at: 12:24
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:19
+      label: Zed eliminates Yone
+    - at: 14:22
+      label: Zed takes down Yone
+    - at: 17:56
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:01
+      label: Zed kills Jhin
+      kind: kill
+    - at: 19:13
+      label: Zed takes down Akali
+    - at: 19:44
+      label: Thresh eliminates Rakan
+    - at: 20:04
+      label: Zed catches Jhin
+    - at: 23:15
+      label: Draven Double Kill
+      kind: kill
+    - at: 23:41
+      label: Mid Inhibitor falls (Red)
+    - at: 23:56
+      label: Draven Double Kill
+      kind: kill
 - videoId: hf8Hp8CmHYg
   title: (BZ) Zed Mid vs Yone - EUW Challenger Patch 26.21
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1713
   player: BZ
+  uploaded: 2026-10-26
+  result: W
+  moments:
+    - at: 0:31
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 9:14
+      label: Jarvan IV Triple Kill
+      kind: kill
+    - at: 13:12
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:54
+      label: Zed eliminates Yone
+    - at: 17:34
+      label: Zed eliminates Yone
+    - at: 18:36
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 18:42
+      label: Jarvan IV kills Sylas
+      kind: kill
+    - at: 19:14
+      label: Jarvan IV picks off Yone
+    - at: 21:06
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:17
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 23:56
+      label: Zed takes down Irelia
+    - at: 24:36
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 26:16
+      label: Zed solo kills Ivern
+      kind: kill
+    - at: 26:40
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:37
+      label: Jarvan IV takes down Ivern
+    - at: 27:46
+      label: Jarvan IV Triple Kill
+      kind: kill
+    - at: 27:51
+      label: Jarvan IV Quadra Kill
+      kind: kill
+    - at: 28:04
+      label: Mid Inhibitor falls (Red)
 - videoId: T_YpXLX125s
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1435
+  uploaded: 2026-10-17
+  result: W
+  moments:
+    - at: 0:02
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 3:52
+      label: Zed eliminates Yone
+    - at: 6:11
+      label: Zed catches Tristana
+    - at: 7:18
+      label: Zed takes down Yone
+    - at: 8:38
+      label: Zed catches Yone again
+    - at: 8:47
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:46
+      label: Zed outduels Yone (3rd time)
+    - at: 14:34
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:07
+      label: Zed outplays Gangplank
+    - at: 16:43
+      label: Zed outduels Bard
+    - at: 19:20
+      label: Zed outplays Bard again
+    - at: 19:46
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:41
+      label: Zed outplays Yone (4th time)
+    - at: 21:57
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:24
+      label: Zed picks off Karthus
 - videoId: LjWo9mdAf6w
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1654
+  uploaded: 2026-10-16
+  result: W
+  moments:
+    - at: 4:32
+      label: First Blood — Sylas kills Cho'Gath
+      kind: kill
+    - at: 6:49
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:17
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:18
+      label: Zed eliminates Yone
+    - at: 16:50
+      label: Zed Double Kill
+      kind: kill
+    - at: 17:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:07
+      label: Pantheon takes down Yone
+    - at: 19:59
+      label: Yunara Double Kill
+      kind: kill
+    - at: 20:33
+      label: Red takes Baron
+      kind: baron
+    - at: 22:29
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 22:42
+      label: Pantheon eliminates Olaf
+    - at: 23:42
+      label: Zed eliminates Yone
+    - at: 25:51
+      label: Pantheon takes down Yone
+    - at: 25:56
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 26:32
+      label: Pantheon kills Cho'Gath
+      kind: kill
+    - at: 27:00
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:21
+      label: Yunara Double Kill
+      kind: kill
 - videoId: D8OsOnKmi6w
   title: Zed Mid vs Yone - KR Master Patch 26.20
   rankClaim: Master
   patch: "26.20"
   durationSec: 1624
+  uploaded: 2026-10-14
+  result: W
+  moments:
+    - at: 2:59
+      label: First Blood — Ekko kills Yone
+      kind: kill
+    - at: 8:03
+      label: Zed takes down Yone
+    - at: 9:38
+      label: Zed outplays Ornn
+    - at: 12:03
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:19
+      label: Zed eliminates Yone
+    - at: 16:35
+      label: Zed catches Aurelion Sol
+    - at: 16:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:44
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:16
+      label: Zed catches Yone again
+    - at: 18:53
+      label: Zed picks off Karthus
+    - at: 19:39
+      label: Ekko kills Ornn
+      kind: kill
+    - at: 20:45
+      label: Zed takes down Leona
+    - at: 23:20
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:26
+      label: Zed outduels Yone (3rd time)
+    - at: 25:38
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:13
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:40
+      label: Mid Inhibitor falls (Red)
 - videoId: 9heynkmVEtM
   title: (GSMC Alix) Zed Mid vs Yone (2deal) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1583
-  player: Alix
-  team: GSMC
+  player: GSMC Alix
+  uploaded: 2026-10-02
+  result: W
+  moments:
+    - at: 7:22
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 10:58
+      label: Zed eliminates Yone
+    - at: 12:19
+      label: Zed kills Kog'Maw
+      kind: kill
+    - at: 13:31
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:27
+      label: Zed outplays Hwei
+    - at: 16:57
+      label: Zed takes down Yone
+    - at: 18:38
+      label: Zed solo kills Jarvan IV
+      kind: kill
+    - at: 19:00
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 23:04
+      label: Zed eliminates Yone
+    - at: 23:24
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:51
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:26
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 25:02
+      label: Zed takes down Thresh
+    - at: 25:13
+      label: Zed Triple Kill
+      kind: kill
+    - at: 25:25
+      label: Mid Inhibitor falls (Red)
 - videoId: ct7OtSnM1Nk
   title: Zed Mid vs Yone - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1455
+  uploaded: 2026-09-27
+  result: W
+  moments:
+    - at: 5:48
+      label: First Blood — Zed kills Jarvan IV
+      kind: kill
+    - at: 8:08
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:57
+      label: Zed picks off Jarvan IV
+    - at: 11:44
+      label: Zed takes down Yone
+    - at: 13:20
+      label: Zed eliminates Yone
+    - at: 13:50
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:28
+      label: Zed eliminates Yone
+    - at: 16:39
+      label: Zed catches Yone again
+    - at: 17:59
+      label: Zed outduels Yone (3rd time)
+    - at: 18:07
+      label: Zed Double Kill
+      kind: kill
+    - at: 19:29
+      label: Zed outduels Thresh
+    - at: 19:34
+      label: Malphite picks off Jhin
+    - at: 19:55
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:33
+      label: Zed outplays Yone (4th time)
+    - at: 21:51
+      label: Zed solo kills Yone (5th time)
+      kind: kill
+    - at: 23:01
+      label: Zed solo kills Jarvan IV
+      kind: kill
+    - at: 23:09
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:17
+      label: Zed Triple Kill
+      kind: kill
 - videoId: 4LCnSvSoORY
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 2105
+  uploaded: 2026-09-24
+  result: W
+  moments:
+    - at: 5:17
+      label: First Blood — Zed kills Diana
+      kind: kill
+    - at: 9:39
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:03
+      label: Zed catches Ezreal
+    - at: 16:20
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 17:09
+      label: Zed outduels Neeko
+    - at: 19:26
+      label: Zed outduels Ezreal again
+    - at: 21:12
+      label: Zed outplays Irelia
+    - at: 22:31
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 23:31
+      label: Red takes Baron
+      kind: baron
+    - at: 27:01
+      label: Zed outplays Ezreal (3rd time)
+    - at: 27:58
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 31:08
+      label: Zed solo kills Irelia again
+      kind: kill
+    - at: 32:13
+      label: Zed takes down Yone
+    - at: 33:00
+      label: Zed solo kills Ezreal (4th time)
+      kind: kill
+    - at: 33:04
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 33:26
+      label: Blue takes Baron
+      kind: baron
+    - at: 34:32
+      label: Cho'Gath Double Kill
+      kind: kill
+    - at: 34:38
+      label: Mid Inhibitor falls (Red)
 - videoId: g3ZpIa1RMUU
   title: Zed Mid vs Yone - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1510
+  uploaded: 2026-09-20
+  result: W
+  moments:
+    - at: 2:46
+      label: First Blood — Zed kills Camille
+      kind: kill
+    - at: 4:52
+      label: Zed takes down Camille
+    - at: 6:42
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:56
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:22
+      label: Zed catches Ziggs
+    - at: 15:58
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:05
+      label: Zed outduels Ziggs again
+    - at: 17:15
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 20:08
+      label: Top Inhibitor falls (Blue)
+    - at: 20:57
+      label: Red takes Baron
+      kind: baron
+    - at: 21:52
+      label: Kai'Sa kills Yone
+      kind: kill
+    - at: 22:27
+      label: Kai'Sa takes down Ziggs
+    - at: 22:35
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 22:55
+      label: Mid Inhibitor falls (Red)
+    - at: 24:10
+      label: Kai'Sa picks off Camille
 - videoId: wAB6c6495eI
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 2006
+  uploaded: 2026-09-17
+  result: W
+  moments:
+    - at: 5:28
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:13
+      label: First Blood — Tristana kills Yone
+      kind: kill
+    - at: 11:18
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:44
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 19:41
+      label: Pantheon takes down Yone
+    - at: 20:56
+      label: Tristana eliminates Briar
+    - at: 21:00
+      label: Tristana Triple Kill
+      kind: kill
+    - at: 21:40
+      label: Red takes Baron
+      kind: baron
+    - at: 22:37
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:30
+      label: Zed eliminates Yone
+    - at: 24:48
+      label: Tristana Double Kill
+      kind: kill
+    - at: 27:55
+      label: Zed kills Kog'Maw
+      kind: kill
+    - at: 28:30
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 30:04
+      label: Mid Inhibitor falls (Red)
+    - at: 31:04
+      label: Rumble picks off Kog'Maw
+    - at: 32:32
+      label: Zed takes down Yone
+    - at: 32:34
+      label: Zed Double Kill
+      kind: kill
+    - at: 33:04
+      label: Mid Inhibitor falls (Blue)
 - videoId: TBJNthtMI_A
   title: Zed Mid vs Yone - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1617
+  uploaded: 2026-09-14
+  result: W
+  moments:
+    - at: 3:56
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 5:45
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:37
+      label: Zed takes down Yone
+    - at: 9:36
+      label: Zed catches Yone again
+    - at: 11:30
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:18
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 15:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:57
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 17:21
+      label: Zed takes down Leona
+    - at: 19:19
+      label: Fizz eliminates Kai'Sa
+    - at: 21:08
+      label: Zed catches Kai'Sa
+    - at: 21:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:03
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 22:18
+      label: Zed outplays Aatrox
+    - at: 22:47
+      label: Mid Inhibitor falls (Red)
+    - at: 24:43
+      label: Zed outduels Kai'Sa again
+    - at: 25:23
+      label: Top Inhibitor falls (Red)
+    - at: 25:43
+      label: Zed takes down Aatrox
 - videoId: g8Y295P3vBE
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1895
+  uploaded: 2026-09-02
+  result: W
+  moments:
+    - at: 2:54
+      label: First Blood — Bard kills Yone
+      kind: kill
+    - at: 4:21
+      label: Zed takes down Yone
+    - at: 4:59
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:35
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 11:58
+      label: Zed catches Corki
+    - at: 18:03
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 19:42
+      label: Sylas Quadra Kill
+      kind: kill
+    - at: 20:11
+      label: Red takes Baron
+      kind: baron
+    - at: 24:25
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 24:45
+      label: Sylas Triple Kill
+      kind: kill
+    - at: 25:10
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:26
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:52
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:32
+      label: Sylas eliminates Corki
+    - at: 28:26
+      label: Top Inhibitor falls (Blue)
+    - at: 30:39
+      label: Red takes Elder Dragon
+      kind: dragon
+    - at: 30:56
+      label: Zed Double Kill
+      kind: kill
+    - at: 31:00
+      label: Zed Triple Kill
+      kind: kill
 - videoId: q0ugv6IyjEU
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1926
+  uploaded: 2026-09-01
+  result: W
+  moments:
+    - at: 4:40
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 5:34
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 10:06
+      label: Zed takes down Yone
+    - at: 10:20
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:37
+      label: Zed catches Yone again
+    - at: 16:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:41
+      label: Zed outplays Kled
+    - at: 19:42
+      label: Syndra takes down Viktor
+    - at: 21:14
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 22:12
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:58
+      label: Zed kills Viktor
+      kind: kill
+    - at: 24:57
+      label: Syndra eliminates Sejuani
+    - at: 25:39
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:47
+      label: Zed kills Viktor
+      kind: kill
+    - at: 26:36
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 28:08
+      label: Mid Inhibitor falls (Red)
+    - at: 29:55
+      label: Zed takes down Kled
+    - at: 30:47
+      label: Karthus kills Fiddlesticks
+      kind: kill
 - videoId: l7cQm2h4FAA
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1810
+  uploaded: 2026-08-23
+  result: W
+  moments:
+    - at: 3:32
+      label: First Blood — Zed kills Xayah
+      kind: kill
+    - at: 8:15
+      label: Ekko Double Kill
+      kind: kill
+    - at: 11:41
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:29
+      label: Zed solo kills Hecarim
+      kind: kill
+    - at: 16:25
+      label: Zed eliminates Yone
+    - at: 17:42
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:23
+      label: Zed takes down Yone
+    - at: 19:31
+      label: Zed outplays Singed
+    - at: 20:27
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:45
+      label: Zed takes down Singed
+    - at: 23:03
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:05
+      label: Zed catches Xayah
+    - at: 26:38
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 28:10
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 28:39
+      label: Zed catches Yone again
+    - at: 29:02
+      label: Mid Inhibitor falls (Red)
+    - at: 29:14
+      label: Bot Inhibitor falls (Red)
 - videoId: gnLIS_tYFnI
   title: (IN5 Alix) Zed Mid vs Yone - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1897
-  player: Alix
-  team: IN5
+  player: IN5 Alix
+  uploaded: 2026-06-29
+  result: L
+  moments:
+    - at: 2:21
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 10:14
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:49
+      label: Zed takes down Yone
+    - at: 14:26
+      label: Zed catches Yone again
+    - at: 15:36
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:06
+      label: Bot Inhibitor falls (Blue)
+    - at: 21:14
+      label: Zed solo kills Locke
+      kind: kill
+    - at: 22:46
+      label: Aphelios picks off Nautilus
+    - at: 23:12
+      label: Zed takes down Locke again
+    - at: 23:15
+      label: Red takes Baron
+      kind: baron
+    - at: 24:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:13
+      label: Top Inhibitor falls (Blue)
+    - at: 26:34
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:39
+      label: Aphelios kills Yone
+      kind: kill
+    - at: 30:04
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 30:20
+      label: Nidalee picks off Yone
+    - at: 30:40
+      label: Mid Inhibitor falls (Blue)
 - videoId: IKegWB7FI9w
   title: Zed Mid vs Yone (FROSTSIZE) - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1749
+  uploaded: 2026-06-28
+  result: W
+  moments:
+    - at: 7:32
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:51
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 13:03
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:04
+      label: Zed solo kills Nunu & Willump
+      kind: kill
+    - at: 15:12
+      label: Locke eliminates Hwei
+    - at: 15:44
+      label: Zed takes down Yone
+    - at: 18:12
+      label: Zed takes down Sona
+    - at: 18:47
+      label: Zed catches Yone again
+    - at: 19:11
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:10
+      label: Jayce takes down Yone
+    - at: 21:17
+      label: Zed kills Hwei
+      kind: kill
+    - at: 21:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:06
+      label: Pyke takes down Yone
+    - at: 24:25
+      label: Zed takes down Yorick
+    - at: 24:27
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 25:05
+      label: Locke Double Kill
+      kind: kill
+    - at: 25:18
+      label: Mid Inhibitor falls (Red)
+    - at: 27:57
+      label: Zed outplays Yorick
 - videoId: l3vtq8sK_cc
   title: Zed Mid vs Yone - KR Challenger Patch 26.12
   rankClaim: Challenger

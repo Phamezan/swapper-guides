@@ -4,3 +4,52 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 2143
+  uploaded: 2026-09-01
+  result: W
+  moments:
+    - at: 5:29
+      label: First Blood — Nautilus kills Singed
+      kind: kill
+    - at: 6:05
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:49
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:34
+      label: Zed catches Kai'Sa
+    - at: 17:23
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:31
+      label: Zed outduels Kai'Sa again
+    - at: 22:12
+      label: Zed eliminates Singed
+    - at: 22:46
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:27
+      label: Red takes Baron
+      kind: baron
+    - at: 25:23
+      label: Zed outplays Kai'Sa (3rd time)
+    - at: 25:55
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:08
+      label: Zed outduels Pantheon
+    - at: 28:09
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 30:20
+      label: Shaco eliminates Kai'Sa
+    - at: 33:19
+      label: Blue takes Baron
+      kind: baron
+    - at: 34:16
+      label: Shaco kills Pantheon
+      kind: kill
+    - at: 34:47
+      label: Mid Inhibitor falls (Red)
+    - at: 34:56
+      label: Blue takes Elder Dragon
+      kind: dragon

@@ -4,15 +4,67 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1224
+  region: NA
   player: Viper
   team: BLG
+  uploaded: 2026-10-27
+- videoId: ze2xLiYBhAs
+  title: HLE Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger 2480 LP | Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1218
+  region: KR
+  player: Gumayusi
+  team: HLE
+  uploaded: 2026-08-29
+- videoId: lEUGRsIB-T0
+  title: DK Smash Caitlyn vs Jhin [ ADC ] Korea Challenger 2255 LP | Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1199
+  region: KR
+  player: Smash
+  team: DK
+  uploaded: 2026-08-16
+- videoId: txR_fivu_X8
+  title: Caitlyn vs Jhin [ ADC ] Korea Master 649 LP | Patch 26.14
+  rankClaim: Master
+  patch: "26.14"
+  durationSec: 1873
+  region: KR
+- videoId: LwbODBypa5Y
+  title: HLE Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger 2665 LP | Patch 26.10
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1933
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: avL12atsEog
+  title: HLE Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger 2467 LP | Patch 26.9
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1447
+  region: KR
+  player: Gumayusi
+  team: HLE
 - videoId: 3jcltVUA6mw
   title: Caitlyn vs Jhin ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1651
+  uploaded: 2026-04-13
+- videoId: Zvc7GkZNPks
+  title: DK Smash Caitlyn vs Jhin [ ADC ] Korea Challenger 1908 LP | Patch 26.7
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1695
+  region: KR
+  player: Smash
+  team: DK
 - videoId: y8gMZhWVL5M
   title: Caitlyn vs Jhin ADC - EUW Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1951
+  uploaded: 2026-03-10

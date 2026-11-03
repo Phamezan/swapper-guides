@@ -5,10 +5,9 @@
   patch: "26.20"
   durationSec: 1807
   player: Frost
+  uploaded: 2026-10-10
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:13
       label: Red takes 1st Dragon (Mountain)
       kind: dragon
@@ -47,5 +46,3 @@
       kind: kill
     - at: 29:18
       label: Mid Inhibitor falls (Red)
-    - at: 29:27
-      label: Victory

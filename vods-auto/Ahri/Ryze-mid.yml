@@ -5,10 +5,9 @@
   patch: "26.20"
   durationSec: 2045
   player: Kirei
+  uploaded: 2026-10-12
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:22
       label: Blue takes 1st Dragon (Mountain)
       kind: dragon
@@ -59,19 +58,23 @@
       kind: kill
     - at: 33:17
       label: Mid Inhibitor falls (Blue)
-    - at: 33:25
-      label: Victory
+- videoId: E40ZtItfE_k
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Ryze | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.20"
+  durationSec: 1108
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-10
 - videoId: QHYMxDxKIu0
   title: (EWI Relative) Ahri Mid vs Ryze (VER Sayn) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1632
-  player: Relative
-  team: EWI
+  player: EWI Relative
+  uploaded: 2026-10-05
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:21
       label: First Blood — Ahri kills Kalista
       kind: kill
@@ -118,17 +121,14 @@
     - at: 25:57
       label: Tristana Triple Kill
       kind: kill
-    - at: 26:32
-      label: Victory
 - videoId: JN4j0O9w8IQ
   title: Ahri Mid vs Ryze - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1992
+  uploaded: 2026-09-21
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:49
       label: First Blood — Lee Sin kills Ryze
       kind: kill
@@ -177,17 +177,14 @@
     - at: 32:25
       label: Tristana PENTA KILL
       kind: kill
-    - at: 32:32
-      label: Victory
 - videoId: Bz1KGWbouxI
   title: Ahri Mid vs Ryze - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1360
+  uploaded: 2026-09-11
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:38
       label: First Blood — Ahri kills Sylas
       kind: kill
@@ -219,8 +216,14 @@
       kind: teamfight
     - at: 22:04
       label: Bot Inhibitor falls (Blue)
-    - at: 22:35
-      label: Victory
+- videoId: mxkerS3FgqU
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Ryze | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.17"
+  durationSec: 1405
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-09-02
 - videoId: 5gTPGtKGoJ8
   title: Ahri vs Ryze Mid - EUW Challenger - Patch 16.11 Season 16
   rankClaim: Challenger

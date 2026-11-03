@@ -4,18 +4,199 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1595
+  uploaded: 2026-10-10
+  result: W
+  moments:
+    - at: 4:54
+      label: First Blood — Zed kills Orianna
+      kind: kill
+    - at: 6:38
+      label: Zed kills Jinx
+      kind: kill
+    - at: 8:38
+      label: Nautilus takes down Orianna
+    - at: 13:08
+      label: Zed kills Jinx
+      kind: kill
+    - at: 13:59
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:11
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 16:20
+      label: Zed catches Jinx
+    - at: 19:41
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:35
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 21:38
+      label: Pantheon Triple Kill
+      kind: kill
+    - at: 22:00
+      label: Red takes Baron
+      kind: baron
+    - at: 25:01
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 25:34
+      label: Bot Inhibitor falls (Blue)
 - videoId: 1K1HX7_c2WE
   title: Zed Mid vs Orianna - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 2107
+  uploaded: 2026-10-07
+  result: W
+  moments:
+    - at: 2:07
+      label: First Blood — Zed kills Orianna
+      kind: kill
+    - at: 6:54
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:38
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:24
+      label: Zed takes down Orianna
+    - at: 16:38
+      label: Zed catches Orianna again
+    - at: 16:54
+      label: Zed outduels Skarner
+    - at: 19:21
+      label: Zed catches Ezreal
+    - at: 20:27
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:00
+      label: Zed outduels Ezreal again
+    - at: 23:11
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:26
+      label: Mid Inhibitor falls (Red)
+    - at: 26:08
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 27:15
+      label: Zed outplays Jax
+    - at: 28:19
+      label: Zed outplays Ezreal (3rd time)
+    - at: 29:36
+      label: Red takes Baron
+      kind: baron
+    - at: 29:45
+      label: Zed picks off Zyra
+    - at: 30:41
+      label: Mid Inhibitor falls (Red)
+    - at: 31:52
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
 - videoId: 8g0DvLIWUdY
   title: Zed Mid vs Orianna - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1645
+  uploaded: 2026-09-30
+  result: W
+  moments:
+    - at: 2:31
+      label: First Blood — Zed kills Orianna
+      kind: kill
+    - at: 5:19
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:29
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:51
+      label: Zed takes down Orianna
+    - at: 15:45
+      label: Zed eliminates Orianna
+    - at: 16:36
+      label: Zed takes down Bard
+    - at: 18:07
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:18
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 20:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:13
+      label: Zed solo kills Cho'Gath
+      kind: kill
+    - at: 21:21
+      label: Mid Inhibitor falls (Red)
+    - at: 22:16
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 22:58
+      label: Zed catches Orianna again
+    - at: 23:21
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:12
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:31
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 27:03
+      label: Viktor picks off Aatrox
 - videoId: aw9Ezg7QPP4
   title: Zed Mid vs Orianna - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1584
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 3:19
+      label: First Blood — Zed kills Orianna
+      kind: kill
+    - at: 10:38
+      label: Poppy kills Shaco
+      kind: kill
+    - at: 11:50
+      label: Zed eliminates Orianna
+    - at: 13:43
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:36
+      label: Zed picks off Shaco
+    - at: 16:11
+      label: Sylas picks off Orianna
+    - at: 18:11
+      label: Zed eliminates Orianna
+    - at: 18:36
+      label: Sylas Triple Kill
+      kind: kill
+    - at: 19:10
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:04
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:27
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:18
+      label: Zed solo kills Shaco
+      kind: kill
+    - at: 23:23
+      label: Jhin takes down Yasuo
+    - at: 24:09
+      label: Zed picks off Shaco
+    - at: 25:01
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:47
+      label: Zed outplays Irelia
+    - at: 26:04
+      label: Zed takes down Shaco again

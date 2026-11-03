@@ -4,9 +4,34 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1396
+  uploaded: 2026-09-03
 - videoId: Y8rDjCB6Pok
   title: Peyz Ezreal vs Varus ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1906
   player: Peyz
+- videoId: h3aO34bMZWE
+  title: T1 Peyz Ezreal vs Varus [ ADC ] Korea Challenger 1912 LP | Patch 26.6
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1599
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: SsBQXsKIJgU
+  title: T1 Peyz Ezreal vs Varus [ ADC ] Patch 26.4 Korea Challenger 2127 LP
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1838
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: xDu5YxcO3WQ
+  title: T1 Peyz Ezreal vs Varus [ ADC ] Korea Challenger 1320 LP | Patch 26.2
+  rankClaim: Challenger
+  patch: "26.2"
+  durationSec: 1988
+  region: KR
+  player: Peyz
+  team: T1

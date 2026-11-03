@@ -4,8 +4,107 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1663
+  uploaded: 2026-10-18
+  result: W
+  moments:
+    - at: 6:46
+      label: First Blood — Zed kills Malphite
+      kind: kill
+    - at: 8:03
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:30
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 16:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:02
+      label: Zed picks off Graves
+    - at: 19:23
+      label: Kayn kills Amumu
+      kind: kill
+    - at: 19:28
+      label: Top Inhibitor falls (Blue)
+    - at: 19:52
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:44
+      label: Zed takes down Zac
+    - at: 22:01
+      label: Viktor picks off Amumu
+    - at: 22:32
+      label: Red takes Baron
+      kind: baron
+    - at: 23:13
+      label: Sylas eliminates Amumu
+    - at: 24:22
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 25:12
+      label: Zed eliminates Malphite
+    - at: 25:35
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:42
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:45
+      label: Zed eliminates Malphite
+    - at: 27:19
+      label: Zed takes down Zac
 - videoId: 5Xx6qRORpy4
   title: Zed Mid vs Malphite - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1790
+  uploaded: 2026-09-05
+  result: W
+  moments:
+    - at: 2:34
+      label: First Blood — Zed kills Taliyah
+      kind: kill
+    - at: 9:04
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:13
+      label: Zed takes down Camille
+    - at: 14:35
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:41
+      label: Cho'Gath kills Taliyah
+      kind: kill
+    - at: 19:12
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:03
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:32
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 21:07
+      label: Red takes Baron
+      kind: baron
+    - at: 22:43
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:31
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:15
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 25:43
+      label: Zed picks off Taliyah
+    - at: 26:53
+      label: Zed solo kills Taliyah
+      kind: kill
+    - at: 27:00
+      label: Cho'Gath takes down Malphite
+    - at: 27:43
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:39
+      label: Zed picks off Taliyah
+    - at: 29:18
+      label: Mid Inhibitor falls (Blue)

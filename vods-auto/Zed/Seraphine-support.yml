@@ -4,3 +4,49 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1494
+  uploaded: 2026-07-07
+  result: L
+  moments:
+    - at: 3:19
+      label: First Blood — Zed kills Cassiopeia
+      kind: kill
+    - at: 4:55
+      label: Zed kills Viego
+      kind: kill
+    - at: 6:31
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:23
+      label: Lucian eliminates Viego
+    - at: 9:09
+      label: Brand eliminates Cassiopeia
+    - at: 11:34
+      label: Brand kills Seraphine
+      kind: kill
+    - at: 12:52
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:03
+      label: Zed eliminates Seraphine
+    - at: 14:32
+      label: Zed picks off Cassiopeia
+    - at: 16:12
+      label: Zed picks off Cassiopeia
+    - at: 18:15
+      label: Zed eliminates Ornn
+    - at: 18:51
+      label: Lucian eliminates Viego
+    - at: 19:31
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 21:25
+      label: Red takes Baron
+      kind: baron
+    - at: 23:33
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:40
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:48
+      label: Zed catches Viego
+    - at: 24:20
+      label: Zed picks off Cassiopeia

@@ -4,6 +4,38 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1035
+  region: NA
+  player: Gumayusi
+  team: HLE
+  uploaded: 2026-10-26
+- videoId: NNb8JXLCalQ
+  title: Yunara vs Ezreal [ ADC ] Korea Challenger 1833 LP | Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1229
+  region: KR
+- videoId: T6SJeKY9XsY
+  title: Yunara vs Ezreal ADC [ Gen.G Ruler ] Patch 26.10 Korea Challenger 1922 LP
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1181
+  region: KR
+  player: Ruler
+  team: Gen.G
+- videoId: ogoFzUGdN9c
+  title: T1 Peyz Yunara vs Ezreal [ ADC ] Korea Challenger 2126 LP | Patch 26.6
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1540
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: UJXnYiEZG5Y
+  title: HLE Gumayusi Yunara vs Ezreal [ ADC ] Korea Challenger 2100 LP | Patch 26.6
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1032
+  region: KR
   player: Gumayusi
   team: HLE
 - videoId: 2DHbEE75m-0
@@ -11,3 +43,27 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1681
+- videoId: ZaHiFg_-KdQ
+  title: HLE Gumayusi Yunara vs Ezreal [ ADC ] Korea Challenger 1712 LP | Patch 26.5
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1595
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: D1vJ3mMD6iA
+  title: "T1 Peyz Yunara vs Ezreal [ ADC ] Rank #2 Korea Challenger | Patch 26.3"
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1204
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: UPBkCNcNhLc
+  title: T1 Peyz Yunara vs Ezreal [ ADC ] Korea Challenger 1999 LP | Patch 26.3
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1113
+  region: KR
+  player: Peyz
+  team: T1

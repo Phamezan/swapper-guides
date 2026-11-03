@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1751
+  uploaded: 2026-08-15
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:48
       label: First Blood — Locke kills Sylas
       kind: kill
@@ -53,5 +52,3 @@
       label: Bot Inhibitor falls (Red)
     - at: 28:54
       label: Ahri catches Qiyana
-    - at: 29:06
-      label: Victory

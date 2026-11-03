@@ -5,8 +5,19 @@
   patch: "26.21"
   durationSec: 1680
   player: Zeka
+  uploaded: 2026-10-26
 - videoId: LNz3CmDKVHU
   title: Akali vs Locke Mid - KR Challenger - Patch 16.20 Season 16
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1696
+  uploaded: 2026-10-13
+- videoId: F48pAUp76a4
+  title: T1 Faker Akali vs Locke [ MID ] Korea Challenger 2089 LP | Patch 26.18
+  rankClaim: Challenger
+  patch: "26.18"
+  durationSec: 824
+  region: KR
+  player: Faker
+  team: T1
+  uploaded: 2026-09-17

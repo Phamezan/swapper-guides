@@ -5,20 +5,152 @@
   patch: "26.20"
   durationSec: 2046
   player: Usan
+  uploaded: 2026-10-13
+  result: W
+  moments:
+    - at: 3:25
+      label: First Blood — Zac kills Qiyana
+      kind: kill
+    - at: 5:57
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:03
+      label: Zed outduels Zoe
+    - at: 11:30
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:44
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:15
+      label: Zed solo kills Talon
+      kind: kill
+    - at: 22:38
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:25
+      label: Zed catches Lux
+    - at: 24:43
+      label: Red takes Baron
+      kind: baron
+    - at: 26:18
+      label: Top Inhibitor falls (Blue)
+    - at: 27:51
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 29:43
+      label: Bot Inhibitor falls (Blue)
+    - at: 31:11
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 31:26
+      label: Zed eliminates Qiyana
+    - at: 31:59
+      label: Top Inhibitor falls (Blue)
+    - at: 32:12
+      label: Mid Inhibitor falls (Blue)
+    - at: 33:06
+      label: Zed kills Lux
+      kind: kill
 - videoId: ZSbNLuKHocU
   title: Zed Mid vs Qiyana - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1442
+  uploaded: 2026-09-26
+  result: W
+  moments:
+    - at: 4:06
+      label: First Blood — Locke kills Qiyana
+      kind: kill
+    - at: 5:40
+      label: Zed takes down Qiyana
+    - at: 6:30
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:45
+      label: Locke picks off Qiyana
+    - at: 9:20
+      label: Aatrox kills Jarvan IV
+      kind: kill
+    - at: 9:26
+      label: Zed catches Qiyana again
+    - at: 9:30
+      label: Aatrox eliminates Rell
+    - at: 11:15
+      label: Locke eliminates Yunara
+    - at: 12:27
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:21
+      label: Zed takes down Rell
+    - at: 17:40
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:24
+      label: Locke picks off Qiyana
+    - at: 20:56
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:53
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:33
+      label: Bot Inhibitor falls (Red)
+    - at: 23:50
+      label: Locke takes down Jarvan IV
 - videoId: kkoM85McO8Y
   title: Zed Mid vs Qiyana - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1604
+  uploaded: 2026-08-22
+  result: L
+  moments:
+    - at: 2:32
+      label: First Blood — Lee Sin kills Qiyana
+      kind: kill
+    - at: 5:06
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 6:28
+      label: Lee Sin picks off Qiyana
+    - at: 10:00
+      label: Zed solo kills Graves
+      kind: kill
+    - at: 11:18
+      label: Zed kills Xayah
+      kind: kill
+    - at: 11:57
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:41
+      label: Zed outduels Nautilus
+    - at: 14:52
+      label: Lee Sin picks off Qiyana
+    - at: 17:17
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:25
+      label: Zed picks off Graves
+    - at: 22:05
+      label: Zed picks off Graves
+    - at: 22:35
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:55
+      label: Red takes Baron
+      kind: baron
+    - at: 25:25
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:42
+      label: Top Inhibitor falls (Blue)
+    - at: 25:49
+      label: Zed Double Kill
+      kind: kill
 - videoId: d1KoeHNBYdw
   title: (IN5 Alix) Zed Mid vs Qiyana - EUW Challenger Patch 26.11
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1745
-  player: Alix
-  team: IN5
+  player: IN5 Alix

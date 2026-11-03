@@ -4,6 +4,55 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1426
+  uploaded: 2026-06-29
+  result: L
+  moments:
+    - at: 2:13
+      label: First Blood — Corki kills Kai'Sa
+      kind: kill
+    - at: 2:54
+      label: Zed outduels LeBlanc
+    - at: 6:49
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:09
+      label: Zed outplays LeBlanc again
+    - at: 10:27
+      label: Corki takes down Kai'Sa
+    - at: 12:13
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:32
+      label: Akshan eliminates LeBlanc
+    - at: 12:55
+      label: Akshan kills Kai'Sa
+      kind: kill
+    - at: 14:24
+      label: Zed takes down Teemo
+    - at: 15:19
+      label: Zed takes down LeBlanc
+    - at: 16:39
+      label: Akshan picks off Sylas
+    - at: 17:34
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 18:38
+      label: Zed kills Sylas
+      kind: kill
+    - at: 20:03
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:20
+      label: Corki picks off Teemo
+    - at: 21:33
+      label: Graves Triple Kill
+      kind: kill
+    - at: 23:07
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:12
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
 - videoId: orLBT4tFjtM
   title: Zed Support vs Yuumi - VN Master Patch 26.12
   rankClaim: Master

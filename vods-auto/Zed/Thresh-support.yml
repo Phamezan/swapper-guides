@@ -4,6 +4,53 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1663
+  uploaded: 2026-07-12
+  result: L
+  moments:
+    - at: 0:02
+      label: First Blood — Jinx kills Senna
+      kind: kill
+    - at: 1:57
+      label: Jinx picks off Thresh
+    - at: 4:27
+      label: Sylas eliminates Senna
+    - at: 5:25
+      label: Malphite eliminates Fizz
+    - at: 6:05
+      label: Zed picks off Senna
+    - at: 8:14
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 8:34
+      label: Zed picks off Senna
+    - at: 11:49
+      label: Zed takes down Fizz
+    - at: 12:49
+      label: Zed outplays Senna
+    - at: 13:28
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:40
+      label: Jinx kills Fizz
+      kind: kill
+    - at: 19:37
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:59
+      label: Zed eliminates Thresh
+    - at: 22:35
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:23
+      label: Sylas Double Kill
+      kind: kill
+    - at: 25:12
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 26:30
+      label: Jinx eliminates Wukong
+    - at: 27:02
+      label: Top Inhibitor falls (Blue)
 - videoId: 17qPXaUkS_0
   title: Zed Support vs Thresh - VN Master Patch 26.07
   rankClaim: Master

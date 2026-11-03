@@ -4,3 +4,44 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1498
+  uploaded: 2026-07-14
+  result: W
+  moments:
+    - at: 3:21
+      label: First Blood — Zed kills Zac
+      kind: kill
+    - at: 8:54
+      label: Ekko picks off Viego
+    - at: 10:55
+      label: Zed kills Viego
+      kind: kill
+    - at: 13:35
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 16:03
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:37
+      label: Zed picks off Senna
+    - at: 18:54
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 18:59
+      label: Zed takes down Pyke
+    - at: 19:34
+      label: Ekko kills Senna
+      kind: kill
+    - at: 21:47
+      label: Camille Double Kill
+      kind: kill
+    - at: 23:12
+      label: Zed kills Viego
+      kind: kill
+    - at: 23:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:10
+      label: Zed takes down Malphite
+    - at: 24:24
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon

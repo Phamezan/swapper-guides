@@ -4,3 +4,49 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1682
+  uploaded: 2026-07-27
+  result: W
+  moments:
+    - at: 1:53
+      label: First Blood — Lee Sin kills Sylas
+      kind: kill
+    - at: 4:27
+      label: Zed outplays Sylas
+    - at: 10:19
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:13
+      label: Zed takes down Veigar
+    - at: 15:49
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 16:00
+      label: Yone eliminates Veigar
+    - at: 17:23
+      label: Syndra kills Qiyana
+      kind: kill
+    - at: 18:44
+      label: Zed takes down Qiyana
+    - at: 20:47
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:30
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 22:42
+      label: Lee Sin kills Rell
+      kind: kill
+    - at: 25:05
+      label: Lee Sin picks off Qiyana
+    - at: 25:09
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:20
+      label: Syndra eliminates Xin Zhao
+    - at: 26:52
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 26:56
+      label: Top Inhibitor falls (Red)
+    - at: 27:43
+      label: Mid Inhibitor falls (Red)

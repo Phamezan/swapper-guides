@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1786
+  uploaded: 2026-09-09
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:35
       label: Blue takes 1st Dragon (Infernal)
       kind: dragon
@@ -55,5 +54,11 @@
       kind: kill
     - at: 29:14
       label: Mid Inhibitor falls (Blue)
-    - at: 29:41
-      label: Victory
+- videoId: KNWwLSh3_aw
+  title: DK ShowMaker Ahri vs Ambessa [ MID ] Korea Challenger 1996 LP | Patch 26.5
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 985
+  region: KR
+  player: ShowMaker
+  team: DK

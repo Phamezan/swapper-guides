@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1846
+  uploaded: 2026-04-29
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:07
       label: First Blood — Ahri kills Sona
       kind: kill
@@ -53,5 +52,3 @@
     - at: 30:29
       label: Graves Double Kill
       kind: kill
-    - at: 30:41
-      label: Victory

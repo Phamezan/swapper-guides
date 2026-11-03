@@ -10,3 +10,19 @@
   patch: "26.7"
   durationSec: 1786
   player: Peyz
+- videoId: -8tYvH8EbR0
+  title: T1 Peyz Varus vs Cassiopeia [ ADC ] Korea Challenger 2529 LP | Patch 26.7
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1538
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: s6N_yf5PSDw
+  title: HLE Gumayusi Varus vs Cassiopeia [ ADC ] Patch 26.5 Korea Challenger 1998 LP
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1612
+  region: KR
+  player: Gumayusi
+  team: HLE

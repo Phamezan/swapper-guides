@@ -5,10 +5,9 @@
   patch: "26.20"
   durationSec: 1573
   player: Peng
+  uploaded: 2026-10-22
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:48
       label: Blue takes 1st Dragon (Ocean)
       kind: dragon
@@ -48,18 +47,15 @@
       label: Ahri outplays Lucian (4th time)
     - at: 25:53
       label: Top Inhibitor falls (Red)
-    - at: 26:08
-      label: Victory
 - videoId: 8V5CnktFWtE
   title: (Art) Ahri Mid vs Lucian - KR Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1567
   player: Art
+  uploaded: 2026-10-11
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:07
       label: First Blood — Elise kills Lucian
       kind: kill
@@ -107,19 +103,15 @@
     - at: 25:41
       label: Team fight (4 kills)
       kind: teamfight
-    - at: 26:02
-      label: Victory
 - videoId: hcnDmh3wx2A
   title: (LUP Pesho) Ahri Mid vs Lucian (SHFT nuc) - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1486
-  player: Pesho
-  team: LUP
+  player: LUP Pesho
+  uploaded: 2026-09-06
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:59
       label: First Blood — Ahri kills Lucian
       kind: kill
@@ -163,5 +155,3 @@
     - at: 23:38
       label: Senna Triple Kill
       kind: kill
-    - at: 24:06
-      label: Victory

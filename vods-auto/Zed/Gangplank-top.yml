@@ -4,6 +4,51 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1542
+  uploaded: 2026-09-28
+  result: W
+  moments:
+    - at: 3:13
+      label: First Blood — Zed kills Talon
+      kind: kill
+    - at: 4:39
+      label: Zed catches Gangplank
+    - at: 7:38
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:57
+      label: Zed solo kills Caitlyn
+      kind: kill
+    - at: 11:56
+      label: Zed outplays Gangplank (3rd time)
+    - at: 13:31
+      label: Zed solo kills Gangplank (4th time)
+      kind: kill
+    - at: 13:54
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:02
+      label: Zed takes down Gangplank (5th time)
+    - at: 19:14
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 20:36
+      label: Zed outduels Talon
+    - at: 22:24
+      label: Zed catches Gangplank (6th time)
+    - at: 23:11
+      label: Red takes Baron
+      kind: baron
+    - at: 23:25
+      label: Zed outplays Talon again
+    - at: 24:24
+      label: Zed takes down Caitlyn again
+    - at: 24:34
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 25:11
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:15
+      label: Bot Inhibitor falls (Blue)
 - videoId: YdDCxmaAzQU
   title: Zed Top vs Gangplank - KR Master Patch 26.07
   rankClaim: Master

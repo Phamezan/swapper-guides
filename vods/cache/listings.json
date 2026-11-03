@@ -763,7 +763,8 @@
         "bPyG3ibY5kw",
         "vs6x-txR7B0",
         "CxbV7qQggmc",
-        "XKE35OxC7Es"
+        "XKE35OxC7Es",
+        "DU9Rn_h7OYM"
       ],
       "complete": true
     },
@@ -3899,7 +3900,8 @@
         "SX9aUmmq8GQ",
         "sEpHyHRXCcM",
         "2DDvWSShjiI",
-        "KuW1GjdscCE"
+        "KuW1GjdscCE",
+        "OoHmG0-q_w8"
       ],
       "complete": true
     },
@@ -4545,7 +4547,8 @@
         "8U9dlF5I-OY",
         "ExzBs-mn8fA",
         "yar0X2Iemf4",
-        "xk-BJO6rpDA"
+        "xk-BJO6rpDA",
+        "ulHSPaY5KCA"
       ],
       "complete": true
     },
@@ -15900,7 +15903,9 @@
         "GSwknQAB7Rg",
         "8-noePNRf1s",
         "nq4o5xTg29A",
-        "4azuvXunCnI"
+        "4azuvXunCnI",
+        "TD71XiOvC-8",
+        "59bddPMhQLk"
       ],
       "complete": true
     },
@@ -34765,7 +34770,12 @@
         "UU6fTRYh7uU",
         "SA0ww7ULdVs",
         "t-p1bUEM4Nk",
-        "z7IctlIuWeg"
+        "z7IctlIuWeg",
+        "IDorRrdt97c",
+        "gofjiL9XVf8",
+        "BKRofE16xkc",
+        "OTjaihRCl5M",
+        "_KZNYTbK1yc"
       ],
       "complete": true
     },
@@ -317570,6 +317580,86 @@
       "channel": "UCK1bMiRMCS3b05wbllSSBQQ",
       "uploadDate": "20260303",
       "order": 539
+    },
+    "IDorRrdt97c": {
+      "id": "IDorRrdt97c",
+      "title": "Graves vs Nidalee Jungle - KR Challenger - Patch 16.21 Season 16",
+      "durationSec": 1426,
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261102",
+      "order": 1
+    },
+    "DU9Rn_h7OYM": {
+      "id": "DU9Rn_h7OYM",
+      "title": "Ahri Mid vs Malzahar - KR Grandmaster Patch 26.21",
+      "durationSec": 1502,
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261102",
+      "order": 1
+    },
+    "OoHmG0-q_w8": {
+      "id": "OoHmG0-q_w8",
+      "title": "Zed Mid vs Syndra - KR Master Patch 26.21",
+      "durationSec": 1757,
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261102",
+      "order": 1
+    },
+    "ulHSPaY5KCA": {
+      "id": "ulHSPaY5KCA",
+      "title": "MID.GG: [ LegitKorea ] Ahri MID vs Katarina | NA GRANDMASTER | LOL Season 2026",
+      "durationSec": 900,
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261102",
+      "order": 1
+    },
+    "TD71XiOvC-8": {
+      "id": "TD71XiOvC-8",
+      "title": "T1 Peyz Xayah vs Kalista [ ADC ] Ranked Master NA | Patch 26.21",
+      "durationSec": 1401,
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261102",
+      "order": 1
+    },
+    "59bddPMhQLk": {
+      "id": "59bddPMhQLk",
+      "title": "T1 Faker Akali vs Sylas [ MID ] Ranked Master NA | Patch 26.21",
+      "durationSec": 1804,
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261102",
+      "order": 2
+    },
+    "gofjiL9XVf8": {
+      "id": "gofjiL9XVf8",
+      "title": "Olaf vs Camille Top - KR Challenger - Patch 16.21 Season 16",
+      "durationSec": 1620,
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261102",
+      "order": 1
+    },
+    "BKRofE16xkc": {
+      "id": "BKRofE16xkc",
+      "title": "Locke vs Tryndamere Mid - KR Challenger - Patch 16.21 Season 16",
+      "durationSec": 1666,
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261102",
+      "order": 2
+    },
+    "OTjaihRCl5M": {
+      "id": "OTjaihRCl5M",
+      "title": "Fizz vs Lissandra Mid - KR Grandmaster - Patch 16.21 Season 16",
+      "durationSec": 1680,
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261102",
+      "order": 3
+    },
+    "_KZNYTbK1yc": {
+      "id": "_KZNYTbK1yc",
+      "title": "Sett vs Yone Top - KR Master - Patch 16.21 Season 16",
+      "durationSec": 1906,
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261102",
+      "order": 4
     }
   }
 }

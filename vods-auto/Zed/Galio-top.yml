@@ -4,6 +4,54 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1681
+  uploaded: 2026-08-02
+  result: L
+  moments:
+    - at: 6:32
+      label: First Blood — Nidalee kills Vi
+      kind: kill
+    - at: 8:14
+      label: Zed outplays Qiyana
+    - at: 9:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:58
+      label: Zed catches Galio
+    - at: 10:53
+      label: Zed picks off Syndra
+    - at: 12:53
+      label: Nidalee kills Galio
+      kind: kill
+    - at: 15:04
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:42
+      label: Zed eliminates Seraphine
+    - at: 16:15
+      label: Dr. Mundo eliminates Qiyana
+    - at: 17:53
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 20:10
+      label: Zed solo kills Qiyana again
+      kind: kill
+    - at: 21:37
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:20
+      label: Zed picks off Syndra
+    - at: 24:41
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:07
+      label: Red takes Baron
+      kind: baron
+    - at: 26:11
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:40
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:04
+      label: Top Inhibitor falls (Blue)
 - videoId: wboHZCh7eHU
   title: Zed Top vs Galio - KR Master Patch 26.12
   rankClaim: Master

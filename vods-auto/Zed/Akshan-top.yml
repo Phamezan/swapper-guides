@@ -4,3 +4,51 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1710
+  uploaded: 2026-07-13
+  result: W
+  moments:
+    - at: 5:15
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 5:43
+      label: First Blood — Zed kills Wukong
+      kind: kill
+    - at: 6:21
+      label: Zed catches Akshan
+    - at: 11:12
+      label: Zed outduels Akshan again
+    - at: 12:15
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:48
+      label: Zed outplays Akshan (3rd time)
+    - at: 17:38
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:43
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:56
+      label: Zed outplays Taliyah
+    - at: 22:00
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:29
+      label: Mid Inhibitor falls (Red)
+    - at: 22:57
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:35
+      label: Zed solo kills Akshan (4th time)
+      kind: kill
+    - at: 24:47
+      label: Zed eliminates Akshan
+    - at: 25:08
+      label: Galio eliminates Taliyah
+    - at: 26:49
+      label: Zed takes down Taliyah
+    - at: 27:38
+      label: Bot Inhibitor falls (Red)

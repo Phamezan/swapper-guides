@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1545
+  uploaded: 2026-09-25
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:13
       label: First Blood — Ahri kills Singed
       kind: kill
@@ -53,17 +52,14 @@
     - at: 25:35
       label: Corki Triple Kill
       kind: kill
-    - at: 25:40
-      label: Victory
 - videoId: dI9SasDlYM8
   title: Ahri Mid vs Singed - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1492
+  uploaded: 2026-09-02
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:31
       label: First Blood — Ahri kills Ezreal
       kind: kill
@@ -94,5 +90,3 @@
     - at: 24:26
       label: Gragas kills Shyvana
       kind: kill
-    - at: 24:47
-      label: Victory

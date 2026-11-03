@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1563
+  uploaded: 2026-08-11
+  result: L
+  moments:
+    - at: 3:15
+      label: First Blood — Zed kills Briar
+      kind: kill
+    - at: 5:16
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:17
+      label: Zed catches Corki
+    - at: 10:35
+      label: Zed outduels Corki again
+    - at: 11:16
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:10
+      label: Zed outplays Corki (3rd time)
+    - at: 13:36
+      label: Zed solo kills Corki (4th time)
+      kind: kill
+    - at: 15:23
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:16
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:13
+      label: Pyke picks off Kai'Sa
+    - at: 21:41
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:06
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 23:26
+      label: Pyke kills Briar
+      kind: kill
+    - at: 24:00
+      label: Red takes Baron
+      kind: baron
+    - at: 24:14
+      label: Zed eliminates Nidalee
+    - at: 24:58
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:23
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:37
+      label: Pyke picks off Kai'Sa

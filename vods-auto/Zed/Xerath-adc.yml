@@ -4,11 +4,103 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1596
+  uploaded: 2026-08-05
+  result: W
+  moments:
+    - at: 0:40
+      label: First Blood — Shaco kills Jayce
+      kind: kill
+    - at: 9:57
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:46
+      label: Zed outduels Xerath
+    - at: 11:11
+      label: Shaco eliminates Jayce
+    - at: 11:38
+      label: Zed kills Talon
+      kind: kill
+    - at: 13:25
+      label: Zed picks off Jayce
+    - at: 15:57
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 17:30
+      label: Zed picks off Jayce
+    - at: 19:47
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:26
+      label: Zed kills Talon
+      kind: kill
+    - at: 21:48
+      label: Zed solo kills Heimerdinger
+      kind: kill
+    - at: 22:44
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:10
+      label: Mid Inhibitor falls (Red)
+    - at: 23:14
+      label: Bot Inhibitor falls (Red)
+    - at: 23:18
+      label: Top Inhibitor falls (Red)
+    - at: 25:51
+      label: Zed takes down Kha'Zix
+    - at: 26:00
+      label: Shaco takes down Talon
+    - at: 26:04
+      label: Blue takes 2nd Baron
+      kind: baron
 - videoId: 4oyxrRpbf0o
   title: Zed ADC vs Xerath - KR Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1553
+  uploaded: 2026-07-23
+  result: L
+  moments:
+    - at: 5:20
+      label: First Blood — Sylas kills Xerath
+      kind: kill
+    - at: 7:45
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:08
+      label: Zed takes down Talon
+    - at: 11:56
+      label: Zed outduels Xerath
+    - at: 13:07
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 17:36
+      label: Zed picks off Ambessa
+    - at: 18:45
+      label: Viktor takes down Camille
+    - at: 19:18
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:01
+      label: Sylas picks off Xerath
+    - at: 21:08
+      label: Zed picks off Camille
+    - at: 21:43
+      label: Zed takes down Xerath
+    - at: 22:40
+      label: Zed picks off Ambessa
+    - at: 23:40
+      label: Zed eliminates Talon
+    - at: 24:22
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:33
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:58
+      label: Zed picks off Camille
+    - at: 25:07
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:38
+      label: Top Inhibitor falls (Blue)
 - videoId: MO_kFE54Kbw
   title: Zed ADC vs Xerath - EUW Master Patch 26.12
   rankClaim: Master

@@ -4,3 +4,49 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1685
+  uploaded: 2026-07-01
+  result: L
+  moments:
+    - at: 5:21
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:35
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 11:28
+      label: Zed catches Sylas
+    - at: 11:47
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:38
+      label: Zed outplays Ahri
+    - at: 17:25
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:17
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:11
+      label: Zed eliminates Sylas
+    - at: 20:15
+      label: Red takes Baron
+      kind: baron
+    - at: 21:46
+      label: Zed eliminates Rell
+    - at: 22:24
+      label: Zed takes down Ahri
+    - at: 22:44
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:48
+      label: Zed outduels Sylas again
+    - at: 25:26
+      label: Zed picks off Miss Fortune
+    - at: 26:02
+      label: Hwei picks off Sylas
+    - at: 26:16
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:25
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:13
+      label: Zed eliminates Rell

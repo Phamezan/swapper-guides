@@ -4,3 +4,48 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1718
+  uploaded: 2026-07-22
+  result: W
+  moments:
+    - at: 7:16
+      label: First Blood — Zed kills Ekko
+      kind: kill
+    - at: 9:21
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:50
+      label: Kayn kills Ekko
+      kind: kill
+    - at: 11:21
+      label: Zed catches Ekko
+    - at: 14:05
+      label: Zed Double Kill
+      kind: kill
+    - at: 16:07
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 18:01
+      label: Zed outduels Ekko again
+    - at: 18:28
+      label: Kayn takes down Hecarim
+    - at: 20:20
+      label: Zed outplays Yone
+    - at: 21:28
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:51
+      label: Janna picks off Jhin
+    - at: 23:17
+      label: Zed solo kills Yone again
+      kind: kill
+    - at: 24:32
+      label: Anivia eliminates Yone
+    - at: 25:00
+      label: Zed picks off Jhin
+    - at: 26:14
+      label: Mid Inhibitor falls (Red)
+    - at: 26:22
+      label: Bot Inhibitor falls (Red)
+    - at: 26:46
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon

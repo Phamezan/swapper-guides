@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1714
+  uploaded: 2026-05-15
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:47
       label: First Blood — Jarvan IV kills Naafiri
       kind: kill
@@ -47,5 +46,3 @@
     - at: 27:27
       label: Ahri Double Kill
       kind: kill
-    - at: 27:54
-      label: Victory

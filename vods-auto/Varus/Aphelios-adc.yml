@@ -10,8 +10,24 @@
   patch: "26.2"
   durationSec: 1891
   player: Peyz
+- videoId: cjpNwJgfnhI
+  title: T1 Peyz Varus vs Aphelios [ ADC ] Patch 26.2 Ranked Korea
+  rankClaim: Master+
+  patch: "26.2"
+  durationSec: 1694
+  region: KR
+  player: Peyz
+  team: T1
 - videoId: OLtTU5V5aBM
   title: Varus vs Aphelios ADC - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1836
+- videoId: 6mEcDPSHxrA
+  title: HLE Gumayusi Varus vs Aphelios [ ADC ] Patch 26.1 Ranked Korea
+  rankClaim: Master+
+  patch: "26.1"
+  durationSec: 1276
+  region: KR
+  player: Gumayusi
+  team: HLE

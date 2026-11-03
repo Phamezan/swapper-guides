@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1875
+  uploaded: 2026-08-19
+  result: L
+  moments:
+    - at: 9:09
+      label: First Blood — Zed kills Zeri
+      kind: kill
+    - at: 13:29
+      label: Taliyah takes down Lee Sin
+    - at: 13:58
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:37
+      label: Zed catches Twisted Fate
+    - at: 16:16
+      label: Zed outplays Dr. Mundo
+    - at: 17:17
+      label: Zed outduels Zeri
+    - at: 19:10
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:46
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:49
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:52
+      label: Yone eliminates Dr. Mundo
+    - at: 24:26
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 26:11
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:26
+      label: Yone Triple Kill
+      kind: kill
+    - at: 26:54
+      label: Red takes Baron
+      kind: baron
+    - at: 28:32
+      label: Bot Inhibitor falls (Blue)
+    - at: 28:38
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:44
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 30:49
+      label: Zed outplays Zeri again

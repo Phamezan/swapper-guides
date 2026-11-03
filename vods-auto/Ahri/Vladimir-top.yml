@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1776
+  uploaded: 2026-05-24
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:08
       label: Red takes 1st Dragon (Chemtech)
       kind: dragon
@@ -42,5 +41,3 @@
       label: Jhin eliminates Nidalee
     - at: 29:10
       label: Mid Inhibitor falls (Blue)
-    - at: 29:31
-      label: Defeat

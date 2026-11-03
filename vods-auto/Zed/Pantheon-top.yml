@@ -4,3 +4,55 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1619
+  uploaded: 2026-10-28
+  result: W
+  moments:
+    - at: 4:44
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:47
+      label: Zed kills Qiyana
+      kind: kill
+    - at: 10:11
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:34
+      label: Zed eliminates Alistar
+    - at: 15:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:42
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:43
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:48
+      label: Zed eliminates Alistar
+    - at: 18:53
+      label: Swain eliminates Pantheon
+    - at: 20:52
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:07
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:41
+      label: Kog'Maw Double Kill
+      kind: kill
+    - at: 21:48
+      label: Kog'Maw Triple Kill
+      kind: kill
+    - at: 21:50
+      label: Kog'Maw Quadra Kill
+      kind: kill
+    - at: 24:00
+      label: Zed picks off Yunara
+    - at: 26:22
+      label: Kog'Maw Double Kill
+      kind: kill
+    - at: 26:30
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:45
+      label: Zed takes down Sylas

@@ -4,6 +4,48 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1701
+  uploaded: 2026-07-08
+  result: L
+  moments:
+    - at: 3:04
+      label: First Blood — Diana kills Fizz
+      kind: kill
+    - at: 5:36
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:44
+      label: Zed takes down Cassiopeia
+    - at: 11:08
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:03
+      label: Sett takes down Locke
+    - at: 13:35
+      label: Zed eliminates Fizz
+    - at: 16:28
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 17:11
+      label: Zed kills Graves
+      kind: kill
+    - at: 20:04
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:53
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:07
+      label: Diana picks off Cassiopeia
+    - at: 24:28
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:44
+      label: Red takes Baron
+      kind: baron
+    - at: 27:35
+      label: Zed solo kills Jhin
+      kind: kill
+    - at: 27:46
+      label: Top Inhibitor falls (Blue)
 - videoId: QCJBxsj8LxY
   title: Zed Top vs Fizz - NA Grandmaster Patch 26.05
   rankClaim: Grandmaster

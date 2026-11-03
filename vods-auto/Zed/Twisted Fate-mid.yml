@@ -4,38 +4,369 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1729
+  uploaded: 2026-11-02
+  result: W
+  moments:
+    - at: 8:21
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:23
+      label: Zed kills Yunara
+      kind: kill
+    - at: 15:42
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:57
+      label: Caitlyn takes down Yunara
+    - at: 16:24
+      label: Zed takes down Corki
+    - at: 20:05
+      label: Zed outplays Corki
+    - at: 20:32
+      label: Red takes Baron
+      kind: baron
+    - at: 21:05
+      label: Zed solo kills Karthus
+      kind: kill
+    - at: 21:11
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:53
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:17
+      label: Top Inhibitor falls (Blue)
+    - at: 23:27
+      label: Akali eliminates Pyke
+    - at: 24:12
+      label: Zed kills Yunara
+      kind: kill
+    - at: 24:25
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:23
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 26:48
+      label: Zed solo kills Corki again
+      kind: kill
+    - at: 27:06
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:17
+      label: Mid Inhibitor falls (Blue)
 - videoId: 3PAucJ_jMbo
   title: Zed Mid vs Twisted Fate - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 2089
+  uploaded: 2026-10-22
+  result: W
+  moments:
+    - at: 5:17
+      label: First Blood — Jhin kills Twisted Fate
+      kind: kill
+    - at: 5:44
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:54
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:30
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 19:17
+      label: Zed takes down Renekton
+    - at: 19:44
+      label: Zed kills Tristana
+      kind: kill
+    - at: 20:44
+      label: Zed outplays Renekton
+    - at: 22:47
+      label: Zed takes down Lulu
+    - at: 23:56
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 24:20
+      label: Zed takes down Twisted Fate
+    - at: 25:46
+      label: Zed eliminates Twisted Fate
+    - at: 26:21
+      label: Red takes Baron
+      kind: baron
+    - at: 26:37
+      label: Zed kills Tristana
+      kind: kill
+    - at: 30:18
+      label: Jhin Double Kill
+      kind: kill
+    - at: 31:21
+      label: Red takes Elder Dragon
+      kind: dragon
+    - at: 32:32
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 33:54
+      label: Mid Inhibitor falls (Blue)
+    - at: 34:02
+      label: Top Inhibitor falls (Blue)
 - videoId: isD6Qmp5cpo
   title: Zed Mid vs Twisted Fate - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1680
+  uploaded: 2026-10-01
+  result: W
+  moments:
+    - at: 4:58
+      label: First Blood — Zed kills Twisted Fate
+      kind: kill
+    - at: 7:56
+      label: Sylas takes down Karthus
+    - at: 10:30
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:45
+      label: Ezreal takes down Caitlyn
+    - at: 12:47
+      label: Zed takes down Twisted Fate
+    - at: 14:19
+      label: Zed catches Twisted Fate again
+    - at: 16:04
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:47
+      label: Zed picks off Karthus
+    - at: 18:58
+      label: Zed takes down Lulu
+    - at: 20:03
+      label: Zed picks off Karthus
+    - at: 21:01
+      label: Zed outduels Twisted Fate (3rd time)
+    - at: 21:43
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 25:29
+      label: Sylas picks off Twisted Fate
+    - at: 25:42
+      label: Sylas Triple Kill
+      kind: kill
+    - at: 26:10
+      label: Red takes Baron
+      kind: baron
+    - at: 26:12
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:08
+      label: Zed Double Kill
+      kind: kill
 - videoId: 9lZ8yy3YzW4
   title: Zed Mid vs Twisted Fate - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 2030
+  uploaded: 2026-09-16
+  result: W
+  moments:
+    - at: 4:30
+      label: First Blood — Ambessa kills Blitzcrank
+      kind: kill
+    - at: 6:16
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:42
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:14
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:01
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:49
+      label: Zed takes down Blitzcrank
+    - at: 25:08
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 27:01
+      label: Zed Triple Kill
+      kind: kill
+    - at: 28:00
+      label: Zed picks off Jarvan IV
+    - at: 28:46
+      label: Red takes Baron
+      kind: baron
+    - at: 29:12
+      label: Zed eliminates Twisted Fate
+    - at: 29:26
+      label: Zed Triple Kill
+      kind: kill
+    - at: 29:51
+      label: Mid Inhibitor falls (Red)
+    - at: 30:31
+      label: Zed takes down Twisted Fate
+    - at: 30:40
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 31:16
+      label: Mid Inhibitor falls (Blue)
+    - at: 32:28
+      label: Zed Double Kill
+      kind: kill
 - videoId: 6xmv5FGBLnM
   title: Zed Mid vs Twisted Fate - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1898
+  uploaded: 2026-08-30
+  result: W
+  moments:
+    - at: 6:05
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:25
+      label: First Blood — Zed kills Irelia
+      kind: kill
+    - at: 10:30
+      label: Zed takes down Twisted Fate
+    - at: 11:43
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:57
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:44
+      label: Zed catches Twisted Fate again
+    - at: 22:20
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:48
+      label: Vel'Koz kills Twisted Fate
+      kind: kill
+    - at: 24:12
+      label: Zed picks off Talon
+    - at: 27:00
+      label: Zed catches Ezreal
+    - at: 27:18
+      label: Zed eliminates Twisted Fate
+    - at: 27:34
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 29:18
+      label: Zed outduels Zoe
+    - at: 29:38
+      label: Blue takes Baron
+      kind: baron
+    - at: 30:58
+      label: Zed outplays Irelia
+    - at: 31:07
+      label: Bot Inhibitor falls (Red)
+    - at: 31:17
+      label: Top Inhibitor falls (Red)
 - videoId: tcE3U891QWQ
   title: (GSMC Alix) Zed Mid vs Twisted Fate (CJJ Jensen) - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1883
-  player: Alix
-  team: GSMC
+  player: GSMC Alix
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 9:08
+      label: First Blood — Zed kills Twisted Fate
+      kind: kill
+    - at: 9:38
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:21
+      label: Kha'Zix kills Rell
+      kind: kill
+    - at: 14:45
+      label: Zed outplays Akali
+    - at: 16:25
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:46
+      label: Kai'Sa Quadra Kill
+      kind: kill
+    - at: 21:38
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 22:30
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:11
+      label: Zed takes down Twisted Fate
+    - at: 27:02
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 27:41
+      label: Hwei Double Kill
+      kind: kill
+    - at: 28:15
+      label: Red takes Baron
+      kind: baron
+    - at: 29:25
+      label: Zed takes down Akali
+    - at: 29:47
+      label: Zed kills Yunara
+      kind: kill
+    - at: 30:13
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:33
+      label: Kai'Sa Double Kill
+      kind: kill
 - videoId: wLblMY6uKmY
   title: Zed Mid vs Twisted Fate - KR Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1514
+  uploaded: 2026-08-25
+  result: L
+  moments:
+    - at: 7:01
+      label: First Blood — Zed kills Twisted Fate
+      kind: kill
+    - at: 7:05
+      label: Karthus takes down Lee Sin
+    - at: 8:46
+      label: Zed picks off Lee Sin
+    - at: 9:58
+      label: Zed eliminates Twisted Fate
+    - at: 10:22
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:17
+      label: Zed takes down Twisted Fate
+    - at: 12:46
+      label: Zed picks off Lee Sin
+    - at: 14:38
+      label: Zed kills Zeri
+      kind: kill
+    - at: 15:38
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:59
+      label: Zed Double Kill
+      kind: kill
+    - at: 18:49
+      label: Zed takes down Lulu
+    - at: 20:35
+      label: Mid Inhibitor falls (Blue)
+    - at: 20:52
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:56
+      label: Zed solo kills Lee Sin
+      kind: kill
+    - at: 22:20
+      label: Red takes Baron
+      kind: baron
+    - at: 23:28
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:44
+      label: Zed takes down Lulu
+    - at: 24:06
+      label: Zed Double Kill
+      kind: kill
 - videoId: RMST-s8pt0s
   title: Zed Mid vs Twisted Fate - KR Master Patch 26.11
   rankClaim: Master

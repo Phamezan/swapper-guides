@@ -4,6 +4,58 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1478
+  uploaded: 2026-09-12
+  result: W
+  moments:
+    - at: 4:48
+      label: First Blood — Zed kills Yasuo
+      kind: kill
+    - at: 5:20
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:02
+      label: Vi kills Yasuo
+      kind: kill
+    - at: 10:56
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:37
+      label: Zed eliminates Nautilus
+    - at: 15:45
+      label: Zed Triple Kill
+      kind: kill
+    - at: 17:04
+      label: Zed solo kills Syndra
+      kind: kill
+    - at: 17:11
+      label: Zed Double Kill
+      kind: kill
+    - at: 17:27
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:09
+      label: Bard picks off Syndra
+    - at: 18:32
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 19:54
+      label: Zed catches Yasuo
+    - at: 20:10
+      label: Bot Inhibitor falls (Red)
+    - at: 21:45
+      label: Zed kills Rengar
+      kind: kill
+    - at: 21:55
+      label: Zed Triple Kill
+      kind: kill
+    - at: 22:41
+      label: Mid Inhibitor falls (Red)
+    - at: 22:58
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 24:12
+      label: Zed kills Rengar
+      kind: kill
 - videoId: t9MXVJaURf4
   title: Zed Top vs Yasuo (MISA Ragner) - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster

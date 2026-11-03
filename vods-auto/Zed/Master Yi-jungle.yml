@@ -4,8 +4,55 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1569
-  player: MathisV
-  team: DYN
+  player: DYN MathisV
+  uploaded: 2026-10-25
+  result: W
+  moments:
+    - at: 8:21
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:28
+      label: Zed picks off Ahri
+    - at: 10:31
+      label: Kalista takes down Jhin
+    - at: 11:42
+      label: Zed kills Karma
+      kind: kill
+    - at: 13:34
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:44
+      label: Zed picks off Ahri
+    - at: 14:26
+      label: Zed kills Karma
+      kind: kill
+    - at: 16:44
+      label: Zed kills Alistar
+      kind: kill
+    - at: 18:57
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:06
+      label: Zed takes down Master Yi
+    - at: 20:49
+      label: Red takes Baron
+      kind: baron
+    - at: 21:46
+      label: Zed picks off Ahri
+    - at: 22:33
+      label: Zed kills Karma
+      kind: kill
+    - at: 23:12
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:20
+      label: Top Inhibitor falls (Blue)
+    - at: 23:42
+      label: Ryze takes down Karma
+    - at: 25:05
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 25:21
+      label: Zed eliminates Jhin
 - videoId: ugF8GoEG2o0
   title: Zed Jungle vs Master Yi - EUW Master Patch 26.11
   rankClaim: Master

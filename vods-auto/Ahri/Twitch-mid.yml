@@ -4,12 +4,10 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1503
-  player: Koussay
-  team: BAM
+  player: BAM Koussay
+  uploaded: 2026-10-02
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:02
       label: First Blood — Ahri kills Twitch
       kind: kill
@@ -47,17 +45,14 @@
       kind: baron
     - at: 24:01
       label: Mid Inhibitor falls (Red)
-    - at: 24:23
-      label: Victory
 - videoId: 2zxTiOoC-_A
   title: Ahri Mid vs Twitch - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1932
+  uploaded: 2026-09-25
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:36
       label: First Blood — Ahri kills Alistar
       kind: kill
@@ -104,17 +99,14 @@
     - at: 31:18
       label: Team fight (4 kills)
       kind: teamfight
-    - at: 32:07
-      label: Victory
 - videoId: PsMuw8Qr7Ng
   title: Ahri Mid vs Twitch - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1685
+  uploaded: 2026-09-06
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:28
       label: First Blood — Ahri kills Twitch
       kind: kill
@@ -161,5 +153,3 @@
     - at: 27:13
       label: Ahri kills Tristana
       kind: kill
-    - at: 28:00
-      label: Victory

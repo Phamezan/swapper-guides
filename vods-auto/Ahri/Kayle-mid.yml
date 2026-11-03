@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1583
+  uploaded: 2026-09-30
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:47
       label: First Blood — Naafiri kills Kayle
       kind: kill
@@ -49,5 +48,3 @@
     - at: 26:11
       label: Naafiri Double Kill
       kind: kill
-    - at: 26:18
-      label: Victory

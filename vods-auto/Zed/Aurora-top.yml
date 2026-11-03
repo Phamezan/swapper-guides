@@ -4,3 +4,50 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1472
+  uploaded: 2026-06-28
+  result: L
+  moments:
+    - at: 4:40
+      label: First Blood — Zed kills Aurora
+      kind: kill
+    - at: 5:02
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:04
+      label: Zed catches Aurora
+    - at: 9:56
+      label: Zed outduels Aurora again
+    - at: 10:33
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:27
+      label: Zed outplays Aurora (3rd time)
+    - at: 12:21
+      label: Zed solo kills Aurora (4th time)
+      kind: kill
+    - at: 15:47
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:34
+      label: Vel'Koz picks off Nautilus
+    - at: 17:10
+      label: Zed takes down Ahri
+    - at: 20:29
+      label: Zed outplays Ahri
+    - at: 20:33
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:26
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:10
+      label: Red takes Baron
+      kind: baron
+    - at: 23:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:38
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:08
+      label: Bot Inhibitor falls (Blue)

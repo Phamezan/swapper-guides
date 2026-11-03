@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1492
+  uploaded: 2026-09-27
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:04
       label: Red takes 1st Dragon (Cloud)
       kind: dragon
@@ -53,17 +52,14 @@
       kind: kill
     - at: 24:09
       label: Bot Inhibitor falls (Blue)
-    - at: 24:47
-      label: Victory
 - videoId: k8AND6KspYM
   title: Ahri Mid vs Karma (MagiFelix) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1516
+  uploaded: 2026-09-26
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 6:35
       label: First Blood — Ahri kills Karma
       kind: kill
@@ -105,5 +101,3 @@
       kind: kill
     - at: 24:49
       label: Bot Inhibitor falls (Blue)
-    - at: 25:11
-      label: Victory

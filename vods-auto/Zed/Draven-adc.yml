@@ -4,3 +4,49 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1669
+  uploaded: 2026-07-25
+  result: W
+  moments:
+    - at: 2:10
+      label: First Blood — Hecarim kills Nautilus
+      kind: kill
+    - at: 7:07
+      label: Alistar kills Diana
+      kind: kill
+    - at: 8:37
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:48
+      label: Zed takes down Draven
+    - at: 12:48
+      label: Zed takes down Draven
+    - at: 14:13
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:23
+      label: Zed picks off Zaahen
+    - at: 19:42
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:24
+      label: Zed picks off Nautilus
+    - at: 22:22
+      label: Hecarim Double Kill
+      kind: kill
+    - at: 22:27
+      label: Hecarim Triple Kill
+      kind: kill
+    - at: 23:26
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:42
+      label: Zed picks off Nautilus
+    - at: 24:50
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:28
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 26:44
+      label: Zed Double Kill
+      kind: kill

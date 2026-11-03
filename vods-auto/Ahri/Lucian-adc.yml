@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1774
+  uploaded: 2026-10-27
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 6:28
       label: Ahri picks off Alistar
     - at: 8:29
@@ -54,5 +53,3 @@
       label: Fizz eliminates Vex
     - at: 29:03
       label: Mid Inhibitor falls (Blue)
-    - at: 29:29
-      label: Victory

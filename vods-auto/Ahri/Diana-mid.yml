@@ -4,12 +4,10 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1597
-  player: Wolorz
-  team: FEC
+  player: FEC Wolorz
+  uploaded: 2026-10-25
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 0:10
       label: First Blood — Ahri kills Jax
       kind: kill
@@ -51,17 +49,14 @@
     - at: 26:01
       label: Gangplank Double Kill
       kind: kill
-    - at: 26:32
-      label: Victory
 - videoId: 1pJp0jepVWA
   title: Ahri Mid vs Diana - KR Master Patch 26.20
   rankClaim: Master
   patch: "26.20"
   durationSec: 1458
+  uploaded: 2026-10-21
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:47
       label: First Blood — Jayce kills Diana
       kind: kill
@@ -104,5 +99,3 @@
     - at: 23:59
       label: Ahri Triple Kill
       kind: kill
-    - at: 24:13
-      label: Victory

@@ -4,11 +4,99 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1447
+  uploaded: 2026-08-23
+  result: L
+  moments:
+    - at: 4:29
+      label: First Blood — Zed kills Vel'Koz
+      kind: kill
+    - at: 8:25
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:34
+      label: Diana takes down Rek'Sai
+    - at: 11:35
+      label: Zed picks off Rek'Sai
+    - at: 11:42
+      label: Zed Triple Kill
+      kind: kill
+    - at: 13:29
+      label: Zed outduels Thresh
+    - at: 13:41
+      label: Syndra takes down Kalista
+    - at: 14:35
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:27
+      label: Diana kills Irelia
+      kind: kill
+    - at: 19:50
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 21:20
+      label: Zed takes down Irelia
+    - at: 22:09
+      label: Red takes Baron
+      kind: baron
+    - at: 23:06
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:20
+      label: Mid Inhibitor falls (Blue)
 - videoId: b34UgxpadPY
   title: Zed Mid vs Vel'Koz - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1707
+  uploaded: 2026-07-21
+  result: L
+  moments:
+    - at: 4:49
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 5:16
+      label: First Blood — Zed kills Naafiri
+      kind: kill
+    - at: 10:05
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 11:19
+      label: Zed takes down Vel'Koz
+    - at: 15:55
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:32
+      label: Zed catches Vel'Koz again
+    - at: 18:09
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:29
+      label: Zed takes down Senna
+    - at: 20:32
+      label: Red takes Baron
+      kind: baron
+    - at: 21:08
+      label: Zed picks off Naafiri
+    - at: 21:10
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 22:28
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:12
+      label: Zed eliminates Vel'Koz
+    - at: 25:06
+      label: Zed solo kills Naafiri
+      kind: kill
+    - at: 26:47
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:43
+      label: Red takes Elder Dragon
+      kind: dragon
+    - at: 27:54
+      label: Bot Inhibitor falls (Blue)
+    - at: 28:07
+      label: Mid Inhibitor falls (Blue)
 - videoId: u5ykiNnhFYQ
   title: Zed Mid vs Vel'Koz - TW Grandmaster Patch 26.02
   rankClaim: Grandmaster

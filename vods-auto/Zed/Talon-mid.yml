@@ -4,13 +4,158 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 2044
+  uploaded: 2026-10-06
+  result: W
+  moments:
+    - at: 1:57
+      label: First Blood — Zed kills Talon
+      kind: kill
+    - at: 3:28
+      label: Zed takes down Talon
+    - at: 4:52
+      label: Zed catches Talon again
+    - at: 8:34
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:36
+      label: Gangplank eliminates Gwen
+    - at: 13:56
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:23
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:16
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:28
+      label: Jhin picks off Gwen
+    - at: 24:21
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 24:54
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 26:38
+      label: Kha'Zix Double Kill
+      kind: kill
+    - at: 28:24
+      label: Zed catches Ezreal
+    - at: 29:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 30:08
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 31:42
+      label: Kha'Zix kills Karma
+      kind: kill
+    - at: 32:55
+      label: Mid Inhibitor falls (Blue)
 - videoId: vR6EdH-uE1w
   title: Zed Mid vs Talon - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1762
+  uploaded: 2026-09-22
+  result: W
+  moments:
+    - at: 2:11
+      label: First Blood — Zed kills Talon
+      kind: kill
+    - at: 7:16
+      label: Zed takes down Talon
+    - at: 8:27
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:34
+      label: Zed catches Talon again
+    - at: 11:47
+      label: Zed catches Ashe
+    - at: 13:42
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:36
+      label: Zed outduels Talon (3rd time)
+    - at: 19:21
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:07
+      label: Zed outduels Ashe again
+    - at: 21:23
+      label: Zed outplays Talon (4th time)
+    - at: 22:06
+      label: Zed outduels Vel'Koz
+    - at: 22:18
+      label: Zed Triple Kill
+      kind: kill
+    - at: 22:22
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:49
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:08
+      label: Zed outplays Ashe (3rd time)
+    - at: 28:00
+      label: Zed outplays Vel'Koz again
+    - at: 28:19
+      label: Mid Inhibitor falls (Blue)
 - videoId: VIcy7JIR6M4
   title: Zed Mid vs Talon - KR Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1847
+  uploaded: 2026-08-21
+  result: W
+  moments:
+    - at: 3:51
+      label: First Blood — Zed kills Talon
+      kind: kill
+    - at: 4:58
+      label: Zed takes down Talon
+    - at: 10:59
+      label: Zed catches Talon again
+    - at: 12:11
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:55
+      label: Zed outplays Olaf
+    - at: 16:40
+      label: Zed catches Tristana
+    - at: 17:29
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:47
+      label: Zed solo kills Taliyah
+      kind: kill
+    - at: 19:08
+      label: Top Inhibitor falls (Red)
+    - at: 21:12
+      label: Swain Triple Kill
+      kind: kill
+    - at: 22:57
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:52
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:44
+      label: Zed solo kills Olaf again
+      kind: kill
+    - at: 25:59
+      label: Bot Inhibitor falls (Red)
+    - at: 26:04
+      label: Mid Inhibitor falls (Red)
+    - at: 27:56
+      label: Top Inhibitor falls (Red)
+    - at: 28:32
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 29:58
+      label: Zed outduels Tristana again
+    - at: 30:08
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 30:32
+      label: Zed Triple Kill
+      kind: kill

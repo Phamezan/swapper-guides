@@ -5,10 +5,9 @@
   patch: "26.21"
   durationSec: 1709
   player: Hydra
+  uploaded: 2026-11-01
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:20
       label: Blue takes 1st Dragon (Infernal)
       kind: dragon
@@ -50,19 +49,39 @@
     - at: 28:08
       label: Karthus Double Kill
       kind: kill
-    - at: 28:24
-      label: Victory
+- videoId: Kygpzb7DM2Y
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.21"
+  durationSec: 1067
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-31
+- videoId: LFyqjEMbFe8
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.21"
+  durationSec: 1831
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-27
+- videoId: ONfEB6e5f4I
+  title: "MID.GG: [ dunlol ] Ahri MID vs Yone | NA CHALLENGER | LOL Season 2026"
+  rankClaim: Challenger
+  patch: "26.21"
+  durationSec: 2018
+  patchEstimated: true
+  player: dunlol
+  uploaded: 2026-10-27
 - videoId: wkSMvcrSpHw
   title: (DIA Yuros) Ahri Mid vs Yone - EUW Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1742
-  player: Yuros
-  team: DIA
+  player: DIA Yuros
+  uploaded: 2026-10-17
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:54
       label: First Blood — Nidalee kills Yone
       kind: kill
@@ -107,24 +126,29 @@
     - at: 27:54
       label: Red takes 4th Dragon (Cloud)
       kind: dragon
-    - at: 28:22
-      label: Victory
 - videoId: qituwC3WTKM
   title: Ahri vs Yone Mid - KR Challenger - Patch 16.20 Season 16
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1380
+  uploaded: 2026-10-14
+- videoId: ROrWJ-sj3vQ
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.20"
+  durationSec: 902
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-09
 - videoId: XbBqWloClo4
   title: (TOG Sajator) Ahri Mid vs Yone (Depressedkid) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1565
-  player: Sajator
-  team: TOG
+  player: TOG Sajator
+  uploaded: 2026-10-06
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 6:25
       label: Blue takes 1st Dragon (Ocean)
       kind: dragon
@@ -165,41 +189,323 @@
       kind: dragon
     - at: 25:14
       label: Ahri picks off Gwen
-    - at: 26:00
-      label: Victory
+- videoId: sM2Hek9NV5s
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.19"
+  durationSec: 924
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-05
 - videoId: JxhyAMVOv1Y
   title: Ahri Mid vs Yone - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1711
+  uploaded: 2026-10-04
+  result: W
+  moments:
+    - at: 5:09
+      label: First Blood — Ahri kills Corki
+      kind: kill
+    - at: 9:47
+      label: Ahri catches Corki
+    - at: 10:39
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:43
+      label: Yunara picks off Swain
+    - at: 14:04
+      label: Ahri takes down Swain
+    - at: 16:05
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:48
+      label: Sylas kills Volibear
+      kind: kill
+    - at: 18:35
+      label: Yunara eliminates Zyra
+    - at: 20:13
+      label: Sylas kills Swain
+      kind: kill
+    - at: 20:59
+      label: Red takes Baron
+      kind: baron
+    - at: 21:45
+      label: Yunara kills Yone
+      kind: kill
+    - at: 21:49
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 24:39
+      label: Ahri takes down Swain
+    - at: 25:56
+      label: Ahri outduels Swain
+    - at: 27:06
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 27:33
+      label: Yunara eliminates Zyra
+    - at: 27:42
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 28:03
+      label: Mid Inhibitor falls (Blue)
 - videoId: ARMZvWIawMA
   title: (Peng) Ahri Mid vs Yone (Depressedkid) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1727
   player: Peng
+  uploaded: 2026-10-02
+  result: W
+  moments:
+    - at: 6:14
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:37
+      label: First Blood — Ahri kills Yone
+      kind: kill
+    - at: 14:10
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:20
+      label: Ahri outplays Fiora
+    - at: 19:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:12
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:54
+      label: Jarvan IV eliminates Ekko
+    - at: 21:56
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:46
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 24:52
+      label: Camille eliminates Fiora
+    - at: 25:48
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 25:56
+      label: Ahri picks off Lee Sin
+    - at: 26:25
+      label: Aurelion Sol picks off Fiora
+    - at: 26:27
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:54
+      label: Ahri Double Kill
+      kind: kill
+    - at: 27:57
+      label: Ahri Triple Kill
+      kind: kill
+    - at: 28:05
+      label: Ahri Quadra Kill
+      kind: kill
+    - at: 28:22
+      label: Mid Inhibitor falls (Blue)
+- videoId: voB8YbuTMTA
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.19"
+  durationSec: 1976
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-10-01
 - videoId: r4KXHW2zhUc
   title: Ahri Mid vs Yone - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1425
+  uploaded: 2026-09-28
+  result: W
+  moments:
+    - at: 5:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 5:16
+      label: First Blood — Ahri kills Galio
+      kind: kill
+    - at: 7:35
+      label: Wukong Double Kill
+      kind: kill
+    - at: 9:31
+      label: Ahri eliminates Yone
+    - at: 11:37
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:42
+      label: Wukong picks off Yone
+    - at: 14:33
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 15:17
+      label: Wukong Double Kill
+      kind: kill
+    - at: 16:59
+      label: Yunara Double Kill
+      kind: kill
+    - at: 17:40
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 19:39
+      label: Red takes Baron
+      kind: baron
+    - at: 22:51
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:19
+      label: Bot Inhibitor falls (Blue)
 - videoId: D3pGW6Jrdvc
   title: Ahri Mid vs Yone - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1372
+  uploaded: 2026-09-23
+  result: W
+  moments:
+    - at: 2:59
+      label: First Blood — Nidalee kills Elise
+      kind: kill
+    - at: 6:32
+      label: Ahri picks off Elise
+    - at: 8:08
+      label: Xayah takes down Tristana
+    - at: 9:07
+      label: Ahri Double Kill
+      kind: kill
+    - at: 13:19
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:21
+      label: Ahri takes down K'Sante
+    - at: 14:12
+      label: Ahri takes down Yone
+    - at: 15:15
+      label: Xayah Triple Kill
+      kind: kill
+    - at: 17:00
+      label: Ahri kills Tristana
+      kind: kill
+    - at: 18:30
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:53
+      label: Red takes Baron
+      kind: baron
+    - at: 21:33
+      label: Nidalee kills K'Sante
+      kind: kill
+    - at: 22:00
+      label: Xayah kills Yone
+      kind: kill
+    - at: 22:23
+      label: Mid Inhibitor falls (Blue)
+- videoId: nw1sCUPCT1Y
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.18"
+  durationSec: 1381
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-09-21
 - videoId: Eut7r8BOlVM
   title: (SC Nafkelah) Ahri Mid vs Yone - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1488
-  player: Nafkelah
-  team: SC
+  player: SC Nafkelah
+  uploaded: 2026-09-17
+  result: W
+  moments:
+    - at: 2:00
+      label: First Blood — Ahri kills Yone
+      kind: kill
+    - at: 3:16
+      label: Wukong picks off Yone
+    - at: 6:31
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:36
+      label: Ahri eliminates Yone
+    - at: 9:24
+      label: Wukong takes down Lillia
+    - at: 10:39
+      label: Ahri takes down Yone
+    - at: 14:01
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:05
+      label: Ahri picks off Lillia
+    - at: 15:30
+      label: Wukong kills Zilean
+      kind: kill
+    - at: 16:58
+      label: Ahri outduels Pyke
+    - at: 18:20
+      label: Sion eliminates Pyke
+    - at: 19:57
+      label: Red takes Baron
+      kind: baron
+    - at: 21:00
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:15
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 23:30
+      label: Ahri eliminates Yone
+    - at: 23:57
+      label: Bot Inhibitor falls (Blue)
 - videoId: 7KGyBIQW7Wg
   title: Ahri Mid vs Yone - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1369
+  uploaded: 2026-09-08
+  result: W
+  moments:
+    - at: 2:54
+      label: First Blood — Ahri kills Yone
+      kind: kill
+    - at: 5:07
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:34
+      label: Ahri picks off Sejuani
+    - at: 8:43
+      label: Lucian Double Kill
+      kind: kill
+    - at: 11:01
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 11:34
+      label: Ahri picks off Sejuani
+    - at: 13:49
+      label: Ahri takes down Yone
+    - at: 14:37
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:43
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 16:51
+      label: Naafiri picks off Yone
+    - at: 18:36
+      label: Ahri outplays Jax
+    - at: 19:56
+      label: Ahri solo kills Jax again
+      kind: kill
+    - at: 21:09
+      label: Red takes Baron
+      kind: baron
+    - at: 21:40
+      label: Ahri takes down Jax (3rd time)
+    - at: 22:12
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:34
+      label: Lucian picks off Jax
 - videoId: EaW5lgHGWgY
   title: (EDG Angel) Ahri Mid vs Yone - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -207,13 +513,102 @@
   durationSec: 1610
   player: Angel
   team: EDG
+  uploaded: 2026-08-20
+  result: W
+  moments:
+    - at: 5:19
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:10
+      label: First Blood — Graves kills Shyvana
+      kind: kill
+    - at: 8:18
+      label: Ahri takes down Shen
+    - at: 10:45
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 10:50
+      label: Graves kills Shen
+      kind: kill
+    - at: 13:07
+      label: Graves takes down Shyvana
+    - at: 15:52
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:21
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:38
+      label: Sivir Double Kill
+      kind: kill
+    - at: 21:35
+      label: Graves Double Kill
+      kind: kill
+    - at: 22:14
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 22:58
+      label: Sivir takes down Karthus
+    - at: 23:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:58
+      label: Mid Inhibitor falls (Red)
+    - at: 25:24
+      label: Ahri kills Karthus
+      kind: kill
 - videoId: juJBn_J3QJo
   title: (VIT Humanoid) Ahri Mid vs Yone - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1455
-  player: Humanoid
-  team: VIT
+  player: VIT Humanoid
+  uploaded: 2026-07-22
+  result: W
+  moments:
+    - at: 2:35
+      label: First Blood — Ahri kills Lee Sin
+      kind: kill
+    - at: 6:31
+      label: Ahri takes down Yone
+    - at: 8:25
+      label: Ahri catches Yone again
+    - at: 8:27
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:15
+      label: Ahri outplays Malphite
+    - at: 13:57
+      label: Ahri solo kills Malphite again
+      kind: kill
+    - at: 14:34
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:59
+      label: Ahri takes down Rell
+    - at: 16:45
+      label: Kindred Double Kill
+      kind: kill
+    - at: 19:55
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:51
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:30
+      label: Bot Inhibitor falls (Red)
+    - at: 23:17
+      label: Mid Inhibitor falls (Red)
+    - at: 23:27
+      label: Top Inhibitor falls (Red)
+    - at: 23:38
+      label: Ahri takes down Malphite
+    - at: 23:58
+      label: Ahri kills Ashe
+      kind: kill
 - videoId: ZtSz7G2tSSw
   title: Faker Ahri vs Yone Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger

@@ -4,3 +4,51 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1479
+  uploaded: 2026-07-10
+  result: L
+  moments:
+    - at: 5:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 5:52
+      label: First Blood — Seraphine kills Ziggs
+      kind: kill
+    - at: 7:48
+      label: Lee Sin eliminates Ziggs
+    - at: 10:25
+      label: Zed takes down Ziggs
+    - at: 10:45
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:01
+      label: Seraphine picks off Ziggs
+    - at: 12:26
+      label: Zed picks off Soraka
+    - at: 14:59
+      label: Zed takes down Ziggs
+    - at: 15:59
+      label: Zed takes down Ziggs
+    - at: 16:27
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 18:07
+      label: Zed picks off Vayne
+    - at: 18:44
+      label: Lee Sin takes down Kha'Zix
+    - at: 20:32
+      label: Zed kills Naafiri
+      kind: kill
+    - at: 21:14
+      label: Zed solo kills Vayne
+      kind: kill
+    - at: 21:44
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 21:47
+      label: Seraphine kills Kha'Zix
+      kind: kill
+    - at: 23:27
+      label: Zed picks off Vayne
+    - at: 24:18
+      label: Team fight (3 kills)
+      kind: teamfight

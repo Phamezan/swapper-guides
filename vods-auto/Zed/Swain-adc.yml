@@ -4,3 +4,48 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1522
+  uploaded: 2026-07-11
+  result: W
+  moments:
+    - at: 2:37
+      label: First Blood — Zed kills Thresh
+      kind: kill
+    - at: 8:19
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:33
+      label: Zed catches Riven
+    - at: 12:22
+      label: Lulu eliminates Thresh
+    - at: 13:34
+      label: Gragas eliminates Swain
+    - at: 14:08
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:15
+      label: Sylas takes down Vladimir
+    - at: 16:07
+      label: Gragas kills Thresh
+      kind: kill
+    - at: 18:04
+      label: Zed kills Riven
+      kind: kill
+    - at: 19:34
+      label: Zed eliminates Talon
+    - at: 20:38
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:36
+      label: Bot Inhibitor falls (Red)
+    - at: 22:17
+      label: Garen Double Kill
+      kind: kill
+    - at: 23:00
+      label: Mid Inhibitor falls (Red)
+    - at: 23:22
+      label: Zed eliminates Talon
+    - at: 23:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:29
+      label: Sylas picks off Talon

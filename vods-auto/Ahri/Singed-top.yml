@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1866
+  uploaded: 2026-07-13
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 0:46
       label: First Blood — Ambessa kills Singed
       kind: kill
@@ -52,35 +51,24 @@
       label: Yone eliminates Xerath
     - at: 30:36
       label: Mid Inhibitor falls (Blue)
-    - at: 31:01
-      label: Defeat
 - videoId: iOhg-kl3QzY
   title: Ahri Top vs Singed - NA Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1545
+  uploaded: 2026-02-23
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 9:09
       label: Team FIGHT
       kind: teamfight
-    - at: 9:37
-      label: Gameplay
     - at: 12:07
       label: Get a SOLO KILL
       kind: kill
-    - at: 12:35
-      label: Gameplay
     - at: 13:52
       label: Get a Double Kill
       kind: kill
-    - at: 14:24
-      label: Gameplay
     - at: 16:28
       label: Team FIGHT
       kind: teamfight
@@ -90,18 +78,12 @@
     - at: 17:26
       label: Take down The Turret
       kind: tower
-    - at: 17:43
-      label: Gameplay
     - at: 18:26
       label: Get a Triple Kill
       kind: kill
-    - at: 19:01
-      label: Gameplay
     - at: 20:04
       label: Team FIGHT
       kind: teamfight
-    - at: 20:36
-      label: Gameplay
     - at: 21:23
       label: Take down The Turret
       kind: tower
@@ -120,8 +102,6 @@
     - at: 22:32
       label: Team FIGHT
       kind: teamfight
-    - at: 22:53
-      label: Gameplay
     - at: 23:25
       label: Take down The Turret
       kind: tower

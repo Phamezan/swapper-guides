@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1871
+  uploaded: 2026-06-19
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:35
       label: First Blood — Ahri kills Irelia
       kind: kill
@@ -49,17 +48,14 @@
       label: Jayce takes down Naafiri
     - at: 30:30
       label: Jayce picks off Ekko
-    - at: 31:06
-      label: Defeat
 - videoId: t9pnRh3ourA
   title: Ahri Top vs Irelia - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1426
+  uploaded: 2026-05-10
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:47
       label: First Blood — Ahri kills Pantheon
       kind: kill
@@ -101,5 +97,3 @@
       kind: kill
     - at: 23:19
       label: Bot Inhibitor falls (Blue)
-    - at: 23:41
-      label: Defeat

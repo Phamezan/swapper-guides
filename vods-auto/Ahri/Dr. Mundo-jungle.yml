@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1857
+  uploaded: 2026-07-01
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:00
       label: Red takes 1st Dragon (Infernal)
       kind: dragon
@@ -58,5 +57,3 @@
       kind: kill
     - at: 30:36
       label: Bot Inhibitor falls (Red)
-    - at: 30:52
-      label: Victory

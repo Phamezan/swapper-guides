@@ -4,3 +4,27 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1951
+- videoId: Gsd5bntKqP8
+  title: HLE Gumayusi Yunara ADC vs Corki - Patch 26.8 Korea Challenger 2445 LP
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1773
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: P_tH1XWNGZ0
+  title: HLE Gumayusi Yunara vs Corki [ ADC ] Korea Challenger 2512 LP | Patch 26.7
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1365
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: DNnqFrMhSoU
+  title: T1 Peyz Yunara vs Corki [ ADC ] Patch 26.1 Ranked Korea
+  rankClaim: Master+
+  patch: "26.1"
+  durationSec: 821
+  region: KR
+  player: Peyz
+  team: T1

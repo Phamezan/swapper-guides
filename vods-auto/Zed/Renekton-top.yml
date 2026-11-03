@@ -4,6 +4,44 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1727
+  uploaded: 2026-07-23
+  result: W
+  moments:
+    - at: 3:14
+      label: First Blood — Zed kills Renekton
+      kind: kill
+    - at: 7:31
+      label: Zed eliminates Elise
+    - at: 13:40
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:57
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:10
+      label: Zed eliminates Renekton
+    - at: 19:30
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:56
+      label: Zed eliminates Renekton
+    - at: 22:11
+      label: LeBlanc takes down Elise
+    - at: 23:57
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:54
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:58
+      label: Zed eliminates Elise
+    - at: 26:26
+      label: Mid Inhibitor falls (Red)
+    - at: 27:24
+      label: Zed eliminates Elise
 - videoId: tz049weoOYw
   title: Zed Top vs Renekton - KR Master Patch 26.12
   rankClaim: Master

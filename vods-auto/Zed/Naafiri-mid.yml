@@ -4,6 +4,41 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1412
+  uploaded: 2026-08-09
+  result: W
+  moments:
+    - at: 3:42
+      label: First Blood — Zed kills Shyvana
+      kind: kill
+    - at: 4:11
+      label: Zed takes down Bard
+    - at: 6:14
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 6:28
+      label: Zed takes down Bard
+    - at: 11:48
+      label: Zed takes down Naafiri
+    - at: 12:11
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:23
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:49
+      label: Zed kills Jhin
+      kind: kill
+    - at: 20:03
+      label: Zed takes down Locke
+    - at: 20:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:26
+      label: Yunara takes down Jhin
+    - at: 21:09
+      label: Mid Inhibitor falls (Red)
+    - at: 22:38
+      label: Zed takes down Bard
 - videoId: Gv65SmcmbI8
   title: (TolanD) Zed Mid vs Naafiri - KR Master Patch 26.11
   rankClaim: Master

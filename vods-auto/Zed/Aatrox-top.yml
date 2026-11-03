@@ -4,6 +4,52 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1697
+  uploaded: 2026-07-28
+  result: L
+  moments:
+    - at: 3:14
+      label: First Blood — Rek'Sai kills Aatrox
+      kind: kill
+    - at: 5:18
+      label: Zed catches Aatrox
+    - at: 9:20
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:59
+      label: Zed outduels Aatrox again
+    - at: 14:22
+      label: Zed eliminates Sona
+    - at: 15:02
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:34
+      label: Swain eliminates Lee Sin
+    - at: 16:50
+      label: Zed outplays Vladimir
+    - at: 18:15
+      label: Zed outplays Aatrox (3rd time)
+    - at: 19:44
+      label: Zed eliminates Aatrox
+    - at: 20:28
+      label: Zed takes down Vladimir
+    - at: 21:47
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:29
+      label: Kassadin Double Kill
+      kind: kill
+    - at: 24:00
+      label: Red takes Baron
+      kind: baron
+    - at: 24:49
+      label: Zed eliminates Aatrox
+    - at: 25:17
+      label: Top Inhibitor falls (Blue)
+    - at: 26:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:34
+      label: Bot Inhibitor falls (Blue)
 - videoId: YAgiUgqDKK0
   title: Zed Top vs Aatrox - BR Grandmaster Patch 26.08
   rankClaim: Grandmaster

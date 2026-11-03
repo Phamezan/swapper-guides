@@ -4,6 +4,48 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1709
+  uploaded: 2026-07-21
+  result: L
+  moments:
+    - at: 4:52
+      label: First Blood — Zed kills Shen
+      kind: kill
+    - at: 5:36
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:48
+      label: Seraphine eliminates Neeko
+    - at: 12:06
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:28
+      label: Zed outplays Shaco
+    - at: 16:20
+      label: Zed solo kills Shaco again
+      kind: kill
+    - at: 16:25
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:24
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:12
+      label: Zed takes down Shaco
+    - at: 21:29
+      label: Jax eliminates Shen
+    - at: 23:47
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:10
+      label: Seraphine eliminates Neeko
+    - at: 25:59
+      label: Top Inhibitor falls (Blue)
+    - at: 26:10
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:58
+      label: Zed picks off Akshan
+    - at: 28:03
+      label: Bot Inhibitor falls (Blue)
 - videoId: PJEtzfVkeW0
   title: Zed Jungle vs Shaco - KR Master Patch 26.10
   rankClaim: Master

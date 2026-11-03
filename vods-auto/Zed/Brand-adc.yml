@@ -4,6 +4,59 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1832
+  uploaded: 2026-07-03
+  result: W
+  moments:
+    - at: 0:50
+      label: First Blood — Zed kills Brand
+      kind: kill
+    - at: 8:56
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:57
+      label: Zed takes down Brand
+    - at: 12:43
+      label: Talon Double Kill
+      kind: kill
+    - at: 13:32
+      label: Zed outduels Brand
+    - at: 14:16
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:43
+      label: Zed kills Yone
+      kind: kill
+    - at: 16:33
+      label: Zed picks off Sona
+    - at: 18:26
+      label: Zed kills Yone
+      kind: kill
+    - at: 18:33
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:54
+      label: Singed kills Brand
+      kind: kill
+    - at: 20:46
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:44
+      label: Zed takes down Brand
+    - at: 24:01
+      label: Red takes Baron
+      kind: baron
+    - at: 25:27
+      label: Singed Double Kill
+      kind: kill
+    - at: 26:17
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 27:27
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 29:56
+      label: Zed Double Kill
+      kind: kill
 - videoId: DuaDV-ibQRk
   title: Zed ADC vs Brand - EUW Grandmaster Patch 26.03
   rankClaim: Grandmaster

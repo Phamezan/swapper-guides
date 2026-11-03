@@ -4,3 +4,43 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1588
+  uploaded: 2026-09-04
+  result: W
+  moments:
+    - at: 4:57
+      label: First Blood — Zed kills Camille
+      kind: kill
+    - at: 7:32
+      label: Zed eliminates Zilean
+    - at: 8:56
+      label: Zed catches Camille
+    - at: 9:11
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:49
+      label: Zed kills Lee Sin
+      kind: kill
+    - at: 13:47
+      label: Sylas takes down Lee Sin
+    - at: 14:24
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:21
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:40
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 23:17
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:57
+      label: Zed takes down Volibear
+    - at: 25:32
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 25:46
+      label: Sylas Double Kill
+      kind: kill
+    - at: 25:51
+      label: Sylas Triple Kill
+      kind: kill

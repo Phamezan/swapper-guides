@@ -4,3 +4,42 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1435
+  uploaded: 2026-08-27
+  result: L
+  moments:
+    - at: 2:02
+      label: First Blood — Zed kills Ornn
+      kind: kill
+    - at: 4:53
+      label: Zed takes down Ornn
+    - at: 6:57
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:05
+      label: Zed catches Ornn again
+    - at: 10:14
+      label: Syndra takes down Ashe
+    - at: 11:31
+      label: Zed kills Ashe
+      kind: kill
+    - at: 12:30
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:45
+      label: Zed takes down Ahri
+    - at: 16:39
+      label: Zed catches Ashe
+    - at: 17:39
+      label: Zed outduels Milio
+    - at: 17:56
+      label: Zed outplays Ahri
+    - at: 18:25
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:12
+      label: Zed outduels Ashe again
+    - at: 21:51
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:32
+      label: Mid Inhibitor falls (Red)

@@ -4,15 +4,149 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1546
+  uploaded: 2026-09-16
+  result: W
+  moments:
+    - at: 2:44
+      label: First Blood — Elise kills Lux
+      kind: kill
+    - at: 5:51
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:59
+      label: Zed outduels Tahm Kench
+    - at: 9:10
+      label: Zed takes down Lux
+    - at: 12:15
+      label: Zed catches Lux again
+    - at: 12:46
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:08
+      label: Zed outplays Kled
+    - at: 14:52
+      label: Zed outduels Lux (3rd time)
+    - at: 16:29
+      label: Zed solo kills Kindred
+      kind: kill
+    - at: 18:04
+      label: Zed catches Kalista
+    - at: 18:20
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:26
+      label: Zed outduels Kalista again
+    - at: 20:51
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:41
+      label: Zed picks off Kindred
+    - at: 23:40
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 23:49
+      label: Zed outplays Kalista (3rd time)
+    - at: 24:29
+      label: Red takes Baron
+      kind: baron
+    - at: 24:47
+      label: Zed outplays Lux (4th time)
 - videoId: i0cFrO1d06Q
   title: Zed Mid vs Lux (VLR Peppe) - EUW Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1427
+  uploaded: 2026-09-09
+  result: W
+  moments:
+    - at: 1:39
+      label: First Blood — Zed kills Lux
+      kind: kill
+    - at: 4:01
+      label: Zed takes down Lux
+    - at: 5:57
+      label: Zed catches Lux again
+    - at: 7:33
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 8:52
+      label: Zed outplays Vel'Koz
+    - at: 10:12
+      label: Zed outduels Lux (3rd time)
+    - at: 11:18
+      label: Zed solo kills Vel'Koz again
+      kind: kill
+    - at: 13:00
+      label: Zed catches Yunara
+    - at: 13:15
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 14:31
+      label: Zed outplays Lux (4th time)
+    - at: 17:00
+      label: Zed takes down Vel'Koz (3rd time)
+    - at: 18:16
+      label: Zed outduels Zoe
+    - at: 18:56
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 19:37
+      label: Zed outduels Yunara again
+    - at: 20:38
+      label: Red takes Baron
+      kind: baron
+    - at: 23:03
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:16
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:33
+      label: Kalista kills Bel'Veth
+      kind: kill
 - videoId: rc5r1emokPg
   title: (IN5 Alix) Zed Mid vs Lux - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1665
-  player: Alix
-  team: IN5
+  player: IN5 Alix
+  uploaded: 2026-07-14
+  result: L
+  moments:
+    - at: 2:36
+      label: First Blood — Camille kills Lux
+      kind: kill
+    - at: 4:24
+      label: Teemo takes down Lux
+    - at: 7:27
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 8:03
+      label: Camille takes down Lux
+    - at: 12:58
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:36
+      label: Zed takes down Darius
+    - at: 18:31
+      label: Zed eliminates Lux
+    - at: 18:52
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 19:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:11
+      label: Red takes Baron
+      kind: baron
+    - at: 21:01
+      label: Zed picks off Ivern
+    - at: 22:36
+      label: Zed catches Yunara
+    - at: 24:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:51
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 26:41
+      label: Zed outplays Darius
+    - at: 27:03
+      label: Zed picks off Ivern

@@ -4,44 +4,414 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1539
+  uploaded: 2026-10-31
+  result: W
+  moments:
+    - at: 1:40
+      label: Zed outduels Vex
+    - at: 9:17
+      label: Zed solo kills Akshan
+      kind: kill
+    - at: 13:27
+      label: Zed takes down Aphelios
+    - at: 13:32
+      label: Zed Double Kill
+      kind: kill
+    - at: 14:37
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:21
+      label: Zed kills Braum
+      kind: kill
+    - at: 17:22
+      label: Zed catches Aphelios again
+    - at: 18:49
+      label: Zed picks off Akshan
+    - at: 20:11
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 20:29
+      label: Twisted Fate picks off Qiyana
+    - at: 21:15
+      label: Top Inhibitor falls (Red)
+    - at: 21:44
+      label: Zed outplays Qiyana
+    - at: 21:55
+      label: Zed picks off Akshan
+    - at: 22:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:04
+      label: Zed picks off Akshan
+    - at: 24:49
+      label: Miss Fortune picks off Vex
+    - at: 25:13
+      label: Bot Inhibitor falls (Red)
+    - at: 25:19
+      label: Mid Inhibitor falls (Red)
 - videoId: glceFdXutEo
   title: (Haru) Zed Jungle vs Qiyana - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1702
   player: Haru
+  uploaded: 2026-10-12
+  result: W
+  moments:
+    - at: 2:44
+      label: First Blood — Zed kills Urgot
+      kind: kill
+    - at: 4:32
+      label: Zed outplays Qiyana
+    - at: 9:40
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:16
+      label: Zed solo kills Qiyana again
+      kind: kill
+    - at: 15:36
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:53
+      label: Zed solo kills Kog'Maw
+      kind: kill
+    - at: 18:51
+      label: Zed takes down Corki
+    - at: 20:01
+      label: Zed picks off Kog'Maw
+    - at: 22:26
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 22:46
+      label: Zed takes down Qiyana (3rd time)
+    - at: 23:31
+      label: Tristana picks off Urgot
+    - at: 24:42
+      label: Zed kills Alistar
+      kind: kill
+    - at: 24:45
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:18
+      label: Zed picks off Kog'Maw
+    - at: 26:22
+      label: Zed takes down Qiyana
+    - at: 27:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:50
+      label: Bot Inhibitor falls (Red)
 - videoId: rGj6LHUw-i4
   title: (GSMC Alix) Zed Jungle vs Qiyana (G2 SkewMond) - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1624
-  player: Alix
-  team: GSMC
+  player: GSMC Alix
+  uploaded: 2026-09-21
+  result: W
+  moments:
+    - at: 2:50
+      label: First Blood — Jayce kills Ambessa
+      kind: kill
+    - at: 7:26
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:50
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 14:16
+      label: Zed catches Bard
+    - at: 14:26
+      label: Zed outplays Qiyana
+    - at: 15:51
+      label: Viktor takes down Bard
+    - at: 17:47
+      label: Zed kills Bard
+      kind: kill
+    - at: 18:51
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:04
+      label: Zed eliminates Ezreal
+    - at: 20:54
+      label: Zed takes down Ezreal
+    - at: 21:26
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 22:45
+      label: Zed eliminates Ezreal
+    - at: 23:23
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:19
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 26:09
+      label: Zed takes down Qiyana
+    - at: 26:16
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:27
+      label: Top Inhibitor falls (Red)
 - videoId: LgaDv3SDg9o
   title: Zed Jungle vs Qiyana (HLE Zeus) - KR Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1922
+  uploaded: 2026-09-01
+  result: W
+  moments:
+    - at: 4:58
+      label: First Blood — Ezreal kills Pantheon
+      kind: kill
+    - at: 7:50
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 9:40
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 10:17
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:39
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:32
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:20
+      label: Cassiopeia eliminates Azir
+    - at: 22:32
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:48
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 23:41
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 24:14
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 28:09
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 29:18
+      label: Zed takes down Taliyah
+    - at: 29:47
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 31:06
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 31:21
+      label: Mid Inhibitor falls (Red)
+    - at: 31:48
+      label: Ezreal Triple Kill
+      kind: kill
 - videoId: 3zW9QRW1QWg
   title: Zed Jungle vs Qiyana - BR Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1562
+  uploaded: 2026-07-25
+  result: W
+  moments:
+    - at: 7:18
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 8:54
+      label: Zed picks off Sylas
+    - at: 10:11
+      label: Jax kills Qiyana
+      kind: kill
+    - at: 10:23
+      label: Zed outduels Singed
+    - at: 13:33
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:51
+      label: Zed kills Senna
+      kind: kill
+    - at: 14:15
+      label: Zed outplays Singed again
+    - at: 15:37
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:56
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:02
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 20:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:41
+      label: Zed kills Senna
+      kind: kill
+    - at: 21:55
+      label: Zed Triple Kill
+      kind: kill
+    - at: 22:18
+      label: Mid Inhibitor falls (Red)
+    - at: 22:20
+      label: Bot Inhibitor falls (Red)
+    - at: 23:19
+      label: Viktor Double Kill
+      kind: kill
+    - at: 24:44
+      label: Zed takes down Qiyana
+    - at: 25:23
+      label: Top Inhibitor falls (Red)
 - videoId: 0shHDqcHxcg
   title: Zed Jungle vs Qiyana (GMB Mario) - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1629
+  uploaded: 2026-07-20
+  result: W
+  moments:
+    - at: 2:49
+      label: First Blood — Zed kills Yorick
+      kind: kill
+    - at: 5:50
+      label: Zed outplays Qiyana
+    - at: 7:27
+      label: Zed kills Senna
+      kind: kill
+    - at: 10:42
+      label: Zed solo kills Qiyana again
+      kind: kill
+    - at: 10:44
+      label: Zed Double Kill
+      kind: kill
+    - at: 12:21
+      label: Zed takes down Qiyana (3rd time)
+    - at: 13:37
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:50
+      label: Sylas picks off Karthus
+    - at: 15:04
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:45
+      label: Zed solo kills Hwei
+      kind: kill
+    - at: 17:29
+      label: Zed picks off Hwei
+    - at: 19:05
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:12
+      label: Zed takes down Karthus
+    - at: 23:54
+      label: Zed catches Qiyana (4th time)
+    - at: 24:34
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:24
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 26:33
+      label: Top Inhibitor falls (Red)
 - videoId: yUmxeG5ZLew
   title: Zed Jungle vs Qiyana - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1641
+  uploaded: 2026-07-06
+  result: L
+  moments:
+    - at: 2:48
+      label: First Blood — Ziggs kills Ezreal
+      kind: kill
+    - at: 5:41
+      label: Zed takes down Ezreal
+    - at: 9:16
+      label: Ziggs takes down Ezreal
+    - at: 13:30
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:02
+      label: Zed kills Senna
+      kind: kill
+    - at: 16:58
+      label: Anivia kills Ezreal
+      kind: kill
+    - at: 18:47
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:04
+      label: Zed kills Senna
+      kind: kill
+    - at: 20:01
+      label: Camille eliminates Aurora
+    - at: 23:03
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:44
+      label: Quinn Double Kill
+      kind: kill
+    - at: 25:08
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 25:32
+      label: Red takes Baron
+      kind: baron
+    - at: 26:33
+      label: Camille eliminates Aurora
+    - at: 26:51
+      label: Mid Inhibitor falls (Blue)
 - videoId: VVCPMPH6Vvw
   title: Zed Jungle vs Qiyana - KR Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1578
+  uploaded: 2026-06-29
+  result: L
+  moments:
+    - at: 2:26
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 7:55
+      label: Viktor eliminates Talon
+    - at: 11:39
+      label: Zed outduels Sion
+    - at: 14:42
+      label: Vel'Koz kills Talon
+      kind: kill
+    - at: 16:14
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:55
+      label: Zed outplays Sion again
+    - at: 18:41
+      label: Zed picks off Talon
+    - at: 21:15
+      label: Viktor Double Kill
+      kind: kill
+    - at: 22:47
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:42
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:12
+      label: Red takes Baron
+      kind: baron
+    - at: 25:11
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 25:58
+      label: Mid Inhibitor falls (Blue)
 - videoId: Gsl0aawQ3uU
   title: Zed Jungle vs Qiyana - EUW Master Patch 26.11
   rankClaim: Master

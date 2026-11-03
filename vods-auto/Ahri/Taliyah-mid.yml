@@ -4,12 +4,10 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1875
-  player: Fisher
-  team: DFM
+  player: DFM Fisher
+  uploaded: 2026-10-05
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:37
       label: First Blood — Ahri kills Taliyah
       kind: kill
@@ -54,17 +52,14 @@
     - at: 30:50
       label: Ahri Triple Kill
       kind: kill
-    - at: 31:10
-      label: Victory
 - videoId: WCHxWZLAzHc
   title: Ahri Mid vs Taliyah - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1436
+  uploaded: 2026-09-22
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:33
       label: First Blood — Nidalee kills Taliyah
       kind: kill
@@ -114,17 +109,14 @@
       kind: kill
     - at: 23:16
       label: Bot Inhibitor falls (Red)
-    - at: 23:51
-      label: Victory
 - videoId: YpU9F3rhxO4
   title: Ahri Mid vs Taliyah - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1697
+  uploaded: 2026-09-18
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:08
       label: First Blood — Ahri kills Lee Sin
       kind: kill
@@ -170,19 +162,15 @@
     - at: 28:02
       label: Aphelios Double Kill
       kind: kill
-    - at: 28:12
-      label: Victory
 - videoId: 6pDTVYIzYA4
   title: (KHK Venour) Ahri Mid vs Taliyah (GSMC Alix) - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1630
-  player: Venour
-  team: KHK
+  player: KHK Venour
+  uploaded: 2026-09-01
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:41
       label: First Blood — Ahri kills Taliyah
       kind: kill
@@ -221,12 +209,61 @@
       kind: dragon
     - at: 26:35
       label: Rengar eliminates Yunara
-    - at: 27:05
-      label: Victory
 - videoId: sX772k0-LG8
   title: (SLY Jool) Ahri Mid vs Taliyah (G2N Toasty) - EUW Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1606
-  player: Jool
-  team: SLY
+  player: SLY Jool
+  uploaded: 2026-08-21
+  result: L
+  moments:
+    - at: 2:32
+      label: First Blood — Ahri kills Wukong
+      kind: kill
+    - at: 5:33
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:28
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:39
+      label: Ahri eliminates Taliyah
+    - at: 14:39
+      label: Ahri kills Varus
+      kind: kill
+    - at: 15:48
+      label: Ahri kills Varus
+      kind: kill
+    - at: 17:08
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:14
+      label: Ahri takes down Thresh
+    - at: 21:02
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:26
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 23:06
+      label: Poppy kills Wukong
+      kind: kill
+    - at: 23:14
+      label: Red takes Baron
+      kind: baron
+    - at: 24:26
+      label: Yasuo Double Kill
+      kind: kill
+    - at: 24:45
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:55
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:24
+      label: Ahri solo kills Wukong
+      kind: kill
+    - at: 26:18
+      label: Ahri takes down Thresh

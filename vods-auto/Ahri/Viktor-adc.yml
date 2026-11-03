@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1582
+  uploaded: 2026-10-01
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:11
       label: First Blood — Jarvan IV kills Rell
       kind: kill
@@ -50,5 +49,3 @@
     - at: 25:54
       label: Ahri Double Kill
       kind: kill
-    - at: 26:09
-      label: Victory

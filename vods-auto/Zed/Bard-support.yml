@@ -4,6 +4,56 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1879
+  uploaded: 2026-06-27
+  result: W
+  moments:
+    - at: 2:22
+      label: First Blood — Zed kills Bard
+      kind: kill
+    - at: 8:08
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:28
+      label: Zed kills Lee Sin
+      kind: kill
+    - at: 13:42
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:02
+      label: Zed outduels Syndra
+    - at: 16:02
+      label: Zed picks off Kai'Sa
+    - at: 17:31
+      label: Jhin eliminates Lee Sin
+    - at: 19:08
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:23
+      label: Zed eliminates Bard
+    - at: 20:55
+      label: Xin Zhao kills Bard
+      kind: kill
+    - at: 21:36
+      label: Jhin eliminates Lee Sin
+    - at: 23:20
+      label: Red takes Baron
+      kind: baron
+    - at: 24:20
+      label: Blue takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:24
+      label: Zed kills Lee Sin
+      kind: kill
+    - at: 27:14
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:05
+      label: Mid Inhibitor falls (Red)
+    - at: 29:45
+      label: Blue takes Baron
+      kind: baron
+    - at: 30:06
+      label: Zed takes down Syndra
 - videoId: EroLRh3G3bM
   title: Zed Support vs Bard - EUW Master Patch 26.05
   rankClaim: Master

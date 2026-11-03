@@ -4,3 +4,51 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1497
+  uploaded: 2026-09-09
+  result: W
+  moments:
+    - at: 4:58
+      label: First Blood — Zed kills Viego
+      kind: kill
+    - at: 6:46
+      label: Zed takes down Viego
+    - at: 9:17
+      label: Zed catches Viego again
+    - at: 10:14
+      label: Zed kills Viktor
+      kind: kill
+    - at: 11:50
+      label: Zed outduels Viego (3rd time)
+    - at: 12:29
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:35
+      label: Zed picks off Jayce
+    - at: 16:29
+      label: Zed Double Kill
+      kind: kill
+    - at: 16:49
+      label: Zed picks off Jayce
+    - at: 17:49
+      label: Zed kills Viktor
+      kind: kill
+    - at: 18:13
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 19:30
+      label: Zed takes down Vayne
+    - at: 20:27
+      label: Zed kills Viktor
+      kind: kill
+    - at: 21:26
+      label: Red takes Baron
+      kind: baron
+    - at: 22:21
+      label: Zed picks off Jayce
+    - at: 23:28
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:51
+      label: Zed catches Viktor
+    - at: 24:23
+      label: Mid Inhibitor falls (Blue)

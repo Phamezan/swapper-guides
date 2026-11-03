@@ -4,6 +4,54 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1455
+  uploaded: 2026-08-03
+  result: L
+  moments:
+    - at: 1:58
+      label: First Blood — Zed kills Senna
+      kind: kill
+    - at: 6:12
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:38
+      label: Zed takes down Senna
+    - at: 9:34
+      label: Braum eliminates Camille
+    - at: 12:33
+      label: Zed outduels Senna
+    - at: 12:54
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:29
+      label: Zed outplays Senna again
+    - at: 14:24
+      label: Zed kills Aurora
+      kind: kill
+    - at: 15:14
+      label: Zed solo kills Senna (3rd time)
+      kind: kill
+    - at: 16:00
+      label: Zed picks off Camille
+    - at: 18:55
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:40
+      label: Zed solo kills Heimerdinger
+      kind: kill
+    - at: 20:02
+      label: Zed outplays Camille
+    - at: 20:20
+      label: Red takes Baron
+      kind: baron
+    - at: 21:44
+      label: Graves kills Heimerdinger
+      kind: kill
+    - at: 22:06
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:25
+      label: Graves eliminates Senna
+    - at: 23:44
+      label: Bot Inhibitor falls (Blue)
 - videoId: qqRd8fp8B4g
   title: Zed ADC vs Senna - KR Master Patch 26.12
   rankClaim: Master

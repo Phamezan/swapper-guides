@@ -4,8 +4,92 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1567
+  uploaded: 2026-09-11
+  result: W
+  moments:
+    - at: 4:57
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:25
+      label: First Blood — Zed kills Swain
+      kind: kill
+    - at: 10:23
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 10:25
+      label: Lillia takes down Taliyah
+    - at: 12:59
+      label: Zed takes down Swain
+    - at: 14:54
+      label: Zed eliminates Swain
+    - at: 15:18
+      label: Zed kills Yasuo
+      kind: kill
+    - at: 15:47
+      label: Zed outduels Rell
+    - at: 15:54
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 17:21
+      label: Zed catches Swain again
+    - at: 20:02
+      label: Red takes Baron
+      kind: baron
+    - at: 20:20
+      label: Zed kills Yasuo
+      kind: kill
+    - at: 21:15
+      label: Zed takes down Rell
+    - at: 21:22
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:59
+      label: Zed kills Yasuo
+      kind: kill
+    - at: 25:39
+      label: Mid Inhibitor falls (Blue)
 - videoId: Isp7-D2jNg4
   title: Zed Mid vs Swain - KR Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1620
+  uploaded: 2026-08-08
+  result: L
+  moments:
+    - at: 8:23
+      label: First Blood — Zed kills Nasus
+      kind: kill
+    - at: 10:53
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:47
+      label: Zed picks off Nidalee
+    - at: 14:15
+      label: Zed takes down Swain
+    - at: 15:38
+      label: Zed kills Tristana
+      kind: kill
+    - at: 16:09
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:03
+      label: Zed eliminates Swain
+    - at: 19:21
+      label: Zed catches Swain again
+    - at: 21:21
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:57
+      label: Red takes Baron
+      kind: baron
+    - at: 22:41
+      label: Zed outduels Swain (3rd time)
+    - at: 23:22
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:01
+      label: Zed outplays Swain (4th time)
+    - at: 24:49
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:55
+      label: Team fight (3 kills)
+      kind: teamfight

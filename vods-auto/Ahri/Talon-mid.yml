@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1631
+  uploaded: 2026-10-06
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:00
       label: First Blood — Ahri kills Talon
       kind: kill
@@ -54,17 +53,14 @@
       label: Bot Inhibitor falls (Blue)
     - at: 26:08
       label: Mid Inhibitor falls (Blue)
-    - at: 26:32
-      label: Victory
 - videoId: 4mgcCKhhG5U
   title: Ahri Mid vs Talon - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1588
+  uploaded: 2026-09-16
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:25
       label: First Blood — Ahri kills Jhin
       kind: kill
@@ -103,61 +99,42 @@
       label: Ahri takes down Nautilus
     - at: 26:12
       label: Top Inhibitor falls (Red)
-    - at: 26:23
-      label: Victory
 - videoId: rs_Vi3K7zeQ
   title: Ahri Mid vs Talon - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1600
+  uploaded: 2026-02-25
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 3:12
       label: Team FIGHT
       kind: teamfight
-    - at: 5:55
-      label: Gameplay
     - at: 11:17
       label: Team FIGHT
       kind: teamfight
-    - at: 12:01
-      label: Gameplay
     - at: 15:45
       label: Team FIGHT
       kind: teamfight
-    - at: 17:16
-      label: Gameplay
     - at: 18:01
       label: Team FIGHT
       kind: teamfight
-    - at: 18:29
-      label: Gameplay
     - at: 19:08
       label: Team FIGHT
       kind: teamfight
-    - at: 19:36
-      label: Gameplay
     - at: 21:11
       label: Team FIGHT
       kind: teamfight
     - at: 21:30
       label: Take down The Turret
       kind: tower
-    - at: 21:49
-      label: Gameplay
     - at: 22:45
       label: Team FIGHT
       kind: teamfight
     - at: 23:06
       label: Get a Double Kill
       kind: kill
-    - at: 23:29
-      label: Gameplay
     - at: 24:20
       label: Get a Double Kill
       kind: kill
@@ -168,72 +145,49 @@
   rankClaim: Master
   patch: "26.2"
   durationSec: 1586
+  uploaded: 2026-01-23
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 3:38
       label: Team FIGHT
       kind: teamfight
-    - at: 4:06
-      label: Gameplay
     - at: 4:45
       label: Team FIGHT
       kind: teamfight
-    - at: 5:13
-      label: Gameplay
     - at: 8:30
       label: Get a SOLO KILL
       kind: kill
-    - at: 8:58
-      label: Gameplay
     - at: 10:19
       label: Team FIGHT
       kind: teamfight
-    - at: 10:47
-      label: Gameplay
     - at: 11:56
       label: Get a SOLO KILL
       kind: kill
     - at: 12:24
       label: Take down The Turret
       kind: tower
-    - at: 12:52
-      label: Gameplay
     - at: 13:42
       label: Get a SOLO KILL
       kind: kill
-    - at: 14:10
-      label: Gameplay
     - at: 15:21
       label: Get a SOLO KILL
       kind: kill
     - at: 16:41
       label: Team FIGHT
       kind: teamfight
-    - at: 17:16
-      label: Gameplay
     - at: 17:53
       label: Take down The Turret
       kind: tower
     - at: 18:18
       label: Get a SOLO KILL
       kind: kill
-    - at: 18:55
-      label: Gameplay
     - at: 21:19
       label: Team FIGHT
       kind: teamfight
-    - at: 21:47
-      label: Gameplay
     - at: 22:45
       label: Team FIGHT
       kind: teamfight
-    - at: 23:13
-      label: Gameplay
     - at: 23:40
       label: Team FIGHT
       kind: teamfight
@@ -243,8 +197,6 @@
     - at: 24:07
       label: Team FIGHT
       kind: teamfight
-    - at: 24:40
-      label: Gameplay
     - at: 25:29
       label: Team FIGHT
       kind: teamfight

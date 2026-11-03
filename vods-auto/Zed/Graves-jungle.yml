@@ -4,26 +4,265 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1395
+  uploaded: 2026-10-22
+  result: W
+  moments:
+    - at: 2:04
+      label: First Blood — Zac kills Yone
+      kind: kill
+    - at: 5:48
+      label: Zed solo kills Vex
+      kind: kill
+    - at: 6:25
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:14
+      label: Zed takes down Aphelios
+    - at: 12:13
+      label: Zed catches Aphelios again
+    - at: 12:38
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:43
+      label: Zed kills Poppy
+      kind: kill
+    - at: 14:52
+      label: Zed Triple Kill
+      kind: kill
+    - at: 17:28
+      label: Kai'Sa picks off Poppy
+    - at: 17:43
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:57
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:22
+      label: Red takes Baron
+      kind: baron
+    - at: 20:36
+      label: Kai'Sa kills Vex
+      kind: kill
+    - at: 21:19
+      label: Zed eliminates Aphelios
+    - at: 21:45
+      label: Zed takes down Vex again
+    - at: 22:00
+      label: Zed kills Yone
+      kind: kill
+    - at: 22:03
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:14
+      label: Zed eliminates Aphelios
 - videoId: EdTVzvaFvaA
   title: Zed Jungle vs Graves - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1588
+  uploaded: 2026-10-05
+  result: W
+  moments:
+    - at: 2:51
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:14
+      label: Zed picks off Sylas
+    - at: 6:02
+      label: Zed eliminates Kai'Sa
+    - at: 6:26
+      label: Fizz takes down Alistar
+    - at: 10:49
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 12:01
+      label: Fizz eliminates Sylas
+    - at: 14:08
+      label: Zed eliminates Kai'Sa
+    - at: 14:41
+      label: Zed kills Akshan
+      kind: kill
+    - at: 16:38
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 18:53
+      label: Yunara Double Kill
+      kind: kill
+    - at: 20:12
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:54
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:17
+      label: Yunara kills Sylas
+      kind: kill
+    - at: 23:06
+      label: Anivia Double Kill
+      kind: kill
+    - at: 23:45
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:50
+      label: Bot Inhibitor falls (Red)
 - videoId: kh2sDs_eev4
   title: Zed Jungle vs Graves - KR Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1521
+  uploaded: 2026-08-05
+  result: W
+  moments:
+    - at: 2:33
+      label: First Blood — Zed kills Malphite
+      kind: kill
+    - at: 5:55
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:33
+      label: Zed outplays Graves
+    - at: 11:42
+      label: Zed catches Sylas
+    - at: 12:15
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:27
+      label: Zed outduels Malphite
+    - at: 17:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:51
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:16
+      label: Zed eliminates Mel
+    - at: 20:51
+      label: Zed picks off Kassadin
+    - at: 21:41
+      label: Zed kills Malphite
+      kind: kill
+    - at: 21:48
+      label: Top Inhibitor falls (Red)
+    - at: 23:03
+      label: Zed takes down Graves
+    - at: 23:30
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 24:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:26
+      label: Mid Inhibitor falls (Red)
+    - at: 24:34
+      label: Bot Inhibitor falls (Red)
+    - at: 24:50
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: nICzZ1H6XKA
   title: Zed Jungle vs Graves (GNG Shourdy) - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1725
+  uploaded: 2026-07-04
+  result: L
+  moments:
+    - at: 3:40
+      label: First Blood — Zed kills Senna
+      kind: kill
+    - at: 12:56
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:08
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 19:10
+      label: Zed kills Elise
+      kind: kill
+    - at: 19:19
+      label: Zed Triple Kill
+      kind: kill
+    - at: 20:10
+      label: Red takes Baron
+      kind: baron
+    - at: 21:18
+      label: Zed picks off Gwen
+    - at: 21:50
+      label: Top Inhibitor falls (Blue)
+    - at: 22:26
+      label: Viktor eliminates Gwen
+    - at: 23:05
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:17
+      label: Zed picks off Gwen
+    - at: 23:53
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 25:26
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:32
+      label: Viktor picks off Graves
+    - at: 28:03
+      label: Top Inhibitor falls (Blue)
+    - at: 28:15
+      label: Zed kills Zyra
+      kind: kill
+    - at: 28:24
+      label: Zed Triple Kill
+      kind: kill
+    - at: 28:26
+      label: Mid Inhibitor falls (Blue)
 - videoId: cCANQDmDn8I
   title: Zed Jungle vs Graves (IN5 Nikiyas) - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1465
+  uploaded: 2026-06-28
+  result: L
+  moments:
+    - at: 2:48
+      label: First Blood — Zed kills Graves
+      kind: kill
+    - at: 4:01
+      label: Zed takes down Graves
+    - at: 4:56
+      label: Zed kills Elise
+      kind: kill
+    - at: 5:58
+      label: Zed kills Elise
+      kind: kill
+    - at: 9:20
+      label: Zed picks off Vladimir
+    - at: 9:47
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:06
+      label: Zed takes down Draven
+    - at: 13:43
+      label: Zed kills Darius
+      kind: kill
+    - at: 15:06
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:36
+      label: Zed picks off Vladimir
+    - at: 16:31
+      label: Zed kills Elise
+      kind: kill
+    - at: 18:27
+      label: Zed solo kills Vladimir
+      kind: kill
+    - at: 19:58
+      label: Zed catches Draven again
+    - at: 20:20
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 20:36
+      label: Zed kills Elise
+      kind: kill
+    - at: 21:41
+      label: Zed outduels Draven (3rd time)
+    - at: 22:03
+      label: Zed takes down Graves
+    - at: 24:06
+      label: Zed outplays Graves
 - videoId: iq-DmHkdbkI
   title: Zed Jungle vs Graves - BR Challenger Patch 26.12
   rankClaim: Challenger

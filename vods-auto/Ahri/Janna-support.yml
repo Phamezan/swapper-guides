@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1651
+  uploaded: 2026-07-20
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:12
       label: First Blood — Ezreal kills Karthus
       kind: kill
@@ -50,5 +49,3 @@
     - at: 26:32
       label: Nidalee Double Kill
       kind: kill
-    - at: 26:51
-      label: Defeat

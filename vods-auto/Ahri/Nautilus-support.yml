@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1942
+  uploaded: 2026-10-03
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:04
       label: First Blood — Ezreal kills Draven
       kind: kill
@@ -54,5 +53,3 @@
       kind: kill
     - at: 32:02
       label: Bot Inhibitor falls (Blue)
-    - at: 32:17
-      label: Victory

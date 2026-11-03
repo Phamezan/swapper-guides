@@ -4,6 +4,15 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 2311
+  uploaded: 2026-04-19
+- videoId: kGiV4pPNafE
+  title: T1 Peyz Caitlyn vs Ziggs [ ADC ] Korea Challenger 2027 LP | Patch 26.3
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1314
+  region: KR
+  player: Peyz
+  team: T1
 - videoId: 6klxjoxWbcQ
   title: T1 Peyz Caitlyn vs Ziggs ADC - KR Challenger - Patch 16.03 Season 16
   rankClaim: Challenger
@@ -11,3 +20,4 @@
   durationSec: 1486
   player: Peyz
   team: T1
+  uploaded: 2026-02-14

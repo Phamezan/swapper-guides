@@ -5,10 +5,9 @@
   patch: "26.21"
   durationSec: 1870
   player: Peng
+  uploaded: 2026-10-24
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:32
       label: First Blood — Ahri kills Garen
       kind: kill
@@ -57,5 +56,11 @@
       kind: kill
     - at: 30:44
       label: Mid Inhibitor falls (Red)
-    - at: 31:05
-      label: Victory
+- videoId: 7o2XuLnsIkc
+  title: "MID.GG: [ raikokatarina ] Ahri MID vs Garen | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.16"
+  durationSec: 1685
+  patchEstimated: true
+  player: raikokatarina
+  uploaded: 2026-08-12

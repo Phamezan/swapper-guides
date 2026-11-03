@@ -4,8 +4,26 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1741
+  uploaded: 2026-09-05
+- videoId: UMdzhb3Cagg
+  title: T1 Faker Locke vs Sylas [ MID ] Korea Grandmaster 1518 LP | Patch 26.15
+  rankClaim: Grandmaster
+  patch: "26.15"
+  durationSec: 1606
+  region: KR
+  player: Faker
+  team: T1
+- videoId: BJKlObW_DPM
+  title: DK ShowMaker Locke vs Sylas [ MID ] Korea Challenger 2587 LP | Patch 26.13
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1355
+  region: KR
+  player: ShowMaker
+  team: DK
 - videoId: mtLpyFLHeQ4
   title: Locke vs Sylas Mid - KR Challenger - Patch 16.13 Season 16
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1306
+  uploaded: 2026-07-09

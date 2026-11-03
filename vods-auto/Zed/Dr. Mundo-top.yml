@@ -4,13 +4,146 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1566
+  uploaded: 2026-08-18
+  result: W
+  moments:
+    - at: 2:29
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 4:10
+      label: Zed catches Dr. Mundo
+    - at: 9:35
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:47
+      label: Zed picks off Jhin
+    - at: 14:58
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:03
+      label: Qiyana takes down Lee Sin
+    - at: 16:33
+      label: Yunara Double Kill
+      kind: kill
+    - at: 18:01
+      label: Zed outduels Dr. Mundo again
+    - at: 20:04
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:21
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:37
+      label: Mid Inhibitor falls (Red)
+    - at: 23:51
+      label: Zed outduels Lee Sin
+    - at: 24:05
+      label: Zed solo kills Jhin
+      kind: kill
+    - at: 24:43
+      label: Bot Inhibitor falls (Red)
+    - at: 25:13
+      label: Top Inhibitor falls (Red)
 - videoId: G_cyUhSp2pQ
   title: Zed Top vs Dr. Mundo - EUW Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1599
+  uploaded: 2026-08-09
+  result: W
+  moments:
+    - at: 3:59
+      label: First Blood — Zed kills Dr. Mundo
+      kind: kill
+    - at: 6:21
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:38
+      label: Zed catches Dr. Mundo
+    - at: 8:26
+      label: Zed outduels Bel'Veth
+    - at: 10:43
+      label: Zed outduels Dr. Mundo again
+    - at: 11:43
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:39
+      label: Zed outplays Dr. Mundo (3rd time)
+    - at: 17:15
+      label: Zed solo kills Dr. Mundo (4th time)
+      kind: kill
+    - at: 17:26
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:04
+      label: Zed outplays Ahri
+    - at: 19:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:38
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 23:20
+      label: Mid Inhibitor falls (Red)
+    - at: 24:08
+      label: Zed eliminates Dr. Mundo
+    - at: 24:53
+      label: Zed kills Bel'Veth
+      kind: kill
+    - at: 25:11
+      label: Zed takes down Dr. Mundo (5th time)
+    - at: 25:31
+      label: Bot Inhibitor falls (Red)
+    - at: 25:51
+      label: Zed eliminates Leona
 - videoId: faKoH-P_erU
   title: Zed Top vs Dr. Mundo - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1669
+  uploaded: 2026-07-10
+  result: L
+  moments:
+    - at: 8:00
+      label: First Blood — Zed kills Akali
+      kind: kill
+    - at: 10:16
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:54
+      label: Zed solo kills Tristana
+      kind: kill
+    - at: 14:46
+      label: Zed kills Olaf
+      kind: kill
+    - at: 15:58
+      label: Zed eliminates Dr. Mundo
+    - at: 18:50
+      label: Zed kills Olaf
+      kind: kill
+    - at: 21:01
+      label: Zed eliminates Dr. Mundo
+    - at: 21:47
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:12
+      label: Red takes Baron
+      kind: baron
+    - at: 23:28
+      label: Zed outplays Akali
+    - at: 23:46
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:05
+      label: Top Inhibitor falls (Blue)
+    - at: 24:46
+      label: Zed eliminates Dr. Mundo
+    - at: 25:33
+      label: Zed Double Kill
+      kind: kill
+    - at: 25:37
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:03
+      label: Zed takes down Akali
+    - at: 27:32
+      label: Zed outduels Olaf

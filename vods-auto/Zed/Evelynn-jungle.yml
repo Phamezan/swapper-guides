@@ -4,11 +4,107 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 2099
+  uploaded: 2026-09-22
+  result: W
+  moments:
+    - at: 3:16
+      label: First Blood — Zed kills Alistar
+      kind: kill
+    - at: 10:43
+      label: Zed Triple Kill
+      kind: kill
+    - at: 12:42
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:23
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:11
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:38
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 24:30
+      label: Red takes Baron
+      kind: baron
+    - at: 26:55
+      label: Varus takes down Kai'Sa
+    - at: 27:19
+      label: Mid Inhibitor falls (Red)
+    - at: 27:50
+      label: Zed takes down Evelynn
+    - at: 28:52
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 29:41
+      label: Zed kills Aatrox
+      kind: kill
+    - at: 31:08
+      label: Blue takes Baron
+      kind: baron
+    - at: 32:40
+      label: Zed Double Kill
+      kind: kill
+    - at: 32:47
+      label: Mid Inhibitor falls (Red)
+    - at: 34:22
+      label: Zed Double Kill
+      kind: kill
+    - at: 34:30
+      label: Zed Triple Kill
+      kind: kill
+    - at: 34:42
+      label: Top Inhibitor falls (Red)
 - videoId: tzpaidQYVoU
   title: Zed Jungle vs Evelynn - EUW Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1679
+  uploaded: 2026-08-18
+  result: L
+  moments:
+    - at: 1:37
+      label: First Blood — Zed kills Evelynn
+      kind: kill
+    - at: 12:31
+      label: Zed catches Renata Glasc
+    - at: 12:35
+      label: Tristana eliminates Evelynn
+    - at: 13:34
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:46
+      label: Locke eliminates Irelia
+    - at: 14:47
+      label: Tristana picks off Renata Glasc
+    - at: 15:15
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:04
+      label: Jax takes down Irelia
+    - at: 17:34
+      label: Locke takes down Renata Glasc
+    - at: 18:51
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:52
+      label: Locke takes down Akali
+    - at: 21:32
+      label: Red takes Baron
+      kind: baron
+    - at: 24:35
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 24:37
+      label: Jax eliminates Akali
+    - at: 25:00
+      label: Locke takes down Renata Glasc
+    - at: 25:24
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:12
+      label: Zed outduels Akali
+    - at: 27:42
+      label: Locke takes down Renata Glasc
 - videoId: DF5Txlzg_LI
   title: Zed Jungle vs Evelynn - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster

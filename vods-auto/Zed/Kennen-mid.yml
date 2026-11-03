@@ -4,3 +4,48 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1868
+  uploaded: 2026-09-11
+  result: W
+  moments:
+    - at: 4:35
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:28
+      label: First Blood — Zed kills Alistar
+      kind: kill
+    - at: 11:45
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:49
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:10
+      label: Zed takes down Kennen
+    - at: 20:37
+      label: Zed takes down Alistar
+    - at: 23:19
+      label: Red takes Baron
+      kind: baron
+    - at: 24:04
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:43
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:25
+      label: Zed catches Kennen again
+    - at: 26:13
+      label: Top Inhibitor falls (Blue)
+    - at: 28:00
+      label: Zed eliminates Kennen
+    - at: 28:22
+      label: Bot Inhibitor falls (Blue)
+    - at: 28:57
+      label: Sivir eliminates Qiyana
+    - at: 29:27
+      label: Vladimir Triple Kill
+      kind: kill
+    - at: 29:56
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:22
+      label: Sivir picks off Alistar

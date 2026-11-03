@@ -4,3 +4,47 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1779
+  uploaded: 2026-10-07
+  result: W
+  moments:
+    - at: 8:27
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:17
+      label: First Blood — Akshan kills Lee Sin
+      kind: kill
+    - at: 10:30
+      label: Akshan kills Viktor
+      kind: kill
+    - at: 14:06
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:46
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:25
+      label: Akshan eliminates Pantheon
+    - at: 18:57
+      label: Zed catches Rumble
+    - at: 19:32
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:13
+      label: Akshan Double Kill
+      kind: kill
+    - at: 20:43
+      label: Red takes Baron
+      kind: baron
+    - at: 21:24
+      label: Zed eliminates Rumble
+    - at: 22:53
+      label: Zed solo kills Viktor
+      kind: kill
+    - at: 24:44
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 26:27
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:16
+      label: Zed kills Lee Sin
+      kind: kill

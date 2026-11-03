@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1509
+  uploaded: 2026-09-04
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:24
       label: First Blood — Ahri kills Viego
       kind: kill
@@ -53,5 +52,3 @@
     - at: 24:55
       label: Trundle kills Nami
       kind: kill
-    - at: 25:04
-      label: Victory

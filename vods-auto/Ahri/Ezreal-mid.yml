@@ -4,12 +4,10 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1750
-  player: Camana
-  team: BW
+  player: BW Camana
+  uploaded: 2026-10-22
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:51
       label: First Blood — Ahri kills Ezreal
       kind: kill
@@ -56,5 +54,3 @@
     - at: 28:12
       label: Yunara Triple Kill
       kind: kill
-    - at: 28:30
-      label: Victory

@@ -4,21 +4,205 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1622
+  uploaded: 2026-10-04
+  result: W
+  moments:
+    - at: 2:32
+      label: First Blood — Yone kills Sion
+      kind: kill
+    - at: 6:28
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:24
+      label: Zed catches Sion
+    - at: 10:32
+      label: Zed eliminates Sion
+    - at: 11:46
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:40
+      label: Zed eliminates Sion
+    - at: 14:05
+      label: Zed outplays Singed
+    - at: 17:16
+      label: Yone picks off Lee Sin
+    - at: 17:45
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 21:20
+      label: Karthus kills Karma
+      kind: kill
+    - at: 22:44
+      label: Yone picks off Lee Sin
+    - at: 23:06
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:28
+      label: Red takes Baron
+      kind: baron
+    - at: 25:11
+      label: Zed solo kills Singed again
+      kind: kill
+    - at: 25:45
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:53
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:22
+      label: Zed eliminates Sion
+    - at: 26:33
+      label: Top Inhibitor falls (Blue)
 - videoId: qeih7fPWLFk
   title: Zed Top vs Sion - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1705
+  uploaded: 2026-09-13
+  result: W
+  moments:
+    - at: 5:45
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 8:04
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:23
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:17
+      label: Elise picks off Yasuo
+    - at: 16:43
+      label: Elise picks off Yasuo
+    - at: 18:34
+      label: Yunara eliminates Evelynn
+    - at: 18:36
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 19:02
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 19:37
+      label: Zed eliminates Zilean
+    - at: 21:16
+      label: Zed takes down Zilean
+    - at: 22:49
+      label: Zed eliminates Zilean
+    - at: 23:48
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:00
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 25:22
+      label: Yunara Double Kill
+      kind: kill
+    - at: 26:30
+      label: Yunara takes down Lucian
+    - at: 27:30
+      label: Mid Inhibitor falls (Blue)
 - videoId: jAQhQpFHrLM
   title: Zed Top vs Sion - KR Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1898
+  uploaded: 2026-07-03
+  result: W
+  moments:
+    - at: 4:13
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 5:10
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:24
+      label: Zed outduels Graves
+    - at: 10:48
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:35
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:32
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:23
+      label: Bot Inhibitor falls (Red)
+    - at: 21:57
+      label: Zed kills Graves
+      kind: kill
+    - at: 23:51
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 26:08
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 26:39
+      label: Zed outplays Graves again
+    - at: 26:49
+      label: Mid Inhibitor falls (Red)
+    - at: 26:59
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:11
+      label: Bot Inhibitor falls (Red)
+    - at: 27:18
+      label: Zed eliminates Sion
+    - at: 29:26
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 29:46
+      label: Zed kills Graves
+      kind: kill
+    - at: 30:33
+      label: Zed catches Sion
 - videoId: J_A6nXTg4g0
   title: Zed Top vs Sion - BR Grandmaster Patch 26.12
   rankClaim: Grandmaster
   patch: "26.12"
   durationSec: 1702
+  uploaded: 2026-06-26
+  result: L
+  moments:
+    - at: 0:44
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 3:51
+      label: Zed catches Sion
+    - at: 4:56
+      label: Zed outduels Sion again
+    - at: 9:34
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:21
+      label: Zed outplays Sion (3rd time)
+    - at: 15:13
+      label: Zed solo kills Aurelion Sol
+      kind: kill
+    - at: 18:05
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:27
+      label: Zed outduels Quinn
+    - at: 19:49
+      label: Zed takes down Seraphine
+    - at: 21:57
+      label: Red takes Baron
+      kind: baron
+    - at: 22:06
+      label: Zed takes down Aurelion Sol again
+    - at: 22:34
+      label: Zed catches Seraphine again
+    - at: 23:28
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 25:27
+      label: Top Inhibitor falls (Blue)
+    - at: 26:45
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 27:25
+      label: Ekko Triple Kill
+      kind: kill
+    - at: 27:49
+      label: Mid Inhibitor falls (Blue)
 - videoId: fOca8yRYnOU
   title: Zed Top vs Sion - EUW Challenger Patch 26.11
   rankClaim: Challenger

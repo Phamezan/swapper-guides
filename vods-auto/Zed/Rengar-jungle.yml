@@ -4,11 +4,110 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1889
+  uploaded: 2026-10-06
+  result: W
+  moments:
+    - at: 4:50
+      label: First Blood — Zed kills Rengar
+      kind: kill
+    - at: 9:01
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:15
+      label: Zed kills Elise
+      kind: kill
+    - at: 14:24
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:52
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 17:13
+      label: Zed kills Mordekaiser
+      kind: kill
+    - at: 18:05
+      label: Zed eliminates Ezreal
+    - at: 19:23
+      label: Zed kills Elise
+      kind: kill
+    - at: 20:17
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 22:57
+      label: Zed eliminates Ezreal
+    - at: 25:40
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:32
+      label: Zed outplays Rengar
+    - at: 27:10
+      label: Zed catches Elise
+    - at: 27:29
+      label: Zed outduels Mordekaiser
+    - at: 28:26
+      label: Red takes Baron
+      kind: baron
+    - at: 28:31
+      label: Zed kills Elise
+      kind: kill
+    - at: 30:42
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 31:08
+      label: Mid Inhibitor falls (Blue)
 - videoId: yu-1uhwBIuk
   title: Zed Jungle vs Rengar - KR Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1457
+  uploaded: 2026-07-29
+  result: L
+  moments:
+    - at: 3:22
+      label: First Blood — Zed kills Camille
+      kind: kill
+    - at: 5:46
+      label: Nautilus eliminates Camille
+    - at: 8:31
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:56
+      label: Zed solo kills Vladimir
+      kind: kill
+    - at: 14:28
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:47
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 15:07
+      label: Zed eliminates Vex
+    - at: 15:30
+      label: Syndra takes down Gnar
+    - at: 17:05
+      label: Zed Double Kill
+      kind: kill
+    - at: 18:54
+      label: Syndra eliminates Vladimir
+    - at: 19:17
+      label: Zed takes down Rengar
+    - at: 19:36
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 20:03
+      label: Zed takes down Vex
+    - at: 20:35
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:33
+      label: Red takes Baron
+      kind: baron
+    - at: 23:06
+      label: Zed picks off Vladimir
+    - at: 23:35
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:47
+      label: Syndra takes down Gnar
 - videoId: Q42SF7-jyDg
   title: Zed Jungle vs Rengar - EUW Master Patch 26.10
   rankClaim: Master

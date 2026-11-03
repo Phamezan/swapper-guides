@@ -4,6 +4,47 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1697
+  uploaded: 2026-10-21
+  result: W
+  moments:
+    - at: 6:49
+      label: First Blood — Zed kills Lee Sin
+      kind: kill
+    - at: 6:52
+      label: Zed Double Kill
+      kind: kill
+    - at: 11:44
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:05
+      label: Jarvan IV kills Kled
+      kind: kill
+    - at: 16:38
+      label: Jarvan IV eliminates Kai'Sa
+    - at: 17:15
+      label: Zed Double Kill
+      kind: kill
+    - at: 17:17
+      label: Zed Triple Kill
+      kind: kill
+    - at: 18:21
+      label: Zed eliminates Kled
+    - at: 19:17
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:28
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:28
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 25:22
+      label: Zed eliminates Nautilus
+    - at: 27:46
+      label: Mid Inhibitor falls (Red)
 - videoId: _q6JoqPhndo
   title: Zed Top vs Kled - KR Master Patch 26.04
   rankClaim: Master

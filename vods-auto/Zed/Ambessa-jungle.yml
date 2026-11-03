@@ -4,11 +4,107 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1437
+  uploaded: 2026-09-26
+  result: W
+  moments:
+    - at: 2:36
+      label: First Blood — Camille kills Gragas
+      kind: kill
+    - at: 5:17
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 5:36
+      label: Camille eliminates Gragas
+    - at: 7:20
+      label: Zed kills Pyke
+      kind: kill
+    - at: 9:12
+      label: Zed outduels Gragas
+    - at: 11:12
+      label: Zed kills Pyke
+      kind: kill
+    - at: 11:20
+      label: Zed Triple Kill
+      kind: kill
+    - at: 11:50
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:21
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:20
+      label: Zed eliminates Tristana
+    - at: 17:32
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:13
+      label: Zed eliminates Tristana
+    - at: 20:27
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:58
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:07
+      label: Mid Inhibitor falls (Red)
+    - at: 23:42
+      label: Viktor takes down Pyke
 - videoId: c-KPMuxHOoU
   title: Zed Jungle vs Ambessa - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1482
+  uploaded: 2026-07-06
+  result: L
+  moments:
+    - at: 2:38
+      label: First Blood — Zed kills Kalista
+      kind: kill
+    - at: 5:44
+      label: Sylas Double Kill
+      kind: kill
+    - at: 9:37
+      label: Zed takes down Ambessa
+    - at: 11:02
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:11
+      label: Sylas Double Kill
+      kind: kill
+    - at: 12:04
+      label: Poppy eliminates Gnar
+    - at: 12:47
+      label: Zed picks off Syndra
+    - at: 14:16
+      label: Zed takes down Ambessa
+    - at: 16:53
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:06
+      label: Zed eliminates Kalista
+    - at: 18:53
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 20:34
+      label: Zed kills Gnar
+      kind: kill
+    - at: 21:14
+      label: Zed solo kills Syndra
+      kind: kill
+    - at: 22:11
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:35
+      label: Zed picks off Syndra
+    - at: 23:23
+      label: Red takes Baron
+      kind: baron
+    - at: 24:14
+      label: Zed kills Pyke
+      kind: kill
 - videoId: LDEPMThgT70
   title: Zed Jungle vs Ambessa - KR Master Patch 26.10
   rankClaim: Master

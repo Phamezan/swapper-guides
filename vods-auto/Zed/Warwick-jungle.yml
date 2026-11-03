@@ -4,6 +4,55 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1998
+  uploaded: 2026-09-10
+  result: W
+  moments:
+    - at: 2:28
+      label: First Blood — Karma kills Warwick
+      kind: kill
+    - at: 13:01
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:54
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:24
+      label: Ezreal picks off Varus
+    - at: 19:33
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:40
+      label: Zed takes down Warwick
+    - at: 20:51
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:18
+      label: Zed eliminates Jinx
+    - at: 23:44
+      label: Maokai kills Jinx
+      kind: kill
+    - at: 24:59
+      label: K'Sante takes down Irelia
+    - at: 25:57
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:26
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 27:25
+      label: Mid Inhibitor falls (Red)
+    - at: 27:54
+      label: Zed takes down Jinx
+    - at: 31:12
+      label: Ezreal eliminates Warwick
+    - at: 31:37
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 32:35
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 32:52
+      label: Mid Inhibitor falls (Red)
 - videoId: 1oZPKWpUGBE
   title: Zed Jungle vs Warwick - EUW Master Patch 26.10
   rankClaim: Master

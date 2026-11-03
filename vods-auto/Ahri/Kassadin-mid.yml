@@ -4,12 +4,10 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1947
-  player: Mentos
-  team: FLK
+  player: FLK Mentos
+  uploaded: 2026-10-20
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:10
       label: Red takes 1st Dragon (Mountain)
       kind: dragon
@@ -56,17 +54,14 @@
     - at: 31:35
       label: Draven Double Kill
       kind: kill
-    - at: 31:47
-      label: Victory
 - videoId: aYTupiUL7tQ
   title: Ahri Mid vs Kassadin - EUW Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1755
+  uploaded: 2026-08-26
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:30
       label: First Blood — Ahri kills Sylas
       kind: kill
@@ -108,5 +103,3 @@
       kind: kill
     - at: 28:46
       label: Mid Inhibitor falls (Red)
-    - at: 29:10
-      label: Victory

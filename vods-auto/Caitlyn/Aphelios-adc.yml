@@ -4,13 +4,32 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1966
+  uploaded: 2026-10-13
 - videoId: IgiXcnh3sj8
   title: Caitlyn vs APhelios ADC - EUW Challenger - Patch 16.11 Season 16
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1921
+  uploaded: 2026-06-11
+- videoId: kgR_j1C1bjo
+  title: BLG Viper Caitlyn vs Aphelios [ ADC ] Korea Grandmaster Patch 26.2 ✅
+  rankClaim: Grandmaster
+  patch: "26.2"
+  durationSec: 1224
+  region: KR
+  player: Viper
+  team: BLG
+- videoId: L41FvEHsrJM
+  title: T1 Peyz Caitlyn vs Aphelios [ ADC ] Patch 26.1 Ranked Korea
+  rankClaim: Master+
+  patch: "26.1"
+  durationSec: 1596
+  region: KR
+  player: Peyz
+  team: T1
 - videoId: JQkq5HltLcs
   title: Caitlyn vs Aphelios ADC - EUW Grandmaster - Patch 26.01 Season 16
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1681
+  uploaded: 2026-01-13

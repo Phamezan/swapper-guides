@@ -4,21 +4,206 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1719
+  uploaded: 2026-10-10
+  result: W
+  moments:
+    - at: 4:03
+      label: First Blood — Zed kills Vladimir
+      kind: kill
+    - at: 9:02
+      label: Zed solo kills Smolder
+      kind: kill
+    - at: 9:39
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:23
+      label: Zed outduels Yone
+    - at: 15:42
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:00
+      label: Zed kills Yuumi
+      kind: kill
+    - at: 19:42
+      label: Zed kills Yone
+      kind: kill
+    - at: 20:34
+      label: Zed takes down Smolder again
+    - at: 20:45
+      label: Zed takes down Hecarim
+    - at: 21:07
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:58
+      label: Yunara eliminates Hecarim
+    - at: 25:39
+      label: Top Inhibitor falls (Blue)
+    - at: 25:45
+      label: Yorick eliminates Yone
+    - at: 26:20
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 27:09
+      label: Red takes Baron
+      kind: baron
+    - at: 27:39
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:15
+      label: Bot Inhibitor falls (Blue)
+    - at: 28:29
+      label: Malphite kills Vladimir
+      kind: kill
 - videoId: btPX6odUcZ0
   title: Zed Jungle vs Hecarim - BR Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1813
+  uploaded: 2026-08-14
+  result: W
+  moments:
+    - at: 5:00
+      label: First Blood — Zed kills Garen
+      kind: kill
+    - at: 5:10
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:40
+      label: Zed outplays Hecarim
+    - at: 11:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 13:25
+      label: Zed takes down Hecarim
+    - at: 13:53
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:54
+      label: Zed picks off Diana
+    - at: 16:52
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 19:13
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:34
+      label: Zed eliminates Ezreal
+    - at: 22:10
+      label: Zed picks off Diana
+    - at: 23:20
+      label: Zed picks off Diana
+    - at: 24:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:55
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 26:54
+      label: Bot Inhibitor falls (Red)
+    - at: 27:26
+      label: Zed outduels Garen
+    - at: 27:51
+      label: Zed takes down Hecarim
+    - at: 29:49
+      label: Zed eliminates Ezreal
 - videoId: 9EgA8JijSfU
   title: Zed Jungle vs Hecarim - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1680
+  uploaded: 2026-07-24
+  result: W
+  moments:
+    - at: 2:24
+      label: First Blood — Corki kills Pantheon
+      kind: kill
+    - at: 10:57
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:03
+      label: Zed takes down Ziggs
+    - at: 15:23
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:14
+      label: Zed eliminates Ziggs
+    - at: 17:52
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 19:55
+      label: Olaf takes down Qiyana
+    - at: 23:13
+      label: Zed kills Illaoi
+      kind: kill
+    - at: 23:30
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:57
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 24:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:49
+      label: Bot Inhibitor falls (Red)
+    - at: 26:38
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:29
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 27:37
+      label: Top Inhibitor falls (Red)
+    - at: 27:40
+      label: Syndra kills Ziggs
+      kind: kill
 - videoId: dqxHZwNfTzY
   title: Zed Jungle vs Hecarim - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1508
+  uploaded: 2026-07-22
+  result: L
+  moments:
+    - at: 6:45
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:28
+      label: First Blood — Syndra kills Yasuo
+      kind: kill
+    - at: 10:00
+      label: Zed eliminates Orianna
+    - at: 12:05
+      label: Zed takes down Hecarim
+    - at: 12:09
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:13
+      label: Syndra eliminates Yasuo
+    - at: 14:48
+      label: Zed eliminates Orianna
+    - at: 15:21
+      label: Kog'Maw picks off Janna
+    - at: 17:12
+      label: Zed kills Aurora
+      kind: kill
+    - at: 17:57
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 18:39
+      label: Zed outplays Hecarim
+    - at: 21:00
+      label: Zed picks off Yasuo
+    - at: 23:07
+      label: Zed eliminates Orianna
+    - at: 23:47
+      label: Red takes Baron
+      kind: baron
+    - at: 24:27
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 24:44
+      label: Zed kills Aurora
+      kind: kill
 - videoId: B14_WwTuJeM
   title: Zed Jungle vs Hecarim - EUW Master Patch 26.10
   rankClaim: Master

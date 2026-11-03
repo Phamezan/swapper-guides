@@ -4,8 +4,34 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1366
+  uploaded: 2026-05-14
+- videoId: C_e3aA2vOiI
+  title: T1 Peyz Caitlyn vs HLE Gumayusi Varus [ ADC ] Korea Challenger 2430 LP | Patch 26.8
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1513
+  region: KR
+  player: Peyz
+  team: T1
 - videoId: GJzTHfn5bVE
   title: Caitlyn vs Varus ADC - KR Grandmaster - Patch 16.6 Season 16
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1861
+  uploaded: 2026-03-21
+- videoId: AGZgPR9pl78
+  title: T1 Peyz Caitlyn vs Varus [ ADC ] Korea Challenger 2050 LP | Patch 26.5
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1847
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: E3lR_UDJcXk
+  title: BLG Viper Caitlyn vs Varus [ ADC ] Korea Challenger 1517 LP | Patch 26.4
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1693
+  region: KR
+  player: Viper
+  team: BLG

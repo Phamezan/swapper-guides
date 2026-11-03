@@ -4,28 +4,272 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1586
+  uploaded: 2026-10-30
+  result: W
+  moments:
+    - at: 6:53
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:24
+      label: Zed kills Riven
+      kind: kill
+    - at: 10:41
+      label: Zed catches Blitzcrank
+    - at: 11:52
+      label: Zed picks off Diana
+    - at: 12:23
+      label: Zed takes down Lee Sin
+    - at: 12:26
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:51
+      label: Zed takes down Lee Sin
+    - at: 14:51
+      label: Aphelios kills Diana
+      kind: kill
+    - at: 15:22
+      label: Zed takes down Lee Sin
+    - at: 17:29
+      label: Azir picks off Lee Sin
+    - at: 18:21
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:13
+      label: Zed kills Riven
+      kind: kill
+    - at: 19:41
+      label: Red takes Baron
+      kind: baron
+    - at: 23:42
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 23:48
+      label: Olaf picks off Xayah
+    - at: 25:35
+      label: Olaf picks off Xayah
+    - at: 25:41
+      label: Olaf Triple Kill
+      kind: kill
+    - at: 25:57
+      label: Mid Inhibitor falls (Blue)
 - videoId: u-h_UEqpbP0
   title: Zed Jungle vs Lee Sin - KR Master Patch 26.20
   rankClaim: Master
   patch: "26.20"
   durationSec: 1729
+  uploaded: 2026-10-17
+  result: W
+  moments:
+    - at: 2:34
+      label: First Blood — Zed kills Locke
+      kind: kill
+    - at: 9:02
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:34
+      label: Master Yi Triple Kill
+      kind: kill
+    - at: 14:11
+      label: Zed outplays Lee Sin
+    - at: 14:33
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:50
+      label: Zed outduels Gangplank
+    - at: 19:27
+      label: Akali Double Kill
+      kind: kill
+    - at: 20:10
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:02
+      label: Zed takes down Lee Sin
+    - at: 21:28
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:35
+      label: Zed kills Gangplank
+      kind: kill
+    - at: 23:05
+      label: Mid Inhibitor falls (Red)
+    - at: 23:30
+      label: Zed kills Nautilus
+      kind: kill
+    - at: 25:42
+      label: Zed kills Nautilus
+      kind: kill
+    - at: 26:19
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 27:48
+      label: Akali kills Lee Sin
+      kind: kill
+    - at: 28:13
+      label: Bot Inhibitor falls (Red)
+    - at: 28:22
+      label: Mid Inhibitor falls (Red)
 - videoId: GKUCDYv81ZU
   title: Zed Jungle vs Lee Sin - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1596
+  uploaded: 2026-10-03
+  result: W
+  moments:
+    - at: 3:02
+      label: First Blood — Zed kills Pantheon
+      kind: kill
+    - at: 5:34
+      label: Zed picks off Diana
+    - at: 7:00
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:13
+      label: Zed solo kills Diana
+      kind: kill
+    - at: 9:34
+      label: Ezreal picks off Pantheon
+    - at: 11:35
+      label: Zed kills Shen
+      kind: kill
+    - at: 13:05
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:19
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:14
+      label: Ezreal eliminates Lee Sin
+    - at: 21:44
+      label: Zed eliminates Kai'Sa
+    - at: 23:45
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 23:49
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 24:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:00
+      label: Zed kills Shen
+      kind: kill
+    - at: 25:41
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 25:57
+      label: Mid Inhibitor falls (Red)
 - videoId: hUp9gXkLOnI
   title: Zed Jungle vs Lee Sin - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1599
+  uploaded: 2026-09-24
+  result: W
+  moments:
+    - at: 2:53
+      label: First Blood — Zed kills Yasuo
+      kind: kill
+    - at: 6:59
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:00
+      label: Zed outduels Kennen
+    - at: 11:30
+      label: Kalista eliminates Lee Sin
+    - at: 12:43
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:01
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 15:53
+      label: Galio eliminates Yasuo
+    - at: 17:46
+      label: Camille eliminates Kennen
+    - at: 17:59
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:05
+      label: Kalista picks off Nautilus
+    - at: 19:54
+      label: Red takes Baron
+      kind: baron
+    - at: 19:58
+      label: K'Sante eliminates Kennen
+    - at: 21:32
+      label: Zed kills Kennen
+      kind: kill
+    - at: 22:15
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:38
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 25:02
+      label: Zed kills Nautilus
+      kind: kill
+    - at: 25:26
+      label: Zed picks off Yasuo
 - videoId: txIO6XbBa0c
   title: (KHK Densi) Zed Jungle vs Lee Sin - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 2046
-  player: Densi
-  team: KHK
+  player: KHK Densi
+  uploaded: 2026-09-10
+  moments:
+    - at: 2:34
+      label: First Blood — Zed kills Ambessa
+      kind: kill
+    - at: 4:55
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:22
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:52
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:23
+      label: K'Sante eliminates Ambessa
+    - at: 21:21
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:40
+      label: Viktor picks off Ambessa
+    - at: 23:40
+      label: Zed picks off Akali
+    - at: 23:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:35
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 27:30
+      label: Zed kills Nidalee
+      kind: kill
+    - at: 29:11
+      label: Zed eliminates Jhin
+    - at: 30:09
+      label: Red takes Baron
+      kind: baron
+    - at: 31:48
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 31:51
+      label: Mid Inhibitor falls (Blue)
+    - at: 32:42
+      label: Zed catches Nidalee
+    - at: 33:24
+      label: Zed eliminates Jhin
+    - at: 33:51
+      label: Top Inhibitor falls (Blue)
 - videoId: 0BudWXppn8c
   title: (T1 Painter) Zed Jungle vs Lee Sin - KR Challenger Patch 26.17
   rankClaim: Challenger
@@ -33,42 +277,412 @@
   durationSec: 1323
   player: Painter
   team: T1
+  uploaded: 2026-09-05
+  result: W
+  moments:
+    - at: 3:20
+      label: First Blood — Taliyah kills Orianna
+      kind: kill
+    - at: 7:18
+      label: Zed picks off Orianna
+    - at: 8:05
+      label: Zed picks off Orianna
+    - at: 9:29
+      label: Zed takes down Lee Sin
+    - at: 10:10
+      label: Taliyah eliminates Orianna
+    - at: 11:27
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:51
+      label: Zed takes down Lee Sin
+    - at: 13:44
+      label: Zed picks off Orianna
+    - at: 15:01
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:01
+      label: Zed eliminates Kai'Sa
+    - at: 19:30
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:59
+      label: Mid Inhibitor falls (Red)
+    - at: 21:40
+      label: Zed Double Kill
+      kind: kill
 - videoId: MzaiY6Gqlu4
   title: Zed Jungle vs Lee Sin (Vetheo) - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1875
+  uploaded: 2026-07-31
+  result: L
+  moments:
+    - at: 5:12
+      label: First Blood — Zed kills Locke
+      kind: kill
+    - at: 7:16
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:03
+      label: Karthus picks off Camille
+    - at: 12:20
+      label: Zed kills Camille
+      kind: kill
+    - at: 13:30
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:54
+      label: Leona eliminates Locke
+    - at: 15:24
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:02
+      label: Ambessa eliminates Camille
+    - at: 19:45
+      label: Zed outplays Lee Sin
+    - at: 20:21
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:25
+      label: Zed kills Locke
+      kind: kill
+    - at: 22:36
+      label: Karthus picks off Locke
+    - at: 24:19
+      label: Zed kills Camille
+      kind: kill
+    - at: 25:50
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 27:25
+      label: Zed kills Camille
+      kind: kill
+    - at: 28:14
+      label: Red takes Baron
+      kind: baron
+    - at: 30:28
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:52
+      label: Zed Double Kill
+      kind: kill
 - videoId: NUB20ipNRLc
   title: Zed Jungle vs Lee Sin - KR Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1553
+  uploaded: 2026-07-30
+  result: L
+  moments:
+    - at: 3:45
+      label: First Blood — Zed kills Rumble
+      kind: kill
+    - at: 5:31
+      label: Zed picks off Twisted Fate
+    - at: 6:34
+      label: Zed kills Rumble
+      kind: kill
+    - at: 7:54
+      label: Naafiri picks off Lee Sin
+    - at: 8:52
+      label: Naafiri picks off Lee Sin
+    - at: 9:38
+      label: Zed kills Rumble
+      kind: kill
+    - at: 12:33
+      label: Naafiri picks off Lee Sin
+    - at: 14:40
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:41
+      label: Zed picks off Twisted Fate
+    - at: 20:03
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 21:22
+      label: Ekko picks off Draven
+    - at: 22:02
+      label: Red takes Baron
+      kind: baron
+    - at: 25:18
+      label: Zed takes down Lee Sin
+    - at: 25:29
+      label: Zed Triple Kill
+      kind: kill
+    - at: 25:33
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 25:41
+      label: Bot Inhibitor falls (Blue)
 - videoId: 5NeUrDk11nM
   title: (KRONOS) Zed Jungle vs Lee Sin - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1725
   player: KRONOS
+  uploaded: 2026-07-26
+  result: L
+  moments:
+    - at: 2:22
+      label: First Blood — Zed kills Yorick
+      kind: kill
+    - at: 3:29
+      label: Zed kills Leona
+      kind: kill
+    - at: 6:54
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:26
+      label: Zed solo kills Ryze
+      kind: kill
+    - at: 9:06
+      label: Zed takes down Lee Sin
+    - at: 12:45
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:54
+      label: Vladimir takes down Leona
+    - at: 15:54
+      label: Vladimir picks off Lee Sin
+    - at: 18:01
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:48
+      label: Zed kills Yorick
+      kind: kill
+    - at: 22:20
+      label: Zed takes down Lee Sin
+    - at: 22:44
+      label: Red takes Baron
+      kind: baron
+    - at: 23:14
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:09
+      label: Zed picks off Ryze
+    - at: 25:51
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:19
+      label: Top Inhibitor falls (Blue)
+    - at: 26:33
+      label: Zed takes down Lee Sin
+    - at: 27:05
+      label: Zed eliminates Mel
 - videoId: plfcXB9WvZA
   title: Zed Jungle vs Lee Sin - KR Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1745
+  uploaded: 2026-07-24
+  result: L
+  moments:
+    - at: 3:15
+      label: First Blood — Zed kills Lux
+      kind: kill
+    - at: 3:24
+      label: Viktor picks off Lee Sin
+    - at: 6:01
+      label: Zed takes down Lee Sin
+    - at: 8:06
+      label: Zed kills Jayce
+      kind: kill
+    - at: 10:16
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:47
+      label: Zed outduels Jayce
+    - at: 13:27
+      label: Zed takes down Lee Sin
+    - at: 14:53
+      label: Zed kills Lux
+      kind: kill
+    - at: 16:20
+      label: Zed picks off Anivia
+    - at: 17:20
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 17:39
+      label: Zed picks off Anivia
+    - at: 18:56
+      label: Zed kills Lux
+      kind: kill
+    - at: 19:59
+      label: Zed kills Jayce
+      kind: kill
+    - at: 22:59
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:00
+      label: Red takes Baron
+      kind: baron
+    - at: 25:45
+      label: Viktor eliminates Anivia
+    - at: 28:06
+      label: Zed takes down Lee Sin
+    - at: 28:37
+      label: Mid Inhibitor falls (Blue)
 - videoId: lF-bFturBrM
   title: Zed Jungle vs Lee Sin - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1689
+  uploaded: 2026-07-18
+  result: L
+  moments:
+    - at: 4:09
+      label: First Blood — Zed kills Locke
+      kind: kill
+    - at: 9:29
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:15
+      label: Malzahar eliminates Locke
+    - at: 10:19
+      label: Zed catches Camille
+    - at: 14:51
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:28
+      label: Sylas kills Locke
+      kind: kill
+    - at: 16:10
+      label: Zed kills Akali
+      kind: kill
+    - at: 17:39
+      label: Zed eliminates Ashe
+    - at: 18:25
+      label: Sylas kills Locke
+      kind: kill
+    - at: 19:47
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 22:04
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 22:38
+      label: Zed takes down Lee Sin
+    - at: 24:03
+      label: Zed kills Akali
+      kind: kill
+    - at: 24:36
+      label: Red takes Baron
+      kind: baron
+    - at: 25:47
+      label: Sylas eliminates Lee Sin
+    - at: 26:00
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:16
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:28
+      label: Zed kills Camille
+      kind: kill
 - videoId: alo8m18ym2A
   title: Zed Jungle vs Lee Sin (HRTS Papiteero) - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1832
+  uploaded: 2026-07-15
+  result: L
+  moments:
+    - at: 7:41
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:06
+      label: First Blood — Zed kills Fiddlesticks
+      kind: kill
+    - at: 13:31
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 13:39
+      label: Zed picks off Ahri
+    - at: 14:54
+      label: Quinn picks off Aphelios
+    - at: 16:41
+      label: Zed takes down Aphelios
+    - at: 17:24
+      label: Quinn eliminates Fiddlesticks
+    - at: 18:43
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:50
+      label: Zed picks off Ahri
+    - at: 23:54
+      label: Quinn eliminates Fiddlesticks
+    - at: 23:59
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 24:17
+      label: Zed takes down Lee Sin
+    - at: 24:56
+      label: Red takes Baron
+      kind: baron
+    - at: 26:21
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:08
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 29:42
+      label: Bot Inhibitor falls (Blue)
+    - at: 30:10
+      label: Viktor Double Kill
+      kind: kill
 - videoId: D40YsM0maPQ
   title: Zed Jungle vs Lee Sin - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1559
+  uploaded: 2026-07-08
+  result: W
+  moments:
+    - at: 3:01
+      label: First Blood — Zed kills Rumble
+      kind: kill
+    - at: 7:08
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:08
+      label: Zed eliminates Ezreal
+    - at: 11:10
+      label: Zed takes down Ezreal
+    - at: 12:00
+      label: Zed kills Rumble
+      kind: kill
+    - at: 12:58
+      label: Zed catches Ezreal again
+    - at: 13:04
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:52
+      label: Zed kills Rumble
+      kind: kill
+    - at: 15:50
+      label: Ambessa picks off Ezreal
+    - at: 17:04
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:31
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:47
+      label: Zed kills Rumble
+      kind: kill
+    - at: 20:28
+      label: Zed outduels Rumble
+    - at: 21:31
+      label: Zed kills Rumble
+      kind: kill
+    - at: 22:28
+      label: Leona kills Lee Sin
+      kind: kill
+    - at: 22:32
+      label: Zed solo kills Galio
+      kind: kill
+    - at: 23:41
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:32
+      label: Zed outplays Lee Sin
 - videoId: hEaMHxwXvnQ
   title: Zed Jungle vs Lee Sin - EUW Challenger Patch 26.12
   rankClaim: Challenger

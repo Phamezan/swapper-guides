@@ -6,8 +6,28 @@
   durationSec: 1571
   player: Canna
   team: KC
+  uploaded: 2026-10-27
+- videoId: 5KcftLnBZ3w
+  title: T1 Doran Camille vs Olaf [ TOP ] Korea Grandmaster 1600 LP | Patch 26.20
+  rankClaim: Grandmaster
+  patch: "26.20"
+  durationSec: 1230
+  region: KR
+  player: Doran
+  team: T1
+  uploaded: 2026-10-18
+- videoId: lMnC2C2Oq2Q
+  title: T1 Doran Camille vs Olaf [ TOP ] Korea Grandmaster 1766 LP | Patch 26.17
+  rankClaim: Grandmaster
+  patch: "26.17"
+  durationSec: 1179
+  region: KR
+  player: Doran
+  team: T1
+  uploaded: 2026-09-02
 - videoId: EqysyG1CvWY
   title: Camille vs Olaf Top - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1681
+  uploaded: 2026-08-31

@@ -5,10 +5,9 @@
   patch: "26.20"
   durationSec: 1451
   player: Peng
+  uploaded: 2026-10-22
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:39
       label: First Blood — Graves kills Leona
       kind: kill
@@ -49,18 +48,15 @@
       kind: dragon
     - at: 23:22
       label: Ahri takes down Jayce
-    - at: 23:31
-      label: Victory
 - videoId: Yp66OpJT_qU
   title: (Hydra) Ahri Mid vs Ekko (Smietanek) - EUW Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1640
   player: Hydra
+  uploaded: 2026-10-20
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:44
       label: First Blood — Ahri kills Ekko
       kind: kill
@@ -109,18 +105,15 @@
       kind: teamfight
     - at: 26:10
       label: Bot Inhibitor falls (Red)
-    - at: 26:40
-      label: Victory
 - videoId: G1-iuIXL4Xg
   title: (Peng) Ahri Mid vs Ekko - EUW Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1714
   player: Peng
+  uploaded: 2026-10-11
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:38
       label: Blue takes 1st Dragon (Mountain)
       kind: dragon
@@ -164,17 +157,14 @@
       kind: kill
     - at: 27:28
       label: Mid Inhibitor falls (Blue)
-    - at: 27:54
-      label: Victory
 - videoId: z-CJW8FRpOo
   title: Ahri Mid vs Ekko (Six10) - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1957
+  uploaded: 2026-09-23
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:06
       label: First Blood — Ahri kills Ekko
       kind: kill
@@ -221,10 +211,55 @@
       label: Bot Inhibitor falls (Blue)
     - at: 31:43
       label: Ahri eliminates Ekko
-    - at: 31:57
-      label: Victory
 - videoId: snBq_pxBIR4
   title: Ahri Mid vs Ekko - EUW Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1521
+  uploaded: 2026-08-27
+  result: W
+  moments:
+    - at: 1:26
+      label: First Blood — Ahri kills Ekko
+      kind: kill
+    - at: 6:22
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:54
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:54
+      label: Ahri outduels Bard
+    - at: 14:56
+      label: Ahri outplays Bard again
+    - at: 16:43
+      label: Lee Sin kills Bard
+      kind: kill
+    - at: 17:19
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:44
+      label: Ahri picks off Nocturne
+    - at: 19:11
+      label: Ahri takes down Bard
+    - at: 20:39
+      label: Shen takes down Ekko
+    - at: 21:21
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:54
+      label: Ahri outplays Quinn
+    - at: 22:06
+      label: Ahri takes down Bard
+    - at: 22:22
+      label: Mid Inhibitor falls (Red)
+    - at: 22:56
+      label: Lee Sin kills Quinn
+      kind: kill
+    - at: 23:31
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 24:47
+      label: Tristana picks off Bard
+    - at: 24:51
+      label: Top Inhibitor falls (Red)

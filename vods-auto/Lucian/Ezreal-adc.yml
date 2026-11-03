@@ -4,3 +4,27 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1396
+- videoId: YkmvN6NhldU
+  title: HLE Gumayusi Lucian vs Ezreal [ ADC ] Korea Challenger 2500 LP | Patch 26.9
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1216
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: qd6EG9lEIOU
+  title: HLE Gumayusi Lucian vs Ezreal [ ADC ] Korea Challenger 1637 LP | Patch 26.4
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 938
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: YAPUa_tY0gE
+  title: T1 Peyz Lucian vs Ezreal [ ADC ] Korea Challenger 1755 LP | Patch 26.3
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1602
+  region: KR
+  player: Peyz
+  team: T1

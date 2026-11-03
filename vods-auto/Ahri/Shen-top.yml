@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1952
+  uploaded: 2026-10-10
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 6:00
       label: Red takes 1st Dragon (Mountain)
       kind: dragon
@@ -56,17 +55,14 @@
     - at: 32:11
       label: Ahri kills Ekko
       kind: kill
-    - at: 32:27
-      label: Victory
 - videoId: B9eWR27avCI
   title: Ahri Top vs Shen - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1907
+  uploaded: 2026-10-07
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 6:28
       label: Blue takes 1st Dragon (Infernal)
       kind: dragon
@@ -113,17 +109,14 @@
       kind: kill
     - at: 30:51
       label: Mid Inhibitor falls (Red)
-    - at: 31:07
-      label: Victory
 - videoId: n9JHVgvB88U
   title: Ahri Top vs Shen - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1912
+  uploaded: 2026-05-02
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:20
       label: First Blood — Xin Zhao kills Shen
       kind: kill
@@ -172,35 +165,24 @@
       kind: teamfight
     - at: 30:56
       label: Mid Inhibitor falls (Blue)
-    - at: 31:12
-      label: Defeat
 - videoId: 2TAC9pglLJM
   title: Ahri Top vs Shen - KR Grandmaster Patch 26.05
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1661
+  uploaded: 2026-03-14
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 6:55
       label: Get a SOLO KILL
       kind: kill
-    - at: 7:23
-      label: Gameplay
     - at: 12:32
       label: Take down The Turret
       kind: tower
-    - at: 13:00
-      label: Gameplay
     - at: 16:01
       label: Team FIGHT
       kind: teamfight
-    - at: 16:29
-      label: Gameplay
     - at: 19:11
       label: Team FIGHT
       kind: teamfight
@@ -210,13 +192,9 @@
     - at: 19:37
       label: Team FIGHT
       kind: teamfight
-    - at: 19:55
-      label: Gameplay
     - at: 20:55
       label: Team FIGHT
       kind: teamfight
-    - at: 21:23
-      label: Gameplay
     - at: 22:51
       label: Take down The Turret
       kind: tower
@@ -229,8 +207,6 @@
     - at: 23:33
       label: Get a Double Kill
       kind: kill
-    - at: 23:54
-      label: Gameplay
     - at: 24:39
       label: Get a Triple Kill
       kind: kill
@@ -245,8 +221,6 @@
     - at: 25:47
       label: Team FIGHT
       kind: teamfight
-    - at: 26:16
-      label: Gameplay
     - at: 26:39
       label: Get a Double Kill
       kind: kill

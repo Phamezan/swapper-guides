@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1604
+  uploaded: 2026-09-24
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:51
       label: First Blood — Ahri kills Vel'Koz
       kind: kill
@@ -53,5 +52,3 @@
     - at: 26:26
       label: Lee Sin kills Pantheon
       kind: kill
-    - at: 26:39
-      label: Victory

@@ -4,38 +4,407 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1866
+  uploaded: 2026-10-31
+  result: W
+  moments:
+    - at: 6:24
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:42
+      label: Zed takes down Locke
+    - at: 11:53
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:17
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:19
+      label: Zed outplays Gnar
+    - at: 21:50
+      label: Red takes Baron
+      kind: baron
+    - at: 22:30
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 22:55
+      label: Zed catches Locke again
+    - at: 24:00
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:52
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:09
+      label: Zed picks off Lee Sin
+    - at: 28:36
+      label: Zyra kills Rell
+      kind: kill
+    - at: 28:49
+      label: Zyra Triple Kill
+      kind: kill
+    - at: 28:53
+      label: Zed picks off Lee Sin
+    - at: 28:58
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 29:38
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 30:34
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:45
+      label: Xayah Double Kill
+      kind: kill
 - videoId: -hWSxN8LLdc
   title: Zed Mid vs Locke - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1679
+  uploaded: 2026-10-09
+  result: W
+  moments:
+    - at: 0:51
+      label: First Blood — Zed kills Jarvan IV
+      kind: kill
+    - at: 1:50
+      label: Shen kills Jarvan IV
+      kind: kill
+    - at: 7:06
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:03
+      label: Zed Double Kill
+      kind: kill
+    - at: 12:17
+      label: Aphelios Double Kill
+      kind: kill
+    - at: 13:35
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:36
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 17:50
+      label: Zed takes down Locke
+    - at: 18:55
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:30
+      label: Zed catches Kai'Sa
+    - at: 21:53
+      label: Red takes Baron
+      kind: baron
+    - at: 22:34
+      label: Zed outplays Rumble
+    - at: 23:03
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 24:03
+      label: Zed catches Locke again
+    - at: 24:35
+      label: Top Inhibitor falls (Blue)
+    - at: 25:20
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 26:40
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:40
+      label: Zed eliminates Locke
 - videoId: 74Fgt0D5_XM
   title: Zed Mid vs Locke - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1584
+  uploaded: 2026-09-30
+  result: W
+  moments:
+    - at: 2:11
+      label: First Blood — Zed kills Locke
+      kind: kill
+    - at: 7:49
+      label: Zed takes down Locke
+    - at: 7:57
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:18
+      label: Zed picks off Lee Sin
+    - at: 11:58
+      label: Zed catches Locke again
+    - at: 13:34
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:18
+      label: Ezreal takes down Tristana
+    - at: 16:08
+      label: Zed outduels Locke (3rd time)
+    - at: 17:23
+      label: Elise picks off Locke
+    - at: 19:17
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:36
+      label: Zed catches Tristana
+    - at: 20:09
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:38
+      label: Zed takes down Renekton
+    - at: 23:10
+      label: Elise Double Kill
+      kind: kill
+    - at: 24:22
+      label: Zed kills Tristana
+      kind: kill
+    - at: 24:51
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 25:29
+      label: Zed kills Tristana
+      kind: kill
+    - at: 25:59
+      label: Mid Inhibitor falls (Red)
 - videoId: jUL1uFhzvzY
   title: Zed Mid vs Locke (Feikun) - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1917
+  uploaded: 2026-09-21
+  result: W
+  moments:
+    - at: 10:31
+      label: First Blood — Ezreal kills Bard
+      kind: kill
+    - at: 11:05
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:54
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:21
+      label: Zed takes down Locke
+    - at: 19:34
+      label: Ezreal takes down Caitlyn
+    - at: 21:15
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 22:24
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 23:07
+      label: Red takes Baron
+      kind: baron
+    - at: 23:27
+      label: Zed picks off Lee Sin
+    - at: 26:26
+      label: Zed picks off Lee Sin
+    - at: 26:31
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:37
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 28:28
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 29:10
+      label: Zed takes down Bard
+    - at: 29:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 30:12
+      label: Ezreal takes down Caitlyn
+    - at: 30:47
+      label: Mid Inhibitor falls (Red)
+    - at: 30:51
+      label: Top Inhibitor falls (Red)
 - videoId: 4HrSjCmKyZs
   title: Zed Mid vs Locke - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1583
+  uploaded: 2026-09-13
+  result: W
+  moments:
+    - at: 2:14
+      label: First Blood — Skarner kills Locke
+      kind: kill
+    - at: 6:25
+      label: Zed takes down Locke
+    - at: 6:41
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:11
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:30
+      label: Zed takes down Mordekaiser
+    - at: 16:18
+      label: Anivia takes down Locke
+    - at: 17:25
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 19:34
+      label: Zed takes down Pantheon
+    - at: 21:34
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 21:56
+      label: Zed catches Xayah
+    - at: 22:02
+      label: Red takes Baron
+      kind: baron
+    - at: 22:44
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 23:36
+      label: Zed outplays Mordekaiser
+    - at: 23:44
+      label: Yunara picks off Pantheon
+    - at: 24:14
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:41
+      label: Zed picks off Nunu & Willump
 - videoId: LAuwq822Icg
   title: Zed Mid vs Locke (LUP Pesho) - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1411
+  uploaded: 2026-09-13
+  result: W
+  moments:
+    - at: 2:25
+      label: First Blood — Zed kills Locke
+      kind: kill
+    - at: 10:55
+      label: Zed takes down Locke
+    - at: 11:06
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:08
+      label: Zed kills Twisted Fate
+      kind: kill
+    - at: 13:19
+      label: Elise eliminates Twisted Fate
+    - at: 14:09
+      label: Zed eliminates Locke
+    - at: 14:17
+      label: Zed Triple Kill
+      kind: kill
+    - at: 15:27
+      label: Zed kills Twisted Fate
+      kind: kill
+    - at: 16:20
+      label: Elise kills Rek'Sai
+      kind: kill
+    - at: 16:27
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:33
+      label: Zed kills Twisted Fate
+      kind: kill
+    - at: 20:13
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:44
+      label: Zed catches Twisted Fate
+    - at: 21:38
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 22:03
+      label: Bot Inhibitor falls (Red)
+    - at: 22:28
+      label: Varus Double Kill
+      kind: kill
 - videoId: ZoD9xP1FoTM
   title: Zed Mid vs Locke - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1567
+  uploaded: 2026-09-03
+  result: W
+  moments:
+    - at: 3:26
+      label: First Blood — Zed kills Locke
+      kind: kill
+    - at: 5:13
+      label: Zed takes down Karma
+    - at: 5:24
+      label: Zed outplays Zaahen
+    - at: 9:16
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:46
+      label: Zed eliminates Locke
+    - at: 13:41
+      label: Elise picks off Ezreal
+    - at: 15:05
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:53
+      label: Zed eliminates Locke
+    - at: 17:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:39
+      label: Red takes Baron
+      kind: baron
+    - at: 19:52
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:18
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:24
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 24:40
+      label: Kai'Sa Triple Kill
+      kind: kill
+    - at: 24:58
+      label: Mid Inhibitor falls (Blue)
 - videoId: lAqDYrgPx0s
   title: Zed Mid vs Locke - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1514
+  uploaded: 2026-08-21
+  result: L
+  moments:
+    - at: 6:34
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:34
+      label: First Blood — Ezreal kills Locke
+      kind: kill
+    - at: 11:08
+      label: Zed picks off Fizz
+    - at: 12:15
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:23
+      label: Sylas picks off Locke
+    - at: 17:07
+      label: Zed takes down Jayce
+    - at: 18:03
+      label: Zed outduels Pyke
+    - at: 18:49
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:03
+      label: Red takes Baron
+      kind: baron
+    - at: 21:58
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 22:51
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 22:57
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:08
+      label: Zed takes down Jayce
+    - at: 23:25
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:58
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 24:17
+      label: Top Inhibitor falls (Blue)

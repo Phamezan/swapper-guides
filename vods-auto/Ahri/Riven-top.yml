@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1690
+  uploaded: 2026-08-20
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:37
       label: First Blood — Ahri kills Riven
       kind: kill
@@ -53,17 +52,14 @@
       label: Ahri takes down Sivir again
     - at: 27:41
       label: Mid Inhibitor falls (Red)
-    - at: 28:05
-      label: Victory
 - videoId: SvR_Y2IJZMs
   title: Ahri Top vs Riven - BR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1738
+  uploaded: 2026-05-01
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:37
       label: First Blood — Ahri kills Riven
       kind: kill
@@ -104,5 +100,3 @@
       kind: kill
     - at: 28:34
       label: Mid Inhibitor falls (Red)
-    - at: 28:53
-      label: Victory

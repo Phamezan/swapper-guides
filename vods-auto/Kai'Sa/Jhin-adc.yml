@@ -4,13 +4,83 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1516
+  region: NA
   player: Viper
   team: BLG
+  uploaded: 2026-10-31
 - videoId: gY8rgVp9DoA
   title: HLE Gumayusi Kai'Sa vs Jhin [ ADC ] Ranked Master NA | Patch 26.21
   rankClaim: Master
   patch: "26.21"
   durationSec: 862
+  region: NA
+  player: Gumayusi
+  team: HLE
+  uploaded: 2026-10-27
+- videoId: iUGLFaA1EXg
+  title: DK Smash Kai'Sa vs Jhin [ ADC ] Korea Challenger 2459 LP | Patch 26.20
+  rankClaim: Challenger
+  patch: "26.20"
+  durationSec: 1474
+  region: KR
+  player: Smash
+  team: DK
+  uploaded: 2026-10-16
+- videoId: qSZfgI92fzs
+  title: T1 Peyz Kai'Sa vs Jhin [ ADC ] Korea Challenger 2216 LP | Patch 26.20
+  rankClaim: Challenger
+  patch: "26.20"
+  durationSec: 1552
+  region: KR
+  player: Peyz
+  team: T1
+  uploaded: 2026-10-11
+- videoId: BzcxSkSoYCY
+  title: Deft Kai'Sa vs Jhin [ ADC ] Korea Challenger 1935 LP | Patch 26.20 ✅
+  rankClaim: Challenger
+  patch: "26.20"
+  durationSec: 1291
+  region: KR
+  player: Deft
+  uploaded: 2026-10-10
+- videoId: lgiM1ZC4Izk
+  title: Deft Kai'Sa vs Jhin [ ADC ] Korea Grandmaster 1675 LP | Patch 26.19 ✅
+  rankClaim: Grandmaster
+  patch: "26.19"
+  durationSec: 1258
+  region: KR
+  player: Deft
+  uploaded: 2026-09-24
+- videoId: EWjSbHErvG4
+  title: HLE Gumayusi Kai'Sa vs Jhin [ ADC ] Korea Challenger 2497 LP | Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1058
+  region: KR
+  player: Gumayusi
+  team: HLE
+  uploaded: 2026-08-30
+- videoId: OeIv6xh9SAs
+  title: T1 Peyz Kai'Sa vs Jhin [ ADC ] Korea Challenger 2527 LP | Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1140
+  region: KR
+  player: Peyz
+  team: T1
+  uploaded: 2026-08-28
+- videoId: riMEvmPfrlM
+  title: Kai'Sa vs Jhin [ ADC ] Korea Challenger 1939 LP | Patch 26.14
+  rankClaim: Challenger
+  patch: "26.14"
+  durationSec: 1876
+  region: KR
+- videoId: aAEIbbObCEA
+  title: HLE Gumayusi Kai'Sa vs Jhin [ ADC ] Korea Challenger 2570 LP | Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1693
+  region: KR
   player: Gumayusi
   team: HLE
 - videoId: 1pA1GR7A1kc
@@ -18,3 +88,11 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1861
+- videoId: wX_mbPVXTB0
+  title: T1 Peyz Kai'Sa vs HLE Gumayusi Jhin [ ADC ] Korea Grandmaster 990 LP | Patch 26.1
+  rankClaim: Grandmaster
+  patch: "26.1"
+  durationSec: 1526
+  region: KR
+  player: Peyz
+  team: T1

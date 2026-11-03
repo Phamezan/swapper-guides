@@ -5,8 +5,97 @@
   patch: "26.19"
   durationSec: 1962
   player: BZ
+  uploaded: 2026-10-07
+  result: W
+  moments:
+    - at: 4:14
+      label: First Blood — Rell kills Sona
+      kind: kill
+    - at: 8:57
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:00
+      label: Zed takes down Yasuo
+    - at: 15:16
+      label: Zed takes down Yasuo
+    - at: 16:23
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:59
+      label: Zed picks off Sona
+    - at: 18:21
+      label: Zed takes down Yasuo
+    - at: 22:07
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:32
+      label: Zed eliminates Talon
+    - at: 25:00
+      label: Mid Inhibitor falls (Red)
+    - at: 26:09
+      label: Zed takes down Yasuo
+    - at: 27:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:13
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 30:03
+      label: Red takes Baron
+      kind: baron
+    - at: 30:59
+      label: Zed picks off Camille
+    - at: 31:40
+      label: Mid Inhibitor falls (Red)
+    - at: 31:42
+      label: Zed catches Akali
 - videoId: 4ZqX9YY6mfU
   title: Zed ADC vs Yasuo - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1740
+  uploaded: 2026-07-05
+  result: L
+  moments:
+    - at: 9:24
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:10
+      label: First Blood — Zed kills Yasuo
+      kind: kill
+    - at: 12:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:31
+      label: Zed takes down Yasuo
+    - at: 15:23
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 17:43
+      label: Zed catches Ziggs
+    - at: 19:01
+      label: Zed kills Ziggs
+      kind: kill
+    - at: 19:26
+      label: Rek'Sai takes down Viego
+    - at: 19:59
+      label: Red takes Baron
+      kind: baron
+    - at: 20:57
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 21:22
+      label: Zed eliminates Viego
+    - at: 26:20
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 27:06
+      label: Zed outduels Yasuo
+    - at: 28:03
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:31
+      label: Mid Inhibitor falls (Blue)

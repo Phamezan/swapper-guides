@@ -4,5 +4,31 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1184
+  region: NA
   player: Viper
   team: BLG
+  uploaded: 2026-10-24
+- videoId: gJG_hP31Q8I
+  title: HLE Gumayusi Ezreal vs Lucian [ ADC ] Korea Challenger 2408 LP | Patch 26.9
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1699
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: ESFtKZF3NUo
+  title: T1 Peyz Ezreal ADC vs Lucian - Patch 26.3 Korea Challenger 1981 LP
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1084
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: 83_If8BdpuU
+  title: T1 Peyz Ezreal vs Lucian [ ADC ] Korea Grandmaster 795 LP | Patch 26.1
+  rankClaim: Grandmaster
+  patch: "26.1"
+  durationSec: 2031
+  region: KR
+  player: Peyz
+  team: T1

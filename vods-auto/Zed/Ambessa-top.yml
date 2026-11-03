@@ -4,6 +4,51 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1745
+  uploaded: 2026-09-20
+  result: W
+  moments:
+    - at: 4:34
+      label: First Blood — Zed kills Ambessa
+      kind: kill
+    - at: 8:53
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:31
+      label: Zed catches Ambessa
+    - at: 14:13
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 14:40
+      label: Zed outduels Jayce
+    - at: 19:21
+      label: Zed picks off Syndra
+    - at: 20:00
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:04
+      label: Red takes Baron
+      kind: baron
+    - at: 21:53
+      label: Zed eliminates Vel'Koz
+    - at: 23:47
+      label: Zed eliminates Vel'Koz
+    - at: 25:10
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 25:54
+      label: Zed takes down Vel'Koz
+    - at: 26:32
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:04
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:55
+      label: Zed eliminates Ambessa
+    - at: 28:34
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:54
+      label: Top Inhibitor falls (Blue)
 - videoId: zR3hjIfmpIA
   title: Zed Top vs Ambessa - EUW Grandmaster Patch 26.07
   rankClaim: Grandmaster

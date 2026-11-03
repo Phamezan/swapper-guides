@@ -5,10 +5,9 @@
   patch: "26.20"
   durationSec: 1500
   player: Castle
+  uploaded: 2026-10-18
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:05
       label: First Blood — Ahri kills Camille
       kind: kill
@@ -48,17 +47,14 @@
     - at: 24:43
       label: Ahri Triple Kill
       kind: kill
-    - at: 24:55
-      label: Victory
 - videoId: fmx0N62f9O8
   title: Ahri Top vs Camille - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1950
+  uploaded: 2026-09-27
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:49
       label: Blue takes 1st Dragon (Infernal)
       kind: dragon
@@ -105,5 +101,3 @@
     - at: 31:32
       label: Kog'Maw kills Taliyah
       kind: kill
-    - at: 32:25
-      label: Victory

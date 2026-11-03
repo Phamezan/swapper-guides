@@ -6,3 +6,22 @@
   durationSec: 1560
   player: Faker
   team: T1
+  uploaded: 2026-10-23
+- videoId: v5Yj_MTsllk
+  title: T1 Faker Akali vs Taliyah [ MID ] Patch 26.21 Ranked NA
+  rankClaim: Master+
+  patch: "26.21"
+  durationSec: 1353
+  region: NA
+  player: Faker
+  team: T1
+  uploaded: 2026-10-22
+- videoId: 0F1b3ykG8f8
+  title: Akali vs Taliyah MID [ Gen.G Chovy ] Korea Challenger 2251 LP | Patch 26.18
+  rankClaim: Challenger
+  patch: "26.18"
+  durationSec: 1396
+  region: KR
+  player: Chovy
+  team: Gen.G
+  uploaded: 2026-09-13

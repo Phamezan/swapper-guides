@@ -4,47 +4,466 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 2055
+  uploaded: 2026-10-29
+  result: W
+  moments:
+    - at: 3:05
+      label: Zed takes down Ahri
+    - at: 4:51
+      label: Zed catches Ahri again
+    - at: 5:57
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:13
+      label: Zed outduels Ahri (3rd time)
+    - at: 11:29
+      label: Zed outplays Ahri (4th time)
+    - at: 12:05
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 16:24
+      label: Locke Quadra Kill
+      kind: kill
+    - at: 17:31
+      label: Zed catches Draven
+    - at: 18:54
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:12
+      label: Zed outplays Warwick
+    - at: 20:57
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:27
+      label: Mid Inhibitor falls (Red)
+    - at: 23:26
+      label: Red takes Baron
+      kind: baron
+    - at: 24:14
+      label: Zed solo kills Warwick again
+      kind: kill
+    - at: 25:10
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 26:22
+      label: Zed outduels Draven again
+    - at: 26:39
+      label: Mid Inhibitor falls (Red)
+    - at: 26:56
+      label: Top Inhibitor falls (Red)
+    - at: 30:08
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 32:16
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 33:40
+      label: Locke Quadra Kill
+      kind: kill
+    - at: 33:53
+      label: Mid Inhibitor falls (Red)
 - videoId: 3SvQL0OBqis
   title: (BZ) Zed Mid vs Ahri - EUW Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1614
   player: BZ
+  uploaded: 2026-10-23
+  result: W
+  moments:
+    - at: 4:48
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 8:09
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:30
+      label: Kayn takes down Hecarim
+    - at: 11:34
+      label: Zed outduels Milio
+    - at: 13:51
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:34
+      label: Kayn takes down Hecarim
+    - at: 16:45
+      label: Zed eliminates Ahri
+    - at: 18:35
+      label: Zed catches Lucian
+    - at: 18:56
+      label: Zed outplays Milio again
+    - at: 19:09
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 20:14
+      label: Zed picks off Hecarim
+    - at: 21:45
+      label: Zed picks off Hecarim
+    - at: 23:46
+      label: Kayn eliminates Lucian
+    - at: 24:32
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 25:47
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:04
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:26
+      label: Top Inhibitor falls (Red)
 - videoId: xsNA-HmoosU
   title: Zed Mid vs Ahri - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1822
+  uploaded: 2026-10-20
+  result: W
+  moments:
+    - at: 3:59
+      label: First Blood — Bard kills Ahri
+      kind: kill
+    - at: 12:09
+      label: Zed takes down Ahri
+    - at: 12:30
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 17:22
+      label: Zed outduels Nami
+    - at: 18:21
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:50
+      label: Zed kills Swain
+      kind: kill
+    - at: 20:20
+      label: Zed picks off Cho'Gath
+    - at: 22:42
+      label: Zed takes down Nami
+    - at: 23:56
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 24:11
+      label: Zed eliminates Ahri
+    - at: 24:20
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:44
+      label: Zed kills Swain
+      kind: kill
+    - at: 25:50
+      label: Zed solo kills Cho'Gath
+      kind: kill
+    - at: 27:20
+      label: Zed picks off Cho'Gath
+    - at: 27:33
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:54
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:12
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 29:17
+      label: Zed takes down Nami
 - videoId: 668PYBLTQ6o
   title: Zed Mid vs Ahri - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1657
+  uploaded: 2026-10-03
+  result: W
+  moments:
+    - at: 3:45
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 8:44
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:55
+      label: Zed takes down Ahri
+    - at: 10:55
+      label: Zed catches Ahri again
+    - at: 14:37
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:05
+      label: Zed catches Xayah
+    - at: 19:28
+      label: Kai'Sa picks off Maokai
+    - at: 19:51
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:27
+      label: Kai'Sa picks off Nocturne
+    - at: 20:57
+      label: Zed picks off Pantheon
+    - at: 22:25
+      label: Red takes Baron
+      kind: baron
+    - at: 22:40
+      label: Zed kills Xayah
+      kind: kill
+    - at: 23:22
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:33
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:24
+      label: Zed eliminates Ahri
+    - at: 26:24
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 26:51
+      label: Kai'Sa picks off Maokai
 - videoId: hbR9axm-_cU
   title: Zed Mid vs Ahri - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1391
+  uploaded: 2026-09-19
+  result: W
+  moments:
+    - at: 5:10
+      label: First Blood — Zed kills Kalista
+      kind: kill
+    - at: 6:23
+      label: Lillia picks off Ahri
+    - at: 6:55
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:25
+      label: Zed eliminates Ahri
+    - at: 10:22
+      label: Zed takes down Ahri
+    - at: 12:29
+      label: Zed catches Ahri again
+    - at: 12:33
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:28
+      label: Lillia takes down Sylas
+    - at: 17:13
+      label: Zed eliminates Ahri
+    - at: 18:37
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:31
+      label: Lillia eliminates Kalista
+    - at: 20:16
+      label: Red takes Baron
+      kind: baron
+    - at: 21:29
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:28
+      label: Team fight (4 kills)
+      kind: teamfight
 - videoId: 2YOTCjmZ06k
   title: Zed Mid vs Ahri - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1579
+  uploaded: 2026-09-13
+  result: W
+  moments:
+    - at: 7:41
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 9:20
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:05
+      label: Zed outplays Gragas
+    - at: 14:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:15
+      label: Zed solo kills Naafiri
+      kind: kill
+    - at: 15:51
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:03
+      label: Zed takes down Ahri
+    - at: 17:09
+      label: Zed Double Kill
+      kind: kill
+    - at: 18:23
+      label: Zed catches Ahri again
+    - at: 18:32
+      label: Zed Double Kill
+      kind: kill
+    - at: 19:36
+      label: Zed outduels Thresh
+    - at: 19:41
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:45
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 22:21
+      label: Zed takes down Naafiri again
+    - at: 22:39
+      label: Zed takes down Thresh
+    - at: 23:28
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:24
+      label: Top Inhibitor falls (Red)
+    - at: 24:55
+      label: Zed Double Kill
+      kind: kill
 - videoId: pFZynD-M66Q
   title: Zed Mid vs Ahri - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1527
+  uploaded: 2026-08-28
+  result: W
+  moments:
+    - at: 4:25
+      label: First Blood — Zed kills Vi
+      kind: kill
+    - at: 5:21
+      label: Zed picks off Vi
+    - at: 8:01
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:13
+      label: Zed takes down Pantheon
+    - at: 13:05
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 13:30
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:22
+      label: Zed takes down Ahri
+    - at: 15:12
+      label: Zed outplays Jayce
+    - at: 18:52
+      label: Zed catches Master Yi
+    - at: 19:25
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:58
+      label: Ambessa kills Pantheon
+      kind: kill
+    - at: 20:02
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:56
+      label: Zed outduels Master Yi again
+    - at: 22:08
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:15
+      label: Zed takes down Pantheon
+    - at: 24:34
+      label: Cassiopeia eliminates Vi
+    - at: 24:57
+      label: Mid Inhibitor falls (Red)
 - videoId: V-_tclkkD8c
   title: Zed Mid vs Ahri - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1860
+  uploaded: 2026-08-25
+  result: W
+  moments:
+    - at: 5:35
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 6:34
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:33
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:53
+      label: Zed takes down Ahri
+    - at: 17:44
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:31
+      label: Zed catches Ahri again
+    - at: 22:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:07
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:04
+      label: Zed eliminates Ahri
+    - at: 26:09
+      label: Zed outduels Ahri (3rd time)
+    - at: 27:14
+      label: Zed takes down Elise
+    - at: 28:17
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:52
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:24
+      label: Zed outduels Elise
+    - at: 30:08
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 30:18
+      label: Mid Inhibitor falls (Red)
+    - at: 30:36
+      label: Zed Triple Kill
+      kind: kill
+    - at: 30:50
+      label: Bot Inhibitor falls (Red)
 - videoId: 9PcX4Jc8GEI
   title: Zed Mid vs Ahri (KCB Kamiloo) - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1850
+  uploaded: 2026-07-24
+  result: L
+  moments:
+    - at: 2:43
+      label: First Blood — Janna kills Nocturne
+      kind: kill
+    - at: 10:00
+      label: Zed takes down Ahri
+    - at: 12:12
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:59
+      label: Zed catches Ahri again
+    - at: 17:34
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:18
+      label: Zed outduels Ahri (3rd time)
+    - at: 21:17
+      label: Red takes Baron
+      kind: baron
+    - at: 22:51
+      label: Zed outduels Camille
+    - at: 23:03
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 27:29
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:06
+      label: Zed Double Kill
+      kind: kill
+    - at: 29:27
+      label: Zeri picks off Teemo
+    - at: 29:36
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 30:13
+      label: Zed outduels Tristana again
+    - at: 30:26
+      label: Bot Inhibitor falls (Blue)
+    - at: 30:36
+      label: Zed takes down Teemo
 - videoId: VRfQEODpQoI
   title: OnZed Zed vs Ahri Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger

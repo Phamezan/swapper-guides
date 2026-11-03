@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1840
+  uploaded: 2026-04-26
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:20
       label: First Blood — Vi kills Jarvan IV
       kind: kill
@@ -52,5 +51,3 @@
       kind: teamfight
     - at: 29:25
       label: Mid Inhibitor falls (Red)
-    - at: 29:59
-      label: Victory

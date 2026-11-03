@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1841
+  uploaded: 2026-07-16
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:37
       label: First Blood — Ahri kills Ambessa
       kind: kill
@@ -58,17 +57,14 @@
       kind: kill
     - at: 29:35
       label: Mid Inhibitor falls (Red)
-    - at: 30:01
-      label: Victory
 - videoId: 4wraW2K1CJU
   title: Ahri Top vs Ambessa - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1660
+  uploaded: 2026-05-26
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:46
       label: First Blood — Ahri kills Ambessa
       kind: kill
@@ -105,5 +101,3 @@
     - at: 27:16
       label: Lucian Double Kill
       kind: kill
-    - at: 27:35
-      label: Defeat

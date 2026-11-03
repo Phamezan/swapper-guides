@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1505
+  uploaded: 2026-08-01
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:53
       label: First Blood — Ahri kills Graves
       kind: kill
@@ -43,17 +42,14 @@
       kind: teamfight
     - at: 24:33
       label: Mid Inhibitor falls (Blue)
-    - at: 25:00
-      label: Defeat
 - videoId: 2DHw9JFscqE
   title: Ahri Top vs Akali - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1698
+  uploaded: 2026-07-17
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:22
       label: First Blood — Wukong kills Akali
       kind: kill
@@ -99,17 +95,14 @@
     - at: 28:04
       label: Wukong Double Kill
       kind: kill
-    - at: 28:13
-      label: Defeat
 - videoId: soI0_1v1Q3s
   title: Ahri Top vs Akali - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1605
+  uploaded: 2026-07-09
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:28
       label: First Blood — Dr. Mundo kills Akali
       kind: kill
@@ -160,17 +153,14 @@
       kind: kill
     - at: 26:16
       label: Top Inhibitor falls (Blue)
-    - at: 26:40
-      label: Defeat
 - videoId: 5DxKi4l-jsg
   title: Ahri Top vs Akali - EUW Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1609
+  uploaded: 2026-05-21
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 0:58
       label: First Blood — Ahri kills Akali
       kind: kill
@@ -196,8 +186,6 @@
       kind: baron
     - at: 25:48
       label: Mid Inhibitor falls (Red)
-    - at: 26:09
-      label: Victory
 - videoId: lP4RBbMBfnM
   title: Ahri Top vs Akali - EUW Grandmaster Patch 26.07
   rankClaim: Grandmaster

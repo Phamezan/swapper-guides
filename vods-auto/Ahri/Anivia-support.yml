@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.7"
   durationSec: 1550
+  uploaded: 2026-04-14
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:30
       label: First Blood — Xayah kills Anivia
       kind: kill
@@ -54,5 +53,3 @@
       kind: teamfight
     - at: 25:04
       label: Mid Inhibitor falls (Red)
-    - at: 25:43
-      label: Victory

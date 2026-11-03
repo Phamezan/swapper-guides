@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1749
+  uploaded: 2026-05-04
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:35
       label: First Blood — Ahri kills Vayne
       kind: kill
@@ -47,51 +46,36 @@
       label: Ahri picks off Lucian
     - at: 28:17
       label: Jarvan IV picks off Diana
-    - at: 29:04
-      label: Defeat
 - videoId: c3X-B8o9Q_k
   title: Ahri Top vs Vayne - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1710
+  uploaded: 2026-03-04
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
     - at: 1:53
       label: Get a SOLO KILL
       kind: kill
-    - at: 2:21
-      label: Gameplay
     - at: 5:23
       label: Get a SOLO KILL
       kind: kill
-    - at: 5:51
-      label: Gameplay
     - at: 9:30
       label: Team FIGHT
       kind: teamfight
-    - at: 10:25
-      label: Gameplay
     - at: 12:00
       label: Take down The Turret
       kind: tower
-    - at: 12:28
-      label: Gameplay
     - at: 13:53
       label: Get a SOLO KILL
       kind: kill
-    - at: 14:21
-      label: Gameplay
     - at: 17:03
       label: Take down The Turret
       kind: tower
     - at: 17:39
       label: Team FIGHT
       kind: teamfight
-    - at: 18:18
-      label: Gameplay
     - at: 19:40
       label: Team FIGHT
       kind: teamfight
@@ -101,28 +85,18 @@
     - at: 20:14
       label: Get a Double Kill
       kind: kill
-    - at: 20:33
-      label: Gameplay
     - at: 21:30
       label: Get a SOLO KILL
       kind: kill
-    - at: 21:58
-      label: Gameplay
     - at: 23:42
       label: Get a SOLO KILL
       kind: kill
-    - at: 24:10
-      label: Gameplay
     - at: 24:40
       label: Take down The Turret
       kind: tower
-    - at: 25:08
-      label: Gameplay
     - at: 25:46
       label: Get a SOLO KILL
       kind: kill
-    - at: 26:14
-      label: Gameplay
     - at: 27:49
       label: Team FIGHT
       kind: teamfight

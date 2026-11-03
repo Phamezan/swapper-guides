@@ -4,10 +4,9 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1404
+  uploaded: 2026-06-01
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:21
       label: First Blood — Viego kills Anivia
       kind: kill
@@ -51,5 +50,3 @@
       label: Mid Inhibitor falls (Blue)
     - at: 23:08
       label: Ahri picks off Tristana
-    - at: 23:19
-      label: Defeat

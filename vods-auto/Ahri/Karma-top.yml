@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1587
+  uploaded: 2026-08-05
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:49
       label: First Blood — Ahri kills Karma
       kind: kill
@@ -56,5 +55,3 @@
     - at: 25:45
       label: Team fight (3 kills)
       kind: teamfight
-    - at: 26:22
-      label: Victory

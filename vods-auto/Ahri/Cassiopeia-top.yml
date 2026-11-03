@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1880
+  uploaded: 2026-04-28
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:08
       label: First Blood — Ahri kills Cassiopeia
       kind: kill
@@ -43,30 +42,21 @@
     - at: 31:03
       label: Jinx Double Kill
       kind: kill
-    - at: 31:15
-      label: Victory
 - videoId: gQ2OApOlijY
   title: Ahri Top vs Cassiopeia - TW Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1824
+  uploaded: 2026-03-23
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 9:18
       label: Get a SOLO KILL
       kind: kill
-    - at: 9:46
-      label: Gameplay
     - at: 12:55
       label: Team FIGHT
       kind: teamfight
-    - at: 13:41
-      label: Gameplay
     - at: 15:20
       label: Team FIGHT
       kind: teamfight
@@ -79,23 +69,15 @@
     - at: 18:11
       label: Take down The Turret
       kind: tower
-    - at: 18:31
-      label: Gameplay
     - at: 21:30
       label: Team FIGHT
       kind: teamfight
-    - at: 21:58
-      label: Gameplay
     - at: 23:55
       label: Team FIGHT
       kind: teamfight
-    - at: 24:23
-      label: Gameplay
     - at: 26:08
       label: Team FIGHT
       kind: teamfight
-    - at: 26:52
-      label: Gameplay
     - at: 28:18
       label: Team FIGHT
       kind: teamfight

@@ -4,3 +4,48 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1475
+  uploaded: 2026-08-26
+  result: L
+  moments:
+    - at: 2:59
+      label: First Blood — Sylas kills Cho'Gath
+      kind: kill
+    - at: 5:28
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 7:40
+      label: Sylas kills Bard
+      kind: kill
+    - at: 8:36
+      label: Zed picks off Hecarim
+    - at: 9:48
+      label: Sylas takes down Hecarim
+    - at: 10:33
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:36
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:47
+      label: Zed takes down Nasus
+    - at: 17:11
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:07
+      label: Sylas picks off Cho'Gath
+    - at: 21:33
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 22:23
+      label: Red takes Baron
+      kind: baron
+    - at: 22:31
+      label: Zed solo kills Hecarim
+      kind: kill
+    - at: 22:57
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:12
+      label: Top Inhibitor falls (Blue)
+    - at: 24:14
+      label: Bot Inhibitor falls (Blue)

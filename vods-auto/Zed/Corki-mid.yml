@@ -4,3 +4,49 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1743
+  uploaded: 2026-08-26
+  result: W
+  moments:
+    - at: 3:35
+      label: First Blood — Lee Sin kills Corki
+      kind: kill
+    - at: 6:57
+      label: Zed catches Xerath
+    - at: 7:12
+      label: Zed outduels Seraphine
+    - at: 8:41
+      label: Zed takes down Corki
+    - at: 9:40
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:22
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:51
+      label: Zed outplays Aatrox
+    - at: 20:40
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:21
+      label: Akali Triple Kill
+      kind: kill
+    - at: 22:24
+      label: Zed solo kills Aatrox again
+      kind: kill
+    - at: 23:22
+      label: Red takes Baron
+      kind: baron
+    - at: 25:31
+      label: Mid Inhibitor falls (Red)
+    - at: 26:01
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:07
+      label: Zed eliminates Corki
+    - at: 26:56
+      label: Lee Sin kills Aatrox
+      kind: kill
+    - at: 28:21
+      label: Zed takes down Seraphine
+    - at: 28:34
+      label: Mid Inhibitor falls (Blue)

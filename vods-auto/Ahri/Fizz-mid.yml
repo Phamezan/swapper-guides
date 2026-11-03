@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1539
+  uploaded: 2026-10-19
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:23
       label: First Blood — Ahri kills Fizz
       kind: kill
@@ -49,8 +48,6 @@
       kind: teamfight
     - at: 24:40
       label: Top Inhibitor falls (Blue)
-    - at: 24:59
-      label: Victory
 - videoId: dBgcEp3K_9Q
   title: (GEN Chovy) Ahri Mid vs Fizz (DK ShowMaker) - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -58,10 +55,9 @@
   durationSec: 1735
   player: Chovy
   team: GEN
+  uploaded: 2026-07-02
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 7:56
       label: Red takes 1st Dragon (Hextech)
       kind: dragon
@@ -95,5 +91,3 @@
       kind: teamfight
     - at: 27:43
       label: Mid Inhibitor falls (Red)
-    - at: 28:15
-      label: Victory

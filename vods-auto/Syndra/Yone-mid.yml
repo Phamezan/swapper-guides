@@ -4,5 +4,24 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1044
+  region: NA
   player: Faker
   team: T1
+  uploaded: 2026-10-30
+- videoId: X1PK3hBQ7YU
+  title: DK ShowMaker Syndra vs Yone [ MID ] Korea Challenger 2217 LP | Patch 26.19
+  rankClaim: Challenger
+  patch: "26.19"
+  durationSec: 1468
+  region: KR
+  player: ShowMaker
+  team: DK
+  uploaded: 2026-10-05
+- videoId: 0YKF7SXKWvw
+  title: DK ShowMaker Syndra vs Yone [ MID ] Korea Challenger 2610 LP | Patch 26.13
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1277
+  region: KR
+  player: ShowMaker
+  team: DK

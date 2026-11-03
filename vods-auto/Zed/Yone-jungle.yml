@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1744
+  uploaded: 2026-07-18
+  result: W
+  moments:
+    - at: 2:34
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 6:41
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:07
+      label: Zed outduels Tryndamere
+    - at: 13:27
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:38
+      label: Zed outplays Yone
+    - at: 16:49
+      label: Zed kills Pyke
+      kind: kill
+    - at: 18:41
+      label: Zed takes down Yone
+    - at: 19:02
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:36
+      label: Zed eliminates Xerath
+    - at: 19:52
+      label: Zed solo kills Yone again
+      kind: kill
+    - at: 20:38
+      label: Aatrox eliminates Tryndamere
+    - at: 22:53
+      label: Zed solo kills Sylas
+      kind: kill
+    - at: 23:45
+      label: Mid Inhibitor falls (Red)
+    - at: 24:25
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 26:05
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:36
+      label: Zed takes down Sylas again
+    - at: 27:42
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:49
+      label: Bot Inhibitor falls (Red)

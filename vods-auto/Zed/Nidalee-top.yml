@@ -5,3 +5,46 @@
   patch: "26.20"
   durationSec: 1679
   player: BZ
+  uploaded: 2026-10-15
+  result: W
+  moments:
+    - at: 2:45
+      label: First Blood — Zed kills Nidalee
+      kind: kill
+    - at: 7:42
+      label: Fiddlesticks kills Nidalee
+      kind: kill
+    - at: 8:10
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:52
+      label: Zed catches Nidalee
+    - at: 11:50
+      label: Fiddlesticks kills Nidalee
+      kind: kill
+    - at: 13:29
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:17
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 19:28
+      label: Yasuo Double Kill
+      kind: kill
+    - at: 19:31
+      label: Yasuo Triple Kill
+      kind: kill
+    - at: 19:40
+      label: Zed kills Naafiri
+      kind: kill
+    - at: 21:56
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:37
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 26:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:58
+      label: Bot Inhibitor falls (Red)

@@ -4,11 +4,111 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1769
+  uploaded: 2026-10-01
+  result: W
+  moments:
+    - at: 2:34
+      label: First Blood — Zed kills Zaahen
+      kind: kill
+    - at: 11:12
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:27
+      label: Zed picks off Vex
+    - at: 11:48
+      label: Zed outplays Nidalee
+    - at: 13:52
+      label: LeBlanc eliminates Vex
+    - at: 14:02
+      label: Zed solo kills Nidalee again
+      kind: kill
+    - at: 14:12
+      label: Rell picks off Tristana
+    - at: 15:47
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:05
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:10
+      label: Zed kills Zaahen
+      kind: kill
+    - at: 22:53
+      label: Zed solo kills Vex
+      kind: kill
+    - at: 22:59
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:42
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:34
+      label: Yunara Double Kill
+      kind: kill
+    - at: 27:02
+      label: Volibear eliminates Zaahen
+    - at: 27:17
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:52
+      label: Top Inhibitor falls (Blue)
 - videoId: XRy-0eDsDy0
   title: Zed Jungle vs Nidalee - EUW Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1828
+  uploaded: 2026-08-16
+  result: W
+  moments:
+    - at: 1:57
+      label: First Blood — LeBlanc kills Viego
+      kind: kill
+    - at: 4:54
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:12
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:28
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:56
+      label: LeBlanc takes down Jayce
+    - at: 20:59
+      label: Zed picks off Viego
+    - at: 21:40
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:03
+      label: LeBlanc takes down Karma
+    - at: 22:39
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:46
+      label: LeBlanc kills Caitlyn
+      kind: kill
+    - at: 25:48
+      label: Zed solo kills Viego
+      kind: kill
+    - at: 26:02
+      label: Zed kills Karma
+      kind: kill
+    - at: 26:53
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 26:58
+      label: Zed takes down Nidalee
+    - at: 27:51
+      label: Zed takes down Caitlyn
+    - at: 28:56
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:42
+      label: Zed outplays Nidalee
+    - at: 30:03
+      label: Mid Inhibitor falls (Red)
 - videoId: m2yR1wNclbw
   title: Zed Jungle vs Nidalee - EUW Challenger Patch 26.11
   rankClaim: Challenger

@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1873
+  uploaded: 2026-07-29
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:29
       label: First Blood — Ahri kills Tryndamere
       kind: kill
@@ -52,5 +51,3 @@
     - at: 30:59
       label: Yasuo Triple Kill
       kind: kill
-    - at: 31:08
-      label: Defeat

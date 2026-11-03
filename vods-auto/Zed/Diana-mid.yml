@@ -4,36 +4,362 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1574
+  uploaded: 2026-10-31
+  result: W
+  moments:
+    - at: 6:48
+      label: Zed kills Corki
+      kind: kill
+    - at: 7:11
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:17
+      label: Zed eliminates Diana
+    - at: 12:47
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:23
+      label: Zed Double Kill
+      kind: kill
+    - at: 18:43
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:06
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:05
+      label: Zed eliminates Diana
+    - at: 21:12
+      label: Jhin kills Diana
+      kind: kill
+    - at: 22:29
+      label: Zed takes down Diana
+    - at: 23:47
+      label: Jhin Double Kill
+      kind: kill
+    - at: 24:10
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:30
+      label: Red takes Baron
+      kind: baron
+    - at: 25:00
+      label: Zed picks off Kindred
+    - at: 25:41
+      label: Taliyah kills Rumble
+      kind: kill
+    - at: 25:48
+      label: Top Inhibitor falls (Blue)
 - videoId: 3Gworxp8_Wo
   title: Zed Mid vs Diana (Dove) - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1669
+  uploaded: 2026-10-18
+  result: W
+  moments:
+    - at: 5:13
+      label: First Blood — Zed kills Rengar
+      kind: kill
+    - at: 10:39
+      label: Zed picks off Rengar
+    - at: 11:20
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:20
+      label: Zed takes down Diana
+    - at: 12:26
+      label: Zed Double Kill
+      kind: kill
+    - at: 13:51
+      label: Nidalee eliminates Kai'Sa
+    - at: 15:34
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:05
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 18:45
+      label: Nidalee Double Kill
+      kind: kill
+    - at: 19:37
+      label: Zed catches Kai'Sa
+    - at: 20:52
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 21:38
+      label: Nidalee picks off Diana
+    - at: 22:04
+      label: Red takes Baron
+      kind: baron
+    - at: 22:42
+      label: Zed solo kills Rengar
+      kind: kill
+    - at: 22:49
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:07
+      label: Mel kills Diana
+      kind: kill
+    - at: 23:52
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:19
+      label: Yone takes down Diana
 - videoId: ci6FCbfSlv0
   title: Zed Mid vs Diana - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1508
+  uploaded: 2026-10-18
+  result: W
+  moments:
+    - at: 3:36
+      label: First Blood — Zed kills Jayce
+      kind: kill
+    - at: 6:27
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:50
+      label: Karma takes down Diana
+    - at: 10:57
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 12:19
+      label: Elise takes down Lee Sin
+    - at: 13:41
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:47
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 18:34
+      label: Elise kills Camille
+      kind: kill
+    - at: 19:31
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:42
+      label: Elise Double Kill
+      kind: kill
+    - at: 20:22
+      label: Zed takes down Camille
+    - at: 23:05
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:26
+      label: Zed outplays Jayce
 - videoId: Q1dVWMPI0s4
   title: Zed Mid vs Diana - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1673
+  uploaded: 2026-10-05
+  result: W
+  moments:
+    - at: 1:33
+      label: First Blood — Nidalee kills Diana
+      kind: kill
+    - at: 6:04
+      label: Zed takes down Diana
+    - at: 7:33
+      label: Zed catches Diana again
+    - at: 9:19
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:16
+      label: Zed outduels Diana (3rd time)
+    - at: 12:17
+      label: Zed outplays Diana (4th time)
+    - at: 15:31
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:40
+      label: Zed solo kills Diana (5th time)
+      kind: kill
+    - at: 16:54
+      label: Zed takes down Diana (6th time)
+    - at: 19:33
+      label: Zed catches Caitlyn
+    - at: 20:28
+      label: Zed catches Diana (7th time)
+    - at: 20:49
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:50
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:43
+      label: Zed outplays Gragas
+    - at: 24:12
+      label: Mid Inhibitor falls (Red)
+    - at: 24:22
+      label: Bot Inhibitor falls (Red)
+    - at: 26:23
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 26:55
+      label: Zed outduels Diana (8th time)
 - videoId: Q6k3H0iLtBs
   title: Zed Mid vs Diana - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1530
+  uploaded: 2026-09-23
+  result: W
+  moments:
+    - at: 3:40
+      label: First Blood — Zed kills Kha'Zix
+      kind: kill
+    - at: 10:41
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:44
+      label: Zed takes down Pantheon
+    - at: 13:36
+      label: Zed picks off Kha'Zix
+    - at: 16:22
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:54
+      label: Nidalee picks off Diana
+    - at: 17:49
+      label: Nidalee kills Pantheon
+      kind: kill
+    - at: 19:52
+      label: Zed solo kills Kha'Zix
+      kind: kill
+    - at: 20:06
+      label: Camille Quadra Kill
+      kind: kill
+    - at: 21:38
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 21:46
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:35
+      label: Red takes Baron
+      kind: baron
+    - at: 23:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:20
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:29
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:45
+      label: Camille Double Kill
+      kind: kill
+    - at: 25:05
+      label: Ezreal Double Kill
+      kind: kill
 - videoId: Jnl_haY03MA
   title: Zed Mid vs Diana - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1674
+  uploaded: 2026-09-10
+  result: W
+  moments:
+    - at: 0:58
+      label: First Blood — Nidalee kills Diana
+      kind: kill
+    - at: 11:00
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:37
+      label: Zed takes down Diana
+    - at: 13:11
+      label: Kai'Sa kills Diana
+      kind: kill
+    - at: 14:17
+      label: Zed eliminates Diana
+    - at: 15:18
+      label: Zed catches Diana again
+    - at: 16:20
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:43
+      label: Zed outplays Jayce
+    - at: 17:35
+      label: Zed eliminates Diana
+    - at: 18:08
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 19:17
+      label: Zed eliminates Diana
+    - at: 20:22
+      label: Zed solo kills Jayce again
+      kind: kill
+    - at: 21:54
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:38
+      label: Zed catches Ezreal
+    - at: 22:48
+      label: Malphite kills Briar
+      kind: kill
+    - at: 23:59
+      label: Red takes Baron
+      kind: baron
+    - at: 26:30
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:47
+      label: Kai'Sa Double Kill
+      kind: kill
 - videoId: ZYbWrjLJ6Sc
   title: Zed Mid vs Diana - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1574
+  uploaded: 2026-08-25
+  result: W
+  moments:
+    - at: 6:34
+      label: First Blood — Zed kills Kai'Sa
+      kind: kill
+    - at: 8:19
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:48
+      label: Zed takes down Diana
+    - at: 12:03
+      label: Zed catches Diana again
+    - at: 13:06
+      label: Pyke eliminates Bard
+    - at: 13:39
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:34
+      label: Zed outplays Sett
+    - at: 16:57
+      label: Zed takes down Sett
+    - at: 18:47
+      label: Zed outduels Bard
+    - at: 19:15
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:25
+      label: Zed outduels Diana (3rd time)
+    - at: 20:45
+      label: Red takes Baron
+      kind: baron
+    - at: 21:42
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 23:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:12
+      label: Zed outplays Bard again
+    - at: 24:22
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 25:37
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 25:41
+      label: Mid Inhibitor falls (Red)
 - videoId: gwyyhy8Prwo
   title: Zed Mid vs Diana - EUW Challenger Patch 26.11
   rankClaim: Challenger

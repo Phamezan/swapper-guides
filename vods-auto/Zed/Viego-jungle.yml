@@ -4,48 +4,477 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1786
+  uploaded: 2026-10-20
+  result: W
+  moments:
+    - at: 3:45
+      label: First Blood — Zed kills Viego
+      kind: kill
+    - at: 8:34
+      label: Zed outplays Viego
+    - at: 11:04
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:37
+      label: Zed outduels Jax
+    - at: 16:47
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 22:05
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:13
+      label: Zed takes down Ezreal
+    - at: 23:39
+      label: Zed takes down Viego
+    - at: 24:59
+      label: Zed solo kills Viego again
+      kind: kill
+    - at: 25:08
+      label: Zed Double Kill
+      kind: kill
+    - at: 25:19
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:59
+      label: Bot Inhibitor falls (Red)
+    - at: 27:15
+      label: Syndra eliminates Jax
+    - at: 28:04
+      label: Mid Inhibitor falls (Red)
+    - at: 28:44
+      label: Zed takes down Viego
+    - at: 28:51
+      label: Zed Triple Kill
+      kind: kill
+    - at: 29:00
+      label: Kalista kills Hwei
+      kind: kill
 - videoId: FRQaCTGr_y8
   title: (DYN MathisV) Zed Jungle vs Viego (ES xKenzuke) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1793
-  player: MathisV
-  team: DYN
+  player: DYN MathisV
+  uploaded: 2026-10-02
+  result: W
+  moments:
+    - at: 3:32
+      label: First Blood — Syndra kills Vex
+      kind: kill
+    - at: 9:21
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:10
+      label: Syndra eliminates Vex
+    - at: 15:11
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:45
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:03
+      label: Syndra Double Kill
+      kind: kill
+    - at: 20:05
+      label: Syndra Triple Kill
+      kind: kill
+    - at: 20:12
+      label: Syndra Quadra Kill
+      kind: kill
+    - at: 20:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:21
+      label: Camille eliminates Ambessa
+    - at: 21:26
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:28
+      label: Zed eliminates Kalista
+    - at: 23:24
+      label: Camille eliminates Ambessa
+    - at: 25:56
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 25:59
+      label: Yunara kills Vex
+      kind: kill
+    - at: 29:21
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:38
+      label: Syndra Double Kill
+      kind: kill
 - videoId: kxVtMd3K6pc
   title: Zed Jungle vs Viego - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1980
+  uploaded: 2026-09-18
+  result: W
+  moments:
+    - at: 4:58
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 5:26
+      label: First Blood — Zed kills Viego
+      kind: kill
+    - at: 8:55
+      label: Zed takes down Kalista
+    - at: 11:20
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:41
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 18:46
+      label: Zed kills Leona
+      kind: kill
+    - at: 19:33
+      label: Zed eliminates Kalista
+    - at: 20:33
+      label: Kog'Maw picks off Leona
+    - at: 21:50
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 24:39
+      label: Zed takes down Viego
+    - at: 26:34
+      label: Nasus Double Kill
+      kind: kill
+    - at: 27:05
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 28:04
+      label: Zed takes down Viego
+    - at: 28:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 29:46
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 30:29
+      label: Mid Inhibitor falls (Red)
+    - at: 30:49
+      label: Zed Double Kill
+      kind: kill
+    - at: 32:10
+      label: Kog'Maw kills Locke
+      kind: kill
 - videoId: -DeIH3xNLpg
   title: Zed Jungle vs Viego - EUW Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1729
+  uploaded: 2026-09-15
+  result: W
+  moments:
+    - at: 5:49
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:16
+      label: First Blood — Zed kills Kog'Maw
+      kind: kill
+    - at: 11:06
+      label: Zed outplays Viego
+    - at: 11:29
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:33
+      label: Zed solo kills Viego again
+      kind: kill
+    - at: 18:00
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:35
+      label: Kai'Sa Triple Kill
+      kind: kill
+    - at: 20:37
+      label: Kai'Sa Quadra Kill
+      kind: kill
+    - at: 21:20
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:18
+      label: Zed kills Camille
+      kind: kill
+    - at: 23:26
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:36
+      label: Zed takes down Viego
+    - at: 24:47
+      label: Zed takes down Viego
+    - at: 25:31
+      label: Zed kills Camille
+      kind: kill
+    - at: 26:10
+      label: Mid Inhibitor falls (Red)
+    - at: 27:40
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 28:18
+      label: Zed solo kills Katarina
+      kind: kill
+    - at: 28:31
+      label: Kai'Sa Double Kill
+      kind: kill
 - videoId: _AbEgqx09zU
   title: Zed Jungle vs Viego (TynX) - EUW Master Patch 26.16
   rankClaim: Master
   patch: "26.16"
   durationSec: 1492
+  uploaded: 2026-08-20
+  result: L
+  moments:
+    - at: 2:26
+      label: First Blood — Zed kills Viego
+      kind: kill
+    - at: 9:59
+      label: Zed picks off Orianna
+    - at: 11:41
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:25
+      label: Zed Double Kill
+      kind: kill
+    - at: 14:56
+      label: Urgot Double Kill
+      kind: kill
+    - at: 16:34
+      label: Zed takes down Viego
+    - at: 19:19
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 20:46
+      label: Zed picks off Orianna
+    - at: 21:36
+      label: Red takes Baron
+      kind: baron
+    - at: 21:51
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:51
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:19
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:21
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:30
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
 - videoId: nLuwu-_KSRw
   title: Zed Jungle vs Viego - EUW Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1571
+  uploaded: 2026-08-09
+  result: W
+  moments:
+    - at: 2:57
+      label: First Blood — Pantheon kills Yorick
+      kind: kill
+    - at: 7:23
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:06
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:27
+      label: Zed eliminates Viktor
+    - at: 15:48
+      label: Zed outplays Viego
+    - at: 16:39
+      label: Zed solo kills Qiyana
+      kind: kill
+    - at: 17:51
+      label: Zed kills Yorick
+      kind: kill
+    - at: 19:15
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:48
+      label: Zed takes down Viego
+    - at: 20:28
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:43
+      label: Zed takes down Viego
+    - at: 24:23
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:37
+      label: Ziggs takes down Viktor
+    - at: 25:06
+      label: Zed takes down Viego
+    - at: 25:12
+      label: Mid Inhibitor falls (Red)
+    - at: 25:30
+      label: Zed catches Thresh
+    - at: 25:35
+      label: Zed Double Kill
+      kind: kill
 - videoId: frD18KnaLw8
   title: Zed Jungle vs Viego (Grell) - NA Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1605
+  uploaded: 2026-07-16
+  result: L
+  moments:
+    - at: 6:56
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:24
+      label: First Blood — Zed kills Quinn
+      kind: kill
+    - at: 10:34
+      label: Zed eliminates Ashe
+    - at: 12:40
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:01
+      label: Zed takes down Viego
+    - at: 14:31
+      label: Viktor picks off Viego
+    - at: 15:46
+      label: Zed takes down Viego
+    - at: 16:28
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:58
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:10
+      label: Jinx picks off Quinn
+    - at: 19:58
+      label: Zed kills Quinn
+      kind: kill
+    - at: 23:24
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:31
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:00
+      label: Red takes Baron
+      kind: baron
+    - at: 25:36
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:00
+      label: Top Inhibitor falls (Blue)
+    - at: 26:16
+      label: Jinx Double Kill
+      kind: kill
 - videoId: cUwG1VNxZpE
   title: Zed Jungle vs Viego - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1684
+  uploaded: 2026-07-09
+  result: L
+  moments:
+    - at: 5:38
+      label: First Blood — Zed kills Pyke
+      kind: kill
+    - at: 11:24
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:49
+      label: Zed picks off Akali
+    - at: 14:24
+      label: Zed outduels Cassiopeia
+    - at: 16:19
+      label: Zed kills Pyke
+      kind: kill
+    - at: 17:16
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:22
+      label: Zed kills Pyke
+      kind: kill
+    - at: 18:10
+      label: Zed takes down Viego
+    - at: 19:46
+      label: Zed outplays Viego
+    - at: 20:19
+      label: Zed eliminates Mel
+    - at: 21:44
+      label: Zed kills Pyke
+      kind: kill
+    - at: 23:25
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:46
+      label: Syndra takes down Mel
+    - at: 25:13
+      label: Zed solo kills Akali
+      kind: kill
+    - at: 25:43
+      label: Zed eliminates Mel
+    - at: 26:29
+      label: Red takes Baron
+      kind: baron
+    - at: 27:07
+      label: Zed takes down Viego
+    - at: 27:32
+      label: Mid Inhibitor falls (Blue)
 - videoId: ihbyKLWnmz8
   title: Zed Jungle vs Viego - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1640
+  uploaded: 2026-07-03
+  result: L
+  moments:
+    - at: 3:05
+      label: First Blood — Cassiopeia kills Volibear
+      kind: kill
+    - at: 5:14
+      label: Zed picks off Sylas
+    - at: 6:10
+      label: Zed takes down Vladimir
+    - at: 8:22
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:42
+      label: Zed picks off Sylas
+    - at: 12:53
+      label: Zed outplays Viego
+    - at: 15:06
+      label: Riven Double Kill
+      kind: kill
+    - at: 15:42
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:38
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:16
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 22:07
+      label: Zed eliminates Vladimir
+    - at: 23:24
+      label: Zed solo kills Viego again
+      kind: kill
+    - at: 23:31
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:42
+      label: Zed solo kills Sylas
+      kind: kill
+    - at: 26:17
+      label: Riven takes down Volibear
+    - at: 26:52
+      label: Mid Inhibitor falls (Blue)
 - videoId: QBaQEVAF5yU
   title: Zed Jungle vs Viego - BR Master Patch 26.12
   rankClaim: Master

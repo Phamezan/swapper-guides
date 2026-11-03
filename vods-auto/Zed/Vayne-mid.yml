@@ -4,10 +4,104 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1751
+  uploaded: 2026-09-12
+  result: W
+  moments:
+    - at: 5:11
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:39
+      label: First Blood — Zed kills Pyke
+      kind: kill
+    - at: 9:38
+      label: Zed solo kills Elise
+      kind: kill
+    - at: 10:35
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:39
+      label: Zed takes down Pyke
+    - at: 16:29
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:32
+      label: Seraphine takes down Tristana
+    - at: 21:47
+      label: K'Sante Double Kill
+      kind: kill
+    - at: 21:58
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:34
+      label: Rakan takes down Vayne
+    - at: 24:54
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:31
+      label: Zed takes down Pyke
+    - at: 26:37
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:00
+      label: Bot Inhibitor falls (Red)
+    - at: 27:41
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 28:24
+      label: Zed Double Kill
+      kind: kill
+    - at: 28:51
+      label: Mid Inhibitor falls (Red)
 - videoId: afka9NCEAL0
   title: (IN5 Alix) Zed Mid vs Vayne - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1457
-  player: Alix
-  team: IN5
+  player: IN5 Alix
+  uploaded: 2026-07-15
+  result: W
+  moments:
+    - at: 6:08
+      label: First Blood — Zed kills Evelynn
+      kind: kill
+    - at: 7:22
+      label: Nunu & Willump picks off Vayne
+    - at: 9:18
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:30
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 10:41
+      label: Zed takes down Pyke
+    - at: 11:11
+      label: Zed takes down Vayne
+    - at: 12:52
+      label: Nunu & Willump picks off Vayne
+    - at: 14:58
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:35
+      label: Zed outplays Galio
+    - at: 17:50
+      label: Zed catches Vayne again
+    - at: 19:06
+      label: Zed catches Rengar
+    - at: 20:26
+      label: Nunu & Willump takes down Evelynn
+    - at: 20:52
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 21:32
+      label: Zed kills Rengar
+      kind: kill
+    - at: 23:01
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:05
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:29
+      label: Mid Inhibitor falls (Red)
+    - at: 23:34
+      label: Zed takes down Pyke

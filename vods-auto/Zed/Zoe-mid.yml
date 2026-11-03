@@ -4,29 +4,305 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1592
+  uploaded: 2026-10-14
+  result: W
+  moments:
+    - at: 5:37
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 6:05
+      label: First Blood — Zed kills Zoe
+      kind: kill
+    - at: 10:40
+      label: Zed eliminates Zoe
+    - at: 11:43
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 11:52
+      label: Nidalee kills Lulu
+      kind: kill
+    - at: 17:39
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:35
+      label: Zed eliminates Zoe
+    - at: 20:32
+      label: Zed kills Yunara
+      kind: kill
+    - at: 22:06
+      label: Red takes Baron
+      kind: baron
+    - at: 23:31
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 23:57
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:33
+      label: Mid Inhibitor falls (Red)
 - videoId: JRiEAOFUMWs
   title: Zed Mid vs Zoe - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1591
+  uploaded: 2026-10-09
+  result: W
+  moments:
+    - at: 5:46
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:53
+      label: First Blood — Nidalee kills Alistar
+      kind: kill
+    - at: 11:08
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 11:35
+      label: Nidalee picks off Zoe
+    - at: 13:18
+      label: Zed catches Yunara
+    - at: 15:10
+      label: Zed picks off Rengar
+    - at: 16:23
+      label: Zed solo kills Rengar
+      kind: kill
+    - at: 16:45
+      label: Olaf Double Kill
+      kind: kill
+    - at: 16:48
+      label: Olaf Triple Kill
+      kind: kill
+    - at: 16:58
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:15
+      label: Zed eliminates Zoe
+    - at: 22:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:30
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 23:08
+      label: Red takes Baron
+      kind: baron
+    - at: 23:43
+      label: Zed takes down Zoe
+    - at: 23:59
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:33
+      label: Zed takes down Rengar again
+    - at: 26:01
+      label: Olaf takes down Yunara
 - videoId: w6Mt4r-wQ6E
   title: (Kaine) Zed Mid vs Zoe (Peaker) - EUW Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 2024
   player: Kaine
+  uploaded: 2026-10-09
+  result: W
+  moments:
+    - at: 3:53
+      label: First Blood — Skarner kills Zoe
+      kind: kill
+    - at: 5:06
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:05
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:27
+      label: Janna eliminates Malphite
+    - at: 15:20
+      label: Zed takes down Lulu
+    - at: 16:19
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:15
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:37
+      label: Zed outduels Lulu
+    - at: 20:42
+      label: Cassiopeia takes down Zoe
+    - at: 21:11
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:42
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:02
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 29:10
+      label: Skarner picks off Zoe
+    - at: 30:12
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 30:14
+      label: Cassiopeia Triple Kill
+      kind: kill
+    - at: 32:29
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 32:37
+      label: Zed Double Kill
+      kind: kill
 - videoId: bgA2eLTozKI
   title: Zed Mid vs Zoe - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1918
+  uploaded: 2026-09-08
+  result: W
+  moments:
+    - at: 5:30
+      label: First Blood — Zed kills Nidalee
+      kind: kill
+    - at: 7:35
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:58
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:15
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 21:26
+      label: Zed catches Yunara
+    - at: 22:12
+      label: Red takes Baron
+      kind: baron
+    - at: 23:05
+      label: Top Inhibitor falls (Blue)
+    - at: 23:24
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:48
+      label: Zeri Triple Kill
+      kind: kill
+    - at: 24:34
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 25:30
+      label: Zed takes down Zoe
+    - at: 26:04
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:15
+      label: Mid Inhibitor falls (Red)
+    - at: 28:36
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:43
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 30:38
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:55
+      label: Zed Double Kill
+      kind: kill
+    - at: 31:33
+      label: Mid Inhibitor falls (Red)
 - videoId: l4ZtHyeKF50
   title: Zed Mid vs Zoe - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1709
+  uploaded: 2026-08-31
+  result: W
+  moments:
+    - at: 3:34
+      label: First Blood — Sylas kills Nidalee
+      kind: kill
+    - at: 8:05
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:55
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 13:32
+      label: Zed catches Ezreal
+    - at: 13:41
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:28
+      label: Zed outplays Yone
+    - at: 16:02
+      label: Jhin picks off Yone
+    - at: 19:43
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 22:15
+      label: Zed takes down Thresh
+    - at: 23:32
+      label: Zed takes down Yone
+    - at: 24:03
+      label: Sylas Double Kill
+      kind: kill
+    - at: 24:30
+      label: Red takes Baron
+      kind: baron
+    - at: 24:51
+      label: Zed outduels Ezreal again
+    - at: 25:29
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:11
+      label: K'Sante eliminates Yone
+    - at: 28:06
+      label: Jhin picks off Yone
+    - at: 28:17
+      label: Top Inhibitor falls (Blue)
 - videoId: 65zVYlAMuVM
   title: Zed Mid vs Zoe - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1799
+  uploaded: 2026-08-22
+  result: L
+  moments:
+    - at: 1:58
+      label: First Blood — Lee Sin kills Bard
+      kind: kill
+    - at: 5:03
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:27
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 12:57
+      label: Zed kills Zeri
+      kind: kill
+    - at: 15:06
+      label: Zed picks off Jarvan IV
+    - at: 16:42
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:38
+      label: Karthus picks off Ambessa
+    - at: 21:40
+      label: Zed picks off Jarvan IV
+    - at: 22:00
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:14
+      label: Zed picks off Jarvan IV
+    - at: 23:50
+      label: Zed takes down Ambessa
+    - at: 26:18
+      label: Zed eliminates Zoe
+    - at: 27:29
+      label: Zed takes down Bard
+    - at: 27:36
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:55
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 28:26
+      label: Red takes Baron
+      kind: baron
+    - at: 29:18
+      label: Zed takes down Bard
+    - at: 29:37
+      label: Mid Inhibitor falls (Blue)

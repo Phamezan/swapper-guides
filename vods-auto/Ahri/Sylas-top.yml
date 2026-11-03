@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1544
+  uploaded: 2026-05-09
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:34
       label: Red takes 1st Dragon (Cloud)
       kind: dragon
@@ -44,5 +43,3 @@
       kind: dragon
     - at: 25:09
       label: Mid Inhibitor falls (Blue)
-    - at: 25:39
-      label: Defeat

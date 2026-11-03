@@ -4,3 +4,47 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1525
+  uploaded: 2026-07-30
+  result: L
+  moments:
+    - at: 3:09
+      label: First Blood — Zed kills Warwick
+      kind: kill
+    - at: 9:01
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:21
+      label: Zed outduels Taliyah
+    - at: 9:30
+      label: Zed Double Kill
+      kind: kill
+    - at: 10:30
+      label: Zed catches Warwick
+    - at: 11:24
+      label: Zed eliminates Warwick
+    - at: 13:53
+      label: Zed eliminates Warwick
+    - at: 14:29
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:19
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:01
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:46
+      label: Zed eliminates Warwick
+    - at: 19:57
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:28
+      label: Jayce eliminates Seraphine
+    - at: 21:04
+      label: Pantheon eliminates Warwick
+    - at: 23:57
+      label: Zed outduels Warwick again
+    - at: 24:46
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:16
+      label: Malzahar eliminates Akali

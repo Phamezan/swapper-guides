@@ -4,28 +4,305 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1998
+  uploaded: 2026-09-27
+  result: W
+  moments:
+    - at: 3:21
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 5:23
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:09
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:11
+      label: Zed outduels Rakan
+    - at: 17:48
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 21:03
+      label: Bot Inhibitor falls (Red)
+    - at: 21:07
+      label: Red takes Baron
+      kind: baron
+    - at: 23:08
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 24:31
+      label: Zed catches Aphelios
+    - at: 25:14
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:20
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 28:27
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:47
+      label: Zed outduels Aphelios again
+    - at: 29:43
+      label: Ekko kills Ahri
+      kind: kill
+    - at: 30:14
+      label: Zed picks off Xin Zhao
+    - at: 31:50
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 32:14
+      label: Zed outplays Ahri
+    - at: 32:19
+      label: Mid Inhibitor falls (Blue)
 - videoId: MS0rIKG21jc
   title: Zed Mid vs Nasus - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1751
+  uploaded: 2026-09-24
+  result: W
+  moments:
+    - at: 6:45
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:45
+      label: First Blood — Zed kills Olaf
+      kind: kill
+    - at: 9:48
+      label: Xin Zhao picks off Nasus
+    - at: 13:07
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 13:22
+      label: Zed kills Kai'Sa
+      kind: kill
+    - at: 14:40
+      label: Xin Zhao picks off Nasus
+    - at: 15:57
+      label: Zed takes down Olaf
+    - at: 18:16
+      label: Xin Zhao takes down Nidalee
+    - at: 20:05
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:14
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:15
+      label: Red takes Baron
+      kind: baron
+    - at: 25:16
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 25:23
+      label: Vladimir picks off Poppy
+    - at: 26:03
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:21
+      label: Zed outplays Olaf
+    - at: 28:06
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: --3obd-L5ZU
   title: Zed Mid vs Nasus - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1843
+  uploaded: 2026-09-14
+  result: W
+  moments:
+    - at: 4:37
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 5:42
+      label: First Blood — Vi kills Nasus
+      kind: kill
+    - at: 7:49
+      label: Zed takes down Nasus
+    - at: 10:31
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:47
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:35
+      label: Zed kills Tristana
+      kind: kill
+    - at: 21:10
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:39
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 22:55
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:49
+      label: Zed kills Tristana
+      kind: kill
+    - at: 25:19
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:50
+      label: Draven Double Kill
+      kind: kill
+    - at: 27:09
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 29:03
+      label: Red takes Baron
+      kind: baron
+    - at: 29:05
+      label: Draven picks off Aurora
+    - at: 29:41
+      label: Zed kills Tristana
+      kind: kill
+    - at: 30:25
+      label: Top Inhibitor falls (Blue)
+    - at: 30:27
+      label: Mid Inhibitor falls (Blue)
 - videoId: _gP73IneqZM
   title: Zed Mid vs Nasus - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1522
+  uploaded: 2026-09-07
+  result: W
+  moments:
+    - at: 3:01
+      label: First Blood — Gwen kills Nasus
+      kind: kill
+    - at: 4:11
+      label: Zed takes down Nasus
+    - at: 7:41
+      label: Zed kills Yunara
+      kind: kill
+    - at: 8:32
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:12
+      label: Zed takes down Olaf
+    - at: 10:29
+      label: Zed picks off Zac
+    - at: 13:06
+      label: Tristana takes down Yunara
+    - at: 13:53
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:44
+      label: Zed takes down Olaf
+    - at: 16:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:24
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 19:34
+      label: Nautilus eliminates Olaf
+    - at: 21:37
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:12
+      label: Gwen picks off Nasus
 - videoId: noXCaFCdXxE
   title: Zed Mid vs Nasus - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 2084
+  uploaded: 2026-09-04
+  result: W
+  moments:
+    - at: 5:36
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:54
+      label: First Blood — Olaf kills Yone
+      kind: kill
+    - at: 10:54
+      label: Zed catches Varus
+    - at: 11:01
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 12:10
+      label: Zed outduels Varus again
+    - at: 16:12
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 18:25
+      label: Zed outplays Varus (3rd time)
+    - at: 20:27
+      label: Zed solo kills Varus (4th time)
+      kind: kill
+    - at: 21:31
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 23:00
+      label: Red takes Baron
+      kind: baron
+    - at: 26:47
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 27:26
+      label: Zed takes down Varus (5th time)
+    - at: 28:16
+      label: Top Inhibitor falls (Blue)
+    - at: 29:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 31:46
+      label: Mid Inhibitor falls (Blue)
+    - at: 32:41
+      label: Kai'Sa eliminates Nocturne
+    - at: 33:13
+      label: Red takes Elder Dragon
+      kind: dragon
+    - at: 33:27
+      label: Qiyana kills Sylas
+      kind: kill
 - videoId: OHWPNXgkDzk
   title: Zed Mid vs Nasus - EUW Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1831
+  uploaded: 2026-08-22
+  result: L
+  moments:
+    - at: 5:09
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 6:46
+      label: First Blood — Amumu kills Nasus
+      kind: kill
+    - at: 11:18
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 11:43
+      label: Zed solo kills Pantheon
+      kind: kill
+    - at: 14:51
+      label: Amumu kills Senna
+      kind: kill
+    - at: 17:07
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:58
+      label: Zed eliminates Nasus
+    - at: 22:34
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 24:55
+      label: Zed eliminates Nasus
+    - at: 26:02
+      label: Zed kills Karma
+      kind: kill
+    - at: 26:41
+      label: Red takes Baron
+      kind: baron
+    - at: 28:10
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:00
+      label: Red takes Elder Dragon
+      kind: dragon
+    - at: 29:36
+      label: Bot Inhibitor falls (Blue)

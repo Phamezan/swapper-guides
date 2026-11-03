@@ -4,3 +4,49 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1656
+  uploaded: 2026-08-19
+  result: L
+  moments:
+    - at: 0:39
+      label: First Blood — Tristana kills Pantheon
+      kind: kill
+    - at: 4:42
+      label: Taliyah kills Pantheon
+      kind: kill
+    - at: 7:48
+      label: Tristana takes down Viktor
+    - at: 8:09
+      label: Zed solo kills Pantheon
+      kind: kill
+    - at: 9:39
+      label: Zed picks off Viktor
+    - at: 10:28
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:48
+      label: Zed takes down Pantheon again
+    - at: 11:36
+      label: Taliyah takes down Lee Sin
+    - at: 12:26
+      label: Xerath takes down Jax
+    - at: 13:02
+      label: Tristana picks off Pantheon
+    - at: 13:58
+      label: Xerath eliminates Yasuo
+    - at: 16:00
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:02
+      label: Tristana picks off Pantheon
+    - at: 22:24
+      label: Tristana takes down Viktor
+    - at: 22:47
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 23:16
+      label: Red takes Baron
+      kind: baron
+    - at: 24:32
+      label: Tristana picks off Pantheon
+    - at: 24:46
+      label: Mid Inhibitor falls (Blue)

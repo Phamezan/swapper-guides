@@ -4,41 +4,28 @@
   rankClaim: Master
   patch: "26.7"
   durationSec: 1711
+  uploaded: 2026-04-07
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 2:50
       label: Team FIGHT
       kind: teamfight
-    - at: 3:18
-      label: Gameplay
     - at: 6:42
       label: Hunt The Dragon
       kind: dragon
     - at: 7:00
       label: Team FIGHT
       kind: teamfight
-    - at: 7:25
-      label: Gameplay
     - at: 8:01
       label: Team FIGHT
       kind: teamfight
-    - at: 8:29
-      label: Gameplay
     - at: 9:54
       label: Get a Double Kill
       kind: kill
-    - at: 10:29
-      label: Gameplay
     - at: 11:13
       label: Team FIGHT
       kind: teamfight
-    - at: 11:41
-      label: Gameplay
     - at: 12:05
       label: Hunt The Dragon
       kind: dragon
@@ -48,36 +35,24 @@
     - at: 12:55
       label: Get a SOLO KILL
       kind: kill
-    - at: 13:21
-      label: Gameplay
     - at: 15:23
       label: Hunt The Rift Herald
       kind: herald
-    - at: 15:51
-      label: Gameplay
     - at: 17:15
       label: Team FIGHT
       kind: teamfight
-    - at: 17:45
-      label: Gameplay
     - at: 18:27
       label: Team FIGHT
       kind: teamfight
-    - at: 18:57
-      label: Gameplay
     - at: 20:00
       label: Team FIGHT
       kind: teamfight
-    - at: 21:25
-      label: Gameplay
     - at: 22:35
       label: Get a Double Kill
       kind: kill
     - at: 23:10
       label: Get a SOLO KILL
       kind: kill
-    - at: 23:43
-      label: Gameplay
     - at: 24:12
       label: Team FIGHT
       kind: teamfight
@@ -86,8 +61,6 @@
     - at: 25:10
       label: Take down The Turret
       kind: tower
-    - at: 25:28
-      label: Gameplay
     - at: 27:33
       label: Get a Triple Kill
       kind: kill
@@ -103,28 +76,19 @@
   rankClaim: Master
   patch: "26.6"
   durationSec: 1616
+  uploaded: 2026-03-29
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 2:27
       label: Team FIGHT
       kind: teamfight
-    - at: 3:31
-      label: Gameplay
     - at: 6:36
       label: Team FIGHT
       kind: teamfight
-    - at: 7:21
-      label: Gameplay
     - at: 8:51
       label: Team FIGHT
       kind: teamfight
-    - at: 9:19
-      label: Gameplay
     - at: 10:29
       label: Team FIGHT
       kind: teamfight
@@ -134,16 +98,12 @@
     - at: 11:20
       label: Team FIGHT
       kind: teamfight
-    - at: 11:40
-      label: Gameplay
     - at: 12:15
       label: Team FIGHT
       kind: teamfight
     - at: 12:43
       label: Hunt The Dragon
       kind: dragon
-    - at: 13:11
-      label: Gameplay
     - at: 14:00
       label: Team FIGHT
       kind: teamfight
@@ -153,8 +113,6 @@
     - at: 15:17
       label: Team FIGHT
       kind: teamfight
-    - at: 15:34
-      label: Gameplay
     - at: 16:53
       label: Team FIGHT
       kind: teamfight
@@ -164,8 +122,6 @@
     - at: 17:45
       label: Team FIGHT
       kind: teamfight
-    - at: 18:04
-      label: Gameplay
     - at: 19:15
       label: Team FIGHT
       kind: teamfight
@@ -180,8 +136,6 @@
       kind: tower
     - at: 19:54
       label: Take down The Inhibitor
-    - at: 20:19
-      label: Gameplay
     - at: 23:01
       label: Team FIGHT
       kind: teamfight
@@ -191,13 +145,9 @@
     - at: 23:22
       label: Hunt The Baron Nashor
       kind: baron
-    - at: 23:37
-      label: Gameplay
     - at: 25:05
       label: Hunt The Dragon
       kind: dragon
-    - at: 25:33
-      label: Gameplay
     - at: 26:06
       label: Team FIGHT
       kind: teamfight

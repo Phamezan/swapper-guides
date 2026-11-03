@@ -6,10 +6,9 @@
   durationSec: 1620
   player: Xiaohao
   team: WBG
+  uploaded: 2026-10-28
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 6:27
       label: Blue takes 1st Dragon (Hextech)
       kind: dragon
@@ -51,18 +50,15 @@
       kind: kill
     - at: 26:31
       label: Mid Inhibitor falls (Red)
-    - at: 26:55
-      label: Victory
 - videoId: QE-Hu0jQLgg
   title: (MagiFelix) Ahri Mid vs Twisted Fate (Tea) - EUW Challenger Patch 26.20
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1742
   player: MagiFelix
+  uploaded: 2026-10-12
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:25
       label: First Blood — Quinn kills Hecarim
       kind: kill
@@ -111,17 +107,14 @@
       kind: kill
     - at: 28:31
       label: Mid Inhibitor falls (Blue)
-    - at: 28:57
-      label: Victory
 - videoId: DEZG6ULJVDM
   title: Ahri Mid vs Twisted Fate - KR Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1499
+  uploaded: 2026-09-28
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:16
       label: First Blood — Yunara kills Twisted Fate
       kind: kill
@@ -162,17 +155,14 @@
       label: Mid Inhibitor falls (Blue)
     - at: 24:10
       label: Ahri eliminates Twisted Fate
-    - at: 24:36
-      label: Victory
 - videoId: tMo-ELPMqv4
   title: Ahri Mid vs Twisted Fate (BDG Ronaldo) - EUW Grandmaster Patch 26.19
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1703
+  uploaded: 2026-09-26
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:49
       label: Red takes 1st Dragon (Hextech)
       kind: dragon
@@ -221,17 +211,109 @@
       kind: kill
     - at: 27:55
       label: Bot Inhibitor falls (Blue)
-    - at: 28:18
-      label: Victory
 - videoId: lkddKl0HsWs
   title: Ahri Mid vs Twisted Fate - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1474
+  uploaded: 2026-08-28
+  result: W
+  moments:
+    - at: 5:27
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:37
+      label: First Blood — Jax kills Olaf
+      kind: kill
+    - at: 7:54
+      label: Ahri takes down Twisted Fate
+    - at: 12:29
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:48
+      label: Ahri catches Jhin
+    - at: 14:54
+      label: Ahri Double Kill
+      kind: kill
+    - at: 16:33
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:11
+      label: Ahri solo kills Kindred
+      kind: kill
+    - at: 18:38
+      label: Qiyana kills Fiddlesticks
+      kind: kill
+    - at: 18:57
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 20:06
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:31
+      label: Qiyana Triple Kill
+      kind: kill
+    - at: 21:10
+      label: Bot Inhibitor falls (Blue)
+    - at: 21:14
+      label: Mid Inhibitor falls (Blue)
+    - at: 21:51
+      label: Ahri takes down Kindred again
+    - at: 22:20
+      label: Red takes Baron
+      kind: baron
+    - at: 23:34
+      label: Top Inhibitor falls (Blue)
 - videoId: DCfUrXndN0w
   title: (F0X Improver) Ahri Mid vs Twisted Fate - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1758
-  player: Improver
-  team: F0X
+  player: F0X Improver
+  uploaded: 2026-07-31
+  result: W
+  moments:
+    - at: 2:40
+      label: First Blood — Viego kills Twisted Fate
+      kind: kill
+    - at: 4:01
+      label: Ahri takes down Twisted Fate
+    - at: 6:23
+      label: Viego Triple Kill
+      kind: kill
+    - at: 8:41
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:30
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:57
+      label: Xerath kills Twisted Fate
+      kind: kill
+    - at: 19:06
+      label: Xerath kills Twisted Fate
+      kind: kill
+    - at: 20:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:02
+      label: Viego takes down Bel'Veth
+    - at: 24:20
+      label: Viego kills Nautilus
+      kind: kill
+    - at: 25:04
+      label: Xerath eliminates Bel'Veth
+    - at: 26:11
+      label: Ahri catches Viktor
+    - at: 26:27
+      label: Senna eliminates Nasus
+    - at: 26:55
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 27:35
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 28:39
+      label: Mid Inhibitor falls (Red)
+    - at: 28:55
+      label: Bot Inhibitor falls (Red)

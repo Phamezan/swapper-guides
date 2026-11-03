@@ -4,12 +4,10 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1863
-  player: Nae
-  team: MKF
+  player: MKF Nae
+  uploaded: 2026-10-13
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:01
       label: First Blood — Blitzcrank kills Riven
       kind: kill
@@ -57,5 +55,3 @@
       label: Mid Inhibitor falls (Blue)
     - at: 30:44
       label: Bot Inhibitor falls (Blue)
-    - at: 30:58
-      label: Victory

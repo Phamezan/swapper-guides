@@ -4,8 +4,102 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1474
+  uploaded: 2026-08-11
+  result: L
+  moments:
+    - at: 4:07
+      label: First Blood — Zed kills Teemo
+      kind: kill
+    - at: 8:06
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:10
+      label: Zed eliminates Teemo
+    - at: 11:56
+      label: Zed catches Teemo
+    - at: 12:02
+      label: Zed Double Kill
+      kind: kill
+    - at: 12:25
+      label: Rell kills Kayn
+      kind: kill
+    - at: 13:36
+      label: Kog'Maw takes down Draven
+    - at: 14:07
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:36
+      label: Zed eliminates Teemo
+    - at: 16:16
+      label: Zed outduels Kayn
+    - at: 18:32
+      label: Mid Inhibitor falls (Blue)
+    - at: 19:42
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 19:58
+      label: Zed eliminates Teemo
+    - at: 21:36
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:09
+      label: Red takes Baron
+      kind: baron
+    - at: 23:01
+      label: Zed outduels Teemo again
+    - at: 23:07
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:29
+      label: Bot Inhibitor falls (Blue)
 - videoId: lXJJyjui-QY
   title: Zed Top vs Teemo - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1871
+  uploaded: 2026-07-02
+  result: L
+  moments:
+    - at: 3:36
+      label: First Blood — Zed kills Teemo
+      kind: kill
+    - at: 7:34
+      label: Zed catches Teemo
+    - at: 10:58
+      label: Zed outduels Teemo again
+    - at: 13:43
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:16
+      label: Zed solo kills Jhin
+      kind: kill
+    - at: 15:46
+      label: Zed outplays Sylas
+    - at: 18:59
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 24:12
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 25:00
+      label: Zed solo kills Sylas again
+      kind: kill
+    - at: 26:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:44
+      label: Zed takes down Jhin again
+    - at: 28:16
+      label: Kassadin takes down Teemo
+    - at: 29:05
+      label: Zed Double Kill
+      kind: kill
+    - at: 29:36
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 30:15
+      label: Zed outduels Jhin (4th time)
+    - at: 30:20
+      label: Aatrox takes down Graves
+    - at: 30:41
+      label: Mid Inhibitor falls (Blue)

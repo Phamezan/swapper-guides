@@ -4,6 +4,54 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1613
+  uploaded: 2026-08-01
+  result: L
+  moments:
+    - at: 2:35
+      label: First Blood — Zed kills Hecarim
+      kind: kill
+    - at: 4:37
+      label: Yuumi picks off Ashe
+    - at: 5:01
+      label: Zed eliminates Hecarim
+    - at: 8:54
+      label: Zed picks off Karma
+    - at: 10:13
+      label: Zed picks off Karma
+    - at: 10:49
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:14
+      label: Zed takes down Ashe
+    - at: 14:39
+      label: Zed kills Aurelion Sol
+      kind: kill
+    - at: 15:51
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:40
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:33
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:00
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:14
+      label: Zed takes down Ashe
+    - at: 23:08
+      label: Zed eliminates Hecarim
+    - at: 23:38
+      label: Red takes Baron
+      kind: baron
+    - at: 25:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:16
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:41
+      label: Top Inhibitor falls (Blue)
 - videoId: vtt5_kEFr5c
   title: Zed ADC vs Ashe - NA Master Patch 26.12
   rankClaim: Master

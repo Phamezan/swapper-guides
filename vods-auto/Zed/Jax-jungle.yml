@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1424
+  uploaded: 2026-09-29
+  result: W
+  moments:
+    - at: 2:27
+      label: First Blood — Zed kills Orianna
+      kind: kill
+    - at: 4:36
+      label: Zed takes down Kai'Sa
+    - at: 8:30
+      label: Zed solo kills Orianna
+      kind: kill
+    - at: 9:36
+      label: Zed catches Morgana
+    - at: 11:03
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:59
+      label: Zed takes down Jax
+    - at: 14:40
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:41
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:49
+      label: Zed kills Morgana
+      kind: kill
+    - at: 18:04
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 18:58
+      label: Zed outplays Jax
+    - at: 19:14
+      label: Camille eliminates Cho'Gath
+    - at: 21:44
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:09
+      label: Zed takes down Orianna again
+    - at: 22:57
+      label: Camille Double Kill
+      kind: kill
+    - at: 23:00
+      label: Camille Triple Kill
+      kind: kill
+    - at: 23:17
+      label: Mid Inhibitor falls (Red)
+    - at: 23:25
+      label: Camille takes down Orianna

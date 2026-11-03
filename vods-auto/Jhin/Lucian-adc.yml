@@ -4,8 +4,27 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1195
+  region: NA
   player: Peyz
   team: T1
+  uploaded: 2026-11-02
+- videoId: xeRsKSWZbXo
+  title: BLG Viper Jhin vs Lucian [ ADC ] Korea Challenger 2205 LP | Patch 26.18
+  rankClaim: Challenger
+  patch: "26.18"
+  durationSec: 1742
+  region: KR
+  player: Viper
+  team: BLG
+  uploaded: 2026-09-13
+- videoId: tDFr5O4Sk4o
+  title: HLE Gumayusi Jhin vs Lucian [ ADC ] Korea Challenger 2560 LP | Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1243
+  region: KR
+  player: Gumayusi
+  team: HLE
 - videoId: c5dE8MOldDc
   title: Jhin vs Lucian ADC - KR Grandmaster - Patch 16.6 Season 16
   rankClaim: Grandmaster

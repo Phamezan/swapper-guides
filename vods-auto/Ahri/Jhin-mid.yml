@@ -6,10 +6,9 @@
   durationSec: 1814
   player: Angel
   team: EDG
+  uploaded: 2026-08-10
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:24
       label: First Blood — Ahri kills Alistar
       kind: kill
@@ -40,5 +39,3 @@
       label: Ahri picks off Jayce
     - at: 29:07
       label: Mid Inhibitor falls (Red)
-    - at: 29:34
-      label: Victory

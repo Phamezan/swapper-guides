@@ -5,3 +5,53 @@
   patch: "26.17"
   durationSec: 1921
   player: Gumayusi
+  uploaded: 2026-08-31
+- videoId: YXRw60g9G7A
+  title: HLE Gumayusi Sivir vs Varus [ ADC ] Korea Challenger 2512 LP | Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1698
+  region: KR
+  player: Gumayusi
+  team: HLE
+  uploaded: 2026-08-27
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 3:48
+      label: Mid-lane skirmishes
+    - at: 7:32
+      label: Objective control and ganks
+    - at: 11:55
+      label: Mid-game tactical shifts
+    - at: 16:41
+      label: Baron and dragon contention
+      kind: baron
+    - at: 21:23
+      label: Late game sieging
+    - at: 25:25
+      label: Final push and victory
+- videoId: kfeowkrHmQ0
+  title: BLG Viper Sivir vs Varus [ ADC ] Korea Challenger 1421 LP | Patch 26.4
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 2213
+  region: KR
+  player: Viper
+  team: BLG
+- videoId: ydvWRF2AWUg
+  title: T1 Peyz Sivir vs Varus [ ADC ] Korea Challenger 1916 LP | Patch 26.3
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1264
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: IZ9CaYw73Eg
+  title: HLE Gumayusi Sivir vs Varus [ ADC ] Korea Challenger 1566 LP | Patch 26.3
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1381
+  region: KR
+  player: Gumayusi
+  team: HLE

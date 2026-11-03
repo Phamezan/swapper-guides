@@ -4,62 +4,43 @@
   rankClaim: Master
   patch: "26.7"
   durationSec: 1801
+  uploaded: 2026-04-12
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 4:19
       label: Get a SOLO KILL
       kind: kill
-    - at: 4:47
-      label: Gameplay
     - at: 7:26
       label: Get a SOLO KILL
       kind: kill
-    - at: 7:54
-      label: Gameplay
     - at: 10:32
       label: Get a SOLO KILL
       kind: kill
-    - at: 11:00
-      label: Gameplay
     - at: 11:55
       label: Get a SOLO KILL
       kind: kill
-    - at: 12:23
-      label: Gameplay
     - at: 15:16
       label: Get a SOLO KILL
       kind: kill
     - at: 15:35
       label: Take down The Turret
       kind: tower
-    - at: 15:54
-      label: Gameplay
     - at: 16:34
       label: Get a SOLO KILL
       kind: kill
     - at: 16:59
       label: Hunt The Dragon
       kind: dragon
-    - at: 17:24
-      label: Gameplay
     - at: 17:55
       label: Team FIGHT
       kind: teamfight
     - at: 18:13
       label: Take down The Turret
       kind: tower
-    - at: 18:31
-      label: Gameplay
     - at: 19:28
       label: Team FIGHT
       kind: teamfight
-    - at: 19:56
-      label: Gameplay
     - at: 21:40
       label: Take down The Turret
       kind: tower
@@ -69,13 +50,9 @@
     - at: 22:38
       label: Team FIGHT
       kind: teamfight
-    - at: 23:24
-      label: Gameplay
     - at: 24:53
       label: Team FIGHT
       kind: teamfight
-    - at: 25:35
-      label: Gameplay
     - at: 27:23
       label: Get a Triple Kill
       kind: kill

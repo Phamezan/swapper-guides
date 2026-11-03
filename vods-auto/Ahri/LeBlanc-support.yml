@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1558
+  uploaded: 2026-08-01
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:38
       label: First Blood — Zyra kills Kai'Sa
       kind: kill
@@ -51,5 +50,3 @@
     - at: 25:35
       label: Katarina Triple Kill
       kind: kill
-    - at: 25:53
-      label: Defeat

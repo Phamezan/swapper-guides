@@ -4,16 +4,152 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1562
+  uploaded: 2026-10-28
+  result: W
+  moments:
+    - at: 4:47
+      label: Zed kills Olaf
+      kind: kill
+    - at: 5:21
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:47
+      label: Zed takes down Xin Zhao
+    - at: 13:09
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:19
+      label: Syndra eliminates Locke
+    - at: 14:42
+      label: Zed takes down Xin Zhao
+    - at: 16:50
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:00
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:47
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 19:43
+      label: Red takes Baron
+      kind: baron
+    - at: 22:11
+      label: Zed takes down Jhin
+    - at: 23:28
+      label: Zed takes down Xin Zhao
+    - at: 23:52
+      label: Mid Inhibitor falls (Red)
+    - at: 24:50
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:52
+      label: Zed picks off Locke
 - videoId: AOzQ_syp1uc
   title: Zed Jungle vs Xin Zhao (GLSH Dream) - EUW Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1593
+  uploaded: 2026-08-16
+  result: W
+  moments:
+    - at: 3:01
+      label: First Blood — Shen kills LeBlanc
+      kind: kill
+    - at: 6:54
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 9:39
+      label: Zed picks off LeBlanc
+    - at: 10:02
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:25
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 14:19
+      label: Zed takes down Xin Zhao
+    - at: 14:52
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:36
+      label: Zed eliminates Swain
+    - at: 15:54
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:57
+      label: Zed picks off LeBlanc
+    - at: 17:30
+      label: Kai'Sa takes down Swain
+    - at: 19:53
+      label: Twisted Fate kills Swain
+      kind: kill
+    - at: 20:54
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:28
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 24:24
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:11
+      label: Mid Inhibitor falls (Red)
+    - at: 25:25
+      label: Twisted Fate takes down Pantheon
 - videoId: ZE1cfLK0_jk
   title: Zed Jungle vs Xin Zhao (Lvsyan) - EUW Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1458
+  uploaded: 2026-08-04
+  result: W
+  moments:
+    - at: 2:37
+      label: First Blood — Sylas kills Kassadin
+      kind: kill
+    - at: 4:22
+      label: Zed solo kills Kassadin
+      kind: kill
+    - at: 6:41
+      label: Zed takes down Kassadin again
+    - at: 8:49
+      label: Sylas kills Yasuo
+      kind: kill
+    - at: 9:14
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:27
+      label: Sylas eliminates Kassadin
+    - at: 10:47
+      label: Zed takes down Xin Zhao
+    - at: 12:10
+      label: Sylas picks off Xin Zhao
+    - at: 13:20
+      label: Zed outplays Xin Zhao
+    - at: 14:24
+      label: Vayne kills Kassadin
+      kind: kill
+    - at: 15:17
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:25
+      label: Zed eliminates Yasuo
+    - at: 17:47
+      label: Zed kills Galio
+      kind: kill
+    - at: 20:16
+      label: Zed picks off Kassadin
+    - at: 21:41
+      label: Zed catches Kassadin (3rd time)
+    - at: 21:57
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:52
+      label: Mid Inhibitor falls (Red)
 - videoId: -A2K4apg5EM
   title: Zed Jungle vs Xin Zhao - KR Master Patch 26.12
   rankClaim: Master

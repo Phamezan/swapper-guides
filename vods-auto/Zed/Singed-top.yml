@@ -4,6 +4,43 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1483
+  uploaded: 2026-07-26
+  result: W
+  moments:
+    - at: 10:37
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:56
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 12:01
+      label: Zed Double Kill
+      kind: kill
+    - at: 14:22
+      label: Zed Double Kill
+      kind: kill
+    - at: 15:34
+      label: Zed catches Singed
+    - at: 16:47
+      label: Zed outplays Yone
+    - at: 16:57
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:25
+      label: Vex takes down Singed
+    - at: 19:36
+      label: Xerath Double Kill
+      kind: kill
+    - at: 21:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:48
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:20
+      label: Bot Inhibitor falls (Red)
+    - at: 23:40
+      label: Mid Inhibitor falls (Red)
 - videoId: lF1nZQOPpq4
   title: Zed Top vs Singed - EUNE Master Patch 26.08
   rankClaim: Master

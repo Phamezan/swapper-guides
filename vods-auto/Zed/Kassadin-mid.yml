@@ -4,5 +4,50 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1685
-  player: Yikesuo
-  team: BGT
+  player: BGT Yikesuo
+  uploaded: 2026-08-20
+  result: L
+  moments:
+    - at: 9:05
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:31
+      label: First Blood — Brand kills Ivern
+      kind: kill
+    - at: 14:29
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:30
+      label: Yasuo picks off Nilah
+    - at: 17:59
+      label: Zed eliminates Kassadin
+    - at: 19:43
+      label: Red takes Baron
+      kind: baron
+    - at: 19:55
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:19
+      label: Zed kills Nilah
+      kind: kill
+    - at: 21:08
+      label: Viktor picks off Alistar
+    - at: 21:38
+      label: Zed kills Nilah
+      kind: kill
+    - at: 21:58
+      label: Zed eliminates Kassadin
+    - at: 24:58
+      label: Zed kills Nilah
+      kind: kill
+    - at: 25:49
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:22
+      label: Sona Double Kill
+      kind: kill
+    - at: 26:35
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 26:54
+      label: Mid Inhibitor falls (Blue)

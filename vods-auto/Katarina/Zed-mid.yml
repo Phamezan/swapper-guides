@@ -4,11 +4,13 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 2146
+  uploaded: 2026-10-05
 - videoId: jMT3nwU2GVs
   title: Katarina vs Zed MId - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1590
+  uploaded: 2026-09-04
 - videoId: hV-LRCDUvHE
   title: Katarina vs Zed Mid - EUW Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
@@ -19,3 +21,9 @@
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1741
+- videoId: tBqHfkDiJJQ
+  title: Katarina vs Zed [ MID ] Korea Grandmaster 658 LP | Patch 26.1 ✅
+  rankClaim: Grandmaster
+  patch: "26.1"
+  durationSec: 1511
+  region: KR

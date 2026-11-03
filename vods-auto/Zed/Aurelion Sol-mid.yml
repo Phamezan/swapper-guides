@@ -4,8 +4,107 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1863
+  uploaded: 2026-10-23
+  result: W
+  moments:
+    - at: 5:11
+      label: First Blood — Nocturne kills Graves
+      kind: kill
+    - at: 8:56
+      label: Zed takes down Aurelion Sol
+    - at: 9:51
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:46
+      label: Zed catches Ezreal
+    - at: 16:07
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 22:30
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 25:19
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:14
+      label: Zed solo kills Graves
+      kind: kill
+    - at: 27:43
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 28:30
+      label: Sylas eliminates Blitzcrank
+    - at: 28:40
+      label: Zed takes down Graves again
+    - at: 29:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 29:38
+      label: Zed outplays Jayce
+    - at: 30:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:20
+      label: Mid Inhibitor falls (Red)
+    - at: 30:33
+      label: Top Inhibitor falls (Red)
+    - at: 30:46
+      label: Bot Inhibitor falls (Red)
+    - at: 30:49
+      label: Zed Double Kill
+      kind: kill
 - videoId: ZyfukIxUk5E
   title: Zed Mid vs Aurelion Sol - KR Grandmaster Patch 26.18
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1731
+  uploaded: 2026-09-25
+  result: W
+  moments:
+    - at: 7:51
+      label: First Blood — Zed kills Aurelion Sol
+      kind: kill
+    - at: 10:41
+      label: Qiyana kills Camille
+      kind: kill
+    - at: 12:46
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 12:56
+      label: Zed Triple Kill
+      kind: kill
+    - at: 13:55
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 18:20
+      label: Zed outduels Braum
+    - at: 19:15
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:12
+      label: Bot Inhibitor falls (Red)
+    - at: 21:00
+      label: Mid Inhibitor falls (Red)
+    - at: 21:33
+      label: Red takes Baron
+      kind: baron
+    - at: 21:42
+      label: Zed picks off Rengar
+    - at: 24:26
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:34
+      label: Zed takes down Camille
+    - at: 27:44
+      label: Blue takes Baron
+      kind: baron
+    - at: 28:04
+      label: Caitlyn Double Kill
+      kind: kill
+    - at: 28:25
+      label: Mid Inhibitor falls (Red)
+    - at: 28:36
+      label: Zed takes down Braum

@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1814
+  uploaded: 2026-05-13
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:26
       label: First Blood — Ahri kills Kog'Maw
       kind: kill
@@ -55,5 +54,3 @@
     - at: 29:50
       label: Nautilus kills Hecarim
       kind: kill
-    - at: 30:09
-      label: Defeat

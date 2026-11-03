@@ -4,48 +4,31 @@
   rankClaim: Master
   patch: "26.3"
   durationSec: 1665
+  uploaded: 2026-02-17
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 3:34
       label: Team FIGHT
       kind: teamfight
-    - at: 4:02
-      label: Gameplay
     - at: 5:17
       label: Team FIGHT
       kind: teamfight
-    - at: 5:45
-      label: Gameplay
     - at: 8:45
       label: Team FIGHT
       kind: teamfight
-    - at: 9:13
-      label: Gameplay
     - at: 9:53
       label: Team FIGHT
       kind: teamfight
-    - at: 10:21
-      label: Gameplay
     - at: 12:00
       label: Team FIGHT
       kind: teamfight
-    - at: 12:28
-      label: Gameplay
     - at: 14:40
       label: Team FIGHT
       kind: teamfight
-    - at: 15:08
-      label: Gameplay
     - at: 22:44
       label: Team FIGHT
       kind: teamfight
-    - at: 23:19
-      label: Gameplay
     - at: 24:27
       label: Take down The Turret
       kind: tower
@@ -59,8 +42,6 @@
       kind: tower
     - at: 25:33
       label: Take down The Inhibitor
-    - at: 25:49
-      label: Gameplay
     - at: 26:43
       label: Team FIGHT
       kind: teamfight

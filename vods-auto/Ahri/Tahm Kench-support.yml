@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1670
+  uploaded: 2026-07-05
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:48
       label: First Blood — Caitlyn kills Lee Sin
       kind: kill
@@ -51,5 +50,3 @@
       kind: teamfight
     - at: 27:03
       label: Top Inhibitor falls (Blue)
-    - at: 27:10
-      label: Defeat

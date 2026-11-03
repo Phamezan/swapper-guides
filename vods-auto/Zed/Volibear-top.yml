@@ -4,3 +4,50 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1858
+  uploaded: 2026-08-15
+  result: W
+  moments:
+    - at: 6:58
+      label: First Blood — Dr. Mundo kills Volibear
+      kind: kill
+    - at: 9:17
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:29
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:58
+      label: Ashe eliminates Volibear
+    - at: 19:14
+      label: Zed eliminates Volibear
+    - at: 19:46
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:02
+      label: Xerath kills Yone
+      kind: kill
+    - at: 22:29
+      label: Zed outduels Kha'Zix
+    - at: 24:01
+      label: Akali eliminates Yone
+    - at: 24:41
+      label: Red takes Baron
+      kind: baron
+    - at: 25:30
+      label: Zed kills Kha'Zix
+      kind: kill
+    - at: 25:50
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 26:14
+      label: Xerath picks off Volibear
+    - at: 27:02
+      label: Zed takes down Yone
+    - at: 29:15
+      label: Zed catches Volibear
+    - at: 29:55
+      label: Akali eliminates Yone
+    - at: 30:21
+      label: Zed outplays Kha'Zix again
+    - at: 30:33
+      label: Mid Inhibitor falls (Red)

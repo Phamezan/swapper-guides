@@ -4,13 +4,140 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1407
+  uploaded: 2026-08-11
+  result: W
+  moments:
+    - at: 5:47
+      label: First Blood — Zed kills Viktor
+      kind: kill
+    - at: 6:32
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:24
+      label: Zed outduels Viktor
+    - at: 11:49
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:05
+      label: Zed catches Qiyana
+    - at: 17:13
+      label: Zed kills Qiyana
+      kind: kill
+    - at: 17:39
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 18:53
+      label: Zed outplays Viktor again
+    - at: 19:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:02
+      label: Mid Inhibitor falls (Red)
+    - at: 22:45
+      label: Zyra Double Kill
+      kind: kill
 - videoId: pWshg2ngnMc
   title: Zed ADC vs Viktor - KR Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1845
+  uploaded: 2026-07-20
+  result: L
+  moments:
+    - at: 2:33
+      label: First Blood — Jarvan IV kills Sylas
+      kind: kill
+    - at: 9:49
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:55
+      label: Zed takes down Sylas
+    - at: 13:14
+      label: Karma takes down Qiyana
+    - at: 14:34
+      label: Zed catches Qiyana
+    - at: 15:57
+      label: Jarvan IV kills Camille
+      kind: kill
+    - at: 17:41
+      label: Zed eliminates Sylas
+    - at: 20:09
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 24:29
+      label: Zed picks off Lux
+    - at: 25:14
+      label: Jarvan IV takes down Sylas
+    - at: 26:06
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 26:49
+      label: Illaoi picks off Viktor
+    - at: 27:18
+      label: Zed eliminates Sylas
+    - at: 28:03
+      label: Zed takes down Viktor
+    - at: 28:09
+      label: Top Inhibitor falls (Blue)
+    - at: 28:36
+      label: Red takes Baron
+      kind: baron
+    - at: 29:36
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 30:19
+      label: Bot Inhibitor falls (Blue)
 - videoId: zIvfJxyfLdo
   title: Zed ADC vs Viktor - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1580
+  uploaded: 2026-07-19
+  result: W
+  moments:
+    - at: 2:29
+      label: First Blood — Zed kills Jarvan IV
+      kind: kill
+    - at: 2:45
+      label: Zed outduels Viktor
+    - at: 10:21
+      label: Zed outplays Viktor again
+    - at: 12:09
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:21
+      label: Zed outplays Heimerdinger
+    - at: 14:00
+      label: Zed solo kills Viktor (3rd time)
+      kind: kill
+    - at: 14:39
+      label: Zed picks off Heimerdinger
+    - at: 15:38
+      label: Leona picks off Viktor
+    - at: 16:39
+      label: Leona eliminates Heimerdinger
+    - at: 17:27
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 17:56
+      label: Zed catches Qiyana
+    - at: 20:08
+      label: Zed outduels Qiyana again
+    - at: 21:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:50
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:05
+      label: Zed picks off Heimerdinger
+    - at: 23:35
+      label: Zed kills Qiyana
+      kind: kill
+    - at: 25:23
+      label: Mid Inhibitor falls (Red)
+    - at: 25:31
+      label: Zed outplays Qiyana (3rd time)

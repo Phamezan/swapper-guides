@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1676
+  uploaded: 2026-08-18
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:20
       label: First Blood — Ahri kills Nami
       kind: kill
@@ -50,55 +49,36 @@
       kind: kill
     - at: 27:26
       label: Top Inhibitor falls (Red)
-    - at: 27:51
-      label: Victory
 - videoId: Ej2BTSJlvFM
   title: Ahri Support vs Nami - NA Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1621
+  uploaded: 2026-02-22
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 2:55
       label: Team FIGHT
       kind: teamfight
-    - at: 4:01
-      label: Gameplay
     - at: 7:25
       label: Team FIGHT
       kind: teamfight
-    - at: 7:53
-      label: Gameplay
     - at: 8:51
       label: Team FIGHT
       kind: teamfight
-    - at: 9:29
-      label: Gameplay
     - at: 10:25
       label: Team FIGHT
       kind: teamfight
-    - at: 10:56
-      label: Gameplay
     - at: 13:07
       label: Team FIGHT
       kind: teamfight
-    - at: 13:35
-      label: Gameplay
     - at: 14:08
       label: Team FIGHT
       kind: teamfight
-    - at: 15:22
-      label: Gameplay
     - at: 18:49
       label: Get a SOLO KILL
       kind: kill
-    - at: 19:24
-      label: Gameplay
     - at: 22:37
       label: Team FIGHT
       kind: teamfight
@@ -113,8 +93,6 @@
     - at: 24:08
       label: Team FIGHT
       kind: teamfight
-    - at: 24:40
-      label: Gameplay
     - at: 25:19
       label: Get a SOLO KILL
       kind: kill
@@ -136,56 +114,37 @@
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1552
+  uploaded: 2026-01-21
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
-    - at: 1:37
-      label: Gameplay
     - at: 5:16
       label: Team FIGHT
       kind: teamfight
-    - at: 5:44
-      label: Gameplay
     - at: 7:33
       label: Team FIGHT
       kind: teamfight
-    - at: 8:01
-      label: Gameplay
     - at: 10:59
       label: Team FIGHT
       kind: teamfight
-    - at: 11:27
-      label: Gameplay
     - at: 12:59
       label: Team FIGHT
       kind: teamfight
-    - at: 13:27
-      label: Gameplay
     - at: 16:01
       label: Team FIGHT
       kind: teamfight
-    - at: 16:51
-      label: Gameplay
     - at: 18:59
       label: Team FIGHT
       kind: teamfight
-    - at: 19:30
-      label: Gameplay
     - at: 20:52
       label: Team FIGHT
       kind: teamfight
-    - at: 21:23
-      label: Gameplay
     - at: 22:42
       label: Team FIGHT
       kind: teamfight
     - at: 23:13
       label: Take down The Turret
       kind: tower
-    - at: 23:32
-      label: Gameplay
     - at: 24:38
       label: Team FIGHT
       kind: teamfight

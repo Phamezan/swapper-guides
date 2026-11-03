@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1728
+  uploaded: 2026-08-16
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:15
       label: First Blood — Kha'Zix kills Locke
       kind: kill
@@ -51,8 +50,6 @@
       label: Ahri eliminates Lux
     - at: 28:24
       label: Bot Inhibitor falls (Blue)
-    - at: 28:43
-      label: Defeat
 - videoId: YBx-4YP3lwg
   title: (G2 Caps) Ahri Top vs Locke - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
@@ -60,10 +57,9 @@
   durationSec: 1778
   player: Caps
   team: G2
+  uploaded: 2026-08-13
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:38
       label: Red takes 1st Dragon (Cloud)
       kind: dragon
@@ -113,5 +109,3 @@
       kind: dragon
     - at: 28:35
       label: Mid Inhibitor falls (Blue)
-    - at: 28:58
-      label: Defeat

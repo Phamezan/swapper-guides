@@ -4,11 +4,99 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1596
+  uploaded: 2026-09-15
+  result: W
+  moments:
+    - at: 6:12
+      label: First Blood — Zed kills Azir
+      kind: kill
+    - at: 8:49
+      label: Nidalee picks off Azir
+    - at: 9:50
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:18
+      label: Zed takes down Azir
+    - at: 13:16
+      label: Zed picks off Kindred
+    - at: 13:41
+      label: Thresh takes down Azir
+    - at: 15:23
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:02
+      label: Zed catches Ashe
+    - at: 16:28
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 20:39
+      label: Jinx Double Kill
+      kind: kill
+    - at: 21:20
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 22:02
+      label: Zed outduels Ashe again
+    - at: 22:07
+      label: Jinx eliminates Kindred
+    - at: 24:11
+      label: Zed picks off Kindred
+    - at: 24:44
+      label: Mid Inhibitor falls (Red)
+    - at: 26:13
+      label: Blue takes Baron
+      kind: baron
 - videoId: tDPiKmob9ks
   title: Zed Mid vs Azir - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1726
+  uploaded: 2026-09-06
+  result: W
+  moments:
+    - at: 7:04
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:06
+      label: First Blood — Qiyana kills Jarvan IV
+      kind: kill
+    - at: 8:56
+      label: Qiyana kills Sejuani
+      kind: kill
+    - at: 12:55
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:21
+      label: Zed eliminates Azir
+    - at: 18:34
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 19:42
+      label: Zed kills Yunara
+      kind: kill
+    - at: 21:24
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:28
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 21:33
+      label: Qiyana picks off Azir
+    - at: 23:03
+      label: Zed catches Yunara
+    - at: 23:45
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:12
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 24:44
+      label: Mid Inhibitor falls (Red)
+    - at: 26:02
+      label: Top Inhibitor falls (Red)
+    - at: 28:28
+      label: Qiyana Double Kill
+      kind: kill
 - videoId: LEj1VfE3EBk
   title: Zed Mid vs Azir - EUW Challenger Patch 26.08
   rankClaim: Challenger

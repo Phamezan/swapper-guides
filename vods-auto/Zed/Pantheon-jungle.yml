@@ -4,13 +4,107 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1575
+  uploaded: 2026-10-08
+  result: W
+  moments:
+    - at: 5:08
+      label: First Blood — Zed kills Thresh
+      kind: kill
+    - at: 6:20
+      label: Zed takes down Pantheon
+    - at: 9:47
+      label: Zed picks off Katarina
+    - at: 9:53
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:06
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:11
+      label: Zed picks off Katarina
+    - at: 15:07
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:21
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:42
+      label: Syndra takes down Garen
+    - at: 17:12
+      label: Syndra takes down Garen
+    - at: 19:16
+      label: Zed eliminates Yunara
+    - at: 20:13
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:21
+      label: Lux picks off Thresh
+    - at: 22:11
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:50
+      label: Zed kills Thresh
+      kind: kill
+    - at: 24:21
+      label: Bot Inhibitor falls (Red)
+    - at: 25:18
+      label: Darius takes down Katarina
 - videoId: SNfHLcE-9MI
   title: (IN5 Alix) Zed Jungle vs Pantheon - EUW Challenger Patch 26.15
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1716
-  player: Alix
-  team: IN5
+  player: IN5 Alix
+  uploaded: 2026-08-02
+  result: L
+  moments:
+    - at: 3:15
+      label: First Blood — Kai'Sa kills Syndra
+      kind: kill
+    - at: 6:17
+      label: Zed catches Zoe
+    - at: 6:21
+      label: Xerath kills Syndra
+      kind: kill
+    - at: 9:22
+      label: Zed picks off Swain
+    - at: 11:10
+      label: Xerath eliminates Swain
+    - at: 11:49
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:00
+      label: Zed kills Zoe
+      kind: kill
+    - at: 14:50
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:57
+      label: Zed Triple Kill
+      kind: kill
+    - at: 17:48
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:47
+      label: Zed picks off Swain
+    - at: 21:46
+      label: Zed kills Zoe
+      kind: kill
+    - at: 22:11
+      label: Red takes Baron
+      kind: baron
+    - at: 22:48
+      label: Pyke eliminates Darius
+    - at: 23:30
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 24:55
+      label: Top Inhibitor falls (Blue)
+    - at: 25:10
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:36
+      label: Team fight (4 kills)
+      kind: teamfight
 - videoId: uGgVArCpAM8
   title: Zed Jungle vs Pantheon - EUW Master Patch 26.12
   rankClaim: Master

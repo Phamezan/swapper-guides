@@ -4,3 +4,44 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1435
+  uploaded: 2026-09-17
+  result: W
+  moments:
+    - at: 3:25
+      label: First Blood — Zed kills Fiora
+      kind: kill
+    - at: 5:52
+      label: Zed eliminates Fiora
+    - at: 7:51
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:00
+      label: Zed takes down Fiora
+    - at: 12:48
+      label: Braum takes down Fiora
+    - at: 13:26
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:01
+      label: Zed kills Aphelios
+      kind: kill
+    - at: 14:39
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:28
+      label: Zed catches Fiora again
+    - at: 16:23
+      label: Nidalee takes down Fizz
+    - at: 17:01
+      label: Zed outduels Fiora (3rd time)
+    - at: 19:07
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:04
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:36
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:38
+      label: Mid Inhibitor falls (Red)

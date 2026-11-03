@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1689
+  uploaded: 2026-05-22
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:50
       label: First Blood — Ahri kills Kennen
       kind: kill
@@ -52,17 +51,14 @@
       label: Mid Inhibitor falls (Red)
     - at: 27:21
       label: Top Inhibitor falls (Red)
-    - at: 28:04
-      label: Victory
 - videoId: IGxLudbl9Uk
   title: Ahri Top vs Kennen - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1770
+  uploaded: 2026-05-18
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:34
       label: First Blood — Ahri kills Kennen
       kind: kill
@@ -110,5 +106,3 @@
       kind: kill
     - at: 29:03
       label: Mid Inhibitor falls (Red)
-    - at: 29:25
-      label: Victory

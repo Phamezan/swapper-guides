@@ -5,10 +5,9 @@
   patch: "26.21"
   durationSec: 2065
   player: Despair
+  uploaded: 2026-10-30
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 8:03
       label: Blue takes 1st Dragon (Chemtech)
       kind: dragon
@@ -54,17 +53,14 @@
     - at: 31:53
       label: Blue takes Baron
       kind: baron
-    - at: 34:20
-      label: Victory
 - videoId: Q7dphOqeA4w
   title: Ahri Mid vs Pantheon - KR Grandmaster Patch 26.21
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1657
+  uploaded: 2026-10-28
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 8:46
       label: Red takes 1st Dragon (Chemtech)
       kind: dragon
@@ -111,17 +107,14 @@
     - at: 27:23
       label: Ahri Quadra Kill
       kind: kill
-    - at: 27:32
-      label: Victory
 - videoId: 0IBnU9ffOEQ
   title: Ahri Mid vs Pantheon - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1615
+  uploaded: 2026-09-01
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:47
       label: First Blood — Ahri kills Pantheon
       kind: kill
@@ -158,8 +151,6 @@
       kind: kill
     - at: 26:19
       label: Mid Inhibitor falls (Red)
-    - at: 26:50
-      label: Victory
 - videoId: kbNMQ07uxew
   title: Ahri Mid vs Pantheon - KR Challenger Patch 26.05
   rankClaim: Challenger
@@ -171,6 +162,7 @@
   patch: "26.5"
   durationSec: 1471
   player: Zeka
+  uploaded: 2026-03-05
 - videoId: HIqbOGnjTJ4
   title: Ahri Mid vs Pantheon - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster

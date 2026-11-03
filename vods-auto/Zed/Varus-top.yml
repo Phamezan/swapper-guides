@@ -4,11 +4,103 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1865
+  uploaded: 2026-08-05
+  result: W
+  moments:
+    - at: 4:48
+      label: First Blood — Zed kills Varus
+      kind: kill
+    - at: 5:13
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:52
+      label: Zed catches Varus
+    - at: 9:36
+      label: Zed Triple Kill
+      kind: kill
+    - at: 9:45
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 11:38
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:58
+      label: Zed takes down Camille
+    - at: 17:13
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:07
+      label: Olaf Triple Kill
+      kind: kill
+    - at: 19:57
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:38
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:00
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:11
+      label: Zed outplays Jayce
+    - at: 26:44
+      label: Olaf Triple Kill
+      kind: kill
+    - at: 27:12
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 28:04
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 28:38
+      label: Mid Inhibitor falls (Red)
+    - at: 29:07
+      label: Bot Inhibitor falls (Red)
 - videoId: gEjRNdf8t-w
   title: Zed Top vs Varus - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1409
+  uploaded: 2026-07-16
+  result: L
+  moments:
+    - at: 5:04
+      label: First Blood — Zed kills Vi
+      kind: kill
+    - at: 5:13
+      label: Ahri eliminates Zilean
+    - at: 7:45
+      label: Ahri picks off Vi
+    - at: 8:55
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:43
+      label: Diana kills Varus
+      kind: kill
+    - at: 11:58
+      label: Diana kills Janna
+      kind: kill
+    - at: 14:19
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:06
+      label: Zed picks off Lucian
+    - at: 19:02
+      label: Zed picks off Lucian
+    - at: 19:38
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:47
+      label: Ahri takes down Janna
+    - at: 20:46
+      label: Red takes Baron
+      kind: baron
+    - at: 22:13
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:21
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:08
+      label: Zed eliminates Janna
 - videoId: YtW8dJTvK2A
   title: Zed Top vs Varus - EUW Grandmaster Patch 26.11
   rankClaim: Grandmaster

@@ -6,10 +6,9 @@
   durationSec: 1570
   player: Xiaohao
   team: WBG
+  uploaded: 2026-10-31
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:59
       label: Ahri takes down Orianna
     - at: 8:58
@@ -55,18 +54,15 @@
       kind: kill
     - at: 25:58
       label: Bot Inhibitor falls (Red)
-    - at: 26:05
-      label: Victory
 - videoId: KAtSZI8Ikz8
   title: (danzA) Ahri Mid vs Orianna - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1764
   player: danzA
+  uploaded: 2026-09-15
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:28
       label: First Blood — Ahri kills Elise
       kind: kill
@@ -116,17 +112,14 @@
       kind: baron
     - at: 28:53
       label: Mid Inhibitor falls (Blue)
-    - at: 29:19
-      label: Victory
 - videoId: lBjDDwFYDaw
   title: Ahri Mid vs Orianna - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1662
+  uploaded: 2026-08-31
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:21
       label: First Blood — Singed kills Kayn
       kind: kill
@@ -170,17 +163,14 @@
     - at: 26:51
       label: Team fight (4 kills)
       kind: teamfight
-    - at: 27:37
-      label: Victory
 - videoId: Xu7RMkyPTaQ
   title: Ahri Mid vs Orianna - KR Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1597
+  uploaded: 2026-08-22
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:48
       label: First Blood — Jarvan IV kills Hecarim
       kind: kill
@@ -207,8 +197,6 @@
     - at: 24:57
       label: Blue takes 1st Dragon (Chemtech)
       kind: dragon
-    - at: 26:32
-      label: Victory
 - videoId: PogHFKaLYWs
   title: Ahri vs Orianna Mid - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger

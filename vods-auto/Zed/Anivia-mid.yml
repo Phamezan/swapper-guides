@@ -4,28 +4,269 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1720
+  uploaded: 2026-09-23
+  result: W
+  moments:
+    - at: 1:39
+      label: First Blood — Zed kills Lee Sin
+      kind: kill
+    - at: 8:51
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:18
+      label: Zed takes down Anivia
+    - at: 15:24
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:49
+      label: Pantheon eliminates Blitzcrank
+    - at: 20:02
+      label: Sylas kills Blitzcrank
+      kind: kill
+    - at: 20:37
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 22:16
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 22:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:20
+      label: Zed solo kills Lee Sin
+      kind: kill
+    - at: 24:35
+      label: Caitlyn picks off Irelia
+    - at: 26:20
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:23
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:30
+      label: Pantheon eliminates Irelia
+    - at: 27:00
+      label: Mid Inhibitor falls (Red)
+    - at: 28:11
+      label: Sylas eliminates Kai'Sa
+    - at: 28:15
+      label: Sylas Triple Kill
+      kind: kill
 - videoId: X5rio3JTwWo
   title: Zed Mid vs Anivia - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1720
+  uploaded: 2026-09-09
+  result: W
+  moments:
+    - at: 3:27
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:20
+      label: Zed takes down Anivia
+    - at: 6:33
+      label: Zed catches Anivia again
+    - at: 9:04
+      label: Zed solo kills Sylas
+      kind: kill
+    - at: 9:07
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:24
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 16:06
+      label: Zed outduels Zoe
+    - at: 17:30
+      label: Zed outduels Anivia (3rd time)
+    - at: 20:00
+      label: Zed outplays Zoe again
+    - at: 20:52
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:28
+      label: Zed solo kills Zoe (3rd time)
+      kind: kill
+    - at: 23:54
+      label: Red takes Baron
+      kind: baron
+    - at: 25:07
+      label: Zed outplays Anivia (4th time)
+    - at: 26:08
+      label: Zed solo kills Anivia (5th time)
+      kind: kill
+    - at: 26:20
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 27:15
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 27:27
+      label: Zed kills Jhin
+      kind: kill
+    - at: 27:36
+      label: Mid Inhibitor falls (Blue)
 - videoId: GhnGuPxvkFo
   title: Zed Mid vs Anivia - EUW Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1582
+  uploaded: 2026-08-28
+  result: W
+  moments:
+    - at: 4:45
+      label: First Blood — Zed kills Ambessa
+      kind: kill
+    - at: 6:01
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:55
+      label: Zed solo kills Karthus
+      kind: kill
+    - at: 11:27
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:54
+      label: Zed catches Varus
+    - at: 15:42
+      label: Zed outplays Ambessa
+    - at: 17:30
+      label: Samira Triple Kill
+      kind: kill
+    - at: 17:46
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 18:44
+      label: Qiyana kills Alistar
+      kind: kill
+    - at: 22:12
+      label: Zed takes down Karthus again
+    - at: 22:58
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 23:25
+      label: Zed solo kills Ambessa again
+      kind: kill
+    - at: 23:50
+      label: Zed takes down Alistar
+    - at: 24:22
+      label: Zed eliminates Anivia
+    - at: 24:49
+      label: Zed kills Varus
+      kind: kill
+    - at: 25:09
+      label: Neeko eliminates Alistar
+    - at: 25:23
+      label: Top Inhibitor falls (Blue)
+    - at: 25:42
+      label: Mid Inhibitor falls (Blue)
 - videoId: uS3VGVRIAA4
   title: Zed Mid vs Anivia (Vetheo) - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1436
+  uploaded: 2026-07-23
+  result: L
+  moments:
+    - at: 2:31
+      label: First Blood — Naafiri kills Anivia
+      kind: kill
+    - at: 6:29
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:44
+      label: Zed picks off Lee Sin
+    - at: 12:04
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 13:53
+      label: Zed outplays Aurora
+    - at: 15:07
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:56
+      label: Zed picks off Lee Sin
+    - at: 17:05
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:44
+      label: Zed solo kills Lee Sin
+      kind: kill
+    - at: 19:06
+      label: Zed takes down Taric
+    - at: 20:40
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:52
+      label: Irelia picks off Tristana
+    - at: 20:57
+      label: Irelia Triple Kill
+      kind: kill
+    - at: 21:28
+      label: Zed takes down Anivia
+    - at: 21:48
+      label: Red takes Baron
+      kind: baron
+    - at: 23:28
+      label: Karthus picks off Taric
+    - at: 23:41
+      label: Top Inhibitor falls (Blue)
 - videoId: VaNZBBMxjMU
   title: (AMP Royal) Zed Mid vs Anivia - EUNE Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1577
-  player: Royal
-  team: AMP
+  player: AMP Royal
+  uploaded: 2026-07-01
+  result: L
+  moments:
+    - at: 3:16
+      label: First Blood — Zed kills Kha'Zix
+      kind: kill
+    - at: 8:38
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:51
+      label: Zed catches Draven
+    - at: 13:24
+      label: Zed solo kills Kha'Zix
+      kind: kill
+    - at: 14:05
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:59
+      label: Zed outduels Draven again
+    - at: 18:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:40
+      label: Lux kills Anivia
+      kind: kill
+    - at: 19:58
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:05
+      label: Zed outplays Akali
+    - at: 20:47
+      label: Zed outplays Draven (3rd time)
+    - at: 20:51
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:06
+      label: Zed takes down Anivia
+    - at: 21:41
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:52
+      label: Zed takes down Kha'Zix again
+    - at: 22:55
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:26
+      label: Talon takes down Kha'Zix
+    - at: 25:25
+      label: Zed solo kills Akali again
+      kind: kill
 - videoId: LA-5vgc3dLM
   title: Zed Mid vs Anivia - KR Challenger Patch 26.08
   rankClaim: Challenger

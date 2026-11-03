@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1863
+  uploaded: 2026-09-14
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:49
       label: First Blood — Ahri kills Renekton
       kind: kill
@@ -55,17 +54,14 @@
     - at: 30:45
       label: Jinx Quadra Kill
       kind: kill
-    - at: 30:58
-      label: Victory
 - videoId: tokooMnoe5E
   title: Ahri Top vs Renekton (NBS Vasco) - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1718
+  uploaded: 2026-06-30
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:25
       label: First Blood — Ahri kills Renekton
       kind: kill
@@ -109,17 +105,14 @@
       kind: baron
     - at: 28:12
       label: Mid Inhibitor falls (Blue)
-    - at: 28:33
-      label: Defeat
 - videoId: kFy10p5suyI
   title: Ahri Top vs Renekton - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1804
+  uploaded: 2026-05-11
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:07
       label: First Blood — Ahri kills Renekton
       kind: kill
@@ -164,5 +157,3 @@
       kind: baron
     - at: 28:53
       label: Camille eliminates Soraka
-    - at: 29:24
-      label: Victory

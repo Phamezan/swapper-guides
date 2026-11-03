@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1845
+  uploaded: 2026-05-12
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:38
       label: First Blood — Kha'Zix kills Aurora
       kind: kill
@@ -55,5 +54,3 @@
       kind: kill
     - at: 30:19
       label: Top Inhibitor falls (Blue)
-    - at: 30:40
-      label: Defeat

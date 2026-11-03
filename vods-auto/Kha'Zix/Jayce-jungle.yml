@@ -4,6 +4,15 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 2910
+  uploaded: 2026-10-16
+- videoId: WILNv9ccvC4
+  title: HLE Kanavi Kha'Zix vs Jayce [ Jungle ] Korea Challenger 1745 LP | Patch 26.9
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1328
+  region: KR
+  player: Kanavi
+  team: HLE
 - videoId: 8HWs814HB68
   title: Kha'Zix vs Jayce Jungle - KR Challenger - Patch 16.04 Season 16
   rankClaim: Challenger

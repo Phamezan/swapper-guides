@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1546
+  uploaded: 2026-05-03
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 5:43
       label: Red takes 1st Dragon (Hextech)
       kind: dragon
@@ -52,5 +51,3 @@
       label: Top Inhibitor falls (Blue)
     - at: 24:23
       label: Mid Inhibitor falls (Blue)
-    - at: 25:41
-      label: Defeat

@@ -4,5 +4,48 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1633
-  player: MathisV
-  team: DYN
+  player: DYN MathisV
+  uploaded: 2026-08-12
+  result: L
+  moments:
+    - at: 4:54
+      label: First Blood — Zed kills Zilean
+      kind: kill
+    - at: 8:04
+      label: Elise eliminates Hwei
+    - at: 9:07
+      label: Zed takes down Camille
+    - at: 10:20
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:59
+      label: Zed takes down Camille
+    - at: 16:25
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:58
+      label: Aurelion Sol picks off Camille
+    - at: 19:24
+      label: Zed Double Kill
+      kind: kill
+    - at: 19:45
+      label: Red takes Baron
+      kind: baron
+    - at: 22:23
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 22:26
+      label: Aurelion Sol picks off Camille
+    - at: 23:25
+      label: Zed takes down Camille
+    - at: 24:48
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:30
+      label: Zed kills Hwei
+      kind: kill
+    - at: 26:23
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:34
+      label: Aurelion Sol Double Kill
+      kind: kill

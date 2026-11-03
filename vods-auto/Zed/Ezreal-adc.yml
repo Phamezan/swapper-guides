@@ -4,11 +4,106 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1537
+  uploaded: 2026-10-12
+  result: W
+  moments:
+    - at: 3:28
+      label: First Blood — Zed kills Taric
+      kind: kill
+    - at: 7:02
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:23
+      label: Zed outplays Taric
+    - at: 9:29
+      label: Zed Double Kill
+      kind: kill
+    - at: 11:08
+      label: Zed takes down Ezreal
+    - at: 11:24
+      label: Zed solo kills Taric again
+      kind: kill
+    - at: 12:57
+      label: Zed outduels Ezreal
+    - at: 13:46
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 16:22
+      label: Zed takes down Ezreal
+    - at: 16:52
+      label: Zed eliminates Briar
+    - at: 17:54
+      label: Zed picks off Taric
+    - at: 19:04
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:19
+      label: Zed outplays Ezreal again
+    - at: 20:21
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:29
+      label: Zed Triple Kill
+      kind: kill
+    - at: 21:16
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:12
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:36
+      label: Mid Inhibitor falls (Red)
 - videoId: gYwzS9Y2qsg
   title: Zed ADC vs Ezreal - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1759
+  uploaded: 2026-07-12
+  result: W
+  moments:
+    - at: 3:11
+      label: First Blood — Zed kills Ezreal
+      kind: kill
+    - at: 5:47
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:34
+      label: Zed picks off Karma
+    - at: 11:03
+      label: Zed outduels Ezreal
+    - at: 11:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:32
+      label: Zed takes down Rengar
+    - at: 14:02
+      label: Zed picks off Karma
+    - at: 14:53
+      label: Vayne picks off Ezreal
+    - at: 17:03
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:08
+      label: Briar takes down Rengar
+    - at: 19:52
+      label: Zed outplays Ezreal again
+    - at: 21:43
+      label: Red takes Baron
+      kind: baron
+    - at: 22:22
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 26:43
+      label: Bot Inhibitor falls (Red)
+    - at: 27:27
+      label: Top Inhibitor falls (Red)
+    - at: 27:57
+      label: Zed eliminates Rengar
+    - at: 28:18
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 28:23
+      label: Mid Inhibitor falls (Red)
 - videoId: xOi4TCewbSA
   title: Zed ADC vs Ezreal - KR Master Patch 26.08
   rankClaim: Master

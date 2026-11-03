@@ -5,3 +5,52 @@
   patch: "26.21"
   durationSec: 1596
   player: Ruler
+  uploaded: 2026-10-29
+- videoId: 33UolquJQgg
+  title: Kalista vs Ezreal ADC [ Gen.G Ruler ] Ranked Master NA | Patch 26.21
+  rankClaim: Master
+  patch: "26.21"
+  durationSec: 1385
+  region: NA
+  player: Ruler
+  team: Gen.G
+  uploaded: 2026-10-27
+- videoId: 2qc90rbhPi8
+  title: T1 Peyz Kalista vs Ezreal [ ADC ] Korea Challenger 2520 LP | Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 755
+  region: KR
+  player: Peyz
+  team: T1
+  uploaded: 2026-09-06
+- videoId: nptz_XgzfoE
+  title: Kalista vs Ezreal [ ADC ] Korea Grandmaster 1676 LP | Patch 26.14
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1501
+  region: KR
+- videoId: x2KlpGTyGkQ
+  title: HLE Gumayusi Kalista vs Ezreal [ ADC ] Korea Challenger 2496 LP | Patch 26.11
+  rankClaim: Challenger
+  patch: "26.11"
+  durationSec: 1343
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: 8k7clm7W4sw
+  title: T1 Peyz Kalista vs Ezreal ADC [ PentaKill ] Korea Challenger Patch 26.7
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1572
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: MHdKJr85kgA
+  title: T1 Peyz Kalista vs Ezreal [ ADC ] Korea Challenger 2127 LP | Patch 26.4
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1746
+  region: KR
+  player: Peyz
+  team: T1

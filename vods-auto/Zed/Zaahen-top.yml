@@ -4,3 +4,50 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1412
+  uploaded: 2026-09-09
+  result: W
+  moments:
+    - at: 6:07
+      label: First Blood — Shaco kills Vex
+      kind: kill
+    - at: 8:37
+      label: Zed catches Zaahen
+    - at: 8:54
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:32
+      label: Zed kills Sylas
+      kind: kill
+    - at: 12:53
+      label: Zed eliminates Zaahen
+    - at: 14:23
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:31
+      label: Zed outduels Zaahen again
+    - at: 17:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:44
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:14
+      label: Zed outplays Vex
+    - at: 19:30
+      label: Viktor Double Kill
+      kind: kill
+    - at: 19:51
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 20:52
+      label: Zed outplays Zaahen (3rd time)
+    - at: 21:29
+      label: Red takes Baron
+      kind: baron
+    - at: 22:39
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:01
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:08
+      label: Mid Inhibitor falls (Blue)

@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1704
+  uploaded: 2026-08-07
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 4:42
       label: Red takes 1st Dragon (Hextech)
       kind: dragon
@@ -51,5 +50,3 @@
       kind: baron
     - at: 27:41
       label: Ahri takes down Locke
-    - at: 28:19
-      label: Victory

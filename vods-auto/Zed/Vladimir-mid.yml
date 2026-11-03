@@ -4,35 +4,319 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1680
-  player: Infinity
-  team: XOL
+  player: XOL Infinity
+  uploaded: 2026-11-02
+  result: W
+  moments:
+    - at: 2:22
+      label: Zed takes down Soraka
+    - at: 6:53
+      label: Varus eliminates Lee Sin
+    - at: 12:00
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:53
+      label: Qiyana kills Gnar
+      kind: kill
+    - at: 17:59
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 18:16
+      label: Sona eliminates Gnar
+    - at: 19:41
+      label: Sona takes down Vladimir
+    - at: 22:56
+      label: Zed Double Kill
+      kind: kill
+    - at: 23:22
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 23:42
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:56
+      label: Zed eliminates Vladimir
+    - at: 26:57
+      label: Pantheon eliminates Soraka
+    - at: 27:17
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:25
+      label: Mid Inhibitor falls (Red)
+    - at: 27:39
+      label: Pantheon picks off Kalista
 - videoId: KlB4d7Xzp94
   title: (BZ) Zed Mid vs Vladimir (Tea) - EUW Challenger Patch 26.21
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 2033
   player: BZ
+  uploaded: 2026-11-01
+  result: W
+  moments:
+    - at: 5:27
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:55
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:13
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:29
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:22
+      label: Zed eliminates Vladimir
+    - at: 24:53
+      label: Zed catches Hwei
+    - at: 26:45
+      label: Zed kills Hwei
+      kind: kill
+    - at: 27:10
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 27:57
+      label: Blue takes Baron
+      kind: baron
+    - at: 28:46
+      label: Zed kills Hwei
+      kind: kill
+    - at: 30:35
+      label: Zed solo kills Kha'Zix
+      kind: kill
+    - at: 30:45
+      label: Top Inhibitor falls (Red)
+    - at: 30:50
+      label: Mid Inhibitor falls (Red)
+    - at: 32:18
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 33:03
+      label: Zed takes down Rakan
+    - at: 33:24
+      label: Shaco Double Kill
+      kind: kill
+    - at: 33:29
+      label: Shaco Triple Kill
+      kind: kill
+    - at: 33:41
+      label: Bot Inhibitor falls (Red)
 - videoId: cAvjfZmG5Jo
   title: Zed Mid vs Vladimir - KR Master Patch 26.19
   rankClaim: Master
   patch: "26.19"
   durationSec: 1875
+  uploaded: 2026-10-04
+  result: W
+  moments:
+    - at: 5:00
+      label: First Blood — Zed kills Vladimir
+      kind: kill
+    - at: 7:38
+      label: Zed takes down Vladimir
+    - at: 10:17
+      label: Zed solo kills Sylas
+      kind: kill
+    - at: 10:47
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:31
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 15:45
+      label: Zed picks off Sylas
+    - at: 17:52
+      label: Zed eliminates Vladimir
+    - at: 18:31
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:41
+      label: Zed eliminates Vladimir
+    - at: 22:29
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 22:35
+      label: Red takes Baron
+      kind: baron
+    - at: 24:04
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 26:41
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:17
+      label: Zed outplays Jax
+    - at: 28:44
+      label: Jhin eliminates Sylas
+    - at: 29:25
+      label: Bot Inhibitor falls (Blue)
+    - at: 30:14
+      label: Jhin takes down Ezreal
+    - at: 30:23
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
 - videoId: Uwqi073Cx3I
   title: Zed Mid vs Vladimir - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1851
+  uploaded: 2026-09-11
+  result: W
+  moments:
+    - at: 2:34
+      label: First Blood — Zed kills Vladimir
+      kind: kill
+    - at: 9:00
+      label: Zed takes down Vladimir
+    - at: 9:31
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:16
+      label: Zed Triple Kill
+      kind: kill
+    - at: 12:22
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 14:00
+      label: Zed solo kills Talon
+      kind: kill
+    - at: 15:27
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:05
+      label: Zed catches Vladimir again
+    - at: 20:43
+      label: Zed takes down Talon again
+    - at: 22:28
+      label: Zed catches Talon (3rd time)
+    - at: 22:35
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:15
+      label: Red takes Baron
+      kind: baron
+    - at: 25:57
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:56
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:55
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 29:29
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:51
+      label: Zed Quadra Kill
+      kind: kill
 - videoId: eYcrOezXpmw
   title: Zed Mid vs Vladimir - KR Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1424
+  uploaded: 2026-07-31
+  result: W
+  moments:
+    - at: 0:09
+      label: First Blood — Fiora kills Naafiri
+      kind: kill
+    - at: 3:36
+      label: Lee Sin takes down Naafiri
+    - at: 6:38
+      label: Zed eliminates Vladimir
+    - at: 8:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 9:27
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:31
+      label: Zed takes down Vladimir
+    - at: 10:04
+      label: Zed picks off Naafiri
+    - at: 12:13
+      label: Viktor picks off Alistar
+    - at: 13:37
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 13:54
+      label: Zed Triple Kill
+      kind: kill
+    - at: 15:04
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:41
+      label: Lee Sin takes down Naafiri
+    - at: 16:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:31
+      label: Viktor Double Kill
+      kind: kill
+    - at: 20:21
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:36
+      label: Zed takes down Alistar
 - videoId: jumbVcRl7LI
   title: (FROSTSIZE) Zed Mid vs Vladimir - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1536
   player: FROSTSIZE
+  uploaded: 2026-07-08
+  result: L
+  moments:
+    - at: 2:50
+      label: First Blood — Zed kills Vladimir
+      kind: kill
+    - at: 6:57
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:29
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:47
+      label: Zed outplays Cassiopeia
+    - at: 16:06
+      label: Zed kills Miss Fortune
+      kind: kill
+    - at: 16:49
+      label: Zed takes down Cassiopeia
+    - at: 17:40
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:13
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:22
+      label: Zed takes down Cassiopeia
+    - at: 21:23
+      label: Zed catches Miss Fortune
+    - at: 21:27
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:17
+      label: Red takes Baron
+      kind: baron
+    - at: 23:44
+      label: Zed kills Miss Fortune
+      kind: kill
+    - at: 23:58
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:15
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:25
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:45
+      label: Zed outduels Miss Fortune again
+    - at: 24:51
+      label: Zed Double Kill
+      kind: kill
 - videoId: karO_nyIrmY
   title: Zed Mid vs Vladimir - VN Master Patch 26.08
   rankClaim: Master

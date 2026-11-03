@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1681
+  uploaded: 2026-06-20
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:03
       label: First Blood — Lucian kills Shen
       kind: kill
@@ -52,5 +51,3 @@
     - at: 27:32
       label: Singed kills Tristana
       kind: kill
-    - at: 27:56
-      label: Defeat

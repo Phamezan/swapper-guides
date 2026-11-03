@@ -4,8 +4,98 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1577
+  uploaded: 2026-07-21
+  result: L
+  moments:
+    - at: 5:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:08
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 11:34
+      label: First Blood — Zed kills Zilean
+      kind: kill
+    - at: 12:40
+      label: Zed outduels Bel'Veth
+    - at: 12:49
+      label: Zed Double Kill
+      kind: kill
+    - at: 13:42
+      label: Orianna eliminates Yasuo
+    - at: 14:43
+      label: Zed outplays Yasuo
+    - at: 16:26
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 18:02
+      label: Jax picks off Yasuo
+    - at: 19:25
+      label: Zed picks off Zeri
+    - at: 21:06
+      label: Zed kills Bel'Veth
+      kind: kill
+    - at: 21:46
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 23:23
+      label: Red takes Baron
+      kind: baron
+    - at: 23:39
+      label: Zed solo kills Yasuo again
+      kind: kill
+    - at: 24:45
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:32
+      label: Top Inhibitor falls (Blue)
 - videoId: jCq861ld5Z0
   title: Zed Top vs Zilean - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1778
+  uploaded: 2026-07-05
+  result: L
+  moments:
+    - at: 4:37
+      label: First Blood — Zed kills Zilean
+      kind: kill
+    - at: 4:47
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:01
+      label: Zed catches Zilean
+    - at: 10:31
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 11:36
+      label: Zed outduels Zilean again
+    - at: 12:54
+      label: Nidalee picks off Corki
+    - at: 15:49
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 16:01
+      label: Zed eliminates Bard
+    - at: 19:58
+      label: Zed picks off Senna
+    - at: 21:07
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 26:04
+      label: Zed outplays Corki
+    - at: 26:37
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 27:13
+      label: Master Yi Double Kill
+      kind: kill
+    - at: 27:49
+      label: Red takes Baron
+      kind: baron
+    - at: 28:47
+      label: Master Yi Double Kill
+      kind: kill
+    - at: 29:02
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:20
+      label: Zed picks off Senna

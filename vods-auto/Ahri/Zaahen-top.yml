@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1576
+  uploaded: 2026-08-03
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 3:06
       label: First Blood — Ahri kills Zaahen
       kind: kill
@@ -52,19 +51,15 @@
       label: Twisted Fate eliminates Talon
     - at: 25:45
       label: Ahri takes down Anivia
-    - at: 26:11
-      label: Victory
 - videoId: -N2fxvxIb_A
   title: (S04E Zwyroo) Ahri Top vs Zaahen - EUW Challenger Patch 26.12
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1774
-  player: Zwyroo
-  team: S04E
+  player: S04E Zwyroo
+  uploaded: 2026-06-25
   result: L
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 1:08
       label: First Blood — Ahri kills Zaahen
       kind: kill
@@ -111,5 +106,3 @@
       kind: kill
     - at: 28:15
       label: Mid Inhibitor falls (Blue)
-    - at: 28:54
-      label: Defeat

@@ -4,9 +4,74 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1291
+  uploaded: 2026-09-15
+- videoId: wDou4DACwxk
+  title: T1 Peyz Yunara vs Aphelios [ ADC ] Patch 26.8 Korea Challenger 2430 LP
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1513
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: r833gs_2tc8
+  title: T1 Peyz Yunara ADC vs Aphelios - Patch 26.7 Korea Challenger 2274 LP
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1073
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: 2fWJXBjvk0s
+  title: T1 Peyz Yunara vs Aphelios [ ADC ] Korea Challenger 2270 LP | Patch 26.7
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 743
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: 7Kohwm9Bzkg
+  title: BLG Viper Yunara vs Aphelios [ ADC ] Korea Challenger 1435 LP | Patch 26.5
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1084
+  region: KR
+  player: Viper
+  team: BLG
+- videoId: -X1llTr8uFE
+  title: T1 Peyz Yunara ADC vs Aphelios - Patch 26.4 Korea Challenger 2076 LP
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 769
+  region: KR
+  player: Peyz
+  team: T1
 - videoId: POoKnBy5WqQ
   title: Peyz Yunara vs Aphelios ADC - KR Challenger - Patch 16.03 Season 16
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1476
   player: Peyz
+- videoId: gIOnkDjV4x8
+  title: T1 Peyz Yunara vs Aphelios [ ADC ] Korea Challenger 1808 LP | Patch 26.3
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1264
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: mVGWGkErpLo
+  title: HLE Gumayusi Yunara vs Aphelios [ ADC ] Patch 26.2 Ranked Korea
+  rankClaim: Master+
+  patch: "26.2"
+  durationSec: 1677
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: HhtagWBMWmM
+  title: T1 Peyz Yunara vs Aphelios [ ADC ] Korea Challenger 1569 LP | Patch 26.2
+  rankClaim: Challenger
+  patch: "26.2"
+  durationSec: 931
+  region: KR
+  player: Peyz
+  team: T1

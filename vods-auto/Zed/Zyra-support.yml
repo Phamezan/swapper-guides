@@ -4,6 +4,53 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1839
+  uploaded: 2026-07-24
+  result: W
+  moments:
+    - at: 1:21
+      label: First Blood — Ezreal kills Zyra
+      kind: kill
+    - at: 1:56
+      label: Zed outplays Jhin
+    - at: 5:35
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:32
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:38
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:12
+      label: Zed eliminates Vayne
+    - at: 18:42
+      label: K'Sante takes down Qiyana
+    - at: 21:37
+      label: Zed eliminates Zyra
+    - at: 23:01
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:18
+      label: Twisted Fate picks off Karthus
+    - at: 23:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:49
+      label: K'Sante eliminates Vayne
+    - at: 28:23
+      label: Lee Sin Quadra Kill
+      kind: kill
+    - at: 28:28
+      label: Lee Sin PENTA KILL
+      kind: kill
+    - at: 28:48
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 29:55
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:15
+      label: Mid Inhibitor falls (Red)
 - videoId: Tcf6kMQAMBE
   title: Zed Support vs Zyra - VN Master Patch 26.08
   rankClaim: Master

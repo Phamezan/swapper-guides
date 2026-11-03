@@ -6,33 +6,316 @@
   durationSec: 1590
   player: Jiwoo
   team: KT
+  uploaded: 2026-10-27
+  result: W
+  moments:
+    - at: 3:56
+      label: Zed picks off Ezreal
+    - at: 5:10
+      label: Zed takes down Taliyah
+    - at: 6:03
+      label: Zed kills Alistar
+      kind: kill
+    - at: 7:22
+      label: Zed picks off Ezreal
+    - at: 7:58
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:24
+      label: Sivir picks off Swain
+    - at: 12:52
+      label: Sivir Triple Kill
+      kind: kill
+    - at: 14:03
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 19:32
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 20:29
+      label: Zed picks off Ezreal
+    - at: 22:35
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:11
+      label: Zed takes down Draven
+    - at: 24:17
+      label: Lux takes down Alistar
+    - at: 25:34
+      label: Zed picks off Ezreal
+    - at: 25:58
+      label: Bot Inhibitor falls (Red)
 - videoId: UKYG3J05Ma8
   title: Zed Jungle vs Taliyah - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1976
+  uploaded: 2026-09-03
+  result: W
+  moments:
+    - at: 3:52
+      label: First Blood — Olaf kills Ambessa
+      kind: kill
+    - at: 9:39
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:55
+      label: Zed outplays Taliyah
+    - at: 15:06
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 17:44
+      label: Nautilus takes down Vex
+    - at: 19:45
+      label: Kai'Sa picks off Camille
+    - at: 20:50
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:19
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:39
+      label: Kai'Sa picks off Camille
+    - at: 25:57
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:59
+      label: Zoe Double Kill
+      kind: kill
+    - at: 29:38
+      label: Olaf Double Kill
+      kind: kill
+    - at: 29:58
+      label: Red takes Baron
+      kind: baron
+    - at: 31:06
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 31:42
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 32:25
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 32:27
+      label: Mid Inhibitor falls (Blue)
+    - at: 32:35
+      label: Bot Inhibitor falls (Blue)
 - videoId: ZHqZK_vkiHI
   title: Zed Jungle vs Taliyah - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1968
+  uploaded: 2026-09-02
+  result: W
+  moments:
+    - at: 7:39
+      label: First Blood — Annie kills Taliyah
+      kind: kill
+    - at: 9:21
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:27
+      label: Zed outduels Sion
+    - at: 15:51
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 18:33
+      label: Zed kills Leona
+      kind: kill
+    - at: 19:20
+      label: Ryze eliminates Cassiopeia
+    - at: 20:01
+      label: Zed eliminates Jhin
+    - at: 20:21
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:17
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:41
+      label: Zed takes down Jhin
+    - at: 26:33
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 27:58
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 30:05
+      label: Zed outplays Sion again
+    - at: 31:53
+      label: Zed Double Kill
+      kind: kill
+    - at: 32:02
+      label: Zed Triple Kill
+      kind: kill
+    - at: 32:08
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 32:24
+      label: Mid Inhibitor falls (Red)
 - videoId: Heg29b7OUQQ
   title: Zed Jungle vs Taliyah - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1585
+  uploaded: 2026-08-31
+  result: W
+  moments:
+    - at: 2:15
+      label: First Blood — Shen kills Taliyah
+      kind: kill
+    - at: 8:40
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:19
+      label: Zed eliminates Kai'Sa
+    - at: 14:01
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:31
+      label: Zed picks off Ambessa
+    - at: 15:07
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:20
+      label: Xayah Double Kill
+      kind: kill
+    - at: 18:46
+      label: Zed takes down Kai'Sa
+    - at: 19:01
+      label: Xayah Double Kill
+      kind: kill
+    - at: 19:42
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:46
+      label: Zed eliminates Kai'Sa
+    - at: 21:20
+      label: Red takes Baron
+      kind: baron
+    - at: 23:05
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:01
+      label: Zed catches Rell
+    - at: 24:14
+      label: Gnar eliminates Camille
+    - at: 24:51
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:24
+      label: Zed outplays Taliyah
+    - at: 25:52
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: oCEXW-5C1a0
   title: (IN5 Alix) Zed Jungle vs Taliyah - EUW Challenger Patch 26.14
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1884
-  player: Alix
-  team: IN5
+  player: IN5 Alix
+  uploaded: 2026-07-18
+  result: L
+  moments:
+    - at: 2:55
+      label: First Blood — Zed kills Akshan
+      kind: kill
+    - at: 5:27
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:52
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:02
+      label: Zed outduels Gnar
+    - at: 13:12
+      label: Zed outplays Taliyah
+    - at: 16:29
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:56
+      label: Zed solo kills Taliyah again
+      kind: kill
+    - at: 22:30
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:52
+      label: Zed kills Gnar
+      kind: kill
+    - at: 26:00
+      label: Zed takes down Taliyah (3rd time)
+    - at: 26:23
+      label: Red takes Baron
+      kind: baron
+    - at: 26:51
+      label: Zed outplays Gnar again
+    - at: 27:04
+      label: Zed takes down Taliyah
+    - at: 28:21
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:46
+      label: Bot Inhibitor falls (Blue)
+    - at: 29:30
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 29:46
+      label: Syndra kills Akshan
+      kind: kill
+    - at: 30:24
+      label: Top Inhibitor falls (Blue)
 - videoId: 98MPVApLptU
   title: Zed Jungle vs Taliyah - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1668
+  uploaded: 2026-07-07
+  result: L
+  moments:
+    - at: 2:30
+      label: First Blood — Draven kills Jayce
+      kind: kill
+    - at: 9:48
+      label: Zed solo kills Sylas
+      kind: kill
+    - at: 10:55
+      label: Zed Triple Kill
+      kind: kill
+    - at: 12:07
+      label: Zed takes down Jinx
+    - at: 12:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:04
+      label: Zed Triple Kill
+      kind: kill
+    - at: 18:22
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:27
+      label: Zed catches Jinx again
+    - at: 20:48
+      label: Red takes Baron
+      kind: baron
+    - at: 21:14
+      label: Zed outduels Jinx (3rd time)
+    - at: 21:43
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:00
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:56
+      label: Draven eliminates Karma
+    - at: 23:47
+      label: Zed eliminates Jinx
+    - at: 24:09
+      label: Xayah Double Kill
+      kind: kill
+    - at: 25:33
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 27:10
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:20
+      label: Zed takes down Taliyah
 - videoId: BSzR_-7IvrQ
   title: Zed Jungle vs Taliyah - KR Master Patch 26.10
   rankClaim: Master

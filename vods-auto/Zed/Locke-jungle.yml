@@ -4,3 +4,44 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1733
+  uploaded: 2026-08-08
+  result: L
+  moments:
+    - at: 2:10
+      label: First Blood — Zed kills Ziggs
+      kind: kill
+    - at: 5:45
+      label: Zed picks off Yone
+    - at: 7:44
+      label: Teemo takes down Yone
+    - at: 11:57
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:04
+      label: Sona eliminates Rell
+    - at: 15:26
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:19
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:55
+      label: Sona eliminates Rell
+    - at: 22:56
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:31
+      label: Seraphine eliminates Locke
+    - at: 24:58
+      label: Red takes Baron
+      kind: baron
+    - at: 26:27
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:46
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:53
+      label: Zed Triple Kill
+      kind: kill
+    - at: 28:26
+      label: Bot Inhibitor falls (Blue)

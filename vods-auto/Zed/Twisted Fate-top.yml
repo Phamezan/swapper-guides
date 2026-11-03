@@ -5,6 +5,56 @@
   patch: "26.20"
   durationSec: 1861
   player: Usan
+  uploaded: 2026-10-18
+  result: W
+  moments:
+    - at: 5:55
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:28
+      label: First Blood — Zed kills Twisted Fate
+      kind: kill
+    - at: 12:54
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:48
+      label: Zed catches Twisted Fate
+    - at: 16:56
+      label: Zed solo kills Draven
+      kind: kill
+    - at: 18:04
+      label: Zed outduels Jayce
+    - at: 19:17
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:37
+      label: Zed eliminates Leona
+    - at: 22:02
+      label: Zed kills Jayce
+      kind: kill
+    - at: 22:49
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:06
+      label: Zed eliminates Twisted Fate
+    - at: 24:57
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 26:04
+      label: Zed eliminates Leona
+    - at: 26:53
+      label: Zed kills Jayce
+      kind: kill
+    - at: 28:42
+      label: Gragas Double Kill
+      kind: kill
+    - at: 29:54
+      label: Zed picks off Draven
+    - at: 30:28
+      label: Mid Inhibitor falls (Red)
+    - at: 30:33
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
 - videoId: VkNORBOJdh4
   title: Zed Top vs Twisted Fate - EUW Grandmaster Patch 26.08
   rankClaim: Grandmaster

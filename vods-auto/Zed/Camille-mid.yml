@@ -4,3 +4,48 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1618
+  uploaded: 2026-09-24
+  result: W
+  moments:
+    - at: 2:57
+      label: First Blood — Zed kills Camille
+      kind: kill
+    - at: 6:00
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:43
+      label: Zed catches Draven
+    - at: 11:18
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 11:46
+      label: Zed outduels Draven again
+    - at: 12:55
+      label: Zed takes down Camille
+    - at: 16:59
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 17:39
+      label: Master Yi takes down Karthus
+    - at: 18:43
+      label: Zed outplays Draven (3rd time)
+    - at: 19:58
+      label: Rell takes down Camille
+    - at: 21:26
+      label: Yone Double Kill
+      kind: kill
+    - at: 22:24
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:27
+      label: Red takes Baron
+      kind: baron
+    - at: 24:54
+      label: Zed solo kills Draven (4th time)
+      kind: kill
+    - at: 25:25
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:52
+      label: Top Inhibitor falls (Blue)
+    - at: 26:06
+      label: Master Yi eliminates Draven

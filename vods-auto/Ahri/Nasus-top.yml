@@ -4,10 +4,9 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1613
+  uploaded: 2026-06-12
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 2:21
       label: First Blood — Ahri kills Nasus
       kind: kill
@@ -54,5 +53,3 @@
       label: Mid Inhibitor falls (Red)
     - at: 26:14
       label: Warwick takes down Rengar
-    - at: 26:48
-      label: Victory

@@ -4,10 +4,9 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1435
+  uploaded: 2026-09-14
   result: W
   moments:
-    - at: 0:00
-      label: Game Start
     - at: 7:02
       label: First Blood — Ahri kills Pantheon
       kind: kill
@@ -51,54 +50,39 @@
       label: Bot Inhibitor falls (Blue)
     - at: 23:20
       label: Mid Inhibitor falls (Blue)
-    - at: 23:50
-      label: Victory
 - videoId: zi_J2UbzEY8
   title: Ahri Mid vs Nasus - TW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1452
+  uploaded: 2026-02-14
   moments:
-    - at: 0:00
-      label: Ban & Pick
     - at: 0:15
       label: Runes & Abilities
     - at: 1:53
       label: Team FIGHT
       kind: teamfight
-    - at: 2:21
-      label: Gameplay
     - at: 4:07
       label: Team FIGHT
       kind: teamfight
-    - at: 4:35
-      label: Gameplay
     - at: 10:39
       label: Team FIGHT
       kind: teamfight
-    - at: 11:07
-      label: Gameplay
     - at: 12:24
       label: Take down The Turret
       kind: tower
     - at: 12:54
       label: Team FIGHT
       kind: teamfight
-    - at: 13:24
-      label: Gameplay
     - at: 14:04
       label: Team FIGHT
       kind: teamfight
-    - at: 14:32
-      label: Gameplay
     - at: 15:33
       label: Get a Double Kill
       kind: kill
     - at: 15:54
       label: Team FIGHT
       kind: teamfight
-    - at: 16:19
-      label: Gameplay
     - at: 17:12
       label: Take down The Turret
       kind: tower
@@ -108,21 +92,15 @@
     - at: 17:34
       label: Take down The Turret
       kind: tower
-    - at: 17:54
-      label: Gameplay
     - at: 18:32
       label: Team FIGHT
       kind: teamfight
     - at: 19:03
       label: Get a Double Kill
       kind: kill
-    - at: 19:39
-      label: Gameplay
     - at: 20:09
       label: Team FIGHT
       kind: teamfight
-    - at: 20:37
-      label: Gameplay
     - at: 21:53
       label: Team FIGHT
       kind: teamfight

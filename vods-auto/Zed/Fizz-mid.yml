@@ -5,45 +5,409 @@
   patch: "26.20"
   durationSec: 1418
   player: BZ
+  uploaded: 2026-10-12
+  result: W
+  moments:
+    - at: 4:37
+      label: First Blood — Zed kills Jhin
+      kind: kill
+    - at: 6:16
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:17
+      label: Zed Double Kill
+      kind: kill
+    - at: 12:02
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:36
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:48
+      label: Taliyah picks off Fizz
+    - at: 21:44
+      label: Kalista Double Kill
+      kind: kill
+    - at: 22:32
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:18
+      label: Jayce Double Kill
+      kind: kill
 - videoId: DoOHVgdTudc
   title: Zed Mid vs Fizz - KR Master Patch 26.20
   rankClaim: Master
   patch: "26.20"
   durationSec: 2072
+  uploaded: 2026-10-12
+  result: W
+  moments:
+    - at: 3:33
+      label: First Blood — Zed kills Fizz
+      kind: kill
+    - at: 13:23
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:55
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:39
+      label: Zed catches Aphelios
+    - at: 19:00
+      label: Zed eliminates Fizz
+    - at: 19:45
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:23
+      label: Xayah kills Fizz
+      kind: kill
+    - at: 20:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:11
+      label: Xayah kills Fizz
+      kind: kill
+    - at: 24:58
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:31
+      label: Bot Inhibitor falls (Red)
+    - at: 25:59
+      label: Xayah Double Kill
+      kind: kill
+    - at: 27:51
+      label: Xayah eliminates Master Yi
+    - at: 28:41
+      label: Red takes Baron
+      kind: baron
+    - at: 29:48
+      label: Xayah Double Kill
+      kind: kill
+    - at: 30:28
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 32:51
+      label: Zed kills Aphelios
+      kind: kill
+    - at: 34:04
+      label: Mid Inhibitor falls (Blue)
 - videoId: Tnu65ZHbWR4
   title: Zed Mid vs Fizz - NA Challenger Patch 26.19
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1575
+  uploaded: 2026-10-06
+  result: W
+  moments:
+    - at: 1:54
+      label: First Blood — Nunu & Willump kills Fizz
+      kind: kill
+    - at: 5:01
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:51
+      label: Zed catches Jhin
+    - at: 11:16
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:01
+      label: Zed kills Jhin
+      kind: kill
+    - at: 16:26
+      label: Zed eliminates Fizz
+    - at: 16:48
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 17:15
+      label: Zed outduels Jhin again
+    - at: 17:26
+      label: Rakan kills Elise
+      kind: kill
+    - at: 18:35
+      label: Rakan takes down Fizz
+    - at: 19:36
+      label: Zed picks off Elise
+    - at: 20:04
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:53
+      label: Mid Inhibitor falls (Red)
+    - at: 22:02
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:18
+      label: Bot Inhibitor falls (Red)
+    - at: 23:34
+      label: Top Inhibitor falls (Red)
+    - at: 24:15
+      label: Nunu & Willump takes down Elise
+    - at: 25:44
+      label: Kog'Maw Double Kill
+      kind: kill
 - videoId: 04fOPZTr91Y
   title: Zed Mid vs Fizz - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1690
+  uploaded: 2026-09-21
+  result: W
+  moments:
+    - at: 3:32
+      label: First Blood — Zed kills Fizz
+      kind: kill
+    - at: 8:55
+      label: Zed takes down Fizz
+    - at: 10:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:56
+      label: Zed catches Fizz again
+    - at: 12:20
+      label: Zed outduels Fizz (3rd time)
+    - at: 15:52
+      label: Zed outplays Fizz (4th time)
+    - at: 16:16
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:29
+      label: Zed solo kills Fizz (5th time)
+      kind: kill
+    - at: 21:51
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:04
+      label: Zed takes down Fizz (6th time)
+    - at: 24:04
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:10
+      label: Bard picks off Yunara
+    - at: 25:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:09
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:29
+      label: Ziggs takes down Yunara
+    - at: 26:35
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:14
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 27:43
+      label: Zed outduels Lulu
 - videoId: jij6L2cNwIQ
   title: Zed Mid vs Fizz - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1472
+  uploaded: 2026-08-30
+  result: W
+  moments:
+    - at: 6:01
+      label: First Blood — Zed kills Fizz
+      kind: kill
+    - at: 7:04
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:44
+      label: Zed eliminates Fizz
+    - at: 12:26
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:05
+      label: Camille picks off Kai'Sa
+    - at: 14:51
+      label: Zed picks off Naafiri
+    - at: 16:09
+      label: Zed solo kills Naafiri
+      kind: kill
+    - at: 17:29
+      label: Zed takes down Jax
+    - at: 17:52
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:22
+      label: Zed takes down Fizz
+    - at: 18:51
+      label: Corki eliminates Naafiri
+    - at: 20:17
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:36
+      label: Zeri takes down Fizz
+    - at: 22:41
+      label: Zed picks off Naafiri
+    - at: 22:52
+      label: Zed catches Fizz again
+    - at: 23:14
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:45
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
 - videoId: 7DvijxbcWsg
   title: Zed Mid vs Fizz - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1560
+  uploaded: 2026-08-24
+  result: L
+  moments:
+    - at: 3:45
+      label: First Blood — Zed kills Rengar
+      kind: kill
+    - at: 7:26
+      label: Rell takes down Fizz
+    - at: 8:09
+      label: Zed takes down Vayne
+    - at: 9:56
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:48
+      label: Zed takes down Fizz
+    - at: 15:34
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 16:46
+      label: Zed solo kills Rengar
+      kind: kill
+    - at: 17:01
+      label: Zed takes down Vayne
+    - at: 20:36
+      label: Zed Double Kill
+      kind: kill
+    - at: 20:57
+      label: Red takes Baron
+      kind: baron
+    - at: 21:44
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:00
+      label: Zed picks off Rengar
+    - at: 22:22
+      label: Kai'Sa kills Fizz
+      kind: kill
+    - at: 22:46
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:23
+      label: Zed catches Lucian
+    - at: 24:31
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:33
+      label: Zed Triple Kill
+      kind: kill
 - videoId: OD2R14aWUVU
   title: (DYN MathisV) Zed Mid vs Fizz - EUW Challenger Patch 26.15
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1711
-  player: MathisV
-  team: DYN
+  player: DYN MathisV
+  uploaded: 2026-08-13
+  result: L
+  moments:
+    - at: 4:52
+      label: First Blood — Zed kills Fizz
+      kind: kill
+    - at: 5:36
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:23
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:33
+      label: Zed solo kills Quinn
+      kind: kill
+    - at: 11:37
+      label: Zed Double Kill
+      kind: kill
+    - at: 13:36
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:43
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:46
+      label: Syndra takes down Akali
+    - at: 18:34
+      label: Zed picks off Quinn
+    - at: 21:20
+      label: Red takes Baron
+      kind: baron
+    - at: 21:51
+      label: Syndra picks off Nautilus
+    - at: 22:19
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:38
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:11
+      label: Pyke eliminates Nautilus
+    - at: 25:07
+      label: Pyke eliminates Nautilus
+    - at: 26:18
+      label: Pyke takes down Fizz
+    - at: 26:38
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:28
+      label: Zed kills Akali
+      kind: kill
 - videoId: zgI6X2qPXIY
   title: (S04E Zwyroo) Zed Mid vs Fizz - EUW Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1844
-  player: Zwyroo
-  team: S04E
+  player: S04E Zwyroo
+  uploaded: 2026-07-27
+  result: L
+  moments:
+    - at: 4:51
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:37
+      label: First Blood — Yone kills Camille
+      kind: kill
+    - at: 12:30
+      label: Zed solo kills Trundle
+      kind: kill
+    - at: 12:37
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:57
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:04
+      label: Zed catches Tristana
+    - at: 21:40
+      label: Zed outduels Tristana again
+    - at: 23:28
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:40
+      label: Zed picks off Trundle
+    - at: 24:06
+      label: Red takes Baron
+      kind: baron
+    - at: 24:28
+      label: Zed outduels Camille
+    - at: 27:13
+      label: Top Inhibitor falls (Blue)
+    - at: 27:54
+      label: Zed outplays Tristana (3rd time)
+    - at: 28:33
+      label: Yone kills Trundle
+      kind: kill
+    - at: 28:47
+      label: Zed outplays Camille again
+    - at: 28:49
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 29:55
+      label: Yone Double Kill
+      kind: kill
+    - at: 30:15
+      label: Mid Inhibitor falls (Blue)
 - videoId: 8ociMYW-Q40
   title: Zed vs Fizz Mid - NA Challenger - Patch 16.04 Season 16
   rankClaim: Challenger

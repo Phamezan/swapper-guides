@@ -4,16 +4,160 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1469
+  uploaded: 2026-09-14
+  result: W
+  moments:
+    - at: 9:29
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 12:11
+      label: Zed kills Dr. Mundo
+      kind: kill
+    - at: 12:28
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:36
+      label: Zed picks off Katarina
+    - at: 14:27
+      label: Zed solo kills Katarina
+      kind: kill
+    - at: 16:14
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:37
+      label: Zed catches Senna
+    - at: 17:57
+      label: Akali kills Sylas
+      kind: kill
+    - at: 18:24
+      label: Corki kills Katarina
+      kind: kill
+    - at: 18:45
+      label: Zed takes down Tristana
+    - at: 20:35
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:11
+      label: Zed outplays Sylas
+    - at: 22:44
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:05
+      label: Zed outduels Dr. Mundo
+    - at: 23:37
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 23:51
+      label: Top Inhibitor falls (Red)
+    - at: 24:03
+      label: Zed eliminates Tristana
+    - at: 24:20
+      label: Mid Inhibitor falls (Red)
 - videoId: zN77z-PEGtU
   title: Zed Jungle vs Sylas - KR Master Patch 26.15
   rankClaim: Master
   patch: "26.15"
   durationSec: 1629
+  uploaded: 2026-08-01
+  result: L
+  moments:
+    - at: 4:17
+      label: First Blood — Zed kills Volibear
+      kind: kill
+    - at: 11:42
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:42
+      label: Jhin picks off Swain
+    - at: 15:02
+      label: Jhin takes down Azir
+    - at: 15:43
+      label: Zed takes down Sylas
+    - at: 16:23
+      label: Zed picks off Tristana
+    - at: 17:31
+      label: K'Sante eliminates Swain
+    - at: 18:04
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 19:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:08
+      label: Zed kills Swain
+      kind: kill
+    - at: 21:33
+      label: Jhin eliminates Sylas
+    - at: 22:07
+      label: Zed eliminates Azir
+    - at: 23:49
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 24:47
+      label: Red takes Baron
+      kind: baron
+    - at: 25:43
+      label: Jhin takes down Azir
+    - at: 26:32
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:36
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:43
+      label: Jhin kills Tristana
+      kind: kill
 - videoId: sKviwcvMc5k
   title: Zed Jungle vs Sylas - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1652
+  uploaded: 2026-07-09
+  result: W
+  moments:
+    - at: 3:43
+      label: First Blood — Zed kills Tristana
+      kind: kill
+    - at: 7:29
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:31
+      label: Zed takes down Sylas
+    - at: 15:02
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:56
+      label: Zed picks off Riven
+    - at: 19:09
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 19:32
+      label: Seraphine takes down Tristana
+    - at: 20:25
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:43
+      label: Zed picks off Riven
+    - at: 22:38
+      label: Zed takes down Tristana
+    - at: 24:57
+      label: Zed catches Tristana again
+    - at: 25:44
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 26:32
+      label: Locke Double Kill
+      kind: kill
+    - at: 26:41
+      label: Locke Triple Kill
+      kind: kill
+    - at: 26:45
+      label: Locke Quadra Kill
+      kind: kill
+    - at: 27:07
+      label: Bot Inhibitor falls (Red)
+    - at: 27:09
+      label: Mid Inhibitor falls (Red)
+    - at: 27:23
+      label: Zed takes down Sylas
 - videoId: LjdxMxwc34E
   title: Zed Jungle vs Sylas - KR Master Patch 26.11
   rankClaim: Master

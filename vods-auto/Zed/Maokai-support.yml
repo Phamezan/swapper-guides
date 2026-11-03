@@ -4,3 +4,51 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1756
+  uploaded: 2026-08-11
+  result: L
+  moments:
+    - at: 3:01
+      label: First Blood — Zed kills Maokai
+      kind: kill
+    - at: 10:30
+      label: Zed outduels Qiyana
+    - at: 11:47
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:52
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:41
+      label: Karthus kills Maokai
+      kind: kill
+    - at: 13:38
+      label: Zed picks off Miss Fortune
+    - at: 14:54
+      label: Zed picks off Miss Fortune
+    - at: 15:37
+      label: Zed kills Brand
+      kind: kill
+    - at: 16:53
+      label: Zed eliminates Maokai
+    - at: 17:36
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:41
+      label: Karthus takes down Brand
+    - at: 22:30
+      label: Zed picks off Miss Fortune
+    - at: 23:19
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 24:17
+      label: Zed outplays Qiyana again
+    - at: 25:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:06
+      label: Red takes Baron
+      kind: baron
+    - at: 27:20
+      label: Ahri takes down Maokai
+    - at: 27:57
+      label: Mid Inhibitor falls (Blue)

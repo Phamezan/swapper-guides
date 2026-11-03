@@ -4,16 +4,161 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1540
+  uploaded: 2026-08-17
+  result: L
+  moments:
+    - at: 2:00
+      label: First Blood — Nidalee kills Cassiopeia
+      kind: kill
+    - at: 5:03
+      label: Nidalee kills Cassiopeia
+      kind: kill
+    - at: 8:54
+      label: Nidalee kills Cassiopeia
+      kind: kill
+    - at: 9:15
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:54
+      label: Zed kills Aatrox
+      kind: kill
+    - at: 13:22
+      label: Zed picks off Zeri
+    - at: 14:54
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:05
+      label: Zed eliminates Cassiopeia
+    - at: 16:35
+      label: Zed eliminates Pantheon
+    - at: 18:35
+      label: Zed eliminates Cassiopeia
+    - at: 20:10
+      label: Zed picks off Zeri
+    - at: 20:27
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 20:42
+      label: Nidalee picks off Vladimir
+    - at: 21:26
+      label: Red takes Baron
+      kind: baron
+    - at: 22:19
+      label: Zed eliminates Cassiopeia
+    - at: 25:01
+      label: Zed eliminates Cassiopeia
+    - at: 25:14
+      label: Mid Inhibitor falls (Blue)
 - videoId: 4nAMLszlDes
   title: Zed Top vs Cassiopeia - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1801
+  uploaded: 2026-07-29
+  result: W
+  moments:
+    - at: 5:25
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:02
+      label: First Blood — Zed kills Cassiopeia
+      kind: kill
+    - at: 12:08
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 12:10
+      label: Zed catches Cassiopeia
+    - at: 15:14
+      label: Zed outduels Cassiopeia again
+    - at: 17:45
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:00
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 23:06
+      label: Syndra picks off Seraphine
+    - at: 23:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:28
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:49
+      label: Akshan takes down Cassiopeia
+    - at: 28:20
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 28:28
+      label: Zed kills Hecarim
+      kind: kill
+    - at: 28:39
+      label: Zed outplays Cassiopeia (3rd time)
+    - at: 29:03
+      label: Akshan Double Kill
+      kind: kill
+    - at: 29:19
+      label: Bot Inhibitor falls (Red)
+    - at: 29:27
+      label: Syndra eliminates Hecarim
+    - at: 29:51
+      label: Syndra picks off Cassiopeia
 - videoId: mqOMASLqrwk
   title: Zed Top vs Cassiopeia - EUW Master Patch 26.13
   rankClaim: Master
   patch: "26.13"
   durationSec: 1520
+  uploaded: 2026-07-11
+  result: W
+  moments:
+    - at: 4:15
+      label: First Blood — Zed kills Cassiopeia
+      kind: kill
+    - at: 5:01
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 6:10
+      label: Zed catches Cassiopeia
+    - at: 10:52
+      label: Zed outduels Cassiopeia again
+    - at: 11:15
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:01
+      label: Zed outplays Cassiopeia (3rd time)
+    - at: 16:40
+      label: Zed solo kills Cassiopeia (4th time)
+      kind: kill
+    - at: 17:03
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 17:13
+      label: Zed kills Amumu
+      kind: kill
+    - at: 19:24
+      label: Jinx kills Yone
+      kind: kill
+    - at: 20:39
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:55
+      label: Zed picks off Caitlyn
+    - at: 22:50
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 23:46
+      label: Mid Inhibitor falls (Red)
+    - at: 23:48
+      label: Zed solo kills Caitlyn
+      kind: kill
+    - at: 23:58
+      label: Bot Inhibitor falls (Red)
+    - at: 24:21
+      label: Zed kills Amumu
+      kind: kill
+    - at: 24:50
+      label: Ekko kills Thresh
+      kind: kill
 - videoId: kpoDMPUJnWI
   title: Zed Top vs Cassiopeia - EUW Master Patch 26.11
   rankClaim: Master
