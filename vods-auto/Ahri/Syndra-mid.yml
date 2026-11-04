@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1294
+  region: EUW
   patchEstimated: true
   player: Caedrel
   uploaded: 2026-11-01
@@ -12,6 +13,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1775
+  region: KR
   uploaded: 2026-10-26
   result: W
   moments:
@@ -65,6 +67,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1452
+  region: KR
   uploaded: 2026-10-11
   result: W
   moments:
@@ -114,6 +117,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1461
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-10
@@ -122,6 +126,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1731
+  region: KR
   uploaded: 2026-10-03
   result: W
   moments:
@@ -173,6 +178,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1270
+  region: NA
   patchEstimated: true
   player: dunlol
   uploaded: 2026-10-01
@@ -181,6 +187,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1914
+  region: KR
   uploaded: 2026-09-26
   result: W
   moments:
@@ -234,6 +241,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1760
+  region: EUW
   uploaded: 2026-09-24
   result: W
   moments:
@@ -290,6 +298,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1954
+  region: KR
   player: Pungyeon
   team: BRO
   uploaded: 2026-09-17
@@ -346,6 +355,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1871
+  region: EUW
   player: KHK Boda
   uploaded: 2026-08-30
   result: W
@@ -398,6 +408,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1667
+  region: KR
   uploaded: 2026-08-27
   result: W
   moments:
@@ -453,13 +464,125 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1920
+  region: EUW
   patchEstimated: true
   player: raikokatarina
   uploaded: 2026-08-18
+- videoId: -0HBO_qNDrg
+  title: "MID.GG: [ Azzapp ] Ahri MID vs Syndra | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1753
+  region: EUW
+  patchEstimated: true
+  player: Azzapp
+  uploaded: 2026-08-01
+- videoId: bTkfu7DGQ2A
+  title: "MID.GG: [ NattyNattLoL ] Ahri MID vs Syndra | EUW GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1511
+  region: EUW
+  patchEstimated: true
+  player: NattyNattLoL
+  uploaded: 2026-07-18
 - videoId: b3Yq50u2UvM
   title: (G2 Caps) Ahri Mid vs Syndra - EUW Challenger Patch 26.11
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1662
+  region: EUW
   player: Caps
   team: G2
+  uploaded: 2026-06-05
+  result: W
+  moments:
+    - at: 3:54
+      label: Senna eliminates Nasus
+    - at: 9:30
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:04
+      label: Senna Triple Kill
+      kind: kill
+    - at: 15:19
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:17
+      label: Ahri takes down Aurora
+    - at: 21:35
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 21:52
+      label: Ahri eliminates Syndra
+    - at: 22:49
+      label: Ahri takes down Bard
+    - at: 23:48
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:19
+      label: Ahri outplays Aurora
+    - at: 26:03
+      label: Senna picks off Bard
+    - at: 26:36
+      label: Mid Inhibitor falls (Red)
+- videoId: 0A-E5RhW27M
+  title: "MID.GG: [ Nisqy ] Ahri MID vs Syndra | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1361
+  region: EUW
+  patchEstimated: true
+  player: Nisqy
+  uploaded: 2026-04-12
+- videoId: p2qMeQh7edw
+  title: "MID.GG: [ alwaysplanahealol ] Ahri MID vs Syndra | NA CHALLENGER | LOL Season 2026"
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1137
+  region: NA
+  patchEstimated: true
+  player: alwaysplanahealol
+  uploaded: 2026-04-06
+- videoId: ZXu9GFVGCjU
+  title: Ahri Mid vs Syndra - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1496
+  region: KR
+- videoId: XrD5xMGSzEs
+  title: DK ShowMaker Ahri vs Syndra [ MID ] Korea Challenger 1829 LP | Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1527
+  region: KR
+  player: ShowMaker
+  team: DK
+- videoId: tLefLg_s8r8
+  title: Ahri Mid vs Syndra - EUW Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1656
+  region: EUW
+- videoId: FaRbqoPNcmw
+  title: Ahri Mid vs Syndra - KR Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1968
+  region: KR
+- videoId: oGahwT-y2bA
+  title: Ahri Mid vs Syndra - TW Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1426
+- videoId: S-N6JdmmWXw
+  title: Ahri Mid vs Syndra - BR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1793
+- videoId: xNIdi41_v-Y
+  title: Ahri vs Syndra Mid - EUW Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1691
+  region: EUW

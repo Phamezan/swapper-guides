@@ -4,3 +4,64 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1831
+  region: EUW
+  uploaded: 2026-05-21
+  result: W
+  moments:
+    - at: 4:52
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 5:17
+      label: First Blood — Ryze kills Malphite
+      kind: kill
+    - at: 10:15
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:09
+      label: Karma eliminates Senna
+    - at: 14:58
+      label: Zed eliminates Smolder
+    - at: 15:45
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:26
+      label: Zed catches Senna
+    - at: 18:04
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 20:21
+      label: Zed kills Senna
+      kind: kill
+    - at: 21:07
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:05
+      label: Zed picks off Vladimir
+    - at: 22:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:02
+      label: Ashe eliminates Malphite
+    - at: 25:12
+      label: Ashe picks off Fiora
+    - at: 25:57
+      label: Bot Inhibitor falls (Red)
+    - at: 26:22
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 27:57
+      label: Ryze eliminates Vladimir
+    - at: 29:53
+      label: Mid Inhibitor falls (Red)
+- videoId: HiInTeeEioY
+  title: Zed vs Malphite [ Jungle ] Lol Korea Master Patch 25.24 ✅
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1486
+  region: KR
+- videoId: bvUKeLmQLuM
+  title: Zed Jungle vs Malphite - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1567
+  region: NA

@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1871
+  region: KR
   uploaded: 2026-06-19
   result: L
   moments:
@@ -48,11 +49,18 @@
       label: Jayce takes down Naafiri
     - at: 30:30
       label: Jayce picks off Ekko
+- videoId: OnyubZaopxI
+  title: Ahri Top vs Irelia - KR Master Patch 26.10
+  rankClaim: Master
+  patch: "26.10"
+  durationSec: 1842
+  region: KR
 - videoId: t9pnRh3ourA
   title: Ahri Top vs Irelia - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1426
+  region: EUW
   uploaded: 2026-05-10
   result: L
   moments:
@@ -97,3 +105,15 @@
       kind: kill
     - at: 23:19
       label: Bot Inhibitor falls (Blue)
+- videoId: StheOC043aA
+  title: Ahri Top vs Irelia - KR Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1935
+  region: KR
+- videoId: wNI3oVksr54
+  title: Ahri vs Irelia Top - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1831
+  region: KR

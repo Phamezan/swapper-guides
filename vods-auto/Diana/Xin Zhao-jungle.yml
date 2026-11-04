@@ -7,6 +7,7 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-06-11
 - videoId: 3xagybiHizw
   title: Diana vs Xin Zhao Jungle [ QuadraKill ] Lol Korea Master Patch 26.4 ✅
   rankClaim: Master
@@ -14,3 +15,15 @@
   durationSec: 1389
   region: KR
   player: QuadraKill
+- videoId: 4kVRlFXlook
+  title: Diana Jungle vs Xin Zhao - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1661
+  region: KR
+- videoId: sCGAv3xqDeo
+  title: Diana Jungle vs Xin Zhao - EUW Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1725
+  region: EUW

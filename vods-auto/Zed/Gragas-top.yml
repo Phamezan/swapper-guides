@@ -4,3 +4,60 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1860
+  region: KR
+  uploaded: 2026-06-23
+  result: W
+  moments:
+    - at: 3:20
+      label: First Blood — Zed kills Gragas
+      kind: kill
+    - at: 6:02
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:10
+      label: Zed catches Gragas
+    - at: 13:35
+      label: Zed outduels Gragas again
+    - at: 14:04
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:45
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:38
+      label: Zed outplays Gragas (3rd time)
+    - at: 20:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:38
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:27
+      label: Zed Triple Kill
+      kind: kill
+    - at: 23:49
+      label: Mid Inhibitor falls (Red)
+    - at: 24:45
+      label: Zed takes down Xerath
+    - at: 26:59
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 28:03
+      label: Zed kills Qiyana
+      kind: kill
+    - at: 28:25
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 30:02
+      label: Zed outplays Xerath
+    - at: 30:08
+      label: Zed Double Kill
+      kind: kill
+    - at: 30:28
+      label: Mid Inhibitor falls (Red)
+- videoId: 4w3orbM8UKo
+  title: Zed Top vs Gragas - NA Grandmaster Patch 25.04
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 2056
+  region: NA

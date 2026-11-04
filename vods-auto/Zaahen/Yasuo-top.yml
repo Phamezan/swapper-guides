@@ -4,3 +4,22 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1651
+  region: KR
+  uploaded: 2026-03-27
+- videoId: nNxYmjtOmBM
+  title: Zaahen Top vs Yasuo - BR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1599
+- videoId: WsS6OM45r6s
+  title: Zaahen vs Yasuo Top - EUW Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1661
+  region: EUW
+- videoId: xibbGY-qESA
+  title: Zaahen vs Yasuo Top - EUW Master - Patch 25.23 Season 15
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1756
+  region: EUW

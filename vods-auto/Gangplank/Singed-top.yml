@@ -4,4 +4,19 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1741
+  region: KR
   uploaded: 2026-09-02
+- videoId: JkWOfzz-gyY
+  title: (LYON Castle) Gangplank Top vs Singed - KR Master Patch 26.16
+  rankClaim: Master
+  patch: "26.16"
+  durationSec: 1846
+  region: KR
+  player: LYON Castle
+- videoId: 9xnwuSD192w
+  title: OTP Gangplank vs Singed [ TOP ] Patch 25.1 Korea Grandmaster ✅
+  rankClaim: Grandmaster
+  patch: "25.1"
+  durationSec: 1256
+  region: KR
+  player: OTP

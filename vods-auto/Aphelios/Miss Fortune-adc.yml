@@ -7,3 +7,33 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: Bm4exBK338s
+  title: Aphelios ADC vs Miss Fortune - KR Challenger Patch 26.03
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1608
+  region: KR
+- videoId: cSl_2uLM_Nk
+  title: Aphelios ADC vs Miss Fortune - NA Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1567
+  region: NA
+- videoId: AnQZaUwQrMQ
+  title: Aphelios vs Miss Fortune ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1816
+  region: KR
+- videoId: zDjOxi4TaBI
+  title: Aphelios ADC vs Miss Fortune - KR Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1552
+  region: KR
+- videoId: h_r0tC8i2mo
+  title: Aphelios ADC vs Miss Fortune - EUW Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1697
+  region: EUW

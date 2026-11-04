@@ -4,3 +4,54 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1779
+  region: KR
+  uploaded: 2026-05-24
+  result: L
+  moments:
+    - at: 2:39
+      label: First Blood — Zed kills Ezreal
+      kind: kill
+    - at: 8:47
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:54
+      label: Kennen eliminates Ezreal
+    - at: 14:06
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:01
+      label: Yuumi picks off Lucian
+    - at: 16:24
+      label: Zed kills Smolder
+      kind: kill
+    - at: 19:42
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:46
+      label: Zed kills Smolder
+      kind: kill
+    - at: 20:36
+      label: Zed kills Lulu
+      kind: kill
+    - at: 23:29
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:52
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 25:21
+      label: Zed kills Smolder
+      kind: kill
+    - at: 25:52
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:41
+      label: Zed takes down Singed
+    - at: 27:23
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:37
+      label: Top Inhibitor falls (Blue)
+    - at: 28:37
+      label: Zed kills Smolder
+      kind: kill
+    - at: 29:21
+      label: Zed eliminates Lucian

@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1590
+  region: KR
   player: Jiwoo
   team: KT
   uploaded: 2026-10-27
@@ -50,6 +51,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1976
+  region: KR
   uploaded: 2026-09-03
   result: W
   moments:
@@ -106,6 +108,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1968
+  region: EUW
   uploaded: 2026-09-02
   result: W
   moments:
@@ -159,6 +162,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1585
+  region: KR
   uploaded: 2026-08-31
   result: W
   moments:
@@ -208,11 +212,18 @@
     - at: 25:52
       label: Team fight (3 kills)
       kind: teamfight
+- videoId: 0cVLY2zCsKk
+  title: Zed Jungle vs Taliyah - KR Master Patch 26.15
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1626
+  region: KR
 - videoId: oCEXW-5C1a0
   title: (IN5 Alix) Zed Jungle vs Taliyah - EUW Challenger Patch 26.14
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1884
+  region: EUW
   player: IN5 Alix
   uploaded: 2026-07-18
   result: L
@@ -268,6 +279,7 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1668
+  region: EUW
   uploaded: 2026-07-07
   result: L
   moments:
@@ -321,8 +333,129 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1612
+  region: KR
+  uploaded: 2026-05-22
+  result: L
+  moments:
+    - at: 1:24
+      label: First Blood — Zed kills Ambessa
+      kind: kill
+    - at: 10:22
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:55
+      label: Zed outduels Darius
+    - at: 14:29
+      label: Zed outplays Darius again
+    - at: 17:11
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:33
+      label: Zed outplays Taliyah
+    - at: 19:09
+      label: Top Inhibitor falls (Blue)
+    - at: 19:34
+      label: Zed solo kills Taliyah again
+      kind: kill
+    - at: 20:43
+      label: Gangplank eliminates Camille
+    - at: 21:54
+      label: Gangplank Triple Kill
+      kind: kill
+    - at: 22:25
+      label: Zed takes down Taliyah (3rd time)
+    - at: 22:50
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:21
+      label: Red takes Baron
+      kind: baron
+    - at: 24:24
+      label: Zed takes down Taliyah
+    - at: 24:48
+      label: Zed solo kills Ambessa
+      kind: kill
+    - at: 25:06
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:50
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 26:05
+      label: Bot Inhibitor falls (Blue)
+- videoId: zVli9pcBdVg
+  title: Zed Jungle vs Taliyah - KR Grandmaster Patch 26.09
+  rankClaim: Grandmaster
+  patch: "26.9"
+  durationSec: 1568
+  region: KR
 - videoId: n2UKCcEIm7o
   title: Zed Jungle vs Taliyah - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1797
+  region: EUW
+  uploaded: 2026-05-02
+  result: L
+  moments:
+    - at: 2:08
+      label: First Blood — Zed kills Urgot
+      kind: kill
+    - at: 6:58
+      label: Zed catches Thresh
+    - at: 7:58
+      label: Zed outplays Taliyah
+    - at: 9:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:26
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:08
+      label: Red takes Baron
+      kind: baron
+    - at: 21:27
+      label: Zed eliminates Vayne
+    - at: 21:46
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:19
+      label: Zed takes down Taliyah
+    - at: 24:17
+      label: Zed solo kills Ahri
+      kind: kill
+    - at: 24:22
+      label: Vladimir picks off Taliyah
+    - at: 24:33
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:09
+      label: Zed picks off Ahri
+    - at: 27:20
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 27:51
+      label: Leona kills Taliyah
+      kind: kill
+    - at: 28:21
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:20
+      label: Zed eliminates Vayne
+    - at: 29:42
+      label: Mid Inhibitor falls (Blue)
+- videoId: c9zPwXWZkCg
+  title: Zed Jungle vs Taliyah - TW Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1883
+- videoId: HXUEnfOE5p0
+  title: Zed vs Taliyah Jungle - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1561
+  region: KR
+- videoId: G3kd1dkaniY
+  title: Zed Jungle vs Taliyah - EUW Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 2077
+  region: EUW

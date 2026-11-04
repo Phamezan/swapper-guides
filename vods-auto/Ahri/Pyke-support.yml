@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1501
+  region: NA
   uploaded: 2026-03-12
   moments:
     - at: 0:15
@@ -60,3 +61,26 @@
       kind: tower
     - at: 24:50
       label: End credit
+- videoId: fFGKgvDHGZo
+  title: Ahri Support vs Pyke - EUW Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 2025
+  region: EUW
+- videoId: NXN8Ws15gdQ
+  title: Ahri Support vs Pyke - VN Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1476
+- videoId: CFcfuV_aenY
+  title: Ahri Support vs Pyke - KR Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1812
+  region: KR
+- videoId: fRp9uvw9Io4
+  title: Ahri Support vs Pyke - KR Master Patch 25.10
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1608
+  region: KR

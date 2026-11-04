@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1581
+  region: EUW
   player: WD Fred
   uploaded: 2026-10-23
   result: W
@@ -56,3 +57,10 @@
       label: Mid Inhibitor falls (Red)
     - at: 26:04
       label: Top Inhibitor falls (Red)
+- videoId: qlFvSxbnWJs
+  title: (MISA Kofte) Ahri Mid vs Nunu & Willump - EUW Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1460
+  region: EUW
+  player: MISA Kofte

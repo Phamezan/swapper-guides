@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1306
+  region: NA
   player: Ruler
   uploaded: 2026-10-28
 - videoId: _qRw1D9lLmI
@@ -24,13 +25,56 @@
   player: Viper
   team: BLG
   uploaded: 2026-09-03
+- videoId: -c2csgCuA6g
+  title: (BLG Viper) Yunara ADC vs Lucian - KR Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1600
+  region: KR
+  player: Viper
+  team: BLG
+- videoId: GMgwscKEWwg
+  title: Yunara ADC vs Lucian - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1651
+  region: KR
 - videoId: LwnmrCC-704
   title: Yunara vs Lucian ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1876
+  region: KR
+  uploaded: 2026-04-08
 - videoId: lEzUc6eg_f8
   title: Yunara vs Lucian ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1716
+  region: KR
+  uploaded: 2026-04-01
+- videoId: jgV9zWp6USc
+  title: Gumayusi Yunara vs Lucian [ ADC ] Patch 25.17 Korea Master - T1 Gumayusi
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 1056
+  region: KR
+  player: Gumayusi
+- videoId: FVNPoUW4GFQ
+  title: Yunara vs Lucian ADC - EUW Challenger - Patch 25.14 Season 15
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1621
+  region: EUW
+- videoId: LkZ7y3nze4M
+  title: Yunara vs Lucian ADC - EUW Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 2071
+  region: EUW
+- videoId: Xtysu5uBgl0
+  title: Yunara vs Lucian ADC - EUW Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1651
+  region: EUW

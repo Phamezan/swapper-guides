@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1682
+  region: KR
   uploaded: 2026-07-27
   result: W
   moments:
@@ -50,3 +51,15 @@
       label: Top Inhibitor falls (Red)
     - at: 27:43
       label: Mid Inhibitor falls (Red)
+- videoId: sY2yMUhyP10
+  title: Zed Support vs Rell - KR Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1754
+  region: KR
+- videoId: Os9BSJbaHSo
+  title: Zed Support vs Rell - KR Grandmaster Patch 25.19
+  rankClaim: Grandmaster
+  patch: "25.19"
+  durationSec: 1967
+  region: KR

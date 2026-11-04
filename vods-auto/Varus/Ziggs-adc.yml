@@ -13,6 +13,7 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 2176
+  region: KR
   uploaded: 2026-06-11
 - videoId: 86Gr8n9caqc
   title: DK Smash Varus vs Ziggs [ ADC ] Korea Challenger 1837 LP | Patch 26.6
@@ -22,3 +23,9 @@
   region: KR
   player: Smash
   team: DK
+- videoId: o2CSeKU_-VI
+  title: Varus ADC vs Ziggs - KR Master Patch 26.04
+  rankClaim: Master
+  patch: "26.4"
+  durationSec: 1568
+  region: KR

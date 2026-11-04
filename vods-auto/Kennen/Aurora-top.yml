@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 2736
+  region: KR
+- videoId: GJLOFpKPAS8
+  title: Kennen Top vs Aurora - KR Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 2094
+  region: KR

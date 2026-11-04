@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.4"
   durationSec: 1650
+  region: NA
   uploaded: 2026-03-03
   moments:
     - at: 0:15
@@ -40,3 +41,8 @@
       kind: tower
     - at: 27:19
       label: End credit
+- videoId: cWDYgw6VLAs
+  title: Ahri Support vs Leona - VN Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1713

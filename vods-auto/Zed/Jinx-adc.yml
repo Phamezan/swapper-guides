@@ -4,11 +4,106 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1822
+  region: NA
+  uploaded: 2026-06-19
+  result: L
+  moments:
+    - at: 2:29
+      label: First Blood — Nami kills LeBlanc
+      kind: kill
+    - at: 10:28
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:56
+      label: Zed outplays LeBlanc
+    - at: 13:50
+      label: Zed catches Aurelion Sol
+    - at: 16:02
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 20:33
+      label: Zed outduels Jinx
+    - at: 21:08
+      label: Syndra takes down LeBlanc
+    - at: 21:27
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 22:27
+      label: Zed solo kills Ambessa
+      kind: kill
+    - at: 23:20
+      label: Zed takes down Ambessa again
+    - at: 25:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:40
+      label: Red takes Baron
+      kind: baron
+    - at: 27:02
+      label: Zed takes down Jinx
+    - at: 27:29
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 28:06
+      label: Bot Inhibitor falls (Blue)
+    - at: 29:41
+      label: Zed kills Aurelion Sol
+      kind: kill
+    - at: 30:01
+      label: Top Inhibitor falls (Blue)
+    - at: 30:03
+      label: Mid Inhibitor falls (Blue)
 - videoId: yzg4H6kzAM0
   title: Zed ADC vs Jinx - EUW Grandmaster Patch 26.11
   rankClaim: Grandmaster
   patch: "26.11"
   durationSec: 1826
+  region: EUW
+  uploaded: 2026-06-09
+  result: L
+  moments:
+    - at: 4:56
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 5:31
+      label: First Blood — Zed kills Braum
+      kind: kill
+    - at: 6:04
+      label: Zed outduels Jinx
+    - at: 8:21
+      label: Zed outplays Jinx again
+    - at: 10:23
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:13
+      label: Zed picks off Braum
+    - at: 15:48
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 17:10
+      label: Zed solo kills Jinx (3rd time)
+      kind: kill
+    - at: 18:03
+      label: Zed kills Sion
+      kind: kill
+    - at: 21:04
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 21:36
+      label: Red takes Baron
+      kind: baron
+    - at: 24:21
+      label: Orianna picks off Lee Sin
+    - at: 24:46
+      label: Top Inhibitor falls (Blue)
+    - at: 26:42
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 27:55
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:48
+      label: Bot Inhibitor falls (Red)
 - videoId: LPs0BMBX4Vo
   title: Zed ADC vs Jinx - BR Master Patch 26.01
   rankClaim: Master

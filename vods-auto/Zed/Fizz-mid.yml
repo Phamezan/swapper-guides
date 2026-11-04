@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1418
+  region: EUW
   player: BZ
   uploaded: 2026-10-12
   result: W
@@ -39,6 +40,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 2072
+  region: KR
   uploaded: 2026-10-12
   result: W
   moments:
@@ -96,6 +98,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1575
+  region: NA
   uploaded: 2026-10-06
   result: W
   moments:
@@ -149,6 +152,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1690
+  region: KR
   uploaded: 2026-09-21
   result: W
   moments:
@@ -201,6 +205,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1472
+  region: KR
   uploaded: 2026-08-30
   result: W
   moments:
@@ -251,6 +256,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1560
+  region: KR
   uploaded: 2026-08-24
   result: L
   moments:
@@ -303,6 +309,7 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1711
+  region: EUW
   player: DYN MathisV
   uploaded: 2026-08-13
   result: L
@@ -358,6 +365,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1844
+  region: EUW
   player: S04E Zwyroo
   uploaded: 2026-07-27
   result: L
@@ -413,3 +421,27 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1561
+  region: NA
+- videoId: _yxsmNTbB-A
+  title: Zed Mid vs Fizz - TW Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 2136
+- videoId: nILy9AwBCfM
+  title: Laceration Zed vs Fizz Mid - NA Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1741
+  region: NA
+  player: Laceration
+- videoId: SPIU_HiGhMQ
+  title: Zed Mid vs Fizz - KR Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 2057
+  region: KR
+- videoId: _ixsKKjkLVU
+  title: Zed Mid vs Fizz - TW Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1649

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1841
+  region: EUW
   uploaded: 2026-07-16
   result: W
   moments:
@@ -62,6 +63,7 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1660
+  region: KR
   uploaded: 2026-05-26
   result: L
   moments:
@@ -101,3 +103,9 @@
     - at: 27:16
       label: Lucian Double Kill
       kind: kill
+- videoId: M5EY5FTW05A
+  title: Ahri Top vs Ambessa - NA Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1752
+  region: NA

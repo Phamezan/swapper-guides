@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1875
+  region: KR
   uploaded: 2026-08-19
   result: L
   moments:
@@ -53,3 +54,9 @@
       kind: dragon
     - at: 30:49
       label: Zed outplays Zeri again
+- videoId: cCy3ibdr5TE
+  title: Zed ADC vs Zeri - EUW Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1672
+  region: EUW

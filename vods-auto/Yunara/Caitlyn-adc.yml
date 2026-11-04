@@ -22,13 +22,17 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1516
+  region: KR
   player: Peyz
+  uploaded: 2026-04-14
 - videoId: U-6mhrK0AeM
   title: Peyz Yunara vs Caitlyn ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1981
+  region: KR
   player: Peyz
+  uploaded: 2026-04-11
 - videoId: 0nr2YuV4Yr8
   title: "T1 Peyz Yunara vs Caitlyn [ ADC ] Rank #2 Korea Challenger Patch 26.7"
   rankClaim: Challenger
@@ -37,6 +41,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-10
 - videoId: K_luCiw_Meg
   title: T1 Peyz Yunara vs Caitlyn [ ADC ] Korea Challenger 2470 LP | Patch 26.7
   rankClaim: Challenger
@@ -45,6 +50,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-07
 - videoId: vzpjpRD0OTE
   title: Yunara vs Caitlyn ADC [ Gen.G Ruler ] Patch 26.3 Ranked Korea
   rankClaim: Master+
@@ -61,3 +67,25 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: ZGMlbrWt_Ww
+  title: Yunara vs Caitlyn ADC [ PentaKill ] Lol Korea Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1644
+  region: KR
+  player: PentaKill
+- videoId: bk_Sv8C2K4c
+  title: Yunara vs Caitlyn ADC [ PentaKill ] Lol Korea Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1224
+  region: KR
+  player: PentaKill
+- videoId: TPRuj3rQyNk
+  title: Yunara vs Caitlyn ADC [ JDG Peyz ] Patch 25.14 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1371
+  region: KR
+  player: Peyz
+  team: JDG

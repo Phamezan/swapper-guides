@@ -5,6 +5,7 @@
   patch: "26.14"
   durationSec: 1622
   region: KR
+  uploaded: 2026-07-19
 - videoId: yltU3eigPxU
   title: T1 Peyz Aphelios vs Varus [ ADC ] Korea Challenger 2061 LP | Patch 26.6
   rankClaim: Challenger
@@ -58,4 +59,47 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1681
+  region: KR
   uploaded: 2026-01-17
+- videoId: lZivzEewdi8
+  title: Aphelios vs Varus ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 2400
+  region: KR
+- videoId: Zz3bEmvC3F0
+  title: Aphelios vs Varus ADC - EUW Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 2086
+  region: EUW
+- videoId: eq-7-uWaGxg
+  title: Aphelios ADC vs Varus - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1593
+  region: KR
+- videoId: bpOGspUtETY
+  title: Aphelios vs Varus ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1456
+  region: KR
+- videoId: 8XRczjI1gV8
+  title: Aphelios vs Varus ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1696
+  region: KR
+- videoId: 2EIg2NEq7HM
+  title: Aphelios vs Varus ADC - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1511
+  region: KR
+- videoId: y2JoxDKovZ8
+  title: Aphelios vs Varus ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1456
+  region: KR

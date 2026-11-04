@@ -7,6 +7,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-05-13
 - videoId: qc7Hk4bq-BQ
   title: T1 Peyz Lucian vs Senna [ ADC ] Korea Challenger 2407 LP | Patch 26.8
   rankClaim: Challenger
@@ -14,4 +15,19 @@
   durationSec: 1343
   region: KR
   player: Peyz
+  team: T1
+  uploaded: 2026-04-22
+- videoId: _D6ySwJshY8
+  title: Lucian vs Senna ADC - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 2251
+  region: KR
+- videoId: IEkyQB9Zgz0
+  title: T1 Gumayusi Lucian vs Senna [ ADC ] Korea Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1043
+  region: KR
+  player: Gumayusi
   team: T1

@@ -7,6 +7,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-28
 - videoId: B9aSTEDDAsM
   title: T1 Peyz Ezreal vs Sivir [ ADC ] Korea Challenger 2287 LP | Patch 26.6
   rankClaim: Challenger
@@ -15,6 +16,13 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-31
+- videoId: 960_DyWKhLA
+  title: Ezreal ADC vs Sivir - KR Master Patch 26.03
+  rankClaim: Master
+  patch: "26.3"
+  durationSec: 1620
+  region: KR
 - videoId: lgdmA7jpCe4
   title: DK Smash Ezreal vs Sivir [ ADC ] Korea Challenger 1413 LP | Patch 26.3
   rankClaim: Challenger
@@ -31,3 +39,55 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: 5v5FuGgShlo
+  title: Ezreal vs Sivir [ ADC ] Korea Challenger 1554 LP | Patch 25.23 ✅
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1330
+  region: KR
+- videoId: 9NYiPouEi30
+  title: T1 Gumayusi Ezreal vs Sivir [ ADC ] Patch 25.18 Korea Master
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1766
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: FkYCe6Rh2Rk
+  title: Ezreal vs Sivir ADC - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 2011
+  region: KR
+- videoId: vh8DrGjPxuM
+  title: T1 Smash Ezreal vs Sivir [ ADC ] Patch 25.16 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1678
+  region: KR
+  player: Smash
+  team: T1
+- videoId: U-LemaYoEm0
+  title: T1 Gumayusi Ezreal vs Sivir [ ADC ] Korea Master Patch 25.9
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1194
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: fMChma4W5Sc
+  title: T1 Gumayusi Ezreal ADC vs Sivir - Patch 25.6 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 750
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: 6nGVZP8siig
+  title: Ezreal vs Sivir ADC [ Gen.G Ruler ] Patch 25.4 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1422
+  region: KR
+  player: Ruler
+  team: Gen.G

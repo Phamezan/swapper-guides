@@ -14,3 +14,65 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-23
+  moments:
+    - at: 0:00
+      label: Early game phase
+    - at: 1:23
+      label: Mid-lane skirmishing
+    - at: 3:15
+      label: Team coordination
+    - at: 4:38
+      label: Mid-game rotations
+    - at: 5:45
+      label: Objective contention
+    - at: 7:36
+      label: Advancing the pressure
+    - at: 9:38
+      label: Destroying structures
+    - at: 10:24
+      label: Mid-game deadlock
+    - at: 11:38
+      label: Late game setup
+    - at: 12:45
+      label: Final push preparations
+    - at: 13:33
+      label: Closing the game
+    - at: 15:19
+      label: Match conclusion
+- videoId: CkK0GNzXQDo
+  title: Varus ADC vs Yunara - KR Challenger Patch 26.02
+  rankClaim: Challenger
+  patch: "26.2"
+  durationSec: 1619
+  region: KR
+- videoId: 3POyj_mc_jE
+  title: T1 Peyz Varus vs Yunara [ ADC ] Korea Challenger 1372 LP | Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1625
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: VN4se75Pnm4
+  title: T1 Peyz Varus vs Yunara [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1416
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: NAYGoPQSSF8
+  title: Varus ADC vs Yunara - KR Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1665
+  region: KR
+- videoId: IAOWGzQxkRs
+  title: T1 Gumayusi Varus vs Yunara [ ADC ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1024
+  region: KR
+  player: Gumayusi
+  team: T1

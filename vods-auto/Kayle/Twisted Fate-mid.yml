@@ -8,8 +8,34 @@
   player: ShowMaker
   team: DK
   uploaded: 2026-10-01
+- videoId: CWThlrkkQ7s
+  title: Kayle Mid vs Twisted Fate - KR Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1680
+  region: KR
 - videoId: Q9CG_6MwAts
   title: Kayle vs Twisted Fate Mid - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1711
+  region: KR
+  uploaded: 2026-04-27
+- videoId: 3yBrsToWy_M
+  title: Kayle Mid vs Twisted Fate - KR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1587
+  region: KR
+- videoId: VbM_PcjbmGU
+  title: Kayle Mid vs Twisted Fate - EUW Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1800
+  region: EUW
+- videoId: nACaMzqNcL8
+  title: Kayle Mid vs Twisted Fate - EUW Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1566
+  region: EUW

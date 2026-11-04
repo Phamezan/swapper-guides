@@ -16,3 +16,39 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-06-27
+- videoId: rYSMtOEiJZo
+  title: (FXF Creal) Yone Mid vs Sylas (BGT iwanan) - EUW Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1601
+  region: EUW
+  player: FXF Creal
+- videoId: 8IXZBzsyInU
+  title: (JDG Xiaoxu) Yone Mid vs Sylas - KR Master Patch 26.11
+  rankClaim: Master
+  patch: "26.11"
+  durationSec: 1474
+  region: KR
+  player: Xiaoxu
+  team: JDG
+- videoId: QbwpSZqTRMs
+  title: Yone vs Sylas Mid - KR Challenger - Patch 25.22 Season 15
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1171
+  region: KR
+- videoId: 6-MDQhOt2zg
+  title: Yone Mid vs Sylas - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1588
+  region: KR
+- videoId: QS3cm-O7PPA
+  title: T1 Faker Yone MID vs Sylas - Patch 25.1 Korea Master ✅
+  rankClaim: Master
+  patch: "25.1"
+  durationSec: 1967
+  region: KR
+  player: Faker
+  team: T1

@@ -4,12 +4,79 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1426
+  region: KR
   uploaded: 2026-11-02
+- videoId: oFtYTBIhQyg
+  title: Graves Jungle vs Nidalee - KR Grandmaster Patch 26.20
+  rankClaim: Grandmaster
+  patch: "26.20"
+  durationSec: 1530
+  region: KR
+  uploaded: 2026-10-22
+  result: W
+  moments:
+    - at: 1:25
+      label: First Blood — Ekko kills Nidalee
+      kind: kill
+    - at: 6:16
+      label: Graves picks off Twisted Fate
+    - at: 9:01
+      label: Graves kills Fiora
+      kind: kill
+    - at: 11:07
+      label: Graves kills Zed
+      kind: kill
+    - at: 13:26
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:41
+      label: Graves eliminates Kai'Sa
+    - at: 15:05
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:08
+      label: Graves kills Zed
+      kind: kill
+    - at: 18:51
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:21
+      label: Graves takes down Nidalee
+    - at: 21:03
+      label: Red takes Baron
+      kind: baron
+    - at: 21:15
+      label: Graves takes down Nidalee
+    - at: 21:25
+      label: Graves Triple Kill
+      kind: kill
+    - at: 23:02
+      label: Graves takes down Nidalee
+    - at: 24:05
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 24:07
+      label: Graves kills Fiora
+      kind: kill
+    - at: 24:41
+      label: Jhin Double Kill
+      kind: kill
+    - at: 25:00
+      label: Mid Inhibitor falls (Blue)
+- videoId: 5TrFTR-6nq4
+  title: (SK Mikyx) Graves Jungle vs Nidalee - EUW Grandmaster Patch 26.12
+  rankClaim: Grandmaster
+  patch: "26.12"
+  durationSec: 1825
+  region: EUW
+  player: SK Mikyx
 - videoId: Hzs7iIqHzzY
   title: Graves vs Nidalee Jungle - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1921
+  region: KR
+  uploaded: 2026-03-31
 - videoId: N2vR621VI2E
   title: HLE Kanavi Graves vs Nidalee [ Jungle ] Korea Grandmaster 1192 LP | Patch 26.5
   rankClaim: Grandmaster
@@ -18,3 +85,26 @@
   region: KR
   player: Kanavi
   team: HLE
+- videoId: wOJq-FLp3dE
+  title: Graves Jungle vs Nidalee - KR Challenger Patch 25.21
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1760
+  region: KR
+- videoId: pNe4EmrEioY
+  title: Graves Jungle vs Nidalee - KR Grandmaster Patch 25.16
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 1771
+  region: KR
+- videoId: 0b48E6Lqs5E
+  title: Graves Jungle vs Nidalee - TW Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 2094
+- videoId: 39VbwqR9P6M
+  title: Graves Jungle vs Nidalee - KR Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1605
+  region: KR

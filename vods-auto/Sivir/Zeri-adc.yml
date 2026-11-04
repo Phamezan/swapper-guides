@@ -5,3 +5,24 @@
   patch: "26.14"
   durationSec: 1544
   region: KR
+  uploaded: 2026-07-16
+- videoId: lKteTRRPYQY
+  title: T1 Gumayusi Sivir vs Zeri [ ADC ] Patch 25.17 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 776
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: qaotkdWQ_vY
+  title: Sivir ADC vs Zeri - TW Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1812
+- videoId: sqK6qedFN-k
+  title: Sivir vs Zeri ADC [ QuadraKill ] Lol Korea Master Patch 25.11 ✅
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1456
+  region: KR
+  player: QuadraKill

@@ -4,3 +4,53 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1436
+  region: KR
+  uploaded: 2026-06-13
+  result: W
+  moments:
+    - at: 1:38
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 4:34
+      label: Zed eliminates Sylas
+    - at: 5:33
+      label: Ezreal picks off Sylas
+    - at: 8:01
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:25
+      label: Lee Sin picks off Yone
+    - at: 9:22
+      label: Vex Double Kill
+      kind: kill
+    - at: 13:10
+      label: Vex eliminates Yone
+    - at: 14:40
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:52
+      label: Lee Sin kills Sylas
+      kind: kill
+    - at: 16:01
+      label: Zed takes down Yone
+    - at: 17:30
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:00
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:32
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:08
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:10
+      label: Zed eliminates Sylas
+    - at: 22:58
+      label: Lee Sin kills Vladimir
+      kind: kill
+    - at: 23:10
+      label: Mid Inhibitor falls (Red)
+    - at: 23:35
+      label: Top Inhibitor falls (Red)

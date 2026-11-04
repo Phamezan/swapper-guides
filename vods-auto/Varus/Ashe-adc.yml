@@ -15,3 +15,36 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: zX-MfnGLWaY
+  title: Varus vs Ashe ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1651
+  region: KR
+- videoId: FXkTq_IFMwI
+  title: Varus vs Ashe ADC [ TripleKill ] Korea Challenger Patch 25.21 ✅
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1397
+  region: KR
+  player: TripleKill
+- videoId: f8PkEzzBxZE
+  title: Varus ADC vs Ashe - KR Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 2120
+  region: KR
+- videoId: OtXchvBexkY
+  title: Varus ADC vs Ashe - KR Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 2000
+  region: KR
+- videoId: DPub_Hcu1wk
+  title: Varus vs Ashe ADC [ DRX Teddy ] Korea Challenger Patch 25.5 ✅
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 971
+  region: KR
+  player: Teddy
+  team: DRX

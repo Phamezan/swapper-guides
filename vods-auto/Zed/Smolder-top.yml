@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1710
+  region: KR
+  uploaded: 2026-06-20
+  result: W
+  moments:
+    - at: 2:22
+      label: First Blood — Zed kills Smolder
+      kind: kill
+    - at: 4:01
+      label: Zed catches Smolder
+    - at: 5:22
+      label: Zed outduels Smolder again
+    - at: 7:18
+      label: Zed outduels Quinn
+    - at: 7:34
+      label: Zed outplays Smolder (3rd time)
+    - at: 9:02
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:19
+      label: Zed solo kills Smolder (4th time)
+      kind: kill
+    - at: 14:30
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:29
+      label: Zed outplays LeBlanc
+    - at: 18:16
+      label: Zed solo kills Tristana
+      kind: kill
+    - at: 20:03
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:30
+      label: Mid Inhibitor falls (Red)
+    - at: 21:32
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:35
+      label: Top Inhibitor falls (Red)
+    - at: 26:16
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 26:49
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 27:24
+      label: Mid Inhibitor falls (Red)
+    - at: 27:56
+      label: Zed takes down Tristana again

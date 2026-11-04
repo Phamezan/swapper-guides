@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1689
+  region: EUW
   uploaded: 2026-05-22
   result: W
   moments:
@@ -56,6 +57,7 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1770
+  region: KR
   uploaded: 2026-05-18
   result: W
   moments:
@@ -106,3 +108,15 @@
       kind: kill
     - at: 29:03
       label: Mid Inhibitor falls (Red)
+- videoId: st8Rkiw61Dw
+  title: Ahri Top vs Kennen - NA Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1609
+  region: NA
+- videoId: 5aWtJUS4uYQ
+  title: Ahri Top vs Kennen - KR Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1564
+  region: KR

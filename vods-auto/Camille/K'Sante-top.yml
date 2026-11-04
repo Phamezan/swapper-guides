@@ -8,9 +8,33 @@
   player: Doran
   team: T1
   uploaded: 2026-08-23
+- videoId: GqmvmrT5SLw
+  title: Camille Top vs K'Sante - KR Master Patch 26.09
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 1840
+  region: KR
+- videoId: trrwPmw-5II
+  title: Camille Top vs K'Sante - TW Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1628
 - videoId: 4C2dvp6NSjs
   title: Camille vs K'Sante Top - KR Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1876
+  region: KR
   uploaded: 2026-01-26
+- videoId: JvTNqyIsJ8o
+  title: Camille Top vs K'Sante - KR Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1671
+  region: KR
+- videoId: hKOW8Rs0Yyo
+  title: Camille Top vs K'Sante - KR Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1712
+  region: KR

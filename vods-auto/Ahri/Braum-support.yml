@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1708
+  region: EUW
   uploaded: 2026-03-18
   moments:
     - at: 0:15
@@ -58,3 +59,9 @@
       kind: tower
     - at: 28:17
       label: End credit
+- videoId: 6JTlMD49xQA
+  title: Ahri Support vs Braum - NA Master Patch 25.17
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 1597
+  region: NA

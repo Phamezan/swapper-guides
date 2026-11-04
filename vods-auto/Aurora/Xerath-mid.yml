@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1696
+  region: KR
   uploaded: 2026-04-20
 - videoId: YoCTYJvTBck
   title: DK ShowMaker Aurora vs Xerath [ MID ] Korea Challenger 1948 LP | Patch 26.4
@@ -13,3 +14,9 @@
   region: KR
   player: ShowMaker
   team: DK
+- videoId: rSxRAXApFsw
+  title: Aurora Mid vs Xerath - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1907
+  region: KR

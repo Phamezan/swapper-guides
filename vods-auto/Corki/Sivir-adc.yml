@@ -7,3 +7,36 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-04
+- videoId: CHHnXszg9lM
+  title: Corki ADC vs Sivir - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2107
+  region: KR
+- videoId: 4w8r9X7NFgw
+  title: Corki ADC vs Sivir - KR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1658
+  region: KR
+- videoId: kahz4HqwPSo
+  title: Corki ADC vs Sivir - KR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1885
+  region: KR
+- videoId: mao7mlJNBUU
+  title: Corki vs Sivir ADC [ Gen.G Ruler ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1417
+  region: KR
+  player: Ruler
+  team: Gen.G
+- videoId: JAuhLkD_9GY
+  title: Corki vs Sivir ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1450
+  region: KR

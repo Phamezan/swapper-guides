@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1888
+  region: KR
   uploaded: 2026-09-18
   result: W
   moments:
@@ -54,3 +55,24 @@
       kind: kill
     - at: 31:18
       label: Bot Inhibitor falls (Red)
+- videoId: VQ493Ggre2E
+  title: Zed Mid vs Tristana - KR Master Patch 26.03
+  rankClaim: Master
+  patch: "26.3"
+  durationSec: 1468
+  region: KR
+- videoId: fyRYL6sFl-g
+  title: Faker Zed vs Tristana Mid - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1666
+  region: KR
+  player: Faker
+- videoId: Aztl7mId-Us
+  title: T1 Faker Zed vs Tristana [ MID ] Patch 25.10 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1415
+  region: KR
+  player: Faker
+  team: T1

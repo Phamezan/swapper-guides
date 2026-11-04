@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1502
+  region: KR
   uploaded: 2026-11-02
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 2128
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-20
@@ -65,6 +67,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1804
+  region: EUW
   uploaded: 2026-09-10
   result: W
   moments:
@@ -116,3 +119,12 @@
       kind: teamfight
     - at: 29:09
       label: Top Inhibitor falls (Blue)
+- videoId: m-3I92Ewyic
+  title: "MID.GG: [ Splash_1v9 ] Ahri MID vs Malzahar | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1486
+  region: EUW
+  patchEstimated: true
+  player: Splash_1v9
+  uploaded: 2026-08-01

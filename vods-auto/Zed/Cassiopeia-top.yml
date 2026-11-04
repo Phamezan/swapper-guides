@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1540
+  region: KR
   uploaded: 2026-08-17
   result: L
   moments:
@@ -54,6 +55,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1801
+  region: EUW
   uploaded: 2026-07-29
   result: W
   moments:
@@ -108,6 +110,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1520
+  region: EUW
   uploaded: 2026-07-11
   result: W
   moments:
@@ -164,8 +167,63 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1868
+  region: EUW
+  uploaded: 2026-06-10
+  result: L
+  moments:
+    - at: 3:37
+      label: First Blood — Zed kills Cassiopeia
+      kind: kill
+    - at: 5:34
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:42
+      label: Zed catches Cassiopeia
+    - at: 11:01
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 12:13
+      label: Zed eliminates Cassiopeia
+    - at: 16:13
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:16
+      label: Zed picks off Twitch
+    - at: 18:07
+      label: Zed eliminates Cassiopeia
+    - at: 20:12
+      label: Red takes Baron
+      kind: baron
+    - at: 20:56
+      label: Zed eliminates Senna
+    - at: 21:39
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:03
+      label: Zed eliminates Cassiopeia
+    - at: 25:18
+      label: Zed takes down Senna
+    - at: 26:35
+      label: Zed catches Senna again
+    - at: 26:39
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:03
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:58
+      label: Top Inhibitor falls (Blue)
+    - at: 29:13
+      label: Zed outduels Lee Sin
 - videoId: kYaKJ9BIZ1I
   title: Zed Top vs Cassiopeia - EUW Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1504
+  region: EUW
+- videoId: qO1UHLN0QOY
+  title: Zed Top vs Cassiopeia - KR Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1697
+  region: KR

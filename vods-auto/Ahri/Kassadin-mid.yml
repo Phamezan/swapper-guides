@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1947
+  region: EUW
   player: FLK Mentos
   uploaded: 2026-10-20
   result: W
@@ -59,6 +60,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1755
+  region: EUW
   uploaded: 2026-08-26
   result: W
   moments:
@@ -103,3 +105,17 @@
       kind: kill
     - at: 28:46
       label: Mid Inhibitor falls (Red)
+- videoId: C-_nD2a--ZU
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Kassadin | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 863
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-05-08
+- videoId: h52UlWviEsc
+  title: Ahri Mid vs Kassadin - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1451
+  region: EUW

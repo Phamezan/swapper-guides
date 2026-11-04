@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1588
+  region: EUW
   uploaded: 2026-09-04
   result: W
   moments:
@@ -44,3 +45,9 @@
     - at: 25:51
       label: Sylas Triple Kill
       kind: kill
+- videoId: -WJhqEaHQdw
+  title: Zed Top vs Camille - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1496
+  region: EUW

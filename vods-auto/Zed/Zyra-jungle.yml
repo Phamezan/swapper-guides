@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1577
+  region: KR
   uploaded: 2026-08-10
   result: L
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1527
+  region: KR
   uploaded: 2026-08-07
   result: L
   moments:
@@ -106,13 +108,199 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1478
+  region: EUW
+  uploaded: 2026-06-24
+  result: L
+  moments:
+    - at: 2:18
+      label: First Blood — Zed kills Zyra
+      kind: kill
+    - at: 5:10
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:47
+      label: Zed outplays Zyra
+    - at: 10:52
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:01
+      label: Zed takes down Zyra
+    - at: 14:11
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:36
+      label: Zed kills Seraphine
+      kind: kill
+    - at: 15:42
+      label: Zed Triple Kill
+      kind: kill
+    - at: 16:11
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:01
+      label: Zed kills Fiora
+      kind: kill
+    - at: 17:39
+      label: Zed catches Seraphine
+    - at: 18:33
+      label: Zed solo kills Zyra again
+      kind: kill
+    - at: 20:33
+      label: Zed takes down Zyra
+    - at: 21:16
+      label: Zed kills Fiora
+      kind: kill
+    - at: 21:30
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 22:13
+      label: Red takes Baron
+      kind: baron
+    - at: 23:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:04
+      label: Mid Inhibitor falls (Blue)
 - videoId: AmkkiUszPFU
   title: Zed Jungle vs Zyra - KR Master Patch 26.12
   rankClaim: Master
   patch: "26.12"
   durationSec: 1502
+  region: KR
+  uploaded: 2026-06-19
+  result: L
+  moments:
+    - at: 2:29
+      label: First Blood — Zed kills Irelia
+      kind: kill
+    - at: 5:39
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:59
+      label: Zed picks off Irelia
+    - at: 11:19
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 11:21
+      label: Zed takes down Zyra
+    - at: 11:55
+      label: Katarina takes down Twisted Fate
+    - at: 13:44
+      label: Zed outplays Zyra
+    - at: 16:12
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:35
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:15
+      label: Zed kills Rell
+      kind: kill
+    - at: 18:57
+      label: Zed picks off Irelia
+    - at: 19:48
+      label: Zed kills Rell
+      kind: kill
+    - at: 20:26
+      label: Zed kills Twisted Fate
+      kind: kill
+    - at: 22:12
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:15
+      label: Zed kills Rell
+      kind: kill
+    - at: 22:58
+      label: Red takes Baron
+      kind: baron
+    - at: 24:28
+      label: Katarina Double Kill
+      kind: kill
+    - at: 24:34
+      label: Mid Inhibitor falls (Blue)
 - videoId: WSWMLZTsTbU
   title: Zed Jungle vs Zyra - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1839
+  region: KR
+  uploaded: 2026-05-04
+  result: W
+  moments:
+    - at: 1:23
+      label: First Blood — Sylas kills Diana
+      kind: kill
+    - at: 10:05
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:48
+      label: Zed outplays Zyra
+    - at: 15:07
+      label: Vayne takes down Diana
+    - at: 16:42
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:07
+      label: Zed eliminates Kai'Sa
+    - at: 18:53
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:12
+      label: Zed takes down Zyra
+    - at: 21:19
+      label: Zed outduels Fiora
+    - at: 22:37
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:30
+      label: Sylas takes down Nautilus
+    - at: 24:00
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:37
+      label: Ziggs eliminates Zyra
+    - at: 28:41
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 29:51
+      label: Zed picks off Diana
+    - at: 29:59
+      label: Bot Inhibitor falls (Red)
+    - at: 30:04
+      label: Mid Inhibitor falls (Red)
+    - at: 30:07
+      label: Irelia picks off Kai'Sa
+- videoId: xC7mHgtMeww
+  title: Zed Jungle vs Zyra - KR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1596
+  region: KR
+- videoId: 1Tobb44jQfs
+  title: Zed Jungle vs Zyra - BR Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1444
+- videoId: a6jyc1W5l9s
+  title: Zed Jungle vs Zyra - KR Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1802
+  region: KR
+- videoId: OQpJCWPnf18
+  title: Zed vs Zyra Jungle - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1696
+  region: KR
+- videoId: C3KGWwsQalk
+  title: Zed Jungle vs Zyra - BR Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 2017
+- videoId: Bm_2rIB5Ix4
+  title: Zed Jungle vs Zyra - NA Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1896
+  region: NA

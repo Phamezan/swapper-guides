@@ -4,6 +4,27 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1396
+  region: NA
   player: Smash
   team: DK
   uploaded: 2026-11-02
+- videoId: VE9GKQjgbOM
+  title: Varus ADC vs Jinx - KR Master Patch 26.17
+  rankClaim: Master
+  patch: "26.17"
+  durationSec: 1580
+  region: KR
+- videoId: M2_1ANzg4RM
+  title: Varus vs Jinx ADC - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 2071
+  region: KR
+- videoId: LAhKCv5SxdQ
+  title: T1 Gumayusi Varus vs Jinx [ ADC ] Patch 25.5 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1169
+  region: KR
+  player: Gumayusi
+  team: T1

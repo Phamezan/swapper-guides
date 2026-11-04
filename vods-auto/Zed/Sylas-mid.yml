@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1846
+  region: KR
   uploaded: 2026-10-27
   result: W
   moments:
@@ -55,6 +56,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1752
+  region: KR
   uploaded: 2026-10-23
   result: W
   moments:
@@ -107,6 +109,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1830
+  region: EUW
   player: Usan
   uploaded: 2026-10-16
   result: W
@@ -161,6 +164,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1393
+  region: EUW
   uploaded: 2026-10-11
   result: W
   moments:
@@ -213,6 +217,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1495
+  region: KR
   uploaded: 2026-10-06
   result: W
   moments:
@@ -264,6 +269,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1840
+  region: EUW
   player: BZ
   uploaded: 2026-10-03
   result: W
@@ -318,6 +324,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1697
+  region: KR
   uploaded: 2026-09-27
   result: W
   moments:
@@ -371,6 +378,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1553
+  region: EUW
   uploaded: 2026-09-18
   result: W
   moments:
@@ -424,6 +432,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1405
+  region: KR
   uploaded: 2026-09-08
   result: W
   moments:
@@ -462,6 +471,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1420
+  region: KR
   uploaded: 2026-09-01
   result: W
   moments:
@@ -513,6 +523,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1664
+  region: KR
   uploaded: 2026-08-21
   result: W
   moments:
@@ -568,6 +579,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1883
+  region: EUW
   uploaded: 2026-07-20
   result: L
   moments:
@@ -622,23 +634,161 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1496
+  region: EUW
+  uploaded: 2026-04-30
+  result: W
+  moments:
+    - at: 1:34
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 7:35
+      label: Zed takes down Sylas
+    - at: 8:12
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:39
+      label: Zed catches Sylas again
+    - at: 13:49
+      label: Zed outduels Sylas (3rd time)
+    - at: 14:25
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:34
+      label: Zed outplays Ornn
+    - at: 18:03
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:03
+      label: Zed outduels Nautilus
+    - at: 19:15
+      label: Zed kills Senna
+      kind: kill
+    - at: 19:50
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 20:29
+      label: Ekko takes down Twisted Fate
+    - at: 21:10
+      label: Zed takes down Nautilus
+    - at: 21:38
+      label: Zed solo kills Twisted Fate
+      kind: kill
+    - at: 22:36
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:33
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:23
+      label: Zed catches Senna
+    - at: 24:31
+      label: Zed Double Kill
+      kind: kill
 - videoId: AKSoYg7i3Bc
   title: Zed Mid vs Sylas - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1606
+  region: EUW
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 15:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:17
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:35
+      label: End credit
+- videoId: hBEXEEPhiKI
+  title: Zed Mid vs Sylas - KR Master Patch 26.04
+  rankClaim: Master
+  patch: "26.4"
+  durationSec: 1591
+  region: KR
 - videoId: 2WwTxuqQsz8
   title: Zed Mid vs Sylas - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1681
+  region: KR
 - videoId: a8PgkvwEAhg
   title: Zed Mid vs Sylas - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1475
+  region: KR
 - videoId: D-Wznoy-Ufw
   title: Zed Mid vs Sylas - TW Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1505
+- videoId: P5dnpXRPfJM
+  title: Zed Mid vs Sylas - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1487
+  region: KR
+- videoId: q-DTWdvKjvc
+  title: Zed Mid vs Sylas - KR Master Patch 25.21
+  rankClaim: Master
+  patch: "25.21"
+  durationSec: 1753
+  region: KR
+- videoId: QJ-M5jzFMUE
+  title: Zed Mid vs Sylas - EUW Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1562
+  region: EUW
+- videoId: 8D-nWIsB9uM
+  title: OnZed Zed vs Sylas Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1741
+  region: KR
+  player: OnZed
+- videoId: j9n1mVOynLQ
+  title: Zed Mid vs Sylas - NA Master Patch 25.04
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1979
+  region: NA

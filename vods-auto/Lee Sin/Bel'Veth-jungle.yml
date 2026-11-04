@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1501
+  region: KR
   uploaded: 2026-07-28
 - videoId: X5rKx_PnaXo
   title: T1 Oner Lee Sin vs Bel'Veth [ Jungle ] Korea Challenger 2231 LP | Patch 26.13
@@ -13,3 +14,32 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-07-01
+- videoId: DTPHCQLu0Fg
+  title: (DK Lucid) Lee Sin Jungle vs Bel'Veth - KR Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1831
+  region: KR
+  player: Lucid
+  team: DK
+- videoId: MfS3SRocG-I
+  title: Lee Sin Jungle vs Bel'Veth - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1546
+  region: KR
+- videoId: 7FNDo2fEzgQ
+  title: T1 Oner Lee Sin vs Bel'Veth [ Jungle ] Patch 25.8 Korea Grandmaster ✅
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1636
+  region: KR
+  player: Oner
+  team: T1
+- videoId: p1g9QJvNJmk
+  title: Lee Sin vs Bel'Veth Jungle - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1800
+  region: KR

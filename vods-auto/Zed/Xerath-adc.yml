@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1596
+  region: KR
   uploaded: 2026-08-05
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1553
+  region: KR
   uploaded: 2026-07-23
   result: L
   moments:
@@ -106,3 +108,53 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1844
+  region: EUW
+  uploaded: 2026-06-25
+  result: L
+  moments:
+    - at: 1:27
+      label: First Blood — Zed kills Renata Glasc
+      kind: kill
+    - at: 7:54
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 8:56
+      label: Zed takes down Xerath
+    - at: 10:41
+      label: Leona takes down Talon
+    - at: 13:06
+      label: Zed picks off Renata Glasc
+    - at: 13:29
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:17
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:21
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 20:27
+      label: Zed picks off Gangplank
+    - at: 23:01
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:30
+      label: Zed kills Talon
+      kind: kill
+    - at: 24:56
+      label: Viego Double Kill
+      kind: kill
+    - at: 25:18
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 27:36
+      label: Zed outduels Xerath
+    - at: 28:53
+      label: Zed outplays Renata Glasc
+    - at: 29:16
+      label: Zed kills Talon
+      kind: kill
+    - at: 29:58
+      label: Zed picks off Gangplank
+    - at: 30:07
+      label: Bot Inhibitor falls (Blue)

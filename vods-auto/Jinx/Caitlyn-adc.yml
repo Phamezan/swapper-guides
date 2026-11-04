@@ -8,6 +8,12 @@
   player: Viper
   team: BLG
   uploaded: 2026-10-09
+- videoId: Ewl35HBhFxQ
+  title: Jinx ADC vs Caitlyn - KR Grandmaster Patch 26.10
+  rankClaim: Grandmaster
+  patch: "26.10"
+  durationSec: 1717
+  region: KR
 - videoId: JddGZBrnJlM
   title: T1 Peyz Jinx vs Caitlyn [ ADC ] Korea Challenger 2489 LP | Patch 26.8
   rankClaim: Challenger
@@ -16,8 +22,23 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-28
 - videoId: nN0thpupv6U
   title: Jinx vs Caitlyn ADC - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1756
+  region: KR
+- videoId: xElZLAtxAMk
+  title: Jinx ADC vs Caitlyn - EUW Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1451
+  region: EUW
+- videoId: AJ3nFyz8Dzo
+  title: Jinx vs Caitlyn ADC [ TripleKill ] Korea Master Patch 25.22 ✅
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1447
+  region: KR
+  player: TripleKill

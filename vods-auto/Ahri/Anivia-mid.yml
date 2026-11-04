@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1480
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-06
@@ -12,6 +13,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 2041
+  region: KR
   uploaded: 2026-09-17
   result: W
   moments:
@@ -68,6 +70,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1826
+  region: EUW
   player: ROSS c0st0m
   uploaded: 2026-09-11
   result: W
@@ -123,6 +126,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1401
+  region: EUW
   uploaded: 2026-08-25
   result: L
   moments:
@@ -161,3 +165,27 @@
       label: Illaoi takes down Anivia
     - at: 22:56
       label: Mid Inhibitor falls (Blue)
+- videoId: Rkg1is1t480
+  title: (VIT Humanoid) Ahri Mid vs Anivia - EUW Grandmaster Patch 26.10
+  rankClaim: Grandmaster
+  patch: "26.10"
+  durationSec: 1830
+  region: EUW
+  player: VIT Humanoid
+- videoId: LjB5jfYqNuQ
+  title: Ahri Mid vs Anivia - KR Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1615
+  region: KR
+- videoId: 4DWr57MkWFs
+  title: Ahri Mid vs Anivia - TW Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1701
+- videoId: tCAfNBCjNPA
+  title: Ahri Mid vs Anivia - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1754
+  region: KR

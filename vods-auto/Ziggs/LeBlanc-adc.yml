@@ -6,3 +6,15 @@
   durationSec: 944
   region: KR
   player: Teddy
+  uploaded: 2026-07-14
+  moments:
+    - at: 0:00
+      label: Early game phase
+    - at: 2:15
+      label: Mid-game skirmishes
+    - at: 5:56
+      label: Objective control
+    - at: 9:48
+      label: Sieging and pressure
+    - at: 14:19
+      label: Final push and victory

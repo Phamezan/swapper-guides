@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1674
+  region: KR
   uploaded: 2026-09-22
   result: W
   moments:
@@ -56,6 +57,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1963
+  region: KR
   uploaded: 2026-09-11
   result: W
   moments:
@@ -109,6 +111,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1711
+  region: EUW
   uploaded: 2026-06-27
   result: W
   moments:
@@ -164,18 +167,217 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1451
+  region: EUW
+  uploaded: 2026-06-02
+  result: W
+  moments:
+    - at: 2:33
+      label: First Blood — Zed kills Lee Sin
+      kind: kill
+    - at: 10:52
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:17
+      label: Zed eliminates Lee Sin
+    - at: 12:42
+      label: Zed eliminates Lee Sin
+    - at: 13:23
+      label: Zed picks off Orianna
+    - at: 13:59
+      label: Illaoi eliminates Riven
+    - at: 15:10
+      label: Zed picks off Orianna
+    - at: 16:07
+      label: Zed kills Senna
+      kind: kill
+    - at: 16:34
+      label: Syndra eliminates Orianna
+    - at: 17:30
+      label: Zed catches Senna
+    - at: 18:34
+      label: Bard takes down Orianna
+    - at: 19:12
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 20:06
+      label: Zed takes down Shyvana
+    - at: 20:46
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:21
+      label: Zed takes down Shyvana
+    - at: 22:01
+      label: Mid Inhibitor falls (Red)
+    - at: 23:18
+      label: Zed kills Riven
+      kind: kill
+    - at: 23:44
+      label: Zed Double Kill
+      kind: kill
 - videoId: 8Il-4fqUkGM
   title: Zed Jungle vs Shyvana - EUW Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1584
+  region: EUW
+  uploaded: 2026-05-24
+  result: W
+  moments:
+    - at: 1:26
+      label: First Blood — Diana kills Jayce
+      kind: kill
+    - at: 2:53
+      label: Zed takes down Shyvana
+    - at: 5:11
+      label: Diana kills Draven
+      kind: kill
+    - at: 7:10
+      label: Zed solo kills Jayce
+      kind: kill
+    - at: 8:52
+      label: Zed eliminates Draven
+    - at: 10:18
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:40
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:11
+      label: Diana takes down Olaf
+    - at: 17:56
+      label: Nami kills Shyvana
+      kind: kill
+    - at: 18:32
+      label: Nami eliminates Zoe
+    - at: 20:04
+      label: Zed picks off Jayce
+    - at: 20:48
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:11
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 22:25
+      label: Zed kills Olaf
+      kind: kill
+    - at: 22:47
+      label: Diana eliminates Jayce
+    - at: 23:23
+      label: Bot Inhibitor falls (Red)
+    - at: 25:36
+      label: Zed Double Kill
+      kind: kill
+    - at: 25:48
+      label: Top Inhibitor falls (Red)
 - videoId: WVykbXKhOak
   title: Zed Jungle vs Shyvana - EUW Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1456
+  region: EUW
+  uploaded: 2026-05-03
+  result: L
+  moments:
+    - at: 7:09
+      label: First Blood — Zed kills Sona
+      kind: kill
+    - at: 7:40
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:34
+      label: Zed kills Jayce
+      kind: kill
+    - at: 10:55
+      label: Zed outplays Shyvana
+    - at: 12:01
+      label: Zed eliminates Vex
+    - at: 12:43
+      label: Zed kills Sona
+      kind: kill
+    - at: 13:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:52
+      label: Zed kills Sona
+      kind: kill
+    - at: 15:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:46
+      label: Dr. Mundo picks off Vex
+    - at: 19:51
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:02
+      label: Hwei kills Vex
+      kind: kill
+    - at: 20:42
+      label: Zed catches Sona
+    - at: 20:52
+      label: Nami kills Shyvana
+      kind: kill
+    - at: 21:27
+      label: Red takes Baron
+      kind: baron
+    - at: 23:06
+      label: Zed outduels Jayce
+    - at: 23:10
+      label: Mid Inhibitor falls (Blue)
 - videoId: GXqkg9M_vEg
   title: Zed Jungle vs Shyvana - EUW Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1549
+  region: EUW
+  uploaded: 2026-04-28
+  result: L
+  moments:
+    - at: 4:40
+      label: First Blood — Zed kills Nilah
+      kind: kill
+    - at: 8:44
+      label: Zed kills Alistar
+      kind: kill
+    - at: 11:05
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:12
+      label: Zed kills Alistar
+      kind: kill
+    - at: 12:13
+      label: Zed outduels Ornn
+    - at: 13:10
+      label: Zed eliminates Nilah
+    - at: 14:33
+      label: Zed picks off Akali
+    - at: 15:32
+      label: Zed eliminates Nilah
+    - at: 16:57
+      label: Sett Double Kill
+      kind: kill
+    - at: 17:12
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:26
+      label: Zeri Double Kill
+      kind: kill
+    - at: 18:09
+      label: Zed eliminates Nilah
+    - at: 19:46
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:45
+      label: Zed kills Alistar
+      kind: kill
+    - at: 23:37
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 24:47
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:56
+      label: Blue takes Baron
+      kind: baron

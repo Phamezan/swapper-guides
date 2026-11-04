@@ -4,9 +4,24 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1606
+  region: KR
   uploaded: 2026-10-08
 - videoId: tZQibpKYV-M
   title: Katarina vs Aurora Mid - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1801
+  region: KR
+  uploaded: 2026-05-18
+- videoId: if73qXBo7Fc
+  title: Katarina vs Aurora Mid - KR Grandmaster - Patch 25.13 Season 15
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1561
+  region: KR
+- videoId: Em5Q-fJeTyU
+  title: Katarina vs Aurora Mid - KR Grandmaster - Patch 25.5  Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1231
+  region: KR

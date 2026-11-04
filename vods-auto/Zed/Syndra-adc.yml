@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1569
+  region: EUW
   uploaded: 2026-07-31
   result: W
   moments:
@@ -49,6 +50,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1524
+  region: KR
   uploaded: 2026-07-17
   result: W
   moments:
@@ -101,6 +103,7 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1552
+  region: EUW
   player: SPXF Lelouch
   uploaded: 2026-07-15
   result: L
@@ -143,3 +146,51 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1731
+  region: EUW
+  uploaded: 2026-04-29
+  result: L
+  moments:
+    - at: 4:22
+      label: First Blood — Blitzcrank kills Thresh
+      kind: kill
+    - at: 7:34
+      label: Zed picks off Thresh
+    - at: 8:48
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:38
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:52
+      label: Zed takes down Syndra
+    - at: 15:51
+      label: Zed kills Malzahar
+      kind: kill
+    - at: 19:51
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:56
+      label: Red takes Baron
+      kind: baron
+    - at: 21:41
+      label: Zed takes down Syndra
+    - at: 22:27
+      label: Zed kills Malzahar
+      kind: kill
+    - at: 23:13
+      label: Zed picks off Singed
+    - at: 24:00
+      label: Cassiopeia picks off Graves
+    - at: 24:44
+      label: Top Inhibitor falls (Blue)
+    - at: 25:34
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 27:40
+      label: Urgot Double Kill
+      kind: kill
+    - at: 28:11
+      label: Cassiopeia takes down Thresh
+    - at: 28:38
+      label: Cassiopeia Double Kill
+      kind: kill

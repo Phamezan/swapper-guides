@@ -4,3 +4,30 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1621
+  region: KR
+  uploaded: 2026-05-17
+- videoId: ozvLCpTbmwo
+  title: Smolder ADC vs Lucian - KR Master Patch 26.03
+  rankClaim: Master
+  patch: "26.3"
+  durationSec: 1572
+  region: KR
+- videoId: sHDKa6MSUI4
+  title: Smolder vs Lucian ADC [ TripleKill ] Korea Master Patch 25.20 ✅
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1689
+  region: KR
+  player: TripleKill
+- videoId: kI6hFsUrGts
+  title: Smolder ADC vs Lucian - KR Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1660
+  region: KR
+- videoId: 4gTwdGItyM4
+  title: Smolder ADC vs Lucian - NA Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1470
+  region: NA

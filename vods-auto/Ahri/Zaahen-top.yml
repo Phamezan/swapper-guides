@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1576
+  region: EUW
   uploaded: 2026-08-03
   result: W
   moments:
@@ -56,6 +57,7 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1774
+  region: EUW
   player: S04E Zwyroo
   uploaded: 2026-06-25
   result: L
@@ -106,3 +108,9 @@
       kind: kill
     - at: 28:15
       label: Mid Inhibitor falls (Blue)
+- videoId: KGLRYD1iedk
+  title: Ahri Top vs Zaahen - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1597
+  region: NA

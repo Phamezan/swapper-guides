@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1699
+  region: EUW
   player: TTobias
   uploaded: 2026-09-29
   result: W
@@ -58,6 +59,8 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1740
+  region: KR
+  player: Faker
   uploaded: 2026-08-17
   result: W
   moments:

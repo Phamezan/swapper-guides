@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1455
+  region: KR
   uploaded: 2026-08-03
   result: L
   moments:
@@ -41,3 +42,9 @@
     - at: 23:12
       label: Team fight (3 kills)
       kind: teamfight
+- videoId: ik7yEPE6bJc
+  title: Ahri Top vs Urgot - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1554
+  region: NA

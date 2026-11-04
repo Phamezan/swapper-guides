@@ -4,8 +4,56 @@
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1539
+  region: EUW
+  uploaded: 2026-05-15
+  result: W
+  moments:
+    - at: 2:18
+      label: First Blood — Zed kills Irelia
+      kind: kill
+    - at: 4:57
+      label: Zed catches Bard
+    - at: 8:26
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:44
+      label: Zed takes down Ezreal
+    - at: 14:15
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:17
+      label: Zed outduels Jayce
+    - at: 15:50
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:28
+      label: Zed takes down Teemo
+    - at: 18:39
+      label: Zed takes down Teemo
+    - at: 19:20
+      label: Zed catches Ezreal again
+    - at: 19:33
+      label: Zed picks off Irelia
+    - at: 20:30
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:16
+      label: Zed outduels Ezreal (3rd time)
+    - at: 21:29
+      label: Draven picks off Bard
+    - at: 21:50
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:45
+      label: Zed takes down Teemo
+    - at: 23:14
+      label: Mid Inhibitor falls (Red)
+    - at: 25:20
+      label: Zed Double Kill
+      kind: kill
 - videoId: u5wkfyBsIYY
   title: Zed Jungle vs Teemo - NA Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1614
+  region: NA

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1320
+  region: NA
   player: Zeka
   uploaded: 2026-10-26
 - videoId: js7YGOVdWN4
@@ -11,16 +12,19 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1861
+  region: KR
   uploaded: 2026-10-13
 - videoId: evluPQxvNdk
   title: Locke vs Cassiopeia Mid - KR Challenger - Patch 16.20 Season 16
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1510
+  region: KR
   uploaded: 2026-10-11
 - videoId: XhHmx9gmPW0
   title: Locke vs Cassiopeia Mid - KR Challenger - Patch 16.14 Season 16
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1991
+  region: KR
   uploaded: 2026-07-27

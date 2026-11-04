@@ -4,3 +4,12 @@
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1876
+  region: KR
+- videoId: mm2R1BKcIYs
+  title: Camille vs Tryndamere TOP [ HLE Zeus ] Korea Challenger Patch 25.8 ✅
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1185
+  region: KR
+  player: Zeus
+  team: HLE

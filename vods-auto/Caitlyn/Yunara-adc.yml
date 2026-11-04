@@ -14,6 +14,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-06-01
 - videoId: 9oxXbguK4bo
   title: Caitlyn vs Yunara ADC [ Gen.G Ruler ] Patch 26.11 Korea Challenger 2110 LP
   rankClaim: Challenger
@@ -22,23 +23,27 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-05-28
 - videoId: ezAeaRYP9y8
   title: Caitlyn vs Yunara ADC - KR Grandmaster - Patch 16.09 Season 16
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1816
+  region: KR
   uploaded: 2026-05-08
 - videoId: 4o2Fw9NGynI
   title: Caitlyn vs Yunara ADC - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1831
+  region: KR
   uploaded: 2026-05-05
 - videoId: VRB5lDd2NwM
   title: Caitlyn vs Yunara ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1501
+  region: KR
   uploaded: 2026-04-21
 - videoId: UIMovDsbHGI
   title: BLG Viper Caitlyn vs Yunara [ ADC ] Korea Challenger 1469 LP | Patch 26.7
@@ -48,6 +53,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-04-11
 - videoId: _C_pEXW4cEs
   title: T1 Peyz Caitlyn vs Yunara [ ADC ] Korea Challenger 2243 LP | Patch 26.6
   rankClaim: Challenger
@@ -56,3 +62,46 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: f11NprnCsFo
+  title: Caitlyn ADC vs Yunara - NA Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1564
+  region: NA
+- videoId: QNN0fdksaas
+  title: Caitlyn vs Yunara [ ADC ] Korea Challenger 1347 LP | Patch 25.24 ✅
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1493
+  region: KR
+- videoId: zbo3pZ6jWJ8
+  title: Caitlyn ADC vs Yunara - EUW Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1631
+  region: EUW
+- videoId: f71EfXo3jgo
+  title: Caitlyn vs Yunara ADC [ QuadraKill ] Patch 25.21 Korea Grandmaster 1021 LP
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1608
+  region: KR
+  player: QuadraKill
+- videoId: 40jF6ev0qiU
+  title: Caitlyn ADC vs Yunara - EUW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1609
+  region: EUW
+- videoId: xewGkP7SBfU
+  title: Caitlyn vs Yunara ADC - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1891
+  region: KR
+- videoId: vdQO92sSiL0
+  title: Caitlyn vs Yunara ADC - KR Challenger - Patch 25.14 Season 15
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1831
+  region: KR

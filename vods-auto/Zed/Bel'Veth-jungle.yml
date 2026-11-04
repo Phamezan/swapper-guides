@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1924
+  region: KR
   uploaded: 2026-10-04
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1552
+  region: KR
   player: Jzr
   uploaded: 2026-08-15
   result: W
@@ -113,6 +115,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1480
+  region: KR
   uploaded: 2026-06-30
   result: W
   moments:
@@ -168,8 +171,115 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1644
+  region: KR
+  uploaded: 2026-05-24
+  result: L
+  moments:
+    - at: 1:44
+      label: First Blood — Lucian kills Thresh
+      kind: kill
+    - at: 6:35
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 7:02
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:59
+      label: Gragas eliminates Pantheon
+    - at: 13:04
+      label: Pyke picks off Ezreal
+    - at: 13:33
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:17
+      label: Xerath takes down Thresh
+    - at: 16:33
+      label: Pyke Double Kill
+      kind: kill
+    - at: 18:54
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:16
+      label: Zed solo kills Twisted Fate
+      kind: kill
+    - at: 19:26
+      label: Pyke Triple Kill
+      kind: kill
+    - at: 20:01
+      label: Red takes Baron
+      kind: baron
+    - at: 20:47
+      label: Zed picks off Twisted Fate
+    - at: 21:19
+      label: Lucian picks off Thresh
+    - at: 24:02
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:15
+      label: Pyke picks off Ezreal
+    - at: 25:29
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:02
+      label: Red takes 2nd Baron
+      kind: baron
 - videoId: McPZzstftf4
   title: Zed Jungle vs Bel'Veth - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1867
+  region: KR
+  uploaded: 2026-05-02
+  result: W
+  moments:
+    - at: 0:22
+      label: First Blood — Zed kills Bel'Veth
+      kind: kill
+    - at: 2:32
+      label: Zed solo kills Xerath
+      kind: kill
+    - at: 6:08
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:05
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 13:08
+      label: Zed takes down Bel'Veth
+    - at: 14:57
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:31
+      label: Zed eliminates Tristana
+    - at: 18:40
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:34
+      label: Zeri picks off Pantheon
+    - at: 21:11
+      label: Kennen kills Bel'Veth
+      kind: kill
+    - at: 24:18
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 26:35
+      label: Blue takes Baron
+      kind: baron
+    - at: 28:08
+      label: Mid Inhibitor falls (Red)
+    - at: 28:14
+      label: Top Inhibitor falls (Red)
+    - at: 28:41
+      label: Lux eliminates Pantheon
+    - at: 29:44
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 30:38
+      label: Zed eliminates Tristana
+    - at: 30:41
+      label: Bot Inhibitor falls (Red)
+- videoId: zU469DeH15s
+  title: Zed Jungle vs Bel'Veth - EUW Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1722
+  region: EUW

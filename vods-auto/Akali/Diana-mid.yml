@@ -7,3 +7,17 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-04-22
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 6:16
+      label: Mid game skirmishing
+    - at: 13:04
+      label: Turret and objective trades
+      kind: tower
+    - at: 19:30
+      label: Late game team fights
+      kind: teamfight
+    - at: 22:09
+      label: Final push and victory

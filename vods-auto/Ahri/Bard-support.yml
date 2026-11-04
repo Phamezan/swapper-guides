@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1748
+  region: KR
   uploaded: 2026-04-20
   result: W
 - videoId: S6Mep_m34eo
@@ -11,6 +12,7 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1782
+  region: KR
   uploaded: 2026-03-07
   moments:
     - at: 0:15
@@ -146,3 +148,21 @@
       kind: teamfight
     - at: 30:21
       label: End credit
+- videoId: F-zLZf6rjEY
+  title: Ahri Support vs Bard - EUW Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1721
+  region: EUW
+- videoId: g3DaZ0kyGEo
+  title: Ahri Support vs Bard - KR Grandmaster Patch 25.21
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1801
+  region: KR
+- videoId: KHzchrbYdWo
+  title: Ahri Support vs Bard - KR Master Patch 25.17
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 1653
+  region: KR

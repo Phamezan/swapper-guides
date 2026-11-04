@@ -14,6 +14,7 @@
   patch: "26.15"
   durationSec: 1229
   region: KR
+  uploaded: 2026-08-01
 - videoId: T6SJeKY9XsY
   title: Yunara vs Ezreal ADC [ Gen.G Ruler ] Patch 26.10 Korea Challenger 1922 LP
   rankClaim: Challenger
@@ -22,6 +23,13 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-05-24
+- videoId: Pn5A36D8feI
+  title: Yunara ADC vs Ezreal - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1502
+  region: KR
 - videoId: ogoFzUGdN9c
   title: T1 Peyz Yunara vs Ezreal [ ADC ] Korea Challenger 2126 LP | Patch 26.6
   rankClaim: Challenger
@@ -43,6 +51,7 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1681
+  region: KR
 - videoId: ZaHiFg_-KdQ
   title: HLE Gumayusi Yunara vs Ezreal [ ADC ] Korea Challenger 1712 LP | Patch 26.5
   rankClaim: Challenger
@@ -67,3 +76,33 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: 2qFOwdmza2I
+  title: Yunara vs Ezreal [ ADC ] Korea Challenger 1526 LP | Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1777
+  region: KR
+- videoId: YwVIjadaLTU
+  title: Yunara vs Ezreal ADC - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 2266
+  region: KR
+- videoId: 1IVdHp7VmiE
+  title: Yunara vs Ezreal ADC - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1721
+  region: KR
+- videoId: HnqAJFvSJ58
+  title: Yunara vs Ezreal ADC - KR Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 2051
+  region: KR
+- videoId: -N3YeI0PerI
+  title: Yunara vs Ezreal ADC - KR Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1666
+  region: KR

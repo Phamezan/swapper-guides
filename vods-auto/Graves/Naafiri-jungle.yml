@@ -4,9 +4,26 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1416
+  region: KR
   uploaded: 2026-06-11
+- videoId: fbyc5rKOfi8
+  title: (HLE Kanavi) Graves Jungle vs Naafiri - KR Grandmaster Patch 26.11
+  rankClaim: Grandmaster
+  patch: "26.11"
+  durationSec: 1591
+  region: KR
+  player: Kanavi
+  team: HLE
 - videoId: AcR4Py5IW4M
   title: Graves vs Naafiri Jungle - EUW Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1831
+  region: EUW
+  uploaded: 2026-05-25
+- videoId: apjVKlty1_0
+  title: Graves vs Naafiri Jungle - KR Grandmaster - Patch 25.6 Season 15
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 2881
+  region: KR

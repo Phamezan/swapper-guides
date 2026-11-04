@@ -7,3 +7,31 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-04-30
+- videoId: mqR07x74x4o
+  title: Faker Aurora vs Ahri [ MID ] Patch 25.17 Korea Grandmaster - T1 Faker Aurora
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1112
+  region: KR
+  player: Faker
+- videoId: JrbMnr3b-O4
+  title: Aurora vs Ahri Mid - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1621
+  region: KR
+- videoId: s9k8u_qMZLI
+  title: Aurora Mid vs Ahri - KR Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 2100
+  region: KR
+- videoId: H1OXt04oXAc
+  title: T1 Faker Aurora vs Ahri [ MID ] Patch 25.9 Korea Grandmaster ✅
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1680
+  region: KR
+  player: Faker
+  team: T1

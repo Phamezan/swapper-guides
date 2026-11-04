@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 2221
+  region: KR
+- videoId: h9OlZCEfxgA
+  title: Vex Mid vs Talon - KR Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 1541
+  region: KR

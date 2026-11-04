@@ -4,10 +4,48 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1441
+  region: KR
   uploaded: 2026-08-04
 - videoId: zog-PBv6Vng
   title: Akali vs Orianna Mid - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1516
+  region: KR
   uploaded: 2026-03-29
+- videoId: nWFaLnGMvQY
+  title: Akali Mid vs Orianna - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1487
+  region: EUW
+- videoId: Ae8CARa-6MQ
+  title: Akali Mid vs Orianna - KR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1558
+  region: KR
+- videoId: Q0xsDUOApMo
+  title: Akali Mid vs Orianna - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1493
+  region: KR
+- videoId: OdhH12mJ3rs
+  title: Akali vs Orianna Mid - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1471
+  region: KR
+- videoId: hfhfxKaqjFI
+  title: Akali vs Orianna Mid - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1966
+  region: KR
+- videoId: ECrr62bKg5A
+  title: Akali vs Orianna Mid - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1681
+  region: KR

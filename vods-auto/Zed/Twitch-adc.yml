@@ -4,8 +4,63 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1760
+  uploaded: 2026-04-26
+  result: W
+  moments:
+    - at: 3:54
+      label: First Blood — Pyke kills Twitch
+      kind: kill
+    - at: 7:13
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:24
+      label: Zed outduels Twitch
+    - at: 12:43
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:15
+      label: Zed outplays Twitch again
+    - at: 17:54
+      label: Zed solo kills Twitch (3rd time)
+      kind: kill
+    - at: 18:09
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:17
+      label: Zed eliminates Bel'Veth
+    - at: 19:09
+      label: Zed takes down Twitch
+    - at: 20:22
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:24
+      label: Zed takes down Twitch
+    - at: 22:53
+      label: Nocturne kills Poppy
+      kind: kill
+    - at: 23:36
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 24:13
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 24:54
+      label: Yorick eliminates Sylas
+    - at: 26:32
+      label: Mid Inhibitor falls (Red)
+    - at: 27:36
+      label: Aurelion Sol eliminates Xerath
+    - at: 28:14
+      label: Top Inhibitor falls (Red)
 - videoId: 2-ewj0wgy3U
   title: Zed ADC vs Twitch - NA Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1834
+  region: NA
+- videoId: mZ4yWRN6zGk
+  title: Zed ADC vs Twitch - NA Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1836
+  region: NA

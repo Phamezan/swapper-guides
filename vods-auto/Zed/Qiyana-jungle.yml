@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1539
+  region: KR
   uploaded: 2026-10-31
   result: W
   moments:
@@ -54,6 +55,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1702
+  region: KR
   player: Haru
   uploaded: 2026-10-12
   result: W
@@ -106,6 +108,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1624
+  region: EUW
   player: GSMC Alix
   uploaded: 2026-09-21
   result: W
@@ -161,6 +164,8 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1922
+  region: KR
+  player: Zeus
   uploaded: 2026-09-01
   result: W
   moments:
@@ -272,6 +277,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1629
+  region: EUW
   uploaded: 2026-07-20
   result: W
   moments:
@@ -327,6 +333,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1641
+  region: EUW
   uploaded: 2026-07-06
   result: L
   moments:
@@ -375,6 +382,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1578
+  region: KR
   uploaded: 2026-06-29
   result: L
   moments:
@@ -417,18 +425,200 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1689
+  region: EUW
+  uploaded: 2026-05-31
+  result: W
+  moments:
+    - at: 2:12
+      label: First Blood — Zed kills Heimerdinger
+      kind: kill
+    - at: 6:25
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:13
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:57
+      label: Zed takes down Qiyana
+    - at: 14:19
+      label: Zed picks off Xerath
+    - at: 14:59
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:40
+      label: Zed kills Gangplank
+      kind: kill
+    - at: 16:02
+      label: Zed takes down Qiyana
+    - at: 16:18
+      label: Zed solo kills Xerath
+      kind: kill
+    - at: 17:46
+      label: Zed takes down Qiyana
+    - at: 18:11
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:44
+      label: Zed takes down Heimerdinger
+    - at: 22:22
+      label: Red takes Baron
+      kind: baron
+    - at: 23:25
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:37
+      label: Zed picks off Xerath
+    - at: 25:45
+      label: Zed eliminates Heimerdinger
+    - at: 27:07
+      label: Zed kills Nami
+      kind: kill
+    - at: 27:42
+      label: Mid Inhibitor falls (Red)
 - videoId: mq5jN-IfnjI
   title: Zed Jungle vs Qiyana - EUW Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1545
+  region: EUW
+  uploaded: 2026-05-23
+  result: L
+  moments:
+    - at: 2:42
+      label: First Blood — Zed kills Zyra
+      kind: kill
+    - at: 5:21
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:01
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 14:29
+      label: Zed catches Zyra
+    - at: 16:00
+      label: Zed outduels Zyra again
+    - at: 16:22
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 16:30
+      label: Veigar eliminates Qiyana
+    - at: 18:01
+      label: Zed outplays Zyra (3rd time)
+    - at: 18:29
+      label: Zed picks off Vex
+    - at: 18:49
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 19:58
+      label: Zed takes down Qiyana
+    - at: 21:46
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 21:55
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 22:34
+      label: Red takes Baron
+      kind: baron
+    - at: 23:43
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:39
+      label: Zed outplays Qiyana
+    - at: 24:52
+      label: Mid Inhibitor falls (Blue)
 - videoId: CinvFjMfJvo
   title: Zed Jungle vs Qiyana - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1692
+  region: EUW
+  uploaded: 2026-05-12
+  result: L
+  moments:
+    - at: 3:48
+      label: First Blood — Renekton kills Qiyana
+      kind: kill
+    - at: 5:19
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:12
+      label: Zed eliminates Ezreal
+    - at: 11:02
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 12:15
+      label: Zed catches Bard
+    - at: 12:19
+      label: Zed Double Kill
+      kind: kill
+    - at: 14:56
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:37
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:41
+      label: Galio picks off Qiyana
+    - at: 20:00
+      label: Renekton eliminates Camille
+    - at: 20:59
+      label: Zed eliminates Ezreal
+    - at: 21:55
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:47
+      label: Zed solo kills Xerath
+      kind: kill
+    - at: 23:34
+      label: Red takes Baron
+      kind: baron
+    - at: 25:26
+      label: Zed outduels Camille
+    - at: 26:57
+      label: Zed outduels Bard again
+    - at: 27:13
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:26
+      label: Bot Inhibitor falls (Blue)
 - videoId: mvcgveHTK18
   title: Zed Jungle vs Qiyana - EUW Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1595
+  region: EUW
+- videoId: PEM79orNdfo
+  title: Zed Jungle vs Qiyana - KR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1482
+  region: KR
+- videoId: 0zjfZQmXo8U
+  title: Zed Jungle vs Qiyana - NA Challenger Patch 25.21
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1858
+  region: NA
+- videoId: BMSt82xkQ5s
+  title: Zed Jungle vs Qiyana - VN Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 2102
+- videoId: q6tutD7bS08
+  title: Zed Jungle vs Qiyana - EUW Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1611
+  region: EUW
+- videoId: ZVJ0zE9_JAg
+  title: Zed Jungle vs Qiyana - KR Grandmaster Patch 25.16
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 1680
+  region: KR
+- videoId: xHeLFZO9vPQ
+  title: Zed Jungle vs Qiyana - VN Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1804

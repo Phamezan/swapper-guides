@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1743
+  region: KR
   uploaded: 2026-08-26
   result: W
   moments:
@@ -50,3 +51,20 @@
       label: Zed takes down Seraphine
     - at: 28:34
       label: Mid Inhibitor falls (Blue)
+- videoId: qBJ-xBKXCGA
+  title: Zed Mid vs Corki - NA Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1567
+  region: NA
+- videoId: suQ2jzr4HDA
+  title: Zed Mid vs Corki - TW Grandmaster Patch 25.15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1766
+- videoId: Kq0SZ74lsKg
+  title: Zed Mid vs Corki - NA Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 2120
+  region: NA

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1531
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-29
@@ -12,6 +13,7 @@
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1751
+  region: NA
   uploaded: 2026-05-14
   result: L
   moments:
@@ -65,6 +67,7 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1581
+  region: EUNE
   uploaded: 2026-04-18
   result: W
   moments:
@@ -118,6 +121,7 @@
   rankClaim: Master
   patch: "26.6"
   durationSec: 1505
+  region: KR
   uploaded: 2026-04-02
   moments:
     - at: 0:15
@@ -171,3 +175,14 @@
       kind: tower
     - at: 24:54
       label: End credit
+- videoId: 0J89shPN2K8
+  title: Ahri Top vs Jax - NA Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 2104
+  region: NA
+- videoId: uhjGoWVn76w
+  title: Ahri Top vs Jax - TW Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1821

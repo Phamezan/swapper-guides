@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1998
+  region: NA
   patchEstimated: true
   player: Pobelter
   uploaded: 2026-09-18
@@ -12,6 +13,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1684
+  region: EUW
   player: SPXF Lelouch
   uploaded: 2026-08-26
   result: W
@@ -70,3 +72,27 @@
   patchEstimated: true
   player: ShokLoL
   uploaded: 2026-08-04
+- videoId: C53nfFMAyfs
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Vex | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.9"
+  durationSec: 1414
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-05-08
+- videoId: _kB412XLS3k
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Vex | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1786
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-04-13
+- videoId: 2cB83EhQFPU
+  title: Ahri Mid vs Vex - KR Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1558
+  region: KR

@@ -8,3 +8,20 @@
   player: Faker
   team: T1
   uploaded: 2026-08-19
+- videoId: spsmwOFTsLg
+  title: "Challenger Cassiopeia : TEARING Apart Lissandra at CN Super Server - Engsub"
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1924
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-29
+  format: stream
+- videoId: 8EiceONV1Fc
+  title: Cassiopeia vs Lissandra 25/1/8 (Mid) | EUW Master | Cassiopeia OTP Replay
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 1334
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-05-11

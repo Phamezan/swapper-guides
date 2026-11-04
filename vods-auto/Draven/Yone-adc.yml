@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1426
+  region: NA
   player: Peyz
   team: T1
   uploaded: 2026-11-02
@@ -16,3 +17,9 @@
   player: Peyz
   team: T1
   uploaded: 2026-10-28
+- videoId: e9lvJyHfWNY
+  title: Draven ADC vs Yone - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1461
+  region: KR

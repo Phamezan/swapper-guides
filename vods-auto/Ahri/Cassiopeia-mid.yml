@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1646
+  region: KR
   uploaded: 2026-10-14
   result: W
   moments:
@@ -55,6 +56,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1650
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-08
@@ -63,6 +65,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 2054
+  region: KR
   uploaded: 2026-10-08
   result: W
   moments:
@@ -117,6 +120,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1603
+  region: KR
   uploaded: 2026-09-22
   result: W
   moments:
@@ -172,6 +176,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1748
+  region: EUW
   uploaded: 2026-09-02
   result: W
   moments:
@@ -214,6 +219,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1755
+  region: EUW
   player: kyeahoo
   team: KC
   uploaded: 2026-08-19
@@ -272,6 +278,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1657
+  region: KR
   player: Pungyeon
   team: BRO
   uploaded: 2026-08-15
@@ -326,6 +333,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1885
+  region: EUW
   patchEstimated: true
   player: raikokatarina
   uploaded: 2026-08-11
@@ -334,6 +342,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 2037
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-08-02
@@ -345,3 +354,15 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-06-10
+- videoId: asSKPtoXYOI
+  title: Ahri Mid vs Cassiopeia - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1546
+  region: EUW
+- videoId: IiD_ZExKJ9U
+  title: Ahri Mid vs Cassiopeia - TW Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1833

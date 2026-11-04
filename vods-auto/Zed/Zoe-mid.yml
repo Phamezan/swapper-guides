@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1592
+  region: KR
   uploaded: 2026-10-14
   result: W
   moments:
@@ -45,6 +46,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1591
+  region: KR
   uploaded: 2026-10-09
   result: W
   moments:
@@ -99,6 +101,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 2024
+  region: EUW
   player: Kaine
   uploaded: 2026-10-09
   result: W
@@ -154,6 +157,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1918
+  region: KR
   uploaded: 2026-09-08
   result: W
   moments:
@@ -208,6 +212,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1709
+  region: KR
   uploaded: 2026-08-31
   result: W
   moments:
@@ -258,6 +263,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1799
+  region: KR
   uploaded: 2026-08-22
   result: L
   moments:
@@ -306,3 +312,38 @@
       label: Zed takes down Bard
     - at: 29:37
       label: Mid Inhibitor falls (Blue)
+- videoId: JapKxtaBfBE
+  title: Zed Mid vs Zoe - VN Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1550
+- videoId: Nrtq_ue0UPo
+  title: Zeka Zed vs Zoe Mid - KR Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1871
+  region: KR
+  player: Zeka
+- videoId: iyuUIVt8WqQ
+  title: Zed Mid vs Zoe - TW Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1793
+- videoId: KpdvAY5Zo6g
+  title: Zed vs Zoe [ MID ] Lol Korea Challenger Patch 25.16 ✅
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1476
+  region: KR
+- videoId: tEA5ss0trM4
+  title: Zed Mid vs Zoe - EUW Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 1568
+  region: EUW
+- videoId: Oh08DV7yEOw
+  title: Zed vs Zoe [ MID ] Korea Grandmaster Patch 25.4 ✅
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1091
+  region: KR

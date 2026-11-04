@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1655
+  region: NA
   uploaded: 2026-08-07
   result: W
   moments:
@@ -60,6 +61,7 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1573
+  region: EUW
   uploaded: 2026-06-30
   result: W
   moments:
@@ -114,3 +116,55 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1629
+  region: EUW
+  uploaded: 2026-06-23
+  result: W
+  moments:
+    - at: 1:32
+      label: First Blood — Zed kills Vayne
+      kind: kill
+    - at: 5:05
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:16
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:33
+      label: Zed takes down Sylas
+    - at: 16:32
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:04
+      label: Zed takes down Sylas
+    - at: 19:02
+      label: Xerath takes down Vayne
+    - at: 20:00
+      label: Senna picks off Vayne
+    - at: 20:21
+      label: Zed picks off Jinx
+    - at: 20:41
+      label: Xerath takes down Thresh
+    - at: 21:35
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:44
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 21:59
+      label: Zed catches Vayne
+    - at: 23:54
+      label: Zed solo kills Jinx
+      kind: kill
+    - at: 25:44
+      label: Kha'Zix picks off Sylas
+    - at: 26:34
+      label: Mid Inhibitor falls (Red)
+- videoId: fJKldmj34ro
+  title: Zed Top vs Vayne - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1556
+  region: NA

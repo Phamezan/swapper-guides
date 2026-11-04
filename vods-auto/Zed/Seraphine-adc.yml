@@ -4,3 +4,53 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1852
+  uploaded: 2026-06-14
+  result: W
+  moments:
+    - at: 1:39
+      label: First Blood — Zed kills Seraphine
+      kind: kill
+    - at: 6:20
+      label: Zed outplays Zilean
+    - at: 8:24
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:55
+      label: Zed outduels Seraphine
+    - at: 10:06
+      label: Zed outplays Seraphine again
+    - at: 12:15
+      label: Zed solo kills Seraphine (3rd time)
+      kind: kill
+    - at: 14:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:01
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:44
+      label: Zed eliminates Graves
+    - at: 20:11
+      label: Kindred picks off Yasuo
+    - at: 20:55
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:04
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:26
+      label: Zed solo kills Malzahar
+      kind: kill
+    - at: 24:29
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:18
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 26:39
+      label: Mid Inhibitor falls (Red)
+    - at: 27:33
+      label: Smolder kills Seraphine
+      kind: kill
+    - at: 30:18
+      label: Zed picks off Zilean

@@ -4,4 +4,28 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1906
+  region: KR
   uploaded: 2026-11-02
+- videoId: whp0ivmaHiA
+  title: Sett Top vs Yone - BR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1465
+- videoId: KzeH_bjB154
+  title: Sett vs Yone Top - EUW Grandmaster - Patch 25.21 Season 15
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 2311
+  region: EUW
+- videoId: W1mjHqvNn0o
+  title: Sett vs Yone Top - EUW Grandmaster - Patch 25.18 Season 15
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1441
+  region: EUW
+- videoId: 5EbhXN4i8j4
+  title: Sett vs Yone Top - EUW Grandmaster - Patch 25.13 Season 15
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1951
+  region: EUW

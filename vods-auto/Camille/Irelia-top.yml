@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1620
+  region: KR
   uploaded: 2026-10-12
 - videoId: IxH5R8BybYg
   title: HLE Zeus Camille vs Irelia [ TOP ] Korea Grandmaster 1291 LP | Patch 26.4
@@ -13,3 +14,27 @@
   region: KR
   player: Zeus
   team: HLE
+- videoId: 6WFsDKOLI2Y
+  title: Camille vs Irelia TOp - KR Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1501
+  region: KR
+- videoId: 3-WipHlyF2A
+  title: Camille Top vs Irelia - KR Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1442
+  region: KR
+- videoId: YGef_0SkXBk
+  title: Camille vs Irelia Top - KR Grandmaster - Patch 25.9 Season 15
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1870
+  region: KR
+- videoId: FXNDb1vXzC8
+  title: Camille vs Irelia Top - KR Grandmaster - Patch 25.9 Season 15
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1711
+  region: KR

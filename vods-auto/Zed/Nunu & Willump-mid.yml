@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1408
+  region: KR
   uploaded: 2026-10-07
   result: W
   moments:
@@ -46,6 +47,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1788
+  region: KR
   uploaded: 2026-08-27
   result: W
   moments:
@@ -91,3 +93,15 @@
       kind: kill
     - at: 28:51
       label: Mid Inhibitor falls (Blue)
+- videoId: ax0hSNmxfbo
+  title: (IDL Ayel) Zed Mid vs Nunu & Willump - BR Challenger Patch 26.13
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1675
+  player: IDL Ayel
+- videoId: hCNBWTgIJXw
+  title: Zed Mid vs Nunu & Willump - KR Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1592
+  region: KR

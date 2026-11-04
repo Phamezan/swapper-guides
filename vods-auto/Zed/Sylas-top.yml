@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1685
+  region: EUW
   uploaded: 2026-07-01
   result: L
   moments:
@@ -50,3 +51,9 @@
       label: Bot Inhibitor falls (Blue)
     - at: 27:13
       label: Zed eliminates Rell
+- videoId: _R8cGssLCTc
+  title: Zed Top vs Sylas - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1546
+  region: NA

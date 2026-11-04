@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1867
+  region: KR
   uploaded: 2026-10-24
   result: W
   moments:
@@ -61,3 +62,59 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1831
+  region: KR
+  uploaded: 2026-06-20
+  result: L
+  moments:
+    - at: 0:17
+      label: First Blood — Viktor kills Xin Zhao
+      kind: kill
+    - at: 1:30
+      label: Zed catches Anivia
+    - at: 4:08
+      label: Zed outduels Anivia again
+    - at: 5:10
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:19
+      label: Zed outduels Xin Zhao
+    - at: 9:50
+      label: Zed outplays Anivia (3rd time)
+    - at: 11:41
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 17:06
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:28
+      label: Quinn Double Kill
+      kind: kill
+    - at: 21:02
+      label: Zed solo kills Xayah
+      kind: kill
+    - at: 22:33
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:53
+      label: Zed solo kills Anivia (4th time)
+      kind: kill
+    - at: 23:48
+      label: Red takes Baron
+      kind: baron
+    - at: 26:22
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:43
+      label: Zed eliminates Anivia
+    - at: 28:30
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 29:12
+      label: Zed outplays Xin Zhao again
+    - at: 29:23
+      label: Taric takes down Hwei
+- videoId: Shy64udyYqY
+  title: Zed Top vs Anivia - NA Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 2000
+  region: NA

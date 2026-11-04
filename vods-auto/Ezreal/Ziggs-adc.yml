@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1711
+  region: KR
   uploaded: 2026-08-28
 - videoId: cBUjIxn96e0
   title: T1 Peyz Ezreal vs Ziggs [ ADC ] Patch 26.3 Korea Challenger
@@ -13,3 +14,17 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: SE4ljPlOS18
+  title: T1 Peyz Ezreal vs Ziggs [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1239
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: xsVewVuzBdY
+  title: Ezreal ADC vs Ziggs - KR Grandmaster Patch 25.16
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 1680
+  region: KR

@@ -24,6 +24,12 @@
       label: Sieging the base
     - at: 29:38
       label: Final push and victory
+- videoId: 5xYd5c5eCIU
+  title: Kai'Sa ADC vs Ezreal (T1 Eclipse) - KR Challenger Patch 26.18
+  rankClaim: Challenger
+  patch: "26.18"
+  durationSec: 1850
+  region: KR
 - videoId: vJYN2IGX1ao
   title: Kai'Sa vs Ezreal ADC [ Gen.G Ruler ] Korea Challenger 2113 | Patch 26.16
   rankClaim: Challenger
@@ -41,6 +47,26 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-25
+  moments:
+    - at: 0:00
+      label: Early game phase
+    - at: 2:32
+      label: Mid game laning and skirmish
+    - at: 7:27
+      label: Objective control battles
+    - at: 12:11
+      label: High-stakes team fights
+      kind: teamfight
+    - at: 16:33
+      label: Victory push
+- videoId: -l0dZFZMy7Y
+  title: (OLE Flakked) Kai'Sa ADC vs Ezreal - EUW Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1502
+  region: EUW
+  player: OLE Flakked
 - videoId: cCg2USnpet8
   title: T1 Peyz Kai'Sa vs Ezreal [ ADC ] Patch 26.11 Korea Challenger 2448 LP
   rankClaim: Challenger
@@ -49,6 +75,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-06
 - videoId: 60D7-pGPvk8
   title: T1 Peyz Kai'Sa vs Ezreal [ ADC ] Korea Challenger 2422 LP | Patch 26.8
   rankClaim: Challenger
@@ -57,11 +84,21 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: n5asIhdascI
-  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 16.07 Season 16
-  rankClaim: Challenger
-  patch: "26.7"
-  durationSec: 1546
+  uploaded: 2026-04-25
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 1:53
+      label: Mid game skirmishes
+    - at: 4:31
+      label: Peyz killing spree
+    - at: 6:14
+      label: Objective contention
+    - at: 8:21
+      label: Scaling and team fights
+      kind: teamfight
+    - at: 10:26
+      label: Victory push
 - videoId: xLLsh21DGUg
   title: DK Smash Kai'Sa vs Ezreal [ ADC ] Korea Challenger 2039 LP | Patch 26.7
   rankClaim: Challenger
@@ -70,6 +107,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-04-12
 - videoId: J5nIX0HrSRY
   title: T1 Peyz Kai'Sa vs Ezreal [ ADC ] Korea Challenger 2483 LP | Patch 26.7
   rankClaim: Challenger
@@ -78,6 +116,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-09
+- videoId: n5asIhdascI
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 16.07 Season 16
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1546
+  region: KR
+  uploaded: 2026-04-08
 - videoId: -zYpxPJGL88
   title: BLG Viper Kai'Sa vs Ezreal [ ADC ] Korea Master 1190 LP | Patch 26.7
   rankClaim: Master
@@ -86,6 +132,13 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-04-03
+- videoId: go_KeWMN-Dc
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 26.06
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1471
+  region: KR
 - videoId: hWAPrtGiV4c
   title: T1 Peyz Kai'Sa vs Ezreal [ ADC ] Korea Challenger 2082 LP | Patch 26.6
   rankClaim: Challenger
@@ -94,16 +147,24 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: NYmU5FQ7WVs
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1567
+  region: KR
 - videoId: y4DpWPJpvEs
   title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1811
+  region: KR
 - videoId: CDtfLJuXWqs
   title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1366
+  region: KR
 - videoId: 27337s1a6Ss
   title: T1 Peyz Kai'Sa vs Ezreal [ ADC ] Korea Challenger 2081 LP | Patch 26.5
   rankClaim: Challenger
@@ -120,6 +181,12 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: fTX9MMFz-1s
+  title: Kai'Sa ADC vs Ezreal - EUW Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1631
+  region: EUW
 - videoId: _hevKTCJg9Y
   title: BLG Viper Kai'Sa vs Ezreal [ ADC ] Korea Challenger 1505 LP | Patch 26.4
   rankClaim: Challenger
@@ -141,3 +208,210 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1951
+  region: KR
+- videoId: zxfyK99twfI
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 26.02
+  rankClaim: Challenger
+  patch: "26.2"
+  durationSec: 1614
+  region: KR
+- videoId: eC1F6fMyMnw
+  title: Kai'Sa ADC vs Ezreal - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1615
+  region: EUW
+- videoId: kr7hVwvcGrI
+  title: Kai'Sa vs Ezreal ADC [ Teddy ] Patch 25.23 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1715
+  region: KR
+  player: Teddy
+- videoId: RxaopbhBM1E
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.22 Season 15
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1606
+  region: KR
+- videoId: qP8o75BUvtA
+  title: Kai'Sa vs Ezreal [ ADC ] Patch 25.21 Korea Grandmaster 922 LP
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1776
+  region: KR
+- videoId: TiYA5aB_Pu8
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1512
+  region: KR
+- videoId: qFoa7G6Eooo
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1424
+  region: KR
+- videoId: q1v8XYm8zck
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1968
+  region: KR
+- videoId: fG4zDvou7MY
+  title: T1 Gumayusi Kaisa vs Ezreal [ ADC ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1252
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: Gp6yGdfHdVo
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1696
+  region: KR
+- videoId: ZLl1VJUHoxM
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 2071
+  region: KR
+- videoId: pVko0dI2X1Y
+  title: T1 Smash Kaisa vs Ezreal [ ADC ] Korea Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1086
+  region: KR
+  player: Smash
+  team: T1
+- videoId: Mmekzlsl0Gc
+  title: Kaisa vs Ezreal ADC [ DRX Teddy ] Korea Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1412
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: 6MkMp4KfY4M
+  title: Kai'Sa ADC vs Ezreal - KR Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 2028
+  region: KR
+- videoId: peJ_cySZ2iQ
+  title: T1 Gumayusi Kaisa vs Ezreal [ ADC ] Korea Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1502
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: ODR3Dg4EScQ
+  title: Kai'Sa ADC vs Ezreal - EUW Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1565
+  region: EUW
+- videoId: 1quWzoNFt7Y
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.9 Season 15
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1876
+  region: KR
+- videoId: 276EfHch84g
+  title: Kaisa vs Ezreal ADC [ Gen.G Ruler ] Patch 25.9 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1104
+  region: KR
+  player: Ruler
+  team: Gen.G
+- videoId: phiE8zDWLcQ
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1591
+  region: KR
+- videoId: mCqE6K-ZOg4
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 2056
+  region: KR
+- videoId: 1e0lhDGFCEI
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1966
+  region: KR
+- videoId: O4lC9LjjBCI
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1656
+  region: KR
+- videoId: MTHoWs0L2Ws
+  title: T1 Gumayusi Kaisa ADC vs Ezreal - Patch 25.6 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1213
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: 2XhuKLdnpEk
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1960
+  region: KR
+- videoId: nrBcYhVO16Y
+  title: Kaisa vs Ezreal ADC [ Peyz + QuadraKill ] Patch 25.5 Korea Grandmaster ✅
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1587
+  region: KR
+  player: Peyz
+- videoId: mPaNhN7PPrY
+  title: Kai'Sa ADC vs Ezreal - KR Master Patch 25.04
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1931
+  region: KR
+- videoId: OVvpJAPPLVk
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 2011
+  region: KR
+- videoId: fbIEiVYNpVU
+  title: Kai'Sa vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1810
+  region: KR
+- videoId: 1TZre1pCYss
+  title: T1 Gumayusi Kaisa ADC vs Ezreal - Patch 25.3 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.3"
+  durationSec: 1247
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: VJ1vK3yi_3I
+  title: T1 Gumayusi Kaisa vs Ezreal ADC [ QuadraKill ] Patch 25.3 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.3"
+  durationSec: 1251
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: CY7SFpi87K8
+  title: T1 Gumayusi Kaisa vs Ezreal [ ADC ] Patch 25.2 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 1369
+  region: KR
+  player: Gumayusi
+  team: T1

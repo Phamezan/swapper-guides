@@ -63,11 +63,18 @@
   player: Ruler
   team: Gen.G
   uploaded: 2026-09-12
+- videoId: xKZ1bQmtyHk
+  title: Yunara ADC vs Tristana - KR Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1450
+  region: KR
 - videoId: Awm4PFh9R-c
   title: Yunara vs Tristana ADC - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1561
+  region: KR
   uploaded: 2026-09-05
 - videoId: 5ojFn-Mug3I
   title: Yunara vs Tristana ADC [ PentaKill ] Korea Challenger 2213 LP | Patch 26.12 ✅
@@ -76,6 +83,7 @@
   durationSec: 1015
   region: KR
   player: PentaKill
+  uploaded: 2026-06-17
 - videoId: 9m5OQOgH4_o
   title: HLE Gumayusi Yunara vs Tristana [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -84,3 +92,9 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: T6pcoESAu3I
+  title: Yunara vs Tristana ADC - KR Master - Patch 25.15 Season 15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1840
+  region: KR

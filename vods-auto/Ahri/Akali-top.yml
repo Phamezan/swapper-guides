@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1505
+  region: EUW
   uploaded: 2026-08-01
   result: L
   moments:
@@ -47,6 +48,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1698
+  region: EUW
   uploaded: 2026-07-17
   result: L
   moments:
@@ -100,6 +102,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1605
+  region: EUW
   uploaded: 2026-07-09
   result: L
   moments:
@@ -158,6 +161,7 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1609
+  region: EUW
   uploaded: 2026-05-21
   result: W
   moments:
@@ -191,8 +195,80 @@
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1821
+  region: EUW
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Take down The Turret
+      kind: tower
+    - at: 22:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:12
+      label: Take down The Turret
+      kind: tower
+    - at: 29:32
+      label: Take down The Inhibitor
+    - at: 29:51
+      label: Take down The Turret
+      kind: tower
+    - at: 29:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:03
+      label: Take down The Turret
+      kind: tower
+    - at: 30:10
+      label: End credit
 - videoId: 2K8rrnjJMwU
   title: Ahri Top vs Akali - EUW Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1541
+  region: EUW
+- videoId: 1orwE71RVu0
+  title: Ahri Top vs Akali - VN Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1761
+- videoId: bPyG3ibY5kw
+  title: Ahri Top vs Akali - NA Master Patch 25.11
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1853
+  region: NA

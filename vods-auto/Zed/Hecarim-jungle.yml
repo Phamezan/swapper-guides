@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1719
+  region: KR
   uploaded: 2026-10-10
   result: W
   moments:
@@ -110,6 +111,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1680
+  region: EUW
   uploaded: 2026-07-24
   result: W
   moments:
@@ -161,6 +163,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1508
+  region: EUW
   uploaded: 2026-07-22
   result: L
   moments:
@@ -209,11 +212,111 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1790
+  region: EUW
+  uploaded: 2026-05-28
+  result: L
+  moments:
+    - at: 5:35
+      label: First Blood — Kassadin kills Viktor
+      kind: kill
+    - at: 7:44
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:29
+      label: Smolder picks off Karma
+    - at: 13:07
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:23
+      label: Zed kills Karma
+      kind: kill
+    - at: 15:55
+      label: Zed kills K'Sante
+      kind: kill
+    - at: 16:40
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:30
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:13
+      label: Zed picks off Viktor
+    - at: 21:31
+      label: Smolder picks off K'Sante
+    - at: 24:36
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 25:00
+      label: Kassadin Double Kill
+      kind: kill
+    - at: 25:25
+      label: Zed eliminates Ezreal
+    - at: 27:21
+      label: Smolder takes down Ezreal
+    - at: 27:57
+      label: Red takes Baron
+      kind: baron
+    - at: 28:49
+      label: Zed takes down Ezreal
+    - at: 29:05
+      label: Riven kills Hecarim
+      kind: kill
+    - at: 29:22
+      label: Mid Inhibitor falls (Blue)
 - videoId: xr213r5wguY
   title: Zed Jungle vs Hecarim - EUW Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1786
+  region: EUW
+  uploaded: 2026-05-13
+  result: L
+  moments:
+    - at: 4:35
+      label: First Blood — Zed kills Lux
+      kind: kill
+    - at: 4:53
+      label: Zed takes down Caitlyn
+    - at: 8:04
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:16
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:48
+      label: Zed kills Lux
+      kind: kill
+    - at: 17:51
+      label: Zed picks off Ryze
+    - at: 19:32
+      label: Zed kills Lux
+      kind: kill
+    - at: 20:23
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:55
+      label: Zed picks off Ryze
+    - at: 23:21
+      label: Red takes Baron
+      kind: baron
+    - at: 25:05
+      label: Zed eliminates Caitlyn
+    - at: 25:46
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 26:01
+      label: Zed solo kills Ryze
+      kind: kill
+    - at: 26:48
+      label: Zed outplays Hecarim
+    - at: 27:18
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:36
+      label: Top Inhibitor falls (Blue)
+    - at: 29:14
+      label: Bot Inhibitor falls (Blue)
+    - at: 29:18
+      label: Nami eliminates Lux
 - videoId: ChPlBDFWcKU
   title: Zed Jungle vs Hecarim - BR Grandmaster Patch 26.03
   rankClaim: Grandmaster
@@ -224,3 +327,26 @@
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1488
+  region: EUW
+- videoId: C4Y0tZG0oCo
+  title: Zed Jungle vs Hecarim - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1527
+  region: EUW
+- videoId: 89HxdtW2pzg
+  title: Zed Jungle vs Hecarim - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1436
+  region: KR
+- videoId: 44S_jfp93WM
+  title: Zed Jungle vs Hecarim - VN Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1629
+- videoId: VJtrZL6rQG4
+  title: Zed Jungle vs Hecarim - BR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1903

@@ -8,6 +8,13 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-09-09
+- videoId: KORi-yQrDDk
+  title: (ZZG bakisa) Corki ADC vs Yunara - EUW Grandmaster Patch 26.14
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1745
+  region: EUW
+  player: ZZG bakisa
 - videoId: 3pVQR_YVe64
   title: HLE Gumayusi Corki vs Yunara [ ADC ] Korea Challenger 2405 LP | Patch 26.7
   rankClaim: Challenger
@@ -16,6 +23,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-08
 - videoId: MxWwsQ0luj8
   title: HLE Gumayusi Corki vs Yunara [ ADC ] Korea Challenger 2405 LP | Patch 26.6
   rankClaim: Challenger
@@ -32,3 +40,64 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: GJQARdkTfAQ
+  title: Corki ADC vs Yunara - NA Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1478
+  region: NA
+- videoId: lp1zualYbsA
+  title: Corki ADC vs Yunara - KR Grandmaster Patch 25.21
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1565
+  region: KR
+- videoId: DIQnSCHClpM
+  title: Corki vs Yunara ADC [ TripleKill ] Korea Challenger 1191 LP | Patch 25.20 ✅
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1126
+  region: KR
+  player: TripleKill
+- videoId: bJh0rrz-NMg
+  title: Corki vs Yunara ADC - KR Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1786
+  region: KR
+- videoId: anoUE2CuWi0
+  title: T1 Gumayusi Corki vs Yunara [ ADC ] Patch 25.17 Korea Master
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 927
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: w6euva7RRsA
+  title: T1 Gumayusi Corki vs Yunara [ ADC ] Patch 25.17 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1375
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: 2hcw9i4rsCM
+  title: Corki ADC vs Yunara - KR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1652
+  region: KR
+- videoId: L9gYw2T5EZ8
+  title: Corki ADC vs Yunara - KR Grandmaster Patch 25.15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1690
+  region: KR
+- videoId: FWzgJL1V99c
+  title: T1 Gumayusi Corki vs Yunara [ ADC ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 746
+  region: KR
+  player: Gumayusi
+  team: T1

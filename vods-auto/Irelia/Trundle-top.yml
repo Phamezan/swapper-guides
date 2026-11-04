@@ -4,4 +4,11 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1351
+  region: KR
   player: Irelking
+- videoId: fuN8kQF7zqA
+  title: Irelia Top vs Trundle - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1672
+  region: KR

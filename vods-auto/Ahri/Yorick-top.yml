@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1549
+  region: KR
   uploaded: 2026-02-11
   moments:
     - at: 0:15
@@ -60,3 +61,15 @@
       kind: teamfight
     - at: 25:38
       label: End credit
+- videoId: OlZdQKCCj58
+  title: Ahri Top vs Yorick - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1532
+  region: EUW
+- videoId: i8GPXRXm37M
+  title: Ahri Top vs Yorick - NA Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1666
+  region: NA

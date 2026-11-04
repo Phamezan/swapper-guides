@@ -4,3 +4,49 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1769
+  region: EUW
+  uploaded: 2026-05-14
+  result: L
+  moments:
+    - at: 3:44
+      label: First Blood — Zed kills Vayne
+      kind: kill
+    - at: 4:15
+      label: Zed outplays Ezreal
+    - at: 6:33
+      label: Akshan picks off Ezreal
+    - at: 7:50
+      label: Zed solo kills Ezreal again
+      kind: kill
+    - at: 9:31
+      label: Zed kills Milio
+      kind: kill
+    - at: 11:05
+      label: Zed takes down Ezreal (3rd time)
+    - at: 12:41
+      label: Zed takes down Ezreal
+    - at: 13:27
+      label: Zed catches Ezreal (4th time)
+    - at: 15:42
+      label: Zed takes down Ezreal
+    - at: 16:47
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 20:54
+      label: Zed eliminates Vayne
+    - at: 21:33
+      label: Anivia eliminates Milio
+    - at: 22:39
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 24:12
+      label: Zed outduels Ezreal (5th time)
+    - at: 25:47
+      label: Zed takes down Vayne
+    - at: 26:12
+      label: Red takes Baron
+      kind: baron
+    - at: 27:49
+      label: Top Inhibitor falls (Blue)
+    - at: 27:58
+      label: Mid Inhibitor falls (Blue)

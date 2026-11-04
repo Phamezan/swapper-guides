@@ -5,12 +5,7 @@
   patch: "26.12"
   durationSec: 1223
   region: KR
-- videoId: 4mgRAzhoHrA
-  title: Peyz Varus vs Sivir ADC - KR Challenger - Patch 16.06 Season 16
-  rankClaim: Challenger
-  patch: "26.6"
-  durationSec: 1681
-  player: Peyz
+  uploaded: 2026-06-17
 - videoId: NN5e9Or7g-M
   title: T1 Peyz Varus vs Sivir [ ADC ] Korea Challenger 2023 LP | Patch 26.6
   rankClaim: Challenger
@@ -18,4 +13,46 @@
   durationSec: 1527
   region: KR
   player: Peyz
+  team: T1
+- videoId: 4mgRAzhoHrA
+  title: Peyz Varus vs Sivir ADC - KR Challenger - Patch 16.06 Season 16
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1681
+  region: KR
+  player: Peyz
+  uploaded: 2026-03-25
+- videoId: UjGu8EFy1sM
+  title: T1 Peyz Varus vs Sivir [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1218
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: cNqIRK7Su4M
+  title: Varus ADC vs Sivir - KR Challenger Patch 25.18
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1458
+  region: KR
+- videoId: XedHwlRfOpc
+  title: Varus vs Sivir ADC - KR Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1501
+  region: KR
+- videoId: pM2KLl0-bAc
+  title: Varus ADC vs Sivir - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 2010
+  region: KR
+- videoId: SjA9PTqtwsI
+  title: T1 Gumayusi Varus ADC vs Sivir - Patch 25.16 Korea Master
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1483
+  region: KR
+  player: Gumayusi
   team: T1

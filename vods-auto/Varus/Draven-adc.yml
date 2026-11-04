@@ -4,3 +4,19 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1351
+  region: KR
+  uploaded: 2026-04-02
+- videoId: ToBPH4Srj44
+  title: Varus ADC vs Draven - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1776
+  region: KR
+- videoId: gbpFKNhUIDY
+  title: Varus vs Draven ADC [ JDG Peyz ] Patch 25.5 Korea Grandmaster ✅
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1103
+  region: KR
+  player: Peyz
+  team: JDG

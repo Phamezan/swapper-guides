@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1449
+  region: KR
   uploaded: 2026-10-16
   result: W
   moments:
@@ -53,6 +54,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1741
+  region: KR
   uploaded: 2026-09-26
   result: W
   moments:
@@ -107,6 +109,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 2047
+  region: KR
   uploaded: 2026-08-29
   result: W
   moments:
@@ -159,28 +162,308 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1844
+  region: EUW
+  uploaded: 2026-06-11
+  result: W
+  moments:
+    - at: 2:42
+      label: First Blood — Zed kills Kha'Zix
+      kind: kill
+    - at: 6:03
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:42
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:25
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 18:08
+      label: Zed kills Seraphine
+      kind: kill
+    - at: 18:55
+      label: Akali takes down Sylas
+    - at: 19:43
+      label: Zed takes down Ezreal
+    - at: 20:56
+      label: Zed picks off Yone
+    - at: 21:57
+      label: Red takes Baron
+      kind: baron
+    - at: 22:37
+      label: Draven eliminates Kha'Zix
+    - at: 22:40
+      label: Zed solo kills Yone
+      kind: kill
+    - at: 22:57
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 24:30
+      label: Zed takes down Yone again
+    - at: 26:36
+      label: Mid Inhibitor falls (Red)
+    - at: 26:42
+      label: Zed picks off Yone
+    - at: 28:51
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:54
+      label: Ornn eliminates Seraphine
+    - at: 29:28
+      label: Mid Inhibitor falls (Blue)
 - videoId: L4rC8POGUPA
   title: Zed Jungle vs Kha'Zix - EUW Master Patch 26.11
   rankClaim: Master
   patch: "26.11"
   durationSec: 1817
+  region: EUW
+  uploaded: 2026-05-30
+  result: L
+  moments:
+    - at: 6:56
+      label: First Blood — Zed kills Kha'Zix
+      kind: kill
+    - at: 8:14
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 14:16
+      label: Zed Double Kill
+      kind: kill
+    - at: 14:45
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 16:41
+      label: Zed eliminates Ezreal
+    - at: 17:21
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 19:40
+      label: Nami takes down Aurora
+    - at: 20:00
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:50
+      label: Karthus takes down Ezreal
+    - at: 22:06
+      label: Red takes Baron
+      kind: baron
+    - at: 23:04
+      label: Karthus picks off Blitzcrank
+    - at: 25:21
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 25:28
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 26:10
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:22
+      label: Zed takes down Kha'Zix
+    - at: 28:23
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:14
+      label: Top Inhibitor falls (Blue)
+    - at: 29:34
+      label: Urgot takes down Aurora
+- videoId: eRvOeh3E-Mc
+  title: Zed Jungle vs Kha'Zix - KR Master Patch 26.10
+  rankClaim: Master
+  patch: "26.10"
+  durationSec: 1716
+  region: KR
 - videoId: Mx7OSWUlfqQ
   title: Zed Jungle vs Kha'Zix - EUW Grandmaster Patch 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1828
+  region: EUW
+  uploaded: 2026-05-16
+  result: L
+  moments:
+    - at: 9:43
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:28
+      label: First Blood — Zed kills Ornn
+      kind: kill
+    - at: 11:40
+      label: Ezreal picks off Nautilus
+    - at: 14:02
+      label: Karma picks off Smolder
+    - at: 15:09
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:04
+      label: Zed kills Ornn
+      kind: kill
+    - at: 20:24
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:36
+      label: Zed picks off Anivia
+    - at: 24:30
+      label: Zed takes down Smolder
+    - at: 26:14
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 26:40
+      label: Red takes Baron
+      kind: baron
+    - at: 28:28
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:33
+      label: Zed catches Smolder again
+    - at: 30:02
+      label: Zed takes down Kha'Zix
 - videoId: QGj6rvFthn0
   title: Zed Jungle vs Kha'Zix - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1516
+  region: KR
+  uploaded: 2026-05-10
+  result: W
+  moments:
+    - at: 4:02
+      label: First Blood — Nunu & Willump kills Hwei
+      kind: kill
+    - at: 5:27
+      label: Zed eliminates Ezreal
+    - at: 5:56
+      label: Karma kills Kha'Zix
+      kind: kill
+    - at: 10:13
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:46
+      label: Zed kills Ornn
+      kind: kill
+    - at: 12:22
+      label: Yunara eliminates Kha'Zix
+    - at: 15:29
+      label: Nunu & Willump takes down Ornn
+    - at: 17:23
+      label: Yunara Double Kill
+      kind: kill
+    - at: 17:48
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 19:41
+      label: Yunara Double Kill
+      kind: kill
+    - at: 23:01
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 24:32
+      label: Mid Inhibitor falls (Red)
+    - at: 25:04
+      label: Bot Inhibitor falls (Red)
 - videoId: Q7W0eKoTH-8
   title: Zed Jungle vs Kha'Zix - VN Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1823
+  uploaded: 2026-04-20
+  result: L
+  moments:
+    - at: 5:04
+      label: First Blood — Zed kills Karma
+      kind: kill
+    - at: 8:14
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:08
+      label: Annie takes down Karma
+    - at: 13:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:13
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:01
+      label: Zed outduels Ambessa
+    - at: 19:27
+      label: Pyke picks off Kai'Sa
+    - at: 19:39
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:49
+      label: Red takes Baron
+      kind: baron
+    - at: 20:59
+      label: Pyke eliminates Ambessa
+    - at: 24:34
+      label: Zed kills Karma
+      kind: kill
+    - at: 25:17
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:53
+      label: Pyke takes down Syndra
+    - at: 28:06
+      label: Zed picks off Syndra
+    - at: 28:29
+      label: Zed takes down Kha'Zix
+    - at: 28:57
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:41
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 29:43
+      label: Zed Triple Kill
+      kind: kill
 - videoId: 7w4t0NygljU
   title: Zed Jungle vs Kha'Zix - VN Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1596
+- videoId: mFVqh7h86-o
+  title: Zed Jungle vs Kha'Zix - EUW Grandmaster Patch 25.21
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 2032
+  region: EUW
+- videoId: -ZKFOhxceB0
+  title: Zed vs Kha'Zix [ Jungle ] Lol Korea Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1447
+  region: KR
+- videoId: PcbuOsWWkUo
+  title: Zed Jungle vs Kha'Zix - BR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1521
+- videoId: FjhCg58MhSA
+  title: Zed Jungle vs Kha'Zix - BR Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 2088
+- videoId: Ds9M1_Znd7s
+  title: Zed Jungle vs Kha'Zix - VN Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1917
+- videoId: 94VX7HfGc_E
+  title: Zed Jungle vs Kha'Zix - NA Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1775
+  region: NA
+- videoId: 3Y4Ryekd28k
+  title: Zed Jungle vs Kha'Zix - NA Master Patch 25.07
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 2151
+  region: NA
+- videoId: CQiNsduv3FE
+  title: Zed Jungle vs Kha'Zix - EUW Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1503
+  region: EUW

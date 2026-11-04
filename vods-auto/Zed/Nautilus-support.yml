@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1431
+  region: KR
   uploaded: 2026-08-01
   result: L
   moments:
@@ -54,8 +55,65 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1618
+  region: KR
+  uploaded: 2026-06-07
+  result: L
+  moments:
+    - at: 0:42
+      label: First Blood — Zed kills Nautilus
+      kind: kill
+    - at: 8:44
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:22
+      label: Brand eliminates Bel'Veth
+    - at: 13:28
+      label: Zed takes down LeBlanc
+    - at: 14:13
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:39
+      label: Warwick kills Singed
+      kind: kill
+    - at: 16:39
+      label: Ahri picks off Bel'Veth
+    - at: 17:39
+      label: Zed eliminates Singed
+    - at: 19:43
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 20:14
+      label: Ahri kills Varus
+      kind: kill
+    - at: 20:21
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:24
+      label: Ahri eliminates LeBlanc
+    - at: 24:33
+      label: Brand Triple Kill
+      kind: kill
+    - at: 25:01
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:03
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 26:39
+      label: Bot Inhibitor falls (Blue)
 - videoId: mGk_t0CzAo4
   title: Zed Support vs Nautilus - EUW Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1852
+  region: EUW
+- videoId: IBFhwHo_bhY
+  title: Zed Support vs Nautilus - VN Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1609
+- videoId: dU1E8wt_zrs
+  title: Zed Support vs Nautilus - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1973
+  region: KR

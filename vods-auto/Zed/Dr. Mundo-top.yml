@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1566
+  region: KR
   uploaded: 2026-08-18
   result: W
   moments:
@@ -49,6 +50,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1599
+  region: EUW
   uploaded: 2026-08-09
   result: W
   moments:
@@ -101,6 +103,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1669
+  region: EUW
   uploaded: 2026-07-10
   result: L
   moments:
@@ -147,3 +150,9 @@
       label: Zed takes down Akali
     - at: 27:32
       label: Zed outduels Olaf
+- videoId: zQDgazY4kiM
+  title: Zed Top vs Dr. Mundo - KR Master Patch 25.07
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1667
+  region: KR

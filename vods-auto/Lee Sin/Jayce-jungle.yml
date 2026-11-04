@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1620
+  region: KR
   uploaded: 2026-09-05
 - videoId: qHmO4LJ6470
   title: T1 Oner Lee Sin vs Jayce [ Jungle ] Korea Challenger 2276 LP | Patch 26.14
@@ -13,13 +14,28 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-07-27
 - videoId: XxdL5IwpUhA
   title: Lee Sin vs Jayce Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1861
+  region: KR
 - videoId: 1mZ9oQgt3JI
   title: Lee Sin vs Jayce Jungle - KR CHallenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1651
+  region: KR
+- videoId: 2ZutQeAeEKU
+  title: Lee Sin vs Jayce Jungle - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1441
+  region: KR
+- videoId: v5q8bNHLkRI
+  title: Lee Sin vs Jayce Jungle - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1621
+  region: KR

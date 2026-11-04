@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1879
+  region: KR
   uploaded: 2026-06-27
   result: W
   moments:
@@ -59,3 +60,15 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1867
+  region: EUW
+- videoId: LFPSlG8BjSQ
+  title: Zed Support vs Bard - KR Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1649
+  region: KR
+- videoId: 3TKnOzzW1E8
+  title: Zed Support vs Bard - TW Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 1864

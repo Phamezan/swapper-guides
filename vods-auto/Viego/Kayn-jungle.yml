@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1581
+  region: KR
   uploaded: 2026-09-19
 - videoId: 19lQFmZ9DxI
   title: Viego vs Kayn Jungle [ QuadraKill ] Korea Challenger 1910 LP | Patch 26.18 ✅
@@ -13,3 +14,16 @@
   region: KR
   player: QuadraKill
   uploaded: 2026-09-18
+- videoId: IJl_FvzikfE
+  title: Viego vs Kayn Jungle [ TripleKill ] Korea Master Patch 25.21
+  rankClaim: Master
+  patch: "25.21"
+  durationSec: 1276
+  region: KR
+  player: TripleKill
+- videoId: CnXd-ctYrXw
+  title: Viego vs Kayn Jungle - KR Challenger - Patch 15.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1841
+  region: KR

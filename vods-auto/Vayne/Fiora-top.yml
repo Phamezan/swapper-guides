@@ -13,13 +13,24 @@
   durationSec: 1441
   region: KR
   player: PentaKill
+  uploaded: 2026-07-23
 - videoId: MBuB0RvZmnc
   title: Vayne vs Fiora Top - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1816
+  region: KR
+  uploaded: 2026-04-15
 - videoId: zEc4HzfyYjY
   title: Vayne vs Fiora Top - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1846
+  region: KR
+  uploaded: 2026-03-31
+- videoId: kQSI_L1hqEM
+  title: Vayne Top vs Fiora - KR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1784
+  region: KR

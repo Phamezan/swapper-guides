@@ -16,6 +16,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-11
 - videoId: ESFtKZF3NUo
   title: T1 Peyz Ezreal ADC vs Lucian - Patch 26.3 Korea Challenger 1981 LP
   rankClaim: Challenger
@@ -31,4 +32,54 @@
   durationSec: 2031
   region: KR
   player: Peyz
+  team: T1
+- videoId: -tjjW0M5O5E
+  title: T1 Gumayusi Ezreal vs Lucian [ ADC ] Korea Grandmaster Patch 25.19
+  rankClaim: Grandmaster
+  patch: "25.19"
+  durationSec: 1008
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: JCys5hwA4ME
+  title: Ezreal ADC vs Lucian - KR Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1618
+  region: KR
+- videoId: DVcpRy42qSk
+  title: Ezreal vs Lucian ADC [ DRX Teddy ] Patch 25.14 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1344
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: hJsCQhK9YlY
+  title: Ezreal ADC vs Lucian - EUW Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1638
+  region: EUW
+- videoId: DLr2AEjbvbo
+  title: Ezreal vs Lucian ADC - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 2116
+  region: KR
+- videoId: u-OtLtjt6AI
+  title: T1 Gumayusi Ezreal vs Lucian [ ADC ] Patch 25.11 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1363
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: tsPOKwwMeR8
+  title: T1 Gumayusi Ezreal vs Lucian [ ADC ] Patch 25.10 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1119
+  region: KR
+  player: Gumayusi
   team: T1

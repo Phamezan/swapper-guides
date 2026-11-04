@@ -4,9 +4,43 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1870
+  region: KR
   uploaded: 2026-09-17
+- videoId: OU--DEydxTc
+  title: Sett Top vs Camille (T1 Doran) - KR Grandmaster Patch 26.17
+  rankClaim: Grandmaster
+  patch: "26.17"
+  durationSec: 1772
+  region: KR
+  player: Doran
 - videoId: Ne1SognLUaQ
   title: Sett vs Camille Top - EUW Grandmaster - Patch 16.07 Season 16
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 2171
+  region: EUW
+  uploaded: 2026-04-08
+- videoId: -SFsTAp6yDE
+  title: Sett vs Camille Top - EUW Grandmaster - Patch 25.22 Season 15
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1591
+  region: EUW
+- videoId: UMWcLQXxfSQ
+  title: Sett Top vs Camille - KR Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1728
+  region: KR
+- videoId: O_qfH7FmN6I
+  title: Sett vs Camille Top - KR Grandmaster - Patch 25.12 Season 15
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 2331
+  region: KR
+- videoId: fUo8eqVNFu0
+  title: Sett vs Camille Top - EUW Grandmaster - Patch 25.5 Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1876
+  region: EUW

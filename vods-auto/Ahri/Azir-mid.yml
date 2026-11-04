@@ -4,6 +4,30 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 2093
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-12
+- videoId: DpdFykpIrI4
+  title: Ahri Mid vs Azir - VN Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1892
+- videoId: kdSuTE9M8nE
+  title: Ahri Mid vs Azir - KR Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1763
+  region: KR
+- videoId: Lw4gw_JQBeU
+  title: Ahri vs Azir Mid - KR Master - Patch 25.9 Season 15
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1756
+  region: KR
+- videoId: 7AMXt_x3zNg
+  title: Ahri Mid vs Azir - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 2077
+  region: KR

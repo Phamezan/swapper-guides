@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1617
+  region: EUW
   player: MagiFelix
   uploaded: 2026-10-27
   result: W
@@ -52,6 +53,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 2111
+  region: KR
   uploaded: 2026-10-25
   result: W
   moments:
@@ -107,6 +109,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1850
+  region: EUW
   player: BZ
   uploaded: 2026-10-05
   result: W
@@ -164,6 +167,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1668
+  region: KR
   uploaded: 2026-09-25
   result: W
   moments:
@@ -209,6 +213,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 2143
+  region: KR
   uploaded: 2026-09-08
   result: W
   moments:
@@ -264,6 +269,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1500
+  region: KR
   uploaded: 2026-08-27
   result: W
   moments:
@@ -306,6 +312,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1542
+  region: NA
   player: LYON Dhokla
   uploaded: 2026-07-26
   result: L
@@ -340,14 +347,171 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1601
+  region: EUW
   player: IN5 Alix
+  uploaded: 2026-06-23
+  result: L
+  moments:
+    - at: 6:07
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:47
+      label: First Blood — Zed kills Aurora
+      kind: kill
+    - at: 11:50
+      label: Zed takes down Aurora
+    - at: 12:12
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 12:21
+      label: Zed picks off Darius
+    - at: 14:27
+      label: Sejuani Double Kill
+      kind: kill
+    - at: 15:45
+      label: Zed eliminates Aurora
+    - at: 17:25
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 18:20
+      label: Zed outplays Akali
+    - at: 18:53
+      label: Zed outduels Thresh
+    - at: 21:46
+      label: Zed eliminates Aurora
+    - at: 23:05
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:15
+      label: Sejuani Triple Kill
+      kind: kill
+    - at: 23:32
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 24:32
+      label: Zed eliminates Aurora
+    - at: 25:20
+      label: Red takes Baron
+      kind: baron
+    - at: 25:23
+      label: Zed catches Aurora again
+    - at: 26:22
+      label: Zed takes down Akali
 - videoId: 65cha420vhk
   title: Zed Mid vs Aurora - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster
   patch: "26.12"
   durationSec: 1871
+  region: EUW
+  uploaded: 2026-06-16
+  result: W
+  moments:
+    - at: 7:31
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:20
+      label: First Blood — Zed kills Aurora
+      kind: kill
+    - at: 10:45
+      label: Zed catches Seraphine
+    - at: 13:32
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:20
+      label: Zed outplays Ambessa
+    - at: 19:18
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 22:19
+      label: Zed picks off Zaahen
+    - at: 22:25
+      label: Zed Triple Kill
+      kind: kill
+    - at: 22:27
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 22:51
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:39
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 26:46
+      label: Bot Inhibitor falls (Red)
+    - at: 27:27
+      label: Jayce eliminates Rell
+    - at: 29:20
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:54
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 30:17
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 30:30
+      label: Mid Inhibitor falls (Red)
+- videoId: oOwWgOrvIyM
+  title: Zed Mid vs Aurora - KR Grandmaster Patch 26.07
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 1590
+  region: KR
 - videoId: 96_O4iMF864
   title: Zed Mid vs Aurora - EUW Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1885
+  region: EUW
+- videoId: 8p3Q4-y0crM
+  title: Zed Mid vs Aurora - TW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1642
+- videoId: kPKoVgpE2Yc
+  title: Zed Mid vs Aurora - BR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1752
+- videoId: sauJIp61P94
+  title: Zed Mid vs Aurora - TW Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1474
+- videoId: DtLw_LY3zVE
+  title: OnZed Zed vs Aurora Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1571
+  region: KR
+  player: OnZed
+- videoId: IpmR83Z5Ljk
+  title: Zed vs Aurora Mid - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 2416
+  region: KR
+- videoId: JHsITeP8xnE
+  title: Zed Mid vs Aurora - BR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1910
+- videoId: sbmu6ifGNkE
+  title: Zed Mid vs Aurora - EUW Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1783
+  region: EUW
+- videoId: XCTssBoDVsI
+  title: Zed Mid vs Aurora - EUW Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1767
+  region: EUW
+- videoId: WW0GQB9wDro
+  title: Zed vs Aurora MID [ Gen G Chovy ] Korea Grandmaster Patch 25.2 ✅
+  rankClaim: Grandmaster
+  patch: "25.2"
+  durationSec: 1477
+  region: KR
+  player: Chovy

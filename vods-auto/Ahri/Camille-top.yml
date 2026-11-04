@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1500
+  region: KR
   player: Castle
   uploaded: 2026-10-18
   result: W
@@ -52,6 +53,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1950
+  region: EUW
   uploaded: 2026-09-27
   result: W
   moments:
@@ -101,3 +103,9 @@
     - at: 31:32
       label: Kog'Maw kills Taliyah
       kind: kill
+- videoId: yY8V53RutcA
+  title: Ahri Top vs Camille - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 2066
+  region: KR

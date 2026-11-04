@@ -4,5 +4,64 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1396
+  region: NA
   player: Zeka
   uploaded: 2026-10-24
+- videoId: dQ8qBbaADV8
+  title: (DK ShowMaker) Locke Mid vs Orianna - KR Challenger Patch 26.20
+  rankClaim: Challenger
+  patch: "26.20"
+  durationSec: 1784
+  region: KR
+  player: ShowMaker
+  team: DK
+  uploaded: 2026-10-12
+  result: L
+  moments:
+    - at: 4:45
+      label: First Blood — Locke kills Orianna
+      kind: kill
+    - at: 10:30
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:18
+      label: Locke takes down Braum
+    - at: 17:19
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:29
+      label: Locke picks off Graves
+    - at: 17:54
+      label: Locke Double Kill
+      kind: kill
+    - at: 18:14
+      label: Locke eliminates Orianna
+    - at: 19:28
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:59
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:30
+      label: Locke takes down Braum
+    - at: 22:35
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:51
+      label: Locke kills Ezreal
+      kind: kill
+    - at: 25:08
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:56
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:11
+      label: Locke takes down Yorick
+    - at: 27:46
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 28:15
+      label: Red takes Baron
+      kind: baron
+    - at: 28:29
+      label: Locke Double Kill
+      kind: kill

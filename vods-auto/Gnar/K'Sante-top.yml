@@ -8,3 +8,29 @@
   player: Doran
   team: T1
   uploaded: 2026-09-25
+- videoId: Fa5NS0f43NU
+  title: Gnar Top vs K'Sante - KR Grandmaster Patch 26.18
+  rankClaim: Grandmaster
+  patch: "26.18"
+  durationSec: 1779
+  region: KR
+- videoId: 3ludzVjwSpo
+  title: (LNG sheer) Gnar Top vs K'Sante - KR Challenger Patch 26.14
+  rankClaim: Challenger
+  patch: "26.14"
+  durationSec: 1822
+  region: KR
+  player: sheer
+  team: LNG
+- videoId: GsyY1oa_lR4
+  title: Gnar Top vs K'Sante - KR Grandmaster Patch 26.05
+  rankClaim: Grandmaster
+  patch: "26.5"
+  durationSec: 1519
+  region: KR
+- videoId: TxUkeO7Bjog
+  title: Gnar Top vs K'Sante - EUW Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1779
+  region: EUW

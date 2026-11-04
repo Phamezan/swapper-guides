@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1880
+  region: EUW
   uploaded: 2026-04-28
   result: W
   moments:
@@ -91,3 +92,9 @@
       kind: teamfight
     - at: 30:13
       label: End credit
+- videoId: bS5dDycTM5s
+  title: Ahri Top vs Cassiopeia - KR Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1691
+  region: KR

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1567
+  region: KR
   uploaded: 2026-09-11
   result: W
   moments:
@@ -53,6 +54,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1620
+  region: KR
   uploaded: 2026-08-08
   result: L
   moments:

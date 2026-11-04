@@ -4,14 +4,92 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1896
+  region: KR
   uploaded: 2026-09-29
+- videoId: AeN6OFM0ous
+  title: Darius Top vs Ambessa - EUW Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1470
+  region: EUW
+- videoId: G8ZbJsHU_Qg
+  title: (FK Adam) Darius Top vs Ambessa - EUW Grandmaster Patch 26.14
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1681
+  region: EUW
+  player: FK Adam
 - videoId: RK9CMMXaLmw
   title: Darius vs Ambessa Top - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1816
+  region: KR
+  uploaded: 2026-05-05
 - videoId: mdgssyuiSug
   title: Darius vs Ambessa Top - KR Grandmaster - Patch 16.07 Season 16
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1501
+  region: KR
+  uploaded: 2026-04-02
+- videoId: XRDR4ddCrRc
+  title: Darius Top vs Ambessa - KR Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1558
+  region: KR
+- videoId: NPKCp6urIvQ
+  title: Darius vs Ambessa Top - EUW Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1781
+  region: EUW
+- videoId: TsghsIKPnFs
+  title: Darius vs Ambessa Top - EUW Grandmaster - Patch 25.17 Season 15
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1641
+  region: EUW
+- videoId: UwT-4WoBzy8
+  title: Darius vs Ambessa [ TOP ] Lol Korea Master Patch 25.14 ✅
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1352
+  region: KR
+- videoId: FP9PEtcYwZA
+  title: Darius Top vs Ambessa - KR Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1709
+  region: KR
+- videoId: W5-TQenPBk8
+  title: Darius vs Ambessa Top - KR Challenger - Patch 25.9 Season 15
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1711
+  region: KR
+- videoId: qWTCBY-_c1s
+  title: Darius vs Ambessa Top - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1991
+  region: KR
+- videoId: VKM2hKiKk6Y
+  title: Darius vs Ambessa Top - KR Grandmaster - Patch 25.7 Season 15
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1561
+  region: KR
+- videoId: g0QBbDIp1qs
+  title: Darius vs Ambessa Top - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1836
+  region: KR
+- videoId: 6PT5zFF5HFs
+  title: Darius vs Ambessa Top - KR Master - Patch 15.4 Season 15
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1711
+  region: KR

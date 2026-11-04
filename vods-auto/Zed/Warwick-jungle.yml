@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1998
+  region: KR
   uploaded: 2026-09-10
   result: W
   moments:
@@ -58,8 +59,93 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1742
+  region: EUW
+  uploaded: 2026-05-28
+  result: L
+  moments:
+    - at: 1:33
+      label: First Blood — Zed kills Smolder
+      kind: kill
+    - at: 9:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:06
+      label: Zed eliminates Smolder
+    - at: 13:54
+      label: Zed picks off Akali
+    - at: 14:32
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:55
+      label: Zed picks off Akali
+    - at: 17:42
+      label: Zed catches Seraphine
+    - at: 17:47
+      label: Zed Double Kill
+      kind: kill
+    - at: 19:55
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:21
+      label: Zed picks off Akali
+    - at: 22:47
+      label: Zed picks off Akali
+    - at: 24:21
+      label: Red takes Baron
+      kind: baron
+    - at: 26:00
+      label: Zed kills Seraphine
+      kind: kill
+    - at: 26:04
+      label: Nautilus takes down Akali
+    - at: 27:48
+      label: Zed kills Seraphine
+      kind: kill
+    - at: 27:57
+      label: Zed Triple Kill
+      kind: kill
+    - at: 28:30
+      label: Mid Inhibitor falls (Blue)
 - videoId: ELxTNB1n4ns
   title: Zed Jungle vs Warwick - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1690
+  region: KR
+  uploaded: 2026-05-09
+  result: L
+  moments:
+    - at: 3:17
+      label: First Blood — Sylas kills Warwick
+      kind: kill
+    - at: 6:47
+      label: Zed takes down Warwick
+    - at: 7:13
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:28
+      label: Zed picks off Ahri
+    - at: 12:41
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:06
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 15:42
+      label: Zed eliminates Kai'Sa
+    - at: 19:04
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:26
+      label: Lucian Double Kill
+      kind: kill
+    - at: 24:16
+      label: Lucian Double Kill
+      kind: kill
+    - at: 24:39
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 26:20
+      label: Zed eliminates Kai'Sa
+    - at: 27:46
+      label: Zed eliminates Kai'Sa

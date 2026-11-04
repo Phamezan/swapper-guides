@@ -6,3 +6,15 @@
   durationSec: 1959
   region: KR
   uploaded: 2026-09-29
+- videoId: l_vUfK7VxSw
+  title: Kayle Top vs Nasus - EUNE Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1582
+  region: EUNE
+- videoId: OHlKAM4VjCM
+  title: Kayle Top vs Nasus - NA Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1550
+  region: NA

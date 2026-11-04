@@ -4,3 +4,28 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1426
+  region: EUW
+- videoId: XavvSIs4z0o
+  title: Darius Top vs Rumble - EUW Master Patch 26.01
+  rankClaim: Master
+  patch: "26.1"
+  durationSec: 1483
+  region: EUW
+- videoId: E31pr19bYqo
+  title: Darius Top vs Rumble - KR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1770
+  region: KR
+- videoId: xux-RZId9qM
+  title: Darius vs Rumble Top - KR Master - Patch 25.16 Season 15
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 2386
+  region: KR
+- videoId: 7LMFpEpC7LA
+  title: Darius Top vs Rumble - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 2028
+  region: KR

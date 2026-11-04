@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1705
+  region: NA
   patchEstimated: true
   player: dunlol
   uploaded: 2026-10-19
@@ -12,6 +13,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1479
+  region: EUW
   player: BAN bbmuffin
   uploaded: 2026-10-01
   result: W

@@ -60,6 +60,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1907
+  region: KR
   uploaded: 2026-10-07
   result: W
   moments:
@@ -114,6 +115,7 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1912
+  region: KR
   uploaded: 2026-05-02
   result: L
   moments:
@@ -170,6 +172,7 @@
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1661
+  region: KR
   uploaded: 2026-03-14
   moments:
     - at: 0:15
@@ -226,3 +229,15 @@
       kind: kill
     - at: 27:30
       label: End credit
+- videoId: hyrV_4Nu2X8
+  title: Ahri Top vs Shen - KR Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1644
+  region: KR
+- videoId: 14DFGd-2SHg
+  title: Ahri Top vs Shen - NA Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1571
+  region: NA

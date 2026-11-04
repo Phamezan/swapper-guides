@@ -4,3 +4,23 @@
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1561
+  region: EUW
+  uploaded: 2026-04-22
+- videoId: F19Qa6n9YzQ
+  title: Darius vs Zaahen Top - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1921
+  region: KR
+- videoId: aKrMjsaCkfU
+  title: Darius vs Zaahen Top - EUW Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1721
+  region: EUW
+- videoId: Plq5st3xyl0
+  title: Darius vs Zaahen Top - EUW Grandmaster - Patch 25.23 Season 15
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1631
+  region: EUW

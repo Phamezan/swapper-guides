@@ -7,6 +7,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-07
 - videoId: AaqXb8NWdLM
   title: T1 Peyz Mel vs Varus [ ADC ] Korea Challenger 2183 LP | Patch 26.4
   rankClaim: Challenger
@@ -23,3 +24,9 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: kdcWuKdbPfs
+  title: Mel vs Varus ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1921
+  region: KR

@@ -4,18 +4,165 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1462
+  region: EUW
+  uploaded: 2026-05-20
+  result: L
+  moments:
+    - at: 5:10
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 5:31
+      label: First Blood — Zed kills Briar
+      kind: kill
+    - at: 10:51
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 11:13
+      label: Twisted Fate picks off Briar
+    - at: 13:58
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:56
+      label: Twisted Fate kills Smolder
+      kind: kill
+    - at: 16:26
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:38
+      label: Zed eliminates Smolder
+    - at: 20:02
+      label: Zed takes down Briar
+    - at: 20:07
+      label: Zed Triple Kill
+      kind: kill
+    - at: 20:34
+      label: Red takes Baron
+      kind: baron
+    - at: 21:43
+      label: Zed catches Seraphine
+    - at: 21:46
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:12
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 23:16
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:58
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:12
+      label: Zed takes down Briar
 - videoId: LGyYAn0TLRE
   title: Zed Jungle vs Briar - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1678
+  region: KR
+  uploaded: 2026-05-09
+  result: L
+  moments:
+    - at: 4:08
+      label: First Blood — Zed kills Zeri
+      kind: kill
+    - at: 6:31
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 12:12
+      label: Jhin kills Brand
+      kind: kill
+    - at: 15:07
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:34
+      label: Zed picks off Brand
+    - at: 17:59
+      label: Zed takes down Zeri
+    - at: 18:02
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 18:48
+      label: Zed picks off Brand
+    - at: 23:07
+      label: Zed picks off Brand
+    - at: 23:34
+      label: Blue takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:12
+      label: Red takes Baron
+      kind: baron
+    - at: 25:01
+      label: Jhin Double Kill
+      kind: kill
+    - at: 26:36
+      label: Jhin eliminates Briar
+    - at: 27:10
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:30
+      label: Zed kills Karma
+      kind: kill
 - videoId: 0kapVgDUSXo
   title: Zed Jungle vs Briar - EUNE Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1751
+  region: EUNE
+  uploaded: 2026-04-17
+  result: L
+  moments:
+    - at: 3:26
+      label: First Blood — Katarina kills Briar
+      kind: kill
+    - at: 5:54
+      label: Zed outplays Briar
+    - at: 8:00
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:37
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:44
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:17
+      label: Zed takes down Smolder
+    - at: 20:14
+      label: Red takes Baron
+      kind: baron
+    - at: 23:12
+      label: Katarina takes down Milio
+    - at: 24:01
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 24:38
+      label: Zed catches Milio
+    - at: 24:43
+      label: Zed Double Kill
+      kind: kill
+    - at: 24:45
+      label: Zed Triple Kill
+      kind: kill
+    - at: 24:48
+      label: Zed Quadra Kill
+      kind: kill
+    - at: 27:03
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:08
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:28
+      label: Zed eliminates Smolder
+    - at: 28:35
+      label: Zed Triple Kill
+      kind: kill
+    - at: 28:41
+      label: Bot Inhibitor falls (Blue)
 - videoId: sk6f8sELbTs
   title: Zed Jungle vs Briar - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1639
+  region: EUW

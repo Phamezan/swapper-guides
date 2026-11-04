@@ -7,3 +7,15 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-05-19
+- videoId: pqdur3huLrI
+  title: Cassiopeia Mid vs Ahri - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1586
+  region: EUW
+- videoId: sNVG0x4MuMg
+  title: Cassiopeia Mid vs Ahri - VN Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1767

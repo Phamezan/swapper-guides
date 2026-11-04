@@ -7,6 +7,15 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-29
+- videoId: YX-9HwIhoXA
+  title: (DK Smash) Xayah ADC vs Ezreal - KR Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1456
+  region: KR
+  player: Smash
+  team: DK
 - videoId: c0-7p3Orf70
   title: Xayah vs Ezreal ADC [ NS Diable ] Korea Master 745 | Patch 26.11
   rankClaim: Master
@@ -15,6 +24,7 @@
   region: KR
   player: Diable
   team: NS
+  uploaded: 2026-06-01
 - videoId: WnIw8HSuucI
   title: HLE Gumayusi Xayah vs Ezreal [ ADC ] Korea Challenger 2657 LP | Patch 26.10
   rankClaim: Challenger
@@ -23,6 +33,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-22
 - videoId: nOLG9mMDzjk
   title: HLE Gumayusi Xayah vs Ezreal [ ADC ] Korea Challenger 2023 LP | Patch 26.6
   rankClaim: Challenger
@@ -39,3 +50,43 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: 9jRRT_LCfko
+  title: Xayah ADC vs Ezreal - KR Master Patch 26.03
+  rankClaim: Master
+  patch: "26.3"
+  durationSec: 1616
+  region: KR
+- videoId: sD8IlA2wbKw
+  title: T1 Smash Xayah vs Ezreal [ ADC ] Korea Challenger 1491 LP | Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1619
+  region: KR
+  player: Smash
+  team: T1
+- videoId: A-b1GE5jzR0
+  title: Xayah ADC vs Ezreal - EUW Grandmaster Patch 25.15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1483
+  region: EUW
+- videoId: azwYPQMzBr8
+  title: Xayah ADC vs Ezreal - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 2098
+  region: KR
+- videoId: 5c7DN6W541k
+  title: T1 Gumayusi Xayah vs Ezreal [ ADC ] Korea Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1372
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: EwIN-TQvK3A
+  title: Xayah ADC vs Ezreal - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1804
+  region: KR

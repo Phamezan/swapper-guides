@@ -13,3 +13,17 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 2146
+  region: KR
+  uploaded: 2026-04-08
+- videoId: 0FNcmzEfoFU
+  title: Yone Mid vs Yasuo - KR Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1471
+  region: KR
+- videoId: Qx7y2g7mFrM
+  title: Yone vs Yasuo Mid - EUW Master - Patch 25.18 Season 15
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1951
+  region: EUW

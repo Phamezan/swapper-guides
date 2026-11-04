@@ -4,6 +4,13 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1553
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-26
+- videoId: -briGXDGI9A
+  title: Ahri Top vs Akshan - EUW Master Patch 25.11
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1849
+  region: EUW

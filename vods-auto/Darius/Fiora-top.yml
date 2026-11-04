@@ -4,9 +4,125 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1411
+  region: KR
   uploaded: 2026-10-30
+- videoId: Fn399RfnFb0
+  title: Darius Top vs Fiora - KR Master Patch 26.20
+  rankClaim: Master
+  patch: "26.20"
+  durationSec: 1704
+  region: KR
+  uploaded: 2026-10-13
+  result: W
+  moments:
+    - at: 0:45
+      label: First Blood — Darius kills Fiora
+      kind: kill
+    - at: 4:35
+      label: Darius catches Fiora
+    - at: 5:28
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:02
+      label: Darius outduels Fiora again
+    - at: 8:47
+      label: Darius Triple Kill
+      kind: kill
+    - at: 10:30
+      label: Darius outplays Fiora (3rd time)
+    - at: 11:19
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 12:41
+      label: Darius solo kills Fiora (4th time)
+      kind: kill
+    - at: 16:35
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 20:33
+      label: Darius kills Aatrox
+      kind: kill
+    - at: 21:59
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:40
+      label: Darius Double Kill
+      kind: kill
+    - at: 22:42
+      label: Darius Triple Kill
+      kind: kill
+    - at: 23:08
+      label: Darius kills Aatrox
+      kind: kill
+    - at: 25:09
+      label: Red takes Baron
+      kind: baron
+    - at: 26:56
+      label: Samira Double Kill
+      kind: kill
+    - at: 27:00
+      label: Samira Triple Kill
+      kind: kill
+    - at: 27:23
+      label: Mid Inhibitor falls (Blue)
+- videoId: mJo8Fm3Gmgg
+  title: (WPE Libra) Darius Top vs Fiora - EUW Grandmaster Patch 26.13
+  rankClaim: Grandmaster
+  patch: "26.13"
+  durationSec: 1756
+  region: EUW
+  player: WPE Libra
 - videoId: 9UQWSRzPq0k
   title: Darius vs Fiora Top - KR Grandmaster - Patch 16.04 Season 16
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1741
+  region: KR
+- videoId: qJFsk5u87NY
+  title: Darius Top vs Fiora - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1492
+  region: EUW
+- videoId: UkaL6bxLJ14
+  title: Darius vs Fiora Top - EUW Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1471
+  region: EUW
+- videoId: qjsqV6tYcms
+  title: Darius vs Fiora Top - EUNE Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1996
+  region: EUNE
+- videoId: 5K0G4RqQLmY
+  title: Darius vs Fiora Top - EUW Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1951
+  region: EUW
+- videoId: F49sjAkTCkw
+  title: Darius vs Fiora Top - EUW Grandmaster - Patch 25.13 Season 15
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1771
+  region: EUW
+- videoId: FqGr7Ut_MM4
+  title: Darius vs Fiora Top - KR Grandmaster - Patch 25.13 Season 15
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 2626
+  region: KR
+- videoId: 139exi2hX3E
+  title: Darius vs Fiora Top - KR Grandmaster - Patch 25.7 Season 15
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1470
+  region: KR
+- videoId: F7xGuZhfcfQ
+  title: Darius vs Fiora Top - KR Grandmaster - Patch 25.7 Season 15
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1541
+  region: KR

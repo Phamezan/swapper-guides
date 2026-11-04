@@ -4,11 +4,15 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1681
+  region: KR
+  uploaded: 2026-04-21
 - videoId: 8975cmpw_BQ
   title: Lee Sin vs Nocturne Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1861
+  region: KR
+  uploaded: 2026-04-14
 - videoId: Srtc1PMiMo8
   title: T1 Oner Lee Sin vs Nocturne [ Jungle ] Korea Challenger 2260 LP | Patch 26.7
   rankClaim: Challenger
@@ -17,3 +21,10 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-04-09
+- videoId: bpge12Dck4Y
+  title: Lee Sin vs Nocturne [ Jungle ] Korea Challenger 1750 LP | Patch 25.21 ✅
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1552
+  region: KR

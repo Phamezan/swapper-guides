@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1819
+  region: KR
   uploaded: 2026-10-11
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1604
+  region: EUW
   player: BZ
   uploaded: 2026-10-02
   result: W
@@ -113,6 +115,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1650
+  region: KR
   uploaded: 2026-08-26
   result: W
   moments:
@@ -166,6 +169,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1515
+  region: KR
   uploaded: 2026-08-03
   result: W
   moments:
@@ -214,13 +218,137 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1640
+  region: EUW
+  uploaded: 2026-06-08
+  result: L
+  moments:
+    - at: 3:17
+      label: First Blood — Sylas kills Akshan
+      kind: kill
+    - at: 6:10
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:17
+      label: Zed takes down Akshan
+    - at: 13:21
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 13:32
+      label: Zed catches Jhin
+    - at: 15:21
+      label: Zed catches Akshan again
+    - at: 17:09
+      label: Karma takes down Akshan
+    - at: 18:28
+      label: Zed outduels Jhin again
+    - at: 18:55
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 21:14
+      label: Red takes Baron
+      kind: baron
+    - at: 21:25
+      label: Ezreal kills Akshan
+      kind: kill
+    - at: 22:09
+      label: Zed kills Jhin
+      kind: kill
+    - at: 24:08
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 24:20
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:25
+      label: Zed takes down Bard
+    - at: 25:54
+      label: Zed outplays Gangplank
+    - at: 26:22
+      label: Top Inhibitor falls (Blue)
+- videoId: U-ffyMtBr18
+  title: Zed Mid vs Akshan - EUNE Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1790
+  region: EUNE
 - videoId: f5O8WLEgJ3w
   title: Zed Mid vs Akshan - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1801
+  region: KR
+  uploaded: 2026-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:16
+      label: Take down The Turret
+      kind: tower
+    - at: 17:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:00
+      label: Take down The Turret
+      kind: tower
+    - at: 22:19
+      label: Take down The Inhibitor
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:50
+      label: End credit
 - videoId: 6RjntZSBrNc
   title: Zed Mid vs Akshan - NA Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1559
+  region: NA
+- videoId: 0OE11YMpKTU
+  title: Zed Mid vs Akshan - TW Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 2072
+- videoId: pFbinber8sg
+  title: Zed Mid vs Akshan - NA Grandmaster Patch 25.04
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1810
+  region: NA

@@ -13,6 +13,8 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 2056
+  region: KR
+  uploaded: 2026-04-19
 - videoId: uCBBAF0aR9U
   title: BLG Viper Lucian vs Varus [ ADC ] Korea Grandmaster Patch 26.4 ✅
   rankClaim: Grandmaster
@@ -21,3 +23,54 @@
   region: KR
   player: Viper
   team: BLG
+- videoId: YQuoHNDonCw
+  title: Lucian ADC vs Varus - KR Grandmaster Patch 26.02
+  rankClaim: Grandmaster
+  patch: "26.2"
+  durationSec: 1548
+  region: KR
+- videoId: QOYZKW0GrBo
+  title: Lucian vs Varus ADC [ DRX Teddy ] Patch 25.14 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1302
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: 9TTOAY-h8WI
+  title: Lucian ADC vs Varus - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1669
+  region: KR
+- videoId: w1isDzZSnPI
+  title: T1 Gumayusi Lucian vs Varus [ ADC ] Korea Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1517
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: h5ielOKLz7c
+  title: T1 Gumayusi Lucian vs Varus [ ADC ] Korea Master Patch 25.9
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1531
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: nhIhnihhZYc
+  title: Lucian vs Varus ADC [ Deft ] Korea Challenger Patch 25.8 ✅
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1448
+  region: KR
+  player: Deft
+- videoId: HPIw8RuVLTk
+  title: T1 Gumayusi Lucian vs Varus [ ADC ] Patch 25.7 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 970
+  region: KR
+  player: Gumayusi
+  team: T1

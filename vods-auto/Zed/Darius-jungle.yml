@@ -4,3 +4,61 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1552
+  region: EUW
+  uploaded: 2026-05-14
+  result: L
+  moments:
+    - at: 5:17
+      label: First Blood — Zed kills Darius
+      kind: kill
+    - at: 7:29
+      label: Syndra picks off Darius
+    - at: 10:14
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:48
+      label: Zed picks off Ahri
+    - at: 12:57
+      label: Syndra picks off Darius
+    - at: 14:40
+      label: Zed kills Senna
+      kind: kill
+    - at: 15:58
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:24
+      label: Zed kills Udyr
+      kind: kill
+    - at: 20:49
+      label: Zed solo kills Ahri
+      kind: kill
+    - at: 20:55
+      label: Zed Double Kill
+      kind: kill
+    - at: 21:13
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 22:40
+      label: Syndra Double Kill
+      kind: kill
+    - at: 23:17
+      label: Red takes Baron
+      kind: baron
+    - at: 24:05
+      label: Syndra takes down Udyr
+    - at: 24:43
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:50
+      label: Team fight (4 kills)
+      kind: teamfight
+- videoId: 0YarToYUlaY
+  title: Zed Jungle vs Darius - EUW Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1972
+  region: EUW
+- videoId: zk1nKpOpjM8
+  title: Zed Jungle vs Darius - BR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 2151

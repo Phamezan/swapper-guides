@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1545
+  region: KR
   uploaded: 2026-09-25
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1492
+  region: EUW
   uploaded: 2026-09-02
   result: W
   moments:

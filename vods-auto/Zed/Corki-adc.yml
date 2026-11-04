@@ -4,8 +4,60 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1575
+  region: EUW
+  uploaded: 2026-05-01
+  result: W
+  moments:
+    - at: 3:38
+      label: First Blood — Zed kills Neeko
+      kind: kill
+    - at: 6:39
+      label: Zed outduels Corki
+    - at: 8:35
+      label: Thresh kills Nocturne
+      kind: kill
+    - at: 11:10
+      label: Zed picks off Neeko
+    - at: 13:42
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:37
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:43
+      label: Gnar Double Kill
+      kind: kill
+    - at: 17:26
+      label: Zed takes down Nocturne
+    - at: 18:37
+      label: Zed catches Orianna
+    - at: 20:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:28
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 22:48
+      label: Gnar Triple Kill
+      kind: kill
+    - at: 24:27
+      label: Zed takes down Corki
+    - at: 25:05
+      label: Top Inhibitor falls (Red)
+    - at: 25:22
+      label: Zed takes down Corki
 - videoId: K7YFM0k0C0Q
   title: Zed ADC vs Corki - NA Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1534
+  region: NA
+- videoId: KzqENiX1l-o
+  title: Zed ADC vs Corki - NA Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1830
+  region: NA

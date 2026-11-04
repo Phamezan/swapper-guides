@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1787
+  region: KR
   uploaded: 2026-07-24
   result: L
   moments:
@@ -37,3 +38,8 @@
       label: Yone eliminates Ryze
     - at: 27:19
       label: Mid Inhibitor falls (Blue)
+- videoId: NAQ-F6dDBME
+  title: Ahri Top vs Dr. Mundo - BR Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1519

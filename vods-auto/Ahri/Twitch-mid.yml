@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1503
+  region: EUW
   player: BAM Koussay
   uploaded: 2026-10-02
   result: W
@@ -50,6 +51,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1932
+  region: EUW
   uploaded: 2026-09-25
   result: W
   moments:
@@ -104,6 +106,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1685
+  region: EUW
   uploaded: 2026-09-06
   result: W
   moments:

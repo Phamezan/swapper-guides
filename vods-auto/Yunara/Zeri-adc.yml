@@ -7,6 +7,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-08-04
 - videoId: b0rB4v3MKp0
   title: HLE Gumayusi Yunara vs Zeri [ ADC ] Patch 26.10 Korea Challenger 2569 LP
   rankClaim: Challenger
@@ -15,11 +16,14 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-13
 - videoId: GmoywjgYBlQ
   title: Yunara vs Zeri ADC - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1456
+  region: KR
+  uploaded: 2026-05-05
 - videoId: TAyoXf_5RKE
   title: Yunara vs Zeri ADC [ Gen.G Ruler ] Korea Grandmaster 1705 | Patch 26.9 ✅
   rankClaim: Grandmaster
@@ -28,6 +32,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-04-29
 - videoId: Gtl-a0IJl0U
   title: HLE Gumayusi Yunara vs Zeri [ ADC ] Patch 26.6 Korea Challenger 2131 LP
   rankClaim: Challenger
@@ -36,3 +41,35 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: EQji7YuWsso
+  title: Yunara vs Zeri ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1351
+  region: KR
+- videoId: 8oJA7TCaLPo
+  title: T1 Peyz Yunara vs Zeri [ ADC ] Korea Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1213
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: UGJ0GgAUN2Q
+  title: Yunara vs Zeri ADC - KR Challenger - Patch 25.22 Season 15
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1591
+  region: KR
+- videoId: SPzsLcfuKK4
+  title: Yunara vs Zeri ADC - EUW Grandmaster - Patch 25.14 Season 15
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1920
+  region: EUW
+- videoId: T-0FX42b-PQ
+  title: Yunara vs Zeri ADC - KR Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1606
+  region: KR

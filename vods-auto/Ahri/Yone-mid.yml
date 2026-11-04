@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1709
+  region: EUW
   player: Hydra
   uploaded: 2026-11-01
   result: W
@@ -54,6 +55,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1067
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-31
@@ -62,6 +64,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1831
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-27
@@ -70,6 +73,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 2018
+  region: NA
   patchEstimated: true
   player: dunlol
   uploaded: 2026-10-27
@@ -78,6 +82,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1742
+  region: EUW
   player: DIA Yuros
   uploaded: 2026-10-17
   result: W
@@ -131,12 +136,14 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1380
+  region: KR
   uploaded: 2026-10-14
 - videoId: ROrWJ-sj3vQ
   title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
   rankClaim: Master
   patch: "26.20"
   durationSec: 902
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-09
@@ -145,6 +152,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1565
+  region: EUW
   player: TOG Sajator
   uploaded: 2026-10-06
   result: W
@@ -194,6 +202,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 924
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-05
@@ -202,6 +211,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1711
+  region: KR
   uploaded: 2026-10-04
   result: W
   moments:
@@ -256,6 +266,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1727
+  region: EUW
   player: Peng
   uploaded: 2026-10-02
   result: W
@@ -312,6 +323,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1976
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-01
@@ -320,6 +332,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1425
+  region: KR
   uploaded: 2026-09-28
   result: W
   moments:
@@ -363,6 +376,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1372
+  region: KR
   uploaded: 2026-09-23
   result: W
   moments:
@@ -408,6 +422,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1381
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-21
@@ -416,6 +431,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1488
+  region: EUW
   player: SC Nafkelah
   uploaded: 2026-09-17
   result: W
@@ -463,6 +479,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1369
+  region: KR
   uploaded: 2026-09-08
   result: W
   moments:
@@ -511,6 +528,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1610
+  region: KR
   player: Angel
   team: EDG
   uploaded: 2026-08-20
@@ -562,6 +580,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1455
+  region: EUW
   player: VIT Humanoid
   uploaded: 2026-07-22
   result: W
@@ -609,24 +628,73 @@
     - at: 23:58
       label: Ahri kills Ashe
       kind: kill
+- videoId: 7Eyp35rIHe4
+  title: "MID.GG: [ Pobelter ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.13"
+  durationSec: 2832
+  region: NA
+  patchEstimated: true
+  player: Pobelter
+  uploaded: 2026-06-25
+- videoId: jCT15msb7yI
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA CHALLENGER | LOL Season 2026"
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1740
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-05-14
+- videoId: LrFr7KQYVK0
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Yone | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1823
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-04-04
 - videoId: ZtSz7G2tSSw
   title: Faker Ahri vs Yone Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1666
+  region: KR
   player: Faker
 - videoId: CdHC2OUiLk8
   title: Ahri vs Yone Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1756
+  region: KR
 - videoId: 26pGliElMAA
   title: Ahri vs Yone Mid - EUW Challenger - Patch 16.3 Season 16
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1861
+  region: EUW
 - videoId: tze-GCTlDlA
   title: Ahri Mid vs Yone - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1749
+  region: KR
+- videoId: AGbZruFtTPc
+  title: Ahri vs Yone MID [ TripleKill ] Korea Grandmaster 1019 LP | Patch 25.19 ✅
+  rankClaim: Grandmaster
+  patch: "25.19"
+  durationSec: 1555
+  region: KR
+  player: TripleKill
+- videoId: xFn62PUoav8
+  title: Ahri vs Yone Mid - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 2101
+  region: KR
+- videoId: ZQgwEq5XilU
+  title: Ahri Mid vs Yone - TW Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1448

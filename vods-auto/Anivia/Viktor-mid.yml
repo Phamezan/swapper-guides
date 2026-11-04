@@ -8,3 +8,23 @@
   player: Chovy
   team: Gen.G
   uploaded: 2026-09-07
+- videoId: CzVeFoUiWGI
+  title: Anivia vs Viktor 12/2/9 (Mid) | EUW Challenger | Anivia OTP Replay
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1511
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-26
+- videoId: S1Hg6DWQQ3I
+  title: Anivia Mid vs Viktor - KR Challenger Patch 26.03
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1620
+  region: KR
+- videoId: uh3eNScFhuM
+  title: Anivia Mid vs Viktor - KR Grandmaster Patch 25.16
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 1849
+  region: KR

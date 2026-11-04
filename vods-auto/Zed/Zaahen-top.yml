@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1412
+  region: EUW
   uploaded: 2026-09-09
   result: W
   moments:
@@ -51,3 +52,9 @@
       label: Bot Inhibitor falls (Blue)
     - at: 23:08
       label: Mid Inhibitor falls (Blue)
+- videoId: I5J-a902sqQ
+  title: Zed Top vs Zaahen - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1505
+  region: NA

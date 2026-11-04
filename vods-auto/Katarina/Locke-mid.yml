@@ -4,16 +4,25 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1861
+  region: KR
   uploaded: 2026-09-02
 - videoId: iafDHduNdwQ
   title: Katarina vs Locke Mid - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1871
+  region: KR
   uploaded: 2026-08-28
+- videoId: -3KrOH6Qkp4
+  title: Katarina Mid vs Locke - KR Grandmaster Patch 26.15
+  rankClaim: Grandmaster
+  patch: "26.15"
+  durationSec: 1486
+  region: KR
 - videoId: VU7BGvKwmqo
   title: Katarina vs Locke Mid - KR Challenger - Patch 16.15 Season 16
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1861
+  region: KR
   uploaded: 2026-07-31

@@ -5,14 +5,35 @@
   patch: "26.10"
   durationSec: 1206
   region: KR
+  uploaded: 2026-05-18
+- videoId: qCgyAmtFZG0
+  title: Graves Jungle vs Xin Zhao - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1742
+  region: KR
 - videoId: gRM0fuDwECM
   title: Graves vs XinZhao Jungle - EUW Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1681
+  region: EUW
+  uploaded: 2026-04-19
 - videoId: xm_4yCs6IIo
   title: Graves vs Xin Zhao [ Jungle ] Lol Korea Master Patch 26.4 ✅
   rankClaim: Master
   patch: "26.4"
   durationSec: 1664
   region: KR
+- videoId: 33gomIBsgwc
+  title: Graves vs XinZhao Jungle - KR Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1751
+  region: KR
+- videoId: EPnbVanCucE
+  title: Graves vs XinZhao Jungle - NA Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 2221
+  region: NA

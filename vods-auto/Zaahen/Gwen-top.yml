@@ -7,3 +7,15 @@
   region: KR
   player: Faker
   team: T1
+- videoId: pAJo_HecrVg
+  title: Zaahen vs Gwen Top - KR Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1681
+  region: KR
+- videoId: iOA6pr_c0Gw
+  title: Zaahen vs Gwen Top - KR Grandmaster - Patch 25.23 Season 15
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1501
+  region: KR

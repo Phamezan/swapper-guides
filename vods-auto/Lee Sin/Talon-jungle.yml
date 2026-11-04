@@ -4,24 +4,30 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 2211
+  region: KR
   uploaded: 2026-10-16
 - videoId: ndkPZ0aTvmc
   title: Lee Sin vs Talon Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1751
+  region: KR
+  uploaded: 2026-04-08
 - videoId: jUn1H_jYz2E
   title: Lee Sin vs Talon Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1921
+  region: KR
 - videoId: xGMh5FsXtug
   title: Lee Sin vs Talon Jungle - KR Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1666
+  region: KR
 - videoId: 0bKw6xUMGbE
   title: Lee Sin vs Talon Jungle - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1516
+  region: KR

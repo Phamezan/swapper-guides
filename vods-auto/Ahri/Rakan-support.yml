@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.2"
   durationSec: 1539
+  region: NA
   uploaded: 2026-02-04
   moments:
     - at: 0:15
@@ -76,3 +77,15 @@
       kind: teamfight
     - at: 25:28
       label: End credit
+- videoId: FjApoS5YIvw
+  title: Ahri Support vs Rakan - KR Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1466
+  region: KR
+- videoId: HLuQY25yTFU
+  title: Ahri Support vs Rakan - EUW Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 2141
+  region: EUW

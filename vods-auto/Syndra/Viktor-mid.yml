@@ -8,3 +8,18 @@
   player: Faker
   team: T1
   uploaded: 2026-10-12
+- videoId: EdMmqHA02b8
+  title: (S04E Zwyroo) Syndra Mid vs Viktor (Ag0nyPain) - EUW Challenger Patch 26.19
+  rankClaim: Challenger
+  patch: "26.19"
+  durationSec: 1674
+  region: EUW
+  player: S04E Zwyroo
+- videoId: qzyxF5M9IbU
+  title: (KT Bdd) Syndra Mid vs Viktor - KR Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1552
+  region: KR
+  player: Bdd
+  team: KT

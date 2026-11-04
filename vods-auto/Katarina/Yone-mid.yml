@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1666
+  region: KR
   uploaded: 2026-10-06
 - videoId: rV1jmiAQGt8
   title: Katarina vs Yone [ MID ] Korea Grandmaster 1434 LP | Patch 26.18 ✅
@@ -17,20 +18,103 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1471
+  region: KR
   uploaded: 2026-09-15
 - videoId: x385D36u2Ss
   title: Katarina vs Yone Mid - KR Challenger - Patch 16.15 Season 16
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1381
+  region: KR
   uploaded: 2026-08-06
 - videoId: b7XZcgygxDE
   title: Katarina vs Yone Mid - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1591
+  region: KR
+  uploaded: 2026-05-14
 - videoId: 5A9NGjiKwBk
   title: Katarina vs Yone Mid - KR Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 2101
+  region: KR
+- videoId: e2YU_W_OFlI
+  title: Katarina vs Yone Mid - KR Grandmaster - Patch 25.20 Season 15
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1861
+  region: KR
+- videoId: PU5WMkdnSo8
+  title: Katarina vs Yone Mid - KR Master - Patch 25.12 Season 15
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1871
+  region: KR
+- videoId: eXH-IIK_TBI
+  title: Katarina vs Yone Mid - KR Grandmaster - Patch 25.11 Season 15
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 2231
+  region: KR
+- videoId: F8Lg69cNKaE
+  title: Katarina vs Yone Mid - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1486
+  region: KR
+- videoId: 9DfbGCFkkx4
+  title: Katarina vs Yone Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1201
+  region: KR
+- videoId: -RtxnNc-w38
+  title: Katarina vs Yone Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1861
+  region: KR
+- videoId: O59ENFFtnlE
+  title: Katarina vs Yone Mid - KR Master - Patch 25.7 Season 15
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1721
+  region: KR
+- videoId: DU6U9QjrCSE
+  title: Katarina vs Yone Mid - KR Grandmaster - Patch 25.7 Season 15
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 2221
+  region: KR
+- videoId: wCz5xS1Kv-0
+  title: Katarina vs Yone Mid - KR Master - Patch 25.7 Season 15
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1671
+  region: KR
+- videoId: WydT9yZHwXw
+  title: Katarina vs Yone Mid - KR Grandmaster - Patch 25.6 Season 15
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 2231
+  region: KR
+- videoId: 7fXtc5fNmLY
+  title: Katarina vs Yone Mid - EUW Grandmaster - Patch 25.6 Season 15
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1510
+  region: EUW
+- videoId: Td4NrMGOWZw
+  title: Katarina vs Yone Mid - EUW Grandmaster - Patch 25.5 Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1786
+  region: EUW
+- videoId: o_XNvSzu72s
+  title: Katarina vs Yone Mid - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1411
+  region: KR

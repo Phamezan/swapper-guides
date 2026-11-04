@@ -7,6 +7,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-08-02
 - videoId: Ee2M1eZK9W4
   title: T1 Peyz Kai'Sa vs Corki [ ADC ] Patch 26.6 Korea Challenger 2134 LP
   rankClaim: Challenger
@@ -14,4 +15,48 @@
   durationSec: 1091
   region: KR
   player: Peyz
+  team: T1
+- videoId: KHnEe1IkKdI
+  title: Kai'Sa vs Corki ADC - KR Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1681
+  region: KR
+- videoId: C6nXRqlD4ok
+  title: Kai'Sa vs Corki ADC - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1651
+  region: KR
+- videoId: KXJrHl-ycwc
+  title: T1 Gumayusi Kaisa ADC vs Corki - Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1350
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: V6v_-nZgLzM
+  title: T1 Gumayusi Kaisa vs Corki [ ADC ] Korea Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1220
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: L0YyKozfhYE
+  title: T1 Gumayusi Kaisa ADC vs Corki - Patch 25.4 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1493
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: NTsIDahFNw0
+  title: T1 Gumayusi Kaisa vs Corki [ ADC ] Korea Challenger Patch 25.1 ✅
+  rankClaim: Challenger
+  patch: "25.1"
+  durationSec: 1827
+  region: KR
+  player: Gumayusi
   team: T1

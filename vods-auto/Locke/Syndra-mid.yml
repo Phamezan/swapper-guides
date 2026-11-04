@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1476
+  region: NA
   player: Faker
   team: T1
   uploaded: 2026-10-28
@@ -21,12 +22,14 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1846
+  region: KR
   uploaded: 2026-10-04
 - videoId: nZdJ42TV6MI
   title: Faker Locke vs Syndra Mid - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1201
+  region: KR
   player: Faker
   uploaded: 2026-09-08
 - videoId: Au0ieOMZBUQ

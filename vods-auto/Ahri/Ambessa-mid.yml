@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1786
+  region: EUW
   uploaded: 2026-09-09
   result: W
   moments:
@@ -62,3 +63,11 @@
   region: KR
   player: ShowMaker
   team: DK
+- videoId: GOeq1-_V-A0
+  title: T1 Faker Ahri vs Ambessa [ MID ] Patch 25.7 Korea Grandmaster ✅
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1435
+  region: KR
+  player: Faker
+  team: T1

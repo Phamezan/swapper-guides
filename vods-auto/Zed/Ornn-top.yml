@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1457
+  region: EUW
   player: BZ
   uploaded: 2026-10-30
   result: W
@@ -56,6 +57,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1519
+  region: EUW
   uploaded: 2026-07-12
   result: L
   moments:
@@ -100,3 +102,20 @@
       kind: kill
     - at: 24:53
       label: Zed takes down Ziggs
+- videoId: oaS61H4mvYA
+  title: Zed Top vs Ornn - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1498
+  region: KR
+- videoId: L_gUzH_rJvM
+  title: Zed Top vs Ornn - EUW Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1847
+  region: EUW
+- videoId: gbdXiQBKeyw
+  title: Zed Top vs Ornn - TW Master Patch 25.04
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1455

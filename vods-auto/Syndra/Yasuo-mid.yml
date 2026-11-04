@@ -8,3 +8,15 @@
   player: Faker
   team: T1
   uploaded: 2026-09-25
+- videoId: _eiY93ELrwU
+  title: Syndra Mid vs Yasuo - KR Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1735
+  region: KR
+- videoId: kdVAHjCiiJE
+  title: Syndra vs Yasuo Mid - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1801
+  region: KR

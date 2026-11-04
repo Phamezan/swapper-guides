@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1478
+  region: EUW
   uploaded: 2026-09-12
   result: W
   moments:
@@ -61,18 +62,163 @@
   rankClaim: Grandmaster
   patch: "26.12"
   durationSec: 1511
+  region: EUW
+  uploaded: 2026-06-13
+  result: W
+  moments:
+    - at: 5:01
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 6:49
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:19
+      label: Zed catches Yasuo
+    - at: 12:41
+      label: Zed eliminates Karma
+    - at: 13:01
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:05
+      label: Zed takes down Ahri
+    - at: 17:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:17
+      label: Varus takes down Karma
+    - at: 19:42
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:56
+      label: Sylas eliminates Caitlyn
+    - at: 21:53
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:20
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:25
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:44
+      label: Zed outplays Ahri
 - videoId: zEl72qxb8vw
   title: Zed Top vs Yasuo - EUW Challenger Patch 26.11
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1607
+  region: EUW
+  uploaded: 2026-06-12
+  result: L
+  moments:
+    - at: 6:03
+      label: First Blood — Zed kills Yasuo
+      kind: kill
+    - at: 10:22
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:39
+      label: Zed eliminates Yasuo
+    - at: 15:58
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:06
+      label: Zed kills Graves
+      kind: kill
+    - at: 18:22
+      label: Hecarim kills Yasuo
+      kind: kill
+    - at: 19:35
+      label: Zed outplays Ekko
+    - at: 21:24
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 22:35
+      label: Karthus Double Kill
+      kind: kill
+    - at: 22:40
+      label: Karthus Triple Kill
+      kind: kill
+    - at: 23:39
+      label: Zed solo kills Kog'Maw
+      kind: kill
+    - at: 24:49
+      label: Zed eliminates Galio
+    - at: 24:53
+      label: Red takes Baron
+      kind: baron
+    - at: 25:09
+      label: Zed picks off Kog'Maw
+    - at: 26:13
+      label: Hecarim Double Kill
+      kind: kill
+    - at: 26:22
+      label: Mid Inhibitor falls (Blue)
 - videoId: 6ruSZ_doA1A
   title: Zed Top vs Yasuo - KR Master Patch 26.11
   rankClaim: Master
   patch: "26.11"
   durationSec: 1650
+  region: KR
+  uploaded: 2026-06-06
+  result: W
+  moments:
+    - at: 3:05
+      label: First Blood — Zed kills Talon
+      kind: kill
+    - at: 7:14
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:14
+      label: Zed outduels Talon
+    - at: 10:41
+      label: Nidalee kills Yasuo
+      kind: kill
+    - at: 13:02
+      label: Zed kills Talon
+      kind: kill
+    - at: 14:46
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:35
+      label: Nidalee Double Kill
+      kind: kill
+    - at: 16:38
+      label: Nidalee Triple Kill
+      kind: kill
+    - at: 16:43
+      label: Nidalee Quadra Kill
+      kind: kill
+    - at: 17:10
+      label: Zed takes down Ryze
+    - at: 18:33
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:05
+      label: Zed solo kills Tristana
+      kind: kill
+    - at: 21:04
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:40
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:54
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 24:04
+      label: Nidalee Double Kill
+      kind: kill
+    - at: 24:35
+      label: Mid Inhibitor falls (Red)
 - videoId: BaN3vSHxnOE
   title: Zed Top vs Yasuo - EUW Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1497
+  region: EUW
+- videoId: Q35MIIkpsUA
+  title: Zed Top vs Yasuo - VN Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1499

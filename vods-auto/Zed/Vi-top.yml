@@ -4,3 +4,52 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1689
+  uploaded: 2026-06-04
+  result: L
+  moments:
+    - at: 6:45
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:31
+      label: First Blood — Zed kills Vi
+      kind: kill
+    - at: 11:54
+      label: Zed catches Vi
+    - at: 13:03
+      label: Zed takes down Aurora
+    - at: 13:10
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:26
+      label: Zed outduels Vi again
+    - at: 16:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:17
+      label: Zed outplays Aurora
+    - at: 19:51
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:21
+      label: Zed picks off Varus
+    - at: 20:45
+      label: Red takes Baron
+      kind: baron
+    - at: 21:40
+      label: Zed picks off Varus
+    - at: 22:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:46
+      label: Zed takes down Janna
+    - at: 24:52
+      label: Shyvana Double Kill
+      kind: kill
+    - at: 25:07
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:20
+      label: Zed solo kills Varus
+      kind: kill
+    - at: 27:01
+      label: Mid Inhibitor falls (Blue)

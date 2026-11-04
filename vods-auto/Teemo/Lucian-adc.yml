@@ -7,3 +7,18 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-24
+  moments:
+    - at: 0:00
+      label: Early game and first blood
+      kind: kill
+    - at: 2:12
+      label: Mid lane skirmishes
+    - at: 6:35
+      label: Objective control and fighting
+    - at: 11:02
+      label: Expanding map pressure
+    - at: 14:24
+      label: Dominating the late game
+    - at: 17:34
+      label: Closing the victory

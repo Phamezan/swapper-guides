@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1839
+  region: KR
   uploaded: 2026-07-24
   result: W
   moments:
@@ -56,3 +57,48 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1651
+  uploaded: 2026-04-29
+  result: L
+  moments:
+    - at: 2:24
+      label: First Blood — Naafiri kills Jhin
+      kind: kill
+    - at: 6:02
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:53
+      label: Naafiri Triple Kill
+      kind: kill
+    - at: 11:33
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:37
+      label: Zed outplays Jhin
+    - at: 16:58
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 18:13
+      label: Zed eliminates Zyra
+    - at: 18:59
+      label: Zed solo kills Jhin again
+      kind: kill
+    - at: 21:06
+      label: Red takes Baron
+      kind: baron
+    - at: 21:39
+      label: Zed catches Nocturne
+    - at: 22:28
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 23:01
+      label: Zed takes down Jhin (3rd time)
+    - at: 24:07
+      label: Zed picks off Jhin
+    - at: 25:38
+      label: Xayah eliminates Nocturne
+    - at: 26:13
+      label: Top Inhibitor falls (Blue)
+    - at: 26:18
+      label: Zed eliminates K'Sante
+    - at: 26:47
+      label: Bot Inhibitor falls (Blue)

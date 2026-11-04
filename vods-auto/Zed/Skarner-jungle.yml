@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1442
+  region: KR
   uploaded: 2026-10-21
   result: W
   moments:
@@ -59,6 +60,7 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1638
+  region: KR
   player: Viper
   team: BLG
   uploaded: 2026-08-07
@@ -113,6 +115,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1769
+  region: KR
   uploaded: 2026-07-16
   result: W
   moments:
@@ -168,8 +171,77 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1769
+  region: KR
+  uploaded: 2026-05-09
+  result: L
+  moments:
+    - at: 2:57
+      label: First Blood — Zed kills Kai'Sa
+      kind: kill
+    - at: 7:55
+      label: Olaf eliminates Udyr
+    - at: 8:20
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:00
+      label: Zed outplays Skarner
+    - at: 10:38
+      label: Sylas eliminates Cassiopeia
+    - at: 11:34
+      label: Zed kills Udyr
+      kind: kill
+    - at: 12:54
+      label: Sylas eliminates Cassiopeia
+    - at: 13:51
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:17
+      label: Zed solo kills Cassiopeia
+      kind: kill
+    - at: 19:11
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:30
+      label: Olaf eliminates Udyr
+    - at: 21:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:44
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 24:46
+      label: Olaf kills Skarner
+      kind: kill
+    - at: 26:17
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:58
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:13
+      label: Zed picks off Cassiopeia
+    - at: 28:35
+      label: Jinx Double Kill
+      kind: kill
 - videoId: zbgeNgsygKg
   title: Zed Jungle vs Skarner - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1552
+  region: KR
+- videoId: EYYMih1rOpQ
+  title: Zed vs Skarner Jungle - EUW Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1341
+  region: EUW
+- videoId: 8BovOBnFlow
+  title: Zed Jungle vs Skarner - BR Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1776
+- videoId: 6Xr7GPkLvaw
+  title: Zed vs Skarner Jungle - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 2111
+  region: KR

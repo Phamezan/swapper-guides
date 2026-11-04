@@ -4,3 +4,16 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1981
+  region: KR
+- videoId: Y6aJvt6eOMY
+  title: Talon Mid vs Ryze - NA Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1719
+  region: NA
+- videoId: YuQaw79BFXg
+  title: Talon Mid vs Ryze - EUW Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1681
+  region: EUW

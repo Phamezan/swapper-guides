@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1777
+  region: KR
   uploaded: 2026-09-07
   result: W
   moments:
@@ -56,6 +57,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1867
+  region: KR
   uploaded: 2026-08-10
   result: L
   moments:
@@ -111,23 +113,230 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1835
+  region: EUW
+  uploaded: 2026-05-22
+  result: L
+  moments:
+    - at: 7:53
+      label: First Blood — Zed kills Nami
+      kind: kill
+    - at: 9:52
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:56
+      label: Zed outduels Quinn
+    - at: 15:11
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:16
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:10
+      label: Zed outplays Quinn again
+    - at: 20:08
+      label: Xerath takes down Quinn
+    - at: 20:17
+      label: Xerath Triple Kill
+      kind: kill
+    - at: 20:54
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 24:20
+      label: Zed kills Quinn
+      kind: kill
+    - at: 24:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:57
+      label: Xerath Double Kill
+      kind: kill
+    - at: 25:56
+      label: Xerath takes down Quinn
+    - at: 26:54
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 28:17
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 29:12
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:55
+      label: Xerath Triple Kill
+      kind: kill
+    - at: 30:06
+      label: Ezreal Double Kill
+      kind: kill
 - videoId: aV0ku_xgWrM
   title: Zed Jungle vs Rek'Sai - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1554
+  region: KR
+  uploaded: 2026-05-20
+  result: L
+  moments:
+    - at: 8:07
+      label: First Blood — Zed kills Zoe
+      kind: kill
+    - at: 8:38
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:25
+      label: Zed takes down Rek'Sai
+    - at: 12:20
+      label: Ryze eliminates Zoe
+    - at: 13:52
+      label: Zed eliminates Jhin
+    - at: 14:47
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:01
+      label: Zed eliminates Jhin
+    - at: 16:00
+      label: Vayne takes down Zoe
+    - at: 17:53
+      label: Zed kills Lux
+      kind: kill
+    - at: 20:03
+      label: Zed eliminates Jhin
+    - at: 20:21
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:54
+      label: Zed picks off Zoe
+    - at: 23:12
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 23:18
+      label: Ezreal Triple Kill
+      kind: kill
+    - at: 23:43
+      label: Red takes Baron
+      kind: baron
+    - at: 25:00
+      label: Ezreal eliminates Rek'Sai
+    - at: 25:31
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:40
+      label: Bot Inhibitor falls (Blue)
 - videoId: Fy0T6z4truE
   title: Zed Jungle vs Rek'Sai - EUW Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1877
+  region: EUW
+  uploaded: 2026-05-16
+  result: W
+  moments:
+    - at: 2:17
+      label: First Blood — Vel'Koz kills Mel
+      kind: kill
+    - at: 9:29
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:28
+      label: Zed takes down Mel
+    - at: 14:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:18
+      label: Zed outduels Gangplank
+    - at: 19:07
+      label: Zed catches Mel again
+    - at: 20:13
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:04
+      label: Zed outplays Gangplank again
+    - at: 22:20
+      label: Twisted Fate kills Rek'Sai
+      kind: kill
+    - at: 24:09
+      label: Twisted Fate takes down Vladimir
+    - at: 24:46
+      label: Zed outduels Mel (3rd time)
+    - at: 24:53
+      label: Vel'Koz eliminates Rek'Sai
+    - at: 25:23
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:57
+      label: Zed takes down Rek'Sai
+    - at: 26:12
+      label: Zed Triple Kill
+      kind: kill
+    - at: 26:29
+      label: Bot Inhibitor falls (Red)
+    - at: 26:52
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 30:38
+      label: Zed kills Gangplank
+      kind: kill
 - videoId: PFcAgEdAu6o
   title: Zed Jungle vs Rek'Sai - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1714
+  region: KR
+  uploaded: 2026-05-06
+  result: L
+  moments:
+    - at: 3:09
+      label: First Blood — Zed kills Annie
+      kind: kill
+    - at: 5:56
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:30
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:54
+      label: Zed outplays Rek'Sai
+    - at: 14:25
+      label: Zed solo kills Annie
+      kind: kill
+    - at: 14:42
+      label: Zed catches Nautilus
+    - at: 17:55
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:34
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:45
+      label: Katarina kills Kai'Sa
+      kind: kill
+    - at: 22:26
+      label: Bot Inhibitor falls (Red)
+    - at: 23:11
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:45
+      label: Katarina Double Kill
+      kind: kill
+    - at: 23:47
+      label: Mid Inhibitor falls (Red)
+    - at: 26:04
+      label: Zed takes down Rek'Sai
+    - at: 26:16
+      label: Katarina Triple Kill
+      kind: kill
+    - at: 26:55
+      label: Red takes Baron
+      kind: baron
+    - at: 27:40
+      label: Katarina picks off Rek'Sai
+    - at: 28:14
+      label: Mid Inhibitor falls (Blue)
 - videoId: Yn_3CI6Fmy8
   title: Zed Jungle vs Rek'Sai - VN Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1585
+- videoId: Mb50zr7Tq5o
+  title: Zed Jungle vs Rek'Sai - KR Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1952
+  region: KR

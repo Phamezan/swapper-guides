@@ -7,8 +7,23 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-05-20
 - videoId: d01hHctTbVE
   title: Naafiri vs Jarvan IV Jungle - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1456
+  region: KR
+  uploaded: 2026-04-17
+- videoId: CsWp5wJtyu0
+  title: Naafiri Jungle vs Jarvan IV - EUW Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1590
+  region: EUW
+- videoId: HCs3mqs-mqU
+  title: Naafiri Jungle vs Jarvan IV - EUW Grandmaster Patch 26.01
+  rankClaim: Grandmaster
+  patch: "26.1"
+  durationSec: 1507
+  region: EUW

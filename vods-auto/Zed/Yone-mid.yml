@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1453
+  region: EUW
   player: Usan
   uploaded: 2026-10-28
   result: W
@@ -42,6 +43,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1713
+  region: EUW
   player: BZ
   uploaded: 2026-10-26
   result: W
@@ -99,6 +101,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1435
+  region: KR
   uploaded: 2026-10-17
   result: W
   moments:
@@ -142,6 +145,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1654
+  region: KR
   uploaded: 2026-10-16
   result: W
   moments:
@@ -195,6 +199,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1624
+  region: KR
   uploaded: 2026-10-14
   result: W
   moments:
@@ -245,6 +250,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1583
+  region: EUW
   player: GSMC Alix
   uploaded: 2026-10-02
   result: W
@@ -293,6 +299,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1455
+  region: KR
   uploaded: 2026-09-27
   result: W
   moments:
@@ -346,6 +353,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 2105
+  region: KR
   uploaded: 2026-09-24
   result: W
   moments:
@@ -401,6 +409,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1510
+  region: EUW
   uploaded: 2026-09-20
   result: W
   moments:
@@ -447,6 +456,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 2006
+  region: KR
   uploaded: 2026-09-17
   result: W
   moments:
@@ -502,6 +512,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1617
+  region: KR
   uploaded: 2026-09-14
   result: W
   moments:
@@ -549,11 +560,18 @@
       label: Top Inhibitor falls (Red)
     - at: 25:43
       label: Zed takes down Aatrox
+- videoId: tXCmIU4nkHU
+  title: Zed Mid vs Yone - KR Grandmaster Patch 26.17
+  rankClaim: Grandmaster
+  patch: "26.17"
+  durationSec: 1761
+  region: KR
 - videoId: g8Y295P3vBE
   title: Zed Mid vs Yone - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1895
+  region: KR
   uploaded: 2026-09-02
   result: W
   moments:
@@ -610,6 +628,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1926
+  region: KR
   uploaded: 2026-09-01
   result: W
   moments:
@@ -665,6 +684,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1810
+  region: KR
   uploaded: 2026-08-23
   result: W
   moments:
@@ -716,6 +736,7 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1897
+  region: EUW
   player: IN5 Alix
   uploaded: 2026-06-29
   result: L
@@ -768,6 +789,7 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1749
+  region: EUW
   uploaded: 2026-06-28
   result: W
   moments:
@@ -821,14 +843,149 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1757
+  region: KR
+  uploaded: 2026-06-21
+  result: W
+  moments:
+    - at: 9:03
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 10:55
+      label: Zed takes down Yone
+    - at: 11:08
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:46
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:00
+      label: Zed kills Kalista
+      kind: kill
+    - at: 18:43
+      label: Zed takes down Olaf
+    - at: 19:33
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:10
+      label: Red takes Baron
+      kind: baron
+    - at: 23:55
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 26:58
+      label: Zed takes down Renata Glasc
+    - at: 27:43
+      label: Mid Inhibitor falls (Red)
+    - at: 28:17
+      label: Zed outduels Renata Glasc
+    - at: 28:35
+      label: Team fight (4 kills)
+      kind: teamfight
 - videoId: Ag1r0jdqv_k
   title: OnZed Zed vs Yone Mid - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1831
+  region: KR
   player: OnZed
+  uploaded: 2026-05-16
+- videoId: c7XdxkYwYwk
+  title: Zed vs Yone 12/0/2 (Mid) | EUW Grandmaster | Zed OTP Replay
+  rankClaim: Grandmaster
+  patch: "26.8"
+  durationSec: 1617
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-20
 - videoId: I7pE-dG4BY4
   title: Zed Mid vs Yone - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1820
+  region: KR
+  uploaded: 2026-04-15
+  result: W
+  moments:
+    - at: 5:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:22
+      label: First Blood — Zed kills Zyra
+      kind: kill
+    - at: 10:30
+      label: Nidalee picks off Yone
+    - at: 12:10
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 14:59
+      label: Zed Double Kill
+      kind: kill
+    - at: 16:35
+      label: Anivia takes down Yone
+    - at: 17:37
+      label: Zed picks off Zyra
+    - at: 18:21
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:17
+      label: Nidalee picks off Yone
+    - at: 22:54
+      label: Zed kills Lucian
+      kind: kill
+    - at: 23:45
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 23:48
+      label: Zed picks off Zyra
+    - at: 24:46
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:13
+      label: Mid Inhibitor falls (Red)
+    - at: 29:19
+      label: Zed eliminates Yone
+- videoId: FAPRw3CFdC4
+  title: Zed Mid vs Yone - EUW Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1627
+  region: EUW
+- videoId: Wd1FgpK879Q
+  title: Zed Mid vs Yone - BR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 2055
+- videoId: CRhQ3C15Hms
+  title: Zed Mid vs Yone - BR Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1758
+- videoId: xZTagtOSels
+  title: Zed Mid vs Yone - NA Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 2000
+  region: NA
+- videoId: JQ7u7I6_aFU
+  title: Zed Mid vs Yone - EUW Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1749
+  region: EUW
+- videoId: kwO_hwK_jCs
+  title: Zed vs Yone Mid - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 2730
+  region: KR
+- videoId: yjbswFRzxhE
+  title: Zed Mid vs Yone - KR Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1638
+  region: KR
+- videoId: DgS5_SbOI0s
+  title: Zed Mid vs Yone - BR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1770

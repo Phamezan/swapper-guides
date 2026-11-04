@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1569
+  region: EUW
   player: DYN MathisV
   uploaded: 2026-10-25
   result: W
@@ -58,16 +59,170 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1505
+  region: EUW
+  uploaded: 2026-06-01
+  result: W
+  moments:
+    - at: 5:17
+      label: First Blood — Zed kills Nami
+      kind: kill
+    - at: 6:21
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:47
+      label: Soraka eliminates Nami
+    - at: 10:31
+      label: Zed picks off Vladimir
+    - at: 11:35
+      label: Zed catches Nami
+    - at: 12:22
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:46
+      label: Urgot kills Master Yi
+      kind: kill
+    - at: 15:51
+      label: Zed picks off Vladimir
+    - at: 17:27
+      label: Zed kills Nami
+      kind: kill
+    - at: 17:51
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:49
+      label: Zed outduels Nami again
+    - at: 19:28
+      label: Zed picks off Vladimir
+    - at: 23:05
+      label: Zed kills Gragas
+      kind: kill
+    - at: 23:38
+      label: Mid Inhibitor falls (Red)
+    - at: 23:46
+      label: Zed kills Nami
+      kind: kill
+    - at: 23:59
+      label: Bot Inhibitor falls (Red)
+    - at: 24:23
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:50
+      label: Zed kills Nami
+      kind: kill
 - videoId: 5nN_pJv7mxw
   title: Zed Jungle vs Master Yi - EUW Grandmaster Patch 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1675
+  region: EUW
+  uploaded: 2026-05-18
+  result: W
+  moments:
+    - at: 3:00
+      label: First Blood — Janna kills Rell
+      kind: kill
+    - at: 9:40
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:54
+      label: Viktor takes down Rell
+    - at: 13:03
+      label: Zed eliminates Jhin
+    - at: 14:38
+      label: Zed eliminates Jhin
+    - at: 15:08
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:48
+      label: Zed takes down Jhin
+    - at: 16:48
+      label: Zed picks off Cassiopeia
+    - at: 17:12
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:02
+      label: Viktor picks off Master Yi
+    - at: 19:42
+      label: Viktor picks off Master Yi
+    - at: 20:19
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 21:20
+      label: Karthus Double Kill
+      kind: kill
+    - at: 21:56
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:34
+      label: Mid Inhibitor falls (Red)
+    - at: 25:50
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:11
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 26:58
+      label: Viktor picks off Master Yi
 - videoId: upuiBDXiRl0
   title: Zed Jungle vs Master Yi - EUW Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1761
+  region: EUW
+  uploaded: 2026-05-14
+  result: W
+  moments:
+    - at: 1:27
+      label: First Blood — Zed kills Qiyana
+      kind: kill
+    - at: 3:08
+      label: Zed kills Singed
+      kind: kill
+    - at: 4:50
+      label: Zed kills Nami
+      kind: kill
+    - at: 6:43
+      label: Zed kills Singed
+      kind: kill
+    - at: 7:09
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:33
+      label: Nautilus picks off Lucian
+    - at: 8:42
+      label: Zed eliminates Lucian
+    - at: 13:34
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:45
+      label: Zed takes down Master Yi
+    - at: 18:54
+      label: Zed eliminates Lucian
+    - at: 19:30
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 23:46
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:54
+      label: Zed takes down Lucian
+    - at: 25:08
+      label: Top Inhibitor falls (Red)
+    - at: 25:20
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 27:50
+      label: Zed takes down Master Yi
+    - at: 28:17
+      label: Bot Inhibitor falls (Red)
+    - at: 28:58
+      label: Smolder eliminates Master Yi
+- videoId: ZxYDDDHZ82I
+  title: Zed Jungle vs Master Yi - KR Master Patch 26.08
+  rankClaim: Master
+  patch: "26.8"
+  durationSec: 1530
+  region: KR
 - videoId: JnedDKZQs6I
   title: Zed Jungle vs Master Yi - TW Grandmaster Patch 26.02
   rankClaim: Grandmaster

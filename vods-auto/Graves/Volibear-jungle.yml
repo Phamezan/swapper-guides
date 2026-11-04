@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1800
+  region: KR
   uploaded: 2026-10-19
 - videoId: 9uF3JE0tDn4
   title: Graves vs Volibear [ Jungle ] Lol Korea Grandmaster 1434 LP | Patch 26.20 ✅
@@ -12,3 +13,9 @@
   durationSec: 1601
   region: KR
   uploaded: 2026-10-16
+- videoId: S91YvMxaEuo
+  title: Graves Jungle vs Volibear - EUW Grandmaster Patch 26.02
+  rankClaim: Grandmaster
+  patch: "26.2"
+  durationSec: 1474
+  region: EUW

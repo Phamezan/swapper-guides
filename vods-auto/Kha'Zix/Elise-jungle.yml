@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1786
+  region: KR
+- videoId: JXutfaPWFyA
+  title: Kha'Zix Jungle vs Elise - NA Grandmaster Patch 25.15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1916
+  region: NA

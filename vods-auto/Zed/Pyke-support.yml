@@ -4,13 +4,122 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1405
+  uploaded: 2026-06-05
+  result: W
+  moments:
+    - at: 1:26
+      label: First Blood — Zed kills Kai'Sa
+      kind: kill
+    - at: 9:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 9:51
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:41
+      label: Zed kills Graves
+      kind: kill
+    - at: 15:12
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:50
+      label: Nidalee kills Pyke
+      kind: kill
+    - at: 17:03
+      label: Zed outduels Anivia
+    - at: 17:08
+      label: Zed Double Kill
+      kind: kill
+    - at: 17:14
+      label: Zed Triple Kill
+      kind: kill
+    - at: 18:39
+      label: Zed eliminates Renekton
+    - at: 19:00
+      label: Zed eliminates Pyke
+    - at: 20:06
+      label: Zed catches Graves
+    - at: 20:31
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:01
+      label: Zed picks off Kai'Sa
+    - at: 21:30
+      label: Zed takes down Anivia
+    - at: 21:40
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:57
+      label: Mid Inhibitor falls (Red)
+    - at: 23:00
+      label: Bot Inhibitor falls (Red)
 - videoId: KdDZOs15thc
   title: Zed Support vs Pyke - EUW Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1706
+  region: EUW
+  uploaded: 2026-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:19
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:37
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:16
+      label: Take down The Turret
+      kind: tower
+    - at: 27:47
+      label: Take down The Inhibitor
+    - at: 28:15
+      label: End credit
 - videoId: F6JPVNd2mMQ
   title: Zed Support vs Pyke - EUW Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 2059
+  region: EUW
+- videoId: oEA1MhEdAwM
+  title: Zed Support vs Pyke - KR Master Patch 25.11
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1575
+  region: KR
+- videoId: mwDak887Mz0
+  title: Zed Support vs Pyke - VN Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 2138

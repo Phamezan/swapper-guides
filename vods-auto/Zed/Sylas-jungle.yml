@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1469
+  region: EUW
   uploaded: 2026-09-14
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1629
+  region: KR
   uploaded: 2026-08-01
   result: L
   moments:
@@ -110,6 +112,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1652
+  region: EUW
   uploaded: 2026-07-09
   result: W
   moments:
@@ -163,18 +166,171 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1799
+  region: KR
+  uploaded: 2026-05-31
+  result: L
+  moments:
+    - at: 2:51
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:28
+      label: Zed outplays Sylas
+    - at: 7:44
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:25
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:05
+      label: Zed kills Ambessa
+      kind: kill
+    - at: 17:37
+      label: Zed picks off Yone
+    - at: 19:53
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:11
+      label: Zed eliminates Ashe
+    - at: 22:01
+      label: Zed takes down Ashe
+    - at: 22:35
+      label: Zed kills Seraphine
+      kind: kill
+    - at: 24:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:43
+      label: Red takes Baron
+      kind: baron
+    - at: 25:25
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:34
+      label: Teemo eliminates Ambessa
+    - at: 26:38
+      label: Zed solo kills Yone
+      kind: kill
+    - at: 27:10
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:03
+      label: Zed picks off Yone
+    - at: 29:20
+      label: Zed eliminates Ashe
 - videoId: X7Ffqv940K0
   title: Zed Jungle vs Sylas - TW Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1857
+  uploaded: 2026-05-17
+  result: W
+  moments:
+    - at: 4:53
+      label: First Blood — Zed kills Shaco
+      kind: kill
+    - at: 5:18
+      label: Bard kills Sylas
+      kind: kill
+    - at: 5:54
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 6:37
+      label: Zed picks off Twisted Fate
+    - at: 11:22
+      label: Zed picks off Twisted Fate
+    - at: 12:18
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:43
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:30
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:27
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:48
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 26:45
+      label: Wukong Double Kill
+      kind: kill
+    - at: 27:53
+      label: Zed picks off Twisted Fate
+    - at: 28:23
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 29:08
+      label: Blue takes Baron
+      kind: baron
+    - at: 30:36
+      label: Mid Inhibitor falls (Red)
 - videoId: qQWO2KCDk_g
   title: Zed Jungle vs Sylas - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1416
+  region: KR
+  uploaded: 2026-05-03
+  result: L
+  moments:
+    - at: 6:04
+      label: First Blood — Zed kills Qiyana
+      kind: kill
+    - at: 6:38
+      label: Dr. Mundo eliminates Malphite
+    - at: 7:57
+      label: Zed picks off Qiyana
+    - at: 10:20
+      label: Zed eliminates Aphelios
+    - at: 11:22
+      label: Zed kills Malphite
+      kind: kill
+    - at: 11:52
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:30
+      label: Zed eliminates Aphelios
+    - at: 14:43
+      label: Kai'Sa takes down Aphelios
+    - at: 16:37
+      label: Zed kills Seraphine
+      kind: kill
+    - at: 17:06
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 17:46
+      label: Dr. Mundo kills Sylas
+      kind: kill
+    - at: 19:02
+      label: Zed takes down Sylas
+    - at: 20:06
+      label: Zed eliminates Aphelios
+    - at: 21:00
+      label: Red takes Baron
+      kind: baron
+    - at: 21:40
+      label: Zed kills Malphite
+      kind: kill
+    - at: 22:04
+      label: Kai'Sa eliminates Sylas
+    - at: 22:43
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:56
+      label: Bot Inhibitor falls (Blue)
 - videoId: Atotz0t2f0s
   title: Zed Jungle vs Sylas - VN Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1539
+- videoId: gCq3pk38epE
+  title: Zed Jungle vs Sylas - VN Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1805
+- videoId: 0K9aH0Erd2Y
+  title: Zed Jungle vs Sylas - KR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1843
+  region: KR

@@ -5,3 +5,35 @@
   patch: "26.14"
   durationSec: 1535
   region: KR
+  uploaded: 2026-07-22
+- videoId: rxNDC68oTao
+  title: Xayah ADC vs Sivir - TW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1552
+- videoId: JQhBvho_kOY
+  title: Xayah ADC vs Sivir - NA Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1504
+  region: NA
+- videoId: hckdEYO7cgg
+  title: Xayah ADC vs Sivir - EUW Challenger Patch 25.18
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1872
+  region: EUW
+- videoId: tJVmhxW1rCw
+  title: Xayah vs Sivir ADC [ Gen.G Ruler ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1467
+  region: KR
+  player: Ruler
+  team: Gen.G
+- videoId: EeW5_0f85do
+  title: Xayah ADC vs Sivir - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 2084
+  region: KR

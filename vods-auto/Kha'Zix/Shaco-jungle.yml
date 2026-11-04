@@ -11,4 +11,17 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1721
+  region: KR
   uploaded: 2026-09-03
+- videoId: I6dZPkLVH50
+  title: Kha'Zix Jungle vs Shaco - EUW Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1553
+  region: EUW
+- videoId: MProMOK8L9k
+  title: Kha'Zix vs Shaco Jungle - KR Master - Patch 25.12 Season 15
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1441
+  region: KR

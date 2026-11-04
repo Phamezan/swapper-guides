@@ -56,3 +56,46 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1489
+  uploaded: 2026-06-15
+  result: L
+  moments:
+    - at: 2:56
+      label: First Blood — Seraphine kills Katarina
+      kind: kill
+    - at: 5:12
+      label: Seraphine eliminates Brand
+    - at: 6:11
+      label: Fiddlesticks takes down Lee Sin
+    - at: 6:20
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:59
+      label: Zed eliminates Lee Sin
+    - at: 12:05
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:01
+      label: Zed eliminates Lee Sin
+    - at: 15:28
+      label: Illaoi takes down Yasuo
+    - at: 17:47
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:08
+      label: Irelia eliminates Yasuo
+    - at: 20:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:28
+      label: Red takes Baron
+      kind: baron
+    - at: 22:14
+      label: Zed outplays Brand
+    - at: 23:04
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 23:20
+      label: Zed eliminates Lee Sin
+    - at: 23:44
+      label: Zed solo kills Brand again
+      kind: kill

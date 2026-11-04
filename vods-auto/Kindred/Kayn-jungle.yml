@@ -4,4 +4,18 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1650
+  region: KR
   uploaded: 2026-10-19
+- videoId: lVh5w34n8dU
+  title: (CTG Array) Kindred Jungle vs Kayn - NA Challenger Patch 26.14
+  rankClaim: Challenger
+  patch: "26.14"
+  durationSec: 1827
+  region: NA
+  player: CTG Array
+- videoId: gNuWoQX2Cik
+  title: Kindred vs Kayn Jungle - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1411
+  region: KR

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1656
+  region: KR
   uploaded: 2026-08-19
   result: L
   moments:
@@ -50,3 +51,15 @@
       label: Tristana picks off Pantheon
     - at: 24:46
       label: Mid Inhibitor falls (Blue)
+- videoId: f-sYEsx4Zc8
+  title: Zed Support vs Pantheon - KR Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1560
+  region: KR
+- videoId: FNvzaFSZq2g
+  title: Zed Support vs Pantheon - KR Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1749
+  region: KR

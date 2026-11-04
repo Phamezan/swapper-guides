@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1695
+  region: EUW
   player: Shakur
   uploaded: 2026-08-01
   result: L
@@ -54,3 +55,8 @@
     - at: 26:01
       label: Zed kills Leona
       kind: kill
+- videoId: uOAEko_sXTY
+  title: Zed Jungle vs Yorick - BR Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1605

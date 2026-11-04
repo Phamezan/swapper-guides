@@ -8,6 +8,12 @@
   player: Oner
   team: T1
   uploaded: 2026-08-16
+- videoId: 67QOfy6slcc
+  title: Lee Sin Jungle vs Xin Zhao - KR Challenger Patch 26.10
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1746
+  region: KR
 - videoId: OmU6Skjp4zQ
   title: T1 Oner Lee Sin vs Xin Zhao [ Jungle ] Korea Challenger 2255 LP | Patch 26.10
   rankClaim: Challenger
@@ -16,6 +22,13 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-05-15
+- videoId: YVjk01j0Rvo
+  title: Lee Sin Jungle vs Xin Zhao - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1483
+  region: KR
 - videoId: fRtd-3dtgaQ
   title: T1 Oner Lee Sin vs Xin Zhao [ Jungle ] Korea Challenger 2241 LP | Patch 26.9
   rankClaim: Challenger
@@ -24,30 +37,92 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-05-10
 - videoId: Iu-QtGOAhns
   title: Lee Sin vs XinZhao Jungle - KR CHallenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 2081
+  region: KR
+  uploaded: 2026-04-23
 - videoId: cqZrt9VHFwI
   title: DNS Pyosik Lee Sin vs Xin Zhao [ Jungle ] Korea Grandmaster Patch 26.6
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1559
   region: KR
-  player: DNS Pyosik
+  player: Pyosik
+- videoId: YPELTQsNRqQ
+  title: Lee Sin Jungle vs Xin Zhao - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1700
+  region: KR
 - videoId: viSU-vKWWA8
   title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1531
+  region: KR
 - videoId: fvY94-EMC_0
   title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1711
+  region: KR
 - videoId: 8EFVpsYcg9M
   title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1291
+  region: KR
+- videoId: epXd4B7Esm4
+  title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1831
+  region: KR
+- videoId: WpVgG1bj3Qo
+  title: Lee Sin vs XinZhao Jungle - KR CHallenger - Patch 25.19 Season 15
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1621
+  region: KR
+- videoId: Kpi3yeHJ2Q4
+  title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 25.14 Season 15
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 2206
+  region: KR
+- videoId: FwaFxKJNSAA
+  title: T1 Faker Lee Sin vs Xin Zhao [ Jungle ] Korea Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1821
+  region: KR
+  player: Faker
+  team: T1
+- videoId: EE4t7lkVE2E
+  title: Lee Sin vs XinZhao Jungle - KR Grandmaster - Patch 25.11 Season 15
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1621
+  region: KR
+- videoId: Ek1byNjxwjU
+  title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1476
+  region: KR
+- videoId: ypqyLN2axc8
+  title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1451
+  region: KR
+- videoId: Jo0GcWIYuBQ
+  title: Lee Sin vs XinZhao Jungle - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1666
+  region: KR

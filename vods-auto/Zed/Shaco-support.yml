@@ -4,3 +4,57 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1731
+  uploaded: 2026-06-10
+  result: L
+  moments:
+    - at: 2:37
+      label: First Blood — Zed kills Twitch
+      kind: kill
+    - at: 6:11
+      label: Zed catches Kha'Zix
+    - at: 7:45
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:29
+      label: Zed solo kills Shaco
+      kind: kill
+    - at: 12:45
+      label: Zed outplays Twitch
+    - at: 13:27
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 14:23
+      label: Zed solo kills Twitch again
+      kind: kill
+    - at: 19:06
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:15
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:39
+      label: Zed kills Kha'Zix
+      kind: kill
+    - at: 24:19
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 25:27
+      label: Zed takes down Twitch (3rd time)
+    - at: 25:31
+      label: Red takes Baron
+      kind: baron
+    - at: 25:51
+      label: Zed eliminates Shaco
+    - at: 26:08
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:07
+      label: Zed outduels Kha'Zix again
+    - at: 27:28
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:47
+      label: Zed catches Twitch (4th time)
+- videoId: rIHv46DJxoM
+  title: Zed Support vs Shaco - VN Master Patch 25.08
+  rankClaim: Master
+  patch: "25.8"
+  durationSec: 1674

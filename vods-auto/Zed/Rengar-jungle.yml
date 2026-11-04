@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1889
+  region: KR
   uploaded: 2026-10-06
   result: W
   moments:
@@ -60,6 +61,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1457
+  region: KR
   uploaded: 2026-07-29
   result: L
   moments:
@@ -113,8 +115,115 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1673
+  region: EUW
+  uploaded: 2026-05-29
+  result: L
+  moments:
+    - at: 3:18
+      label: First Blood — Zed kills Renekton
+      kind: kill
+    - at: 7:54
+      label: Varus Triple Kill
+      kind: kill
+    - at: 8:26
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:24
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:28
+      label: Varus picks off Renekton
+    - at: 19:19
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 19:56
+      label: Zed catches Neeko
+    - at: 20:28
+      label: Red takes Baron
+      kind: baron
+    - at: 22:16
+      label: Zed takes down Rengar
+    - at: 25:11
+      label: Zed kills Neeko
+      kind: kill
+    - at: 25:32
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:48
+      label: Varus eliminates Rengar
+    - at: 26:48
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:10
+      label: Zed takes down Rengar
+    - at: 27:23
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:41
+      label: Zed picks off Orianna
 - videoId: -87lo944PWI
   title: Zed Jungle vs Rengar - EUW Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1844
+  region: EUW
+  uploaded: 2026-05-08
+  result: L
+  moments:
+    - at: 5:34
+      label: First Blood — Bard kills Rengar
+      kind: kill
+    - at: 9:30
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:25
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:00
+      label: Zed kills Kayle
+      kind: kill
+    - at: 18:22
+      label: Zed kills Sona
+      kind: kill
+    - at: 19:29
+      label: Bard takes down Ekko
+    - at: 20:18
+      label: Zed kills Kayle
+      kind: kill
+    - at: 21:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:32
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:06
+      label: Bard kills Rengar
+      kind: kill
+    - at: 25:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:58
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:11
+      label: Kai'Sa eliminates Rengar
+    - at: 28:00
+      label: Zed picks off Ekko
+    - at: 28:17
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:21
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 28:55
+      label: Red takes Baron
+      kind: baron
+    - at: 30:06
+      label: Team fight (3 kills)
+      kind: teamfight
+- videoId: j8enWO07qIE
+  title: Zed Jungle vs Rengar - TW Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1822

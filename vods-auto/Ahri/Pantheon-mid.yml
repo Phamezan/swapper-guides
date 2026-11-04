@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 2065
+  region: KR
   player: Despair
   uploaded: 2026-10-30
   result: W
@@ -58,6 +59,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1657
+  region: KR
   uploaded: 2026-10-28
   result: W
   moments:
@@ -112,6 +114,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1615
+  region: KR
   uploaded: 2026-09-01
   result: W
   moments:
@@ -156,11 +159,13 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1480
+  region: KR
 - videoId: gINm-COfN2M
   title: Zeka Ahri vs Pantheon Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1471
+  region: KR
   player: Zeka
   uploaded: 2026-03-05
 - videoId: HIqbOGnjTJ4
@@ -168,3 +173,4 @@
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1576
+  region: KR

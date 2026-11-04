@@ -8,6 +8,14 @@
   player: Smash
   team: DK
   uploaded: 2026-10-03
+- videoId: L_YemGnrxQ8
+  title: (BFX Taeyoon) Ezreal ADC vs Jhin - KR Grandmaster Patch 26.15
+  rankClaim: Grandmaster
+  patch: "26.15"
+  durationSec: 1530
+  region: KR
+  player: Taeyoon
+  team: BFX
 - videoId: QfnCx9SKuV4
   title: Ezreal vs Jhin ADC [ Teddy ] Patch 26.15 Korea Grandmaster 1506 LP
   rankClaim: Grandmaster
@@ -15,6 +23,7 @@
   durationSec: 1843
   region: KR
   player: Teddy
+  uploaded: 2026-07-31
 - videoId: cUcVN2hu0m0
   title: Ezreal vs Jhin ADC [ Gen.G Ruler ] Korea Challenger 2047 | Patch 26.10
   rankClaim: Challenger
@@ -23,6 +32,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-05-28
 - videoId: t1iwmDgyRY8
   title: HLE Gumayusi Ezreal vs Jhin [ ADC ] Korea Challenger 2683 LP | Patch 26.10
   rankClaim: Challenger
@@ -31,6 +41,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-24
 - videoId: rNsy8a-IVoI
   title: BLG Viper Ezreal vs Jhin [ ADC ] Korea Challenger 2303 LP | Patch 26.10
   rankClaim: Challenger
@@ -39,6 +50,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-05-21
 - videoId: tSA4ZCy3Oz8
   title: T1 Peyz Ezreal vs Jhin [ ADC ] Korea Challenger 2482 LP | Patch 26.9
   rankClaim: Challenger
@@ -46,4 +58,46 @@
   durationSec: 1644
   region: KR
   player: Peyz
+  team: T1
+  uploaded: 2026-05-04
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 4:44
+      label: Mid game objective control
+    - at: 10:39
+      label: Scaling and team fights
+      kind: teamfight
+    - at: 15:32
+      label: Baron and dragon skirmishes
+      kind: baron
+    - at: 21:22
+      label: Final push and victory
+- videoId: _lvl06PLxYA
+  title: Ezreal vs Jhin ADC - KR Challenger - Patch 25.22 Season 15
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1891
+  region: KR
+- videoId: Kt07W2hVp3s
+  title: T1 Gumayusi Ezreal vs Jhin [ ADC ] Patch 25.18 Korea Master
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1353
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: iF1IHA4Bp58
+  title: Ezreal vs Jhin ADC - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1806
+  region: KR
+- videoId: s4KTh9CgsFM
+  title: T1 Gumayusi Ezreal vs Jhin [ ADC ] Korea Challenger Patch 25.5 ✅
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1475
+  region: KR
+  player: Gumayusi
   team: T1

@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 2266
+  region: KR
   player: Peyz
 - videoId: KBbVbm96Bo4
   title: HLE Gumayusi Kai'Sa vs Ziggs [ ADC ] Korea Challenger 1570 LP | Patch 26.3
@@ -21,3 +22,17 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: ThDK9B93CNY
+  title: T1 Gumayusi Kaisa vs Ziggs [ ADC ] Patch 25.16 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 1528
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: zrOUVsgZv0g
+  title: Kai'Sa ADC vs Ziggs - KR Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1675
+  region: KR

@@ -4,3 +4,64 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1470
+  region: KR
+  uploaded: 2026-06-03
+  result: L
+  moments:
+    - at: 4:33
+      label: First Blood — Zed kills Vladimir
+      kind: kill
+    - at: 7:35
+      label: Zed catches Vladimir
+    - at: 9:19
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:33
+      label: Zed outduels Vladimir again
+    - at: 10:45
+      label: Zed outplays Vladimir (3rd time)
+    - at: 11:50
+      label: Zed takes down LeBlanc
+    - at: 12:51
+      label: Zed solo kills Vladimir (4th time)
+      kind: kill
+    - at: 14:20
+      label: Zed takes down LeBlanc
+    - at: 14:49
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 16:05
+      label: Zed takes down Vladimir (5th time)
+    - at: 16:56
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:55
+      label: Jhin picks off Vladimir
+    - at: 20:16
+      label: Jhin picks off Vladimir
+    - at: 21:07
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 22:09
+      label: Red takes Baron
+      kind: baron
+    - at: 22:29
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 23:45
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 24:05
+      label: Mid Inhibitor falls (Blue)
+- videoId: nAb3yg6vrR0
+  title: Zed Top vs Vladimir - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1525
+  region: EUW
+- videoId: LpkwddEeSgI
+  title: Zed Top vs Vladimir - NA Master Patch 25.11
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1758
+  region: NA

@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1595
+  region: KR
   uploaded: 2026-10-10
   result: W
   moments:
@@ -48,6 +49,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 2107
+  region: KR
   uploaded: 2026-10-07
   result: W
   moments:
@@ -100,6 +102,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1645
+  region: KR
   uploaded: 2026-09-30
   result: W
   moments:
@@ -155,6 +158,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1584
+  region: KR
   uploaded: 2026-08-29
   result: W
   moments:
@@ -200,3 +204,43 @@
       label: Zed outplays Irelia
     - at: 26:04
       label: Zed takes down Shaco again
+- videoId: S7aktRPdmK8
+  title: Zed vs Orianna 11/2/4 (Mid) | EUW Grandmaster | Zed OTP Replay
+  rankClaim: Grandmaster
+  patch: "26.8"
+  durationSec: 1487
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-23
+- videoId: LOkvFpcYeq8
+  title: Zed vs Orianna 16/1/5 (Mid) | EUW Master | Zed OTP Replay
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1390
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-08
+- videoId: t1LpBbxqWz0
+  title: Zed Mid vs Orianna - EUW Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1433
+  region: EUW
+- videoId: KYuNo-qB03g
+  title: Zed vs Orianna Mid - EUW Grandmaster - Patch 25.15 Season 15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 2101
+  region: EUW
+- videoId: -juDbpb976E
+  title: Zed Mid vs Orianna - BR Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1814
+- videoId: STuKuZAgBic
+  title: Faker Zed vs Orianna Mid - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1981
+  region: KR
+  player: Faker

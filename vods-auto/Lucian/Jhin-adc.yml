@@ -8,12 +8,21 @@
   player: Peyz
   team: T1
   uploaded: 2026-09-09
+- videoId: IBedH56jsT4
+  title: (KT PerfecT) Lucian ADC vs Jhin - KR Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1658
+  region: KR
+  player: PerfecT
+  team: KT
 - videoId: kAnN-0uw6dI
   title: Lucian vs Jhin [ ADC ] Korea Grandmaster 1691 LP | Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1605
   region: KR
+  uploaded: 2026-07-24
 - videoId: 2gXhSJ2ncs4
   title: T1 Peyz Lucian vs Jhin ADC [ Perfect KDA ] Korea Challenger 2474 LP | Patch 26.9
   rankClaim: Challenger
@@ -22,3 +31,32 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-05-08
+- videoId: 8AkcxDJYY60
+  title: Lucian ADC vs Jhin - KR Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1465
+  region: KR
+- videoId: uhGkGK2aQv0
+  title: Lucian vs Jhin ADC [ DRX Teddy ] Patch 25.22 Korea Master
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1425
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: 9vR2SCwyjxg
+  title: T1 Gumayusi Lucian vs Jhin [ ADC ] Patch 25.13 Ranked NA
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 1325
+  region: NA
+  player: Gumayusi
+  team: T1
+- videoId: oQtB_m_EEKI
+  title: Lucian vs Jhin ADC - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1531
+  region: KR

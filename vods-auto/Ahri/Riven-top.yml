@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1690
+  region: NA
   uploaded: 2026-08-20
   result: W
   moments:
@@ -52,6 +53,11 @@
       label: Ahri takes down Sivir again
     - at: 27:41
       label: Mid Inhibitor falls (Red)
+- videoId: eqnApOoQATs
+  title: Ahri Top vs Riven - VN Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1650
 - videoId: SvR_Y2IJZMs
   title: Ahri Top vs Riven - BR Master Patch 26.09
   rankClaim: Master
@@ -100,3 +106,15 @@
       kind: kill
     - at: 28:34
       label: Mid Inhibitor falls (Red)
+- videoId: zuCawjkVPhw
+  title: Ahri Top vs Riven - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1525
+  region: EUW
+- videoId: iMILZMW8jY0
+  title: Ahri Top vs Riven - NA Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1511
+  region: NA

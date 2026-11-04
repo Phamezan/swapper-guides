@@ -4,3 +4,17 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 2266
+  region: KR
+  uploaded: 2026-04-07
+- videoId: XV94115JDoQ
+  title: Mel Mid vs Ryze - EUW Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1614
+  region: EUW
+- videoId: L_qXGV1NFe4
+  title: Mel vs Ryze Mid - EUW Grandmaster - Patch 25.5 Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1651
+  region: EUW

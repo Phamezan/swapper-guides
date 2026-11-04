@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1942
+  region: NA
   uploaded: 2026-10-03
   result: W
   moments:
@@ -53,3 +54,27 @@
       kind: kill
     - at: 32:02
       label: Bot Inhibitor falls (Blue)
+- videoId: jf8nqLglbCc
+  title: Ahri Support vs Nautilus - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1731
+  region: KR
+- videoId: Kv-nwZGfAC8
+  title: Ahri Support vs Nautilus - EUW Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1708
+  region: EUW
+- videoId: DsL8Dneq0UU
+  title: Ahri Support vs Nautilus - NA Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1680
+  region: NA
+- videoId: m-fbHIUGL9U
+  title: Ahri Support vs Nautilus - NA Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1543
+  region: NA

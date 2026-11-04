@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1644
+  region: KR
   uploaded: 2026-09-23
   result: W
   moments:
@@ -59,3 +60,27 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-04-17
+- videoId: uoV-tocn3dk
+  title: OnZed Zed vs Pantheon Mid - KR Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1711
+  region: KR
+  player: OnZed
+- videoId: Aq1Lwga9d6s
+  title: Zed vs Pantheon Mid - KR Grandmaster - Patch 25.21 Seasin 15
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1471
+  region: KR
+- videoId: Mi7DQ-hk_wM
+  title: Zed Mid vs Pantheon - TW Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1587
+- videoId: so2pmVur44A
+  title: Zed Mid vs Pantheon - TW Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1957

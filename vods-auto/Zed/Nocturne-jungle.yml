@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1744
+  region: EUW
   uploaded: 2026-08-05
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1462
+  region: EUW
   uploaded: 2026-07-29
   result: L
   moments:
@@ -105,6 +107,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1677
+  region: EUW
   uploaded: 2026-07-04
   result: L
   moments:
@@ -158,8 +161,121 @@
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1793
+  region: EUW
+  uploaded: 2026-05-26
+  result: W
+  moments:
+    - at: 6:17
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 8:44
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 13:39
+      label: Zed outplays Nocturne
+    - at: 14:06
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:06
+      label: Zed picks off Galio
+    - at: 19:20
+      label: Yone picks off Kog'Maw
+    - at: 19:41
+      label: Yone kills Nocturne
+      kind: kill
+    - at: 20:17
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:19
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:41
+      label: Renata Glasc kills Nocturne
+      kind: kill
+    - at: 25:00
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:07
+      label: Blue takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 26:30
+      label: Zed kills Lulu
+      kind: kill
+    - at: 27:47
+      label: Zed kills Lulu
+      kind: kill
+    - at: 28:47
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:13
+      label: Zed takes down Kog'Maw
+    - at: 29:34
+      label: Zed solo kills Galio
+      kind: kill
 - videoId: 5Nk16j8m_jY
   title: Zed Jungle vs Nocturne - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1829
+  region: EUW
+  uploaded: 2026-05-12
+  result: L
+  moments:
+    - at: 2:15
+      label: First Blood — Sivir kills Ashe
+      kind: kill
+    - at: 6:54
+      label: Zed takes down Ashe
+    - at: 10:16
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:33
+      label: Zed kills Jax
+      kind: kill
+    - at: 13:10
+      label: Zed eliminates Ashe
+    - at: 15:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:15
+      label: Zed eliminates Ashe
+    - at: 20:23
+      label: Ryze Double Kill
+      kind: kill
+    - at: 21:53
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:57
+      label: Zed catches Seraphine
+    - at: 24:09
+      label: Red takes Baron
+      kind: baron
+    - at: 25:01
+      label: Zed catches Ashe again
+    - at: 25:06
+      label: Sivir eliminates Nocturne
+    - at: 26:05
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:02
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 28:04
+      label: Sivir kills Sylas
+      kind: kill
+    - at: 28:34
+      label: Bot Inhibitor falls (Blue)
+    - at: 29:39
+      label: Team fight (3 kills)
+      kind: teamfight
+- videoId: HSAxiqlAA4s
+  title: Zed Jungle vs Nocturne - EUW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1561
+  region: EUW
+- videoId: iO0slcvIuS0
+  title: Zed Jungle vs Nocturne - KR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1466
+  region: KR

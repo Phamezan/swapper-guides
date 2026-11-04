@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1846
+  region: KR
   uploaded: 2026-08-28
   result: W
   moments:
@@ -50,6 +51,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1703
+  region: KR
   uploaded: 2026-08-12
   result: L
   moments:
@@ -98,13 +100,93 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1764
+  region: KR
+  uploaded: 2026-06-18
+  result: L
+  moments:
+    - at: 3:37
+      label: First Blood — Zed kills Yone
+      kind: kill
+    - at: 7:04
+      label: Zed catches Yone
+    - at: 7:29
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:20
+      label: Zed outplays Renekton
+    - at: 13:14
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:41
+      label: Nidalee Double Kill
+      kind: kill
+    - at: 14:53
+      label: Zed solo kills Mel
+      kind: kill
+    - at: 15:08
+      label: Nidalee takes down Bel'Veth
+    - at: 18:37
+      label: Nidalee Double Kill
+      kind: kill
+    - at: 19:28
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:55
+      label: Zed picks off Mel
+    - at: 22:10
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:35
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 25:19
+      label: Sivir Double Kill
+      kind: kill
+    - at: 25:50
+      label: Nidalee eliminates Mel
+    - at: 26:01
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:36
+      label: Top Inhibitor falls (Blue)
+    - at: 29:05
+      label: Nidalee Double Kill
+      kind: kill
 - videoId: 7Y6_3MfGzHU
   title: Zed Top vs Yone - NA Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1917
+  region: NA
 - videoId: 3kFXUXauACY
   title: Zed Top vs Yone - NA Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1550
+  region: NA
+- videoId: -hhK6d5yQDU
+  title: Zed Top vs Yone - NA Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1533
+  region: NA
+- videoId: 2U_DWhi7vok
+  title: Zed Top vs Yone - VN Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1718
+- videoId: J11iJxU8-xA
+  title: Zed Top vs Yone - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1814
+  region: KR
+- videoId: 7TiTOI4heEM
+  title: Zed Top vs Yone - VN Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 1600
+- videoId: b4RdYQFLUBY
+  title: Zed Top vs Yone - TW Master Patch 25.04
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1718

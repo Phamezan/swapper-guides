@@ -8,3 +8,61 @@
   player: Faker
   team: T1
   uploaded: 2026-10-29
+- videoId: zSZBX3EA2_8
+  title: Akali Mid vs Syndra - KR Master Patch 26.18
+  rankClaim: Master
+  patch: "26.18"
+  durationSec: 1502
+  region: KR
+- videoId: TfqBJ0cZ6XU
+  title: (MKF Fresskowy) Akali Mid vs Syndra (TH Serin) - EUW Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1809
+  region: EUW
+  player: MKF Fresskowy
+- videoId: _XpcDhKdtXo
+  title: (IN5 Alix) Akali Mid vs Syndra (G2 Caps) - EUW Challenger Patch 26.11
+  rankClaim: Challenger
+  patch: "26.11"
+  durationSec: 1776
+  region: EUW
+  player: IN5 Alix
+- videoId: 84B9Qx4CzCE
+  title: T1 Faker Akali vs Syndra MID [ Perfect KDA ] Korea Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1222
+  region: KR
+  player: Faker
+  team: T1
+- videoId: dNeOAWeZY40
+  title: Akali Mid vs Syndra - KR Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1459
+  region: KR
+- videoId: J5AFKVKzPA8
+  title: Akali Mid vs Syndra - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1847
+  region: KR
+- videoId: JDoZhmcvSBI
+  title: Akali Mid vs Syndra - KR Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1475
+  region: KR
+- videoId: TG0Ni5fFNYc
+  title: Akali vs Syndra Mid - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1710
+  region: KR
+- videoId: _fVX6SPiIX4
+  title: Akali Mid vs Syndra - KR Grandmaster Patch 25.04
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1905
+  region: KR

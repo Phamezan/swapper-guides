@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1423
+  region: KR
   uploaded: 2026-08-18
   result: L
   moments:
@@ -54,6 +55,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1534
+  region: KR
   uploaded: 2026-07-13
   result: L
   moments:
@@ -107,6 +109,7 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1656
+  region: EUW
   player: Tsiperakos
   uploaded: 2026-06-27
   result: L
@@ -150,18 +153,205 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1663
+  region: KR
+  uploaded: 2026-06-12
+  result: W
+  moments:
+    - at: 1:36
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 9:44
+      label: Zed picks off Sylas
+    - at: 10:11
+      label: Zed kills Thresh
+      kind: kill
+    - at: 12:52
+      label: Zed takes down Kai'Sa
+    - at: 13:05
+      label: Zed kills Thresh
+      kind: kill
+    - at: 14:24
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:36
+      label: Zed picks off Sylas
+    - at: 19:07
+      label: Zed picks off Sylas
+    - at: 19:41
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:56
+      label: Zed kills Thresh
+      kind: kill
+    - at: 21:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:05
+      label: Zed kills Thresh
+      kind: kill
+    - at: 25:18
+      label: Zed kills Lissandra
+      kind: kill
+    - at: 26:03
+      label: Bot Inhibitor falls (Red)
+    - at: 26:12
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 26:46
+      label: Galio kills Kai'Sa
+      kind: kill
+    - at: 27:21
+      label: Mid Inhibitor falls (Red)
 - videoId: dyCj20rmZTc
   title: Zed Jungle vs Vi - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1680
+  region: KR
+  uploaded: 2026-05-18
+  result: L
+  moments:
+    - at: 2:32
+      label: First Blood — Vayne kills Gwen
+      kind: kill
+    - at: 4:56
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:35
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:12
+      label: Zed kills Sona
+      kind: kill
+    - at: 14:07
+      label: Zed eliminates Ezreal
+    - at: 14:58
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:10
+      label: Viktor kills Ezreal
+      kind: kill
+    - at: 19:49
+      label: Bard eliminates Sona
+    - at: 20:37
+      label: Zed picks off Galio
+    - at: 22:11
+      label: Zed outplays Vi
+    - at: 22:35
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 23:53
+      label: Zed kills Gwen
+      kind: kill
+    - at: 24:51
+      label: Red takes Baron
+      kind: baron
+    - at: 25:01
+      label: Zed picks off Galio
+    - at: 25:37
+      label: Zed takes down Vi
+    - at: 25:54
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:22
+      label: Zed picks off Galio
 - videoId: Q7633SIKGaQ
   title: Zed Jungle vs Vi - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1636
+  region: KR
+  uploaded: 2026-05-02
+  result: L
+  moments:
+    - at: 1:39
+      label: First Blood — Zed kills Twisted Fate
+      kind: kill
+    - at: 5:43
+      label: Zed kills Braum
+      kind: kill
+    - at: 5:45
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:05
+      label: Malzahar eliminates Twisted Fate
+    - at: 9:23
+      label: Zed picks off Twisted Fate
+    - at: 11:09
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:58
+      label: Zed kills Braum
+      kind: kill
+    - at: 13:41
+      label: Malzahar eliminates Twisted Fate
+    - at: 15:49
+      label: Zed eliminates Ezreal
+    - at: 16:35
+      label: Zed solo kills Twisted Fate
+      kind: kill
+    - at: 16:52
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 22:00
+      label: Red takes Baron
+      kind: baron
+    - at: 22:05
+      label: Zed takes down Twisted Fate again
+    - at: 22:37
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 22:48
+      label: Zed takes down Vi
+    - at: 25:02
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:03
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:28
+      label: Kai'Sa kills Twisted Fate
+      kind: kill
 - videoId: PDYPtqDPGEA
   title: Zed Jungle vs Vi - NA Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1531
+  region: NA
+- videoId: rDQCb954qHQ
+  title: Zed Jungle vs Vi - BR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1472
+- videoId: gOHHV3BXcZs
+  title: Zed Jungle vs Vi - EUW Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 2135
+  region: EUW
+- videoId: rqEVR3UwIKY
+  title: Zed Jungle vs Vi - BR Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1904
+- videoId: T9l_bkddk9w
+  title: Zed vs Vi Jungle - KR Challenger - Patch 25.9 Season 15
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1546
+  region: KR
+- videoId: jNhbH6oS5wc
+  title: Zed Jungle vs Vi - KR Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1632
+  region: KR
+- videoId: 8UW1fvB6H8I
+  title: Zed Jungle vs Vi - BR Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1835
+- videoId: xt3C0DWYYmc
+  title: Zed Jungle vs Vi - EUW Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1523
+  region: EUW

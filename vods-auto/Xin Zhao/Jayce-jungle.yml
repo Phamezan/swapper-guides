@@ -4,6 +4,8 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1711
+  region: KR
+  uploaded: 2026-05-17
 - videoId: PHtOMtEvEeQ
   title: Xin Zhao vs Jayce Jungle [ Gen.G Canyon ] Korea Challenger Patch 26.4
   rankClaim: Challenger
@@ -12,3 +14,9 @@
   region: KR
   player: Canyon
   team: Gen.G
+- videoId: xi8FHEUatLM
+  title: Xin Zhao Jungle vs Jayce - EUW Challenger Patch 26.01
+  rankClaim: Challenger
+  patch: "26.1"
+  durationSec: 1470
+  region: EUW

@@ -58,8 +58,60 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1878
+  uploaded: 2026-06-20
+  result: W
+  moments:
+    - at: 4:09
+      label: First Blood — Zed kills Ezreal
+      kind: kill
+    - at: 4:12
+      label: Aurelion Sol kills Yuumi
+      kind: kill
+    - at: 5:35
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 5:47
+      label: Katarina eliminates Ekko
+    - at: 11:49
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:43
+      label: Zed picks off Ezreal
+    - at: 15:25
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:15
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:55
+      label: Zed picks off Ezreal
+    - at: 21:32
+      label: Aurelion Sol Double Kill
+      kind: kill
+    - at: 22:19
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:57
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:42
+      label: Top Inhibitor falls (Red)
+    - at: 30:05
+      label: Blue takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 30:16
+      label: Zed takes down Ekko
+    - at: 30:41
+      label: Mid Inhibitor falls (Red)
 - videoId: 0KNlmLFv3kU
   title: Zed Support vs Yuumi - EUW Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1615
+  region: EUW
+- videoId: jq_jBnjehUo
+  title: Zed Support vs Yuumi - KR Master Patch 25.04
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1780
+  region: KR

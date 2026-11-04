@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1651
+  region: EUW
   uploaded: 2026-07-20
   result: L
   moments:
@@ -49,3 +50,14 @@
     - at: 26:32
       label: Nidalee Double Kill
       kind: kill
+- videoId: zit6ApdiAWE
+  title: Ahri Support vs Janna - BR Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1599
+- videoId: BbD3iLxtTm4
+  title: Ahri Support vs Janna - EUW Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1792
+  region: EUW

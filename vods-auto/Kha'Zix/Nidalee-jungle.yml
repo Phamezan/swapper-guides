@@ -4,8 +4,30 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1801
+  region: EUW
+  uploaded: 2026-05-22
 - videoId: 6z7K9uTiqdc
   title: Kha'Zix vs Nidalee Jungle - KR Master - Patch 26.01 Season 16
   rankClaim: Master
   patch: "26.1"
   durationSec: 1721
+  region: KR
+- videoId: Ego8MLWCz4Y
+  title: Kha'Zix vs Nidalee Jungle [ QuadraKill ] Patch 25.21 Korea Challenger 1173 LP
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1391
+  region: KR
+  player: QuadraKill
+- videoId: gJG7PFNs8HY
+  title: Kha'Zix vs Nidalee Jungle - NA Grandmaster - Patch 25.17 Season 15
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 2101
+  region: NA
+- videoId: LSXJr_VXNLg
+  title: Kha'Zix vs Nidalee Jungle - KR Master - Patch 25.8 Season 15
+  rankClaim: Master
+  patch: "25.8"
+  durationSec: 1891
+  region: KR

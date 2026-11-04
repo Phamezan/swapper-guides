@@ -36,6 +36,24 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-07-05
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 5:48
+      label: Mid game objectives
+    - at: 10:37
+      label: Rift Herald and jungle fights
+      kind: herald
+    - at: 15:11
+      label: Strategic mid game pushes
+    - at: 20:39
+      label: Late game inhibitor pressure
+    - at: 24:16
+      label: Baron and final base siege
+      kind: baron
+    - at: 27:53
+      label: Match conclusion
 - videoId: D6CuhXJzwoQ
   title: Ezreal vs Caitlyn ADC [ NS Diable ] Korea Master 807 LP | Patch 26.11
   rankClaim: Master
@@ -44,3 +62,24 @@
   region: KR
   player: Diable
   team: NS
+  uploaded: 2026-06-01
+- videoId: 1w5xjxL33YM
+  title: Ezreal vs Caitlyn ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1531
+  region: KR
+- videoId: b6SCikLZrQA
+  title: Ezreal ADC vs Caitlyn - KR Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1905
+  region: KR
+- videoId: BpHNXQAENXM
+  title: T1 Gumayusi Ezreal vs Caitlyn ADC [ TripleKill ] Patch 25.3 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.3"
+  durationSec: 1185
+  region: KR
+  player: Gumayusi
+  team: T1

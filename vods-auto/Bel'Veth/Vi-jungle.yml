@@ -4,4 +4,35 @@
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1596
+  region: KR
   uploaded: 2026-03-17
+- videoId: XP49U08jdLg
+  title: Bel'Veth Jungle vs Vi - EUW Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1986
+  region: EUW
+- videoId: jwdrkjR_r5Q
+  title: Bel'Veth vs Vi Jungle - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1431
+  region: KR
+- videoId: 4-abkAuyy_E
+  title: Bel'Veth Jungle vs Vi - KR Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1871
+  region: KR
+- videoId: mmlZHWWXkHU
+  title: Bel'Veth Jungle vs Vi - KR Master Patch 25.08
+  rankClaim: Master
+  patch: "25.8"
+  durationSec: 1559
+  region: KR
+- videoId: UX1f440Y2zQ
+  title: Bel'Veth vs Vi Jungle - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1650
+  region: KR

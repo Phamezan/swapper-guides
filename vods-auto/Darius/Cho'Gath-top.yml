@@ -4,4 +4,11 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1350
+  region: KR
   uploaded: 2026-10-19
+- videoId: qG2QVSSnkCU
+  title: Darius Top vs Cho'Gath - EUW Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1883
+  region: EUW

@@ -4,18 +4,63 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1536
+  region: KR
+  uploaded: 2026-04-14
+- videoId: VVvK4NnTAXA
+  title: Graves Jungle vs Kha'Zix - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1569
+  region: KR
 - videoId: M4Wu78LW7R0
   title: Graves vs Kha'Zix Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1726
+  region: KR
 - videoId: rLuzefF7ETE
   title: Graves vs Kha'Zix Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1906
+  region: KR
 - videoId: fFI9l_uBAAo
   title: Graves vs Kha'Zix Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1546
+  region: KR
+- videoId: waOfCqxxYNc
+  title: Graves Jungle vs Kha'Zix - EUW Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1791
+  region: EUW
+- videoId: 2tppcjgM0vQ
+  title: Graves Jungle vs Kha'Zix - EUW Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1663
+  region: EUW
+- videoId: Q4CMEUyym4c
+  title: Graves vs Kha'Zix Jungle - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2046
+  region: KR
+- videoId: EDNQtzCcKZc
+  title: Graves vs Kha'Zix [ Jungle ] Lol Korea Master Patch 25.20 ✅
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1549
+  region: KR
+- videoId: qXgiHN8XPBI
+  title: Graves Jungle vs Kha'Zix - VN Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 2028
+- videoId: niTme6ThkeQ
+  title: Graves Jungle vs Kha'Zix - VN Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1874

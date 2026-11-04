@@ -4,3 +4,11 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1846
+  region: KR
+  uploaded: 2026-05-20
+- videoId: xk-tsINYARU
+  title: Shyvana Jungle vs Kindred - EUW Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1617
+  region: EUW

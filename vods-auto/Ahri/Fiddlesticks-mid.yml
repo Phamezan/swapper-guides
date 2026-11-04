@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1681
+  region: KR
 - videoId: VKxhlJw0NMw
   title: DK ShowMaker Ahri vs Fiddlesticks [ MID ] Korea Challenger 2049 LP | Patch 26.4
   rankClaim: Challenger
@@ -17,6 +18,7 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1569
+  region: KR
   uploaded: 2026-02-28
   moments:
     - at: 0:15

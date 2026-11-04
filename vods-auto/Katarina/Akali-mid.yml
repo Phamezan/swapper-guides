@@ -4,14 +4,69 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1726
+  region: KR
   uploaded: 2026-10-13
+- videoId: CuIH2dZDMEU
+  title: Katarina vs Akali 21/0/3 (Mid) | EUW Master | Katarina OTP Replay
+  rankClaim: Master
+  patch: "26.10"
+  durationSec: 1569
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-05-16
 - videoId: zMiYWBUCh94
   title: Katarina vs Akali Mid - KR Master - Patch 16.08 Season 16
   rankClaim: Master
   patch: "26.8"
   durationSec: 1561
+  region: KR
+  uploaded: 2026-04-21
 - videoId: IhPIFqtOyuA
   title: Katarina vs Akali Mid - KR Grandmaster - Patch 16.07 Season 16
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1516
+  region: KR
+  uploaded: 2026-04-13
+- videoId: -TIIfhBk5nw
+  title: Katarina Mid vs Akali - KR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1706
+  region: KR
+- videoId: yomQSdKEytM
+  title: Katarina vs Akali Mid - KR Grandmaster - Patch 25.18 Season 15
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1711
+  region: KR
+- videoId: g_TMC8s3qEU
+  title: Katarina vs Akali Mid - KR Grandmaster - Patch 25.17 Season 15
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1621
+  region: KR
+- videoId: 6CfVHN4nSXs
+  title: Katarina Mid vs Akali - EUW Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1673
+  region: EUW
+- videoId: hbbV_ZkYoWQ
+  title: Katarina vs Akali Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1511
+  region: KR
+- videoId: AbVwuBd1Qkg
+  title: Katarina Mid vs Akali - KR Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 2119
+  region: KR
+- videoId: yGeWO3uSK60
+  title: Katarina vs Akali Mid - KR Grandmaster - Patch 25.6 Season 15
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1781
+  region: KR

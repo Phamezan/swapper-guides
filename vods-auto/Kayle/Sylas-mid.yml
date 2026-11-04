@@ -4,8 +4,18 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1681
+  region: EUW
+  uploaded: 2026-05-22
 - videoId: 5lwaT02S-Hg
   title: Kayle vs Sylas Mid - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1771
+  region: KR
+  uploaded: 2026-04-04
+- videoId: 13XwTZtxuRw
+  title: Kayle vs Sylas Mid - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1741
+  region: KR

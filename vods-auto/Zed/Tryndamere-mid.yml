@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1872
+  region: KR
   uploaded: 2026-09-05
   result: W
   moments:
@@ -56,3 +57,57 @@
   patch: "26.12"
   durationSec: 1450
   player: RED frosty
+  uploaded: 2026-06-19
+  result: L
+  moments:
+    - at: 2:36
+      label: First Blood — Zed kills Rek'Sai
+      kind: kill
+    - at: 6:08
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:31
+      label: Zed outplays Malphite
+    - at: 13:18
+      label: Zed takes down Tryndamere
+    - at: 14:21
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:45
+      label: Zed outduels Karma
+    - at: 16:10
+      label: Zed takes down Karma
+    - at: 17:52
+      label: Zed catches Tryndamere again
+    - at: 19:05
+      label: Zed picks off Rek'Sai
+    - at: 19:44
+      label: Red takes Baron
+      kind: baron
+    - at: 19:57
+      label: Zed outduels Tryndamere (3rd time)
+    - at: 21:20
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 21:53
+      label: Zed kills Ezreal
+      kind: kill
+    - at: 22:01
+      label: Zed Triple Kill
+      kind: kill
+    - at: 22:24
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:18
+      label: Zed takes down Karma
+    - at: 23:26
+      label: Zed Triple Kill
+      kind: kill
+    - at: 23:34
+      label: Zed Quadra Kill
+      kind: kill
+- videoId: lAyXdRApHvY
+  title: Zed Mid vs Tryndamere - EUW Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1541
+  region: EUW

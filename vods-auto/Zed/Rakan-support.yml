@@ -4,13 +4,28 @@
   rankClaim: Master
   patch: "26.6"
   durationSec: 1823
+  region: KR
 - videoId: CP_EwpZoyN0
   title: Zed Support vs Rakan - EUW Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1827
+  region: EUW
 - videoId: vv2o90uOMjw
   title: Zed Support vs Rakan - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1505
+  region: KR
+- videoId: gcke5VY_eq0
+  title: Zed Support vs Rakan - EUW Master Patch 25.08
+  rankClaim: Master
+  patch: "25.8"
+  durationSec: 1501
+  region: EUW
+- videoId: OabYXD0QgIk
+  title: Zed Support vs Rakan - EUW Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1709
+  region: EUW

@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1520
+  region: EUW
   player: Usan
   uploaded: 2026-10-29
   result: W
@@ -50,6 +51,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1427
+  region: EUW
   player: BZ
   uploaded: 2026-10-24
   result: W
@@ -91,6 +93,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1547
+  region: EUW
   player: BZ
   uploaded: 2026-10-09
   result: W
@@ -144,6 +147,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1577
+  region: KR
   uploaded: 2026-09-26
   result: W
   moments:
@@ -190,6 +194,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1624
+  region: KR
   uploaded: 2026-08-23
   result: W
   moments:
@@ -246,6 +251,7 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1689
+  region: EUW
   player: AdyTheKid
   uploaded: 2026-07-02
   result: W
@@ -299,3 +305,10 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1483
+  region: NA
+- videoId: NWEZMxnFlGg
+  title: Zed Mid vs Lissandra - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1600
+  region: EUW

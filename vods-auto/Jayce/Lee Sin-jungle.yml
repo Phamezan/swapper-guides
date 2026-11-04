@@ -8,6 +8,14 @@
   player: Oner
   team: T1
   uploaded: 2026-08-14
+- videoId: 0aWtt0NFtSs
+  title: (GEN Canyon) Jayce Jungle vs Lee Sin - KR Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1491
+  region: KR
+  player: Canyon
+  team: GEN
 - videoId: qS7gbzVZmZE
   title: Jayce vs Lee Sin Jungle [ Gen.G Canyon ] Korea Challenger Patch 26.9
   rankClaim: Challenger
@@ -16,6 +24,7 @@
   region: KR
   player: Canyon
   team: Gen.G
+  uploaded: 2026-05-06
 - videoId: r-g11ZeJIgc
   title: T1 Oner Jayce vs Lee Sin [ Jungle ] Patch 26.8 Korea Challenger 2473 LP
   rankClaim: Challenger
@@ -24,3 +33,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-04-19

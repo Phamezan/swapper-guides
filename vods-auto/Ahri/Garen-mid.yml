@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1870
+  region: EUW
   player: Peng
   uploaded: 2026-10-24
   result: W
@@ -61,6 +62,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1685
+  region: EUW
   patchEstimated: true
   player: raikokatarina
   uploaded: 2026-08-12

@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1740
+  region: KR
   player: Doran
   uploaded: 2026-10-01
 - videoId: iW1AHmWBWRs
@@ -15,3 +16,9 @@
   player: Doran
   team: T1
   uploaded: 2026-09-29
+- videoId: bIwevrIM3vk
+  title: Varus Top vs Singed - EUW Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1482
+  region: EUW

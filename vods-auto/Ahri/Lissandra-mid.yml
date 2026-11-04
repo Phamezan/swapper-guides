@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1544
+  region: KR
   uploaded: 2026-10-29
   result: W
   moments:
@@ -41,6 +42,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1633
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-29
@@ -49,6 +51,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1585
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-13
@@ -57,6 +60,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1740
+  region: KR
   player: Cracker
   team: HLE
   uploaded: 2026-08-23
@@ -97,11 +101,26 @@
       label: Yasuo eliminates Naafiri
     - at: 28:04
       label: Mid Inhibitor falls (Red)
+- videoId: bQeWfwxkUEg
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Lissandra | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.14"
+  durationSec: 960
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-07-24
 - videoId: zDPForSWbfI
   title: G2 Caps Ahri vs Lissandra Mid - EUW Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1351
+  region: EUW
   player: Caps
   team: G2
   uploaded: 2026-04-10
+- videoId: y_pQZ0um3wU
+  title: Ahri Mid vs Lissandra - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1842
+  region: KR

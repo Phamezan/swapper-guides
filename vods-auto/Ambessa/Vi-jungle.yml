@@ -4,10 +4,18 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1666
+  region: KR
   uploaded: 2026-03-28
+- videoId: RWYTj8yMjUE
+  title: Ambessa Jungle vs Vi - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1498
+  region: KR
 - videoId: nYHbH2ZL0I0
   title: Ambessa vs Vi Jungle - KR Challenger - Patch 16.03 Season 16
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1921
+  region: KR
   uploaded: 2026-02-13

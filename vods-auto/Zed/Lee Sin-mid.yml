@@ -4,3 +4,57 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1815
+  region: KR
+  uploaded: 2026-06-10
+  result: W
+  moments:
+    - at: 6:10
+      label: First Blood — Diana kills Lee Sin
+      kind: kill
+    - at: 6:43
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:45
+      label: Diana picks off Lee Sin
+    - at: 10:07
+      label: Zed picks off Jayce
+    - at: 12:01
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:29
+      label: Zed takes down Rell
+    - at: 14:51
+      label: Zed picks off Jayce
+    - at: 17:41
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 18:36
+      label: Zed takes down Rell
+    - at: 20:17
+      label: Zed kills Mel
+      kind: kill
+    - at: 22:28
+      label: Miss Fortune picks off Rell
+    - at: 23:32
+      label: Red takes Baron
+      kind: baron
+    - at: 24:55
+      label: Zed takes down Sion
+    - at: 25:32
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 26:23
+      label: Diana kills Rell
+      kind: kill
+    - at: 27:18
+      label: Zed takes down Rell
+    - at: 27:27
+      label: Mid Inhibitor falls (Red)
+    - at: 29:02
+      label: Diana Double Kill
+      kind: kill
+- videoId: 4ozg59uKzTk
+  title: Zed Mid vs Lee Sin - TW Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 2050

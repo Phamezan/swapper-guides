@@ -7,3 +7,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-08-01
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 10:39
+      label: Mid game objectives
+    - at: 15:44
+      label: High-stakes team fights
+      kind: teamfight
+    - at: 21:58
+      label: Victory push

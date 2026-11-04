@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1816
+  region: KR
   uploaded: 2026-11-01
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1793
+  region: EUW
   player: Peng
   uploaded: 2026-10-14
   result: W
@@ -105,6 +107,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1684
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-12
@@ -113,6 +116,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1667
+  region: EUW
   player: JSK VAEII
   uploaded: 2026-10-03
   result: W
@@ -163,11 +167,18 @@
       kind: teamfight
     - at: 26:45
       label: Bot Inhibitor falls (Red)
+- videoId: vo3DOhbneOI
+  title: Ahri Mid vs Aurora - EUW Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1507
+  region: EUW
 - videoId: OyMnIQTOsPA
   title: (TOG Sajator) Ahri Mid vs Aurora - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1932
+  region: EUW
   player: TOG Sajator
   uploaded: 2026-09-12
   result: W
@@ -225,6 +236,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 2170
+  region: EUW
   patchEstimated: true
   player: Azzapp
   uploaded: 2026-08-13
@@ -233,6 +245,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1836
+  region: EUW
   patchEstimated: true
   player: Jankos
   uploaded: 2026-08-06
@@ -241,6 +254,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1905
+  region: EUW
   player: SHE Divine
   uploaded: 2026-08-02
   result: L
@@ -284,11 +298,40 @@
       kind: kill
     - at: 30:42
       label: Bot Inhibitor falls (Blue)
+- videoId: ZGEvESHsH1Q
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Aurora | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 1463
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-05-07
+- videoId: 0_VDPBn_8CU
+  title: Ahri Mid vs Aurora - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1579
+  region: KR
+- videoId: gMOsT2B2dE4
+  title: Ahri vs Aurora 9/3/10 (Mid) | EUW Challenger | Ahri OTP Replay
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1830
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-11
+- videoId: HttMgbJbW0I
+  title: Ahri Mid vs Aurora - KR Challenger Patch 26.06
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1579
+  region: KR
 - videoId: toQt-DuEN7E
   title: Ahri Mid vs Aurora - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1494
+  region: KR
 - videoId: y3rdOo2ZoGY
   title: HLE Zeka Ahri vs Aurora [ MID ] Korea Challenger 2118 LP | Patch 26.5
   rankClaim: Challenger
@@ -302,13 +345,21 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1498
+  region: KR
 - videoId: 315GmAKf9k0
   title: Ahri Mid vs Aurora - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1845
+  region: KR
 - videoId: khJiVubwuyE
   title: Ahri Mid vs Aurora - TW Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1552
+- videoId: 5-JTtxXvENI
+  title: Ahri vs Aurora Mid - KR Challenger - Patch 25.7 Season 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1801
+  region: KR

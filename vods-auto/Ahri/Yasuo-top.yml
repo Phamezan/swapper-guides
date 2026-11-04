@@ -68,3 +68,15 @@
       kind: teamfight
     - at: 26:56
       label: End credit
+- videoId: 2PBB_VGhEhw
+  title: Ahri Top vs Yasuo - NA Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1525
+  region: NA
+- videoId: ZRyYjBFZSuo
+  title: Ahri Top vs Yasuo - NA Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1726
+  region: NA

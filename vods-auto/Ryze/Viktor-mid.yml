@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1721
+  region: KR
   uploaded: 2026-09-04
 - videoId: z-Jf_Ua-mXA
   title: T1 Faker Ryze vs Viktor [ MID ] Korea Challenger 1832 LP | Patch 26.12
@@ -13,3 +14,10 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-06-12
+- videoId: LnwqsKMTWqc
+  title: Ryze Mid vs Viktor - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1752
+  region: KR

@@ -4,3 +4,86 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1693
+  region: EUNE
+  uploaded: 2026-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Take down The Turret
+      kind: tower
+    - at: 14:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Take down The Turret
+      kind: tower
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Take down The Turret
+      kind: tower
+    - at: 21:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Take down The Turret
+      kind: tower
+    - at: 24:27
+      label: Take down The Inhibitor
+    - at: 24:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:39
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:15
+      label: Take down The Turret
+      kind: tower
+    - at: 27:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:46
+      label: Take down The Turret
+      kind: tower
+    - at: 28:02
+      label: End credit
+- videoId: EOOxd5Qw1Vg
+  title: Zed Top vs Kayle - VN Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1833

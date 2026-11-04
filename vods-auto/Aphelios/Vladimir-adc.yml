@@ -7,3 +7,36 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-24
+  result: W
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 1:57
+      label: First skirmishes
+    - at: 2:53
+      label: Mid-game setup
+    - at: 4:57
+      label: Mid-game transitions
+    - at: 6:31
+      label: Objectives and combat
+    - at: 8:12
+      label: Momentum shift
+    - at: 8:52
+      label: Dominating team fights
+      kind: teamfight
+    - at: 9:42
+      label: Pressing the advantage
+    - at: 10:23
+      label: Securing control
+    - at: 12:00
+      label: Objective takedowns
+    - at: 12:52
+      label: Dragon and Rift Herald
+      kind: herald
+    - at: 13:13
+      label: Sieging the base
+    - at: 14:12
+      label: Inhibitor breakthrough
+    - at: 15:39
+      label: Final push

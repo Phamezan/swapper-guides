@@ -4,13 +4,24 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1426
+  region: KR
+  uploaded: 2026-06-10
 - videoId: nmHcS-QyaaU
   title: Lee Sin vs Rengar Jungle - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1581
+  region: KR
+  uploaded: 2026-05-15
 - videoId: IFaZ5cHELqE
   title: Lee Sin vs Rengar Jungle - KR CHallenger - Patch 16.4 Season 16
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1996
+  region: KR
+- videoId: qCSE9UKZw60
+  title: Lee Sin Jungle vs Rengar - KR Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1773
+  region: KR

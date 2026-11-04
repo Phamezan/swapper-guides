@@ -7,14 +7,29 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-05-18
 - videoId: 32IiqbhqDqI
   title: Smolder vs Aphelios ADC - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1921
+  region: KR
+  uploaded: 2026-05-14
 - videoId: ZAFiywjeLQg
   title: Smolder vs Aphelios [ ADC ] Lol Korea Master Patch 26.5 ✅
   rankClaim: Master
   patch: "26.5"
   durationSec: 1663
+  region: KR
+- videoId: bR4GSZFyXWA
+  title: Smolder ADC vs Aphelios - KR Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1802
+  region: KR
+- videoId: jzfs_QyJeqA
+  title: Smolder ADC vs Aphelios - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1543
   region: KR

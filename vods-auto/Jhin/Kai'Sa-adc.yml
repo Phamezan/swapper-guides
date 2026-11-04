@@ -8,6 +8,60 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-10-28
+- videoId: vS7_-tU7Tqw
+  title: (BLGJ chesterbb) Jhin ADC vs Kai'Sa - KR Challenger Patch 26.20
+  rankClaim: Challenger
+  patch: "26.20"
+  durationSec: 1579
+  region: KR
+  player: BLGJ chesterbb
+  uploaded: 2026-10-21
+  result: W
+  moments:
+    - at: 0:04
+      label: First Blood — Jhin kills Nautilus
+      kind: kill
+    - at: 4:59
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:35
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:55
+      label: Jhin outduels Kai'Sa
+    - at: 13:58
+      label: Jhin Double Kill
+      kind: kill
+    - at: 16:02
+      label: Jhin eliminates Talon
+    - at: 16:33
+      label: Vel'Koz picks off Kai'Sa
+    - at: 17:00
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:44
+      label: Pyke picks off Kai'Sa
+    - at: 19:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 19:59
+      label: Pyke Double Kill
+      kind: kill
+    - at: 21:42
+      label: Jhin eliminates Talon
+    - at: 22:22
+      label: Jhin picks off Olaf
+    - at: 22:25
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:08
+      label: Jhin eliminates Talon
+    - at: 24:55
+      label: Cho'Gath eliminates Kai'Sa
+    - at: 25:36
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:44
+      label: Jhin takes down Kai'Sa
 - videoId: 2X_uBmWIxmE
   title: HLE Gumayusi Jhin vs Kai'Sa [ ADC ] Korea Challenger 2356 LP | Patch 26.20
   rankClaim: Challenger
@@ -17,11 +71,125 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-10-16
-- videoId: JqqDI6aPwsw
-  title: Jhin vs Kai'Sa ADC - KR Grandmaster - Patch 16.07 Season 16
+- videoId: 57eQWsSCPVQ
+  title: Jhin ADC vs Kai'Sa - KR Grandmaster Patch 26.20
   rankClaim: Grandmaster
-  patch: "26.7"
-  durationSec: 1711
+  patch: "26.20"
+  durationSec: 1770
+  region: KR
+  uploaded: 2026-10-10
+  result: W
+  moments:
+    - at: 0:12
+      label: First Blood — Jhin kills Kai'Sa
+      kind: kill
+    - at: 6:48
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:06
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:15
+      label: Renekton picks off Kai'Sa
+    - at: 17:43
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:06
+      label: Talon kills Kai'Sa
+      kind: kill
+    - at: 18:55
+      label: Jhin kills Lissandra
+      kind: kill
+    - at: 20:31
+      label: Zyra picks off Lissandra
+    - at: 21:07
+      label: Jhin outduels Kai'Sa
+    - at: 21:10
+      label: Red takes Baron
+      kind: baron
+    - at: 21:52
+      label: Zyra takes down Qiyana
+    - at: 23:01
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:04
+      label: Jhin Double Kill
+      kind: kill
+    - at: 28:18
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 28:40
+      label: Jhin Double Kill
+      kind: kill
+    - at: 28:47
+      label: Jhin Triple Kill
+      kind: kill
+    - at: 29:08
+      label: Mid Inhibitor falls (Blue)
+- videoId: 8T9g790OdGQ
+  title: (Angel) Jhin ADC vs Kai'Sa (NIP Guwon) - KR Challenger Patch 26.19
+  rankClaim: Challenger
+  patch: "26.19"
+  durationSec: 1486
+  region: KR
+  player: Angel
+  uploaded: 2026-10-06
+  result: W
+  moments:
+    - at: 1:36
+      label: First Blood — Jhin kills Kai'Sa
+      kind: kill
+    - at: 5:42
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 6:54
+      label: Jhin outduels Kai'Sa
+    - at: 10:06
+      label: Jhin takes down Kai'Sa
+    - at: 11:28
+      label: Taliyah Double Kill
+      kind: kill
+    - at: 11:58
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 13:00
+      label: Lee Sin eliminates Kai'Sa
+    - at: 17:27
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 17:59
+      label: Taliyah Double Kill
+      kind: kill
+    - at: 20:21
+      label: Lee Sin picks off Sylas
+    - at: 20:56
+      label: Taliyah takes down Camille
+    - at: 21:17
+      label: Jhin eliminates Qiyana
+    - at: 21:41
+      label: Red takes Baron
+      kind: baron
+    - at: 22:57
+      label: Jhin picks off Camille
+    - at: 23:40
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:17
+      label: Jhin eliminates Qiyana
+    - at: 24:21
+      label: Jhin Triple Kill
+      kind: kill
+- videoId: byT2iAhDmLg
+  title: (JDG GALA) Jhin ADC vs Kai'Sa - KR Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1829
+  region: KR
+  player: GALA
+  team: JDG
 - videoId: MNj_vqrW4Vs
   title: HLE Gumayusi Jhin vs T1 Peyz Kai'Sa [ ADC ] Korea Challenger 2350 LP | Patch 26.7
   rankClaim: Challenger
@@ -30,3 +198,71 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-06
+- videoId: JqqDI6aPwsw
+  title: Jhin vs Kai'Sa ADC - KR Grandmaster - Patch 16.07 Season 16
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 1711
+  region: KR
+  uploaded: 2026-04-05
+- videoId: QDKp6bWM26o
+  title: Jhin ADC vs Kai'Sa - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1830
+  region: KR
+- videoId: H-zedSyWUwA
+  title: Jhin ADC vs Kai'Sa - KR Challenger Patch 26.02
+  rankClaim: Challenger
+  patch: "26.2"
+  durationSec: 1510
+  region: KR
+- videoId: H4oYjMimXVM
+  title: Jhin vs Kai'Sa ADC - KR Challenger - Patch 25.22 Season 15
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 2161
+  region: KR
+- videoId: l1MR3qPhHaA
+  title: Jhin vs Kai'Sa ADC - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1876
+  region: KR
+- videoId: VFOe-xhRBNk
+  title: Jhin vs Kai'Sa ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1606
+  region: KR
+- videoId: WYHn3en-Jwk
+  title: Jhin vs Kaisa ADC [ JDG Peyz ] Patch 25.13 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1513
+  region: KR
+  player: Peyz
+  team: JDG
+- videoId: mrKoYu32R6I
+  title: T1 Gumayusi Jhin ADC vs Kaisa - Patch 25.9 Korea Master
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1049
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: BWHEU_U4CG8
+  title: Jhin ADC vs Kai'Sa - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1698
+  region: KR
+- videoId: pOb7B7j-9m4
+  title: T1 Gumayusi Jhin ADC vs Kaisa - Patch 25.6 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1120
+  region: KR
+  player: Gumayusi
+  team: T1

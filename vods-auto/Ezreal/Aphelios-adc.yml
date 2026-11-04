@@ -7,6 +7,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-06-29
 - videoId: FPXb_zNduoE
   title: Ezreal vs Aphelios ADC [ Gen.G Ruler ] Korea Master Patch 26.2 ✅
   rankClaim: Master
@@ -23,3 +24,34 @@
   region: KR
   player: Viper
   team: BLG
+- videoId: cLdUJlGiTzk
+  title: Ezreal ADC vs Aphelios - VN Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1621
+- videoId: 7NREIm5dcO8
+  title: T1 Gumayusi Ezreal ADC vs Aphelios - Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1426
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: pHE9EVs0860
+  title: Ezreal vs Aphelios ADC - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1546
+  region: KR
+- videoId: dO-U7xCesjw
+  title: Ezreal vs Aphelios ADC - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1561
+  region: KR
+- videoId: nMJ2K_F23Ak
+  title: Ezreal vs Aphelios ADC - KR Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1830
+  region: KR

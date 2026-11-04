@@ -8,8 +8,24 @@
   player: Canyon
   team: Gen.G
   uploaded: 2026-09-17
+- videoId: nuS3Ens-O60
+  title: (KHK Rabble) Nidalee Jungle vs Jarvan IV (Agurin) - EUW Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1569
+  region: EUW
+  player: Agurin
+- videoId: bxXM6Zj5VJQ
+  title: (RNG Tangyuan) Nidalee Jungle vs Jarvan IV - KR Grandmaster Patch 26.13
+  rankClaim: Grandmaster
+  patch: "26.13"
+  durationSec: 1473
+  region: KR
+  player: Tangyuan
 - videoId: khxRT6h03io
   title: Nidalee vs Jarvan IV Jungle - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1831
+  region: KR
+  uploaded: 2026-03-28

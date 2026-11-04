@@ -4,16 +4,19 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1261
+  region: KR
   uploaded: 2026-08-24
+- videoId: s96LAT92SMc
+  title: Locke vs Zed Mid - EUW Grandmaster - Patch 16.13 Season 16
+  rankClaim: Grandmaster
+  patch: "26.13"
+  durationSec: 1956
+  region: EUW
+  uploaded: 2026-07-07
 - videoId: TSvB9-oaeus
   title: Locke vs Zed [ MID ] Lol Korea Grandmaster Patch 26.13 ✅
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1289
   region: KR
-- videoId: s96LAT92SMc
-  title: Locke vs Zed Mid - EUW Grandmaster - Patch 16.13 Season 16
-  rankClaim: Grandmaster
-  patch: "26.13"
-  durationSec: 1956
-  uploaded: 2026-07-07
+  uploaded: 2026-07-03

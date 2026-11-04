@@ -8,6 +8,19 @@
   player: Faker
   team: T1
   uploaded: 2026-10-23
+- videoId: 0RZ-9r45lAM
+  title: (T1 Guti) Orianna Mid vs Syndra (LNG MISSING) - KR Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1642
+  region: KR
+  player: Guti
+  team: T1
+- videoId: PhOInBk0HEc
+  title: Orianna Mid vs Syndra - VN Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1836
 - videoId: v04RJFqMb7Y
   title: T1 Faker Orianna vs Syndra [ MID ] Korea Master Patch 26.3
   rankClaim: Master
@@ -16,3 +29,15 @@
   region: KR
   player: Faker
   team: T1
+- videoId: TkVKhnt0nTY
+  title: Orianna Mid vs Syndra - KR Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1789
+  region: KR
+- videoId: 2CB6LaX5kc8
+  title: Orianna Mid vs Syndra - KR Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1887
+  region: KR

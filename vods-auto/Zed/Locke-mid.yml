@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1866
+  region: KR
   uploaded: 2026-10-31
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1679
+  region: KR
   uploaded: 2026-10-09
   result: W
   moments:
@@ -113,6 +115,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1584
+  region: KR
   uploaded: 2026-09-30
   result: W
   moments:
@@ -166,6 +169,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1917
+  region: KR
   uploaded: 2026-09-21
   result: W
   moments:
@@ -220,6 +224,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1583
+  region: KR
   uploaded: 2026-09-13
   result: W
   moments:
@@ -267,6 +272,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1411
+  region: EUW
   uploaded: 2026-09-13
   result: W
   moments:
@@ -318,6 +324,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1567
+  region: EUW
   uploaded: 2026-09-03
   result: W
   moments:
@@ -365,6 +372,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1514
+  region: KR
   uploaded: 2026-08-21
   result: L
   moments:

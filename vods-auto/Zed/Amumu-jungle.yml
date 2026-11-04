@@ -4,8 +4,76 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1646
+  region: EUW
+  uploaded: 2026-06-26
+  result: L
+  moments:
+    - at: 2:18
+      label: First Blood — Zed kills Rell
+      kind: kill
+    - at: 5:23
+      label: Zed solo kills LeBlanc
+      kind: kill
+    - at: 5:28
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:38
+      label: Zed kills Rell
+      kind: kill
+    - at: 9:10
+      label: Zed takes down LeBlanc again
+    - at: 9:47
+      label: Zed outduels Gangplank
+    - at: 11:09
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 11:34
+      label: Zed outplays Gangplank again
+    - at: 12:22
+      label: Aatrox kills Amumu
+      kind: kill
+    - at: 15:21
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:43
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 19:56
+      label: Zed takes down Senna
+    - at: 22:11
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:56
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 24:24
+      label: Red takes Baron
+      kind: baron
+    - at: 26:48
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:59
+      label: Zed eliminates Senna
+    - at: 27:03
+      label: Zed Triple Kill
+      kind: kill
 - videoId: Qy1m7KT8cAA
   title: Zed Jungle vs Amumu - NA Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1488
+  region: NA
+- videoId: mcnMRz4W13g
+  title: Zed Jungle vs Amumu - VN Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 2088
+- videoId: YI5U3-OMVFU
+  title: Zed Jungle vs Amumu - BR Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1901
+- videoId: n0afAlWvJtc
+  title: Zed Jungle vs Amumu - VN Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1841

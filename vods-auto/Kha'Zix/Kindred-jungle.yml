@@ -4,3 +4,35 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1791
+  region: EUW
+  uploaded: 2026-05-17
+- videoId: Pwi4jZuFYIQ
+  title: Kha'Zix Jungle vs Kindred - KR Challenger Patch 26.07
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1791
+  region: KR
+- videoId: virWktawHPI
+  title: Kha'Zix Jungle vs Kindred - EUW Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 2049
+  region: EUW
+- videoId: 8kiu9lFEF3s
+  title: Kha'Zix Jungle vs Kindred - KR Grandmaster Patch 25.13
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1586
+  region: KR
+- videoId: 39uY7FeUIMk
+  title: Kha'Zix Jungle vs Kindred - EUW Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1512
+  region: EUW
+- videoId: mcLE-7DAwf0
+  title: Kha'Zix Jungle vs Kindred - KR Master Patch 25.05
+  rankClaim: Master
+  patch: "25.5"
+  durationSec: 2117
+  region: KR

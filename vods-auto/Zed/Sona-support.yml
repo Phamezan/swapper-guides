@@ -4,3 +4,48 @@
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1806
+  region: KR
+  uploaded: 2026-04-21
+  result: L
+  moments:
+    - at: 3:45
+      label: First Blood — Lucian kills Cassiopeia
+      kind: kill
+    - at: 5:41
+      label: Zed picks off Cassiopeia
+    - at: 6:58
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:57
+      label: Xin Zhao Triple Kill
+      kind: kill
+    - at: 12:47
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 13:05
+      label: Lucian takes down Cassiopeia
+    - at: 15:26
+      label: Zed picks off Cassiopeia
+    - at: 18:35
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:07
+      label: Xin Zhao picks off Katarina
+    - at: 22:03
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:17
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:29
+      label: Xin Zhao takes down Lee Sin
+    - at: 25:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:41
+      label: Xin Zhao takes down Lee Sin
+    - at: 29:05
+      label: Mid Inhibitor falls (Blue)

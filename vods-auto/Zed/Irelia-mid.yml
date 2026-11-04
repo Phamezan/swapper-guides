@@ -4,7 +4,8 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1802
-  player: BZ
+  region: EUW
+  player: Thebausffs
   uploaded: 2026-10-22
   result: W
   moments:
@@ -51,11 +52,65 @@
       kind: kill
     - at: 29:41
       label: Mid Inhibitor falls (Red)
+- videoId: 3C8kJIog_K4
+  title: Zed Mid vs Irelia - KR Master Patch 26.20
+  rankClaim: Master
+  patch: "26.20"
+  durationSec: 1671
+  region: KR
+  uploaded: 2026-10-14
+  result: W
+  moments:
+    - at: 8:10
+      label: First Blood — Zed kills Irelia
+      kind: kill
+    - at: 8:19
+      label: Sylas takes down Ekko
+    - at: 10:01
+      label: Zed picks off Ekko
+    - at: 10:32
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:15
+      label: Zed kills Caitlyn
+      kind: kill
+    - at: 14:52
+      label: Zed takes down K'Sante
+    - at: 15:48
+      label: Jax takes down Irelia
+    - at: 16:22
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:36
+      label: Yunara Double Kill
+      kind: kill
+    - at: 21:57
+      label: Zed takes down K'Sante
+    - at: 22:23
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:31
+      label: Zed takes down K'Sante
+    - at: 23:58
+      label: Red takes Baron
+      kind: baron
+    - at: 25:55
+      label: Zed takes down Neeko
+    - at: 27:19
+      label: Yunara Double Kill
+      kind: kill
+    - at: 27:22
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 27:26
+      label: Yunara Quadra Kill
+      kind: kill
 - videoId: a7HxYQlnc1w
   title: Zed Mid vs Irelia (danzA) - EUW Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1945
+  region: EUW
   uploaded: 2026-09-19
   result: W
   moments:
@@ -108,6 +163,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1778
+  region: KR
   uploaded: 2026-08-25
   result: W
   moments:
@@ -159,6 +215,7 @@
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1767
+  region: EUW
   player: AdyTheKid
   uploaded: 2026-07-28
   result: L
@@ -214,6 +271,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1487
+  region: EUW
   player: Wantage
   uploaded: 2026-07-05
   result: L
@@ -260,3 +318,17 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1604
+  region: KR
+- videoId: O6buEieuMe0
+  title: OnZed Zed vs Irelia Mid - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1801
+  region: KR
+  player: OnZed
+- videoId: _1HYrxEj4GU
+  title: Zed vs Irelia [ MID ] Lol Korea Challenger Patch 25.12 ✅
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1531
+  region: KR

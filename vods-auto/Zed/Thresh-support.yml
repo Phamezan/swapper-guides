@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1663
+  region: KR
   uploaded: 2026-07-12
   result: L
   moments:
@@ -56,13 +57,71 @@
   rankClaim: Master
   patch: "26.7"
   durationSec: 1671
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:42
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:11
+      label: Take down The Turret
+      kind: tower
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:40
+      label: End credit
 - videoId: ZjxRGpfhIb8
   title: Zed Support vs Thresh - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1751
+  region: KR
 - videoId: l3ASpUqbakE
   title: Zed Support vs Thresh - EUW Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1568
+  region: EUW
+- videoId: 1HF5iMeOMSM
+  title: Zed Support vs Thresh - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1806
+  region: KR
+- videoId: JJ4EYYAQMyk
+  title: Zed Support vs Thresh - VN Master Patch 25.11
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1864

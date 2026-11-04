@@ -4,5 +4,18 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 2220
+  region: NA
   player: Doran
   uploaded: 2026-11-02
+- videoId: Voz2t0pcYko
+  title: Kled Top vs Gragas - KR Grandmaster Patch 26.09
+  rankClaim: Grandmaster
+  patch: "26.9"
+  durationSec: 1671
+  region: KR
+- videoId: 49VMGYloqvI
+  title: Kled Top vs Gragas - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1566
+  region: KR

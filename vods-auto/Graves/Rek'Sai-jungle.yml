@@ -4,3 +4,17 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 2491
+  region: KR
+  uploaded: 2026-04-06
+- videoId: IvehKb4gfG0
+  title: Graves vs Rek'Sai Jungle - EUW Grandmaster - Patch 15.20 Season 15
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1891
+  region: EUW
+- videoId: EverHqWv77U
+  title: Graves Jungle vs Rek'Sai - NA Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1725
+  region: NA

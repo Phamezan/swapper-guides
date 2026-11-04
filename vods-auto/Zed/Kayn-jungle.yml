@@ -4,14 +4,117 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1516
+  region: EUW
+  uploaded: 2026-05-26
+  result: L
+  moments:
+    - at: 3:18
+      label: First Blood — Zed kills Darius
+      kind: kill
+    - at: 7:51
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:58
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:03
+      label: Zed outplays Kayn
+    - at: 16:37
+      label: Sylas eliminates Ahri
+    - at: 16:59
+      label: Zed solo kills Kayn again
+      kind: kill
+    - at: 17:09
+      label: Zed kills Karma
+      kind: kill
+    - at: 17:48
+      label: Zed picks off Ahri
+    - at: 18:27
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:24
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:42
+      label: Zed takes down Senna
+    - at: 20:48
+      label: Tahm Kench eliminates Karma
+    - at: 21:20
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:10
+      label: Zed kills Karma
+      kind: kill
+    - at: 22:35
+      label: Red takes Baron
+      kind: baron
+    - at: 23:17
+      label: Zed kills Darius
+      kind: kill
+    - at: 24:18
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:31
+      label: Zed takes down Kayn
 - videoId: wHnsIR5Bvy0
   title: Zed Jungle vs Kayn - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1853
+  region: EUW
+  uploaded: 2026-05-13
+  result: L
+  moments:
+    - at: 2:25
+      label: First Blood — Lux kills Kayn
+      kind: kill
+    - at: 5:59
+      label: Zed solo kills Zoe
+      kind: kill
+    - at: 9:16
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:40
+      label: Zed takes down Kayn
+    - at: 15:04
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 18:12
+      label: Zeri picks off Bard
+    - at: 19:36
+      label: Zed kills Bard
+      kind: kill
+    - at: 20:11
+      label: Zed picks off Zoe
+    - at: 20:32
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:37
+      label: Zed eliminates Ezreal
+    - at: 23:08
+      label: Zed kills Bard
+      kind: kill
+    - at: 24:39
+      label: Zed kills Bard
+      kind: kill
+    - at: 25:41
+      label: Zed kills Bard
+      kind: kill
+    - at: 26:12
+      label: Zed eliminates Ezreal
+    - at: 27:59
+      label: Zed picks off Zoe
+    - at: 29:45
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:25
+      label: Mid Inhibitor falls (Blue)
 - videoId: tOBdKBgqdMs
   title: Zed vs Kayn [ Jungle ] Lol Korea Master Patch 26.4 ✅
   rankClaim: Master
   patch: "26.4"
   durationSec: 2048
   region: KR
+- videoId: OfjARxV0LQs
+  title: Zed Jungle vs Kayn - TW Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1574

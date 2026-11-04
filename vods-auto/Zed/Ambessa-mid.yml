@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1886
+  region: KR
+- videoId: eXpF4Z4YDlE
+  title: Zed vs Ambessa Mid - NA Challenger - Patch 25.17 Season 15
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1921
+  region: NA

@@ -4,3 +4,53 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1655
+  region: KR
+  uploaded: 2026-06-17
+  result: L
+  moments:
+    - at: 1:10
+      label: First Blood — Lucian kills Camille
+      kind: kill
+    - at: 6:46
+      label: Zed solo kills Camille
+      kind: kill
+    - at: 9:50
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:25
+      label: Zed takes down Camille again
+    - at: 15:36
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:48
+      label: Akali Triple Kill
+      kind: kill
+    - at: 19:02
+      label: Jax picks off Kalista
+    - at: 20:07
+      label: Lucian picks off Camille
+    - at: 20:57
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 21:57
+      label: Red takes Baron
+      kind: baron
+    - at: 22:41
+      label: Akali picks off Lee Sin
+    - at: 24:28
+      label: Lucian picks off Camille
+    - at: 24:51
+      label: Skarner kills Vayne
+      kind: kill
+    - at: 25:17
+      label: Akali Double Kill
+      kind: kill
+    - at: 25:34
+      label: Top Inhibitor falls (Blue)
+    - at: 26:04
+      label: Zed catches Lee Sin
+    - at: 26:32
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 27:03
+      label: Bot Inhibitor falls (Blue)

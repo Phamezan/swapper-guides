@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1475
+  region: KR
   uploaded: 2026-08-26
   result: L
   moments:
@@ -49,3 +50,20 @@
       label: Top Inhibitor falls (Blue)
     - at: 24:14
       label: Bot Inhibitor falls (Blue)
+- videoId: Ji3vxgR5llA
+  title: Zed Mid vs Cho'Gath - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1711
+  region: EUW
+- videoId: 0DVLyqhYMOE
+  title: Zed Mid vs Cho'Gath - VN Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1949
+- videoId: arhO8lUD-do
+  title: Zed Mid vs Cho'Gath - NA Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1913
+  region: NA

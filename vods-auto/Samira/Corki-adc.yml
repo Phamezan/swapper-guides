@@ -4,4 +4,23 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1211
+  region: KR
   uploaded: 2026-09-30
+- videoId: 5iaZ5K8eDU0
+  title: Samira ADC vs Corki (OTF Shakur) - EUW Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1400
+  region: EUW
+- videoId: pVssB_zmuXA
+  title: Samira ADC vs Corki - EUW Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1708
+  region: EUW
+- videoId: MJ3UMhI4120
+  title: Samira ADC vs Corki - KR Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1603
+  region: KR

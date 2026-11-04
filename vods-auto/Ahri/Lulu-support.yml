@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1791
+  region: EUW
   uploaded: 2026-08-13
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1674
+  region: KR
   uploaded: 2026-07-12
   result: W
   moments:
@@ -107,6 +109,7 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1632
+  region: KR
   uploaded: 2026-04-25
   result: W
   moments:
@@ -201,3 +204,26 @@
       kind: teamfight
     - at: 25:34
       label: End credit
+- videoId: _6rBYAA0-KY
+  title: Ahri Support vs Lulu - VN Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1727
+- videoId: w6MPjabHKeM
+  title: Ahri Support vs Lulu - NA Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1490
+  region: NA
+- videoId: Gp1TvFFr4nQ
+  title: Ahri Support vs Lulu - KR Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1972
+  region: KR
+- videoId: quouJWlfcWI
+  title: Ahri Support vs Lulu - NA Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1898
+  region: NA

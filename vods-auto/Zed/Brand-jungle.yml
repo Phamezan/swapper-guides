@@ -4,8 +4,104 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1548
+  region: EUW
+  uploaded: 2026-05-28
+  result: L
+  moments:
+    - at: 2:31
+      label: First Blood — Ahri kills Brand
+      kind: kill
+    - at: 4:51
+      label: Zed takes down Brand
+    - at: 5:36
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:05
+      label: Zed kills Leona
+      kind: kill
+    - at: 7:52
+      label: Zed picks off Annie
+    - at: 8:16
+      label: Zed takes down Brand
+    - at: 10:01
+      label: Ahri eliminates Annie
+    - at: 10:57
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 16:26
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 16:30
+      label: Karma kills Brand
+      kind: kill
+    - at: 18:04
+      label: Zed picks off Annie
+    - at: 19:54
+      label: Karma picks off Kai'Sa
+    - at: 21:21
+      label: Ahri eliminates Annie
+    - at: 21:39
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 22:14
+      label: Red takes Baron
+      kind: baron
+    - at: 24:24
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:50
+      label: Mid Inhibitor falls (Blue)
 - videoId: 3Or57mUOUws
   title: Zed Jungle vs Brand - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1878
+  region: EUW
+  uploaded: 2026-05-06
+  result: W
+  moments:
+    - at: 4:19
+      label: First Blood — Zed kills Zeri
+      kind: kill
+    - at: 9:16
+      label: Zed solo kills Orianna
+      kind: kill
+    - at: 13:49
+      label: Zed outplays Brand
+    - at: 14:25
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:33
+      label: Zed outduels Gnar
+    - at: 19:43
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 24:04
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:53
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 25:03
+      label: Zed catches Nami
+    - at: 25:20
+      label: Zed takes down Orianna again
+    - at: 25:23
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:01
+      label: Mid Inhibitor falls (Red)
+    - at: 26:41
+      label: Zed takes down Zeri
+    - at: 26:44
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:23
+      label: Top Inhibitor falls (Red)
+    - at: 30:04
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 30:23
+      label: Zed picks off Orianna
+    - at: 31:08
+      label: Bot Inhibitor falls (Red)

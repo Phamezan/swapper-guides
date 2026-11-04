@@ -4,18 +4,129 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1708
+  region: EUW
+  uploaded: 2026-05-10
+  result: W
+  moments:
+    - at: 2:16
+      label: First Blood — Zed kills Smolder
+      kind: kill
+    - at: 6:04
+      label: Zed picks off Zoe
+    - at: 7:32
+      label: Zed picks off Zoe
+    - at: 10:02
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:48
+      label: Zed catches Soraka
+    - at: 14:38
+      label: Taliyah eliminates Zoe
+    - at: 15:15
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:03
+      label: Zed takes down Smolder
+    - at: 19:59
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:19
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 23:29
+      label: Zed Double Kill
+      kind: kill
+    - at: 25:07
+      label: Zed outduels Soraka again
+    - at: 25:25
+      label: Riven Double Kill
+      kind: kill
+    - at: 26:07
+      label: Mid Inhibitor falls (Red)
+    - at: 26:30
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 27:08
+      label: Zed takes down Dr. Mundo
+    - at: 27:36
+      label: Bot Inhibitor falls (Red)
+    - at: 27:51
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: aE5nsWENf7k
   title: Zed Jungle vs Dr. Mundo - NA Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1466
+  region: NA
+  uploaded: 2026-04-27
+  result: L
+  moments:
+    - at: 2:45
+      label: First Blood — Zed kills Dr. Mundo
+      kind: kill
+    - at: 6:30
+      label: Zed kills Darius
+      kind: kill
+    - at: 9:41
+      label: Jayce eliminates Darius
+    - at: 10:34
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:39
+      label: Zed kills Darius
+      kind: kill
+    - at: 12:30
+      label: Zed takes down Dr. Mundo
+    - at: 14:18
+      label: Draven picks off Darius
+    - at: 15:21
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 15:57
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 16:39
+      label: Zed takes down Twitch
+    - at: 16:45
+      label: Thresh takes down Viktor
+    - at: 18:10
+      label: Zed eliminates Twitch
+    - at: 19:29
+      label: Zed catches Twitch again
+    - at: 20:43
+      label: Top Inhibitor falls (Blue)
+    - at: 21:22
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:16
+      label: Red takes Baron
+      kind: baron
+    - at: 23:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:53
+      label: Bot Inhibitor falls (Blue)
 - videoId: 8j0TVznFhVU
   title: Zed Jungle vs Dr. Mundo - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1614
+  region: EUW
 - videoId: DNHsvztm5bU
   title: Zed Jungle vs Dr. Mundo - EUW Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1530
+  region: EUW
+- videoId: _j_1YmrsGoc
+  title: Zed Jungle vs Dr. Mundo - NA Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1576
+  region: NA
+- videoId: o-6yy0yL2-4
+  title: Zed Jungle vs Dr. Mundo - VN Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1710

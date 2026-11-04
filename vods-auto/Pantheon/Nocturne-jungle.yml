@@ -4,3 +4,17 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1651
+  region: KR
+  uploaded: 2026-04-01
+- videoId: 3MRQryr7aRQ
+  title: Pantheon vs Nocturne Jungle - EUW Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1546
+  region: EUW
+- videoId: wt7V4GNqwx4
+  title: Pantheon vs Nocturne Jungle - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1891
+  region: KR

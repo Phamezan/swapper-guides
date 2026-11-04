@@ -7,8 +7,42 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-06-27
+- videoId: RgxwNTbQJ2I
+  title: (ZYB Wao) Fizz Mid vs Twisted Fate - EUW Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1568
+  region: EUW
+  player: ZYB Wao
 - videoId: UCVmCSUquVU
   title: Fizz vs Twisted Fate  Mid - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1636
+  region: KR
+  uploaded: 2026-04-19
+- videoId: 0R1eU7Yx5tA
+  title: Fizz Mid vs Twisted Fate - KR Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1591
+  region: KR
+- videoId: itIF9H0nm3w
+  title: Fizz Mid vs Twisted Fate - KR Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 2075
+  region: KR
+- videoId: hIEgxPx-k6c
+  title: Fizz Mid vs Twisted Fate - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 2029
+  region: KR
+- videoId: zU-NpXnMFDU
+  title: Fizz Mid vs Twisted Fate - KR Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 2096
+  region: KR

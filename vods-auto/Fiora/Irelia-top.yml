@@ -4,8 +4,17 @@
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 2031
+  region: KR
+  uploaded: 2026-05-20
 - videoId: HADhVUZNtpA
   title: Fiora vs Irelia Top - KR Master - Patch 26.01 Season 16
   rankClaim: Master
   patch: "26.1"
   durationSec: 1261
+  region: KR
+- videoId: 3O8niEIn42A
+  title: Fiora Top vs Irelia - EUW Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1894
+  region: EUW

@@ -16,9 +16,22 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-07-06
 - videoId: 3nFClJaKcEI
   title: Qiyana vs Hecarim [ Jungle ] Lol Korea Grandmaster Patch 26.4 ✅
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1526
   region: KR
+- videoId: OcGR_68LpfQ
+  title: Qiyana Jungle vs Hecarim - KR Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1815
+  region: KR
+- videoId: j8CtINchkoY
+  title: Qiyana vs Hercarim Jungle - EUW Grandmaster - Patch 25.18 Season 15
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1451
+  region: EUW

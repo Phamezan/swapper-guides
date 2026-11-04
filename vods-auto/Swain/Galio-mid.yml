@@ -4,3 +4,20 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1861
+  region: KR
+  uploaded: 2026-03-31
+- videoId: SaNprYPrkW4
+  title: Showmaker Swain vs Galio Mid - KR Challenger - Patch 25.17 Season 15
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1666
+  region: KR
+  player: ShowMaker
+- videoId: toH_1GOU5kM
+  title: "DK ShowMaker Swain vs Galio [ MID ] Rank #5 Korea Challenger | Patch 25.17"
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1473
+  region: KR
+  player: ShowMaker
+  team: DK

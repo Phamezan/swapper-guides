@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1786
+  region: EUW
   player: Peng
   uploaded: 2026-10-25
   result: W
@@ -59,6 +60,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1620
+  region: EUW
   uploaded: 2026-10-17
   result: W
   moments:
@@ -111,6 +113,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 2109
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-16
@@ -119,6 +122,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1669
+  region: EUW
   uploaded: 2026-10-05
   result: W
   moments:
@@ -168,3 +172,15 @@
     - at: 27:31
       label: Ahri Double Kill
       kind: kill
+- videoId: GcA8Kz8EhKc
+  title: Ahri Mid vs Annie - KR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1759
+  region: KR
+- videoId: pyXxDO2NzZ8
+  title: Ahri vs Annie Mid - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1571
+  region: KR

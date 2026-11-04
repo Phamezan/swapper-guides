@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1751
+  region: EUW
   uploaded: 2026-09-12
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1457
+  region: EUW
   player: IN5 Alix
   uploaded: 2026-07-15
   result: W
@@ -105,3 +107,9 @@
       label: Mid Inhibitor falls (Red)
     - at: 23:34
       label: Zed takes down Pyke
+- videoId: x21DjpF-ACM
+  title: Zed Mid vs Vayne - NA Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1766
+  region: NA

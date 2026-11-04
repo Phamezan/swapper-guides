@@ -4,4 +4,17 @@
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1876
+  region: EUW
   uploaded: 2026-05-12
+- videoId: RBZWwx1IJ-w
+  title: Caitlyn vs Smolder ADC - KR Master - Patch 25.12 Season 15
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1366
+  region: KR
+- videoId: MKtplK0uvI4
+  title: Caitlyn vs Smolder ADC - KR Master - Patch 25.10 Season 15
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1591
+  region: KR

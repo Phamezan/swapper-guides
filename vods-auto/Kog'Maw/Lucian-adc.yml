@@ -5,3 +5,16 @@
   patch: "26.9"
   durationSec: 1689
   region: KR
+  uploaded: 2026-05-04
+- videoId: 8b9WtIomJJI
+  title: Kog'Maw ADC vs Lucian - EUW Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 2135
+  region: EUW
+- videoId: 95opBUZGSsE
+  title: Kog'Maw ADC vs Lucian - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1746
+  region: KR

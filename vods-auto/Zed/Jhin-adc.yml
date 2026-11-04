@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1783
+  region: KR
   uploaded: 2026-08-06
   result: L
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1880
+  region: KR
   uploaded: 2026-07-07
   result: L
   moments:
@@ -114,38 +116,331 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1840
+  region: NA
+  uploaded: 2026-06-09
+  result: W
+  moments:
+    - at: 4:30
+      label: First Blood — Braum kills Jhin
+      kind: kill
+    - at: 5:48
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:35
+      label: Zed outduels Jhin
+    - at: 11:09
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:57
+      label: Zed takes down Rengar
+    - at: 16:39
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:58
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:22
+      label: Zed solo kills Jax
+      kind: kill
+    - at: 24:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:58
+      label: Lux Double Kill
+      kind: kill
+    - at: 26:30
+      label: Zed picks off Nautilus
+    - at: 26:45
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:09
+      label: Mid Inhibitor falls (Red)
+    - at: 27:19
+      label: Zed outplays Nautilus
+    - at: 28:31
+      label: Zed takes down Jax again
+    - at: 28:53
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 29:26
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: TnXFE4dfwo4
   title: Zed ADC vs Jhin - EUNE Grandmaster Patch 26.11
   rankClaim: Grandmaster
   patch: "26.11"
   durationSec: 1636
+  region: EUNE
+  uploaded: 2026-06-04
+  result: W
+  moments:
+    - at: 1:03
+      label: First Blood — Zed kills Ryze
+      kind: kill
+    - at: 4:54
+      label: Zed picks off Milio
+    - at: 9:07
+      label: LeBlanc takes down Milio
+    - at: 10:25
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:04
+      label: Zed outduels Jhin
+    - at: 12:48
+      label: Amumu eliminates Milio
+    - at: 14:55
+      label: Zed catches Ryze
+    - at: 15:45
+      label: Zed outplays Jhin again
+    - at: 17:14
+      label: LeBlanc picks off Bel'Veth
+    - at: 17:42
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:26
+      label: Zed takes down Jhin
+    - at: 20:55
+      label: Zed picks off Milio
+    - at: 21:56
+      label: Zed kills Ryze
+      kind: kill
+    - at: 22:38
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:53
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:28
+      label: Zed takes down Bel'Veth
+    - at: 26:31
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:58
+      label: Bot Inhibitor falls (Red)
 - videoId: HGfyzZ7zQRg
   title: Zed ADC vs Jhin - EUW Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1531
+  region: EUW
+  uploaded: 2026-04-23
+  result: L
+  moments:
+    - at: 1:16
+      label: First Blood — Renata Glasc kills Jhin
+      kind: kill
+    - at: 5:06
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:40
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:27
+      label: Zed outduels Jhin
+    - at: 15:59
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 16:07
+      label: Zed kills Jayce
+      kind: kill
+    - at: 17:14
+      label: Zed takes down Naafiri
+    - at: 18:22
+      label: Zed takes down Jhin
+    - at: 18:43
+      label: Kassadin Double Kill
+      kind: kill
+    - at: 21:31
+      label: Zed picks off Karma
+    - at: 21:34
+      label: Mid Inhibitor falls (Blue)
+    - at: 21:50
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:33
+      label: Zed outplays Jhin again
+    - at: 22:43
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 23:43
+      label: Red takes Baron
+      kind: baron
+    - at: 24:31
+      label: Zed kills Jayce
+      kind: kill
+    - at: 24:33
+      label: Top Inhibitor falls (Blue)
 - videoId: OdF__PYM6F4
   title: Zed ADC vs Jhin - VN Grandmaster Patch 26.07
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1665
+  uploaded: 2026-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:20
+      label: Take down The Turret
+      kind: tower
+    - at: 13:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:11
+      label: Take down The Turret
+      kind: tower
+    - at: 15:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:02
+      label: Take down The Turret
+      kind: tower
+    - at: 21:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:50
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:30
+      label: Take down The Turret
+      kind: tower
+    - at: 25:20
+      label: Take down The Turret
+      kind: tower
+    - at: 26:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:58
+      label: Take down The Inhibitor
+    - at: 27:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:34
+      label: End credit
 - videoId: jZM7uiV-0rg
   title: Zed ADC vs Jhin - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1883
+  region: KR
+  uploaded: 2026-04-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Take down The Turret
+      kind: tower
+    - at: 16:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Take down The Turret
+      kind: tower
+    - at: 22:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Take down The Turret
+      kind: tower
+    - at: 24:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Take down The Turret
+      kind: tower
+    - at: 28:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:09
+      label: Take down The Turret
+      kind: tower
+    - at: 29:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:12
+      label: End credit
 - videoId: 4CjtRasGeg0
   title: Zed ADC vs Jhin - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1719
+  region: KR
 - videoId: Rek0wJgcNLw
   title: Zed ADC vs Jhin - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1838
+  region: KR
 - videoId: cFkMXUgNlc0
   title: Zed ADC vs Jhin - EUW Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1658
+  region: EUW
+- videoId: bsilf2pL2zs
+  title: Zed ADC vs Jhin - EUW Master Patch 25.10
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1651
+  region: EUW

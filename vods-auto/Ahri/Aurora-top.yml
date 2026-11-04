@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1845
+  region: EUW
   uploaded: 2026-05-12
   result: L
   moments:
@@ -54,3 +55,21 @@
       kind: kill
     - at: 30:19
       label: Top Inhibitor falls (Blue)
+- videoId: KkL4VXMzWO8
+  title: Ahri Top vs Aurora - KR Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1820
+  region: KR
+- videoId: FTxj0rqEkKk
+  title: Ahri Top vs Aurora - EUW Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1751
+  region: EUW
+- videoId: Dwiw4SBB518
+  title: Ahri Top vs Aurora - KR Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1668
+  region: KR

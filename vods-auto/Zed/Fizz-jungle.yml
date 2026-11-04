@@ -4,3 +4,55 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1663
+  region: EUW
+  uploaded: 2026-05-28
+  result: L
+  moments:
+    - at: 5:43
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 6:13
+      label: First Blood — Zed kills Riven
+      kind: kill
+    - at: 11:02
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:55
+      label: Zeri picks off Riven
+    - at: 16:44
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:22
+      label: Zed kills Riven
+      kind: kill
+    - at: 18:04
+      label: Zed solo kills Mel
+      kind: kill
+    - at: 19:01
+      label: Zed outduels Riven
+    - at: 20:19
+      label: Zed kills Leona
+      kind: kill
+    - at: 22:02
+      label: Ahri Double Kill
+      kind: kill
+    - at: 22:04
+      label: Ahri Triple Kill
+      kind: kill
+    - at: 22:23
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 24:30
+      label: Zed Double Kill
+      kind: kill
+    - at: 25:12
+      label: Red takes Baron
+      kind: baron
+    - at: 25:29
+      label: Zed picks off Mel
+    - at: 26:49
+      label: Zed takes down Mel again
+    - at: 27:03
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:12
+      label: Zed eliminates Aphelios

@@ -4,3 +4,22 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 2110
+  region: KR
+- videoId: mZBqAAzMO5E
+  title: Qiyana Jungle vs Xin Zhao - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1521
+  region: KR
+- videoId: Ei-AVmSEa2w
+  title: Qiyana Jungle vs Xin Zhao - KR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1466
+  region: KR
+- videoId: i0cFcC6ieW0
+  title: Qiyana Jungle vs Xin Zhao - EUW Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1757
+  region: EUW

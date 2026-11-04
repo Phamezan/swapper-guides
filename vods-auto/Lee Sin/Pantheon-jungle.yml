@@ -4,17 +4,66 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1776
+  region: KR
   uploaded: 2026-08-21
+- videoId: 4PscRDhHFvc
+  title: (T1 Oner) Lee Sin Jungle vs Pantheon - KR Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1632
+  region: KR
+  player: Oner
+  team: T1
 - videoId: k5wDIg8ewGY
   title: Lee Sin vs Pantheon Jungle - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1681
+  region: KR
+  uploaded: 2026-05-14
 - videoId: thur8jmUy48
   title: T1 Oner Lee Sin vs Pantheon [ Jungle ] Korea Challenger 1942 LP | Patch 26.6
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1394
+  region: KR
+  player: Oner
+  team: T1
+- videoId: GPoSVeEEAX0
+  title: Lee Sin Jungle vs Pantheon - KR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1667
+  region: KR
+- videoId: GZ1ky3jI8wM
+  title: Lee Sin vs Pantheon Jungle - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1726
+  region: KR
+- videoId: U14DK-s2aIw
+  title: Lee Sin vs Pantheon Jungle - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1860
+  region: KR
+- videoId: F6Rblk821U0
+  title: Lee Sin vs Pantheon Jungle - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1606
+  region: KR
+- videoId: GTEvNh1S6J8
+  title: Lee Sin vs Pantheon Jungle - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1660
+  region: KR
+- videoId: FpDfmbe0xq8
+  title: T1 Oner Lee Sin vs Pantheon [ Jungle ] Patch 25.2 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 1702
   region: KR
   player: Oner
   team: T1

@@ -4,4 +4,17 @@
   rankClaim: Challenger
   patch: "26.21"
   durationSec: 1620
+  region: KR
   uploaded: 2026-11-02
+- videoId: fI8dSmyAfFY
+  title: Olaf Top vs Camille - KR Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1795
+  region: KR
+- videoId: SrXMRCaQb0M
+  title: Olaf Top vs Camille - KR Challenger Patch 25.18
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1636
+  region: KR

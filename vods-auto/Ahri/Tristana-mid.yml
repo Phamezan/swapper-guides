@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1864
+  region: EUW
   player: SanPone
   uploaded: 2026-10-09
   result: W
@@ -59,6 +60,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1771
+  region: EUW
   player: INE Raizy
   uploaded: 2026-10-07
   result: W
@@ -110,6 +112,7 @@
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1664
+  region: EUW
   player: IN5 Alix
   uploaded: 2026-06-17
   result: L
@@ -163,4 +166,11 @@
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1811
+  region: KR
   uploaded: 2026-03-10
+- videoId: BxglH3jqmAY
+  title: Ahri vs Tristana MId - EUW Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1771
+  region: EUW

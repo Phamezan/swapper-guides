@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1633
+  region: EUW
   player: DYN MathisV
   uploaded: 2026-08-12
   result: L
@@ -49,3 +50,9 @@
     - at: 26:34
       label: Aurelion Sol Double Kill
       kind: kill
+- videoId: K_gfIlw3OPU
+  title: Zed Mid vs Zilean - NA Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1558
+  region: NA

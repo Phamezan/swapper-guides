@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1822
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-28
@@ -12,6 +13,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1522
+  region: EUW
   player: BDG Ronaldo
   uploaded: 2026-10-27
   result: W
@@ -62,6 +64,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1707
+  region: EUW
   player: ZENA JayJay
   uploaded: 2026-10-12
   result: W
@@ -113,6 +116,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 2039
+  region: EUW
   player: Caps
   team: G2
   uploaded: 2026-09-29
@@ -165,6 +169,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1675
+  region: EUW
   player: 3BL Revenger
   uploaded: 2026-06-27
   result: W
@@ -219,3 +224,26 @@
   region: KR
   player: Faker
   team: T1
+- videoId: QAt8TTgY8ow
+  title: Ahri vs Mel MID [ PentaKill ] Korea Master Patch 25.24 ✅
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1401
+  region: KR
+  player: PentaKill
+- videoId: xClGIvoy2aU
+  title: Ahri Mid vs Mel - VN Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1504
+- videoId: jR1BjjhwWko
+  title: Ahri vs Mel [ MID ] Lol Korea Master Patch 25.14 ✅
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1416
+  region: KR
+- videoId: MkhY5nAnAE4
+  title: Ahri Mid vs Mel - BR Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1628

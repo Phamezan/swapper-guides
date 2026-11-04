@@ -4,3 +4,45 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1860
+  region: EUW
+  uploaded: 2026-04-24
+  result: L
+  moments:
+    - at: 8:31
+      label: First Blood — Zed kills Xin Zhao
+      kind: kill
+    - at: 10:09
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:31
+      label: Zed picks off Xin Zhao
+    - at: 14:56
+      label: Zed takes down Dr. Mundo
+    - at: 16:13
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:01
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:38
+      label: Zed takes down Thresh
+    - at: 21:39
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:42
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:44
+      label: Zed takes down Thresh
+    - at: 26:57
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 28:05
+      label: Mid Inhibitor falls (Red)
+    - at: 29:42
+      label: Zed takes down Zaahen
+    - at: 30:04
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 30:32
+      label: Mid Inhibitor falls (Blue)

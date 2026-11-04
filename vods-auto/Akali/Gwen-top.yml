@@ -4,4 +4,17 @@
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1741
+  region: EUW
   uploaded: 2026-01-29
+- videoId: wsCLCKSylS8
+  title: Akali Top vs Gwen - EUW Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1842
+  region: EUW
+- videoId: slzVmwsbobI
+  title: Akali vs Gwen Top - EUW Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1890
+  region: EUW

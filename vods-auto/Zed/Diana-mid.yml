@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1574
+  region: KR
   uploaded: 2026-10-31
   result: W
   moments:
@@ -55,6 +56,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1669
+  region: KR
   uploaded: 2026-10-18
   result: W
   moments:
@@ -110,6 +112,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1508
+  region: KR
   uploaded: 2026-10-18
   result: W
   moments:
@@ -153,6 +156,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1673
+  region: KR
   uploaded: 2026-10-05
   result: W
   moments:
@@ -204,6 +208,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1530
+  region: KR
   uploaded: 2026-09-23
   result: W
   moments:
@@ -258,6 +263,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1674
+  region: KR
   uploaded: 2026-09-10
   result: W
   moments:
@@ -312,6 +318,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1574
+  region: KR
   uploaded: 2026-08-25
   result: W
   moments:
@@ -365,8 +372,76 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1647
+  region: EUW
+  uploaded: 2026-06-07
+  result: W
+  moments:
+    - at: 7:47
+      label: First Blood — Zed kills Wukong
+      kind: kill
+    - at: 7:54
+      label: Zed Double Kill
+      kind: kill
+    - at: 9:03
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:44
+      label: Zed takes down Vayne
+    - at: 14:36
+      label: Zed takes down Lulu
+    - at: 14:46
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 20:34
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 22:47
+      label: Zed takes down Vayne
+    - at: 24:45
+      label: Senna eliminates Lulu
+    - at: 25:11
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:49
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 26:19
+      label: Zed takes down Lulu
+    - at: 26:48
+      label: Zed kills Yasuo
+      kind: kill
+    - at: 26:58
+      label: Bot Inhibitor falls (Red)
 - videoId: Vzvv4lhi-gs
   title: Zed Mid vs Diana - TW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1631
+- videoId: Hb2AElWZmU0
+  title: Zed Mid vs Diana - TW Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1928
+- videoId: Svxt2jRCRsQ
+  title: Zed Mid vs Diana - NA Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1629
+  region: NA
+- videoId: wPrwiFzkeXE
+  title: Zed Mid vs Diana - TW Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1813
+- videoId: IC1-292CGvY
+  title: Zed Mid vs Diana - KR Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 1492
+  region: KR
+- videoId: WJC6GXmlrpk
+  title: Zed Mid vs Diana - KR Master Patch 25.05
+  rankClaim: Master
+  patch: "25.5"
+  durationSec: 1730
+  region: KR

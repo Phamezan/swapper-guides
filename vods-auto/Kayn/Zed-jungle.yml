@@ -4,3 +4,16 @@
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 2041
+  region: KR
+- videoId: uQ812-JmR2I
+  title: Kayn Jungle vs Zed - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1484
+  region: EUW
+- videoId: -g6OAL4aY7g
+  title: Kayn Jungle vs Zed - NA Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1854
+  region: NA

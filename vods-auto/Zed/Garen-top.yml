@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1723
+  region: KR
   uploaded: 2026-08-13
   result: L
   moments:
@@ -57,11 +58,117 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1754
+  region: EUW
+  uploaded: 2026-06-13
+  result: L
+  moments:
+    - at: 5:37
+      label: First Blood — Zed kills Garen
+      kind: kill
+    - at: 9:39
+      label: Sylas kills Garen
+      kind: kill
+    - at: 11:57
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:22
+      label: Zed picks off Karthus
+    - at: 17:23
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:39
+      label: Zed eliminates Garen
+    - at: 19:52
+      label: Sylas takes down Jarvan IV
+    - at: 22:52
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 24:03
+      label: Sylas eliminates Karthus
+    - at: 24:51
+      label: Red takes Baron
+      kind: baron
+    - at: 26:51
+      label: Zed kills Jarvan IV
+      kind: kill
+    - at: 27:03
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:04
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
 - videoId: r2yyozERuCA
   title: Zed Top vs Garen - VN Grandmaster Patch 26.07
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1738
+  uploaded: 2026-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Take down The Turret
+      kind: tower
+    - at: 22:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:14
+      label: Take down The Turret
+      kind: tower
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:25
+      label: Take down The Turret
+      kind: tower
+    - at: 27:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:02
+      label: Take down The Turret
+      kind: tower
+    - at: 28:22
+      label: Take down The Inhibitor
+    - at: 28:47
+      label: End credit
 - videoId: 09BmpeRrgnk
   title: Zed Top vs Garen - BR Challenger Patch 26.06
   rankClaim: Challenger
@@ -72,8 +179,27 @@
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1734
+  region: EUW
 - videoId: Qz680wrkLCI
   title: Zed Top vs Garen - EUW Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1567
+  region: EUW
+- videoId: FlW1muALit8
+  title: Zed Top vs Garen - VN Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1894
+- videoId: vRnkiG3HQOg
+  title: Zed Top vs Garen - NA Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1713
+  region: NA
+- videoId: zcZoru_RcJs
+  title: Zed Top vs Garen - NA Master Patch 25.05
+  rankClaim: Master
+  patch: "25.5"
+  durationSec: 1975
+  region: NA

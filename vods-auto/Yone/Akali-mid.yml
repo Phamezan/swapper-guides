@@ -4,4 +4,35 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 2221
+  region: KR
   uploaded: 2026-10-13
+- videoId: acf1xt5W1XM
+  title: Yone Mid vs Akali - KR Master Patch 26.19
+  rankClaim: Master
+  patch: "26.19"
+  durationSec: 1464
+  region: KR
+- videoId: Y2hLgHpzsgE
+  title: Yone Mid vs Akali - NA Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1493
+  region: NA
+- videoId: aPUuIqwQZFQ
+  title: Yone Mid vs Akali - KR Master Patch 26.07
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1542
+  region: KR
+- videoId: psV1PCVXq6o
+  title: Yone Mid vs Akali - KR Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1844
+  region: KR
+- videoId: ivRBbPCTryI
+  title: Yone Mid vs Akali - KR Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1581
+  region: KR

@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 2171
+  region: KR
+- videoId: kPj_RI1KTw8
+  title: Qiyana Mid vs Katarina - KR Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1761
+  region: KR

@@ -4,3 +4,25 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1881
+  region: KR
+  uploaded: 2026-06-06
+- videoId: 9lqOEkfhWOk
+  title: Viego vs Skarner 18/2/13 (Jungle) | EUW Challenger | Viego OTP Replay
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1814
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-05-17
+- videoId: v1yZHaodnow
+  title: Viego vs Skarner Jungle - KR Challenger - Patch 25.9 Season 15
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1500
+  region: KR
+- videoId: wHAb_j60KTI
+  title: Viego Jungle vs Skarner - KR Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1491
+  region: KR

@@ -4,14 +4,37 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1501
+  region: KR
   uploaded: 2026-08-15
+- videoId: S0fwCr1VN_8
+  title: (DNS Pyosik) Lee Sin Jungle vs Ambessa - KR Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1732
+  region: KR
+  player: Pyosik
 - videoId: dfpOm3onbVk
   title: Lee Sin vs Ambessa Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1531
+  region: KR
+  uploaded: 2026-04-15
 - videoId: Vz4ATPM4Zuc
   title: Lee Sin vs Ambessa Jungle  - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1771
+  region: KR
+- videoId: 32xqdV0Etvs
+  title: Lee Sin Jungle vs Ambessa - KR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1561
+  region: KR
+- videoId: 7V2Qo4FJeZQ
+  title: Lee Sin vs Ambessa JUngle - EUW CHallenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1711
+  region: EUW

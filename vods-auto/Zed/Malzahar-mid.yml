@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1746
+  region: KR
   uploaded: 2026-09-29
   result: W
   moments:
@@ -55,6 +56,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1877
+  region: KR
   uploaded: 2026-09-21
   result: W
   moments:
@@ -109,6 +111,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1546
+  region: KR
   uploaded: 2026-08-24
   result: L
   moments:
@@ -150,8 +153,105 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1713
+  region: KR
+  uploaded: 2026-06-17
+  result: W
+  moments:
+    - at: 9:32
+      label: First Blood — Jayce kills Gnar
+      kind: kill
+    - at: 9:38
+      label: Zed picks off Naafiri
+    - at: 12:03
+      label: Zed takes down Gnar
+    - at: 12:17
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:27
+      label: Pantheon eliminates Camille
+    - at: 14:32
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:08
+      label: Pantheon eliminates Gnar
+    - at: 16:21
+      label: Zed picks off Naafiri
+    - at: 18:02
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 19:29
+      label: Zed picks off Naafiri
+    - at: 20:42
+      label: Zed outplays Gnar
+    - at: 21:09
+      label: Red takes Baron
+      kind: baron
+    - at: 23:24
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 24:02
+      label: Mid Inhibitor falls (Red)
+    - at: 24:59
+      label: Sylas eliminates Kalista
+    - at: 26:43
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 27:51
+      label: Blue takes Baron
+      kind: baron
 - videoId: SdnGnz-WAtU
   title: Zed Mid vs Malzahar - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 2253
+  region: KR
+  uploaded: 2026-05-27
+  result: W
+  moments:
+    - at: 1:24
+      label: First Blood — Zed kills Malzahar
+      kind: kill
+    - at: 9:15
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:53
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:03
+      label: Zed outplays Yone
+    - at: 20:08
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 23:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:58
+      label: Red takes Baron
+      kind: baron
+    - at: 25:07
+      label: Zed picks off Wukong
+    - at: 25:36
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 27:28
+      label: Zed catches Smolder
+    - at: 30:29
+      label: Blue takes Baron
+      kind: baron
+    - at: 31:05
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 31:30
+      label: Mid Inhibitor falls (Red)
+    - at: 32:26
+      label: Bot Inhibitor falls (Blue)
+    - at: 34:16
+      label: Zed eliminates Malzahar
+    - at: 35:34
+      label: Zed kills Smolder
+      kind: kill
+    - at: 36:17
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 37:09
+      label: Mid Inhibitor falls (Red)

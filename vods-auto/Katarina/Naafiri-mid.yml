@@ -4,3 +4,16 @@
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1591
+  region: EUW
+- videoId: zNlc4G1cOzo
+  title: Katarina Mid vs Naafiri - KR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1455
+  region: KR
+- videoId: g6RD64Zhf4c
+  title: Katarina vs Naafiri Mid - EUW Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1990
+  region: EUW

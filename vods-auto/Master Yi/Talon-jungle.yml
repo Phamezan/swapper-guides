@@ -4,9 +4,25 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1431
+  region: KR
   uploaded: 2026-09-07
+- videoId: JTREU93zhCw
+  title: (KRX Willer) Master Yi Jungle vs Talon - KR Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1526
+  region: KR
+  player: KRX Willer
 - videoId: e4zbrKrgCiE
   title: Master Yi vs Talon Jungle - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 2311
+  region: KR
+  uploaded: 2026-04-20
+- videoId: U7amq1ugpEE
+  title: Master Yi vs Talon Jungle - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1411
+  region: KR

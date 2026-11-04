@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1619
+  region: KR
   uploaded: 2026-10-28
   result: W
   moments:
@@ -56,3 +57,9 @@
       kind: dragon
     - at: 26:45
       label: Zed takes down Sylas
+- videoId: 94q93e-vk5k
+  title: Zed Top vs Pantheon - NA Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1745
+  region: NA

@@ -17,23 +17,39 @@
   player: Peyz
   team: T1
   uploaded: 2026-08-20
+- videoId: 4ot9A0vGKIc
+  title: (GLSH Dream) Aphelios ADC vs Ezreal - EUW Grandmaster Patch 26.14
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1599
+  region: EUW
+  player: GLSH Dream
+- videoId: nhuz7PmP8hE
+  title: Aphelios ADC vs Ezreal - KR Grandmaster Patch 26.10
+  rankClaim: Grandmaster
+  patch: "26.10"
+  durationSec: 1830
+  region: KR
 - videoId: CckB_4ZFJIk
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1816
+  region: KR
   uploaded: 2026-05-19
 - videoId: -cXYuB73FB4
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1711
+  region: KR
   uploaded: 2026-04-08
 - videoId: zuZSkY1QvKw
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1771
+  region: KR
   uploaded: 2026-03-26
 - videoId: 7_FywUp-W3o
   title: Aphelios vs Ezreal ADC [ Gen.G Ruler ] Patch 26.5 Korea Grandmaster
@@ -48,4 +64,69 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1306
+  region: KR
   uploaded: 2026-01-20
+- videoId: Dq4OqYZ3T2Q
+  title: Aphelios ADC vs Ezreal - KR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1712
+  region: KR
+- videoId: DfL8sWIPQrM
+  title: Aphelios vs Ezreal ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1398
+  region: KR
+  player: Viper
+  team: BLG
+- videoId: 30sA-xORjdM
+  title: Aphelios vs Ezreal [ ADC ] Patch 25.23 Korea Challenger 1279 LP
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1106
+  region: KR
+- videoId: 14dch2DmjlM
+  title: Aphelios vs Ezreal ADC - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 2461
+  region: KR
+- videoId: 3E5JNdb-Clw
+  title: Aphelios vs Ezreal ADC - KR Grandmaster - Patch 25.10 Season 15
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1871
+  region: KR
+- videoId: cVFQytFdbSs
+  title: Aphelios ADC vs Ezreal - KR Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1853
+  region: KR
+- videoId: BJFGwgOS0LA
+  title: Aphelios vs Ezreal ADC [ Peyz ] Patch 25.9 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1392
+  region: KR
+  player: Peyz
+- videoId: jV_-vV1wQ1c
+  title: Aphelios vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1756
+  region: KR
+- videoId: iEZ6ODL4vkk
+  title: Aphelios vs Ezreal ADC - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1650
+  region: KR
+- videoId: APkBRpgjrY4
+  title: Aphelios vs Ezreal ADC [ Peyz ] Patch 25.3 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.3"
+  durationSec: 1557
+  region: KR
+  player: Peyz

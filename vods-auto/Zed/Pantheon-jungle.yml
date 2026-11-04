@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1575
+  region: NA
   uploaded: 2026-10-08
   result: W
   moments:
@@ -54,6 +55,7 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1716
+  region: EUW
   player: IN5 Alix
   uploaded: 2026-08-02
   result: L
@@ -110,13 +112,177 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1447
+  region: EUW
+  uploaded: 2026-06-13
+  result: W
+  moments:
+    - at: 2:05
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 7:55
+      label: Zed outplays Pantheon
+    - at: 8:45
+      label: Zed outduels K'Sante
+    - at: 12:25
+      label: Zed takes down Jinx
+    - at: 12:41
+      label: LeBlanc Triple Kill
+      kind: kill
+    - at: 15:15
+      label: Cho'Gath eliminates K'Sante
+    - at: 15:25
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:39
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:24
+      label: Zed solo kills Pantheon again
+      kind: kill
+    - at: 17:41
+      label: Malzahar kills Jinx
+      kind: kill
+    - at: 18:42
+      label: LeBlanc kills Pantheon
+      kind: kill
+    - at: 20:33
+      label: LeBlanc takes down Ahri
+    - at: 20:51
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 22:46
+      label: Cho'Gath eliminates K'Sante
+    - at: 23:04
+      label: Mid Inhibitor falls (Red)
+    - at: 23:16
+      label: Bot Inhibitor falls (Red)
+    - at: 23:28
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: MRImJUtBP4A
   title: Zed Jungle vs Pantheon - EUW Grandmaster Patch 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1467
+  region: EUW
+  uploaded: 2026-05-19
+  result: L
+  moments:
+    - at: 2:05
+      label: First Blood — Zed kills Jayce
+      kind: kill
+    - at: 2:52
+      label: Zed picks off Ahri
+    - at: 5:23
+      label: Zed picks off Ahri
+    - at: 7:46
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:39
+      label: Zed kills Jayce
+      kind: kill
+    - at: 10:09
+      label: Zed eliminates Zeri
+    - at: 11:36
+      label: Zed eliminates Zeri
+    - at: 13:21
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:05
+      label: Zed eliminates Zeri
+    - at: 18:52
+      label: Zed takes down Pantheon
+    - at: 19:22
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:23
+      label: Zed picks off Ahri
+    - at: 22:00
+      label: Red takes Baron
+      kind: baron
+    - at: 23:47
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:00
+      label: LeBlanc Triple Kill
+      kind: kill
 - videoId: CHYFm1d2fdQ
   title: Zed Jungle vs Pantheon - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1682
+  region: KR
+  uploaded: 2026-05-03
+  result: L
+  moments:
+    - at: 5:19
+      label: First Blood — Leona kills Pantheon
+      kind: kill
+    - at: 9:40
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:02
+      label: Zed catches Qiyana
+    - at: 15:19
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 17:01
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 18:27
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 19:07
+      label: Viktor takes down Illaoi
+    - at: 21:09
+      label: Zed eliminates Vladimir
+    - at: 22:22
+      label: Viktor eliminates Ryze
+    - at: 22:57
+      label: Red takes Baron
+      kind: baron
+    - at: 24:22
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 24:35
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 25:01
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 25:25
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:32
+      label: Zed picks off Ryze
+    - at: 27:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:36
+      label: Top Inhibitor falls (Blue)
+- videoId: K9HfEj5H-bQ
+  title: Zed Jungle vs Pantheon - KR Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1854
+  region: KR
+- videoId: uhk11enlTlM
+  title: Zed vs Pantheon Jungle - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1696
+  region: KR
+- videoId: neEr-_kBVcI
+  title: Zed Jungle vs Pantheon - KR Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1845
+  region: KR
+- videoId: PVduj7QhTP4
+  title: Zed Jungle vs Pantheon - TW Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1914
+- videoId: QRk3bUufD80
+  title: Zed Jungle vs Pantheon - BR Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 2103

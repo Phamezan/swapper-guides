@@ -4,4 +4,17 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 2056
+  region: KR
   uploaded: 2026-02-26
+- videoId: SIPPROBWl2E
+  title: Ambessa vs Jayce Jungle - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1771
+  region: KR
+- videoId: 2HfF7oPvcf8
+  title: Ambessa Jungle vs Jayce - NA Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1706
+  region: NA

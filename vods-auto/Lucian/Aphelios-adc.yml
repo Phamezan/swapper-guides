@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1774
+  region: KR
 - videoId: pcg2yY4F4gk
   title: HLE Gumayusi Lucian vs Aphelios [ ADC ] Korea Challenger 2022 LP | Patch 26.5
   rankClaim: Challenger
@@ -20,3 +21,17 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: Cu3Q_BMZz5w
+  title: Lucian vs Aphelios ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1441
+  region: KR
+- videoId: PErQ29FNWwM
+  title: Lucian vs Aphelios ADC [ Gen.G Ruler ] Patch 25.12 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1505
+  region: KR
+  player: Ruler
+  team: Gen.G

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1577
+  region: KR
   uploaded: 2026-08-19
   result: W
   moments:
@@ -53,6 +54,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1732
+  region: KR
   uploaded: 2026-07-06
   result: W
   moments:
@@ -107,3 +109,10 @@
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1560
+  region: EUW
+- videoId: jNjcvQjiHbU
+  title: Zed Top vs Olaf - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1589
+  region: EUW

@@ -4,9 +4,17 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 2070
+  region: KR
   uploaded: 2026-09-13
+- videoId: B9Z6pf77IyM
+  title: Viego Jungle vs Jarvan IV - EUW Master Patch 26.17
+  rankClaim: Master
+  patch: "26.17"
+  durationSec: 1802
+  region: EUW
 - videoId: dYZ9XliiNnQ
   title: Viego vs Jarvan IV Jungle - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 2206
+  region: KR

@@ -5,6 +5,12 @@
   patch: "26.14"
   durationSec: 1745
   region: KR
+  uploaded: 2026-07-17
+- videoId: n8cIQ2OruAo
+  title: Miss Fortune ADC vs Ezreal - VN Challenger Patch 26.07
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1697
 - videoId: NDGYqpOCPig
   title: HLE Gumayusi Miss Fortune vs Ezreal [ ADC ] Korea Challenger 2426 LP | Patch 26.7
   rankClaim: Challenger
@@ -13,6 +19,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-12
 - videoId: DZf6DirZspQ
   title: BLG Viper Miss Fortune vs Ezreal [ ADC ] Korea Challenger 1427 LP | Patch 26.4
   rankClaim: Challenger
@@ -29,6 +36,12 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: RRSqFG2NaPg
+  title: Miss Fortune ADC vs Ezreal - KR Challenger Patch 26.03
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1827
+  region: KR
 - videoId: nJl4bnxUjqA
   title: T1 Peyz Miss Fortune vs Ezreal [ ADC ] Korea Challenger 1808 LP | Patch 26.3
   rankClaim: Challenger
@@ -37,3 +50,75 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: Ye5eONmTs80
+  title: Miss Fortune vs Ezreal [ ADC ] Korea Challenger 1262 LP | Patch 25.23 ✅
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1374
+  region: KR
+- videoId: vER5UDb57Os
+  title: Miss Fortune vs Ezreal ADC - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1711
+  region: KR
+- videoId: cUxnSuprZZM
+  title: Miss Fortune ADC vs Ezreal - KR Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1651
+  region: KR
+- videoId: XRKhT7n7s7Y
+  title: Miss Fortune ADC vs Ezreal - KR Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1667
+  region: KR
+- videoId: m9_O1lZtDfE
+  title: Miss Fortune ADC vs Ezreal - KR Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1700
+  region: KR
+- videoId: M7pMsQYiY3M
+  title: T1 Gumayusi Miss Fortune vs Ezreal [ ADC ] Patch 25.6 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1741
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: sOKIYEYPci8
+  title: Miss Fortune ADC vs Ezreal - EUW Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1586
+  region: EUW
+- videoId: _gKfVdNkOtM
+  title: Miss Fortune ADC vs Ezreal - EUW Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1521
+  region: EUW
+- videoId: ELy03e2Wivk
+  title: T1 Gumayusi Miss Fortune vs Ezreal [ ADC ] Patch 25.2 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 1461
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: Yv5yGs-jSww
+  title: Miss Fortune vs Ezreal ADC [ Viper + QuadraKill ] Korea Challenger Patch 25.2 ✅
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 2685
+  region: KR
+  player: Viper
+- videoId: Z54V7uAqVlE
+  title: Miss Fortune vs Ezreal ADC [ Peyz ] Korea Grandmaster Patch 25.1 ✅
+  rankClaim: Grandmaster
+  patch: "25.1"
+  durationSec: 1543
+  region: KR
+  player: Peyz

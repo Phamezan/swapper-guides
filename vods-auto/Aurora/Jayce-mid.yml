@@ -12,5 +12,18 @@
   rankClaim: Master
   patch: "26.2"
   durationSec: 2101
+  region: KR
   player: Faker
   uploaded: 2026-01-24
+- videoId: RsgpemIK-N8
+  title: Aurora Mid vs Jayce - KR Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1871
+  region: KR
+- videoId: xKZ7uF38zJI
+  title: Aurora vs Jayce Mid - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1666
+  region: KR

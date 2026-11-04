@@ -4,7 +4,23 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1680
+  region: KR
   uploaded: 2026-09-14
+- videoId: pSaahi9QXCI
+  title: (KT FenRir) Kai'Sa ADC vs Lucian (AHQ Doggo) - KR Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1786
+  region: KR
+  player: FenRir
+  team: KT
+- videoId: rTdLRnQDfzU
+  title: (SSG Tianzhen) Kai'Sa ADC vs Lucian - KR Grandmaster Patch 26.11
+  rankClaim: Grandmaster
+  patch: "26.11"
+  durationSec: 1465
+  region: KR
+  player: SSG Tianzhen
 - videoId: MyNDmMaLKkE
   title: HLE Gumayusi Kai'Sa vs Lucian [ ADC ] Korea Challenger 1312 LP | Patch 26.2
   rankClaim: Challenger
@@ -13,3 +29,117 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: zIypmRQjdAg
+  title: Kai'Sa ADC vs Lucian - KR Master Patch 26.01
+  rankClaim: Master
+  patch: "26.1"
+  durationSec: 1621
+  region: KR
+- videoId: lzS4zqhpWd4
+  title: T1 Peyz Kai'Sa vs Lucian [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 982
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: MisbUrkFnso
+  title: Kai'Sa ADC vs Lucian - KR Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1921
+  region: KR
+- videoId: FtUrES-wTXE
+  title: Kai'Sa vs Lucian ADC [ DRX Teddy ] Korea Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1362
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: oBHKSDH0Itg
+  title: Kai'Sa vs Lucian ADC - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1621
+  region: KR
+- videoId: NVeFbiyJnD8
+  title: Kai'Sa ADC vs Lucian - KR Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1717
+  region: KR
+- videoId: z5Yv-V8DyVY
+  title: T1 Gumayusi Kai'Sa vs Lucian [ ADC ] Korea Grandmaster Patch 25.19
+  rankClaim: Grandmaster
+  patch: "25.19"
+  durationSec: 1054
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: CyfdhARod9Q
+  title: T1 Gumayusi Kaisa vs Lucian [ ADC ] Patch 25.17 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1528
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: QCve2IcfZ0s
+  title: Kai'Sa ADC vs Lucian - KR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1545
+  region: KR
+- videoId: L0dIpq851AU
+  title: Kai'Sa vs Lucian ADC - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1561
+  region: KR
+- videoId: 6XMjBrblwBQ
+  title: Kai'Sa vs Lucian ADC - KR Grandmaster - Patch 25.14 Season 15
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1620
+  region: KR
+- videoId: jNb7NgGZ13I
+  title: Kai'Sa vs Lucian ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1716
+  region: KR
+- videoId: jx7FQIj-NfQ
+  title: Kai'Sa vs Lucian ADC - KR Challenger - Patch 25.12 Season 15
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1651
+  region: KR
+- videoId: GUG3AXTq21E
+  title: Kaisa vs Lucian ADC [ DRX Teddy ] Patch 25.12 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1245
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: yJEGPGMEqp8
+  title: Kai'Sa vs Lucian ADC - KR Challenger - Patch 15.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1811
+  region: KR
+- videoId: yZ3FDiIlltU
+  title: Kai'Sa vs Lucian ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 2141
+  region: KR
+- videoId: g6VMmKSE6Ss
+  title: Kaisa vs Lucian ADC [ Gen.G Ruler ] Patch 25.8 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 2054
+  region: KR
+  player: Ruler
+  team: Gen.G

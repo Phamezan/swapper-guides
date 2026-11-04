@@ -8,3 +8,9 @@
   player: Faker
   team: T1
   uploaded: 2026-10-11
+- videoId: A-AWLEsmI6Y
+  title: Vex Mid vs LeBlanc - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1814
+  region: KR

@@ -4,3 +4,48 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1497
+  region: KR
+  uploaded: 2026-06-22
+  result: W
+  moments:
+    - at: 2:20
+      label: First Blood — Zed kills Kai'Sa
+      kind: kill
+    - at: 2:35
+      label: Zed eliminates Cho'Gath
+    - at: 3:11
+      label: Zed outduels Diana
+    - at: 6:39
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:03
+      label: Zed eliminates Cho'Gath
+    - at: 11:41
+      label: Pantheon eliminates Diana
+    - at: 12:09
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:40
+      label: Teemo Double Kill
+      kind: kill
+    - at: 13:40
+      label: Zed eliminates K'Sante
+    - at: 15:40
+      label: Zed picks off Kai'Sa
+    - at: 17:33
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:54
+      label: Pantheon picks off Rengar
+    - at: 18:45
+      label: Zed eliminates K'Sante
+    - at: 21:54
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:55
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:30
+      label: Mid Inhibitor falls (Red)
+    - at: 24:26
+      label: Zed eliminates Cho'Gath

@@ -6,3 +6,48 @@
   durationSec: 1251
   region: KR
   player: Teddy
+- videoId: B-LNteg_PZQ
+  title: T1 Peyz Varus vs Miss Fortune ADC [ PentaKill ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1070
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: aDEdnOvcbUg
+  title: Varus vs Miss Fortune ADC - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1786
+  region: KR
+- videoId: 26ZAYGjDSYQ
+  title: Varus vs Miss Fortune ADC [ DRX Teddy ] Patch 25.15 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1371
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: x92A8pujrtQ
+  title: Varus vs Miss Fortune ADC [ Gen.G Ruler ] Patch 25.9 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1252
+  region: KR
+  player: Ruler
+  team: Gen.G
+- videoId: xkD7AHHr9-I
+  title: Viper Varus vs Miss Fortune  ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1861
+  region: KR
+  player: Viper
+- videoId: 59u2ptqGodM
+  title: T1 Gumayusi Varus ADC vs Miss Fortune - Patch 25.7 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 909
+  region: KR
+  player: Gumayusi
+  team: T1

@@ -7,6 +7,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-06
 - videoId: 9rcZX61LJw8
   title: HLE Gumayusi Kog'Maw vs Draven [ ADC ] Patch 26.11 Korea Challenger 2585 LP
   rankClaim: Challenger
@@ -15,3 +16,10 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-29
+- videoId: jeQ3EMy7HZg
+  title: Kog'Maw ADC vs Draven - KR Master Patch 25.10
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1802
+  region: KR

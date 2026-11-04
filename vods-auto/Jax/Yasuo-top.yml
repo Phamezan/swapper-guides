@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1321
+  region: NA
+- videoId: 3QB4rg-zcvE
+  title: Jax vs Yasuo Top - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1721
+  region: KR

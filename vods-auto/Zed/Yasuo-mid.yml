@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1535
+  region: KR
   uploaded: 2026-11-01
   result: W
   moments:
@@ -54,6 +55,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1725
+  region: KR
   uploaded: 2026-10-19
   result: W
   moments:
@@ -102,6 +104,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1978
+  region: KR
   uploaded: 2026-10-08
   result: W
   moments:
@@ -157,6 +160,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1575
+  region: KR
   uploaded: 2026-09-30
   result: W
   moments:
@@ -209,6 +213,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1346
+  region: KR
   uploaded: 2026-09-19
   result: W
   moments:
@@ -249,6 +254,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1964
+  region: EUW
   uploaded: 2026-09-16
   result: W
   moments:
@@ -296,6 +302,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 2093
+  region: EUW
   uploaded: 2026-09-03
   result: W
   moments:
@@ -351,6 +358,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1711
+  region: KR
   uploaded: 2026-08-30
   result: W
   moments:
@@ -406,6 +414,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1804
+  region: KR
   uploaded: 2026-08-22
   result: W
   moments:
@@ -462,6 +471,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1729
+  region: EUW
   player: MCON Painful
   uploaded: 2026-08-04
   result: L
@@ -508,18 +518,28 @@
       kind: baron
     - at: 27:45
       label: Mid Inhibitor falls (Blue)
+- videoId: JuX3WjI6DJU
+  title: (IN5 Alix) Zed Mid vs Yasuo - EUW Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1787
+  region: EUW
+  player: IN5 Alix
 - videoId: vhvIGkWqBKI
   title: Zed vs Yasuo [ MID ] Korea Grandmaster 1442 LP | Patch 26.12
   rankClaim: Grandmaster
   patch: "26.12"
   durationSec: 1736
   region: KR
+  uploaded: 2026-06-22
 - videoId: NHvYcBBDkUM
   title: OnZed Zed vs Yasuo Mid - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 2256
+  region: KR
   player: OnZed
+  uploaded: 2026-05-07
 - videoId: xVLbLZ--2Ts
   title: Zed Mid vs Yasuo - TW Challenger Patch 26.03
   rankClaim: Challenger
@@ -530,3 +550,46 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1526
+  region: NA
+- videoId: wOcvj-TJloY
+  title: Zed Mid vs Yasuo - TW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1571
+- videoId: p_CkZLWqTxU
+  title: Zed Mid vs Yasuo - TW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1571
+- videoId: dGJfXqOjWkk
+  title: Zed Mid vs Yasuo - VN Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1933
+- videoId: 3b85-kEfu_A
+  title: Faker Zed vs Yasuo Mid - KR Challenger - Patch 25.10 Season 15
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1841
+  region: KR
+  player: Faker
+- videoId: oOYe2qxkwmk
+  title: T1 Faker Zed vs Yasuo [ MID ] Korea Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1540
+  region: KR
+  player: Faker
+  team: T1
+- videoId: IOKWgjkU1Fg
+  title: OnZed Zed vs Yasuo Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1861
+  region: KR
+  player: OnZed
+- videoId: 93UYemkdMA4
+  title: Zed Mid vs Yasuo - BR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1656

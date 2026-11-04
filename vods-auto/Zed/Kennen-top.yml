@@ -4,13 +4,81 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1630
+  region: KR
+  uploaded: 2026-06-03
+  result: L
+  moments:
+    - at: 4:59
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:43
+      label: First Blood — Zed kills Kennen
+      kind: kill
+    - at: 10:07
+      label: Zed catches Kennen
+    - at: 10:18
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:38
+      label: Zed outduels Nidalee
+    - at: 14:33
+      label: Briar picks off Tryndamere
+    - at: 16:03
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:19
+      label: Zed eliminates Neeko
+    - at: 18:54
+      label: Zed outplays Tryndamere
+    - at: 19:44
+      label: Blue takes Baron
+      kind: baron
+    - at: 19:50
+      label: Zed kills Nidalee
+      kind: kill
+    - at: 21:23
+      label: Zed picks off Ezreal
+    - at: 21:31
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:04
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:30
+      label: Caitlyn kills Tryndamere
+      kind: kill
+    - at: 25:24
+      label: Caitlyn picks off Kennen
+    - at: 26:06
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:51
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
 - videoId: vxYm-7a5JqM
   title: Zed Top vs Kennen - NA Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1833
+  region: NA
+- videoId: u-KY1-JW3Uo
+  title: Zed Top vs Kennen - NA Grandmaster Patch 26.04
+  rankClaim: Grandmaster
+  patch: "26.4"
+  durationSec: 1500
+  region: NA
 - videoId: 631qDjYXeUk
   title: Zed Top vs Kennen - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1596
+  region: KR
+- videoId: yKkw8Ek9AiA
+  title: Zed Top vs Kennen - NA Grandmaster Patch 26.02
+  rankClaim: Grandmaster
+  patch: "26.2"
+  durationSec: 1457
+  region: NA
+- videoId: lW1-3vwU7yI
+  title: Zed Top vs Kennen - VN Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1678

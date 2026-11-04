@@ -4,3 +4,22 @@
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1321
+  region: KR
+- videoId: gECnqJHlbcU
+  title: Katarina vs Irelia Mid - EUW Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1561
+  region: EUW
+- videoId: VWRnHizkFMg
+  title: Katarina vs Irelia Mid - KR Grandmaster - Patch 25.14 Season 15
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1816
+  region: KR
+- videoId: O49Ltc-0jsc
+  title: Katarina vs Irelia Mid - KR Master - Patch 25.12 Season 15
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1571
+  region: KR

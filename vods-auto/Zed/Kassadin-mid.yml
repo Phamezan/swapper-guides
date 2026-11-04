@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1685
+  region: EUW
   player: BGT Yikesuo
   uploaded: 2026-08-20
   result: L
@@ -51,3 +52,8 @@
       kind: baron
     - at: 26:54
       label: Mid Inhibitor falls (Blue)
+- videoId: AS9d89qH27Y
+  title: Zed Mid vs Kassadin - TW Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1725

@@ -4,4 +4,24 @@
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1666
+  region: KR
   uploaded: 2026-08-06
+- videoId: UwwsDsOhiVc
+  title: (RNG Tangyuan) Kindred Jungle vs Hecarim - KR Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1776
+  region: KR
+  player: Tangyuan
+- videoId: 7BPjva13W-k
+  title: Kindred vs Hercarim Jungle - KR Grandmaster - Patch 25.14 Season 15
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1861
+  region: KR
+- videoId: V3L3FFOrf7g
+  title: Kindred Jungle vs Hecarim - EUW Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 1724
+  region: EUW

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1622
+  region: KR
   uploaded: 2026-10-04
   result: W
   moments:
@@ -56,6 +57,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1705
+  region: KR
   uploaded: 2026-09-13
   result: W
   moments:
@@ -104,6 +106,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1898
+  region: KR
   uploaded: 2026-07-03
   result: W
   moments:
@@ -208,8 +211,129 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1415
+  region: EUW
+  uploaded: 2026-06-10
+  result: L
+  moments:
+    - at: 1:37
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 4:48
+      label: Zed catches Sion
+    - at: 5:53
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:16
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 11:37
+      label: Zed takes down Xin Zhao
+    - at: 16:52
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 17:29
+      label: Zed kills Hecarim
+      kind: kill
+    - at: 20:05
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:09
+      label: Red takes Baron
+      kind: baron
+    - at: 21:48
+      label: Zed solo kills Viktor
+      kind: kill
+    - at: 21:51
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:33
+      label: Zed takes down Xin Zhao
+    - at: 22:53
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:05
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:11
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:24
+      label: Nilah picks off Rell
 - videoId: capcMgn82XA
   title: Zed Top vs Sion - EUW Grandmaster Patch 26.07
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1506
+  region: EUW
+  uploaded: 2026-04-16
+  result: W
+  moments:
+    - at: 1:34
+      label: First Blood — Zed kills Sion
+      kind: kill
+    - at: 3:03
+      label: Zed eliminates Sion
+    - at: 4:42
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:41
+      label: Zed catches Sion
+    - at: 8:19
+      label: Zed takes down Taliyah
+    - at: 10:06
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:23
+      label: Zed outduels Sion again
+    - at: 12:22
+      label: Skarner kills Sion
+      kind: kill
+    - at: 16:32
+      label: Zed outplays Taliyah
+    - at: 17:14
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:25
+      label: Zed outplays Sion (3rd time)
+    - at: 20:48
+      label: Zed solo kills Kai'Sa
+      kind: kill
+    - at: 21:29
+      label: Zed takes down Taliyah
+    - at: 21:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:34
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:38
+      label: Tristana Double Kill
+      kind: kill
+    - at: 23:53
+      label: Mid Inhibitor falls (Red)
+- videoId: Rhhf2ldsqQk
+  title: Zed Top vs Sion - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1666
+  region: KR
+- videoId: 86RfTlT8k2c
+  title: Zed Top vs Sion - EUW Master Patch 25.21
+  rankClaim: Master
+  patch: "25.21"
+  durationSec: 1698
+  region: EUW
+- videoId: 3zNjjE2rwh8
+  title: Zed Top vs Sion - VN Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1663
+- videoId: HjTY6d0LtE0
+  title: Zed Top vs Sion - EUW Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1714
+  region: EUW
+- videoId: tPrEotOMqU4
+  title: Zed Top vs Sion - TW Master Patch 25.05
+  rankClaim: Master
+  patch: "25.5"
+  durationSec: 1676

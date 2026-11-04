@@ -16,3 +16,41 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-26
+- videoId: 3zqCSZMaigk
+  title: Draven ADC vs Aphelios - KR Grandmaster Patch 26.03
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1462
+  region: KR
+- videoId: Cl1PPkBPRGg
+  title: Draven vs Aphelios ADC [ QuadraKill ] Korea Master Patch 25.21
+  rankClaim: Master
+  patch: "25.21"
+  durationSec: 1584
+  region: KR
+  player: QuadraKill
+- videoId: o4aMsXiDgK4
+  title: Draven ADC vs Aphelios - EUW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1715
+  region: EUW
+- videoId: WoMVoFVFxGU
+  title: Draven ADC vs Aphelios - EUW Grandmaster Patch 25.19
+  rankClaim: Grandmaster
+  patch: "25.19"
+  durationSec: 1525
+  region: EUW
+- videoId: TN1CA92GgyA
+  title: Draven vs Aphelios [ ADC ] Lol Korea Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1423
+  region: KR
+- videoId: sYFUOY0A0UA
+  title: Draven ADC vs Aphelios - EUW Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1659
+  region: EUW

@@ -4,3 +4,17 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1681
+  region: KR
+  uploaded: 2026-05-05
+- videoId: fdl7-xZ_RM4
+  title: Pantheon Jungle vs Xin Zhao - KR Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1706
+  region: KR
+- videoId: QrriBCNLCbo
+  title: Pantheon Jungle vs Xin Zhao - NA Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1722
+  region: NA

@@ -4,13 +4,133 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1666
+  region: EUW
+  uploaded: 2026-05-20
+  result: L
+  moments:
+    - at: 2:55
+      label: First Blood — Zed kills Rell
+      kind: kill
+    - at: 5:12
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:55
+      label: Zed outplays Sejuani
+    - at: 10:38
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:45
+      label: Zed solo kills Hwei
+      kind: kill
+    - at: 16:18
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 17:04
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:56
+      label: Zed kills Rell
+      kind: kill
+    - at: 19:49
+      label: Red takes Baron
+      kind: baron
+    - at: 21:30
+      label: Zed takes down Hwei again
+    - at: 21:51
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:05
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 23:15
+      label: Zed takes down Sejuani
+    - at: 24:37
+      label: Top Inhibitor falls (Blue)
+    - at: 26:17
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:03
+      label: Brand picks off Jinx
+    - at: 27:05
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:07
+      label: Bot Inhibitor falls (Blue)
 - videoId: v88h6EYXCWE
   title: Zed Jungle vs Sejuani - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1744
+  region: KR
+  uploaded: 2026-05-09
+  result: L
+  moments:
+    - at: 1:23
+      label: First Blood — Zed kills Sejuani
+      kind: kill
+    - at: 5:33
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:56
+      label: Zed takes down Ashe
+    - at: 11:30
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:00
+      label: Zed kills Aatrox
+      kind: kill
+    - at: 15:51
+      label: Zed takes down Sejuani
+    - at: 17:09
+      label: Seraphine eliminates Aatrox
+    - at: 17:31
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 19:04
+      label: Zed kills Aatrox
+      kind: kill
+    - at: 19:54
+      label: Zed eliminates Ashe
+    - at: 22:51
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 22:55
+      label: Yunara picks off Aatrox
+    - at: 23:01
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 23:42
+      label: Red takes Baron
+      kind: baron
+    - at: 25:54
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:47
+      label: Zed solo kills Qiyana
+      kind: kill
+    - at: 27:59
+      label: Zed eliminates Ashe
+    - at: 28:38
+      label: Mid Inhibitor falls (Blue)
 - videoId: IZmkLZS9oH8
   title: Zed Jungle vs Sejuani - TW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1914
+- videoId: b-NHfJwviwI
+  title: T1 Faker Zed vs Sejuani [ Jungle ] Patch 25.16 Korea Master
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1106
+  region: KR
+  player: Faker
+  team: T1
+- videoId: nxDI4g_aeuw
+  title: Zed Jungle vs Sejuani - BR Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 2132
+- videoId: MNLfDlVsz3U
+  title: Zed vs Sejuani Jungle - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1651
+  region: KR

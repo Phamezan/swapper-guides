@@ -4,4 +4,34 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1931
+  region: KR
   uploaded: 2026-10-09
+- videoId: p2EeNB31u4w
+  title: (Six10) Ekko Mid vs Ahri - EUW Challenger Patch 26.14
+  rankClaim: Challenger
+  patch: "26.14"
+  durationSec: 1796
+  region: EUW
+  player: Six10
+- videoId: hwHZ6Bg5bY4
+  title: Ekko vs Ahri 9/0/3 (Mid) | EUW Grandmaster | Ekko OTP Replay
+  rankClaim: Grandmaster
+  patch: "26.8"
+  durationSec: 909
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-17
+- videoId: O8f74lFM1lA
+  title: Ekko vs Ahri 11/0/5 (Mid) | EUW Grandmaster | Ekko OTP Replay
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 1380
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-10
+- videoId: 0BT0WMCWFus
+  title: Ekko Mid vs Ahri - EUW Challenger Patch 26.03
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1450
+  region: EUW

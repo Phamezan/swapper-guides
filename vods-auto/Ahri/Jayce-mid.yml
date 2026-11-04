@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1414
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-11-01
@@ -12,6 +13,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1850
+  region: EUW
   player: Peng
   uploaded: 2026-09-29
   result: W
@@ -67,6 +69,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1603
+  region: EUW
   uploaded: 2026-09-20
   result: W
   moments:
@@ -121,6 +124,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 2046
+  region: EUW
   uploaded: 2026-09-10
   result: W
   moments:
@@ -173,3 +177,32 @@
     - at: 33:12
       label: Caitlyn Double Kill
       kind: kill
+- videoId: 1eVrPXytNpA
+  title: Ahri Mid vs Jayce - KR Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1453
+  region: KR
+- videoId: UoBCfxzWytc
+  title: Ahri vs Jayce Mid - EUW Grandmaster - Patch 25.18 Season 15
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1951
+  region: EUW
+- videoId: NnDdOaPtjJU
+  title: Ahri Mid vs Jayce - TW Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1712
+- videoId: jd61PLcFtv0
+  title: Ahri Mid vs Jayce - KR Grandmaster Patch 25.12
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1675
+  region: KR
+- videoId: tqAOTBHXTNU
+  title: Ahri vs Jayce Mid - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1840
+  region: KR

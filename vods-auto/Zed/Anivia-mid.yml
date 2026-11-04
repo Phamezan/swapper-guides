@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1720
+  region: KR
   uploaded: 2026-09-23
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1720
+  region: KR
   uploaded: 2026-09-09
   result: W
   moments:
@@ -112,6 +114,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1582
+  region: EUW
   uploaded: 2026-08-28
   result: W
   moments:
@@ -166,6 +169,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1436
+  region: EUW
   uploaded: 2026-07-23
   result: L
   moments:
@@ -217,6 +221,7 @@
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1577
+  region: EUNE
   player: AMP Royal
   uploaded: 2026-07-01
   result: L
@@ -272,8 +277,92 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1690
+  region: KR
+  uploaded: 2026-04-28
+  result: W
+  moments:
+    - at: 5:09
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:21
+      label: First Blood — Zed kills Lucian
+      kind: kill
+    - at: 8:07
+      label: Graves picks off Anivia
+    - at: 11:13
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:35
+      label: Zed kills Lucian
+      kind: kill
+    - at: 15:44
+      label: Zed catches Lucian
+    - at: 16:26
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 17:42
+      label: Zed solo kills Ambessa
+      kind: kill
+    - at: 19:04
+      label: Zed kills Lucian
+      kind: kill
+    - at: 19:37
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:20
+      label: Graves takes down Ambessa
+    - at: 22:00
+      label: Rell takes down Anivia
+    - at: 23:21
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 25:52
+      label: Volibear kills Ambessa
+      kind: kill
+    - at: 26:26
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:02
+      label: Zed outduels Lucian again
+    - at: 27:39
+      label: Mid Inhibitor falls (Red)
 - videoId: R0lAw3BHZRc
   title: Zed Mid vs Anivia - NA Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1536
+  region: NA
+- videoId: yujIu-fhyrk
+  title: Zed Mid vs Anivia - KR Master Patch 26.05
+  rankClaim: Master
+  patch: "26.5"
+  durationSec: 1614
+  region: KR
+- videoId: 80o0S4u3i3Y
+  title: OnZed Zed vs Anivia Mid - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1666
+  region: KR
+  player: OnZed
+- videoId: 8hmiFGaMNM0
+  title: Zed Mid vs Anivia - TW Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1584
+- videoId: lwaimvdEbTE
+  title: Zed Mid vs Anivia - KR Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 2115
+  region: KR
+- videoId: 5Duffj7n4wQ
+  title: Zed Mid vs Anivia - BR Master Patch 25.07
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1939
+- videoId: 4FZyhGxR0_M
+  title: Zed Mid vs Anivia - TW Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1534

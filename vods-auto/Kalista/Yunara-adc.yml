@@ -29,6 +29,20 @@
       label: Sieging the base
     - at: 17:51
       label: Final push and victory
+- videoId: sgkMU7EZNPM
+  title: (LOUD Bull) Kalista ADC vs Yunara - KR Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1640
+  region: KR
+  player: LOUD Bull
+- videoId: E8ZXMA3B00c
+  title: (UCAM ANDARIEL) Kalista ADC vs Yunara (BAM choego) - EUW Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1668
+  region: EUW
+  player: UCAM ANDARIEL
 - videoId: yUsOo9VK6QA
   title: BLG Viper Kalista vs Yunara [ ADC ] Korea Grandmaster 1523 LP | Patch 26.7
   rankClaim: Grandmaster
@@ -37,3 +51,10 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-04-13
+- videoId: --xlfStmkOk
+  title: Kalista ADC vs Yunara - KR Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1684
+  region: KR

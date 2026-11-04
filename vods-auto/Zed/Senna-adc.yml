@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1455
+  region: KR
   uploaded: 2026-08-03
   result: L
   moments:
@@ -57,3 +58,59 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1745
+  region: KR
+  uploaded: 2026-06-15
+  result: L
+  moments:
+    - at: 8:29
+      label: First Blood — Zed kills Senna
+      kind: kill
+    - at: 8:37
+      label: Kindred kills Maokai
+      kind: kill
+    - at: 9:02
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:45
+      label: Taric picks off Senna
+    - at: 11:33
+      label: Kennen eliminates LeBlanc
+    - at: 13:06
+      label: Zed takes down Senna
+    - at: 14:15
+      label: Zed outduels Senna
+    - at: 14:22
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:31
+      label: Zed kills LeBlanc
+      kind: kill
+    - at: 19:02
+      label: Sion picks off Senna
+    - at: 19:49
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 20:34
+      label: Zed takes down Senna
+    - at: 23:33
+      label: Zed outplays Senna again
+    - at: 24:05
+      label: Sion Double Kill
+      kind: kill
+    - at: 25:13
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 25:53
+      label: Red takes Baron
+      kind: baron
+    - at: 27:57
+      label: Zed Double Kill
+      kind: kill
+    - at: 28:03
+      label: Mid Inhibitor falls (Blue)
+- videoId: qvJN3A-uZQU
+  title: Zed ADC vs Senna - EUW Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1882
+  region: EUW

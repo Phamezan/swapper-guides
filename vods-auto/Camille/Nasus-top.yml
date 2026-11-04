@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1380
+  region: KR
   uploaded: 2026-09-17
 - videoId: equscmH-HIg
   title: T1 Doran Camille vs Nasus [ TOP ] Korea Grandmaster 1361 LP | Patch 26.18
@@ -14,3 +15,9 @@
   player: Doran
   team: T1
   uploaded: 2026-09-12
+- videoId: 00u_n_PdDcQ
+  title: Camille vs Nasus Top - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1761
+  region: KR

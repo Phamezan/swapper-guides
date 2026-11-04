@@ -4,3 +4,16 @@
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 2026
+  region: KR
+- videoId: QEP8Jh7RPc0
+  title: Vi Jungle vs Nocturne - KR Grandmaster Patch 25.15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1826
+  region: KR
+- videoId: alEJyWdke7o
+  title: Vi Jungle vs Nocturne - EUW Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1942
+  region: EUW

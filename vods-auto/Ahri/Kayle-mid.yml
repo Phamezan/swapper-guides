@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1583
+  region: KR
   uploaded: 2026-09-30
   result: W
   moments:
@@ -48,3 +49,8 @@
     - at: 26:11
       label: Naafiri Double Kill
       kind: kill
+- videoId: zu_FcaFv2Fs
+  title: Ahri Mid vs Kayle - BR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1520

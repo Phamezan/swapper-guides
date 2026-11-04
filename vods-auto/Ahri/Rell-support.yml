@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.3"
   durationSec: 1665
+  region: EUW
   uploaded: 2026-02-17
   moments:
     - at: 0:15

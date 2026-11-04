@@ -5,3 +5,22 @@
   patch: "26.13"
   durationSec: 1806
   region: KR
+  uploaded: 2026-07-06
+- videoId: ePfyXC_1G9Y
+  title: Kindred Jungle vs Vi - KR Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1859
+  region: KR
+- videoId: reTFqeBunLg
+  title: Kindred Jungle vs Vi - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1460
+  region: KR
+- videoId: _r8dzgFUNpE
+  title: Kindred Jungle vs Vi - EUW Grandmaster Patch 25.04
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1806
+  region: EUW

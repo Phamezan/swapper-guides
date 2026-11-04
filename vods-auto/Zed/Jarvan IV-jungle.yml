@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1701
+  region: KR
   uploaded: 2026-09-28
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1554
+  region: KR
   uploaded: 2026-09-17
   result: W
   moments:
@@ -116,6 +118,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 1774
+  region: KR
   uploaded: 2026-08-29
   result: W
   moments:
@@ -169,6 +172,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1486
+  region: EUW
   player: USE White
   uploaded: 2026-08-15
   result: L
@@ -207,6 +211,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1834
+  region: EUW
   uploaded: 2026-08-12
   result: L
   moments:
@@ -251,24 +256,313 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1801
+  region: EUW
   player: IN5 Alix
+  uploaded: 2026-06-07
+  result: L
+  moments:
+    - at: 4:18
+      label: First Blood — Zed kills Jarvan IV
+      kind: kill
+    - at: 6:13
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:23
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:46
+      label: Viktor eliminates Veigar
+    - at: 15:31
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:00
+      label: Zed eliminates Karthus
+    - at: 18:16
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 19:41
+      label: Zed outduels Jayce
+    - at: 21:26
+      label: Zed outplays Jayce again
+    - at: 22:28
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:47
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 24:51
+      label: Zed takes down Jarvan IV
+    - at: 26:17
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:24
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:01
+      label: Red takes Baron
+      kind: baron
+    - at: 27:51
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:40
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:59
+      label: Bot Inhibitor falls (Blue)
 - videoId: HYPVoRyt2HY
   title: Zed Jungle vs Jarvan IV - EUW Master Patch 26.11
   rankClaim: Master
   patch: "26.11"
   durationSec: 1846
+  region: EUW
+  uploaded: 2026-05-30
+  result: W
+  moments:
+    - at: 2:16
+      label: First Blood — Zed kills Senna
+      kind: kill
+    - at: 8:31
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:23
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:58
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:49
+      label: Zed kills Senna
+      kind: kill
+    - at: 16:59
+      label: Zed kills Fiora
+      kind: kill
+    - at: 17:47
+      label: Naafiri Double Kill
+      kind: kill
+    - at: 20:11
+      label: Zed eliminates Kai'Sa
+    - at: 20:33
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:15
+      label: Zed picks off Ambessa
+    - at: 23:17
+      label: Zed takes down Jarvan IV
+    - at: 23:53
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:17
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:06
+      label: Zed kills Fiora
+      kind: kill
+    - at: 27:48
+      label: Anivia Double Kill
+      kind: kill
+    - at: 29:35
+      label: Zed kills Fiora
+      kind: kill
+    - at: 29:56
+      label: Naafiri Triple Kill
+      kind: kill
+    - at: 30:19
+      label: Mid Inhibitor falls (Red)
 - videoId: z6s_6ZH6dlI
   title: Zed Jungle vs Jarvan IV - EUW Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1743
+  region: EUW
+  uploaded: 2026-05-22
+  result: L
+  moments:
+    - at: 2:42
+      label: First Blood — Kassadin kills Orianna
+      kind: kill
+    - at: 5:39
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:10
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 12:29
+      label: Zed outplays Jarvan IV
+    - at: 13:09
+      label: Zed picks off Orianna
+    - at: 14:34
+      label: Zed picks off Orianna
+    - at: 16:43
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:49
+      label: Zed picks off Orianna
+    - at: 19:31
+      label: Zed kills Malphite
+      kind: kill
+    - at: 22:07
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 22:10
+      label: Red takes Baron
+      kind: baron
+    - at: 23:29
+      label: Zed picks off Orianna
+    - at: 23:58
+      label: Kassadin Double Kill
+      kind: kill
+    - at: 25:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:10
+      label: Cassiopeia eliminates Malphite
+    - at: 28:03
+      label: Zed Triple Kill
+      kind: kill
+    - at: 28:38
+      label: Bot Inhibitor falls (Blue)
 - videoId: g3-ypQGnUTc
   title: Zed Jungle vs Jarvan IV - EUW Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1562
+  region: EUW
+  uploaded: 2026-05-04
+  result: W
+  moments:
+    - at: 4:13
+      label: First Blood — Zed kills Varus
+      kind: kill
+    - at: 6:30
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:37
+      label: Zed picks off LeBlanc
+    - at: 8:01
+      label: Rell kills Jarvan IV
+      kind: kill
+    - at: 9:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:00
+      label: Zed takes down Jarvan IV
+    - at: 12:27
+      label: Hwei picks off Jarvan IV
+    - at: 13:07
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:50
+      label: Zed kills Bard
+      kind: kill
+    - at: 18:55
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:27
+      label: Zed kills Bard
+      kind: kill
+    - at: 20:24
+      label: Zed kills Bard
+      kind: kill
+    - at: 21:33
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:08
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 25:14
+      label: Smolder Triple Kill
+      kind: kill
+    - at: 25:33
+      label: Mid Inhibitor falls (Red)
 - videoId: rY9aJ0k_kZA
   title: Zed Jungle vs Jarvan IV - VN Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1696
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:07
+      label: Take down The Turret
+      kind: tower
+    - at: 19:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:24
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:57
+      label: Take down The Turret
+      kind: tower
+    - at: 27:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:48
+      label: Take down The Turret
+      kind: tower
+    - at: 28:05
+      label: End credit
+- videoId: x_FYac0PVaI
+  title: Zed Jungle vs Jarvan IV - EUW Challenger Patch 26.06
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1750
+  region: EUW
+- videoId: VA9676rD_NE
+  title: Zed Jungle vs Jarvan IV - VN Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1566
+- videoId: 9OwnHkRQ6h0
+  title: Zed Jungle vs Jarvan IV - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1593
+  region: KR
+- videoId: MY_Gkdf_b9A
+  title: Zed Jungle vs Jarvan IV - VN Challenger Patch 25.18
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1735

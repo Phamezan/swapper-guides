@@ -4,3 +4,35 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1711
+  region: KR
+  uploaded: 2026-05-13
+- videoId: IWClfkzJxWw
+  title: Naafiri Mid vs Ryze - KR Challenger Patch 26.07
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1668
+  region: KR
+- videoId: 36e3ofhHSm0
+  title: Naafiri Mid vs Ryze - KR Challenger Patch 26.06
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1650
+  region: KR
+- videoId: eAlesZURaZY
+  title: Naafiri Mid vs Ryze - KR Master Patch 26.01
+  rankClaim: Master
+  patch: "26.1"
+  durationSec: 1590
+  region: KR
+- videoId: lhXkshSRW-8
+  title: Naafiri Mid vs Ryze - EUW Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1666
+  region: EUW
+- videoId: PSGYklXrKAI
+  title: Naafiri vs Ryze Mid - KR Grandmaster - Patch 25.16 Season 15
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 2111
+  region: KR

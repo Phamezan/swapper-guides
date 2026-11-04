@@ -4,3 +4,93 @@
   rankClaim: Master
   patch: "26.7"
   durationSec: 1876
+  region: EUW
+  uploaded: 2026-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:39
+      label: Take down The Turret
+      kind: tower
+    - at: 15:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:13
+      label: Take down The Turret
+      kind: tower
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Take down The Turret
+      kind: tower
+    - at: 26:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:53
+      label: Take down The Inhibitor
+    - at: 30:27
+      label: Take down The Inhibitor
+    - at: 30:44
+      label: Take down The Turret
+      kind: tower
+    - at: 30:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:05
+      label: End credit
+- videoId: 0dwyfuxCi-g
+  title: Zed Support vs Soraka - NA Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1563
+  region: NA
+- videoId: bM7cvleuOa8
+  title: Zed Support vs Soraka - BR Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1628
+- videoId: FFAZtNZ7Wn8
+  title: Zed Support vs Soraka - VN Master Patch 25.11
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1870

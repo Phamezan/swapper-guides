@@ -4,3 +4,50 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1458
+  region: EUW
+  uploaded: 2026-06-21
+  result: L
+  moments:
+    - at: 1:38
+      label: First Blood — Zed kills Zoe
+      kind: kill
+    - at: 6:04
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:42
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 13:05
+      label: Zed picks off Shen
+    - at: 14:45
+      label: Qiyana takes down Zoe
+    - at: 15:53
+      label: Zed picks off Zoe
+    - at: 16:15
+      label: Zed solo kills Shen
+      kind: kill
+    - at: 16:51
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 17:31
+      label: Zed takes down Shen again
+    - at: 17:45
+      label: Mid Inhibitor falls (Blue)
+    - at: 19:56
+      label: Zed takes down Viego
+    - at: 20:27
+      label: Red takes Baron
+      kind: baron
+    - at: 21:10
+      label: Zed catches Shen (3rd time)
+    - at: 21:50
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:32
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 23:51
+      label: Zed takes down Kalista
+    - at: 24:05
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:08
+      label: Top Inhibitor falls (Blue)

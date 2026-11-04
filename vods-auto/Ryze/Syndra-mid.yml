@@ -8,3 +8,25 @@
   player: Faker
   team: T1
   uploaded: 2026-09-02
+- videoId: sZ44xJFMU3k
+  title: (NS Calix) Ryze Mid vs Syndra - KR Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1473
+  region: KR
+  player: Calix
+  team: NS
+- videoId: _u9aRWZnONU
+  title: (LNG BuLLDoG) Ryze Mid vs Syndra - KR Challenger Patch 26.13
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1695
+  region: KR
+  player: BuLLDoG
+  team: LNG
+- videoId: d3OIqTC4XL4
+  title: Ryze Mid vs Syndra - EUW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1488
+  region: EUW

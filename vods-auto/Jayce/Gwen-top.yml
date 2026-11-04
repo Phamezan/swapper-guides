@@ -4,3 +4,24 @@
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1501
+  region: EUW
+- videoId: vqUT8wsMBy8
+  title: T1 Doran Jayce vs Gwen [ TOP ] Korea Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1649
+  region: KR
+  player: Doran
+  team: T1
+- videoId: SA1DmNsym14
+  title: Jayce Top vs Gwen - KR Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1551
+  region: KR
+- videoId: cbhO5cWiyP8
+  title: Jayce Top vs Gwen - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1527
+  region: KR

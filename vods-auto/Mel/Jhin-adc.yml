@@ -7,12 +7,15 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-23
 - videoId: NcYya9dQu0A
   title: Peyz Mel vs Jhin ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1666
+  region: KR
   player: Peyz
+  uploaded: 2026-05-17
 - videoId: CNzwYLZXUNM
   title: T1 Peyz Mel vs Jhin [ ADC ] Patch 26.10 Korea Challenger 2519 LP
   rankClaim: Challenger
@@ -21,8 +24,11 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-05-16
 - videoId: XaAqvB8_OaM
   title: Mel vs Jhin ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1816
+  region: KR
+  uploaded: 2026-04-02

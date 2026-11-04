@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1546
+  region: NA
   player: T1Doran
   uploaded: 2026-10-27
 - videoId: ov39EVhjlho
@@ -15,3 +16,28 @@
   player: Doran
   team: T1
   uploaded: 2026-10-26
+- videoId: 2NCYGzb7BSY
+  title: Irelia Top vs Jayce (BFX Clear) - KR Challenger Patch 26.15
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1453
+  region: KR
+- videoId: 0VdjiTFpmg8
+  title: Irelia vs Jayce Top - KR Grandmaster - Patch 25.23 Season 15
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1481
+  region: KR
+- videoId: BXxjrpLemes
+  title: Irelia Top vs Jayce - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1454
+  region: KR
+- videoId: oMECP2cuF0Y
+  title: Irelking Irelia vs Jayce Top - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1451
+  region: KR
+  player: Irelking

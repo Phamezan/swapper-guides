@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1918
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-11
@@ -12,6 +13,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1533
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-24
@@ -20,6 +22,7 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1587
+  region: EUW
   uploaded: 2026-05-08
   result: L
   moments:
@@ -67,3 +70,15 @@
       kind: kill
     - at: 24:54
       label: Caitlyn takes down Zeri
+- videoId: n_Mwi53c0pM
+  title: Ahri Top vs Sett - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1563
+  region: KR
+- videoId: KfOxN7T8arM
+  title: Ahri Top vs Sett - KR Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1579
+  region: KR

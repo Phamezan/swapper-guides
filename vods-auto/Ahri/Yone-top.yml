@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 2632
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-18
@@ -12,6 +13,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1847
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-05
@@ -20,6 +22,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1380
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-26
@@ -28,6 +31,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1687
+  region: EUW
   uploaded: 2026-07-08
   result: L
   moments:
@@ -75,11 +79,18 @@
     - at: 27:09
       label: Katarina Triple Kill
       kind: kill
+- videoId: ICcrIt5Qij8
+  title: Ahri Top vs Yone - EUW Grandmaster Patch 26.11
+  rankClaim: Grandmaster
+  patch: "26.11"
+  durationSec: 1799
+  region: EUW
 - videoId: kbL3sGmbB8w
   title: Ahri Top vs Yone - EUW Master Patch 26.11
   rankClaim: Master
   patch: "26.11"
   durationSec: 1876
+  region: EUW
   uploaded: 2026-06-10
   result: W
   moments:
@@ -128,6 +139,7 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1672
+  region: KR
   uploaded: 2026-05-05
   result: L
   moments:
@@ -181,6 +193,7 @@
   rankClaim: Master
   patch: "26.1"
   durationSec: 1498
+  region: KR
   uploaded: 2026-01-20
   moments:
     - at: 0:15
@@ -231,3 +244,9 @@
       kind: tower
     - at: 24:47
       label: End credit
+- videoId: kBSrZKK_duM
+  title: Ahri Top vs Yone - EUW Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1485
+  region: EUW

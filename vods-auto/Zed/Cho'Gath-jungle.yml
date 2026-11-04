@@ -4,8 +4,59 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1632
+  region: EUW
+  uploaded: 2026-05-12
+  result: W
+  moments:
+    - at: 2:10
+      label: First Blood — Zed kills Pantheon
+      kind: kill
+    - at: 8:27
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:34
+      label: Zed picks off Vex
+    - at: 13:25
+      label: Zed kills Yorick
+      kind: kill
+    - at: 13:48
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:00
+      label: Zed picks off Vex
+    - at: 16:36
+      label: Zed takes down Vayne
+    - at: 17:21
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 17:43
+      label: Zed eliminates Vayne
+    - at: 19:09
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 19:28
+      label: Aurora picks off Cho'Gath
+    - at: 23:45
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:13
+      label: Top Inhibitor falls (Red)
+    - at: 24:27
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 24:34
+      label: Mid Inhibitor falls (Red)
+    - at: 26:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:09
+      label: Zed solo kills Vex
+      kind: kill
+    - at: 26:41
+      label: Bard eliminates Yorick
 - videoId: MZkotzslxy8
   title: Zed Jungle vs Cho'Gath - EUW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1918
+  region: EUW

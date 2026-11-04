@@ -7,6 +7,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-20
 - videoId: T4wyPISdAoc
   title: HLE Gumayusi Corki vs Tristana [ ADC ] Korea Challenger 1487 LP | Patch 26.4
   rankClaim: Challenger
@@ -15,3 +16,23 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: YxULOu2eaW8
+  title: T1 Gumayusi Corki vs Tristana [ ADC ] Patch 25.13 Ranked NA
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 1076
+  region: NA
+  player: Gumayusi
+  team: T1
+- videoId: 2W0UfOYy6Ec
+  title: Corki ADC vs Tristana - NA Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1657
+  region: NA
+- videoId: PMuD-MMbZMU
+  title: Corki ADC vs Tristana - KR Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1798
+  region: KR

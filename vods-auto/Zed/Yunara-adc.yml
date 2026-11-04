@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1523
+  region: KR
   uploaded: 2026-07-27
   result: L
   moments:
@@ -59,6 +60,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1782
+  region: NA
   uploaded: 2026-07-06
   result: W
   moments:
@@ -112,18 +114,122 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1483
+  region: EUW
+  uploaded: 2026-04-27
+  result: L
+  moments:
+    - at: 4:32
+      label: First Blood — Bard kills Yunara
+      kind: kill
+    - at: 5:29
+      label: Zed takes down Yunara
+    - at: 5:38
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:56
+      label: Zed takes down Yunara
+    - at: 11:53
+      label: Evelynn kills Lulu
+      kind: kill
+    - at: 12:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:12
+      label: Zed eliminates Xin Zhao
+    - at: 17:56
+      label: Zed outduels Yunara
+    - at: 18:43
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:41
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 21:06
+      label: Red takes Baron
+      kind: baron
+    - at: 23:20
+      label: Zed eliminates Xin Zhao
+    - at: 23:39
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:18
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 24:33
+      label: Zed takes down Yunara
 - videoId: PvqtoX47qJM
   title: Zed ADC vs Yunara - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1691
+  region: KR
+  uploaded: 2026-04-14
+  result: L
+  moments:
+    - at: 5:23
+      label: First Blood — Zed kills Ryze
+      kind: kill
+    - at: 8:43
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:19
+      label: Zed outplays Lulu
+    - at: 14:49
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:17
+      label: Zed outduels Yunara
+    - at: 20:53
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 21:47
+      label: Zed solo kills Gnar
+      kind: kill
+    - at: 22:57
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:34
+      label: Red takes Baron
+      kind: baron
+    - at: 24:48
+      label: Zed eliminates Naafiri
+    - at: 25:34
+      label: Zed outplays Yunara again
+    - at: 26:20
+      label: Zed solo kills Lulu again
+      kind: kill
+    - at: 26:22
+      label: Zed Double Kill
+      kind: kill
+    - at: 26:25
+      label: Zed Triple Kill
+      kind: kill
+    - at: 27:08
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:24
+      label: Zed eliminates Naafiri
+    - at: 27:50
+      label: Top Inhibitor falls (Blue)
 - videoId: h7d5QVx8buk
   title: Zed ADC vs Yunara - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1481
+  region: KR
 - videoId: fih8nksXggc
   title: Zed ADC vs Yunara - EUW Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1821
+  region: EUW
+- videoId: TwstTWdBfHA
+  title: Zed ADC vs Yunara - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1487
+  region: EUW
+- videoId: TEIQ1BUkqrY
+  title: Zed ADC vs Yunara - EUW Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1731
+  region: EUW

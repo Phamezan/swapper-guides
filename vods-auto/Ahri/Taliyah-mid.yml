@@ -4,7 +4,8 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1875
-  player: DFM Fisher
+  region: KR
+  player: Clozer
   uploaded: 2026-10-05
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1436
+  region: EUW
   uploaded: 2026-09-22
   result: W
   moments:
@@ -114,6 +116,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1697
+  region: KR
   uploaded: 2026-09-18
   result: W
   moments:
@@ -167,6 +170,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1630
+  region: EUW
   player: KHK Venour
   uploaded: 2026-09-01
   result: W
@@ -214,6 +218,7 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1606
+  region: EUW
   player: SLY Jool
   uploaded: 2026-08-21
   result: L
@@ -267,3 +272,76 @@
       kind: kill
     - at: 26:18
       label: Ahri takes down Thresh
+- videoId: K3s0WE5SPaY
+  title: Ahri Mid vs Taliyah - KR Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1633
+  region: KR
+- videoId: Eigomp9NyC4
+  title: Showmaker Ahri vs Taliyah Mid - KR Challenger - Patch 25.17 Season 15
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1681
+  region: KR
+  player: ShowMaker
+- videoId: Ds4Mw0zPolI
+  title: "DK ShowMaker Ahri vs Taliyah [ MID ] Rank #5 Korea Challenger | Patch 25.17"
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1453
+  region: KR
+  player: ShowMaker
+  team: DK
+- videoId: du_hUb0YaP0
+  title: Ahri vs Taliyah Mid - KR Challenger - Patch  25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1530
+  region: KR
+- videoId: rnmyJbahF-w
+  title: Ahri vs Taliyah Mid - KR Grandmaster - Patch 25.12 Season 15
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1801
+  region: KR
+- videoId: jR-Ry0weSHU
+  title: Ahri Mid vs Taliyah - TW Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 2138
+- videoId: gYBxIW9NB-A
+  title: Ahri vs Taliyah Mid - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 2011
+  region: KR
+- videoId: o3Cp8bXGBZM
+  title: Zeka Ahri vs Taliyah Mid - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1566
+  region: KR
+  player: Zeka
+- videoId: WSaAP07iHbM
+  title: T1 Faker Ahri vs Taliyah [ MID ] Patch 25.11 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1009
+  region: KR
+  player: Faker
+  team: T1
+- videoId: qaO80K_qg38
+  title: Ahri vs Taliyah Mid - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1661
+  region: KR
+- videoId: jTLEbGlsk5w
+  title: T1 Faker Ahri vs Taliyah [ MID ] Korea Grandmaster Patch 25.8 ✅
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 2024
+  region: KR
+  player: Faker
+  team: T1

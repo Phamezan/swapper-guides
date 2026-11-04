@@ -4,3 +4,16 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1681
+  region: KR
+- videoId: MbEk0mVu3KM
+  title: Viego Mid vs Twisted Fate - KR Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1994
+  region: KR
+- videoId: sLi3qKFQeUg
+  title: Viego Mid vs Twisted Fate - KR Master Patch 25.07
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1482
+  region: KR

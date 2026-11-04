@@ -7,3 +7,26 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-05
+- videoId: St4XpqXcOkM
+  title: Ziggs vs Senna ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1801
+  region: KR
+- videoId: g1l0sgHpP-E
+  title: T1 Gumayusi Ziggs ADC vs Senna - Patch 25.12 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1356
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: 61zrAMcXRz0
+  title: T1 Gumayusi Ziggs vs Senna [ ADC ] Korea Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1509
+  region: KR
+  player: Gumayusi
+  team: T1

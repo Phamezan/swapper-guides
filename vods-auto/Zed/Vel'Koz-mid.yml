@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1447
+  region: EUW
   uploaded: 2026-08-23
   result: L
   moments:
@@ -48,6 +49,7 @@
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1707
+  region: EUW
   uploaded: 2026-07-21
   result: L
   moments:

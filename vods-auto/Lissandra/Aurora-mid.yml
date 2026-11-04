@@ -7,3 +7,16 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-05-27
+- videoId: kZHagDiIMCg
+  title: Lissandra Mid vs Aurora - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1620
+  region: EUW
+- videoId: ienptAKwqEM
+  title: Lissandra Mid vs Aurora - KR Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1672
+  region: KR

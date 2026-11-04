@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1726
+  region: EUW
+- videoId: 9MG-_7WAZRY
+  title: Darius vs Renekton Top - EUW Master - Patch 25.12 Season 15
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1456
+  region: EUW

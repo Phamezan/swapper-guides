@@ -4,14 +4,84 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1296
+  region: KR
   uploaded: 2026-09-17
 - videoId: a0x6FTpVztU
   title: Katarina vs Sylas Mid - EUW Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1711
+  region: EUW
+  uploaded: 2026-05-24
 - videoId: bML6YpEiOPk
   title: Katarina vs Sylas Mid - EUW Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1831
+  region: EUW
+- videoId: 5CJlmCEf7ms
+  title: Katarina vs Sylas Mid - EUW Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1651
+  region: EUW
+- videoId: cok7Cq6ZnSk
+  title: Katarina vs Sylas Mid - EUW Grandmaster - Patch 25.18 Season 15
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 2146
+  region: EUW
+- videoId: 7YTHD0XQTEw
+  title: Katarina vs Sylas Mid - KR Grandmaster - Patch 25.12 Season 15
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1906
+  region: KR
+- videoId: 7AjIyYr4CEs
+  title: Katarina vs Sylas Mid - KR Master - Patch 25.10 Season 15
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1471
+  region: KR
+- videoId: Hlkn4GXlznk
+  title: Katarina vs Sylas Mid - KR Master - Patch 25.8 Season 15
+  rankClaim: Master
+  patch: "25.8"
+  durationSec: 1711
+  region: KR
+- videoId: G6ZnDe7tOmM
+  title: Katarina vs Sylas Mid - KR Grandmaster - Patch 25.8 Season 15
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 2091
+  region: KR
+- videoId: 9JF3rBsuXKM
+  title: Katarina vs Sylas Mid - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1601
+  region: KR
+- videoId: ThOC-rAt6EI
+  title: Katarina vs Sylas Mid - KR Grandmaster - Patch 25.6 Season 15
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1441
+  region: KR
+- videoId: zMkua8-rwz0
+  title: Katarina vs Sylas Mid - KR Grandmaster - Patch 25.5 Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1631
+  region: KR
+- videoId: BQtRg-BOmZY
+  title: Katarina vs Sylas Mid - KR Grandmaster - Patch 25.5 Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1411
+  region: KR
+- videoId: fNTN8amjivs
+  title: Katarina vs Sylas Mid - KR Grandmaster - Patch 15.4 Season 15
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1590
+  region: KR

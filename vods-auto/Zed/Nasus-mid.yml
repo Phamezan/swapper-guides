@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1998
+  region: EUW
   uploaded: 2026-09-27
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1751
+  region: KR
   uploaded: 2026-09-24
   result: W
   moments:
@@ -107,6 +109,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1843
+  region: KR
   uploaded: 2026-09-14
   result: W
   moments:
@@ -164,6 +167,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1522
+  region: KR
   uploaded: 2026-09-07
   result: W
   moments:
@@ -210,6 +214,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 2084
+  region: KR
   uploaded: 2026-09-04
   result: W
   moments:
@@ -265,6 +270,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1831
+  region: EUW
   uploaded: 2026-08-22
   result: L
   moments:
@@ -306,3 +312,14 @@
       kind: dragon
     - at: 29:36
       label: Bot Inhibitor falls (Blue)
+- videoId: lAm9wuthTo4
+  title: Zed Mid vs Nasus - EUW Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1683
+  region: EUW
+- videoId: PyI0yHiwFQM
+  title: Zed Mid vs Nasus - TW Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1568

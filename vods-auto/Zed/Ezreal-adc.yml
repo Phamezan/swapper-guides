@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1537
+  region: NA
   uploaded: 2026-10-12
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Master
   patch: "26.13"
   durationSec: 1759
+  region: EUW
   uploaded: 2026-07-12
   result: W
   moments:
@@ -109,28 +111,191 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1786
+  region: KR
+  uploaded: 2026-04-28
+  result: W
+  moments:
+    - at: 2:33
+      label: First Blood — Zed kills Sylas
+      kind: kill
+    - at: 5:37
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:47
+      label: Zed outplays Sylas
+    - at: 12:04
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:06
+      label: Zed outduels Ezreal
+    - at: 12:16
+      label: Zed solo kills Sylas again
+      kind: kill
+    - at: 17:00
+      label: Zed solo kills Yasuo
+      kind: kill
+    - at: 17:27
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:14
+      label: Zed picks off Sylas
+    - at: 21:46
+      label: Zoe picks off Ambessa
+    - at: 23:09
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 24:52
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:05
+      label: Mid Inhibitor falls (Red)
+    - at: 27:58
+      label: Zed eliminates Ambessa
+    - at: 28:46
+      label: Zed outplays Ezreal again
+    - at: 28:49
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 29:05
+      label: Aatrox Double Kill
+      kind: kill
+    - at: 29:11
+      label: Aatrox Triple Kill
+      kind: kill
 - videoId: yutsfuK6Vbg
   title: Zed ADC vs Ezreal - KR Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1714
+  region: KR
+  uploaded: 2026-04-19
+  result: W
+  moments:
+    - at: 2:02
+      label: First Blood — Zed kills Thresh
+      kind: kill
+    - at: 5:15
+      label: Zed outduels Ezreal
+    - at: 8:12
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:28
+      label: Zed outplays Ezreal again
+    - at: 10:21
+      label: Zed picks off Thresh
+    - at: 13:16
+      label: Zed picks off Thresh
+    - at: 13:46
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 14:08
+      label: Zed Double Kill
+      kind: kill
+    - at: 17:24
+      label: Zed eliminates Viego
+    - at: 18:54
+      label: Zed picks off Jayce
+    - at: 19:13
+      label: Zed Triple Kill
+      kind: kill
+    - at: 19:31
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 20:08
+      label: Zed catches Qiyana
+    - at: 21:08
+      label: Nunu & Willump eliminates Qiyana
+    - at: 22:52
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:07
+      label: Mid Inhibitor falls (Red)
+    - at: 25:44
+      label: Blue takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 27:38
+      label: Team fight (4 kills)
+      kind: teamfight
 - videoId: ynW6y1XFtp0
   title: Zed ADC vs Ezreal - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1687
+  region: KR
+  uploaded: 2026-04-16
+  result: L
+  moments:
+    - at: 1:11
+      label: First Blood — Zed kills Ezreal
+      kind: kill
+    - at: 1:39
+      label: Zed outplays Bard
+    - at: 5:08
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:16
+      label: Zed catches Lissandra
+    - at: 12:10
+      label: Zed outduels Lissandra again
+    - at: 12:52
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 14:13
+      label: Zed outplays Lissandra (3rd time)
+    - at: 15:34
+      label: Zed outduels Ezreal
+    - at: 18:42
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:42
+      label: Red takes Baron
+      kind: baron
+    - at: 22:29
+      label: Zed solo kills Trundle
+      kind: kill
+    - at: 24:06
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:31
+      label: Zed eliminates Rek'Sai
+    - at: 26:10
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 26:41
+      label: Zed eliminates Rek'Sai
+    - at: 27:19
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:25
+      label: Zed outplays Ezreal again
+    - at: 27:35
+      label: Top Inhibitor falls (Blue)
 - videoId: 0D8IH3-VwE4
   title: Zed ADC vs Ezreal - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1521
+  region: KR
 - videoId: ggRXHe2b3_4
   title: Zed ADC vs Ezreal - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1789
+  region: KR
 - videoId: VC5GlZrJJH4
   title: Zed ADC vs Ezreal - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1593
+  region: KR
+- videoId: -KCn7-tfNII
+  title: Zed ADC vs Ezreal - EUW Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1731
+  region: EUW
+- videoId: GT5XahwvTcA
+  title: Zed ADC vs Ezreal - EUW Grandmaster Patch 25.09
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1939
+  region: EUW

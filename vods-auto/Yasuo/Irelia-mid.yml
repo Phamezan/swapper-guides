@@ -4,3 +4,17 @@
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1561
+  region: EUW
+  uploaded: 2026-04-25
+- videoId: lQh9uEPJMQk
+  title: Yasuo vs Irelia Mid - EUW Grandmaster - Patch 25.18 Season 15
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1811
+  region: EUW
+- videoId: uyw25c7RQWQ
+  title: Yasuo Mid vs Irelia - KR Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 2049
+  region: KR

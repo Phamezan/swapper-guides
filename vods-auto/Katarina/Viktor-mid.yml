@@ -5,8 +5,35 @@
   patch: "26.12"
   durationSec: 1601
   region: KR
+  uploaded: 2026-06-19
 - videoId: APmBrwWUjfA
   title: Katarina vs Viktor Mid - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 2341
+  region: KR
+  uploaded: 2026-05-19
+- videoId: 8hL00zZvHhM
+  title: Katarina vs Viktor Mid - KR Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1751
+  region: KR
+- videoId: JNA8xT_r2_s
+  title: Katarina vs Viktor Mid - KR Grandmaster - Patch 25.12 Season 15
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1591
+  region: KR
+- videoId: -UhOUrDHrkc
+  title: Katarina vs Viktor Mid - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1800
+  region: KR
+- videoId: guyw18XdfbM
+  title: Katarina vs Viktor Mid - KR Grandmaster - Patch 25.9 Season 15
+  rankClaim: Grandmaster
+  patch: "25.9"
+  durationSec: 1726
+  region: KR

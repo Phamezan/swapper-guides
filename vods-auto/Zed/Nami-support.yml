@@ -4,8 +4,60 @@
   rankClaim: Master
   patch: "26.11"
   durationSec: 1859
+  region: NA
+  uploaded: 2026-06-05
+  result: L
+  moments:
+    - at: 2:40
+      label: First Blood — Zed kills Kha'Zix
+      kind: kill
+    - at: 8:43
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:28
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:47
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:07
+      label: Zed catches Kha'Zix
+    - at: 21:56
+      label: Red takes Baron
+      kind: baron
+    - at: 22:42
+      label: Zed kills Kha'Zix
+      kind: kill
+    - at: 23:08
+      label: Zed picks off Brand
+    - at: 24:33
+      label: Zed solo kills Nami
+      kind: kill
+    - at: 24:38
+      label: Orianna eliminates Vladimir
+    - at: 25:26
+      label: Zaahen picks off Brand
+    - at: 25:53
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:02
+      label: Zed Double Kill
+      kind: kill
+    - at: 27:31
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:33
+      label: Zed outduels Kha'Zix again
+    - at: 29:14
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:37
+      label: Zed kills Kha'Zix
+      kind: kill
+    - at: 29:57
+      label: Top Inhibitor falls (Blue)
 - videoId: 6OCO5VOUhx4
   title: Zed Support vs Nami - EUW Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1565
+  region: EUW

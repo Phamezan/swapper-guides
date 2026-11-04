@@ -11,6 +11,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1816
+  region: KR
   uploaded: 2026-10-08
 - videoId: 3c1Fg6EyrqU
   title: HLE Zeus Fiora vs K'Sante [ TOP ] Korea Grandmaster 1358 LP | Patch 26.4
@@ -20,3 +21,9 @@
   region: KR
   player: Zeus
   team: HLE
+- videoId: Qq2YGrzmksk
+  title: Fiora Top vs K'Sante - EUW Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1726
+  region: EUW

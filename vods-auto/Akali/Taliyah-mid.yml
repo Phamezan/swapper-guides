@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1560
+  region: NA
   player: Faker
   team: T1
   uploaded: 2026-10-23
@@ -25,3 +26,21 @@
   player: Chovy
   team: Gen.G
   uploaded: 2026-09-13
+- videoId: cvsy4NACxaw
+  title: Akali vs Taliyah Mid - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1546
+  region: KR
+- videoId: wKhKvpSXe6E
+  title: Akali Mid vs Taliyah - KR Master Patch 25.17
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 1528
+  region: KR
+- videoId: HoHewdq-33U
+  title: Akali vs Taliyah Mid - KR Master - Patch 25.11 Season 15
+  rankClaim: Master
+  patch: "25.11"
+  durationSec: 1621
+  region: KR

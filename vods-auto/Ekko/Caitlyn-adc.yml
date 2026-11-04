@@ -7,3 +7,20 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-07-08
+  moments:
+    - at: 0:00
+      label: Early game setup
+    - at: 2:19
+      label: Mid-lane skirmishes
+    - at: 7:03
+      label: Taking objective control
+    - at: 10:48
+      label: Mid-game team fights
+      kind: teamfight
+    - at: 13:49
+      label: Securing map objectives
+    - at: 17:00
+      label: Sieging the base
+    - at: 20:17
+      label: Final assault and victory

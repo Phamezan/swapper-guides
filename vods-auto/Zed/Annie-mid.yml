@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1980
+  region: KR
   uploaded: 2026-10-15
   result: W
   moments:
@@ -54,3 +55,26 @@
       label: Kennen takes down Annie
     - at: 32:34
       label: Top Inhibitor falls (Blue)
+- videoId: MVtAVa_b1uo
+  title: Zed Mid vs Annie (DK ShowMaker) - KR Grandmaster Patch 26.16
+  rankClaim: Grandmaster
+  patch: "26.16"
+  durationSec: 1614
+  region: KR
+  player: ShowMaker
+- videoId: -34Nz4Aq6XA
+  title: Zed Mid vs Annie - KR Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1448
+  region: KR
+- videoId: GBIEaCbotqQ
+  title: Zed Mid vs Annie - TW Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1536
+- videoId: mMYuVQrPQ4w
+  title: Zed Mid vs Annie - BR Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1838

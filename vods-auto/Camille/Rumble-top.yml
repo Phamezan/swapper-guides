@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1531
+  region: NA
+- videoId: zB-CTj3fYLw
+  title: Camille Top vs Rumble - KR Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1849
+  region: KR

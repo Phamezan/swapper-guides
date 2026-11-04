@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1853
+  region: KR
   uploaded: 2026-09-03
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1846
+  region: KR
   player: OnZed
   uploaded: 2026-09-03
 - videoId: o5L0Aaz4vt0
@@ -65,6 +67,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1586
+  region: KR
   uploaded: 2026-08-27
   result: W
   moments:

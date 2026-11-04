@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1544
+  region: EUW
   uploaded: 2026-05-09
   result: L
   moments:
@@ -43,3 +44,15 @@
       kind: dragon
     - at: 25:09
       label: Mid Inhibitor falls (Blue)
+- videoId: wb0Nk8aG1uo
+  title: Ahri Top vs Sylas - EUW Master Patch 25.17
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 1688
+  region: EUW
+- videoId: RQ6ZpgYcKyk
+  title: Ahri Top vs Sylas - EUW Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1938
+  region: EUW

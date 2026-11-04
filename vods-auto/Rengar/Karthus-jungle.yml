@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1786
+  region: KR
+- videoId: _Y33jr9cGko
+  title: Rengar Jungle vs Karthus - EUW Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1908
+  region: EUW

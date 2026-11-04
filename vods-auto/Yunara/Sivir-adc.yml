@@ -6,3 +6,36 @@
   durationSec: 1257
   region: KR
   player: Teddy
+  uploaded: 2026-04-25
+- videoId: Z_jZPJCo-pM
+  title: "DK Smash Yunara vs Sivir [ ADC ] Rank #1 Korea Challenger Patch 25.23"
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1597
+  region: KR
+  player: Smash
+  team: DK
+- videoId: pvhMnuO_RAw
+  title: Yunara vs Sivir ADC - KR Grandmaster - Patch 25.15 Season 15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1531
+  region: KR
+- videoId: P8f8a5vSezY
+  title: Yunara vs Sivir ADC - KR Master - Patch 25.15 Season 15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1321
+  region: KR
+- videoId: pXKP-NImcEU
+  title: Yunara vs Sivir ADC - KR Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 2076
+  region: KR
+- videoId: jdZlORZTCnk
+  title: Yunara vs Sivir ADC - EUW Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1591
+  region: EUW

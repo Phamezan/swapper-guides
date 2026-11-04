@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1483
+  region: KR
   uploaded: 2026-07-26
   result: W
   moments:
@@ -46,3 +47,18 @@
   rankClaim: Master
   patch: "26.8"
   durationSec: 1631
+  region: EUNE
+  uploaded: 2026-04-23
+  result: L
+- videoId: VzdwMdTL3uU
+  title: Zed Top vs Singed - NA Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1690
+  region: NA
+- videoId: AUtaOhYVX_I
+  title: Zed Top vs Singed - NA Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1578
+  region: NA

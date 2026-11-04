@@ -4,3 +4,10 @@
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1756
+  region: KR
+- videoId: yo2e6ME3e_o
+  title: Tristana Top vs Gangplank - KR Master Patch 25.07
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1726
+  region: KR

@@ -7,6 +7,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-05-22
 - videoId: 2t2obnAIPek
   title: T1 Peyz Varus vs Ezreal [ ADC ] Korea Challenger 2456 LP | Patch 26.10
   rankClaim: Challenger
@@ -15,6 +16,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-05-14
 - videoId: M43lPruSgv0
   title: HLE Gumayusi Varus vs Ezreal [ ADC ] Korea Challenger 2450 LP | Patch 26.9
   rankClaim: Challenger
@@ -23,6 +25,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-12
 - videoId: Co_-PdGcN9Q
   title: T1 Peyz Varus vs Ezreal [ ADC ] Korea Challenger 2482 LP | Patch 26.8
   rankClaim: Challenger
@@ -31,11 +34,20 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-27
 - videoId: RCayhVE52BU
   title: Varus vs Ezreal ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1681
+  region: KR
+  uploaded: 2026-04-03
+- videoId: LpW817FdDxw
+  title: Varus ADC vs Ezreal - KR Master Patch 26.06
+  rankClaim: Master
+  patch: "26.6"
+  durationSec: 1605
+  region: KR
 - videoId: _-mnwmyw6RA
   title: BLG Viper Varus vs Ezreal [ ADC ] Korea Challenger 1443 LP | Patch 26.4
   rankClaim: Challenger
@@ -44,3 +56,77 @@
   region: KR
   player: Viper
   team: BLG
+- videoId: -aHm71oNndE
+  title: T1 Smash Varus vs Ezreal [ ADC ] Korea Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1593
+  region: KR
+  player: Smash
+  team: T1
+- videoId: 39x4K_tkjFg
+  title: Varus ADC vs Ezreal - KR Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1650
+  region: KR
+- videoId: CD-6Hfku9cs
+  title: Varus ADC vs Ezreal - KR Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1742
+  region: KR
+- videoId: i_4dDRvLZfY
+  title: Varus ADC vs Ezreal - KR Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1643
+  region: KR
+- videoId: bxZrZkItUvE
+  title: Varus vs Ezreal ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1681
+  region: KR
+- videoId: vN6j1qp6fzQ
+  title: Varus vs Ezreal ADC [ Deft ] Korea Challenger Patch 25.8 ✅
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1293
+  region: KR
+  player: Deft
+- videoId: M2RClLVhXHk
+  title: T1 Gumayusi Varus vs Ezreal [ ADC ] Patch 25.7 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1973
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: euR_Hrz_8SM
+  title: Varus vs Ezreal ADC - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1716
+  region: KR
+- videoId: Uy_ySQmznvk
+  title: Varus ADC vs Ezreal - KR Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1732
+  region: KR
+- videoId: y0KFbaYoQII
+  title: Ruler Varus vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1710
+  region: KR
+  player: Ruler
+- videoId: e-yamEQyvLs
+  title: Varus vs Ezreal ADC [ Gen.G Ruler ] Patch 25.4 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1525
+  region: KR
+  player: Ruler
+  team: Gen.G

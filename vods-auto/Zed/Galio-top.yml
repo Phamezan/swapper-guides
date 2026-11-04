@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1681
+  region: KR
   uploaded: 2026-08-02
   result: L
   moments:
@@ -57,8 +58,108 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1831
+  region: KR
+  uploaded: 2026-06-16
+  result: L
+  moments:
+    - at: 4:41
+      label: First Blood — Zed kills Galio
+      kind: kill
+    - at: 8:06
+      label: Zed catches Galio
+    - at: 11:32
+      label: Zed outduels Galio again
+    - at: 12:35
+      label: Zed outplays Galio (3rd time)
+    - at: 14:06
+      label: Zed solo kills Galio (4th time)
+      kind: kill
+    - at: 15:14
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:15
+      label: Zed takes down Galio (5th time)
+    - at: 20:45
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:50
+      label: Zed solo kills Caitlyn
+      kind: kill
+    - at: 22:12
+      label: Zed Triple Kill
+      kind: kill
+    - at: 23:45
+      label: Zed outduels Lee Sin
+    - at: 23:54
+      label: Red takes Baron
+      kind: baron
+    - at: 24:52
+      label: Zed outplays Lee Sin again
+    - at: 25:54
+      label: Hwei Quadra Kill
+      kind: kill
+    - at: 26:25
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 27:13
+      label: Aphelios picks off Galio
+    - at: 28:25
+      label: Hwei picks off Lee Sin
+    - at: 30:03
+      label: Zed picks off Caitlyn
 - videoId: rXQLAgybo5U
   title: Zed Top vs Galio - KR Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1727
+  region: KR
+  uploaded: 2026-04-28
+  result: L
+  moments:
+    - at: 1:50
+      label: First Blood — Zed kills Galio
+      kind: kill
+    - at: 4:59
+      label: Zed catches Galio
+    - at: 9:25
+      label: Zed outduels Galio again
+    - at: 9:41
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:23
+      label: Zed outplays Galio (3rd time)
+    - at: 13:25
+      label: Zed solo kills Galio (4th time)
+      kind: kill
+    - at: 15:41
+      label: Zed outduels Naafiri
+    - at: 16:18
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 21:44
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:29
+      label: Zed kills Naafiri
+      kind: kill
+    - at: 23:07
+      label: Red takes Baron
+      kind: baron
+    - at: 23:48
+      label: Zed takes down Galio (5th time)
+    - at: 25:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:05
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:54
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 27:51
+      label: Caitlyn kills Sylas
+      kind: kill
+    - at: 28:18
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:33
+      label: Caitlyn picks off Galio

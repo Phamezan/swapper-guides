@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 2044
+  region: KR
   uploaded: 2026-10-06
   result: W
   moments:
@@ -57,6 +58,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1762
+  region: KR
   uploaded: 2026-09-22
   result: W
   moments:
@@ -105,6 +107,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1847
+  region: KR
   uploaded: 2026-08-21
   result: W
   moments:
@@ -159,3 +162,38 @@
     - at: 30:32
       label: Zed Triple Kill
       kind: kill
+- videoId: K2nmeN5aZGw
+  title: Zed Mid vs Talon - KR Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1503
+  region: KR
+- videoId: xD6ZcsSmqJg
+  title: Zed Mid vs Talon - NA Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 2108
+  region: NA
+- videoId: 6Jtc34yZQ44
+  title: Zed vs Talon Mid - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1931
+  region: KR
+- videoId: j0S2D5o8jSs
+  title: Zed Mid vs Talon - VN Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 2002
+- videoId: wOfnfJL5UcQ
+  title: Zed vs Talon Mid - KR Grandmaster - Patch 15.4 Season 15
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1816
+  region: KR
+- videoId: QeKxYTUIBmk
+  title: Zed Mid vs Talon - NA Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1951
+  region: NA

@@ -4,4 +4,29 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1666
+  region: KR
   uploaded: 2026-10-19
+- videoId: KbndpJkTyhQ
+  title: Zeri ADC vs Corki - EUW Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1604
+  region: EUW
+- videoId: zC0BK6xv64w
+  title: Zeri ADC vs Corki - EUW Challenger Patch 26.03
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1465
+  region: EUW
+- videoId: qHL_kDGfIuM
+  title: Zeri ADC vs Corki - KR Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1633
+  region: KR
+- videoId: JU4TD-s0Jts
+  title: Zeri vs Corki ADC - KR Grandmaster - Patch 25.12 Season 15
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 1531
+  region: KR

@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1345
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-09
@@ -12,6 +13,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1938
+  region: EUW
   player: ES xKenzuke
   uploaded: 2026-09-07
   result: W
@@ -61,11 +63,18 @@
       kind: kill
     - at: 31:19
       label: Mid Inhibitor falls (Blue)
+- videoId: mPi5s8-vbXg
+  title: Ahri Mid vs Corki - KR Grandmaster Patch 26.08
+  rankClaim: Grandmaster
+  patch: "26.8"
+  durationSec: 1869
+  region: KR
 - videoId: -S6WxTuidc8
   title: Ahri Mid vs Corki - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1737
+  region: KR
   uploaded: 2026-03-19
   moments:
     - at: 0:15
@@ -120,3 +129,24 @@
       kind: teamfight
     - at: 28:46
       label: End credit
+- videoId: FhxlqD-dVWI
+  title: Ahri Mid vs Corki - BR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1851
+- videoId: VGX5k967CXk
+  title: Ahri Mid vs Corki - BR Challenger Patch 25.16
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1811
+- videoId: Qy8tm6oN_Wo
+  title: Ahri Mid vs Corki - BR Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1722
+- videoId: XNUtJC2ex-s
+  title: Ahri Mid vs Corki - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1788
+  region: KR

@@ -4,3 +4,50 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1471
+  region: KR
+  uploaded: 2026-06-21
+  result: W
+  moments:
+    - at: 5:43
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:53
+      label: First Blood — Galio kills Yorick
+      kind: kill
+    - at: 7:54
+      label: Zed kills Pantheon
+      kind: kill
+    - at: 11:37
+      label: Zed catches Yorick
+    - at: 11:57
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:00
+      label: Darius kills Yorick
+      kind: kill
+    - at: 14:20
+      label: Galio picks off Pantheon
+    - at: 15:28
+      label: Zed outduels Yorick again
+    - at: 16:42
+      label: Skarner takes down Fizz
+    - at: 17:20
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 18:35
+      label: Zed solo kills Xayah
+      kind: kill
+    - at: 18:40
+      label: Zed Double Kill
+      kind: kill
+    - at: 19:01
+      label: Zed eliminates Vel'Koz
+    - at: 19:45
+      label: Zed takes down Xayah again
+    - at: 21:38
+      label: Zed outplays Yorick (3rd time)
+    - at: 23:25
+      label: Zed eliminates Vel'Koz
+    - at: 23:51
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon

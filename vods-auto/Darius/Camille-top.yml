@@ -4,4 +4,41 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1666
+  region: KR
   uploaded: 2026-09-02
+- videoId: wsRBvwqBG_8
+  title: Darius vs Camille Top - KR Grandmaster - Patch 25.24 Season 15
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1636
+  region: KR
+- videoId: s115dP9DenQ
+  title: Darius Top vs Camille - KR Master Patch 25.22
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1496
+  region: KR
+- videoId: EPuWmqrk4pM
+  title: Darius vs Camille Top - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1901
+  region: KR
+- videoId: KzonTTSmsy0
+  title: Darius Top vs Camille - KR Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 2026
+  region: KR
+- videoId: 0AAkji7wQN8
+  title: Darius vs Camille Top - KR Grandmaster - Patch 25.6 Season 15
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1996
+  region: KR
+- videoId: -MCgLhpWSVA
+  title: Darius vs Camille Top - EUW Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 2370
+  region: EUW

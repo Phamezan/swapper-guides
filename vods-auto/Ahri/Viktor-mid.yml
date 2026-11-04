@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.21"
   durationSec: 1677
+  region: EUW
   patchEstimated: true
   player: DarkAuraLOL
   uploaded: 2026-10-26
@@ -12,6 +13,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1978
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-18
@@ -20,6 +22,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1696
+  region: KR
   uploaded: 2026-10-16
   result: W
   moments:
@@ -75,6 +78,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1341
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-15
@@ -83,6 +87,7 @@
   rankClaim: Grandmaster
   patch: "26.19"
   durationSec: 1834
+  region: KR
   uploaded: 2026-10-08
   result: W
   moments:
@@ -139,6 +144,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1748
+  region: EUW
   uploaded: 2026-09-13
   result: W
   moments:
@@ -188,6 +194,7 @@
   rankClaim: Master
   patch: "26.17"
   durationSec: 2009
+  region: KR
   uploaded: 2026-08-29
   result: W
   moments:
@@ -241,6 +248,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1738
+  region: EUW
   uploaded: 2026-08-28
   result: L
   moments:
@@ -295,11 +303,84 @@
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1939
+  region: NA
   patchEstimated: true
   player: ScrubNoob
   uploaded: 2026-08-17
+- videoId: E0qHlCXnS5o
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Viktor | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.14"
+  durationSec: 1410
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-07-26
+- videoId: EZHmIghwdBA
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Viktor | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.14"
+  durationSec: 1229
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-07-22
+- videoId: utqpRGxYlAM
+  title: (AL Shanks) Ahri Mid vs Viktor - KR Grandmaster Patch 26.13
+  rankClaim: Grandmaster
+  patch: "26.13"
+  durationSec: 1494
+  region: KR
+  player: Shanks
+  team: AL
+- videoId: CIZhpJwmeh0
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Viktor | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1510
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-04-10
+- videoId: gKfNyM9Z4D8
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Viktor | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 1090
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-04-10
+- videoId: eVhZxD9JSew
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Viktor | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 2311
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-04-07
+- videoId: f6V8rQdM-JQ
+  title: "MID.GG: [ Eika ] Ahri MID vs Viktor | EUW GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 1665
+  region: EUW
+  patchEstimated: true
+  player: Eika
+  uploaded: 2026-04-02
 - videoId: y8lOCtvig9I
   title: Ahri Mid vs Viktor - VN Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1472
+- videoId: zx4jZZu8pFo
+  title: Ahri vs Viktor Mid - KR Challenger - Patch 25.24 Seaosn 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1771
+  region: KR
+- videoId: Nohe_C3RiHA
+  title: Ahri Mid vs Viktor - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1546
+  region: KR

@@ -4,3 +4,59 @@
   rankClaim: Master
   patch: "26.10"
   durationSec: 1766
+  region: EUW
+  uploaded: 2026-05-29
+  result: L
+  moments:
+    - at: 2:39
+      label: First Blood — Hwei kills Vayne
+      kind: kill
+    - at: 4:58
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:44
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 16:57
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 21:16
+      label: Red takes Baron
+      kind: baron
+    - at: 21:55
+      label: Zed Double Kill
+      kind: kill
+    - at: 22:06
+      label: Zed takes down Karthus
+    - at: 22:29
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:59
+      label: Zed kills Thresh
+      kind: kill
+    - at: 25:05
+      label: Zed takes down Volibear
+    - at: 25:25
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:13
+      label: Zed kills Thresh
+      kind: kill
+    - at: 26:34
+      label: Hwei kills Karthus
+      kind: kill
+    - at: 27:37
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:51
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 28:03
+      label: Zed picks off Vayne
+    - at: 28:29
+      label: Top Inhibitor falls (Blue)
+- videoId: JVvBsaV7l1I
+  title: Zed Jungle vs Volibear - EUW Grandmaster Patch 25.15
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1476
+  region: EUW

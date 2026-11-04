@@ -7,11 +7,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-05-21
 - videoId: FQPC3Eg3bFw
   title: Zeri vs Ezreal ADC - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1836
+  region: KR
+  uploaded: 2026-05-08
 - videoId: 0vJdLmGlj8M
   title: T1 Peyz Zeri vs Ezreal [ ADC ] Korea Master 650 LP | Patch 26.1
   rankClaim: Master
@@ -28,3 +31,78 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: 0Snw9jgaHYg
+  title: Zeri ADC vs Ezreal - KR Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1698
+  region: KR
+- videoId: WVhfxx_rKRw
+  title: Zeri vs Ezreal ADC - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1546
+  region: KR
+- videoId: qfsxTCoTXXM
+  title: Zeri vs Ezreal ADC [ DRX Teddy ] Patch 25.12 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1307
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: cRzGKxQAqqk
+  title: Zeri ADC vs Ezreal - KR Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1918
+  region: KR
+- videoId: n2iugEWcOVg
+  title: T1 Gumayusi Zeri vs Ezreal [ ADC ] Korea Challenger Patch 25.10
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 1289
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: SAKpP2CpSko
+  title: Zeri vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 2056
+  region: KR
+- videoId: dpRMv7itijc
+  title: Zeri vs Ezreal ADC [ Peyz ] Patch 25.7 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1869
+  region: KR
+  player: Peyz
+- videoId: TLsYV-pPVY4
+  title: Zeri ADC vs Ezreal - EUW Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1816
+  region: EUW
+- videoId: MGLi2vqcXqY
+  title: T1 Gumayusi Zeri vs Ezreal [ ADC ] Patch 25.5 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1392
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: AaxQApertjo
+  title: Zeri vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1696
+  region: KR
+- videoId: RhwialATKzo
+  title: Zeri vs Ezreal ADC [ Gen.G Ruler ] Korea Challenger Patch 25.3 ✅
+  rankClaim: Challenger
+  patch: "25.3"
+  durationSec: 1935
+  region: KR
+  player: Ruler
+  team: Gen.G

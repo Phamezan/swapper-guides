@@ -7,8 +7,17 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-30
 - videoId: zBkpxJdNPKg
   title: Mel vs Yunara ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1876
+  region: KR
+  uploaded: 2026-03-30
+- videoId: kt6PhT08fg4
+  title: Mel vs Yunara ADC - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1891
+  region: KR

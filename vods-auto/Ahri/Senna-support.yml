@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1717
+  region: EUW
   uploaded: 2026-08-11
   result: L
   moments:
@@ -50,3 +51,9 @@
       label: Top Inhibitor falls (Blue)
     - at: 27:45
       label: Vel'Koz eliminates Viktor
+- videoId: SaCREVSdAn4
+  title: Ahri Support vs Senna - EUW Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1645
+  region: EUW

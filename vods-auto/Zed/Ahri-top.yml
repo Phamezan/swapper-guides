@@ -4,3 +4,41 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1873
+  region: EUW
+  uploaded: 2026-06-09
+  result: W
+  moments:
+    - at: 6:50
+      label: First Blood — Zed kills Ahri
+      kind: kill
+    - at: 10:39
+      label: Zed catches Ahri
+    - at: 13:02
+      label: Zed picks off Ashe
+    - at: 13:51
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:30
+      label: Nidalee takes down Rek'Sai
+    - at: 19:22
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:30
+      label: Zed outduels Ahri again
+    - at: 22:00
+      label: Zed eliminates Janna
+    - at: 23:40
+      label: Nidalee picks off Yone
+    - at: 24:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:47
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 25:25
+      label: Nidalee picks off Yone
+    - at: 30:01
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 30:50
+      label: Mid Inhibitor falls (Red)

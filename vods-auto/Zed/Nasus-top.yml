@@ -4,8 +4,21 @@
   rankClaim: Master
   patch: "26.6"
   durationSec: 1553
+  region: EUW
 - videoId: aHZnNZjNp4w
   title: Zed Top vs Nasus - VN Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1479
+- videoId: bsugTvoIA48
+  title: Zed Top vs Nasus - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1556
+  region: KR
+- videoId: 42PdIDtOTbc
+  title: Zed Top vs Nasus - NA Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 1586
+  region: NA

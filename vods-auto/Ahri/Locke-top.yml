@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1728
+  region: KR
   uploaded: 2026-08-16
   result: L
   moments:
@@ -55,6 +56,7 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1778
+  region: EUW
   player: Caps
   team: G2
   uploaded: 2026-08-13

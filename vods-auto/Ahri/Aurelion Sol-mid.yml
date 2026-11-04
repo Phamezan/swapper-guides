@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1280
+  region: KR
   player: Roamer
   team: BRO
   uploaded: 2026-10-21
@@ -51,6 +52,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1736
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-03
@@ -59,6 +61,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1562
+  region: EUW
   player: KHK Abbedagge
   uploaded: 2026-09-18
   result: W
@@ -107,4 +110,17 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1426
+  region: KR
   uploaded: 2026-02-21
+- videoId: DIaSJCbQ9Pg
+  title: Ahri Mid vs Aurelion Sol - KR Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1769
+  region: KR
+- videoId: 6lU2ke_FVdo
+  title: Ahri Mid vs Aurelion Sol - KR Challenger Patch 25.21
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1675
+  region: KR

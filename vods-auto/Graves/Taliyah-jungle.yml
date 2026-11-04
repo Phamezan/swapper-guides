@@ -4,9 +4,73 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1486
+  region: KR
   uploaded: 2026-10-14
+- videoId: Q-otr6ch6cU
+  title: Graves Jungle vs Taliyah - KR Master Patch 26.20
+  rankClaim: Master
+  patch: "26.20"
+  durationSec: 1725
+  region: KR
+  uploaded: 2026-10-10
+  result: W
+  moments:
+    - at: 0:56
+      label: First Blood — Graves kills Pantheon
+      kind: kill
+    - at: 5:36
+      label: Graves picks off Pantheon
+    - at: 6:19
+      label: Yone Double Kill
+      kind: kill
+    - at: 7:39
+      label: Graves picks off Pantheon
+    - at: 9:00
+      label: Graves picks off Pantheon
+    - at: 11:02
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:18
+      label: Graves takes down Taliyah
+    - at: 13:07
+      label: Graves eliminates Katarina
+    - at: 14:13
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:15
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 19:53
+      label: Graves takes down Taliyah
+    - at: 21:59
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:32
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:42
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:44
+      label: Graves kills Leona
+      kind: kill
+    - at: 25:31
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:09
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 27:38
+      label: Mid Inhibitor falls (Red)
 - videoId: 0YQOsaljfO8
   title: Graves vs Taliyah Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1726
+  region: KR
+- videoId: xQ2RkAgG-BY
+  title: Graves vs Taliyah Jungle - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2141
+  region: KR

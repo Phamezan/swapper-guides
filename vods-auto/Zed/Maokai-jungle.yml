@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.16"
   durationSec: 1462
+  region: EUW
   uploaded: 2026-08-19
   result: L
   moments:
@@ -55,3 +56,54 @@
   rankClaim: Master
   patch: "26.9"
   durationSec: 1664
+  region: EUW
+  uploaded: 2026-05-14
+  result: L
+  moments:
+    - at: 3:15
+      label: First Blood — Kennen kills Naafiri
+      kind: kill
+    - at: 9:40
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:01
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:23
+      label: Zed kills Senna
+      kind: kill
+    - at: 16:57
+      label: Zed solo kills Akshan
+      kind: kill
+    - at: 17:12
+      label: Zed kills Senna
+      kind: kill
+    - at: 17:54
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:41
+      label: Zed takes down Lucian
+    - at: 20:12
+      label: Zed takes down Akshan again
+    - at: 20:18
+      label: Kennen takes down Naafiri
+    - at: 22:06
+      label: Zed picks off Akshan
+    - at: 22:27
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:40
+      label: Smolder takes down Lucian
+    - at: 24:03
+      label: Zed kills Naafiri
+      kind: kill
+    - at: 24:27
+      label: Red takes Baron
+      kind: baron
+    - at: 25:50
+      label: Zed kills Naafiri
+      kind: kill
+    - at: 27:11
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:17
+      label: Zed catches Senna

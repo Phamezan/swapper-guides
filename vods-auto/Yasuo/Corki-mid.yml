@@ -4,3 +4,10 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1501
+  region: KR
+- videoId: JKzXyV0zVcY
+  title: Yasuo Mid vs Corki - KR Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1572
+  region: KR

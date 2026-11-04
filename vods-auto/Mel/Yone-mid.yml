@@ -4,3 +4,34 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 2051
+  region: EUW
+- videoId: jDLT1i5PvG4
+  title: Mel vs Yone Mid - KR Challenger - Season 15 Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1636
+  region: KR
+- videoId: -WR7Ny6rDhQ
+  title: Mel Mid vs Yone - KR Grandmaster Patch 25.21
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1820
+  region: KR
+- videoId: sel3OWI-yjA
+  title: Mel vs Yone Mid - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1831
+  region: KR
+- videoId: e1lO0eCcDg4
+  title: Mel Mid vs Yone - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1768
+  region: KR
+- videoId: ow_tkdWAR3w
+  title: Mel vs Yone [ MID ] Korea Master Patch 25.2 ✅
+  rankClaim: Master
+  patch: "25.2"
+  durationSec: 1384
+  region: KR

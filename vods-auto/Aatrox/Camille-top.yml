@@ -4,4 +4,41 @@
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1821
+  region: KR
   uploaded: 2026-03-25
+- videoId: q7izFOrV7Eo
+  title: AATROX vs CAMILLE (TOP) | Legendary | NA Grandmaster | 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1719
+  region: NA
+- videoId: r6oJ9LnQS18
+  title: AATROX vs CAMILLE (TOP) | 2500+ games, 5/2/10 | KR Master | 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1176
+  region: KR
+- videoId: 3q_iDYNbo0Q
+  title: AATROX vs CAMILLE (TOP) | 4k comeback, 1400+ games, 11/3/8, Dominating | KR Master | 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1615
+  region: KR
+- videoId: rcejNkplb5o
+  title: AATROX vs CAMILLE (TOP) | 74% winrate, 49k DMG, 4k comeback, 12/3/11, Legendary | KR Master | 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 2117
+  region: KR
+- videoId: woQc54Ud3HI
+  title: AATROX vs CAMILLE (TOP) | 8/2/4 | KR Challenger | 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1051
+  region: KR
+- videoId: c6IXRErLOpE
+  title: AATROX vs CAMILLE (TOP) | 5/1/7 | EUW Master | 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1170
+  region: EUW

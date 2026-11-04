@@ -4,3 +4,23 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1561
+  region: KR
+  uploaded: 2026-05-06
+- videoId: roqO7GTQZKU
+  title: Rengar Jungle vs Viego - KR Challenger Patch 26.07
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1791
+  region: KR
+- videoId: PgCw9vvPXEQ
+  title: Rengar Jungle vs Viego - KR Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1615
+  region: KR
+- videoId: eFolqgTzXt0
+  title: Rengar vs Viego [ Jungle ] Korea Master Patch 25.7 ✅
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 1506
+  region: KR

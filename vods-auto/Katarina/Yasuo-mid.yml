@@ -4,9 +4,35 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1301
+  region: KR
+  uploaded: 2026-05-08
+- videoId: YpyDfZ8n4sg
+  title: Katarina Mid vs Yasuo - TW Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1513
 - videoId: 8yBDlSSuwkc
   title: Katarina vs Yasuo [ MID ] Lol Korea Master Patch 26.5 ✅
   rankClaim: Master
   patch: "26.5"
   durationSec: 1801
+  region: KR
+- videoId: ArJZIc7BqOI
+  title: Katarina vs Yasuo MID [ PentaKill ] Patch 25.23 Korea Grandmaster 903 LP
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1869
+  region: KR
+  player: PentaKill
+- videoId: FUrlvbESJ2U
+  title: Katarina vs Yasuo Mid - KR Master - Patch 25.9 Season 15
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1380
+  region: KR
+- videoId: jnL2mbdnPnc
+  title: Katarina vs Yasuo Mid - KR Grandmaster - Patch 25.5 Season 15
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1440
   region: KR

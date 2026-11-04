@@ -5,3 +5,23 @@
   patch: "26.5"
   durationSec: 1405
   region: KR
+- videoId: rkFaA3YHhx8
+  title: Vayne ADC vs Lucian - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1615
+  region: EUW
+- videoId: P_9ZS-blNKU
+  title: T1 Peyz Vayne vs Lucian [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1134
+  region: KR
+  player: Peyz
+  team: T1
+- videoId: 16XuV20WoR8
+  title: Vayne vs Lucian [ ADC ] Lol Korea Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1635
+  region: KR

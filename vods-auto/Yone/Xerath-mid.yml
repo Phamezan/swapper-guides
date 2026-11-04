@@ -8,3 +8,18 @@
   player: Faker
   team: T1
   uploaded: 2026-11-01
+- videoId: L85y3hQV9CU
+  title: (F0X Improver) Yone Mid vs Xerath - EUW Grandmaster Patch 26.16
+  rankClaim: Grandmaster
+  patch: "26.16"
+  durationSec: 1448
+  region: EUW
+  player: F0X Improver
+- videoId: Ar1t-Vcpa2Y
+  title: (LNG BuLLDoG) Yone Mid vs Xerath - KR Challenger Patch 26.10
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1808
+  region: KR
+  player: BuLLDoG
+  team: LNG

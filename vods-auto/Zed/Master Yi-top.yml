@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.14"
   durationSec: 1775
+  region: EUW
   uploaded: 2026-07-18
   result: L
   moments:
@@ -56,3 +57,44 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1729
+  region: KR
+  uploaded: 2026-04-27
+  result: L
+  moments:
+    - at: 4:40
+      label: First Blood — Zed kills Master Yi
+      kind: kill
+    - at: 8:36
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:14
+      label: Rengar eliminates Master Yi
+    - at: 11:35
+      label: Zed eliminates Master Yi
+    - at: 13:56
+      label: Rengar kills Nocturne
+      kind: kill
+    - at: 15:19
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:14
+      label: Zed takes down Twisted Fate
+    - at: 20:52
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 22:20
+      label: Taliyah Triple Kill
+      kind: kill
+    - at: 22:43
+      label: Red takes Baron
+      kind: baron
+    - at: 26:19
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 27:16
+      label: Zed eliminates Master Yi
+    - at: 27:41
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:08
+      label: Team fight (3 kills)
+      kind: teamfight

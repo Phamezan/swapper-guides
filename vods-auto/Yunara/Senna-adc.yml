@@ -7,6 +7,20 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-06-28
+- videoId: CvuxU3oV5Rg
+  title: (FK Adam) Yunara ADC vs Senna - EUW Grandmaster Patch 26.11
+  rankClaim: Grandmaster
+  patch: "26.11"
+  durationSec: 1496
+  region: EUW
+  player: FK Adam
+- videoId: 4PaKMAwBME8
+  title: Yunara ADC vs Senna - KR Challenger Patch 26.10
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1741
+  region: KR
 - videoId: RLvj7MkNIJI
   title: T1 Peyz Yunara vs Senna [ ADC ] Korea Challenger 2320 LP | Patch 26.7
   rankClaim: Challenger
@@ -15,6 +29,25 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-05
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 2:45
+      label: Mid-game skirmishes
+    - at: 7:21
+      label: Objective control
+    - at: 10:36
+      label: Turret sieges
+      kind: tower
+    - at: 14:29
+      label: Dragon and Rift Herald
+      kind: herald
+    - at: 16:47
+      label: Baron Nashor power play
+      kind: baron
+    - at: 19:45
+      label: Final push and victory
 - videoId: EGLUDAZMCHY
   title: HLE Gumayusi Yunara vs Senna [ ADC ] Korea Challenger 2412 LP | Patch 26.6
   rankClaim: Challenger
@@ -23,3 +56,34 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-01
+- videoId: I0OSjnrRTwU
+  title: Yunara vs Senna ADC [ HLE Viper ] Korea Challenger Patch 25.18
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1060
+  region: KR
+  player: Viper
+  team: HLE
+- videoId: QegYwBoHzV4
+  title: Yunara vs Senna ADC - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1441
+  region: KR
+- videoId: zcWFj_e2Z9A
+  title: T1 Gumayusi Yunara ADC vs Senna - Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1281
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: UFsnEEjd_4Y
+  title: T1 Gumayusi Yunara vs Senna [ ADC ] Korea Master Patch 25.15
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1020
+  region: KR
+  player: Gumayusi
+  team: T1

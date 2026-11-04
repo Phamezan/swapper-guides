@@ -4,4 +4,11 @@
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1811
+  region: EUW
   uploaded: 2026-07-21
+- videoId: 4LSiJWkf-KY
+  title: Fiora Top vs Kled - KR Master Patch 25.13
+  rankClaim: Master
+  patch: "25.13"
+  durationSec: 1436
+  region: KR

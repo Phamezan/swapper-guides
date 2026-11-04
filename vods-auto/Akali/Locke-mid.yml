@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1680
+  region: NA
   player: Zeka
   uploaded: 2026-10-26
 - videoId: LNz3CmDKVHU
@@ -11,6 +12,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1696
+  region: KR
   uploaded: 2026-10-13
 - videoId: F48pAUp76a4
   title: T1 Faker Akali vs Locke [ MID ] Korea Challenger 2089 LP | Patch 26.18
@@ -21,3 +23,11 @@
   player: Faker
   team: T1
   uploaded: 2026-09-17
+- videoId: bBfYwkiDJ9o
+  title: (EDG Angel) Akali Mid vs Locke (DFM Fisher) - KR Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1601
+  region: KR
+  player: Angel
+  team: EDG

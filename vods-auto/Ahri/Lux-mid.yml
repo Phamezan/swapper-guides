@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1645
+  region: KR
   uploaded: 2026-09-20
   result: W
   moments:
@@ -58,6 +59,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 2099
+  region: EUW
   uploaded: 2026-08-31
   result: W
   moments:
@@ -106,3 +108,9 @@
       label: Mid Inhibitor falls (Blue)
     - at: 34:45
       label: Ahri outduels Sona
+- videoId: rHyzZ9TWbpI
+  title: Ahri Mid vs Lux - KR Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1571
+  region: KR

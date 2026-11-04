@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.19"
   durationSec: 1812
+  region: EUW
   player: KCB Kamiloo
   uploaded: 2026-10-04
   result: W
@@ -53,6 +54,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1582
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-10-03
@@ -61,6 +63,7 @@
   rankClaim: Master
   patch: "26.19"
   durationSec: 1839
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-25
@@ -69,6 +72,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1839
+  region: EUW
   uploaded: 2026-09-25
   result: W
   moments:
@@ -125,6 +129,12 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1374
+  region: NA
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-21
+- videoId: d927i6HXeL0
+  title: Ahri Mid vs Veigar - BR Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1450

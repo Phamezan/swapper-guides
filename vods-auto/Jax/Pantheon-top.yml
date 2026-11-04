@@ -4,4 +4,19 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 2049
+  region: KR
   uploaded: 2026-10-14
+- videoId: GONbt4-E-CE
+  title: T1 Faker Jax vs Pantheon [ TOP ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1682
+  region: KR
+  player: Faker
+  team: T1
+- videoId: D6pth50j3SI
+  title: Jax Top vs Pantheon - KR Master Patch 25.23
+  rankClaim: Master
+  patch: "25.23"
+  durationSec: 1636
+  region: KR

@@ -7,3 +7,30 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-25
+- videoId: lcytkLmVY8Y
+  title: Senna ADC vs Lucian - EUW Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1623
+  region: EUW
+- videoId: Uky6jgwynzQ
+  title: Senna ADC vs Lucian - KR Grandmaster Patch 25.16
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 1619
+  region: KR
+- videoId: 7HzueK7NysU
+  title: Senna ADC vs Lucian - KR Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1537
+  region: KR
+- videoId: 7mAHKKcqOK8
+  title: T1 Gumayusi Senna vs Lucian [ ADC ] Patch 25.10 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 774
+  region: KR
+  player: Gumayusi
+  team: T1

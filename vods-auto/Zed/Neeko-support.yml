@@ -4,3 +4,16 @@
   rankClaim: Master
   patch: "26.2"
   durationSec: 1604
+  region: KR
+- videoId: 4MLEya6CAxE
+  title: Zed Support vs Neeko - EUW Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1606
+  region: EUW
+- videoId: HP3X5bW-Zx8
+  title: Zed Support vs Neeko - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1692
+  region: KR

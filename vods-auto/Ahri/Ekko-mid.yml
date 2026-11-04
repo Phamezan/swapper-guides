@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1451
+  region: EUW
   player: Peng
   uploaded: 2026-10-22
   result: W
@@ -53,6 +54,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1640
+  region: EUW
   player: Hydra
   uploaded: 2026-10-20
   result: W
@@ -110,6 +112,7 @@
   rankClaim: Challenger
   patch: "26.20"
   durationSec: 1714
+  region: EUW
   player: Peng
   uploaded: 2026-10-11
   result: W
@@ -162,6 +165,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1957
+  region: EUW
   uploaded: 2026-09-23
   result: W
   moments:
@@ -216,6 +220,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1521
+  region: EUW
   uploaded: 2026-08-27
   result: W
   moments:
@@ -263,3 +268,23 @@
       label: Tristana picks off Bard
     - at: 24:51
       label: Top Inhibitor falls (Red)
+- videoId: UjxAM1xrP90
+  title: Ahri vs Ekko 13/0/9 (Mid) | EUW Challenger | Ahri OTP Replay
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1844
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-04-14
+- videoId: o45w7uNrIOo
+  title: Ahri Mid vs Ekko - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1632
+  region: KR
+- videoId: IxqrirJy07s
+  title: Ahri Mid vs Ekko - KR Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1822
+  region: KR

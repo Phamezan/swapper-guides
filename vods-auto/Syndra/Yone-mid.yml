@@ -25,3 +25,24 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-07-05
+- videoId: LiuoXRm-puI
+  title: Syndra vs Yone 14/2/6 (Mid) | EUW Master | Syndra OTP Replay
+  rankClaim: Master
+  patch: "26.10"
+  durationSec: 1499
+  region: EUW
+  patchEstimated: true
+  uploaded: 2026-05-14
+- videoId: eF-ok42pQ5E
+  title: Syndra Mid vs Yone - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1481
+  region: KR
+- videoId: a5H9tgnSS0g
+  title: Syndra Mid vs Yone - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1648
+  region: KR

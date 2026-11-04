@@ -7,6 +7,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-04-30
 - videoId: fM4kukj0K1E
   title: T1 Peyz Ezreal vs Xayah [ ADC ] Korea Challenger 2118 LP | Patch 26.5
   rankClaim: Challenger
@@ -14,4 +15,20 @@
   durationSec: 752
   region: KR
   player: Peyz
+  team: T1
+- videoId: bGG3kNOKS8s
+  title: Ezreal vs Xayah ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 2605
+  region: KR
+  player: Viper
+  team: BLG
+- videoId: Fni29_KNl2I
+  title: T1 Gumayusi Ezreal ADC vs Xayah - Patch 25.8 Korea Challenger ✅
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1289
+  region: KR
+  player: Gumayusi
   team: T1

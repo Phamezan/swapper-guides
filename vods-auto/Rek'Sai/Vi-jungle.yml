@@ -4,3 +4,10 @@
   rankClaim: Master
   patch: "26.1"
   durationSec: 1771
+  region: KR
+- videoId: vObxHFnn3sw
+  title: Rek'Sai Jungle vs Vi - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1871
+  region: KR

@@ -7,6 +7,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-06-27
 - videoId: p5_t2cEuY40
   title: HLE Gumayusi Caitlyn vs Ashe [ ADC ] Korea Challenger 2512 LP | Patch 26.7
   rankClaim: Challenger
@@ -15,6 +16,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-14
 - videoId: O8l1FNK-cTs
   title: HLE Gumayusi Caitlyn vs Ashe [ ADC ] Korea Challenger 2357 LP | Patch 26.7
   rankClaim: Challenger
@@ -23,15 +25,62 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-05
 - videoId: KfcWb0-NdTY
   title: Caitlyn vs Ashe ADC - KR Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1411
+  region: KR
   uploaded: 2026-03-08
 - videoId: B7qBMHIWcD4
   title: Caitlyn vs Ashe ADC - EUW Challenger - Patch 16.04 Season 16
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1906
+  region: EUW
   uploaded: 2026-02-28
+- videoId: LvthTwwJjq4
+  title: Caitlyn vs Ashe ADC [ DRX Teddy ] Patch 25.21 Korea Master
+  rankClaim: Master
+  patch: "25.21"
+  durationSec: 1573
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: iIdSHr2_aSo
+  title: Caitlyn vs Ashe ADC - KR Grandmaster - Patch 25.12 Season 15
+  rankClaim: Grandmaster
+  patch: "25.12"
+  durationSec: 2236
+  region: KR
+- videoId: IeIPVJFek3g
+  title: Caitlyn vs Ashe ADC - KR Grandmaster - Patch 25.10 Season 15
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1951
+  region: KR
+- videoId: 84sWkE249uA
+  title: Caitlyn vs Ashe ADC [ DRX Teddy ] Korea Challenger Patch 25.8 ✅
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1463
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: 08c1OnlNL6Y
+  title: T1 Gumayusi Caitlyn vs Ashe [ ADC ] Korea Challenger Patch 25.4
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1581
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: auGRBNnitTs
+  title: T1 Gumayusi Caitlyn vs Ashe [ ADC ] Patch 25.1 Ranked Korea ✅
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1293
+  region: KR
+  player: Gumayusi
+  team: T1

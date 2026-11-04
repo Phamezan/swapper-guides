@@ -7,3 +7,19 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-26
+  moments:
+    - at: 0:00
+      label: Early game laning phase
+    - at: 1:58
+      label: Mid-game skirmishes
+    - at: 3:31
+      label: Neutral objective control
+    - at: 5:50
+      label: Voidgrub and jungle battles
+    - at: 7:12
+      label: Siege and map pressure
+    - at: 8:55
+      label: Building an advantage
+    - at: 10:54
+      label: Victory and endgame

@@ -4,4 +4,17 @@
   rankClaim: Grandmaster
   patch: "26.18"
   durationSec: 1320
+  region: KR
   uploaded: 2026-09-17
+- videoId: uQKCWk8YLGM
+  title: Yasuo Mid vs Tristana - KR Master Patch 25.18
+  rankClaim: Master
+  patch: "25.18"
+  durationSec: 1451
+  region: KR
+- videoId: 1py21wriG0Q
+  title: Yasuo Mid vs Tristana - NA Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1490
+  region: NA

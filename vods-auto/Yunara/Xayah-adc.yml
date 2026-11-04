@@ -8,11 +8,14 @@
   player: Ruler
   team: Gen.G
   uploaded: 2026-10-06
-- videoId: j5WTYcvQGes
-  title: Yunara vs Xayah ADC - KR Challenger - Patch 16.06 Season 16
+- videoId: lBVEdhi_lCI
+  title: (NS Lucy) Yunara ADC vs Xayah - KR Challenger Patch 26.17
   rankClaim: Challenger
-  patch: "26.6"
-  durationSec: 1381
+  patch: "26.17"
+  durationSec: 1564
+  region: KR
+  player: Lucy
+  team: NS
 - videoId: LB6eTVhAVSA
   title: T1 Peyz Yunara vs Xayah [ ADC ] Korea Challenger 1968 LP | Patch 26.6
   rankClaim: Challenger
@@ -20,4 +23,19 @@
   durationSec: 1406
   region: KR
   player: Peyz
+  team: T1
+- videoId: j5WTYcvQGes
+  title: Yunara vs Xayah ADC - KR Challenger - Patch 16.06 Season 16
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1381
+  region: KR
+  uploaded: 2026-03-30
+- videoId: Lcx1FfpImPk
+  title: T1 Gumayusi Yunara vs Xayah [ ADC ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1271
+  region: KR
+  player: Gumayusi
   team: T1

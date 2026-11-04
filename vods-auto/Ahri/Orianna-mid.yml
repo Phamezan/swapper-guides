@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.21"
   durationSec: 1570
+  region: KR
   player: Xiaohao
   team: WBG
   uploaded: 2026-10-31
@@ -59,6 +60,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1764
+  region: EUW
   player: danzA
   uploaded: 2026-09-15
   result: W
@@ -117,6 +119,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1662
+  region: EUW
   uploaded: 2026-08-31
   result: W
   moments:
@@ -168,6 +171,7 @@
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1597
+  region: KR
   uploaded: 2026-08-22
   result: W
   moments:
@@ -202,18 +206,150 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1336
+  region: KR
+  uploaded: 2026-04-27
 - videoId: Vs2ygmQB89A
   title: Ahri vs Orianna Mid - EUW Grandmaster - Patch 16.08 Season 16
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 2026
+  region: EUW
+  uploaded: 2026-04-24
 - videoId: 8t-Ft-gBvXo
   title: Ahri Mid vs Orianna - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1877
+  region: KR
+  uploaded: 2026-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Take down The Turret
+      kind: tower
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:24
+      label: Take down The Turret
+      kind: tower
+    - at: 20:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Take down The Turret
+      kind: tower
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:16
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:41
+      label: Take down The Turret
+      kind: tower
+    - at: 27:11
+      label: Take down The Turret
+      kind: tower
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:06
+      label: End credit
+- videoId: vk6jEGH5OHQ
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Orianna | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1718
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-04-11
+- videoId: o3Y7sukkeu0
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Orianna | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1357
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2026-04-08
+- videoId: vrtgNuvr0e0
+  title: "MID.GG: [ dunlol ] Ahri MID vs Orianna | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 829
+  region: NA
+  patchEstimated: true
+  player: dunlol
+  uploaded: 2026-04-03
 - videoId: D80BlpMuVPw
   title: Ahri Mid vs Orianna - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1475
+  region: KR
+- videoId: xIJZCZWg1kw
+  title: Ahri Mid vs Orianna - KR Challenger Patch 25.22
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1638
+  region: KR
+- videoId: 2xaKqMLvnbQ
+  title: Ahri Mid vs Orianna - KR Master Patch 25.20
+  rankClaim: Master
+  patch: "25.20"
+  durationSec: 1603
+  region: KR
+- videoId: WmooCfFq3fE
+  title: Ahri Mid vs Orianna - KR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1677
+  region: KR
+- videoId: QA4iGiDPtxo
+  title: Ahri vs Orianna Mid - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1441
+  region: KR
+- videoId: xFJ2OQAMlpI
+  title: Ahri Mid vs Orianna - TW Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1610
+- videoId: rTOpeMGGc2E
+  title: Ahri vs Orianna Mid - KR Grandmaster - Patch 25.11 Season 15
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1321
+  region: KR
+- videoId: viJ4oRFF3H8
+  title: Ahri Mid vs Orianna - VN Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1730

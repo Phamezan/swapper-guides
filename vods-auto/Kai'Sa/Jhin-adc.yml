@@ -69,12 +69,21 @@
   player: Peyz
   team: T1
   uploaded: 2026-08-28
+- videoId: RwyluMngycU
+  title: (BFX Taeyoon) Kai'Sa ADC vs Jhin - KR Grandmaster Patch 26.16
+  rankClaim: Grandmaster
+  patch: "26.16"
+  durationSec: 1533
+  region: KR
+  player: Taeyoon
+  team: BFX
 - videoId: riMEvmPfrlM
   title: Kai'Sa vs Jhin [ ADC ] Korea Challenger 1939 LP | Patch 26.14
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1876
   region: KR
+  uploaded: 2026-07-17
 - videoId: aAEIbbObCEA
   title: HLE Gumayusi Kai'Sa vs Jhin [ ADC ] Korea Challenger 2570 LP | Patch 26.12
   rankClaim: Challenger
@@ -83,11 +92,19 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-22
+- videoId: VOv7o5nlZY8
+  title: Kai'Sa ADC vs Jhin - KR Challenger Patch 26.07
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1719
+  region: KR
 - videoId: 1pA1GR7A1kc
   title: Kai'Sa vs Jhin ADC - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1861
+  region: KR
 - videoId: wX_mbPVXTB0
   title: T1 Peyz Kai'Sa vs HLE Gumayusi Jhin [ ADC ] Korea Grandmaster 990 LP | Patch 26.1
   rankClaim: Grandmaster
@@ -96,3 +113,50 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: 6wjeOZE7JxM
+  title: Kai'Sa ADC vs Jhin - KR Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 2108
+  region: KR
+- videoId: bgC8t0VOfvw
+  title: T1 Gumayusi Kaisa vs Jhin [ ADC ] Patch 25.15 Korea Master
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1301
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: USLV-u9IuZA
+  title: Kai'Sa ADC vs Jhin - KR Challenger Patch 25.13
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 1430
+  region: KR
+- videoId: voSkTBB1jV0
+  title: Kai'Sa ADC vs Jhin - KR Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1777
+  region: KR
+- videoId: 2i_1LaBrzNA
+  title: T1 Gumayusi Kaisa vs Jhin [ ADC ] Patch 25.10 Korea Grandmaster
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1287
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: OGJULvReXR0
+  title: Viper Kai'Sa vs Jhin ADC - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 2020
+  region: KR
+  player: Viper
+- videoId: xrLpaMvUM4s
+  title: Kai'Sa vs Jhin ADC - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1740
+  region: KR

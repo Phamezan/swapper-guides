@@ -4,4 +4,23 @@
   rankClaim: Grandmaster
   patch: "26.20"
   durationSec: 1500
+  region: KR
   uploaded: 2026-10-14
+- videoId: 9jvue71x-P0
+  title: Kha'Zix Jungle vs Talon - KR Grandmaster Patch 26.03
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1476
+  region: KR
+- videoId: gvUS2Kk8WMk
+  title: Kha'Zix Jungle vs Talon - EUW Challenger Patch 26.02
+  rankClaim: Challenger
+  patch: "26.2"
+  durationSec: 1596
+  region: EUW
+- videoId: cCmrNof1QOw
+  title: Kha'Zix vs Talon Jungle - EUW Grandmaster - Patch 25.21 Season 15
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1781
+  region: EUW

@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.20"
   durationSec: 1477
+  region: KR
   uploaded: 2026-10-19
   result: W
   moments:
@@ -53,3 +54,14 @@
       kind: teamfight
     - at: 23:40
       label: Mid Inhibitor falls (Blue)
+- videoId: D5pPKqK-4IY
+  title: Zed Mid vs Kayle - EUW Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1861
+  region: EUW
+- videoId: UO4Yh6KSJ9s
+  title: Zed Mid vs Kayle - BR Grandmaster Patch 25.05
+  rankClaim: Grandmaster
+  patch: "25.5"
+  durationSec: 1887

@@ -4,6 +4,7 @@
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1801
+  region: KR
   uploaded: 2026-08-06
 - videoId: mZRaUppdZaU
   title: Darius vs Yone [ TOP ] Korea Challenger 2557 LP | Patch 26.12 ✅
@@ -11,18 +12,30 @@
   patch: "26.12"
   durationSec: 1682
   region: KR
+  uploaded: 2026-06-19
 - videoId: x_R73b_K9DU
   title: Darius vs Yone Top - KR Grandmaster - Patch 16.10 Season 16
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1351
+  region: KR
+  uploaded: 2026-05-22
 - videoId: b7urzgvTK6Q
   title: Darius vs Yone Top - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 2016
+  region: KR
+  uploaded: 2026-05-16
 - videoId: WCSBNJyr1E0
   title: Darius vs Yone Top - KR Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 2236
+  region: KR
+- videoId: QYqZlVsyF38
+  title: Darius Top vs Yone - KR Master Patch 25.21
+  rankClaim: Master
+  patch: "25.21"
+  durationSec: 1779
+  region: KR

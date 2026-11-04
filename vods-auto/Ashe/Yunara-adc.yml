@@ -14,6 +14,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-16
 - videoId: _50-1CYANS4
   title: T1 Peyz Ashe vs HLE Gumayusi Yunara [ ADC ] Korea Challenger 2278 LP | Patch 26.7
   rankClaim: Challenger
@@ -22,6 +23,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-04-04
 - videoId: FxmWU6d-U_s
   title: T1 Peyz Ashe vs Yunara [ ADC ] Korea Challenger 2038 LP | Patch 26.6
   rankClaim: Challenger
@@ -38,6 +40,12 @@
   region: KR
   player: Gumayusi
   team: HLE
+- videoId: DayfisQa3Xo
+  title: Ashe ADC vs Yunara - KR Challenger Patch 26.04
+  rankClaim: Challenger
+  patch: "26.4"
+  durationSec: 1731
+  region: KR
 - videoId: Ep7hIm5IVvo
   title: T1 Peyz Ashe ADC vs Yunara - Patch 26.4 Korea Challenger 2127 LP
   rankClaim: Challenger
@@ -59,4 +67,37 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1771
+  region: KR
   uploaded: 2026-02-11
+- videoId: SGvXbmU6CtU
+  title: Ashe ADC vs Yunara - EUW Grandmaster Patch 26.02
+  rankClaim: Grandmaster
+  patch: "26.2"
+  durationSec: 1513
+  region: EUW
+- videoId: 8iqO2Mpcgvo
+  title: HLE Gumayusi Ashe vs Yunara [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1405
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: pxKNAatvkIg
+  title: Ashe ADC vs Yunara - KR Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1571
+  region: KR
+- videoId: LSJi6zqEXk8
+  title: Ashe ADC vs Yunara - KR Grandmaster Patch 25.21
+  rankClaim: Grandmaster
+  patch: "25.21"
+  durationSec: 1571
+  region: KR
+- videoId: EehUmzvVN8o
+  title: Ashe ADC vs Yunara - KR Master Patch 25.14
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1689
+  region: KR

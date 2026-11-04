@@ -4,6 +4,8 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1951
+  region: KR
+  uploaded: 2026-04-22
 - videoId: Gsd5bntKqP8
   title: HLE Gumayusi Yunara ADC vs Corki - Patch 26.8 Korea Challenger 2445 LP
   rankClaim: Challenger
@@ -12,6 +14,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-18
 - videoId: P_tH1XWNGZ0
   title: HLE Gumayusi Yunara vs Corki [ ADC ] Korea Challenger 2512 LP | Patch 26.7
   rankClaim: Challenger
@@ -20,6 +23,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-04-14
 - videoId: DNnqFrMhSoU
   title: T1 Peyz Yunara vs Corki [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -28,3 +32,98 @@
   region: KR
   player: Peyz
   team: T1
+- videoId: -BKBQHZ4vrI
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1471
+  region: KR
+- videoId: eW1PdjC_-4g
+  title: HLE Gumayusi Yunara vs Corki [ ADC ] Patch 25.24 Ranked Korea
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1091
+  region: KR
+  player: Gumayusi
+  team: HLE
+- videoId: d4rPzqnJ6dY
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.23 Season 15
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1631
+  region: KR
+- videoId: mtlDArv0gB8
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.21 Season 15
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1966
+  region: KR
+- videoId: zByjl01pfiI
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2191
+  region: KR
+- videoId: cgaHg7Cjf70
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2086
+  region: KR
+- videoId: i3W_7SOTJso
+  title: T1 Gumayusi Yunara vs Corki [ ADC ] Korea Grandmaster Patch 25.18
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1148
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: Eg_BdxztAog
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.17 Season 15
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 2011
+  region: KR
+- videoId: WbOvHiaHaPs
+  title: Yunara vs Corki ADC - KR Challenger - Patch 25.16 Season 15
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1830
+  region: KR
+- videoId: cff5DBXzYNs
+  title: DRX Teddy Yunara vs Corki [ ADC ] Patch 25.16 Korea Challenger
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1472
+  region: KR
+  player: Teddy
+  team: DRX
+- videoId: Ct8PPiG6HD0
+  title: T1 Gumayusi Yunara vs Corki [ ADC ] Patch 25.16 Korea Master
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 909
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: vQEoyEGtGXs
+  title: T1 Gumayusi Yunara ADC vs Corki - Patch 25.16 Korea Master
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 989
+  region: KR
+  player: Gumayusi
+  team: T1
+- videoId: Fi3bunS0q5o
+  title: Viper Yunara vs Corki ADC - KR Challenger - Patch 25.15 Season 15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1516
+  region: KR
+  player: Viper
+- videoId: -xV5tJuTAns
+  title: Yunara vs Corki ADC - EUW Master - Patch 25.14 Season 15
+  rankClaim: Master
+  patch: "25.14"
+  durationSec: 1571
+  region: EUW

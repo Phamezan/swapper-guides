@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.15"
   durationSec: 1613
+  region: KR
   uploaded: 2026-08-01
   result: L
   moments:
@@ -57,11 +58,106 @@
   rankClaim: Master
   patch: "26.12"
   durationSec: 1528
+  region: NA
+  uploaded: 2026-06-22
+  result: W
+  moments:
+    - at: 2:53
+      label: First Blood — Zed kills Thresh
+      kind: kill
+    - at: 7:40
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:19
+      label: Zed outduels Ashe
+    - at: 10:20
+      label: Zed outplays Ashe again
+    - at: 13:13
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:54
+      label: Zed solo kills Riven
+      kind: kill
+    - at: 15:32
+      label: Zed outplays Thresh
+    - at: 16:47
+      label: Zed takes down Riven again
+    - at: 17:49
+      label: Zed catches Riven (3rd time)
+    - at: 18:22
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 21:35
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:47
+      label: Zed solo kills Ashe (3rd time)
+      kind: kill
+    - at: 21:55
+      label: Zoe eliminates Riven
+    - at: 22:42
+      label: Top Inhibitor falls (Red)
+    - at: 23:17
+      label: Zed takes down Ashe (4th time)
+    - at: 23:28
+      label: Mid Inhibitor falls (Red)
+    - at: 23:44
+      label: Zed picks off Thresh
+    - at: 24:20
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
 - videoId: RG4H0-gc2tM
   title: Zed ADC vs Ashe - EUW Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1773
+  region: EUW
+  uploaded: 2026-04-19
+  result: L
+  moments:
+    - at: 5:00
+      label: First Blood — Zyra kills Ashe
+      kind: kill
+    - at: 6:08
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:22
+      label: Zed outplays Seraphine
+    - at: 14:24
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 19:35
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 19:43
+      label: Zed catches Irelia
+    - at: 21:22
+      label: Zed kills Irelia
+      kind: kill
+    - at: 21:57
+      label: Zed solo kills Seraphine again
+      kind: kill
+    - at: 23:25
+      label: Zed eliminates Lee Sin
+    - at: 24:05
+      label: Red takes Baron
+      kind: baron
+    - at: 25:03
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 25:11
+      label: Zed outduels Irelia again
+    - at: 25:52
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:38
+      label: Top Inhibitor falls (Blue)
+    - at: 28:38
+      label: Zed Double Kill
+      kind: kill
+    - at: 28:43
+      label: Bot Inhibitor falls (Blue)
+    - at: 28:55
+      label: Talon picks off Irelia
 - videoId: 07pKk1NPmxo
   title: Zed ADC vs Ashe - BR Grandmaster Patch 26.02
   rankClaim: Grandmaster
