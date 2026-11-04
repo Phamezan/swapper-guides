@@ -491,3 +491,22 @@ test('regions are explicit and schema supported across styles', () => {
 });
 
 
+test('limited detail chunks resume without refetching and prioritize newest patch', async () => {
+  await temporaryRoot(async root => {
+    const visited = [];
+    const client = { async get(args, onEntry) {
+      if (onEntry) { onEntry({ ...listing('oldvideo001'), title: listing('').title.replace('26.21', '26.20') }); onEntry(listing('newvideo001')); return {}; }
+      visited.push(args.at(-1).split('=').at(-1)); return { chapters: [] };
+    } };
+    const first = await harvest(root, { client, limit: 1 });
+    assert.deepEqual(visited, ['newvideo001']);
+    assert.equal(first.detailsRemaining, 1);
+    await harvest(root, { client, limit: 1, detailsOnly: true });
+    assert.deepEqual(visited, ['newvideo001', 'oldvideo001']);
+  });
+});
+import { mergeRecords } from '../scripts/harvest-loop.mjs';
+test('cache union preserves disjoint IDs and fields', () => {
+  assert.deepEqual(mergeRecords({ a: { chapters: [1], uploadDate: 'old' }, b: { unavailable: true } }, { a: { uploadDate: 'new' }, c: { embeddable: false } }),
+    { a: { chapters: [1], uploadDate: 'new' }, b: { unavailable: true }, c: { embeddable: false } });
+});

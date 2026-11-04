@@ -357,7 +357,7 @@ export async function writeGenerated(root, rows, details, calendar = []) {
   return [...groups.values()].flat();
 }
 
-export async function harvest(root, { discovery = [], cachedOnly = false, client = new MetadataClient() } = {}) {
+export async function harvest(root, { discovery = [], cachedOnly = false, detailsOnly = false, limit = Infinity, client = new MetadataClient() } = {}) {
   const published = new Set();
   const generated = path.join(root, 'vods-auto');
   for (const champion of await readdir(generated, { withFileTypes: true }).catch(error => {
@@ -381,7 +381,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
   let stopped, parsed = [], selected = [];
   try {
     if (discovery.length) await discover(root, discovery, channels, client);
-    else if (!cachedOnly) {
+    else if (!cachedOnly && !detailsOnly) {
       for (const channel of approved.values()) {
         try { await listChannel(root, channel, cache, client); }
         catch (error) {
@@ -410,7 +410,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
     const detailStarted = Date.now();
     let processed = 0;
     if (!stopped && !cachedOnly) {
-      for (const row of pending) {
+      for (const row of pending.slice(0, limit)) {
         try {
           const info = await client.get(['-J', `https://www.youtube.com/watch?v=${row.id}`]);
           details[row.id] = { ...(info.upload_date && { uploadDate: info.upload_date }),
@@ -455,16 +455,20 @@ export async function harvest(root, { discovery = [], cachedOnly = false, client
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   const args = process.argv.slice(2);
+  const limitAt = args.indexOf('--limit');
+  const limit = limitAt < 0 ? Infinity : Number(args.splice(limitAt, 2)[1]);
+  const detailsOnly = args.includes('--details-only');
+  if (detailsOnly) args.splice(args.indexOf('--details-only'), 1);
   const cachedOnly = args.length === 1 && args[0] === '--cached';
-  if (args.length && !cachedOnly && (args[0] !== '--discover' || args.length < 2)) {
-    console.error('Usage: node scripts/harvest-vods.mjs [--cached | --discover Ahri Zed ...]');
+  if (!(limit > 0 && (limit === Infinity || Number.isSafeInteger(limit))) || (args.length && !cachedOnly && (args[0] !== '--discover' || args.length < 2))) {
+    console.error('Usage: node scripts/harvest-vods.mjs [--limit N] [--details-only] [--cached | --discover Ahri Zed ...]');
     process.exitCode = 1;
   } else {
     const client = new MetadataClient();
     const cancel = () => client.cancel();
     process.on('SIGINT', cancel);
     process.on('SIGTERM', cancel);
-    harvest(process.cwd(), { discovery: cachedOnly ? [] : args.slice(1), cachedOnly, client })
+    harvest(process.cwd(), { discovery: cachedOnly ? [] : args.slice(1), cachedOnly, detailsOnly, limit, client })
       .catch(error => { console.error(error.message); process.exitCode = 1; })
       .finally(() => { process.off('SIGINT', cancel); process.off('SIGTERM', cancel); });
   }
