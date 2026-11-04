@@ -104,6 +104,13 @@ test('stream date comes from title or description text', () => {
   assert.equal(streamDate('KOREA DAY 15'), undefined);
 });
 
+test('split rows without a champion do not crash video details', () => {
+  const row = { id: 'abcdefghijk', title: 'Full stream', rankClaim: 'Master+', patch: '26.21', durationSec: 7200, format: 'stream' };
+  const video = videoDetails(row, { chapters: [{ start_time: 10, title: 'Riven vs Jax' }] });
+  assert.equal(video.format, 'stream');
+  assert.equal(video.moments[0].kind, undefined);
+});
+
 test('existing BeiFeng and XiaoMing VODs are marked stream without cam', () => {
   const base = { id: 'abcdefghijk', title: 'BeiFeng Qiyana vs Viktor', rankClaim: 'Challenger', patch: '26.21', durationSec: 1300 };
   assert.equal(videoDetails({ ...base, channel: 'UC8_CJP1lfMjzGo_jkMW8SQg' }, {}).format, 'stream');

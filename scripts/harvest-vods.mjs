@@ -293,7 +293,7 @@ export function videoDetails(row, info) {
     if (!Number.isFinite(at) || at < 0 || at >= row.durationSec || !safe(label)) continue;
     if (/^(victory|defeat)$/iu.test(label)) results.add(/^victory$/iu.test(label) ? 'W' : 'L');
     if (NOT_A_MOMENT.test(label)) continue;
-    const kind = momentKind(label, row.champion);
+    const kind = row.champion ? momentKind(label, row.champion) : undefined;
     moments.push({ at: `${Math.floor(at / 60)}:${String(at % 60).padStart(2, '0')}`, label, ...kind && { kind } });
   }
   if (results.size === 1) video.result = [...results][0];
