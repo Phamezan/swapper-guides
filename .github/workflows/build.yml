@@ -5,20 +5,62 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: guides-${{ github.ref }}
-  cancel-in-progress: true
+  group: guides-${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && 'refs/heads/main' || github.ref }}
+  # Serialize main builds so a push cannot cancel a scheduled harvest mid-checkpoint.
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
+  harvest:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      sha: ${{ steps.checkpoint.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          package-manager-cache: false
+      - run: npm ci --ignore-scripts
+      - name: Harvest YouTube metadata
+        run: node scripts/harvest-vods.mjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Commit harvest checkpoint to main
+        id: checkpoint
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- vods/cache vods-auto
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "chore(vods): refresh YouTube metadata"
+            git push origin HEAD:main
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
   check:
+    needs: harvest
+    if: always() && (needs.harvest.result == 'success' || needs.harvest.result == 'skipped')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
         with:
+          ref: ${{ needs.harvest.outputs.sha || '' }}
           persist-credentials: false
       - uses: actions/setup-node@v7
         with:
@@ -29,14 +71,15 @@ jobs:
       - run: npm run build
 
   publish:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-    needs: check
+    if: always() && needs.check.result == 'success' && ((github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    needs: [harvest, check]
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v7
         with:
+          ref: ${{ needs.harvest.outputs.sha || '' }}
           persist-credentials: false
       - uses: actions/setup-node@v7
         with:
@@ -48,6 +91,7 @@ jobs:
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
+          SOURCE_SHA: ${{ needs.harvest.outputs.sha || github.sha }}
         run: |
           set -euo pipefail
           publish_dir="$(mktemp -d)"
@@ -56,7 +100,7 @@ jobs:
           git -C "$publish_dir" config user.name 'github-actions[bot]'
           git -C "$publish_dir" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git -C "$publish_dir" add --all
-          git -C "$publish_dir" commit -m "Build guides for ${GITHUB_SHA}"
+          git -C "$publish_dir" commit -m "Build guides for ${SOURCE_SHA}"
           auth_header="$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
           echo "::add-mask::$auth_header"
           git -C "$publish_dir" -c "http.extraheader=AUTHORIZATION: basic $auth_header" \

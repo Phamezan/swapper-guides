@@ -1,4 +1,4 @@
-// Metadata only. No API key, cookies, media or automatic channel approvals.
+// Metadata only. API key stays in the environment; no media or automatic approvals.
 import { readFileSync } from 'node:fs';
 import { spawn } from 'node:child_process';
 import { readFile, writeFile, mkdir, rename, readdir, unlink } from 'node:fs/promises';
@@ -315,8 +315,87 @@ async function atomicWrite(file, text) {
 export class YouTubeStop extends Error {}
 export class HarvestStop extends Error {}
 
-// Count the actual yt-dlp HTTP request diagnostics; invocations are reported separately.
+export function parseChapters(description = '', duration = Infinity) {
+  const chapters = [];
+  for (const match of description.matchAll(/^\s*(?:(\d+):)?(\d+):([0-5]\d)[ \t]+(?:[-|–—][ \t]*)?(.+?)\s*$/gmu)) {
+    if (match[1] !== undefined && Number(match[2]) >= 60) return [];
+    chapters.push({ title: match[4], start_time: Number(match[1] ?? 0) * 3600 + Number(match[2]) * 60 + Number(match[3]) });
+  }
+  if (chapters.length < 3 || chapters[0].start_time !== 0
+    || chapters.some((chapter, i) => (chapters[i + 1]?.start_time ?? duration) - chapter.start_time < 10)) return [];
+  return chapters;
+}
+
+function durationSeconds(value) {
+  const match = /^P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?)?$/u.exec(value ?? '');
+  return match ? Number(match[1] ?? 0) * 86400 + Number(match[2] ?? 0) * 3600
+    + Number(match[3] ?? 0) * 60 + Number(match[4] ?? 0) : undefined;
+}
+const uploadDay = value => /^\d{4}-\d{2}-\d{2}T/u.test(value ?? '') ? value.slice(0, 10).replaceAll('-', '') : undefined;
+
 export class MetadataClient {
+  constructor({ apiKey = process.env.YOUTUBE_API_KEY, fetch = globalThis.fetch } = {}) {
+    this.apiKey = apiKey;
+    this.fetch = fetch;
+    this.requests = 0;
+    this.invocations = 0;
+    this.abort = new AbortController();
+  }
+  cancel() { this.abort.abort(); }
+  async get(resource, params) {
+    if (this.abort.signal.aborted) throw new HarvestStop('Stopped; rerun to continue from the cache.');
+    if (!this.apiKey) throw new Error('Set YOUTUBE_API_KEY to harvest YouTube metadata.');
+    const url = new URL(`https://www.googleapis.com/youtube/v3/${resource}`);
+    url.search = new URLSearchParams({ ...params, key: this.apiKey }).toString();
+    this.requests++;
+    this.invocations++;
+    let response, data;
+    try {
+      response = await this.fetch(url, { signal: AbortSignal.any([this.abort.signal, AbortSignal.timeout(30000)]) });
+      data = await response.json();
+    } catch {
+      // Fetch errors can contain the URL (and key); never forward their text.
+      if (this.abort.signal.aborted) throw new HarvestStop('Stopped; rerun to continue from the cache.');
+      throw new YouTubeStop('YouTube API network/response error; rerun later to resume.');
+    }
+    if (!response.ok) {
+      const quota = data.error?.errors?.find(error => ['quotaExceeded', 'rateLimitExceeded'].includes(error.reason))?.reason;
+      if ((response.status === 403 && quota) || response.status === 429 || response.status >= 500) {
+        throw new YouTubeStop(`YouTube API ${quota ?? `HTTP ${response.status}`}; rerun later to resume.`);
+      }
+      throw new Error(`YouTube API HTTP ${response.status} (${resource}); check API access/configuration.`);
+    }
+    return data;
+  }
+  async list(channelId, onEntry) {
+    let pageToken;
+    do {
+      const data = await this.get('playlistItems', { part: 'snippet,contentDetails', maxResults: 50,
+        playlistId: channelId.replace(/^UC/u, 'UU'), ...(pageToken && { pageToken }) });
+      for (const entry of data.items ?? []) {
+        if (onEntry({ id: entry.contentDetails?.videoId, title: entry.snippet?.title,
+          upload_date: uploadDay(entry.contentDetails?.videoPublishedAt) }) === false) return;
+      }
+      pageToken = data.nextPageToken;
+    } while (pageToken);
+  }
+  async videos(ids) {
+    if (!ids.length || ids.length > 50) throw new Error('Request between 1 and 50 video IDs.');
+    const data = await this.get('videos', { part: 'snippet,contentDetails,status', id: ids.join(',') });
+    const videos = Object.fromEntries(ids.map(id => [id, { unavailable: true, reason: 'Not returned by YouTube (deleted or private)' }]));
+    for (const item of data.items ?? []) {
+      const duration = durationSeconds(item.contentDetails?.duration);
+      videos[item.id] = { title: item.snippet?.title, upload_date: uploadDay(item.snippet?.publishedAt),
+        description: item.snippet?.description ?? '', playable_in_embed: item.status?.embeddable, duration,
+        chapters: parseChapters(item.snippet?.description, duration) };
+    }
+    return videos;
+  }
+}
+
+// Count the actual yt-dlp HTTP request diagnostics; invocations are reported separately.
+// Used only by the explicit --discover command.
+export class DiscoveryClient {
   constructor() { this.requests = 0; this.invocations = 0; this.lastEnd = 0; }
   cancel() {
     this.cancelled = true;
@@ -420,17 +499,13 @@ export async function listChannel(root, channel, cache, client) {
   const previous = new Set(state.seen);
   let order = 0;
   try {
-    // Stream one traversal so old pages are never fetched repeatedly within a run.
-    await client.get(['--flat-playlist', '--lazy-playlist', '--dump-json', '--extractor-args', 'youtubetab:approximate_date',
-      `https://www.youtube.com/channel/${channel.id}/videos`], entry => {
+    await client.list(channel.id, entry => {
       order++;
       if (!ID.test(entry.id)) return;
       if (state.complete && previous.has(entry.id)) return false;
-      // shortcut: flat dates are approximate; selected details refine them on later runs.
-      const uploadDate = entry.upload_date ?? (Number.isFinite(entry.timestamp)
-        ? new Date(entry.timestamp * 1000).toISOString().slice(0, 10).replaceAll('-', '') : undefined);
-      cache.videos[entry.id] = { id: entry.id, title: entry.title, durationSec: entry.duration, channel: channel.id,
-        ...(uploadDate && { uploadDate }), order };
+      cache.videos[entry.id] = { ...cache.videos[entry.id], id: entry.id, title: entry.title, channel: channel.id,
+        ...(entry.duration !== undefined && { durationSec: entry.duration }),
+        ...(entry.upload_date && { uploadDate: entry.upload_date }), order };
       if (!previous.has(entry.id)) { state.seen.push(entry.id); previous.add(entry.id); }
       if (order % 500 === 0) console.log(`${channel.name}: ${order} uploads listed`);
     });
@@ -488,7 +563,29 @@ export async function writeGenerated(root, rows, details, calendar = []) {
   return [...groups.values()].flat();
 }
 
-export async function harvest(root, { discovery = [], cachedOnly = false, detailsOnly = false, limit = Infinity, client = new MetadataClient() } = {}) {
+async function fetchDetails(root, rows, cache, details, client) {
+  for (let offset = 0; offset < rows.length; offset += 50) {
+    const batch = rows.slice(offset, offset + 50);
+    const infos = await client.videos(batch.map(row => row.id));
+    for (const row of batch) {
+      const info = infos[row.id];
+      details[row.id] = info.unavailable ? info : {
+        ...(info.upload_date && { uploadDate: info.upload_date }),
+        ...(typeof info.description === 'string' && { description: info.description }),
+        ...(typeof info.playable_in_embed === 'boolean' && { embeddable: info.playable_in_embed }), chapters: info.chapters ?? [],
+      };
+      if (Number.isSafeInteger(info.duration)) cache.videos[row.id].durationSec = row.durationSec = info.duration;
+      if (info.upload_date) cache.videos[row.id].uploadDate = row.uploadDate = info.upload_date;
+      if (typeof info.title === 'string') cache.videos[row.id].title = row.title = info.title;
+    }
+    await atomicWrite(path.join(root, 'vods/cache/listings.json'), `${JSON.stringify(cache, null, 2)}\n`);
+    await atomicWrite(path.join(root, 'vods/cache/details.json'), `${JSON.stringify(details, null, 2)}\n`);
+    console.log(`${Math.min(offset + 50, rows.length)}/${rows.length} pending video details processed`);
+  }
+}
+
+export async function harvest(root, { discovery = [], cachedOnly = false, detailsOnly = false, limit = Infinity,
+  client = discovery.length ? new DiscoveryClient() : new MetadataClient() } = {}) {
   const published = new Set();
   const generated = path.join(root, 'vods-auto');
   for (const champion of await readdir(generated, { withFileTypes: true }).catch(error => {
@@ -523,51 +620,51 @@ export async function harvest(root, { discovery = [], cachedOnly = false, detail
       }
     }
   } catch (error) { stopped = error; }
+  // Upload playlists omit duration; hydrate new entries before applying the existing filters.
+  if (!discovery.length && !stopped && !cachedOnly) {
+    const unknownDuration = Object.values(cache.videos).filter(row => approved.has(row.channel)
+      && !Number.isSafeInteger(row.durationSec) && playable(details[row.id])).slice(0, limit);
+    try {
+      await fetchDetails(root, unknownDuration, cache, details, client);
+      limit -= unknownDuration.length;
+    } catch (error) { stopped = error; }
+  }
   // Only exact upload days (from the detail pass) may set patch boundaries.
   const exactCalendar = () => derivePatchCalendar(Object.values(cache.videos)
     .flatMap(row => details[row.id]?.uploadDate ? [{ ...row, uploadDate: details[row.id].uploadDate }] : []), channels);
-  if (!discovery.length) {
+  const parseRows = () => {
     const calendar = exactCalendar();
+    const rows = [];
     for (const row of Object.values(cache.videos)) {
       if (!approved.has(row.channel) || !listingDurationAllowed(row)) continue;
       const facts = parseTitle(row.title, approved.get(row.channel), aliases, details[row.id]?.uploadDate ?? row.uploadDate, calendar);
-      if (facts) parsed.push({ ...row, ...facts, ...(approved.get(row.channel).style === 'named' && { namedSource: true }), ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
+      if (facts) rows.push({ ...row, ...facts, ...(approved.get(row.channel).style === 'named' && { namedSource: true }), ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
     }
+    return rows;
+  };
+  if (!discovery.length) {
+    const calendar = exactCalendar();
+    parsed = parseRows();
     selected = selectVideos(parsed.filter(row => playable(details[row.id])), published);
     // Publish every eligible video before starting a potentially long detail pass.
     if (!stopped && !cachedOnly) await writeGenerated(root, selected, details, calendar);
     const pending = selected.filter(row => !details[row.id]);
     console.log(`${selected.length} eligible videos; ${selected.length - pending.length} details cached; ${pending.length} remaining. ${cachedOnly ? 'Cache-only regeneration; no requests.' : 'Fetching newest first.'}`);
-    const detailStarted = Date.now();
-    let processed = 0;
     if (!stopped && !cachedOnly) {
-      for (const row of pending.slice(0, limit)) {
-        try {
-          const info = await client.get(['-J', `https://www.youtube.com/watch?v=${row.id}`]);
-          details[row.id] = { ...(info.upload_date && { uploadDate: info.upload_date }), ...(approved.get(row.channel)?.split && typeof info.description === 'string' && { description: info.description.slice(0, 4000) }),
-            ...(typeof info.playable_in_embed === 'boolean' && { embeddable: info.playable_in_embed }), chapters: info.chapters ?? [] };
-          await atomicWrite(path.join(root, 'vods/cache/details.json'), `${JSON.stringify(details, null, 2)}\n`);
-        } catch (error) {
-          if (!(error instanceof YouTubeStop) && !(error instanceof HarvestStop) && /video unavailable|video is (?:private|not available)|has been removed|members.only|not available in your country/iu.test(error.message)) {
-            details[row.id] = { unavailable: true, reason: error.message };
-            await atomicWrite(path.join(root, 'vods/cache/details.json'), `${JSON.stringify(details, null, 2)}\n`);
-          } else {
-            stopped = error;
-            break;
-          }
-        }
-        processed++;
-        if (processed % 25 === 0 || processed === pending.length) console.log(`${processed}/${pending.length} pending detail lookups processed; ${((Date.now() - detailStarted) / processed / 1000).toFixed(1)} sec/video; ${pending.length - processed} remaining`);
-      }
+      try { await fetchDetails(root, pending.slice(0, limit), cache, details, client); }
+      catch (error) { stopped = error; }
     }
   }
-  // Re-sort with exact dates for cached details, retaining videos still awaiting details.
+  // Reapply the same filters after API details refine titles, dates and durations.
+  if (!discovery.length) parsed = parseRows();
   const ready = selectVideos(parsed.filter(row => playable(details[row.id])).map(row => ({ ...row,
     ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) })), published);
   const output = discovery.length ? [] : await writeGenerated(root, ready, details, exactCalendar());
   const report = { mode: discovery.length ? 'discover' : cachedOnly ? 'cached' : 'harvest',
     startedAt: new Date(started).toISOString(), wallSeconds: Math.round((Date.now() - started) / 1000),
-    requests: client.requests, invocations: client.invocations, requestCountMethod: 'yt-dlp HTTP download diagnostics (redirects not observable)',
+    requests: client.requests, invocations: client.invocations,
+    requestCountMethod: discovery.length ? 'yt-dlp HTTP download diagnostics (redirects not observable)' : 'YouTube Data API requests (one quota unit each)',
+    estimatedApiUnits: discovery.length ? 0 : client.requests ?? 0,
     listed: Object.values(cache.videos).filter(row => approved.has(row.channel)).length, parsed: parsed.length, selected: selected.length,
     duplicatesDropped: parsed.filter(row => playable(details[row.id])).length - ready.length,
     written: output.length, matchups: new Set(ready.map(row => `${row.champion}/${row.enemy}/${row.lane}`)).size,
@@ -603,7 +700,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     console.error('Usage: node scripts/harvest-vods.mjs [--limit N] [--details-only] [--cached | --discover Ahri Zed ...]');
     process.exitCode = 1;
   } else {
-    const client = new MetadataClient();
+    const client = args[0] === '--discover' ? new DiscoveryClient() : new MetadataClient();
     const cancel = () => client.cancel();
     process.on('SIGINT', cancel);
     process.on('SIGTERM', cancel);

@@ -270,22 +270,26 @@ left to the maintainer; no player claims or key moments have been invented.
 ### Automatic replay harvest
 
 Run `node scripts/harvest-vods.mjs`, then `node scripts/build.mjs`. It uses
-metadata only from approved channels in `vods/channels.yml`, without an API key.
-On Windows it defaults to the WinGet `yt-dlp.exe` link; elsewhere it uses PATH.
-Set `YTDLP` to override the executable. No dependencies need to be installed.
+metadata only from approved channels in `vods/channels.yml` through YouTube Data
+API v3. Set `YOUTUBE_API_KEY` in the process environment; never commit the key.
+No additional dependency is needed. The normal harvest does not run yt-dlp or
+use the API's expensive search endpoint.
 
 The six initial channels are approved for maintainer review. To find more, run
 `node scripts/harvest-vods.mjs --discover Ahri Zed Jinx`. Discovery searches only
 those champions and appends candidates with `approved: false`. Review each
 candidate's channel, title style and patch numbering before approving it.
+Only this explicit discovery command uses yt-dlp: the WinGet `yt-dlp.exe` link
+on Windows, otherwise PATH. Set `YTDLP` to override the executable.
 
 `vods/cache/listings.json` keeps upload IDs, titles, durations, publication dates
 and per-channel completion state; `details.json` keeps video chapters
-and exact upload dates. Keep these JSON files in version control. A completed
+and exact upload dates, descriptions and embedding status. Keep these JSON files in version control. A completed
 channel stops at the first known ID on reruns; an interrupted first listing
 traverses again to ensure older pages are not lost. Details are fetched once per
-eligible video. Listings use YouTube's approximate publication dates and upload
-ordering; cached details supply exact dates. Cache files and generated
+eligible video, in batches of up to 50. New uploads need details before duration
+filtering because upload playlists omit duration. Existing yt-dlp caches remain
+compatible; API publication dates replace their approximate dates. Cache files and generated
 YAML are replaced atomically. Run one harvester at a time in a checkout.
 Private/removed videos are cached as unavailable and skipped on later runs.
 Other listing failures preserve partial results while other approved channels
@@ -300,9 +304,9 @@ Durations must be 10–60 minutes. Every video passing these filters is kept; th
 is no cap per matchup. Videos sort newest patch first, then newest upload.
 Details are fetched for all eligible videos in that same global order. Rerunning
 `node scripts/harvest-vods.mjs` alone resumes missing details and prints the cached
-and remaining counts, progress and seconds per lookup. Ctrl+C stops cleanly and
-keeps completed lookups. A bot check/429 also stops the whole downloader process
-tree. No cookies or proxies are used.
+and remaining counts and batch progress. Ctrl+C stops cleanly and keeps completed
+batches. Quota exhaustion, rate limits, network errors and HTTP 5xx pause fetching
+so a later run can resume. No cookies or proxies are used.
 
 All eligible videos ship immediately, including videos without cached details;
 those have no moments/result yet. To regenerate only from the committed cache,
@@ -318,12 +322,16 @@ Chapters become moments using the existing `find-vods` kind inference. Unsafe
 chapter labels are dropped individually. Only a Victory/Defeat chapter supplies
 a result; unknown players and results are omitted.
 
-The harvester spaces requests with `--sleep-requests 1` and pauses between
-invocations. A YouTube bot check or HTTP 429 stops all fetching, preserves cached
-metadata and prints instructions to wait or pass the check manually. It never
-uses cookies, proxies, browser automation or other sites. Reports under
-`vods/cache/` include coverage, wall time, invocations and HTTP requests observed
-in yt-dlp diagnostics (HTTP redirects are not observable).
+The API does not expose automatic chapters. Description timestamps become chapters
+when they start at zero, contain at least three ascending timestamps, and each
+chapter lasts at least ten seconds. Reports under `vods/cache/` include coverage,
+wall time and approximate API quota units (one per list request).
+
+The build workflow harvests every six hours and on manual dispatch, using the
+repository's `YOUTUBE_API_KEY` secret. It commits cache/generated changes to main
+as github-actions[bot], then checks, builds and publishes that exact commit to
+dist in the same run. Main runs are serialized. Repository rules must allow the
+bot to push to main; concurrent human pushes may require rerunning the workflow.
 
 ## Validation and output
 

@@ -8,7 +8,22 @@ import { syncBuiltinESMExports } from 'node:module';
 import { EventEmitter } from 'node:events';
 import { PassThrough } from 'node:stream';
 import { mock } from 'node:test';
-import { parseTitle, normalizePatch, championAliases, selectVideos, videoDetails, harvest, YouTubeStop, HarvestStop, discover, MetadataClient } from '../scripts/harvest-vods.mjs';
+import { parseTitle, normalizePatch, championAliases, selectVideos, videoDetails, harvest as runHarvest, YouTubeStop, HarvestStop, discover, DiscoveryClient } from '../scripts/harvest-vods.mjs';
+
+// Keep the title/filter fixtures independent of the API transport, tested in youtube-api.test.mjs.
+async function harvest(root, options = {}) {
+  const fixture = options.client;
+  if (fixture?.get) options = { ...options, client: {
+    requests: fixture.requests, invocations: fixture.invocations,
+    list: (id, onEntry) => fixture.get([`https://www.youtube.com/channel/${id}/videos`], onEntry),
+    async videos(ids) {
+      const result = {};
+      for (const id of ids) result[id] = await fixture.get(['-J', `https://www.youtube.com/watch?v=${id}`]);
+      return result;
+    },
+  } };
+  return runHarvest(root, options);
+}
 
 const champions = JSON.parse(await readFile(new URL('../champions.json', import.meta.url)));
 const aliases = championAliases(champions);
@@ -222,7 +237,7 @@ test('unavailable videos are cached and do not block other selected details or g
         return {};
       }
       detailRequests++;
-      if (args.at(-1).endsWith('abcdefghijk')) throw new Error('Video unavailable. This video is private');
+      if (args.at(-1).endsWith('abcdefghijk')) return { unavailable: true, reason: 'Video is private' };
       return { chapters: [] };
     } };
     assert.equal((await harvest(root, { client })).written, 1);
@@ -286,7 +301,7 @@ test('detail fetching is globally newest first and pending metadata ships before
     } };
     const report = await harvest(root, { client });
     assert.deepEqual(fetched, ['newvideo001', 'oldvideo001']);
-    assert.deepEqual([report.written, report.detailsCached, report.detailsRemaining], [2, 1, 1]);
+    assert.deepEqual([report.written, report.detailsCached, report.detailsRemaining], [2, 0, 2], 'a failed batch is retried as a unit');
   });
 });
 
@@ -331,7 +346,7 @@ test('metadata subprocess uses rate limits, hides windows and stops on bot check
     });
     syncBuiltinESMExports();
     try {
-      const client = new MetadataClient();
+      const client = new DiscoveryClient();
       await assert.rejects(client.get(['-J', 'https://www.youtube.com/watch?v=abcdefghijk']), YouTubeStop);
       assert.equal(killed, true);
       assert.equal(client.requests, 1);
@@ -356,7 +371,7 @@ test('streaming stops after a known ID even when more entries share the same std
   });
   syncBuiltinESMExports();
   try {
-    const visited = [], client = new MetadataClient();
+    const visited = [], client = new DiscoveryClient();
     await client.get(['--flat-playlist', '--dump-json', 'https://www.youtube.com/channel/' + channel.id + '/videos'], entry => {
       visited.push(entry.id);
       return false;
@@ -386,7 +401,7 @@ test('manual cancellation kills only the active downloader tree and prevents lat
   });
   syncBuiltinESMExports();
   try {
-    client = new MetadataClient();
+    client = new DiscoveryClient();
     await assert.rejects(client.get(['-J', 'https://www.youtube.com/watch?v=abcdefghijk']), HarvestStop);
     assert.equal(killed, true);
     await assert.rejects(client.get(['-J', 'https://www.youtube.com/watch?v=newvideo001']), HarvestStop);
