@@ -563,7 +563,7 @@ export async function writeGenerated(root, rows, details, calendar = []) {
   return [...groups.values()].flat();
 }
 
-async function fetchDetails(root, rows, cache, details, client) {
+async function fetchDetails(root, rows, cache, details, client, approved) {
   for (let offset = 0; offset < rows.length; offset += 50) {
     const batch = rows.slice(offset, offset + 50);
     const infos = await client.videos(batch.map(row => row.id));
@@ -571,7 +571,7 @@ async function fetchDetails(root, rows, cache, details, client) {
       const info = infos[row.id];
       details[row.id] = info.unavailable ? info : {
         ...(info.upload_date && { uploadDate: info.upload_date }),
-        ...(typeof info.description === 'string' && { description: info.description }),
+        ...(approved.get(row.channel)?.split && typeof info.description === 'string' && { description: info.description.slice(0, 4000) }),
         ...(typeof info.playable_in_embed === 'boolean' && { embeddable: info.playable_in_embed }), chapters: info.chapters ?? [],
       };
       if (Number.isSafeInteger(info.duration)) cache.videos[row.id].durationSec = row.durationSec = info.duration;
@@ -625,7 +625,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, detail
     const unknownDuration = Object.values(cache.videos).filter(row => approved.has(row.channel)
       && !Number.isSafeInteger(row.durationSec) && playable(details[row.id])).slice(0, limit);
     try {
-      await fetchDetails(root, unknownDuration, cache, details, client);
+      await fetchDetails(root, unknownDuration, cache, details, client, approved);
       limit -= unknownDuration.length;
     } catch (error) { stopped = error; }
   }
@@ -651,7 +651,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, detail
     const pending = selected.filter(row => !details[row.id]);
     console.log(`${selected.length} eligible videos; ${selected.length - pending.length} details cached; ${pending.length} remaining. ${cachedOnly ? 'Cache-only regeneration; no requests.' : 'Fetching newest first.'}`);
     if (!stopped && !cachedOnly) {
-      try { await fetchDetails(root, pending.slice(0, limit), cache, details, client); }
+      try { await fetchDetails(root, pending.slice(0, limit), cache, details, client, approved); }
       catch (error) { stopped = error; }
     }
   }
