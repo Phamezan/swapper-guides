@@ -149,18 +149,20 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
   const index = { schema: 1, generatedAt, champions: {} };
   const vodFiles = [...input].filter(([file]) => /^(?:vods|vods-auto)\//u.test(file) && file.endsWith('.yml') && !['vods/channels.yml', 'vods/players.yml'].includes(file))
     .sort(([a], [b]) => Number(a.startsWith('vods-auto/')) - Number(b.startsWith('vods-auto/')) || a.localeCompare(b, 'en'));
+  const playersText = input.get('vods/players.yml');
+  const vodPlayers = playersText === undefined ? undefined : new Set((yaml(playersText, { file: 'vods/players.yml', line: 1 }).value ?? []).map(player => player?.name).filter(name => typeof name === 'string'));
   for (const [file, text] of vodFiles) {
-    const { champion, ...entry } = compileVods(text, file, champions);
+    const { champion, ...entry } = compileVods(text, file, champions, vodPlayers);
     if (!entry.videos.length) continue;
     if (!groups.has(champion)) groups.set(champion, { guides: [], general: [] });
     const group = groups.get(champion);
     const matchups = group.vods ??= [];
     const existing = matchups.find(vod => vod.enemy === entry.enemy && vod.lane === entry.lane);
     if (existing) {
-      const seen = new Set(existing.videos.map(video => video.videoId));
-      for (const video of entry.videos) if (!seen.has(video.videoId)) {
+      const seen = new Set(existing.videos.map(video => `${video.videoId}@${video.startSec ?? 0}`));
+      for (const video of entry.videos) if (!seen.has(`${video.videoId}@${video.startSec ?? 0}`)) {
         existing.videos.push(video);
-        seen.add(video.videoId);
+        seen.add(`${video.videoId}@${video.startSec ?? 0}`);
       }
     } else matchups.push(entry);
   }
@@ -168,7 +170,7 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
   for (const [champion, entries] of [...groups].sort(([a], [b]) => a - b)) {
     const guides = entries.guides.map(entry => entry.guide).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
     const general = entries.general.map(entry => entry.guide).sort((a, b) => a.lane.localeCompare(b.lane, 'en'));
-    const vods = (entries.vods ?? []).map(({ loc, ...entry }) => entry).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
+    const vods = (entries.vods ?? []).map(({ loc, ...entry }) => entry).sort((a, b) => (a.enemy ?? 0) - (b.enemy ?? 0) || a.lane.localeCompare(b.lane, 'en'));
     // `general` is omitted when empty so matchup-only files keep their original shape.
     const bytes = json({ schema: 1, champion, generatedAt, guides, ...general.length && { general }, ...vods.length && { vods } });
     const loc = (entries.guides[0] ?? entries.general[0] ?? entries.vods[0]).loc;

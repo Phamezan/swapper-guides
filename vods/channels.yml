@@ -97,3 +97,87 @@
   estimatePatch: true
   patchStyle: calendar
   approved: true
+
+# Streamer VODs (streamer's own voice; cam marks facecam). Split channels
+# carry one segment per chapter game; single-game channels use the title.
+- id: UCz0q7bCSob4akZUOWw3hoVA
+  name: AloisNLVODs
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Alois
+  cam: true
+  split: true
+- id: UCMBwGVofELTLyVXqFffBqsg
+  name: DirtyMobs
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: DirtyMobs
+  cam: true
+- id: UCaGzBvuWK_FtOSyt2CXAp7A
+  name: foggedftw2
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Fogged
+  cam: true
+  champion: Tryndamere
+- id: UC8D5uv7_R_0rc1AAb4pFB4g
+  name: SolarbaccaToo
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Solarbacca
+  cam: true
+  champion: Gangplank
+- id: UCDKftvwXOkO_NpD6Ux7APUA
+  name: Makkro
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Makkro
+  cam: true
+- id: UCvJaR5dqd4oKFCS7FHOgfRw
+  name: CN Sniper
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  lane: adc
+- id: UCGZSita438Rw3GnkLTrsX7w
+  name: Baicaiovo LoL - Fan
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Baicaiovo
+- id: UCv7Fopr1b1301amIRI35yzA
+  name: shokTTV
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Shok
+  cam: true
+- id: UCnzE2sjqXiJLEHb6S1ioB-g
+  name: SineriasVODs
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Sinerias
+  cam: true
+- id: UCoO3LOWlgNi5A_oKlC9NUwQ
+  name: Broxah
+  style: stream
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true
+  player: Broxah
+  cam: true

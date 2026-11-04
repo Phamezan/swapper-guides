@@ -165,7 +165,10 @@
   },
   {
     "name": "Solarbacca",
-    "aliases": [],
+    "aliases": [
+      "SolarbaccaToo"
+    ],
+
     "role": "top",
     "region": "NA",
     "note": "High-elo top streamer."
@@ -677,6 +680,66 @@
     "role": "adc",
     "region": "CN",
     "note": "LPL marksman."
+  },
+  {
+    "name": "Alois",
+    "aliases": [
+      "AloisNL"
+    ],
+    "role": "top",
+    "region": "EUW",
+    "note": "EUW/KR Challenger top streamer; full-stream VOD channel AloisNLVODs."
+  },
+  {
+    "name": "DirtyMobs",
+    "aliases": [],
+    "role": "top",
+    "region": "NA",
+    "note": "NA Challenger Illaoi streamer with facecam and voice."
+  },
+  {
+    "name": "Fogged",
+    "aliases": [
+      "foggedftw2"
+    ],
+    "role": "top",
+    "region": "NA",
+    "note": "NA Challenger Tryndamere streamer with facecam and voice."
+  },
+  {
+    "name": "Shok",
+    "aliases": [
+      "shokTTV",
+      "ShokLeague"
+    ],
+    "role": "mid",
+    "region": "EUW",
+    "note": "Challenger mid streamer with facecam and educational voice commentary."
+  },
+  {
+    "name": "Broxah",
+    "aliases": [
+      "BroxahLoL"
+    ],
+    "role": "jungle",
+    "region": "EUW",
+    "note": "EUW jungle streamer and former pro with facecam and voice."
+  },
+  {
+    "name": "Baicaiovo",
+    "aliases": [
+      "Baicai"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "CN Super Server mid specialist; stream voice, no facecam."
+  },
+  {
+    "name": "Jz",
+    "aliases": [],
+    "role": "adc",
+    "region": "CN",
+    "note": "CN Super Server marksman specialist; stream voice, no facecam."
   },
   {
     "name": "Uzi",
