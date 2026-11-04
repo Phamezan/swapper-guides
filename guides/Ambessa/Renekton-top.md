@@ -76,7 +76,7 @@ sources: [heywil]
   items: [6692]
   abilities: [Renekton.W]
 
-- The source cheese option is an early Bramble Vest. It punishes his auto-heavy trade pattern and trims his Cull the Meek healing while you survive lane.
+- An early Bramble Vest is a strong cheap buy here. It punishes his auto-heavy trades and trims his Cull the Meek healing while you survive lane.
   sources: [heywil]
   items: [3076]
   abilities: [Renekton.Q]

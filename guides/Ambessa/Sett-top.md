@@ -64,7 +64,7 @@ sources: [heywil]
   heading: Fight scaling
   abilities: [Ambessa.R, Sett.E]
 
-- Respect him even when he is behind. Like Darius, a behind Sett still one-shots with a full-grit Haymaker and peels you off his carries with his ultimate, so never autopilot fights around him.
+- Respect him even when he is behind. A behind Sett still one-shots with a full-grit Haymaker and peels you off his carries with his ultimate, so never autopilot fights around him.
   sources: [heywil]
   heading: Behind respect
   abilities: [Sett.W, Sett.R]
@@ -81,6 +81,6 @@ sources: [heywil]
   items: [1055]
   abilities: [Sett.E]
 
-- Bone Plating plus Shield Bash is the source secondary. It softens his pull-in burst and pays you back every time W answers Haymaker.
+- Take Bone Plating and Shield Bash as your Resolve secondary runes. Bone Plating softens his pull-in burst, and Shield Bash pays you back every time W answers Haymaker.
   sources: [heywil]
   abilities: [Ambessa.W, Sett.W]

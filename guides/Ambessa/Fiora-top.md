@@ -30,7 +30,7 @@ sources: [heywil]
 
 ## Early lane
 
-- If you play aggressive at level 1, do not dash in, and you must land Q2. Dashing into Fiora lets her run you down exactly like dashing into Riven.
+- If you play aggressive at level 1, do not dash in, and you must land Q2. Dashing straight into Fiora lets her proc Vitals and run you down before your cooldowns come back.
   sources: [heywil]
   heading: Level-1 rule
   abilities: [Ambessa.Q]
@@ -57,7 +57,7 @@ sources: [heywil]
 
 ## Win condition
 
-- Snowball the lane before her sustain item lands. Early priority, plates and a health lead are the currency that buys your mid-game teamfight plan.
+- Snowball the lane before her sustain item lands. Early priority, plates and a health lead let you leave the side lane and suppress enemy carries with R in grouped fights, where she cannot duel you one by one.
   sources: [heywil]
   heading: Early snowball
 

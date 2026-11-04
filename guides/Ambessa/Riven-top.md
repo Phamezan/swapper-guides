@@ -80,7 +80,7 @@ sources: [heywil]
   items: [6695]
   abilities: [Riven.E]
 
-- Start Doran's Blade with Flash and Exhaust. Blade funds the level-3 counter-trade plan, and Exhaust is taken specifically to blunt her ultimate all-in rather than for lane poke.
+- Start Doran's Blade with Flash and Exhaust. Blade's early attack damage powers your level-3 trades, where you shield her Broken Wings engage with W and hit back with an Electrocute combo; Exhaust is taken to blunt her ultimate all-in rather than for lane poke.
   sources: [heywil]
   items: [1055]
   abilities: [Riven.R]

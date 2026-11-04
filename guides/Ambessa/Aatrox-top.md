@@ -80,6 +80,6 @@ sources: [heywil]
   items: [1001]
   abilities: [Aatrox.W]
 
-- Take Electrocute with Flash and Ignite per the source setup. Short dodge-and-burst trades are how you win here, and Ignite covers his combat healing during World Ender.
+- Take Electrocute with Flash and Ignite. Short dodge-and-burst trades are how you win here, and Ignite covers his combat healing during World Ender.
   sources: [heywil]
   abilities: [Aatrox.R]

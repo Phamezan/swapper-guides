@@ -45,10 +45,11 @@ sources: [heywil]
 
 ## Mid lane
 
-- Pivot to the lethality scaling plan when lane is lost. Your game becomes R access onto his bot lane, not dueling a fed Darius in the side lane.
+- If lane is lost, stop dueling him and build for burst: Voltaic Cyclosword into Serylda's Grudge, then use R to reach his bot-lane carries in fights instead of fighting a fed Darius in the side lane.
   sources: [heywil]
   heading: Backline pivot
   abilities: [Ambessa.R]
+  items: [6699, 6694]
 
 - Only revisit the 1v1 on the bruiser build once your items land. Eclipse plus durability lets you survive five stacks long enough for your shorter cooldowns to win the rematch.
   sources: [heywil]

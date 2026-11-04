@@ -11,9 +11,9 @@ sources: [heywil]
 
 ## Key tips
 
-- Memorize the answer chart. If he only leaps with Q, W away. If he starts Counter Strike on top of you, E out. If he leaps with Counter Strike active, answer with W into Q, or W into E when Q is spent.
+- Memorize these three answers. If he only leaps with Q, W away. If he starts Counter Strike on top of you, E out. If he leaps with Counter Strike active, answer with W into Q, or W into E when Q is spent.
   sources: [heywil]
-  heading: Answer chart
+  heading: Three answers
   abilities: [Jax.Q, Jax.E, Ambessa.W, Ambessa.E]
 
 - Poke with Q only while both W and E stay ready. Aggression without both answers up is how a winning lane gets stunned and run down.
@@ -40,7 +40,7 @@ sources: [heywil]
   heading: Shield answer
   abilities: [Jax.E, Ambessa.W]
 
-- Expect the lane to sharpen after level 3 once he holds both leap and Counter Strike together. The source video line is to judge trades from that point, not from the first two levels.
+- Expect the lane to sharpen after level 3 once he holds both Leap Strike and Counter Strike together. Judge every trade from that point by whether both of your answers are ready, not by how the first two levels went.
   sources: [heywil]
   heading: Post-3 trades
   abilities: [Jax.Q, Jax.E]
@@ -52,7 +52,7 @@ sources: [heywil]
   heading: All-in window
   abilities: [Jax.E]
 
-- Keep the answer chart running even when ahead. One stunned combo from behind lets him stack Relentless Assault and stat-check the rest of the fight.
+- Keep answering his engage the same way even when ahead: W away from a leap alone, E out when Counter Strike starts on top of you, and W into Q when he leaps with Counter Strike active. One stunned combo from behind lets him stack Relentless Assault and stat-check the rest of the fight.
   sources: [heywil]
   heading: No autopilot
   abilities: [Jax.P, Jax.E]
@@ -79,6 +79,6 @@ sources: [heywil]
   sources: [heywil]
   items: [1055]
 
-- Bone Plating plus Shield Bash from Resolve is the source secondary. It blunts the leap burst and rewards your constant W answers in every trade.
+- Take Bone Plating and Shield Bash as your Resolve secondary runes. Bone Plating blunts his leap burst, and Shield Bash pays you back every time W answers his engage.
   sources: [heywil]
   abilities: [Ambessa.W, Jax.Q]

@@ -71,7 +71,7 @@ sources: [heywil]
 
 ## Itemization
 
-- Eclipse first is the source anchor. Its burst proc plus shield fits the shield-for-silence trade pattern, and it scales into the bruiser items this matchup demands later.
+- Build Eclipse first. Its burst proc plus shield fits the shield-for-silence trade, where your W eats his Decisive Strike and Eclipse procs as you hit back, and it scales into the bruiser items this matchup demands later.
   sources: [heywil]
   items: [6692]
   abilities: [Ambessa.W, Garen.Q]

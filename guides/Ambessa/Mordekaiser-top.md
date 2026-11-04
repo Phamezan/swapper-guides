@@ -35,7 +35,7 @@ sources: [heywil]
   heading: Counter combo
   abilities: [Ambessa.W, Mordekaiser.Q, Ambessa.E, Ambessa.Q]
 
-- Play reactive before level 6 like the Darius plan. If he starts with Death's Grasp and misses, kite out and punish; do not walk into his Q range to start trades yourself.
+- Play reactive before level 6. Do not walk into his Obliterate range to start trades yourself; wait for Death's Grasp to miss, then step in for a short combo and kite back out before his passive spins up.
   sources: [heywil]
   heading: Reactive start
   abilities: [Mordekaiser.E, Mordekaiser.Q]

@@ -70,7 +70,7 @@ sources: [heywil]
 
 ## Itemization
 
-- Open with Serpent's Fang on the source line. It cuts through her Adaptive Defenses shield in every short trade, and it keeps paying off if she later adds Sterak's Gage or the team stacks shields.
+- Open with Serpent's Fang. It cuts through her Adaptive Defenses shield in every short trade, and it keeps paying off if she later adds Sterak's Gage or her team stacks shields.
   sources: [heywil]
   items: [6695]
   abilities: [Camille.P]
