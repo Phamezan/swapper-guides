@@ -82,3 +82,11 @@
   style: domisum
   patchStyle: calendar
   approved: true
+
+# Full-game claim and three 2026 embeddable samples: NOTES/named-player-sources.md.
+- id: UC8_CJP1lfMjzGo_jkMW8SQg
+  name: BeiFeng
+  style: named
+  estimatePatch: true
+  patchStyle: calendar
+  approved: true

@@ -1,0 +1,692 @@
+# Curated identity aliases; no fuzzy matching. Region is the usual server.
+[
+  {
+    "name": "XiaoMing",
+    "aliases": [
+      "小明",
+      "Xiao Ming"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "Chinese specialist; server varies by game."
+  },
+  {
+    "name": "Xiao Chao Meng",
+    "aliases": [
+      "小超梦",
+      "XCM",
+      "XiaoChaoMeng",
+      "샤오차오멍"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "Chinese specialist; server varies by game."
+  },
+  {
+    "name": "JJKing",
+    "aliases": [
+      "JJking",
+      "剑姬王"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "Chinese specialist; server varies by game."
+  },
+  {
+    "name": "14Fiora",
+    "aliases": [
+      "十四剑姬",
+      "14 Fiora"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "Chinese specialist; server varies by game."
+  },
+  {
+    "name": "Wenshen",
+    "aliases": [
+      "雯神"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "Chinese specialist; server varies by game."
+  },
+  {
+    "name": "Beifeng",
+    "aliases": [
+      "北枫",
+      "Bei Feng"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "Chinese super-server specialist."
+  },
+  {
+    "name": "Softwind",
+    "aliases": [
+      "小软",
+      "Soft Wind"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "Chinese super-server specialist."
+  },
+  {
+    "name": "Mangofish",
+    "aliases": [
+      "芒果鱼",
+      "Mango Fish"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "Chinese super-server specialist."
+  },
+  {
+    "name": "HanQL",
+    "aliases": [
+      "韩服第一艾希",
+      "寒千落",
+      "Han QL"
+    ],
+    "role": "adc",
+    "region": "CN",
+    "note": "Chinese marksman specialist."
+  },
+  {
+    "name": "Xiaolaoban",
+    "aliases": [
+      "小老板"
+    ],
+    "role": "adc",
+    "region": "CN",
+    "note": "Chinese marksman specialist."
+  },
+  {
+    "name": "Naayil",
+    "aliases": [],
+    "role": "top",
+    "region": "EUW",
+    "note": "Well-known top-lane streamer."
+  },
+  {
+    "name": "Spear Shot",
+    "aliases": [
+      "SpearShot"
+    ],
+    "role": "top",
+    "region": "EUW",
+    "note": "Well-known top-lane streamer."
+  },
+  {
+    "name": "Makkro",
+    "aliases": [
+      "Makkro0"
+    ],
+    "role": "top",
+    "region": "EUW",
+    "note": "Well-known top-lane streamer."
+  },
+  {
+    "name": "Thebausffs",
+    "aliases": [
+      "Baus"
+    ],
+    "role": "top",
+    "region": "EUW",
+    "note": "Well-known top-lane streamer."
+  },
+  {
+    "name": "Sinerias",
+    "aliases": [],
+    "role": "jungle",
+    "region": "EUW",
+    "note": "High-elo jungle streamer."
+  },
+  {
+    "name": "Agurin",
+    "aliases": [],
+    "role": "jungle",
+    "region": "EUW",
+    "note": "High-elo jungle streamer."
+  },
+  {
+    "name": "Elite500",
+    "aliases": [
+      "elite 500"
+    ],
+    "role": "mid",
+    "region": "EUW",
+    "note": "High-elo mid streamer."
+  },
+  {
+    "name": "Nemesis",
+    "aliases": [],
+    "role": "mid",
+    "region": "EUW",
+    "note": "High-elo mid streamer."
+  },
+  {
+    "name": "Solarbacca",
+    "aliases": [],
+    "role": "top",
+    "region": "NA",
+    "note": "High-elo top streamer."
+  },
+  {
+    "name": "TF Blade",
+    "aliases": [
+      "TFBlade"
+    ],
+    "role": "top",
+    "region": "NA",
+    "note": "High-elo top streamer."
+  },
+  {
+    "name": "ScrubNoob",
+    "aliases": [
+      "Scrub Noob"
+    ],
+    "role": "jungle",
+    "region": "NA",
+    "note": "High-elo jungle streamer."
+  },
+  {
+    "name": "KarasMai",
+    "aliases": [],
+    "role": "jungle",
+    "region": "NA",
+    "note": "High-elo jungle streamer."
+  },
+  {
+    "name": "Tarzaned",
+    "aliases": [],
+    "role": "jungle",
+    "region": "NA",
+    "note": "High-elo jungle streamer."
+  },
+  {
+    "name": "LegitKorea",
+    "aliases": [
+      "Legit Korea"
+    ],
+    "role": "mid",
+    "region": "NA",
+    "note": "High-elo mid streamer."
+  },
+  {
+    "name": "Pobelter",
+    "aliases": [],
+    "role": "mid",
+    "region": "NA",
+    "note": "High-elo mid streamer."
+  },
+  {
+    "name": "Alicopter",
+    "aliases": [],
+    "role": "support",
+    "region": "NA",
+    "note": "Alistar specialist."
+  },
+  {
+    "name": "Faker",
+    "aliases": [
+      "페이커"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "Chovy",
+    "aliases": [
+      "쵸비"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "ShowMaker",
+    "aliases": [
+      "쇼메이커"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "Bdd",
+    "aliases": [
+      "비디디"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "Zeka",
+    "aliases": [
+      "제카"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "Clozer",
+    "aliases": [
+      "클로저"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "BuLLDoG",
+    "aliases": [
+      "불독"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "OnZed",
+    "aliases": [
+      "온제드"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "Pzzang",
+    "aliases": [
+      "프제짱"
+    ],
+    "role": "mid",
+    "region": "KR",
+    "note": "Korean pro or established high-elo specialist."
+  },
+  {
+    "name": "Zeus",
+    "aliases": [
+      "제우스"
+    ],
+    "role": "top",
+    "region": "KR",
+    "note": "Korean professional top laner."
+  },
+  {
+    "name": "Doran",
+    "aliases": [
+      "도란"
+    ],
+    "role": "top",
+    "region": "KR",
+    "note": "Korean professional top laner."
+  },
+  {
+    "name": "Kiin",
+    "aliases": [
+      "기인"
+    ],
+    "role": "top",
+    "region": "KR",
+    "note": "Korean professional top laner."
+  },
+  {
+    "name": "Kingen",
+    "aliases": [
+      "킹겐"
+    ],
+    "role": "top",
+    "region": "KR",
+    "note": "Korean professional top laner."
+  },
+  {
+    "name": "PerfecT",
+    "aliases": [
+      "퍼펙트"
+    ],
+    "role": "top",
+    "region": "KR",
+    "note": "Korean professional top laner."
+  },
+  {
+    "name": "Siwoo",
+    "aliases": [
+      "시우"
+    ],
+    "role": "top",
+    "region": "KR",
+    "note": "Korean professional top laner."
+  },
+  {
+    "name": "Oner",
+    "aliases": [
+      "오너"
+    ],
+    "role": "jungle",
+    "region": "KR",
+    "note": "Korean professional jungler."
+  },
+  {
+    "name": "Canyon",
+    "aliases": [
+      "캐니언"
+    ],
+    "role": "jungle",
+    "region": "KR",
+    "note": "Korean professional jungler."
+  },
+  {
+    "name": "Peanut",
+    "aliases": [
+      "피넛"
+    ],
+    "role": "jungle",
+    "region": "KR",
+    "note": "Korean professional jungler."
+  },
+  {
+    "name": "Cuzz",
+    "aliases": [
+      "커즈"
+    ],
+    "role": "jungle",
+    "region": "KR",
+    "note": "Korean professional jungler."
+  },
+  {
+    "name": "Pyosik",
+    "aliases": [
+      "표식"
+    ],
+    "role": "jungle",
+    "region": "KR",
+    "note": "Korean professional jungler."
+  },
+  {
+    "name": "Gumayusi",
+    "aliases": [
+      "구마유시"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Peyz",
+    "aliases": [
+      "페이즈"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Viper",
+    "aliases": [
+      "바이퍼"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Ruler",
+    "aliases": [
+      "룰러"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Smash",
+    "aliases": [
+      "스매쉬"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Teddy",
+    "aliases": [
+      "테디"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Deft",
+    "aliases": [
+      "데프트"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Aiming",
+    "aliases": [
+      "에이밍"
+    ],
+    "role": "adc",
+    "region": "KR",
+    "note": "Korean professional marksman."
+  },
+  {
+    "name": "Keria",
+    "aliases": [
+      "케리아"
+    ],
+    "role": "support",
+    "region": "KR",
+    "note": "Korean professional support."
+  },
+  {
+    "name": "Delight",
+    "aliases": [
+      "딜라이트"
+    ],
+    "role": "support",
+    "region": "KR",
+    "note": "Korean professional support."
+  },
+  {
+    "name": "Lehends",
+    "aliases": [
+      "리헨즈"
+    ],
+    "role": "support",
+    "region": "KR",
+    "note": "Korean professional support."
+  },
+  {
+    "name": "BeryL",
+    "aliases": [
+      "베릴"
+    ],
+    "role": "support",
+    "region": "KR",
+    "note": "Korean professional support."
+  },
+  {
+    "name": "Knight",
+    "aliases": [
+      "knight9",
+      "左手"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Xiaohu",
+    "aliases": [
+      "小虎"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Doinb",
+    "aliases": [
+      "金咕咕"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Rookie",
+    "aliases": [
+      "肉鸡"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Shanks",
+    "aliases": [
+      "香克斯"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Tangyuan",
+    "aliases": [
+      "汤圆"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Angel",
+    "aliases": [
+      "安吉拉"
+    ],
+    "role": "mid",
+    "region": "CN",
+    "note": "LPL mid player; region denotes usual server, not nationality."
+  },
+  {
+    "name": "Kanavi",
+    "aliases": [
+      "카나비"
+    ],
+    "role": "jungle",
+    "region": "CN",
+    "note": "LPL jungle player."
+  },
+  {
+    "name": "Wei",
+    "aliases": [],
+    "role": "jungle",
+    "region": "CN",
+    "note": "LPL jungle player."
+  },
+  {
+    "name": "Tian",
+    "aliases": [],
+    "role": "jungle",
+    "region": "CN",
+    "note": "LPL jungle player."
+  },
+  {
+    "name": "Tarzan",
+    "aliases": [
+      "타잔"
+    ],
+    "role": "jungle",
+    "region": "CN",
+    "note": "LPL jungle player."
+  },
+  {
+    "name": "Xun",
+    "aliases": [],
+    "role": "jungle",
+    "region": "CN",
+    "note": "LPL jungle player."
+  },
+  {
+    "name": "Bin",
+    "aliases": [
+      "阿Bin"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "LPL top player."
+  },
+  {
+    "name": "TheShy",
+    "aliases": [
+      "더샤이"
+    ],
+    "role": "top",
+    "region": "CN",
+    "note": "LPL top player."
+  },
+  {
+    "name": "369",
+    "aliases": [],
+    "role": "top",
+    "region": "CN",
+    "note": "LPL top player."
+  },
+  {
+    "name": "Xiaoxu",
+    "aliases": [],
+    "role": "top",
+    "region": "CN",
+    "note": "LPL top player."
+  },
+  {
+    "name": "Ale",
+    "aliases": [],
+    "role": "top",
+    "region": "CN",
+    "note": "LPL top player."
+  },
+  {
+    "name": "JackeyLove",
+    "aliases": [
+      "阿水"
+    ],
+    "role": "adc",
+    "region": "CN",
+    "note": "LPL marksman."
+  },
+  {
+    "name": "Elk",
+    "aliases": [],
+    "role": "adc",
+    "region": "CN",
+    "note": "LPL marksman."
+  },
+  {
+    "name": "GALA",
+    "aliases": [],
+    "role": "adc",
+    "region": "CN",
+    "note": "LPL marksman."
+  },
+  {
+    "name": "Uzi",
+    "aliases": [
+      "简自豪"
+    ],
+    "role": "adc",
+    "region": "CN",
+    "note": "LPL marksman."
+  }
+]

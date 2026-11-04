@@ -1,4 +1,5 @@
 // Metadata only. No API key, cookies, media or automatic channel approvals.
+import { readFileSync } from 'node:fs';
 import { spawn } from 'node:child_process';
 import { readFile, writeFile, mkdir, rename, readdir, unlink } from 'node:fs/promises';
 import path from 'node:path';
@@ -7,7 +8,7 @@ import { parse, stringify } from 'yaml';
 import { plain } from './validate.mjs';
 import { momentKind } from './find-vods.mjs';
 
-const STYLES = ['challenger', 'midgg', 'korean-pro', 'super-carry', 'otp', 'domisum'];
+const STYLES = ['challenger', 'midgg', 'korean-pro', 'super-carry', 'otp', 'domisum', 'named'];
 const MIN_PATCH_YEAR = 25;
 const ID = /^[A-Za-z0-9_-]{11}$/u;
 const CHANNEL_ID = /^UC[A-Za-z0-9_-]{22}$/u;
@@ -21,6 +22,31 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const NOT_A_MOMENT = /^(?:game\s*start|gameplay|ban\s*(?:&|and)\s*picks?|picks?\s*(?:&|and)\s*bans?|loading(?:\s*screen)?|intro|outro|victory|defeat)$/iu;
 // Unavailable videos and videos whose uploader disabled embedding cannot play in the app.
 const playable = info => !info?.unavailable && info?.embeddable !== false;
+
+export function validatePlayers(players) {
+  if (!Array.isArray(players) || !players.length) throw new Error('players.yml must be a nonempty array');
+  const seen = new Map();
+  for (const player of players) {
+    if (!safe(player.name) || !Array.isArray(player.aliases) || !['top', 'jungle', 'mid', 'adc', 'support'].includes(player.role)
+      || !['CN', 'KR', 'EUW', 'EUNE', 'NA'].includes(player.region) || !safe(player.note)) throw new Error('Invalid player');
+    for (const alias of [player.name, ...player.aliases]) {
+      if (!safe(alias) || !alias.trim()) throw new Error('Invalid player alias');
+      const key = alias.toLocaleLowerCase();
+      if (seen.has(key) && seen.get(key) !== player.name) throw new Error(`Duplicate player alias: ${alias}`);
+      seen.set(key, player.name);
+    }
+  }
+  return players;
+}
+const players = validatePlayers(parse(readFileSync(new URL('../vods/players.yml', import.meta.url), 'utf8')));
+const escapeRegex = value => value.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&');
+const playerPatterns = players.map(player => [player, [player.name, ...player.aliases].map(alias =>
+  new RegExp(`(?<![\\p{L}\\p{N}_])${escapeRegex(alias)}(?![\\p{L}\\p{N}_])`, 'iu'))]);
+export function registryPlayer(text) {
+  if (typeof text !== 'string') return undefined;
+  const matches = playerPatterns.filter(([, patterns]) => patterns.some(pattern => pattern.test(text))).map(([player]) => player);
+  return matches.length === 1 ? matches[0] : undefined;
+}
 
 export function championAliases(champions) {
   const aliases = new Map(champions.map(({ name }) => [normalize(name), name]));
@@ -54,9 +80,22 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   const patch = titledPatch ? normalizePatch(titledPatch[1], channel.patchStyle)
     : channel.estimatePatch ? estimatePatch(uploadDate, calendar, { provisional: true }) : null;
   if (!patch) return null;
-  const rank = /(?:\bRanked\s+|\bKorea\s+|[-|]\s*(?:[A-Z]{2,4}\s+)?)(Challengerr?|Grandmaster|Master)\b/iu.exec(title)?.[1]?.replace(/rr$/iu, 'r');
+  let rank = /(?:\bRanked\s+|\bKorea\s+|[-|]\s*(?:[A-Z]{2,4}\s+)?)(Challengerr?|Grandmaster|Master)\b/iu.exec(title)?.[1]?.replace(/rr$/iu, 'r');
   let match, champion, enemy, lane, player = {};
-  if (channel.style === 'challenger') {
+  if (channel.style === 'named') {
+    if (/\b(?:montage|highlights?|compilations?|best of|shorts?)\b|集锦|精华|하이라이트/iu.test(title)
+      || /\b(?:diamond|emerald|platinum|plat[1-4]?|gold|silver|bronze|iron)\b/iu.test(title)) return null;
+    const named = registryPlayer(title);
+    if (!named) return null;
+    // Bounded matchup: only known champion names, separated by vs; prose may follow a delimiter.
+    const token = [...aliases.keys(), ...aliases.values()].sort((a,b) => b.length-a.length).map(escapeRegex).join('|');
+    match = new RegExp(`(?<![\\p{L}\\p{N}])(${token})\\s+(?:${LANE}\\s+)?vs\\.?\\s+(?:\\d+\\s+LP\\s+)?(${token})(?![\\p{L}\\p{N}])`, 'iu').exec(title);
+    if (!match) return null;
+    [, champion, lane, enemy] = match;
+    lane = new RegExp(`\\b${LANE}\\b`, 'iu').exec(title)?.[1] ?? lane ?? named.role;
+    player = { player: named.name };
+    rank = /\b(Challenger|Grandmaster|Master)\b/iu.exec(title)?.[1];
+  } else if (channel.style === 'challenger') {
     match = new RegExp(`^(?:\\(([^)]+)\\)\\s*)?(.+?)\\s+${LANE}\\s+vs\\s+(.+?)(?:\\s*\\([^)]*\\))?\\s+-\\s+`, 'iu').exec(title);
     if (match) { player = playerTag(match[1]); [, , champion, lane, enemy] = match; }
   } else if (channel.style === 'midgg') {
@@ -111,8 +150,11 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   }
   enemy = aliases.get(normalize(enemy ?? ''));
   if (!champion || !enemy || Object.values(player).some(value => !safe(value))) return null;
-  if (!rank && !(channel.style === 'korean-pro' && player.team)) return null;
-  const region = /\b(KR|NA|EUW|EUNE|Korea)\b/iu.exec(title)?.[1];
+  if (!rank && channel.style !== 'named' && !(channel.style === 'korean-pro' && player.team)) return null;
+  const region = /\b(KR|NA|EUW|EUNE|Korea)\b/iu.exec(title)?.[1]
+    ?? (channel.style === 'named' && ['KR', 'NA', 'EUW', 'EUNE'].includes(registryPlayer(title)?.region) ? registryPlayer(title).region : undefined);
+  const canonical = registryPlayer(player.player) ?? registryPlayer(title);
+  if (canonical) player.player = canonical.name;
   return { champion, enemy, ...region && { region: /^Korea$/iu.test(region) ? 'KR' : region.toUpperCase() }, lane: laneName(lane), rankClaim: rank ? rank[0].toUpperCase() + rank.slice(1).toLowerCase() : 'Master+', patch, ...!titledPatch && { patchEstimated: true }, ...player };
 }
 
@@ -325,7 +367,7 @@ export async function writeGenerated(root, rows, details, calendar = []) {
   const groups = new Map();
   for (let row of rows) {
     const info = details[row.id] ?? {};
-    if (!playable(info)) continue;
+    if (!playable(info) || (row.namedSource && info.embeddable !== true)) continue;
     // Listing dates of older videos are approximate; an estimated patch is published only from the exact upload day.
     if (row.patchEstimated) {
       const patch = estimatePatch(info.uploadDate, calendar);
@@ -400,7 +442,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, detail
     for (const row of Object.values(cache.videos)) {
       if (!approved.has(row.channel) || !(row.durationSec >= 600 && row.durationSec <= 3600) || !Number.isSafeInteger(row.durationSec)) continue;
       const facts = parseTitle(row.title, approved.get(row.channel), aliases, details[row.id]?.uploadDate ?? row.uploadDate, calendar);
-      if (facts) parsed.push({ ...row, ...facts, ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
+      if (facts) parsed.push({ ...row, ...facts, ...(approved.get(row.channel).style === 'named' && { namedSource: true }), ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
     }
     selected = selectVideos(parsed.filter(row => playable(details[row.id])), published);
     // Publish every eligible video before starting a potentially long detail pass.
