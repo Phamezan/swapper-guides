@@ -18,10 +18,21 @@ Named sources require explicit embed=true before publishing. Exact detail dates 
 
 ## Deferred / rejected
 
-- @XiaoMingAatrox (UCBnsdnhdPysrE0JCjQPn-QA): latest 30 listed. h_az8jQZYos (2026-11-03,1211s), y9-cXgtdNL0 (2026-11-03,1549s), tiAXIkY4wH0 (2026-11-03,1378s) all embed=true. Descriptions say only similar games/stream. No explicit full-game evidence; prior research also records montage and repeat-upload concerns. Not approved. Real titles retained as parser fixtures for future approved sources.
 - LoL Challenger CN (UCnHjebgvo2inKO9LxiZ3qlw): prior live research newest season 14.22 and sampled exact date 2024-11-12, fails date/patch floor. Not approved.
 - XIAO CHAO MENG LOL (UC0LfrLWI2wAFLK_9kqyupjw): prior research description explicitly says highlight collection; reject even though sample was 1807s and embed=true.
 - UCwuKE9d8VMdE1RniwUYnIVg: searched BeiFeng full game lead; newest flat titles omit opponents, no channel description/full-game claim; not added.
 - Naayil own channel: prior specialist research has editor credits and inconsistent matchup fields, no verified full-game/embed evidence; not added.
 
 CN verdict: one newly established metadata-qualified full-game source for Beifeng, not broad coverage of XiaoMing, Xiao Chao Meng, Softwind, HanQL or Mangofish. Registry presence is not a claim of available VODs. No estimates from stale or highlights channels are included.
+
+## Accepted by maintainer curation: @xiaomingaatrox — 2026-11-04
+
+UCBnsdnhdPysrE0JCjQPn-QA is approved with listing durations 900–2700 seconds,
+required champion/opponent, edited/funny-title rejection, and same-channel normalized
+title + matchup repeats within five seconds keeping the earliest upload. Emoji and
+punctuation are ignored for repeat comparison. Lane defaults to registry top only
+when absent; rank defaults to Master+, and KR requires title evidence.
+Exact detail upload date drives the existing patch estimator (floor 25.1);
+explicit embed=true is required. The existing full-game continuity uncertainty
+remains: this is maintainer-approved metadata curation, not a footage audit.
+This approval supersedes the earlier deferral and section 2D of vod-volume-research.md.

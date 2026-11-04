@@ -510,3 +510,23 @@ test('cache union preserves disjoint IDs and fields', () => {
   assert.deepEqual(mergeRecords({ a: { chapters: [1], uploadDate: 'old' }, b: { unavailable: true } }, { a: { uploadDate: 'new' }, c: { embeddable: false } }),
     { a: { chapters: [1], uploadDate: 'new' }, b: { unavailable: true }, c: { embeddable: false } });
 });
+
+test('XiaoMing selected listings enter detail queue and publish only after exact-date embed check', async()=>{
+ await temporaryRoot(async root=>{
+  const xiao={id:'UCBnsdnhdPysrE0JCjQPn-QA',name:'XiaoMing Aatrox',style:'named',estimatePatch:true,patchStyle:'calendar',approved:true};
+  await writeFile(path.join(root,'vods/channels.yml'),stringify([channel,xiao]));
+  await mkdir(path.join(root,'vods/cache'));
+  const seeds=['seedvideo01','seedvideo02','seedvideo03'].map(id=>({id,channel:channel.id,title:listing(id).title,durationSec:1200,uploadDate:'20261020'}));
+  const game={id:'xiaovideo01',channel:xiao.id,title:'🛑 XiaoMing 800 LP KR Aatrox vs. Vayne — Huge Comeback from Behind! Watch XiaoMing Turn It Around!',durationSec:1549,uploadDate:'20261021'};
+  await writeFile(path.join(root,'vods/cache/listings.json'),JSON.stringify({version:1,channels:{},videos:Object.fromEntries([...seeds,game].map(row=>[row.id,row]))}));
+  await writeFile(path.join(root,'vods/cache/details.json'),JSON.stringify(Object.fromEntries(seeds.map(row=>[row.id,{uploadDate:'20261020',embeddable:true}]))));
+  const before=await harvest(root,{cachedOnly:true});
+  assert.equal(before.xiaoMing.awaitingDetails,1);
+  assert.equal(before.xiaoMing.published,0);
+  const visited=[];
+  const after=await harvest(root,{detailsOnly:true,client:{async get(args){visited.push(args.at(-1));return {upload_date:'20261021',playable_in_embed:true};}}});
+  assert.deepEqual(visited,['https://www.youtube.com/watch?v=xiaovideo01']);
+  assert.equal(after.xiaoMing.published,1);
+  assert.equal(after.xiaoMing.awaitingDetails,0);
+ });
+});

@@ -10,6 +10,10 @@ import { momentKind } from './find-vods.mjs';
 
 const STYLES = ['challenger', 'midgg', 'korean-pro', 'super-carry', 'otp', 'domisum', 'named'];
 const MIN_PATCH_YEAR = 25;
+const XIAOMING = 'UCBnsdnhdPysrE0JCjQPn-QA';
+export const listingDurationAllowed = row => Number.isSafeInteger(row.durationSec)
+  && row.durationSec >= (row.channel === XIAOMING ? 900 : 600)
+  && row.durationSec <= (row.channel === XIAOMING ? 2700 : 3600);
 const ID = /^[A-Za-z0-9_-]{11}$/u;
 const CHANNEL_ID = /^UC[A-Za-z0-9_-]{22}$/u;
 const loc = { file: 'YouTube metadata', line: 1 };
@@ -85,9 +89,10 @@ export function parseTitle(title, channel, aliases, uploadDate, calendar = []) {
   let rank = /(?:\bRanked\s+|\bKorea\s+|[-|]\s*(?:[A-Z]{2,4}\s+)?)(Challengerr?|Grandmaster|Master)\b/iu.exec(title)?.[1]?.replace(/rr$/iu, 'r');
   let match, champion, enemy, lane, player = {};
   if (channel.style === 'named') {
-    if (/\b(?:montage|highlights?|compilations?|best of|shorts?)\b|集锦|精华|하이라이트/iu.test(title)
-      || /\b(?:diamond|emerald|platinum|plat[1-4]?|gold|silver|bronze|iron)\b/iu.test(title)) return null;
-    const named = registryPlayer(title);
+    const attribution = channel.id === XIAOMING ? title.split(/\s[—–-]\s/u)[0] : title;
+    if (/\b(?:montage|highlights?|compilations?|best\s+of|shorts?|funny)\b|集锦|精华|하이라이트/iu.test(title)
+      || /\b(?:diamond|emerald|platinum|plat[1-4]?|gold|silver|bronze|iron)\b/iu.test(attribution)) return null;
+    const named = registryPlayer(attribution);
     if (!named) return null;
     // Bounded matchup: only known champion names, separated by vs; prose may follow a delimiter.
     const token = [...aliases.keys(), ...aliases.values()].sort((a,b) => b.length-a.length).map(escapeRegex).join('|');
@@ -195,6 +200,17 @@ export function estimatePatch(uploadDate, calendar, { provisional = false } = {}
 const patchNumber = patch => patch.split('.').reduce((n, part) => n * 100 + Number(part), 0);
 export function selectVideos(rows, published = new Set()) {
   const games = new Map();
+  const repeats = new Map();
+  // Listing order is newest first; exact detail dates refine the earliest upload.
+  rows = [...rows].sort((a, b) => (a.uploadDate ?? '').localeCompare(b.uploadDate ?? '')
+    || (b.order ?? 0) - (a.order ?? 0) || a.id.localeCompare(b.id)).filter(row => {
+    if (row.channel !== XIAOMING) return true;
+    const title = row.title.toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
+    const key = `${row.champion}/${row.enemy}/${title}`;
+    const prior = repeats.get(key) ?? [];
+    if (prior.some(other => Math.abs(other.durationSec - row.durationSec) <= 5)) return false;
+    prior.push(row); repeats.set(key, prior); return true;
+  });
   rows = [...rows].sort((a, b) => Number(published.has(b.id)) - Number(published.has(a.id))
     || Number(a.channel === 'UCsVz2qkd_oGXGC66fcH4SFA') - Number(b.channel === 'UCsVz2qkd_oGXGC66fcH4SFA')
     || a.id.localeCompare(b.id));
@@ -442,7 +458,7 @@ export async function harvest(root, { discovery = [], cachedOnly = false, detail
   if (!discovery.length) {
     const calendar = exactCalendar();
     for (const row of Object.values(cache.videos)) {
-      if (!approved.has(row.channel) || !(row.durationSec >= 600 && row.durationSec <= 3600) || !Number.isSafeInteger(row.durationSec)) continue;
+      if (!approved.has(row.channel) || !listingDurationAllowed(row)) continue;
       const facts = parseTitle(row.title, approved.get(row.channel), aliases, details[row.id]?.uploadDate ?? row.uploadDate, calendar);
       if (facts) parsed.push({ ...row, ...facts, ...(approved.get(row.channel).style === 'named' && { namedSource: true }), ...(details[row.id]?.uploadDate && { uploadDate: details[row.id].uploadDate }) });
     }
@@ -487,6 +503,14 @@ export async function harvest(root, { discovery = [], cachedOnly = false, detail
     champions: new Set(ready.map(row => row.champion)).size,
     detailsCached: ready.filter(row => details[row.id]).length,
     detailsRemaining: ready.filter(row => !details[row.id]).length,
+    xiaoMing: {
+      listed: Object.values(cache.videos).filter(row => row.channel === XIAOMING).length,
+      passed: parsed.filter(row => row.channel === XIAOMING).length,
+      repeatsDropped: parsed.filter(row => row.channel === XIAOMING).length
+        - selectVideos(parsed.filter(row => row.channel === XIAOMING)).length,
+      published: output.filter(video => cache.videos[video.videoId]?.channel === XIAOMING).length,
+      awaitingDetails: ready.filter(row => row.channel === XIAOMING && !details[row.id]).length,
+    },
     withMoments: output.filter(video => video.moments?.length).length, withResult: output.filter(video => video.result).length,
     candidates: channels.filter(channel => !existingChannelIds.has(channel.id)), ...(listingErrors.length && { listingErrors }),
     ...(stopped && { stopped: stopped.message }) };
