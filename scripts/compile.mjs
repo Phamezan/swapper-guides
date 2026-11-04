@@ -147,7 +147,7 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
     groups.get(champion).general.push({ guide, loc: document.loc });
   }
   const index = { schema: 1, generatedAt, champions: {} };
-  const vodFiles = [...input].filter(([file]) => /^(?:vods|vods-auto)\//u.test(file) && file.endsWith('.yml') && file !== 'vods/channels.yml')
+  const vodFiles = [...input].filter(([file]) => /^(?:vods|vods-auto)\//u.test(file) && file.endsWith('.yml') && !['vods/channels.yml', 'vods/players.yml'].includes(file))
     .sort(([a], [b]) => Number(a.startsWith('vods-auto/')) - Number(b.startsWith('vods-auto/')) || a.localeCompare(b, 'en'));
   for (const [file, text] of vodFiles) {
     const { champion, ...entry } = compileVods(text, file, champions);

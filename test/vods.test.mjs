@@ -57,7 +57,7 @@ test('disk build discovers YAML VODs', async () => {
   const root = path.resolve(import.meta.dirname, '..');
   const temp = await mkdtemp(path.join(root, '.vod-test-'));
   try {
-    for (const [name, text] of [...base, [file, JSON.stringify([video])], ['vods/channels.yml', '[]'],
+    for (const [name, text] of [...base, [file, JSON.stringify([video])], ['vods/channels.yml', '[]'], ['vods/players.yml', '[]'],
       ['vods-auto/Ahri/Zed-mid.yml', JSON.stringify([{ ...video, videoId: 'abcdefghijk' }])]]) {
       await mkdir(path.dirname(path.join(temp, name)), { recursive: true });
       await writeFile(path.join(temp, name), text);
