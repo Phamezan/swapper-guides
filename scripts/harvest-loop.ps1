@@ -5,6 +5,7 @@ New-Item -ItemType Directory -Force -Path $state | Out-Null
 try { $lock = [IO.File]::Open((Join-Path $state 'harvest.lock'), 'OpenOrCreate', 'ReadWrite', 'None') }
 catch [IO.IOException] { exit 0 }
 try {
-    & (Get-Command node.exe).Source (Join-Path $PSScriptRoot 'harvest-loop.mjs') *>> (Join-Path $state 'harvest.log')
+    & (Get-Command node.exe).Source (Join-Path $PSScriptRoot 'harvest-loop.mjs')
+
     exit $LASTEXITCODE
 } finally { $lock.Dispose() }
