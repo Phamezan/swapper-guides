@@ -12,6 +12,7 @@ test('curated registry is valid, aliases exact, multilingual and unambiguous',()
  assert.equal(registryPlayer('小超梦').name,'Xiao Chao Meng');
  assert.equal(registryPlayer('T1 페이커').name,'Faker');
  assert.equal(registryPlayer('NotBeifeng'),undefined);
+ assert.equal(registryPlayer('Perfect KDA: 17/0/8'),undefined);
  assert.equal(registryPlayer('Faker vs Chovy'),undefined);
  assert.throws(()=>validatePlayers([...players,{...players[0],name:'Other',aliases:['Faker']}]),/Duplicate/);
 });

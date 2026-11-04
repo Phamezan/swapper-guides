@@ -44,6 +44,8 @@ const playerPatterns = players.map(player => [player, [player.name, ...player.al
   new RegExp(`(?<![\\p{L}\\p{N}_])${escapeRegex(alias)}(?![\\p{L}\\p{N}_])`, 'iu'))]);
 export function registryPlayer(text) {
   if (typeof text !== 'string') return undefined;
+  // PerfecT is a pro name; replay performance labels are not player attribution.
+  text = text.replace(/\bperfect\s+KDA\b/giu, '');
   const matches = playerPatterns.filter(([, patterns]) => patterns.some(pattern => pattern.test(text))).map(([player]) => player);
   return matches.length === 1 ? matches[0] : undefined;
 }
