@@ -74,4 +74,5 @@ sources: [anguish, xsagi, justsad42-mf]
 
 - No matchup-specific item defines this lane on current patch; spend gold on the standard Akali core and win through the Riposte and shroud windows above rather than an item answer.
   sources: [anguish, xsagi]
+  abilities: [Fiora.W]
   patch: "26.20"

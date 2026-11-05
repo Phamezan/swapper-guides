@@ -28,7 +28,7 @@ sources: [peng04, shok-ahri]
 
 - E through minions to dodge: never dash predictably while in Charm range.
   sources: [peng04]
-  abilities: [Yasuo.E]
+  abilities: [Yasuo.E, Ahri.E]
 
 - After dashing through a minion that path is closed for a while, so plan the next dash.
   sources: [peng04]

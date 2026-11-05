@@ -24,7 +24,7 @@ sources: [heywil]
 - When she ults, R behind yourself to leave Vanguard's Edge. Escaping the blade wall denies her free Bladesurge resets and the slow that lets her stack on you.
   sources: [heywil]
   heading: Ult escape
-  abilities: [Irelia.R, Ambessa.R]
+  abilities: [Irelia.R, Ambessa.R, Irelia.Q]
 
 ## Overview
 
@@ -49,6 +49,7 @@ sources: [heywil]
 
 - Respect her Blade of the Ruined King spike. Her first item lets her stat-check even when behind, so shorten trades and keep the Flawless Duet dodge perfect around it.
   sources: [heywil]
+  abilities: [Irelia.E]
   heading: Blade spike
   items: [3153]
 

@@ -47,5 +47,6 @@ sources: [elite500, peng04, shok-ahri]
 
 - Pool timed plus Q windows banked: the Ahri who never lands Charm never wins.
   sources: [elite500, peng04]
+  abilities: [Ahri.E]
 
 ## Itemization

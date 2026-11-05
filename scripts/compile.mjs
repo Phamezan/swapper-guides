@@ -47,7 +47,7 @@ function compileSection(raw, context) {
   return section;
 }
 
-export function compileContent(input, { generatedAt = new Date().toISOString() } = {}) {
+export function compileContent(input, { generatedAt = new Date().toISOString(), onWarning = () => {} } = {}) {
   const dateLoc = { file: 'index.json', line: 1 };
   if (typeof generatedAt !== 'string' || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/u.test(generatedAt) || !Number.isFinite(Date.parse(generatedAt))) {
     fail(dateLoc, 'generatedAt must be an ISO UTC timestamp');
@@ -67,7 +67,7 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
       const enemy = championId(document.frontmatter.value.enemy, champions, document.frontmatter.at('enemy'), 'enemy champion');
       if (file !== `enemies/${document.frontmatter.value.enemy}.md`) fail(document.loc, 'enemy file path must match frontmatter enemy');
       if (cores.has(enemy)) fail(document.loc, 'duplicate enemy core');
-      const context = { champions, sources: authors, participants: [enemy], scope: 'enemy' };
+      const context = { champions, sources: authors, participants: [enemy], scope: 'enemy', onWarning };
       const enemyTips = Object.fromEntries([...document.blocks].map(([id, block]) => [id, block.tips.map(tip => compileTip(tip, context))]));
       cores.set(enemy, { document, enemyTips });
     } else if (file.startsWith('guides/')) {
@@ -84,7 +84,7 @@ export function compileContent(input, { generatedAt = new Date().toISOString() }
     const sourceIds = ids(meta.sources, at('sources'), 'guide sources');
     for (const id of sourceIds) if (!authors.has(id)) fail(at('sources'), `source ${id} is not vetted in authors.yml`);
     const sources = new Map(sourceIds.map(id => [id, authors.get(id)]));
-    const context = { champions, sources, participants, scope };
+    const context = { champions, sources, participants, scope, onWarning };
     for (const [label, id] of [...SECTION_LABELS, ['Key tips', 'keyTips'], ['Itemization', 'itemization']]) {
       if (!document.blocks.has(id)) fail(document.loc, `required section ${label} is missing`);
     }

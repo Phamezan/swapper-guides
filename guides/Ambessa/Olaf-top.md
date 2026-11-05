@@ -83,4 +83,4 @@ sources: [heywil]
 
 - Take Phase Rush with Inspiration secondary runes. The speed burst after your short combo is what keeps his axes and Ragnarok from ever connecting.
   sources: [heywil]
-  abilities: [Olaf.Q]
+  abilities: [Olaf.Q, Olaf.R]

@@ -19,7 +19,7 @@ sources: [heywil]
 - Hit without being hit back. Kite her Precision Protocol autos with E and save Q to disengage or dodge Hookshot instead of starting trades with it.
   sources: [heywil]
   heading: One-sided trades
-  abilities: [Camille.Q, Ambessa.E, Ambessa.Q]
+  abilities: [Camille.Q, Ambessa.E, Ambessa.Q, Camille.E]
 
 - Hold R as a Hookshot answer. Cast it as she launches off the wall, or pre-aim it at the anchor point she first dashes toward, to buffer through the engage.
   sources: [heywil]

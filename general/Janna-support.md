@@ -56,6 +56,7 @@ sources: [1yanou]
 
 - Treat Moonstone Renewer into Redemption and Monsoon as the later sustain spike for stronger healing.
   sources: [1yanou]
+  abilities: [Janna.R]
 
 - Prefer Dawncore third for more enchanter scaling.
   sources: [1yanou]

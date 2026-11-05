@@ -21,7 +21,7 @@ sources: [mauro2347, mmjyn, dennissuarez69, nicolaslamelas]
 
 - Release Fate Sealed at close range. From far away his Wind Wall ({cd:157:W}) eats the wave, but the point-blank knockup lands before the wall matters, so step in before casting it.
   sources: [dennissuarez69]
-  abilities: [Yone.Q, Yasuo.W]
+  abilities: [Yone.Q, Yasuo.W, Yone.R]
 
 ## Overview
 

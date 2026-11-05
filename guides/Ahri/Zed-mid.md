@@ -72,6 +72,7 @@ sources: [peng04, v222, aikopanda]
 
 - Turn the lane into a non-event: reach level 6 healthy, keep Charm and Spirit Rush up, and let your priority convert into side-lane plays and objectives.
   sources: [peng04, aikopanda]
+  abilities: [Ahri.E, Ahri.R]
   heading: "Your win condition"
 
 - Use Spirit Rush dashes deliberately. Zed looks for W–Q right after a dash, so do not burn all charges to chase; keep one to answer his engage.
@@ -81,11 +82,12 @@ sources: [peng04, v222, aikopanda]
 - Spending Charm on poke. Without it, Death Mark becomes safe for him; with it, he usually does not try.
   sources: [v222, aikopanda]
   heading: "Common mistakes"
-  abilities: [Ahri.E]
+  abilities: [Ahri.E, Zed.R]
 
 ## Itemization
 
 - Zhonya's Hourglass is the item answer to Zed: time the stasis for the moment Death Mark detonates. Peng lists it as a third-item option specifically into assassins like Zed.
   sources: [peng04]
+  abilities: [Zed.R]
   items: [3157]
 

@@ -232,6 +232,16 @@
           "sourceIds": [
             "peng04",
             "aikopanda"
+          ],
+          "abilityKeys": [
+            {
+              "champion": 103,
+              "key": "E"
+            },
+            {
+              "champion": 103,
+              "key": "R"
+            }
           ]
         },
         {
@@ -267,6 +277,10 @@
             {
               "champion": 103,
               "key": "E"
+            },
+            {
+              "champion": 238,
+              "key": "R"
             }
           ]
         }
@@ -282,6 +296,12 @@
       ],
       "sourceIds": [
         "peng04"
+      ],
+      "abilityKeys": [
+        {
+          "champion": 238,
+          "key": "R"
+        }
       ]
     }
   ],

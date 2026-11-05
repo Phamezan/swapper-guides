@@ -24,7 +24,7 @@ sources: [ph45, federals1-darius]
 - All-in after he misses Apprehend, but account for Ghost. A missed E is your window, yet he still runs you down once Counter Strike ends, so commit only when you can finish inside the window.
   sources: [ph45, federals1-darius]
   heading: Punish window
-  abilities: [Darius.E]
+  abilities: [Darius.E, Jax.E]
 
 ## Overview
 
@@ -68,3 +68,4 @@ sources: [ph45, federals1-darius]
 
 - Take Flash and Ignite. Ignite answers his Decimate healing in all-ins, and the extra kill pressure fits a lane you are supposed to win.
   sources: [ph45]
+  abilities: [Darius.Q]

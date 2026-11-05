@@ -81,4 +81,4 @@ sources: [heywil]
 - Start Doran's Shield with Flash and Teleport. Shield plus Second Wind erases Shard poke, and Teleport protects your priority if one Ground Slam trade goes wrong.
   sources: [heywil]
   items: [1054]
-  abilities: [Malphite.Q]
+  abilities: [Malphite.Q, Malphite.E]

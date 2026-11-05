@@ -41,7 +41,7 @@ sources: [pengekko, v222, shok-ahri]
 
 - Do not waste Charm showing off: open R-W-Q and save Charm for when it counts.
   sources: [pengekko]
-  abilities: [Ahri.R, Ahri.W, Ahri.Q]
+  abilities: [Ahri.R, Ahri.W, Ahri.Q, Ahri.E]
 
 ## Win condition
 

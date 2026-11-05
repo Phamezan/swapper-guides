@@ -29,7 +29,7 @@ sources: [peng04, shok-ahri]
 
 - Do not eat free poke: her Qs set up Charm-cancels.
   sources: [shok-ahri]
-  abilities: [Ahri.Q]
+  abilities: [Ahri.Q, Ahri.E]
 
 - Landings hurt badly: one E2 is the whole trade.
   sources: [shok-ahri]

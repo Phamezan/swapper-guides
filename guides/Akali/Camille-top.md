@@ -52,6 +52,7 @@ sources: [anguish, raideru]
 
 - Track wall angles before skirmishes. She trades best near walls where Hookshot has a line, so pull fights into the open where her E finds nothing.
   sources: [raideru]
+  abilities: [Camille.E]
   heading: Positioning
 
 ## Win condition

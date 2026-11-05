@@ -37,6 +37,7 @@ sources: [federals1-darius, ph45]
 
 - Respect his Ignite window. He takes Ignite to limit your Decimate healing, so refuse committed all-ins while it is up and fight once it is down.
   sources: [ph45]
+  abilities: [Darius.Q]
   heading: Ignite respect
 
 ## Mid lane

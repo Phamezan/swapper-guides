@@ -166,6 +166,7 @@ source: peng04
 
 - Time Zhonya's stasis for Death Mark's detonation.
   sources: [peng04]
+  abilities: [Zed.R]
   items: [3157]
 ```
 
@@ -233,6 +234,12 @@ Every guide must have exactly three key tips. At least two of `Early lane`,
 `Mid lane`, `Win condition` must each have at least two main pair tips. Every tip
 in key tips, phase sections, alternatives, shared cores and itemization needs a
 source. Shared tips and alternative tips do not fill a gap in the pair-tip bar.
+Every ability named in a tip must have an `abilities` reference for that tip.
+Names match case-sensitively as whole phrases, including either half of combined
+Data Dragon names such as `Cocoon / Rappel`. The passive name `Leverage` is
+excluded from this requirement because existing Renata tips use `Leverage Rumor`
+for another spell. Listed references whose names do not appear are reported as
+informational messages and do not fail the build.
 Errors name the file and line, for example:
 `guides/Ahri/Zed-mid.md:18: required field sources is missing`.
 
@@ -250,7 +257,7 @@ by enemy id, then lane. Validation finishes before replacing the previous output
 a successful rebuild removes files for deleted guides.
 
 `npm test` uses Node's built-in test runner. It checks exact deep equality with
-the saved Ahri-vs-Zed app fixture after removing only `fixture`, plus invalid
+the saved Ahri-vs-Zed app fixture with updated ability metadata, plus invalid
 inputs for the validation rules, shared cores, optional formats and on-disk
 output. The saved fixture came from `src/full-app/fixtures/ahriVsZed.ts` and
 `zedCore.ts` in the Swapper worktree on 2026-10-27; tests need no Swapper checkout
@@ -262,11 +269,17 @@ To update the local champion snapshot, explicitly run:
 npm run refresh:champions
 ```
 
-This is the only command that fetches content, from CommunityDragon's
+This fetches content from CommunityDragon's
 [champion-summary.json](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-summary.json).
 It omits the placeholder and Jade mode variants, sorts by id and keeps just
 `id` and `name`. Review the resulting `champions.json` diff along with content
 changes. The build never refreshes this snapshot automatically.
+
+To refresh ability names, run `npm run refresh:abilities`. It fetches the latest
+version from Riot Data Dragon's `api/versions.json`, then that version's English
+`championFull.json`. The checked-in `ability-names.json` records the version,
+source URL and P/Q/W/E/R names by champion id; builds and tests use it offline.
+Review its diff when refreshing names.
 
 ## Publishing
 

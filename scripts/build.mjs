@@ -38,7 +38,7 @@ export async function build(root = process.cwd(), options = {}) {
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   try {
-    const index = await build();
+    const index = await build(process.cwd(), { onWarning: message => console.warn(`Info: ${message}`) });
     const total = key => Object.values(index.champions).reduce((sum, champion) => sum + (champion[key] ?? 0), 0);
     console.log(`Built ${total('guides')} guides and ${total('general')} general guides into dist/`);
   } catch (error) {

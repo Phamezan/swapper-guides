@@ -17,6 +17,7 @@ sources: [antiwis, omibro]
 
 - Play through your jungler instead of through trades. Your snare into Curtain Call gives your jungler a strong setup to convert, which is how a conceded lane turns back around.
   sources: [omibro]
+  abilities: [Jhin.R]
 
 - Read her support before anything else. With a strong engage partner she is suffocating, but she cannot close gaps on her own, so without one her threat collapses.
   sources: [omibro]

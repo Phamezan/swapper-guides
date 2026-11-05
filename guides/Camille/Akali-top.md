@@ -43,6 +43,7 @@ sources: [raideru, anguish]
 
 - Keep fights near walls for Hookshot angles. She wants open ground where your E finds nothing, so pull skirmishes toward terrain and punish her drift into the open.
   sources: [raideru]
+  abilities: [Camille.E]
   heading: Positioning
 
 - Zone her approach with the outer ring of your W. She refuses to stand in it, which funnels her Q, passive, Q pattern into the line your E is already holding.

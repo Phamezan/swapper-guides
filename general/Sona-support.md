@@ -13,7 +13,7 @@ sources: [neiri]
 
 - Spend W just before incoming damage to shield the hit and heal after, and prioritize the W Power Chord onto whoever deals the most damage to blunt their exchange.
   sources: [neiri]
-  abilities: [Sona.W]
+  abilities: [Sona.W, Sona.P]
 
 - Move with the carries rather than far behind them, weaving in and out to apply passive autos and cycle auras while staying protected.
   sources: [neiri]
@@ -36,6 +36,7 @@ sources: [neiri]
 
 - Choose the Power Chord that best disrupts the current threat instead of spending the passive without a target plan.
   sources: [neiri]
+  abilities: [Sona.P]
 
 - Keep hunting Flash-R angles, but first check that teammates have the health, resources, and numbers to follow the initiation.
   sources: [neiri]
@@ -52,7 +53,7 @@ sources: [neiri]
 
 - Scale into the aura enchanter: stay alive near the carry line, keep applying auras and Power Chord debuffs, and let W, E, and R decide the extended fight.
   sources: [neiri]
-  abilities: [Sona.W, Sona.E, Sona.R]
+  abilities: [Sona.W, Sona.E, Sona.R, Sona.P]
 
 - Aim R where allies can follow the stun, W Chord onto the highest damage dealer, and E Chord onto the target your team can catch.
   sources: [neiri]

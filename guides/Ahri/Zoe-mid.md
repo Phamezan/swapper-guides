@@ -17,7 +17,7 @@ sources: [peng04, shok-ahri, shok-zoe]
 
 - Answer her bubble with W; never Charm the instant she casts her portal.
   sources: [peng04]
-  abilities: [Ahri.W, Zoe.R]
+  abilities: [Ahri.W, Zoe.R, Ahri.E]
 
 - When she ults in, ult and Charm the spot she cast from: she snaps back to it.
   sources: [peng04]

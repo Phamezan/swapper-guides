@@ -33,7 +33,7 @@ sources: [heywil]
 - Kite backward with E whenever he leaps without Counter Strike. A leap answered cleanly leaves him in your wave with no way to stick.
   sources: [heywil]
   heading: Leap kite
-  abilities: [Jax.Q, Ambessa.E]
+  abilities: [Jax.Q, Ambessa.E, Jax.E]
 
 - Shield his Counter Strike with W when E is unavailable, then leave before the stun pops. Half-answers still lose the trade, so commit to the full exit.
   sources: [heywil]

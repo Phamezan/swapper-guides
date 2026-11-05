@@ -47,7 +47,7 @@ sources: [yshuro13, yshuro13-web, federals1-garen, lilpicky]
 - Leave completely until Perseverance restarts. He tags you to hold your healing down, so a half-reset just invites the next Q chain.
   sources: [lilpicky]
   heading: Full resets
-  abilities: [Aatrox.Q]
+  abilities: [Aatrox.Q, Garen.P]
 
 ## Win condition
 
