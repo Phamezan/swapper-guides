@@ -40,7 +40,7 @@ sources: [heywil]
   heading: Repeat combo
   abilities: [Ambessa.E, Ambessa.Q, Jayce.E]
 
-- Beware fog-of-war poke. Shock Blasts from brush chunk you before you see him, so ward lane brush and respect cannon range when he disappears.
+- Beware fog-of-war poke. Shock Blast casts from brush chunk you before you see him, so ward lane brush and respect cannon range when he disappears.
   sources: [heywil]
   heading: Fog respect
   abilities: [Jayce.Q]

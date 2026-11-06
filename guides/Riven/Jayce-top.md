@@ -59,7 +59,7 @@ sources: [saltyy, xinkelol]
 
 ## Itemization
 
-- Start Doran's Shield and a Health Potion with Second Wind against cannon poke. Preserving health for level 6 gives more useful all-in chances than losing the lane to repeated Shock Blasts.
+- Start Doran's Shield and a Health Potion with Second Wind against cannon poke. Preserving health for level 6 gives more useful all-in chances than losing the lane to repeated Shock Blast casts.
   sources: [saltyy]
   abilities: [Jayce.Q]
   items: [1054, 2003]
