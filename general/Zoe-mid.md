@@ -29,12 +29,14 @@ sources: [shok-zoe]
   abilities: [Zoe.E, Zoe.R]
 
 - Conserve mana before Lost Chapter and blue buff, spending nothing on cooldown without a clear trade or wave purpose.
+  items: [3802]
   sources: [shok-zoe]
 
 - On the Unsealed Spellbook and Teleport plan, trade health for the opponent's, then recall and teleport back to make them lose farm.
   sources: [shok-zoe]
 
 - Open Doran's Ring and Health Potions, with Dark Seal, boots, and Lost Chapter among the early buys.
+  items: [1056, 1082, 3802]
   sources: [shok-zoe]
 
 ## Mid lane
@@ -69,7 +71,9 @@ sources: [shok-zoe]
   sources: [shok-zoe]
 
 - Complete Luden's Echo, Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Horizon Focus, choosing Ionian Boots, Sorcerer's Shoes, or Mercury's Treads by game with Mercury's flagged against double AP and crowd control.
+  items: [6655, 3020, 4645, 3089, 3135, 4628, 3111]
   sources: [shok-zoe]
 
 - Keep Mejai's Soulstealer for snowballs, Morellonomicon for healing, Zhonya's or Banshee's for defense, and Lich Bane for damage as situational picks.
+  items: [3041, 3165, 3100]
   sources: [shok-zoe]

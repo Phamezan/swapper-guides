@@ -32,6 +32,7 @@ sources: [saltyy, xinkelol]
 ## Early lane
 
 - Start Valor at level 1 with Doran's Shield if he pokes with Parrrley; if he starts Powder Keg instead, start Broken Wings and contest the keg before it arms.
+  items: [1054]
   sources: [saltyy]
   abilities: [Riven.Q, Riven.E, Gangplank.Q, Gangplank.E]
 
@@ -45,6 +46,7 @@ sources: [saltyy, xinkelol]
 ## Mid lane
 
 - A Sheen-first Gangplank can be vulnerable to level-6 burst before buying armor. Ki Burst him beside a nearly depleted Powder Keg, destroy the keg, then continue the all-in.
+  items: [3057]
   sources: [saltyy]
   abilities: [Riven.W, Gangplank.E]
 

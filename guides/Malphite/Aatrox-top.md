@@ -17,6 +17,7 @@ sources: [federals1-malphite, lilpicky]
   abilities: [Malphite.Q]
 
 - Rush early Bramble Vest. His combo autos trigger the heal cut, so the item must be online before his first real all-in, not after.
+  items: [3076]
   sources: [federals1-malphite]
   heading: Bramble rush
 
@@ -65,4 +66,5 @@ sources: [federals1-malphite, lilpicky]
 ## Itemization
 
 - Prioritize early Bramble Vest into Plated Steelcaps and armor. Delay damage until his penetration purchase forces the resistance race.
+  items: [3076, 3047]
   sources: [federals1-malphite]

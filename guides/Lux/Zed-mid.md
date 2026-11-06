@@ -42,6 +42,7 @@ sources: [aikopanda, v222, peng04]
   abilities: [Zed.R]
 
 - His Edge of Night blanks one Q: bait the shield before committing.
+  items: [3814]
   sources: [aikopanda]
 
 ## Win condition

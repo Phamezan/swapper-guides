@@ -41,6 +41,7 @@ sources: [heywil]
   abilities: [Nasus.W]
 
 - Adapt to poke Nasus starts. If he maxes Spirit Fire with Aery-style poke, Doran's Shield and shorter trades survive the chip he trades for stacks.
+  items: [1054]
   sources: [heywil]
   heading: Poke adapt
   abilities: [Nasus.E]

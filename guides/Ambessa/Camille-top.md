@@ -72,7 +72,7 @@ sources: [heywil]
 
 - Open with Serpent's Fang. It cuts through her Adaptive Defenses shield in every short trade, and it keeps paying off if she later adds Sterak's Gage or her team stacks shields.
   sources: [heywil]
-  items: [6695]
+  items: [6695, 3053]
   abilities: [Camille.P]
 
 - Take Teleport and Ignite with Doran's Blade. Ignite pressures the early volatile levels where the lane is decided, while Teleport covers you if a Hookshot trade goes wrong.

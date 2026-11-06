@@ -31,6 +31,7 @@ sources: [aikopanda]
   sources: [aikopanda]
 
 - Open Doran's Blade for the standard setup or Doran's Shield into poke, with Pickaxe, Long Sword, and Refillable Potion as the shown first-buy components.
+  items: [1055, 1054, 1037, 1036, 2031]
   sources: [aikopanda]
 
 ## Mid lane
@@ -56,6 +57,7 @@ sources: [aikopanda]
   sources: [aikopanda]
 
 - Check defensive answers such as stasis or Guardian Angel before committing the full combo, choosing the target by current threat and value.
+  items: [3026]
   sources: [aikopanda]
   abilities: [Zed.R]
 
@@ -73,7 +75,9 @@ sources: [aikopanda]
   sources: [aikopanda]
 
 - Build Voltaic Cyclosword, Bastionbreaker, Gluttonous Greaves, Lord Dominik's Regards, Edge of Night, and Endless Hunger as the main line, with Gluttonous Greaves, Armored Advance, or Chainlaced Crushers for boots, Serylda's Grudge, Lord Dominik's Regards, Mortal Reminder, or Black Cleaver for armor penetration, and Edge of Night, Death's Dance, Maw of Malmortius, Guardian Angel, or Spear of Shojin for late defense by opposing damage.
+  items: [6699, 2520, 3008, 3036, 3814, 2517, 3174, 3173, 6694, 3033, 3071, 6333, 3156, 3026, 3161]
   sources: [aikopanda]
 
 - Start Doran's Blade by default and Doran's Shield into poke pressure.
+  items: [1055, 1054]
   sources: [aikopanda]

@@ -45,9 +45,11 @@ sources: [saltyy, xinkelol]
 ## Mid lane
 
 - Respect Aatrox after Serrated Dirk: preserve health and farm rather than assuming the trades you won before his purchase still work.
+  items: [3134]
   sources: [saltyy]
 
 - If he rushes Plated Steelcaps, prioritize farm and turret plates over forcing kills. His armor reduces the physical damage of your attacks and abilities.
+  items: [3047]
   sources: [saltyy, xinkelol]
 
 ## Win condition

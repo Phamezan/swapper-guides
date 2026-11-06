@@ -43,6 +43,7 @@ sources: [justsad42, federals1-darius]
 ## Mid lane
 
 - Enter only after he spends Stridebreaker on the wave. The active guarantees his Q edge if you dash in blind, so let it resolve on minions first.
+  items: [6631]
   sources: [federals1-darius]
   heading: Stridebreaker window
   abilities: [Darius.Q, Fiora.Q]

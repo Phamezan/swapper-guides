@@ -107,20 +107,26 @@ sources: [softheadpats]
   abilities: [Hwei.Q, Hwei.E, Hwei.R]
 
 - Start Doran's Ring for lane stats, or Tear when kills look unlikely and scaling rules at the cost of early damage.
+  items: [1056]
   sources: [softheadpats]
 
 - Recall for Lost Chapter when affordable for mana, AP, and haste, even ahead of a planned Seraph's build.
+  items: [3802]
   sources: [softheadpats]
 
 - Turn an early recall or first blood into snowball equity with Dark Seal, upgrading to Mejai's only on built stacks.
+  items: [1082]
   sources: [softheadpats]
 
 - Rush Blackfire Torch first, since its burn fits area spells and haste builds while speeding QE clearing.
+  items: [2503]
   sources: [softheadpats]
   abilities: [Hwei.Q]
 
 - Follow the example page of Blackfire Torch, Spellslinger's Shoes, Shadowflame, Cryptbloom, Zhonya's Hourglass, and Rabadon's Deathcap.
+  items: [2503, 3175, 4645, 3137, 3157, 3089]
   sources: [softheadpats]
 
 - Pick Sorcerer's Shoes with limited enemy resistance, Ionian boots for haste, Mercury's Treads into heavy AP or control, Swifties for kiting, and Gluttonous Greaves only as the greedier delayed scaling pick.
+  items: [3020, 3111, 3008]
   sources: [softheadpats]

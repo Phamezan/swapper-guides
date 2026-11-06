@@ -55,10 +55,12 @@ sources: [1yanou]
   sources: [1yanou]
 
 - Treat Moonstone Renewer into Redemption and Monsoon as the later sustain spike for stronger healing.
+  items: [6617, 3107]
   sources: [1yanou]
   abilities: [Janna.R]
 
 - Prefer Dawncore third for more enchanter scaling.
+  items: [6621]
   sources: [1yanou]
 
 ## Win condition
@@ -89,16 +91,21 @@ sources: [1yanou]
   sources: [1yanou]
 
 - Start Dream Maker, swapping Celestial Opposition into heavy burst.
+  items: [3870, 3869]
   sources: [1yanou]
 
 - Rush Boots of Swiftness for movement over defensive or Ionian cooldown boots.
+  items: [3009]
   sources: [1yanou]
 
 - Core Moonstone Renewer into Redemption and Dawncore as the displayed build.
+  items: [6617, 3107, 6621]
   sources: [1yanou]
 
 - Add Mikael's Blessing third or fourth for its cleanse, Staff of Flowing Water with a fed AP ally, and Ardent Censer with attack-speed carries like Twitch, Jinx, or Vayne without rushing it.
+  items: [3222, 6616, 3504]
   sources: [1yanou]
 
 - Sit on Oblivion Orb for team anti-heal before finishing Morellonomicon past core; buy Mejai's only far ahead and safe, and Shurelya's Battlesong as a later situational pick.
+  items: [3916, 3165, 2065]
   sources: [1yanou]

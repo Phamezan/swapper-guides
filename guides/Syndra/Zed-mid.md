@@ -28,6 +28,7 @@ sources: [shok, aikopanda, peng04]
 ## Early lane
 
 - Cloth Armor early, held in inventory: it cuts his lethality all lane.
+  items: [1029]
   sources: [shok]
 
 - Respect his spacing edge: played well, he outranges your shadow poke.

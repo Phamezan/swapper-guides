@@ -65,7 +65,9 @@ sources: [1kinglol]
 ## Itemization
 
 - Run Conqueror with Triumph, Legend: Alacrity, and Last Stand plus Cash Back and Approach Velocity, starting Doran's Blade or Doran's Shield with a Health Potion.
+  items: [1055, 1054, 2003]
   sources: [1kinglol]
 
 - Rush Ravenous Hydra, then take Blade of the Ruined King or Wit's End by matchup, with Infinity Edge or Lord Dominik's Regards as swaps; the ranged-opponent panel opens Ravenous Hydra into Experimental Hexplate.
+  items: [3074, 3091, 3031, 3036, 3073]
   sources: [1kinglol]

@@ -39,6 +39,7 @@ sources: [mo100z]
   sources: [mo100z]
 
 - Bend items to the threats: the Jax, Akali, Xin Zhao, Varus, and Janna example runs Kraken Slayer into Titanic Hydra and Jak'Sho, adding Kaenic Rookern and Frozen Heart once Varus and Akali feed.
+  items: [6672, 3748, 2504, 3110]
   sources: [mo100z]
 
 - Spend gold before Dragon and arrive early so the team sets vision and position first.
@@ -70,7 +71,9 @@ sources: [mo100z]
   sources: [mo100z]
 
 - Open Kraken Slayer into Guinsoo's Rageblade, then choose among Death's Dance, Wit's End, and Guardian Angel around enemy damage and control.
+  items: [6672, 3124, 6333, 3091, 3026]
   sources: [mo100z]
 
 - Use Titanic Hydra and Jak'Sho for the durable route, adapting every defensive seat to the enemy composition.
+  items: [3748]
   sources: [mo100z]

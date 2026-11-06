@@ -66,10 +66,13 @@ sources: [shok-orianna]
 ## Itemization
 
 - Run Arcane Comet with Manaflow Band, Transcendence, and Scorch plus Legend: Haste and Cut Down; open Doran's Ring and Health Potion, with Tear and two potions as the greedy alternative.
+  items: [1056, 2003]
   sources: [shok-orianna]
 
 - Build Seraph's Embrace into Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, and Cryptbloom, finishing with Zhonya's Hourglass; take Mercury's Treads into double AP and crowd control.
+  items: [3020, 4645, 3089, 3137, 3157, 3111]
   sources: [shok-orianna]
 
 - Adapt the last slots by threat: Morellonomicon for healing, Void Staff or Cryptbloom into magic resistance, Zhonya's against physical burst, Banshee's against dangerous spells, with Mejai's, Liandry's, Cosmic Drive, or Lich Bane for snowball, long-fight, mobility, or attack-weave games.
+  items: [3165, 3135, 3137, 4629, 3100]
   sources: [shok-orianna]

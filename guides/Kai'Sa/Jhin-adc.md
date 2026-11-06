@@ -35,6 +35,7 @@ sources: [omibro, antiwis]
   abilities: [Jhin.Q]
 
 - He wants to crash the wave and base for Serrated Dirk. Match the shove when you can, and respect his poke once he returns with it.
+  items: [3134]
   sources: [omibro]
 
 - He plays this lane for priority and an early lead rather than kills, and rates it an easy one. Never hand him the free crash: answer every shove.
@@ -68,6 +69,7 @@ sources: [omibro, antiwis]
 ## Itemization
 
 - Serrated Dirk on his first base is his spike. His Q and fourth-shot trades jump in damage, so match it with your own component before trading.
+  items: [3134]
   sources: [omibro]
 
 - He funds his crit build by executing low targets with Collector and Deathfire Touch. Never linger at low health inside his W range after a lost fight.

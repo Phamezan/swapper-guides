@@ -62,9 +62,11 @@ sources: [diimoonz]
   sources: [diimoonz]
 
 - Run the displayed AP path from Sorcerer's Shoes and Lich Bane into Shadowflame and Rabadon's Deathcap.
+  items: [3020, 3100, 4645, 3089]
   sources: [diimoonz]
 
 - Take the second path of Liandry's Torment, Riftmaker, and Shadowflame into tanks or bruisers.
+  items: [6653, 4633, 4645]
   sources: [diimoonz]
 
 - Keep access rolling in skirmishes with Q-hit E resets for repeated dashes.
@@ -101,6 +103,7 @@ sources: [diimoonz]
   sources: [diimoonz]
 
 - Hold Zhonya's Hourglass, Void Staff, and Banshee's Veil as situational defense and resistance answers.
+  items: [3157, 3135, 3102]
   sources: [diimoonz]
 
 - For the bruiser route, use Conqueror with Resolve or Stormraider's Surge; the Senchin panel shows Conqueror with Presence of Mind, Legend: Haste, Last Stand, Shield Bash, and Overgrowth.

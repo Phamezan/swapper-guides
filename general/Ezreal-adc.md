@@ -78,6 +78,7 @@ sources: [moosicel]
 ## Itemization
 
 - Build Trinity Force into Muramana on the 26.13 panel, with Serylda's Grudge later; Spear of Shojin and Endless Hunger appear in its example builds.
+  items: [3078, 6694, 3161, 2517]
   sources: [moosicel]
 
 - Run Lethal Tempo with Triumph, Legend: Haste, and Cut Down, plus Cash Back and Jack of All Trades as displayed.

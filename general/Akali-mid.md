@@ -23,9 +23,11 @@ sources: [janlon99]
 ## Early lane
 
 - Start Doran's Shield into poke or burst lanes to survive the early stretch.
+  items: [1054]
   sources: [janlon99]
 
 - Start Doran's Ring with two potions into melee lanes without poke for a more aggressive edge.
+  items: [1056]
   sources: [janlon99]
 
 - Take Flash and Ignite as the standard summoner pair.
@@ -71,4 +73,5 @@ sources: [janlon99]
   sources: [janlon99]
 
 - Follow the displayed standard build of Hextech Gunblade into Sorcerer's Shoes, Shadowflame, Zhonya's Hourglass, Rabadon's Deathcap, and Void Staff.
+  items: [3146, 3020, 4645, 3157, 3089, 3135]
   sources: [janlon99]

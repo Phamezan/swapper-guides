@@ -12,6 +12,7 @@ sources: [anguish]
 ## Key tips
 
 - Bad matchup: Doran's Shield plus Second Wind to survive it.
+  items: [1054]
   sources: [anguish]
 
 - If your E lands, hold E2 to track her through invis and R dashes.

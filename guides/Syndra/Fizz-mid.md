@@ -39,6 +39,7 @@ sources: [shok, trisend3]
   abilities: [Fizz.E]
 
 - Barrier, Exhaust, or early Null-Magic Mantle: a defensive pick eases the whole lane.
+  items: [1033]
   sources: [shok]
 
 ## Win condition

@@ -37,10 +37,12 @@ sources: [aikopanda, v222]
 ## Mid lane
 
 - Edge of Night second: with it his cage cannot catch you after R.
+  items: [3814]
   sources: [aikopanda]
   abilities: [Veigar.E]
 
 - Hunt once Edge of Night lands: spellshield plus shadows leave him no defense.
+  items: [3814]
   sources: [aikopanda]
 
 ## Win condition

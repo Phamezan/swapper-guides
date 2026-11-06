@@ -88,9 +88,11 @@ sources: [bobthedodo]
   sources: [bobthedodo]
 
 - Start Kraken Slayer into Guinsoo's Rageblade as the main consistent-damage spike.
+  items: [6672, 3124]
   sources: [bobthedodo]
 
 - Adapt the later panel across Experimental Hexplate, Blade of the Ruined King, Lord Dominik's Regards, Terminus, and Death's Dance instead of buying every option in order.
+  items: [3073, 3036, 3302, 6333]
   sources: [bobthedodo]
 
 - Keep crit as the snowball-only option; falling behind strands its fragile recovery.

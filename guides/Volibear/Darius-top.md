@@ -46,6 +46,7 @@ sources: [federals1-volibear, federals1-darius]
   abilities: [Volibear.Q, Volibear.W]
 
 - Close before his Shojin spike. Once Spear of Shojin completes, his stacked trades outscale yours, so end the lane phase ahead.
+  items: [3161]
   sources: [federals1-darius]
   heading: Spike clock
 
@@ -63,4 +64,5 @@ sources: [federals1-volibear, federals1-darius]
 ## Itemization
 
 - Respect his stacking with early armor and Warden's Mail value. Blunt the repeated damage while your Q-plus-W pattern decides the lane.
+  items: [3082]
   sources: [federals1-volibear]

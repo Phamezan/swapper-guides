@@ -61,6 +61,7 @@ sources: [heywil]
   abilities: [Shen.R]
 
 - In fights, R his carries through his protection. Serpent's Fang value grows when he shields allies with Stand United and items, so burst the target his shield cannot save in time.
+  items: [6695]
   sources: [heywil]
   heading: Shield burst
   abilities: [Ambessa.R, Shen.R]

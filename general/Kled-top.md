@@ -72,11 +72,14 @@ sources: [mobalytics-kled, mobalytics-kled-build]
   sources: [mobalytics-kled-build]
 
 - Order Titanic Hydra, Plated Steelcaps, Black Cleaver, Overlord's Bloodmail, Sterak's Gage, and Hullbreaker on the 26.21 popular page while maxing Q before W then E.
+  items: [3748, 3047, 3071, 2501, 3053, 3181]
   sources: [mobalytics-kled-build]
   abilities: [Kled.Q, Kled.W, Kled.E]
 
 - Slot Randuin's Omen fourth against substantial physical or critical-strike damage.
+  items: [3143]
   sources: [mobalytics-kled-build]
 
 - Keep the Profane Hydra and Voltaic Cyclosword path plus the Eclipse off-meta path as separate options without mixing their orders.
+  items: [6698, 6699, 6692]
   sources: [mobalytics-kled-build]

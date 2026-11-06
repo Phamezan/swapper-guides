@@ -51,6 +51,7 @@ sources: [henry]
   abilities: [Nautilus.Q, Soraka.E]
 
 - Once Knight's Vow is done and Moonstone is coming online, bait his engage onto yourself and heal through it: with his cooldowns spent and your redirection plus healing up, your team wins the extended fight.
+  items: [3109]
   sources: [henry]
   abilities: [Soraka.W]
 

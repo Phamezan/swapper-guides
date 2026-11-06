@@ -42,6 +42,7 @@ sources: [federals1-darius, justsad42]
 ## Mid lane
 
 - Time Stridebreaker against her Q dash. Active as she commits so the slow tracks her, then hold Q edge while it lasts.
+  items: [6631]
   sources: [federals1-darius]
   heading: Stridebreaker tracking
 
@@ -67,4 +68,5 @@ sources: [federals1-darius, justsad42]
 ## Itemization
 
 - Open Doran's Shield into Bramble Vest or Executioner's Calling and Plated Steelcaps, then Stridebreaker, Spear of Shojin, and Sterak's Gage.
+  items: [1054, 3076, 3123, 3047, 6631, 3161, 3053]
   sources: [federals1-darius]

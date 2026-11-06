@@ -34,6 +34,7 @@ sources: [dracoiwnl]
 ## Mid lane
 
 - After laning, take a standing top outer with Ravenous Hydra, spending R when an opponent contests.
+  items: [3074]
   sources: [dracoiwnl]
   abilities: [Fiora.R]
 
@@ -60,6 +61,7 @@ sources: [dracoiwnl]
   abilities: [Fiora.R]
 
 - With Death's Dance and Plated Steelcaps, play front-to-back more safely while Riposte stays up.
+  items: [6333, 3047]
   sources: [dracoiwnl]
   abilities: [Fiora.W]
 
@@ -73,10 +75,13 @@ sources: [dracoiwnl]
   sources: [dracoiwnl]
 
 - Rush Ravenous Hydra first for waveclear, sustain, and taking the top turret.
+  items: [3074]
   sources: [dracoiwnl]
 
 - Follow the example build of Trinity Force with Plated Steelcaps, Death's Dance, Spear of Shojin, and Endless Hunger.
+  items: [3078, 3047, 6333, 3161, 2517]
   sources: [dracoiwnl]
 
 - Swap to Mercury's Treads and Maw of Malmortius against a strong AP threat, else keep Plated Steelcaps.
+  items: [3111, 3156, 3047]
   sources: [dracoiwnl]

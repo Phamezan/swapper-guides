@@ -31,6 +31,7 @@ sources: [shok]
   abilities: [Syndra.E, Syndra.R]
 
 - Open Doran's Ring with two Health Potions to support the Q-poke plan.
+  items: [1056]
   sources: [shok]
   abilities: [Syndra.Q]
 
@@ -63,7 +64,9 @@ sources: [shok]
   abilities: [Syndra.Q]
 
 - Build Blackfire Torch into Sorcerer's Shoes, Cosmic Drive, Rabadon's Deathcap, Cryptbloom, and Zhonya's Hourglass, or the Stormsurge, Sorcerer's Shoes, Imperial Mandate, Rabadon's Deathcap, Cryptbloom, Shadowflame second path; add Mercury's Treads into double AP and crowd control.
+  items: [2503, 3020, 4629, 3089, 3137, 3157, 4646, 4005, 4645, 3111]
   sources: [shok]
 
 - Keep Mejai's Soulstealer for snowballs, Morellonomicon for healing, Banshee's Veil for safety, Liandry's Torment for long fights, Horizon Focus for zone control, and Luden's Echo as further options by game need.
+  items: [3041, 3165, 3102, 6653, 4628, 6655]
   sources: [shok]

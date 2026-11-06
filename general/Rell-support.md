@@ -82,12 +82,14 @@ sources: [mobalytics-rell-support, mobalytics-rell-support-build]
 ## Itemization
 
 - Build Celestial Opposition, Plated Steelcaps, Zeke's Convergence, Locket of the Iron Solari, and Knight's Vow as the 26.21 support core.
+  items: [3869, 3047, 3050, 3190, 3109]
   sources: [mobalytics-rell-support-build]
 
 - Take Aftershock, Shield Bash, Bone Plating, Unflinching, Cosmic Insight, and Hextech Flashtraption as the listed rune setup.
   sources: [mobalytics-rell-support-build]
 
 - Choose Thornmail as a situational fourth-item alternative to Locket against auto-attack-heavy teams or when anti-heal is needed.
+  items: [3075]
   sources: [mobalytics-rell-support-build]
 
 - Start W, Q, E, max Crash Down first, then Attract and Repel, then Shattering Strike, ranking Magnet Storm at levels six, eleven, and sixteen.

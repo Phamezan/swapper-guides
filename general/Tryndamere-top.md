@@ -72,15 +72,19 @@ sources: [mobalytics-tryndamere-top, mobalytics-tryndamere-top-build]
   sources: [mobalytics-tryndamere-top-build]
 
 - Build the popular item path of Ravenous Hydra, Berserker's Greaves, Phantom Dancer, Infinity Edge, and Lord Dominik's Regards.
+  items: [3074, 3006, 3046, 3031, 3036]
   sources: [mobalytics-tryndamere-top-build]
 
 - Start Doran's Bow, a Health Potion, and Stealth Ward.
+  items: [1086, 2003, 3340]
   sources: [mobalytics-tryndamere-top-build]
 
 - Choose Mortal Reminder as the alternative fourth item to Infinity Edge against substantial healing.
+  items: [3033, 3031]
   sources: [mobalytics-tryndamere-top-build]
 
 - Keep Blade of the Ruined King, Guardian Angel, Death's Dance, Navori Flickerblade, and Mercurial Scimitar as situational choices, matching the defensive or anti-tank option to the opposing team.
+  items: [3026, 6333, 6675, 3139]
   sources: [mobalytics-tryndamere-top-build]
 
 - Max Q, then E, then W, taking Undying Rage at levels six, eleven, and sixteen.

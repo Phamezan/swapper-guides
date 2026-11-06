@@ -54,6 +54,7 @@ sources: [nyrolol, prestigegalaxy]
   sources: [prestigegalaxy]
 
 - Past six Dark Seal stacks and a first item, upgrade to Mejai's while ahead to sharpen the snowball.
+  items: [1082]
   sources: [prestigegalaxy]
 
 - Group at Dragon and other majors, where takedowns feed resets that help close games.
@@ -82,10 +83,13 @@ sources: [nyrolol, prestigegalaxy]
   sources: [prestigegalaxy]
 
 - Start Second Wind with Doran's Shield into lane poke, plus Overgrowth for scaling health.
+  items: [1054]
   sources: [prestigegalaxy]
 
 - Display Lich Bane, Spellslinger's Shoes, Shadowflame, Rabadon's Deathcap, Zhonya's Hourglass, and Void Staff on the Electrocute page with Flash and Ignite.
+  items: [3100, 3175, 4645, 3089, 3157, 3135]
   sources: [prestigegalaxy]
 
 - Treat Nyro's 26.16 panel of Hextech Gunblade and Gluttonous Greaves into Nashor's Tooth, Zhonya's Hourglass, Shadowflame, Rabadon's Deathcap, and Void Staff as the alternate item set.
+  items: [3146, 3008, 3115, 3157, 4645, 3089, 3135]
   sources: [nyrolol]

@@ -31,6 +31,7 @@ sources: [v1gorous1-samira]
   sources: [v1gorous1-samira]
 
 - Open Doran's Blade with a Health Potion, and run Flash and Exhaust as the standard summoners.
+  items: [1055, 2003]
   sources: [v1gorous1-samira]
 
 ## Mid lane
@@ -60,4 +61,5 @@ sources: [v1gorous1-samira]
   sources: [v1gorous1-samira]
 
 - Build The Collector, Infinity Edge, Lord Dominik's Regards, Immortal Shieldbow, Plated Steelcaps, and Bloodthirster; recall into Serrated Dirk, Pickaxe, Vampiric Scepter, or Refillable Potion by gold and sustain needs.
+  items: [6676, 3031, 3036, 6673, 3047, 3072, 3134, 1037, 1053, 2031]
   sources: [v1gorous1-samira]

@@ -15,6 +15,7 @@ sources: [eventhorizon]
   sources: [eventhorizon]
 
 - Favor Rylai's early in most lanes for health and self-peel; save Blackfire Torch first for safer lanes.
+  items: [2503]
   sources: [eventhorizon]
 
 ## Overview
@@ -45,6 +46,7 @@ sources: [eventhorizon]
   sources: [eventhorizon]
 
 - Match the first recall buy to the planned core: near 900 gold Fated Ashes, near 1,200 Lost Chapter, near 1,300 Catalyst of Aeons, or Dark Seal plus refillable when short.
+  items: [2508, 3802, 3803, 1082]
   sources: [eventhorizon]
 
 - Time recalls to return with health and mana before objectives, and concede early objectives rather than fight weak and under-resourced.
@@ -106,16 +108,21 @@ sources: [eventhorizon]
   sources: [eventhorizon]
 
 - Build Rylai's Crystal Scepter first or second with Rod of Ages, Blackfire Torch, or Liandry's Torment, since its slow feeds Q and E while adding health.
+  items: [3116, 6657, 2503, 6653]
   sources: [eventhorizon]
 
 - Default to Rylai's into Liandry's; recall for Tear or Sapphire Crystal mana, then sell or grow it into Archangel's or Blackfire later.
+  items: [1027]
   sources: [eventhorizon]
 
 - Reserve health-less Blackfire Torch first for low-threat lanes, and Rod of Ages first for hard or scaling lanes despite its slower stacked payoff.
+  items: [2503, 6657]
   sources: [eventhorizon]
 
 - Add Bloodletter's Curse third or fourth into resistance or AP-heavy teams, Zhonya's into heavy AD and burst, and Void Staff into high MR.
+  items: [8010, 3135]
   sources: [eventhorizon]
 
 - Take Banshee's Veil into AP or engage, Shadowflame for squishies, Horizon Focus as cheaper damage and vision when behind, and Riftmaker for long fights into tanky or high-sustain teams.
+  items: [3102, 4645, 4628, 4633]
   sources: [eventhorizon]

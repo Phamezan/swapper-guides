@@ -70,8 +70,10 @@ sources: [mobalytics-leona, mobalytics-leona-build]
   sources: [mobalytics-leona-build]
 
 - Order Celestial Opposition, Plated Steelcaps, Locket of the Iron Solari, Knight's Vow, Bandlepipes, and Thornmail while maxing W, then E, then Q.
+  items: [3869, 3047, 3190, 3109, 2524, 3075]
   sources: [mobalytics-leona-build]
   abilities: [Leona.W, Leona.E, Leona.Q]
 
 - Swap Mercury's Treads or other defense for Steelcaps by enemy damage and control, with Protoplasm Harness as the fourth-item tank alternative.
+  items: [3111, 2525]
   sources: [mobalytics-leona-build]

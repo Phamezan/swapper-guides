@@ -44,12 +44,15 @@ sources: [luffrey]
   sources: [luffrey]
 
 - Use the normal item set of Heartsteel, Thornmail, Spirit Visage, and Unending Despair.
+  items: [3084, 3075, 3065, 2502]
   sources: [luffrey]
 
 - Against three or four ability-power enemies, start Null-Magic Mantle and Spectre's Cowl, then take Mercury's Treads and Spirit Visage before the main tank items.
+  items: [1033, 3211, 3111, 3065]
   sources: [luffrey]
 
 - Against three or four attack-damage enemies, start Cloth Armor and Bramble Vest, then take Plated Steelcaps before Heartsteel and Thornmail.
+  items: [1029, 3076, 3047, 3084, 3075]
   sources: [luffrey]
 
 ## Win condition
@@ -71,4 +74,5 @@ sources: [luffrey]
   sources: [luffrey]
 
 - In the heavy attack-damage example, add Unending Despair, Spirit Visage, Dusk and Dawn, and Rabadon's Deathcap after the earlier armor and tank choices.
+  items: [2502, 3065, 2510, 3089]
   sources: [luffrey]

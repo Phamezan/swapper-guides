@@ -46,7 +46,7 @@ sources: [mauro2347]
 
 - Build Immortal Shieldbow first. Once it lands, the 1v1 is over for him unless he already got fed, so force the duel instead of waiting.
   sources: [mauro2347]
-  items: [3133]
+  items: [3133, 6673]
 
 - Treat the lane as a snowball matchup for both sides. Meet the setup requirements, stay even, and your scaling wins; fall behind and he melts you, so take no coinflip fights from behind.
   sources: [mauro2347]
@@ -55,4 +55,4 @@ sources: [mauro2347]
 
 - First item is Immortal Shieldbow for the duel: it ends his 1v1 chances and converts your even lane into a won one.
   sources: [mauro2347]
-  items: [3133]
+  items: [3133, 6673]

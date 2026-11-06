@@ -68,9 +68,11 @@ sources: [kayle1v9]
   sources: [kayle1v9]
 
 - Build Gluttonous Greaves, Nashor's Tooth, Dusk and Dawn, Rabadon's Deathcap, Shadowflame, and Void Staff standard.
+  items: [3008, 3115, 2510, 3089, 4645, 3135]
   sources: [kayle1v9]
 
 - Open Statikk Shiv instead on the alternate reworked Statikk path, keeping Nashor's Tooth and later AP items behind it.
+  items: [3087, 3115]
   sources: [kayle1v9]
 
 - Take Flash and Teleport for the listed top setup.

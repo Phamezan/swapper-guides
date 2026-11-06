@@ -78,7 +78,7 @@ sources: [heywil]
 
 - Rush Black Cleaver if he buys armor first. If he greedily stacks health with no armor, Eclipse damage already suffices and Cleaver can wait.
   sources: [heywil]
-  items: [3071]
+  items: [3071, 6692]
 
 - Start Doran's Blade with Teleport and Flash. Blade funds early priority trades, and Teleport recovers you after the one Rupture that eventually lands.
   sources: [heywil]

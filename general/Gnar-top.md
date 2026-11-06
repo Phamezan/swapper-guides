@@ -39,6 +39,7 @@ sources: [dragonlord1022]
 ## Mid lane
 
 - Farm well and hold a side lane until the second-item spike, especially Sterak's Gage.
+  items: [3053]
   sources: [dragonlord1022]
 
 - Split only when matchup and map support it; otherwise farm the side and ready the group.
@@ -73,4 +74,5 @@ sources: [dragonlord1022]
   sources: [dragonlord1022]
 
 - Open Trinity Force into Sterak's Gage as the simple route, then bend later buys to the game.
+  items: [3078, 3053]
   sources: [dragonlord1022]

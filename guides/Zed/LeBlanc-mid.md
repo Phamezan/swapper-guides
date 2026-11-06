@@ -45,6 +45,7 @@ sources: [aikopanda, v222]
 ## Win condition
 
 - Hexdrinker covers the burst gap: with it plus backwards combos, post-6 all-ins swing to you.
+  items: [3155]
   sources: [v222]
 
 ## Itemization

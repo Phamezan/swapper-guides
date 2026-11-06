@@ -65,6 +65,7 @@ sources: [tahe]
   abilities: [Nidalee.W, Nidalee.Q]
 
 - Keep Zhonya's Hourglass as the deliberate exception: an engage is acceptable when its active baits the enemy commitment on your terms, not as a default way to start.
+  items: [3157]
   sources: [tahe]
 
 ## Itemization
@@ -73,4 +74,5 @@ sources: [tahe]
   sources: [tahe]
 
 - Value Zhonya's Hourglass as the one engage-enabling purchase: its active turns a baited enemy commitment into Nidalee's fight window.
+  items: [3157]
   sources: [tahe]

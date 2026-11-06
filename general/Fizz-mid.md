@@ -60,9 +60,11 @@ sources: [gladiore]
 ## Mid lane
 
 - Buy Dark Seal early, upgrading to Mejai's only past 10 stacks and when the stacks project to survive.
+  items: [1082]
   sources: [gladiore]
 
 - Keep Zhonya's Hourglass second for safer engages, dives, and side duels.
+  items: [3157]
   sources: [gladiore]
 
 - Q to a minion after E to finish the wave or land in a safer trade spot.
@@ -89,17 +91,21 @@ sources: [gladiore]
   sources: [gladiore]
 
 - Recall first for Dark Seal with enough gold, upgrading to Mejai's at 10 stacks only when they project to live.
+  items: [1082]
   sources: [gladiore]
 
 - Hold Zhonya's second and use its active to extend an engage or stall for the next rotation.
   sources: [gladiore]
 
 - Choose Lich Bane for all-in damage and movement speed, or Dusk and Dawn as the preferred teamfight spellblade.
+  items: [3100, 2510]
   sources: [gladiore]
 
 - On Dusk and Dawn, trigger W before the first spellblade hit to double its on-hit effect, setting up with W then Q.
+  items: [2510]
   sources: [gladiore]
   abilities: [Fizz.W, Fizz.Q]
 
 - Pair Press the Attack with the Dusk and Dawn route.
+  items: [2510]
   sources: [gladiore]

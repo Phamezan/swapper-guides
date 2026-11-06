@@ -49,14 +49,17 @@ sources: [zileanaire]
   abilities: [Zilean.E, Zilean.Q]
 
 - Land Redemption from range to heal a fight or support a retreat, timing it shortly after Chronoshift revives an ally for extra sustain.
+  items: [3107]
   sources: [zileanaire]
   abilities: [Zilean.R]
 
 - Pair Shurelya's Battlesong with Time Warp to accelerate an engage, chase, retreat, or objective rotation.
+  items: [2065]
   sources: [zileanaire]
   abilities: [Zilean.E]
 
 - Hold Mikael's Blessing for a teammate caught by crowd control, remembering it cannot remove crowd control from Zilean himself.
+  items: [3222]
   sources: [zileanaire]
 
 ## Win condition
@@ -75,8 +78,10 @@ sources: [zileanaire]
 ## Itemization
 
 - Build the utility core of Solstice Sleigh, Ionian Boots of Lucidity, Bandlepipes, Redemption, and Shurelya's Battlesong, prioritizing ability haste throughout since a haste-focused Zilean can see the ultimate return during a long fight.
+  items: [3876, 3158, 2524, 3107, 2065]
   sources: [zileanaire]
   abilities: [Zilean.R]
 
 - Read the author as broadly useful on Solstice Sleigh, strong on Bandlepipes as a team buff, and early-defensive on Locket of the Iron Solari; add Morellonomicon with an early Oblivion Orb when enemy healing is significant, staying flexible across tank, mage, enchanter, or utility picks by game.
+  items: [3876, 2524, 3190, 3165, 3916]
   sources: [zileanaire]

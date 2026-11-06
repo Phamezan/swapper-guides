@@ -30,6 +30,7 @@ sources: [trickybam]
   sources: [trickybam]
 
 - Start Doran's Ring, two Health Potions, and a Stealth Ward; max E first, Q second, and W last, taking R at levels six, eleven, and sixteen, with E-Q-E-W as the example opening.
+  items: [1056, 3340]
   sources: [trickybam]
   abilities: [Teemo.E, Teemo.Q, Teemo.W, Teemo.R]
 
@@ -47,6 +48,7 @@ sources: [trickybam]
   abilities: [Teemo.R]
 
 - Ward objectives with Control Wards and consider Oracle Lens after lane; shrooms aid vision but never replace real wards.
+  items: [3364]
   sources: [trickybam]
   abilities: [Teemo.R]
 
@@ -71,7 +73,9 @@ sources: [trickybam]
   abilities: [Teemo.R]
 
 - Build Liandry's Torment for max-health burn, Malignance for mana plus more frequent shrooms with magic-resistance reduction in its ground, then Shadowflame for the damage increase against targets below forty percent health, buying Sorcerer's Shoes when recall gold allows.
+  items: [6653, 3118, 4645, 3020]
   sources: [trickybam]
 
 - Into substantial purchased magic resistance follow the core with Void Staff and Rabadon's Deathcap, or Deathcap first without much resistance; take Gluttonous Greaves over Sorcerer's only for sustain games with no enemy Ignite and little other healing reduction.
+  items: [3135, 3089, 3008]
   sources: [trickybam]

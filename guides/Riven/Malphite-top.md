@@ -20,11 +20,13 @@ sources: [saltyy, xinkelol]
   abilities: [Riven.E, Malphite.Q, Malphite.E]
 
 - Pressure Malphite before his armor purchases. Once Plated Steelcaps make kills unlikely, favor farming and roaming instead of spending every rotation trying to break his defenses.
+  items: [3047]
   sources: [saltyy, xinkelol]
 
 ## Overview
 
 - Early pressure and mana preservation offer openings before armor stacks. Once Plated Steelcaps blunt your damage, farming and roaming are often more productive.
+  items: [3047]
   sources: [saltyy]
 
 ## Early lane
@@ -38,6 +40,7 @@ sources: [saltyy, xinkelol]
   abilities: [Riven.W, Riven.E, Malphite.E]
 
 - Against Arcane Comet poke, use Doran's Shield and Second Wind to preserve health while he spends mana. Avoid letting each Seismic Shard force an unshielded last-hit attempt.
+  items: [1054]
   sources: [saltyy]
   abilities: [Malphite.Q]
 

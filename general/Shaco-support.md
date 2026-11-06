@@ -13,6 +13,7 @@ sources: [fearthejester]
   abilities: [Shaco.W]
 
 - Contest the middle brush on arrival with Oracle Lens ready, placing a box to block or punish an enemy whose outline shows in a side brush; against a hook support, approach only when reaction timing is reliable.
+  items: [3364]
   sources: [fearthejester]
   abilities: [Shaco.W, Shaco.Q]
 
@@ -73,4 +74,5 @@ sources: [fearthejester]
   sources: [fearthejester]
 
 - Build the high-haste AP list of Zaz'Zak's Realmspike, Imperial Mandate, Malignance, Cryptbloom, Rabadon's Deathcap, and Mejai's Soulstealer for that same specialized control role.
+  items: [3871, 4005, 3118, 3137, 3089, 3041]
   sources: [fearthejester]

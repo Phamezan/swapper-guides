@@ -17,6 +17,7 @@ sources: [federals1-darius, lilpicky]
   abilities: [Darius.Q]
 
 - Take short E plus auto plus W plus Q trades once Executioner's Calling lands. His sustain is mostly combat healing, so the anti-heal window is when your trade wins.
+  items: [3123]
   sources: [federals1-darius]
   heading: Anti-heal window
   abilities: [Darius.E, Darius.W, Darius.Q]
@@ -46,6 +47,7 @@ sources: [federals1-darius, lilpicky]
   heading: Burst respect
 
 - Slow him with Stridebreaker to force E defensively. Once the slow sticks, his reposition goes to survival instead of combos, and your window opens.
+  items: [6631]
   sources: [federals1-darius]
   heading: Stridebreaker use
 
@@ -63,4 +65,5 @@ sources: [federals1-darius, lilpicky]
 ## Itemization
 
 - Take Conqueror with Celerity, opening Doran's Blade into Plated Steelcaps and Executioner's Calling, then Stridebreaker and Spear of Shojin.
+  items: [1055, 3047, 3123, 6631, 3161]
   sources: [federals1-darius]

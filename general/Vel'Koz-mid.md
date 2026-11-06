@@ -82,12 +82,15 @@ sources: [mobalytics-velkoz-mid, mobalytics-velkoz-mid-build]
   sources: [mobalytics-velkoz-mid-build]
 
 - Build the popular path of Luden's Echo, Sorcerer's Shoes, Shadowflame, Zhonya's Hourglass, and Rabadon's Deathcap.
+  items: [6655, 3020, 4645, 3157, 3089]
   sources: [mobalytics-velkoz-mid-build]
 
 - Start Doran's Ring, a Health Potion, and Stealth Ward.
+  items: [1056, 2003, 3340]
   sources: [mobalytics-velkoz-mid-build]
 
 - Choose Horizon Focus as the fourth-item replacement for Zhonya's when wanting more long-range damage or facing immobilized targets.
+  items: [4628]
   sources: [mobalytics-velkoz-mid-build]
 
 - Max Q, then W, then E, taking Life Form Disintegration Ray at levels six, eleven, and sixteen.

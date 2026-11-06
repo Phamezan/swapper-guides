@@ -66,7 +66,9 @@ sources: [neiri]
 ## Itemization
 
 - Buy Boots of Swiftness into Echoes of Helia, with the order reversible by game, then add Diadem of Songs, Moonstone Renewer, and Dawncore for the healer line.
+  items: [3009, 6620, 6617, 6621]
   sources: [neiri]
 
 - Situationally take ability-haste boots, Seraph's Embrace, Frozen Heart, Kaenic Rookern, or Dawncore by team damage and survival needs, with Knight's Vow, Shurelya's Battlesong, Mikael's Blessing, and Oblivion Orb as further options.
+  items: [3110, 2504, 6621, 3109, 2065, 3222, 3916]
   sources: [neiri]

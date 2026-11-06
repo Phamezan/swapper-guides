@@ -72,6 +72,7 @@ sources: [peng04]
   sources: [peng04]
 
 - Hide teamfight approaches with Oracle Lens and Control Wards so Charm angles stay threatening.
+  items: [3364]
   sources: [peng04]
   abilities: [Ahri.E]
 
@@ -101,26 +102,33 @@ sources: [peng04]
   sources: [peng04]
 
 - Start Doran's Ring with a Health Potion, then buy Lost Chapter early so mana stops limiting trades.
+  items: [1056, 2003, 3802]
   sources: [peng04]
 
 - Pick Malignance when Ahri is the main engage or the enemy is ranged, since its lower R cooldown feeds repeat picks; pick Blackfire Torch for heavier damage against melee teams or with allied setup.
+  items: [3118, 2503]
   sources: [peng04]
   abilities: [Ahri.R]
 
 - Add Lich Bane when autos can be woven safely and a side lane needs pressure.
+  items: [3100]
   sources: [peng04]
 
 - Take Cosmic Drive for mobility and spacing into melee, or Horizon Focus for repeated casts and flank vision, but skip buying both together.
+  items: [4629, 4628]
   sources: [peng04]
 
 - Use Rylai's as a cheaper utility pick into melee-heavy or low-mobility teams, or when behind.
   sources: [peng04]
 
 - Take Cryptbloom with several AP allies or into stacked MR, Bloodletter's Curse for durability into melee and AP crowds, and Shadowflame with Sorcerer's Shoes to one-shot carries.
+  items: [3137, 8010, 4645, 3020]
   sources: [peng04]
 
 - Buy Rabadon's as the usual third-item spike, Cryptbloom or Void Staff into MR, and Zhonya's against assassins or heavy engage.
+  items: [3137, 3135]
   sources: [peng04]
 
 - Take Morellonomicon into heavy healing, with Orb as an early stop; pair Liandry's with Blackfire or long fights, and Banshee's into AP threats or one engage-blocking spell.
+  items: [3165]
   sources: [peng04]

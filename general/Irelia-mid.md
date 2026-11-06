@@ -86,9 +86,11 @@ sources: [skandallotv]
   sources: [skandallotv]
 
 - Call Blackfire Torch the highest-damage AP route, Malignance the long-range initiation pick into squishy ranged teams or beside divers, and Lich Bane the melee-target answer.
+  items: [2503, 3118, 3100]
   sources: [skandallotv]
 
 - List Hextech Gunblade first or second for sustain and burst, with Lich Bane, Hextech Rocketbelt, Rabadon's Deathcap, and Cryptbloom across the panels.
+  items: [3146, 3100, 3152, 3089, 3137]
   sources: [skandallotv]
 
 - Take Rocketbelt second against spell shields that eat poke, valuing its extra dash with no Q target around.
@@ -96,5 +98,6 @@ sources: [skandallotv]
   abilities: [Irelia.Q]
 
 - Buy Liandry's Torment into health stackers since W, E, R, and Q all apply it, and Rabadon's Deathcap third while ahead or into attack-heavy teams.
+  items: [6653, 3089]
   sources: [skandallotv]
   abilities: [Irelia.W, Irelia.E, Irelia.R, Irelia.Q]

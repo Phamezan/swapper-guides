@@ -50,6 +50,7 @@ sources: [saltyy, xinkelol]
   abilities: [Garen.Q, Garen.E]
 
 - Respect Garen's Stridebreaker purchase. Its slow makes disengaging from Judgment harder, so preserve mobility instead of repeating the same close trades you took before the item.
+  items: [6631]
   sources: [xinkelol]
   abilities: [Garen.E]
 

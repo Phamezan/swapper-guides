@@ -12,6 +12,7 @@ sources: [federals1-darius, anguish]
 ## Key tips
 
 - Take short auto plus W plus Q trades, then disengage before Titanic Hydra. The burst-and-out pattern denies her extended combo while your item turn approaches.
+  items: [3748]
   sources: [federals1-darius]
   heading: Trade pattern
   abilities: [Darius.W, Darius.Q]
@@ -62,4 +63,5 @@ sources: [federals1-darius, anguish]
 ## Itemization
 
 - Open Doran's Shield into Giant's Belt and Negatron Cloak, then Titanic Hydra, Boots of Swiftness, Kaenic Rookern, and Hullbreaker for the trade-and-shove package.
+  items: [1054, 1011, 1057, 3748, 3009, 2504, 3181]
   sources: [federals1-darius]

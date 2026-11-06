@@ -70,10 +70,12 @@ sources: [mobalytics-ornn-top, mobalytics-ornn-top-build]
 ## Itemization
 
 - Build the popular 26.21 core of Sunfire Aegis, Plated Steelcaps, Thornmail, Jak'Sho, and Randuin's Omen.
+  items: [3068, 3047, 3075, 3143]
   sources: [mobalytics-ornn-top-build]
 
 - Take Grasp of the Undying, Demolish, Bone Plating, Overgrowth, Biscuit Delivery, and Magical Footwear as the standard rune page.
   sources: [mobalytics-ornn-top-build]
 
 - Choose Kaenic Rookern as the situational alternative to Jak'Sho when the enemy team has substantial magic damage, valuing its shield against heavy ability power.
+  items: [2504]
   sources: [mobalytics-ornn-top-build]

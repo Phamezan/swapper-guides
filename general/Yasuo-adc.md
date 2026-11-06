@@ -16,6 +16,7 @@ sources: [visionsofv]
   abilities: [Yasuo.W]
 
 - After a successful trade or kill, shove the wave and reset: the guide lists Recurve Bow after a kill, or Cull and a Control Ward when the fight yields no kill.
+  items: [1043, 2055]
   sources: [visionsofv]
 
 ## Overview
@@ -62,7 +63,9 @@ sources: [visionsofv]
 ## Itemization
 
 - Build Kraken Slayer, Berserker's Greaves, Immortal Shieldbow, Death's Dance, Infinity Edge, Guardian Angel, and Bloodthirster as the standard line; the snowball example runs Stormrazor, Berserker's Greaves, Immortal Shieldbow, The Collector, Infinity Edge, Blade of the Ruined King, Lord Dominik's Regards, and Death's Dance.
+  items: [6672, 3006, 6673, 6333, 3031, 3026, 3072, 3095, 6676, 3036]
   sources: [visionsofv]
 
 - Open Doran's Bow, Doran's Blade, or Doran's Shield by lane, and keep Flash with Exhaust as the core summoners.
+  items: [1086, 1055, 1054]
   sources: [visionsofv]

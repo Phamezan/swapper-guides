@@ -70,7 +70,7 @@ inside the text. YAML quoting and block strings work in metadata.
 | `heading` | Optional nonempty plain-text heading. |
 | `patch` | Optional quoted patch version for this tip. Omitted stays omitted. |
 | `abilities` | Optional nonempty array like `[Ahri.P, Zed.W]`; keys are `P`, `Q`, `W`, `E`, `R`. Only guide participants are allowed. |
-| `items` | Optional nonempty array of positive integer item ids, e.g. `[3157]`. The build validates shape, without fetching an item catalog. |
+| `items` | Optional nonempty array of positive integer item ids, e.g. `[3157]`. Every current item named in the tip must be listed (see validation below). |
 | `outdated` | Optional nonempty plain-text explanation of what needs reviewing. |
 
 Guide tips compile with `scope: "pair"`; shared tips compile with `scope: "enemy"`.
@@ -346,6 +346,11 @@ Data Dragon names such as `Cocoon / Rappel`. The passive name `Leverage` is
 excluded from this requirement because existing Renata tips use `Leverage Rumor`
 for another spell. Listed references whose names do not appear are reported as
 informational messages and do not fail the build.
+Every current item named in a tip must also have its id in `items`. Matching is
+case-sensitive, whole-phrase and longest-first, so `Ionian Boots of Lucidity`
+does not also require `Boots`. `Boots` and `Cull` are ignored as ambiguous ordinary
+words. A participant's ability name (for example Leona's `Eclipse`) takes priority
+over an item with the same name. Only metadata is required; tips keep their prose.
 Errors name the file and line, for example:
 `guides/Ahri/Zed-mid.md:18: required field sources is missing`.
 
@@ -387,6 +392,13 @@ version from Riot Data Dragon's `api/versions.json`, then that version's English
 `championFull.json`. The checked-in `ability-names.json` records the version,
 source URL and P/Q/W/E/R names by champion id; builds and tests use it offline.
 Review its diff when refreshing names.
+
+Run `npm run refresh:items` after refreshing abilities. It reads the version from
+`ability-names.json` and fetches that version's English Data Dragon `item.json`.
+The checked-in `item-names.json` contains purchasable Summoner's Rift item ids and
+names, excluding hidden and ally-specific upgrades. Duplicate names use the lowest
+base id, since Data Dragon also marks some mode variants as map 11. Tests and builds
+use the snapshot offline; review its diff when refreshing.
 
 ## Publishing
 

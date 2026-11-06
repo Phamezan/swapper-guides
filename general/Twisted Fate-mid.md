@@ -12,6 +12,7 @@ sources: [jammed]
   sources: [jammed]
 
 - At level six, push and use Destiny to threaten side lanes, counter a dive, or reveal enemy positions; after Lich Bane, shove the side wave and hover near mid or the bot-side jungle for picks.
+  items: [3100]
   sources: [jammed]
   abilities: [Twisted Fate.R]
 
@@ -68,6 +69,7 @@ sources: [jammed]
   abilities: [Twisted Fate.R]
 
 - Extend Gold Card threat with Rapid Firecannon for picks and sieges, using a catch to start Baron, Elder Dragon, or a tower push.
+  items: [3094]
   sources: [jammed]
   abilities: [Twisted Fate.W]
 
@@ -84,4 +86,5 @@ sources: [jammed]
   sources: [jammed]
 
 - Follow the Luden's path from Doran's Ring and potions into Luden's Echo, Sorcerer's Shoes, Lich Bane, Rabadon's Deathcap, and Void Staff, ending with Mejai's or Rapid Firecannon; take Rod of Ages into the safer first-item route with Lich Bane and defenses, or the burn path into three or more tanks.
+  items: [1056, 6655, 3020, 3100, 3089, 3135, 3094, 6657]
   sources: [jammed]

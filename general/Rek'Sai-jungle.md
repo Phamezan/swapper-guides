@@ -69,4 +69,5 @@ sources: [lordgrox]
   sources: [lordgrox]
 
 - Build around Titanic Hydra as the common core, taking Spear of Shojin first on bruiser when the game fits; the listed bruiser core adds Sterak's Gage, Death's Dance, and Overlord's Bloodmail as a May 2026 snapshot.
+  items: [3748, 3161, 3053, 6333, 2501]
   sources: [lordgrox]

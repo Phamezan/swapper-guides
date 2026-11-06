@@ -63,6 +63,7 @@ sources: [mobalytics-kalista]
   sources: [mobalytics-kalista]
 
 - Against heavy control, buy Quicksilver Sash to cut the lockdown odds.
+  items: [3140]
   sources: [mobalytics-kalista]
 
 ## Itemization

@@ -95,7 +95,9 @@ sources: [houcs]
   sources: [houcs]
 
 - Rush Blade of the Ruined King first, pairing it with Terminus and Hullbreaker in the common build.
+  items: [3302, 3181]
   sources: [houcs]
 
 - Add Wit's End into AP threats and Mercury's Treads into heavy AP plus control; against full AD take Iceborn Gauntlet, Death's Dance, and Plated Steelcaps, and into multi-AP add Maw of Malmortius and Kaenic Rookern.
+  items: [3091, 3111, 6662, 6333, 3047, 3156, 2504]
   sources: [houcs]

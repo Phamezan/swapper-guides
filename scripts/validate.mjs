@@ -1,5 +1,17 @@
 import { fail } from './markdown.mjs';
 import abilityNames from '../ability-names.json' with { type: 'json' };
+import itemNames from '../item-names.json' with { type: 'json' };
+
+// Ordinary shopping/wave words; ability-name collisions are excluded per tip below.
+export const IGNORED_ITEM_NAMES = new Set(['Boots', 'Cull']);
+const itemsByName = new Map(Object.entries(itemNames.items).map(([id, name]) => [name, Number(id)]));
+const itemPattern = new RegExp(`(?<![\\p{L}\\p{N}_])(?:${[...itemsByName.keys()].sort((a, b) => b.length - a.length).map(name => name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})(?![\\p{L}\\p{N}_])`, 'gu');
+
+export function namedItems(text, abilities = []) {
+  return [...new Set([...text.matchAll(itemPattern)].map(match => match[0]))]
+    .filter(name => !IGNORED_ITEM_NAMES.has(name) && !abilities.some(ability => ability.name === name))
+    .map(name => ({ id: itemsByName.get(name), name }));
+}
 
 // Existing Renata tips use "Leverage Rumor" for another spell, not her passive Leverage.
 export const IGNORED_ABILITY_NAMES = new Set(['Leverage']);
@@ -126,6 +138,8 @@ export function compileTip(raw, { champions, sources, participants, scope, onWar
   const sameAbility = (a, b) => a.champion === b.champion && a.key === b.key;
   const missing = named.filter(ref => !IGNORED_ABILITY_NAMES.has(ref.name) && !tip.abilityKeys?.some(listed => sameAbility(ref, listed)));
   if (missing.length) fail(raw.loc, `tip names abilities missing from abilities: ${missing.map(ref => `${reference(ref)} (${ref.name})`).join(', ')}`);
+  const missingItems = namedItems(tip.text, named).filter(item => !tip.itemIds?.includes(item.id));
+  if (missingItems.length) fail(raw.loc, `tip names items missing from items: ${missingItems.map(item => `${item.id} (${item.name})`).join(', ')}`);
   for (const ref of tip.abilityKeys ?? []) {
     if (!named.some(match => sameAbility(ref, match))) {
       onWarning(`${raw.loc.file}:${raw.loc.line}: ${reference(ref)} (${abilityNames.champions[ref.champion][ref.key]}) is listed but not named in tip text`);

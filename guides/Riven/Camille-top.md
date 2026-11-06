@@ -40,6 +40,7 @@ sources: [saltyy, xinkelol]
   abilities: [Riven.Q, Riven.E, Camille.W]
 
 - Respect Camille's Trinity Force spike. Its Spellblade proc strengthens Precision Protocol's delayed recast, so do not judge that attack by its pre-item damage.
+  items: [3078]
   sources: [xinkelol]
   abilities: [Camille.Q]
 

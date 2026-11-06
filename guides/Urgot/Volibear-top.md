@@ -65,4 +65,5 @@ sources: [goliath-urgot, federals1-volibear]
 ## Itemization
 
 - Expect Warden's Mail against your repeated damage. Trade with knees and E rather than autos into the armor, and keep the poke pattern going.
+  items: [3082]
   sources: [federals1-volibear]

@@ -76,6 +76,7 @@ sources: [osgrewynd]
   abilities: [Ekko.E, Ekko.Q]
 
 - With situational Hextech Rocketbelt, burst E1, Q, E2, Rocketbelt, auto.
+  items: [3152]
   sources: [osgrewynd]
   abilities: [Ekko.E, Ekko.Q]
 
@@ -88,10 +89,13 @@ sources: [osgrewynd]
   sources: [osgrewynd]
 
 - Build Lich Bane, Nashor's Tooth, Rabadon's Deathcap, Void Staff, and Dusk and Dawn as the current standard panel.
+  items: [3100, 3115, 3089, 3135, 2510]
   sources: [osgrewynd]
 
 - Start Doran's Ring, buying Dark Seal, Blasting Wand, Aether Wisp, and Sheen early.
+  items: [1056, 1082, 1026, 3113, 3057]
   sources: [osgrewynd]
 
 - Rotate situationally through Mejai's Soulstealer, Zhonya's Hourglass, Shadowflame, Banshee's Veil, Morellonomicon, and Hextech Rocketbelt.
+  items: [3041, 3157, 4645, 3102, 3165, 3152]
   sources: [osgrewynd]

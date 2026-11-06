@@ -36,6 +36,7 @@ sources: [auroraaddict]
   abilities: [Aurora.Q]
 
 - Start Doran's Ring with two Health Potions, then recall for Dark Seal, Refillable Potion, and Boots when affordable.
+  items: [1056, 1082, 2031]
   sources: [auroraaddict]
 
 ## Mid lane
@@ -68,6 +69,7 @@ sources: [auroraaddict]
   abilities: [Aurora.R]
 
 - Swap Celerity in when movement speed matters, especially top lane, pairing it with Boots of Swiftness.
+  items: [3009]
   sources: [auroraaddict]
 
 - Try Presence of Mind plus Alacrity only for skirmish-heavy games, since the setup can run short on mana.
@@ -77,7 +79,9 @@ sources: [auroraaddict]
   sources: [auroraaddict]
 
 - Follow the standard page of Stormsurge into Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Zhonya's Hourglass.
+  items: [4646, 3020, 4645, 3089, 3135, 3157]
   sources: [auroraaddict]
 
 - Treat the Hextech Gunblade build as the alternate, and the anti-assassin setup as the explicitly weaker option.
+  items: [3146]
   sources: [auroraaddict]

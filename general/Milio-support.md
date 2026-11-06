@@ -80,9 +80,11 @@ sources: [ssl, ghostk]
   sources: [ssl]
 
 - Follow the displayed KoSa path of Echoes of Helia into Ionian Boots of Lucidity, Ardent Censer, and Locket of the Iron Solari without item explanations.
+  items: [6620, 3158, 3504, 3190]
   sources: [ssl]
 
 - Record GhostK older January list of Dream Maker, Echoes of Helia, Moonstone Renewer, Diadem of Songs, and Dawncore with Aery, Axiom Arcanist, Transcendence, Scorch, Bone Plating, and Revitalize as the older variant.
+  items: [3870, 6620, 6617, 6621]
   sources: [ghostk]
 
 - Value the GhostK build through longer-fight ally survival without item-by-item rationale.

@@ -33,6 +33,7 @@ sources: [ozneviik]
   abilities: [Zaahen.R]
 
 - Open Doran's Blade by default, with Doran's Shield for poke and Doran's Helm as the situational start, and run Flash with Ignite.
+  items: [1055, 1054, 1120]
   sources: [ozneviik]
 
 ## Mid lane
@@ -50,11 +51,13 @@ sources: [ozneviik]
   sources: [ozneviik]
 
 - Note that Stridebreaker makes freezing harder, but use its edge radius to last-hit a single minion without hitting the rest of the wave.
+  items: [6631]
   sources: [ozneviik]
 
 ## Win condition
 
 - Spike on Stridebreaker first: the guide calls Zaahen especially strong with two items and increasingly threatening with a timely third or fourth.
+  items: [6631]
   sources: [ozneviik]
 
 - Late game, either push a side wave and Teleport to the fight or group near objectives, preferring the group when the team needs direction.
@@ -72,4 +75,5 @@ sources: [ozneviik]
   sources: [ozneviik]
 
 - Build Stridebreaker, Death's Dance, Maw of Malmortius, Endless Hunger, and Overlord's Bloodmail, prioritizing Stridebreaker for movement speed and access, then Death's Dance and Maw for resistances alongside damage; take Plated Steelcaps or Mercury's Treads by game with Cloth Armor, Long Sword, Boots, Refillable Potion, and Dagger as early components.
+  items: [6631, 6333, 3156, 2517, 2501, 3047, 3111, 1029, 1036, 2031, 1042]
   sources: [ozneviik]

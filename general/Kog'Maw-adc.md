@@ -62,8 +62,10 @@ sources: [mobalytics-kogmaw, mobalytics-kogmaw-build]
   sources: [mobalytics-kogmaw-build]
 
 - Order Guinsoo's Rageblade, Berserker's Greaves, Navori Flickerblade, Terminus, Jak'Sho, and Runaan's Hurricane while maxing W, then Q, then E.
+  items: [3124, 3006, 6675, 3302, 3085]
   sources: [mobalytics-kogmaw-build]
   abilities: [Kog'Maw.W, Kog'Maw.Q, Kog'Maw.E]
 
 - Open Blade of the Ruined King early for sustain and high-health targets, pairing it later with Guinsoo's, Runaan's, Terminus, and Jak'Sho.
+  items: [3302]
   sources: [mobalytics-kogmaw-build]

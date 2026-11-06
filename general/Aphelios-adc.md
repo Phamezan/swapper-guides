@@ -78,10 +78,13 @@ sources: [wargreymon]
   sources: [wargreymon]
 
 - Build The Collector into Berserker's Greaves, Infinity Edge, Lord Dominik's Regards, Runaan's Hurricane, and Bloodthirster, with Guardian Angel in the core list.
+  items: [6676, 3006, 3031, 3036, 3085, 3072, 3026]
   sources: [wargreymon]
 
 - Choose first buys by gold and recall timing among Serrated Dirk, Noonquiver, B. F. Sword, and Berserker's Greaves.
+  items: [3134, 6670, 1038, 3006]
   sources: [wargreymon]
 
 - Keep situational picks ready: Mortal Reminder, Stormrazor, Immortal Shieldbow, Maw of Malmortius, Mercurial Scimitar, Hexoptics C44, Rapid Firecannon, Phantom Dancer, and Zhonya's Hourglass.
+  items: [3033, 3095, 6673, 3156, 3139, 2523, 3094, 3046, 3157]
   sources: [wargreymon]

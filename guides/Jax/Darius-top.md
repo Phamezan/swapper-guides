@@ -60,6 +60,7 @@ sources: [ph45, federals1-darius]
   abilities: [Jax.E]
 
 - End fights before five stacks once Spear of Shojin is done. After that spike he looks for five stacks into the ultimate, so keep trades short and never offer the extended duel.
+  items: [3161]
   sources: [federals1-darius]
   heading: Post-Shojin rule
   abilities: [Darius.R]

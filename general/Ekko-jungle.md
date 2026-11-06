@@ -76,10 +76,13 @@ sources: [guest-653345]
   sources: [guest-653345]
 
 - Build Nashor's Tooth into Lich Bane and Rabadon's Deathcap on one core path, with Sorcerer's Shoes and Mejai's Soulstealer in the panel.
+  items: [3115, 3100, 3089, 3020, 3041]
   sources: [guest-653345]
 
 - Use Dusk and Dawn with Shadowflame, or Nashor's Tooth into Dusk and Dawn plus Rabadon's Deathcap, as the other displayed paths.
+  items: [2510, 4645, 3115, 3089]
   sources: [guest-653345]
 
 - Pick situationally from Void Staff, Zhonya's Hourglass, Banshee's Veil, Cosmic Drive, Mercury's Treads, and Plated Steelcaps against the threats actually reaching Ekko.
+  items: [3135, 3157, 3102, 4629, 3111, 3047]
   sources: [guest-653345]

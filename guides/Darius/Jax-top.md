@@ -22,6 +22,7 @@ sources: [federals1-darius, ph45]
   abilities: [Darius.E, Jax.E, Jax.Q]
 
 - Let Counter Strike finish before Ghosting. Chasing into an active E wastes the summoner, so start the run-down at E expiry and build to five stacks into the ultimate at Spear of Shojin.
+  items: [3161]
   sources: [federals1-darius]
   heading: Ghost timing
   abilities: [Darius.R, Jax.E]
@@ -67,4 +68,5 @@ sources: [federals1-darius, ph45]
 ## Itemization
 
 - Take Conqueror with Transcendence, opening Doran's Blade through Ruby Crystals into Boots, then Spear of Shojin into Stridebreaker and Sterak's Gage for the stack-and-chase package.
+  items: [1055, 3161, 6631, 3053]
   sources: [federals1-darius]

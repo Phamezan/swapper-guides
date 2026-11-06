@@ -74,6 +74,7 @@ sources: [sanygame]
   sources: [sanygame]
 
 - Recommend Blackfire Torch, Sorcerer's Shoes, Liandry's Torment, and Zhonya's Hourglass as the general items.
+  items: [2503, 3020, 6653, 3157]
   sources: [sanygame]
 
 - Swap First Strike in against melee-heavy lanes where it triggers reliably.

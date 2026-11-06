@@ -81,12 +81,15 @@ sources: [loganjg]
   sources: [loganjg]
 
 - Rush Titanic Hydra and Black Cleaver on the high-elo bruiser path, then Plated Steelcaps, Endless Hunger, Death's Dance, and Guardian Angel.
+  items: [3748, 3071, 3047, 2517, 6333, 3026]
   sources: [loganjg]
 
 - Take Blade of the Ruined King into Black Cleaver as the alternate bruiser route, with Death's Dance and Spirit Visage for durability.
+  items: [3071, 6333, 3065]
   sources: [loganjg]
 
 - Pick the Hail of Blades assassin setup of Voltaic Cyclosword, The Collector, and Edge of Night only when picks beat frontline duty.
+  items: [6699, 6676, 3814]
   sources: [loganjg]
 
 - Take Flash and Smite, and match the pet to the game: Gustwalker, Mosstomper, or Scorchclaw.

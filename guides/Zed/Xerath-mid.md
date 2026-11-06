@@ -44,6 +44,7 @@ sources: [aikopanda, v222]
 ## Win condition
 
 - Edge of Night second, then hunt: spellshield plus your R closes every fight.
+  items: [3814]
   sources: [aikopanda]
 
 ## Itemization

@@ -66,7 +66,9 @@ sources: [wayofthetempesst]
 ## Itemization
 
 - Open Doran's Blade into melee lanes and Doran's Shield with Second Wind into ranged poke; treat the panel's Press the Attack claim against its Lethal Tempo, Absorb Life, Legend: Alacrity, Cut Down, Second Wind, Overgrowth listing as an unreconciled rune recommendation.
+  items: [1055, 1054]
   sources: [wayofthetempesst]
 
 - Build Berserker's Greaves, Blade of the Ruined King, Infinity Edge, Immortal Shieldbow, Death's Dance, and Mercurial Scimitar, valuing Blade of the Ruined King first for damage and chase, Infinity Edge for damage, and Shieldbow against burst; swap Plated Steelcaps with Death's Dance or Randuin's Omen into physical damage and Mercury's Treads with Spirit Visage, Force of Nature, or Wit's End into magic damage or crowd control.
+  items: [3006, 3031, 6673, 6333, 3139, 3047, 3143, 3111, 3065, 4401, 3091]
   sources: [wayofthetempesst]

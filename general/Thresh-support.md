@@ -74,10 +74,13 @@ sources: [razing42]
 ## Itemization
 
 - Follow the patch 26.21 default of Ionian Boots of Lucidity, Solstice Sleigh, Locket of the Iron Solari, Knight's Vow, Redemption, and Bandlepipes, favoring Locket as the broadly useful first core.
+  items: [3158, 3876, 3190, 3109, 3107, 2524]
   sources: [razing42]
 
 - Take Knight's Vow for single-target damage, Redemption for slower front-to-back fights, and Bandlepipes with several auto attackers; choose Second Wind into poke, Bone Plating into early trading, Unflinching into trade-pattern crowd control, Aftershock into engage lanes or solo-frontline games, and Glacial Augment into double-ranged or dive-heavy opponents.
+  items: [3109, 3107, 2524]
   sources: [razing42]
 
 - Round out defenses by threat: Frozen Heart against auto-attack damage, Thornmail for grievous wounds, Abyssal Mask with AP teammates, and Kaenic Rookern for more magic resistance.
+  items: [3110, 3075, 8020, 2504]
   sources: [razing42]

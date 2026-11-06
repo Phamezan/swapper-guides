@@ -33,6 +33,7 @@ sources: [xinkelol]
   sources: [xinkelol]
 
 - Start Doran's Blade, Health Potion, and Stealth Ward, with Long Sword plus Refillable Potion or Pickaxe as the early purchase options.
+  items: [1055, 2003, 3340, 1036, 2031, 1037]
   sources: [xinkelol]
 
 ## Mid lane
@@ -68,5 +69,6 @@ sources: [xinkelol]
   sources: [xinkelol]
 
 - Build Axiom Arc into Endless Hunger and Death's Dance, then Lord Dominik's Regards, with a more defensive Death's Dance start when behind; max Q first, E second, and W last, taking R at levels six, eleven, and sixteen.
+  items: [6696, 2517, 6333, 3036]
   sources: [xinkelol]
   abilities: [Riven.Q, Riven.W, Riven.E, Riven.R]

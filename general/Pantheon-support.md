@@ -84,9 +84,11 @@ sources: [mobalytics-pantheon-support, mobalytics-pantheon-support-build]
   sources: [mobalytics-pantheon-support-build]
 
 - Build Bloodsong, Plated Steelcaps, Umbral Glaive, Eclipse, and Black Cleaver as the 26.21 support core.
+  items: [3877, 3047, 3179, 6692, 3071]
   sources: [mobalytics-pantheon-support-build]
 
 - Choose Sundered Sky as the alternative to Eclipse when the game calls for its critical strike and healing as a bruiser damage-and-sustain option.
+  items: [6610, 6692]
   sources: [mobalytics-pantheon-support-build]
 
 - Start W, Q, E, then max Comet Spear first followed by Shield Vault and Aegis Assault, upgrading Grand Starfall at levels six, eleven, and sixteen.

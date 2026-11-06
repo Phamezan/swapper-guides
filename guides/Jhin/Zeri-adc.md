@@ -32,6 +32,7 @@ sources: [antiwis, yunfang, omibro]
   abilities: [Jhin.Q]
 
 - Crash the wave and base for Serrated Dirk. That first base is your biggest spike, so plan recalls around it.
+  items: [3134]
   sources: [omibro]
 
 - Hold Deadly Flourish for your support's crowd control and never dry-fire it. A wasted W invites the extended trade you always lose.
@@ -62,4 +63,5 @@ sources: [antiwis, yunfang, omibro]
 ## Itemization
 
 - Serrated Dirk on the first base is the spike. Your grenade and fourth-shot trades jump in damage, so crash, base, and return before trading hard.
+  items: [3134]
   sources: [omibro]
