@@ -46,5 +46,6 @@ sources: [anguish, peng04]
 
 - Shroud cycling plus energy starvation: the Ahri who never lands Charm never wins.
   sources: [anguish, peng04]
+  abilities: [Ahri.E]
 
 ## Itemization

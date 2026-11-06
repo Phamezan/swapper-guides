@@ -232,6 +232,16 @@
           "sourceIds": [
             "peng04",
             "aikopanda"
+          ],
+          "abilityKeys": [
+            {
+              "champion": 103,
+              "key": "E"
+            },
+            {
+              "champion": 103,
+              "key": "R"
+            }
           ]
         },
         {
@@ -267,6 +277,10 @@
             {
               "champion": 103,
               "key": "E"
+            },
+            {
+              "champion": 238,
+              "key": "R"
             }
           ]
         }
@@ -282,6 +296,12 @@
       ],
       "sourceIds": [
         "peng04"
+      ],
+      "abilityKeys": [
+        {
+          "champion": 238,
+          "key": "R"
+        }
       ]
     }
   ],
@@ -291,14 +311,16 @@
       "author": "Peng04",
       "rankClaim": "Challenger · Ahri main",
       "url": "https://www.mobafire.com/league-of-legends/build/26-20-pengs-ahri-guide-5-1mil-points-13x-challenger-648700",
-      "kind": "mobafire"
+      "kind": "mobafire",
+      "rank": "challenger"
     },
     {
       "id": "v222",
       "author": "V222",
       "rankClaim": "Challenger EUW · Zed main",
       "url": "https://www.mobafire.com/league-of-legends/build/all-matchups-26-14-zed-guide-2000lp-euw-challenger-652354",
-      "kind": "mobafire"
+      "kind": "mobafire",
+      "rank": "challenger"
     },
     {
       "id": "aikopanda",

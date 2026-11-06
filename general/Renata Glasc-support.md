@@ -10,7 +10,7 @@ sources: [lathyrus]
 
 - Poke with Handshake while moving in and out of brush; add an auto attack, then step back to limit return damage.
   sources: [lathyrus]
-  abilities: [Renata Glasc.E]
+  abilities: [Renata Glasc.E, Renata Glasc.Q]
 
 - Leverage Rumor can grab a minion and send it into an enemy champion for a brief stun, giving another way to start a trade.
   sources: [lathyrus]
@@ -30,7 +30,7 @@ sources: [lathyrus]
 
 - Weave autos into the Handshake poke pattern, since Renata's passive rewards alternating attacks with allies.
   sources: [lathyrus]
-  abilities: [Renata Glasc.E]
+  abilities: [Renata Glasc.E, Renata Glasc.Q]
 
 - Her Hostile Takeover travels slowly, so do not treat the ultimate as a solo initiation tool; use it after landing hard crowd control or to counter an enemy dive.
   sources: [lathyrus]

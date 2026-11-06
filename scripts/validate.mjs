@@ -1,7 +1,34 @@
 import { fail } from './markdown.mjs';
+import abilityNames from '../ability-names.json' with { type: 'json' };
+
+// Existing Renata tips use "Leverage Rumor" for another spell, not her passive Leverage.
+export const IGNORED_ABILITY_NAMES = new Set(['Leverage']);
+const abilityPatterns = new Map(Object.entries(abilityNames.champions).map(([champion, spells]) => [Number(champion),
+  Object.entries(spells).map(([key, name]) => ({ key, patterns: name.split(' / ').map(phrase => ({
+    name: phrase,
+    pattern: new RegExp(`(?<![\\p{L}\\p{N}_])${phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?![\\p{L}\\p{N}_])`, 'u'),
+  })) })),
+]));
+
+export function namedAbilities(text, participants) {
+  return [...new Set(participants)].flatMap(champion => {
+    const abilities = abilityPatterns.get(champion);
+    if (!abilities) throw new Error(`No Data Dragon ability names for champion ${champion}; run npm run refresh:abilities`);
+    return abilities.flatMap(({ key, patterns }) => {
+      const match = patterns.find(({ pattern }) => pattern.test(text));
+      return match ? [{ champion, key, name: match.name }] : [];
+    });
+  });
+}
 
 export const LANES = ['top', 'jungle', 'mid', 'adc', 'support'];
-const HOSTS = new Set(['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be', 'reddit.com', 'www.reddit.com', 'old.reddit.com', 'lolmatchups.gg', 'www.inven.co.kr', 'talk.op.gg', 'mobalytics.gg']);
+const RANKS = ['iron', 'bronze', 'silver', 'gold', 'platinum', 'emerald', 'diamond', 'master', 'grandmaster', 'challenger'];
+
+export function authorRank(source, loc) {
+  if (Object.hasOwn(source, 'rank') && !RANKS.includes(source.rank)) fail(loc, `rank must be one of ${RANKS.join(', ')}`);
+  if (Object.hasOwn(source, 'peak') && source.peak !== true) fail(loc, 'peak must be true when present');
+}
+const HOSTS = new Set(['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be', 'reddit.com', 'www.reddit.com', 'old.reddit.com', 'lolmatchups.gg', 'www.inven.co.kr', 'talk.op.gg', 'mobalytics.gg', 'riven.saltyy.at']);
 
 export function fields(value, required, optional, loc) {
   if (!value || typeof value !== 'object' || Array.isArray(value)) fail(loc, `expected a YAML mapping with required fields: ${required.join(', ')}`);
@@ -67,7 +94,7 @@ export function championId(name, champions, loc, label = 'champion') {
   return champions.get(name);
 }
 
-export function compileTip(raw, { champions, sources, participants, scope }) {
+export function compileTip(raw, { champions, sources, participants, scope, onWarning = () => {} }) {
   const metadata = raw.metadata.value ?? {};
   fields(metadata, ['sources'], ['heading', 'patch', 'abilities', 'items', 'outdated'], raw.loc);
   const at = raw.metadata.at;
@@ -93,6 +120,16 @@ export function compileTip(raw, { champions, sources, participants, scope }) {
       fail(at('items'), 'items must be a nonempty array of positive integer item ids');
     }
     tip.itemIds = metadata.items;
+  }
+  const named = namedAbilities(tip.text, participants);
+  const reference = ref => `${[...champions].find(([, id]) => id === ref.champion)[0]}.${ref.key}`;
+  const sameAbility = (a, b) => a.champion === b.champion && a.key === b.key;
+  const missing = named.filter(ref => !IGNORED_ABILITY_NAMES.has(ref.name) && !tip.abilityKeys?.some(listed => sameAbility(ref, listed)));
+  if (missing.length) fail(raw.loc, `tip names abilities missing from abilities: ${missing.map(ref => `${reference(ref)} (${ref.name})`).join(', ')}`);
+  for (const ref of tip.abilityKeys ?? []) {
+    if (!named.some(match => sameAbility(ref, match))) {
+      onWarning(`${raw.loc.file}:${raw.loc.line}: ${reference(ref)} (${abilityNames.champions[ref.champion][ref.key]}) is listed but not named in tip text`);
+    }
   }
   return tip;
 }

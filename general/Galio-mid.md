@@ -36,6 +36,7 @@ sources: [hexeria]
 
 - Weave Colossal Smash between spells whenever possible, since landed abilities shorten its cooldown and skipped hits waste damage.
   sources: [hexeria]
+  abilities: [Galio.P]
 
 - Run the realistic engage of E knock-up into a passive hit, W taunt, Q, and another passive hit.
   sources: [hexeria]

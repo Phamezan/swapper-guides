@@ -45,5 +45,6 @@ sources: [peng04, spaceturtlez, shok-ahri]
 
 - E held plus Charm dodged: the Ahri who never catches you never wins.
   sources: [peng04, spaceturtlez]
+  abilities: [Ahri.E]
 
 ## Itemization

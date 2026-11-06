@@ -60,6 +60,7 @@ sources: [raideru, justsad42]
 
 - Split away from her rather than dueling even. She controls the 1v1 once Riposte timing settles, so carry fights with roams and picks instead.
   sources: [raideru]
+  abilities: [Fiora.W]
   heading: Macro answer
 
 ## Itemization

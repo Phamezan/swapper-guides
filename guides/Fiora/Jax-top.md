@@ -24,6 +24,7 @@ sources: [justsad42, ph45]
 
 - Never be the first to commit to a full fight when both cooldowns are up. The first engager usually loses this matchup, so force his Counter Strike or leap before committing yours.
   sources: [justsad42]
+  abilities: [Jax.E]
   heading: Engagement rule
 
 ## Overview
@@ -33,7 +34,7 @@ sources: [justsad42, ph45]
 - Hide the start of your Q by feinting in and out of range or last-hitting. Obvious Q approaches are easy for him to answer with a timed Counter Strike.
   sources: [justsad42]
   heading: Concealing Q
-  abilities: [Fiora.Q]
+  abilities: [Fiora.Q, Jax.E]
 
 - Match his Ignite if he takes it, or expect a much harder lane. Without your own Ignite you cannot answer his committed all-ins at low health.
   sources: [justsad42]
@@ -64,6 +65,6 @@ sources: [justsad42, ph45]
 - If he leaps onto someone else while using Counter Strike, Q into him and start your ult from that less predictable angle. His engage on a teammate is your cleanest R setup of the fight.
   sources: [justsad42]
   heading: Teamfight entry
-  abilities: [Fiora.Q, Fiora.R]
+  abilities: [Fiora.Q, Fiora.R, Jax.E]
 
 ## Itemization

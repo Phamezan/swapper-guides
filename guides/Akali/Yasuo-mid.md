@@ -46,5 +46,6 @@ sources: [anguish, v222yasuo]
 
 - Shroud discipline plus Wind Wall patience: the Yasuo who never touches you never wins.
   sources: [anguish]
+  abilities: [Yasuo.W]
 
 ## Itemization

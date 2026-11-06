@@ -10,6 +10,7 @@ sources: [bobthedodo]
 
 - Stack the passive before duels so the opening attacks trigger Double Strike sooner.
   sources: [bobthedodo]
+  abilities: [Master Yi.P]
 
 - Bank Alpha Strike against important enemy control, dodging it or following once the threat burns.
   sources: [bobthedodo]
@@ -37,7 +38,7 @@ sources: [bobthedodo]
 
 - Hold Meditate to bank Double Strike stacks too, staging a follow-up attack while stalling.
   sources: [bobthedodo]
-  abilities: [Master Yi.W]
+  abilities: [Master Yi.W, Master Yi.P]
 
 - Commit with Wuju Style active for true damage on every attack.
   sources: [bobthedodo]

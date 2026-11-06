@@ -28,6 +28,7 @@ sources: [mobalytics-caitlyn]
 
 - Spend empowered Headshot autos on champions to tilt trades.
   sources: [mobalytics-caitlyn]
+  abilities: [Caitlyn.P]
 
 - Practice trap spots where opponents walk, using W to lock lane control.
   sources: [mobalytics-caitlyn]

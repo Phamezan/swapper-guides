@@ -21,7 +21,7 @@ sources: [peng04, shokleblanc]
 
 - W from side angles instead of straight in: the angle beats her Charm.
   sources: [shokleblanc]
-  abilities: [LeBlanc.W]
+  abilities: [LeBlanc.W, Ahri.E]
 
 ## Overview
 
@@ -40,7 +40,7 @@ sources: [peng04, shokleblanc]
 
 - Her Charm answers straight Ws: side-angle every engage.
   sources: [shokleblanc, peng04]
-  abilities: [LeBlanc.W]
+  abilities: [LeBlanc.W, Ahri.E]
 
 ## Win condition
 

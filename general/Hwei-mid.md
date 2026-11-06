@@ -14,6 +14,7 @@ sources: [softheadpats]
 
 - Pair damaging spells for Signature of the Visionary, worth most against grouped enemies.
   sources: [softheadpats]
+  abilities: [Hwei.P]
 
 - Skip split-pushing by default with low solo-kill pressure and weak turret damage; his teamfight value runs far higher.
   sources: [softheadpats]

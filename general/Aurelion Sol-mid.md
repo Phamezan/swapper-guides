@@ -60,17 +60,18 @@ sources: [eventhorizon]
 
 - Pair Astral Flight with Rylai's slow and Falling Star for a far stronger catch.
   sources: [eventhorizon]
-  abilities: [Aurelion Sol.E]
+  abilities: [Aurelion Sol.E, Aurelion Sol.W, Aurelion Sol.R]
 
 - Around 25 minutes, target roughly 300 Stardust with a third item; with Teleport, push opposite the next objective unless a teammate covers it.
   sources: [eventhorizon]
 
 - In fights, hit the highest-damage carry when safe, or spend Falling Star on peel and zoning when an ally needs it more.
   sources: [eventhorizon]
+  abilities: [Aurelion Sol.R]
 
 - Chain cleanup with Astral Flight resets, since a takedown shortly after damaging an enemy refunds most of its remaining cooldown; still refuse to fly into danger for a chase.
   sources: [eventhorizon]
-  abilities: [Aurelion Sol.E]
+  abilities: [Aurelion Sol.E, Aurelion Sol.W]
 
 - After level 9, clear a full cannon wave with a slightly off-center Q for about eight stacks, using E plus Q to execute minions for Stardust.
   sources: [eventhorizon]

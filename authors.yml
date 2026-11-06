@@ -1,11 +1,13 @@
 - id: peng04
   author: Peng04
   rankClaim: Challenger · Ahri main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-20-pengs-ahri-guide-5-1mil-points-13x-challenger-648700
   kind: mobafire
 - id: v222
   author: V222
   rankClaim: Challenger EUW · Zed main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/all-matchups-26-14-zed-guide-2000lp-euw-challenger-652354
   kind: mobafire
 - id: aikopanda
@@ -16,41 +18,49 @@
 - id: shok
   author: ShokLoL
   rankClaim: Rank 1 Challenger · Syndra main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-17-shoks-rank-1-challenger-syndra-guide-602710
   kind: mobafire
 - id: anguish
   author: Anguish333
   rankClaim: Master (profile badge; title claims 2000LP GrandMaster EUW and Challenger EUNE) · Akali main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-20-anguish-2000lp-grandmasters-euw-challenger-eune-akali-mid-top-s16-guide-every-matchup-item-rune-explained-625064
   kind: mobafire
 - id: shokviktor
   author: ShokLoL
   rankClaim: Rank 1 Challenger · Viktor main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-1-shoks-rank-1-challenger-viktor-guide-645712
   kind: mobafire
 - id: shokleblanc
   author: ShokLoL
   rankClaim: Rank 1 Challenger · LeBlanc main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-1-shoks-rank-1-challenger-leblanc-guide-603331
   kind: mobafire
 - id: shok-ahri
   author: ShokLoL
   rankClaim: Rank 1 Challenger · Ahri main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-5-shoks-rank-1-challenger-ahri-guide-635065
   kind: mobafire
 - id: xblademojo
   author: xblademojo
   rankClaim: Rank 1 (title); Challenger (profile badge) · Malzahar main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/s16-rank-1-malzahar-complete-guide-by-coach-xblademojo-608062
   kind: mobafire
 - id: jammed
   author: Jammed
   rankClaim: Diamond (profile badge) · Twisted Fate main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-17-victorious-twisted-fate-guide-for-season-16-jammed-642489
   kind: mobafire
 - id: spaceturtlez
   author: Spaceturtlez
   rankClaim: Master (profile badge) · Fizz main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/fizz-guide-for-fizz-mains-league-chat-patch-25-23-november-2025-650200
   kind: mobafire
 - id: elite500
@@ -61,6 +71,7 @@
 - id: evandabank
   author: Evandabank
   rankClaim: Grandmaster (title and profile badge) · Mel main
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/evandabanks-grandmaster-mel-midlane-guide-648010
   kind: mobafire
 - id: hofibauer
@@ -71,156 +82,189 @@
 - id: hexeria
   author: Hexeria
   rankClaim: Masters (title); Master (profile badge) · Galio main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-21-hexerias-detailed-masters-guide-to-galio-630181
   kind: mobafire
 - id: starzall
   author: star zall
   rankClaim: Challenger Veigar OTP 3260 LP Peak (title, no badge) · Veigar main
+  rank: challenger
+  peak: true
   url: https://www.mobafire.com/league-of-legends/build/guide-of-an-veigar-otp-star-zall-i-challenger-veigar-otp-3260-lp-peak-i-645348
   kind: mobafire
 - id: shok-zoe
   author: ShokLoL
   rankClaim: Rank 1 Challenger · Zoe main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-1-shoks-rank-1-challenger-zoe-guide-599223
   kind: mobafire
 - id: xblademojo-kass
   author: xblademojo
   rankClaim: Rank 1 (title); Challenger (profile badge) · Kassadin main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/s16-rank-1-kassadin-complete-guide-by-coach-xblademojo-602685
   kind: mobafire
 - id: auroraaddict
   author: AuroraAddict
   rankClaim: Master (profile badge; title claims Grandmaster and Rank 1 Aurora EUNE) · Aurora main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-17-rank-1-aurora-eune-advanced-combos-the-only-grandmaster-aurora-guide-youll-ever-need-646363
   kind: mobafire
 - id: irdefender
   author: Ir.Defender
   rankClaim: Grandmaster (profile badge, no title claim) · Vex main
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/vex-have-some-misery-651014
   kind: mobafire
 - id: v222yasuo
   author: V222
   rankClaim: Diamond (profile badge; title claims Challenger EUW) · Yasuo main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/all-matchups-26-14-challenger-yasuo-guide-651917
   kind: mobafire
 - id: pengekko
   author: Peng04
   rankClaim: 13x Challenger · Ahri main
+  rank: challenger
   url: https://www.youtube.com/watch?v=nnBagiXA6sA
   kind: youtube
 - id: pekinwoof
   author: PekinWoof
   rankClaim: Challenger (video title and outro) · Lux main
+  rank: challenger
   url: https://www.youtube.com/watch?v=sFRlxSiRTis&t=503s
   kind: youtube
 - id: sephyrixx
   author: Sephyrixx
   rankClaim: Diamond · Locke main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/the-only-locke-guide-youll-ever-need-lt-3-652592
   kind: mobafire
 - id: penglocke
   author: Peng04
   rankClaim: 13x Challenger · Ahri main
+  rank: challenger
   url: https://www.youtube.com/watch?v=t1jT9CUjv1c
   kind: youtube
 - id: pengyasuo
   author: Peng04
   rankClaim: 13x Challenger · Ahri main
+  rank: challenger
   url: https://www.youtube.com/watch?v=tfIrxWnqgVs
   kind: youtube
 - id: sjorry
   author: Sjorry
   rankClaim: Former Rank 1 Ahri NA; challenger most seasons (video intro) · Ahri main
+  rank: challenger
+  peak: true
   url: https://www.youtube.com/watch?v=HogChD8fsdo&t=55s
   kind: youtube
 - id: trisend3
   author: Trisend3
   rankClaim: Challenger (title and profile badge) · Syndra main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/challenger-season-16-trisend3-syndra-guide-623459
   kind: mobafire
 - id: pumptm
   author: pumpTM
   rankClaim: Rank 1 LeBlanc, 2941LP Challenger (title); Challenger (profile badge) · LeBlanc main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-17-2941lp-challenger-rank-1-leblancs-gunblade-1v9-build-653268
   kind: mobafire
 - id: autolykus
   author: Autolykus
   rankClaim: Grandmaster (profile badge; title claims Challenger) · Sett main
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/26-20-autolykuss-challenger-sett-guide-594869
   kind: mobafire
 - id: raideru
   author: Raideru
   rankClaim: Challenger · Camille main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/camille-challenger-guide-by-raider-matchups-643464
   kind: mobafire
 - id: loganjg
   author: L0ganJG
   rankClaim: Grandmaster (profile badge; title claims Rank 1 Briar) - Briar main
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/26-21-rank-1-briar-all-matchups-briar-jungle-all-builds-check-notes-629922
   kind: mobafire
 
 - id: omibro
   author: Omibro
   rankClaim: Challenger ADC and coach · Jhin main
+  rank: challenger
   url: https://www.youtube.com/watch?v=8Ln7EC-ryxo&t=3259s
   kind: youtube
 
 - id: antiwis
   author: Antiwis
   rankClaim: Diamond (profile badge; title claims Master Elo OTP) · Jhin main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-21-jhin-guide-real-updates-every-patch-master-elo-otp-633981
   kind: mobafire
 
 - id: yunfang
   author: Yunfang
   rankClaim: Diamond (profile badge; guide text claims Master ADC main) · Jhin main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/s2026-20-easy-to-read-simple-1v9-live-ama-full-guide-updated-650175
   kind: mobafire
 
 - id: rowzkit
   author: rowzkit
   rankClaim: Emerald (profile badge; title and guide text claim Master ADC) · Caitlyn main
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/26-21-master-adc-caitlyn-guide-1-shot-late-game-scaling-caitlyn-build-meta-build-included-643874
   kind: mobafire
 
 - id: yunfang-mf
   author: Yunfang
   rankClaim: Diamond (profile badge; guide text claims Master ADC main) · Miss Fortune main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/s2026-21-easy-to-read-simple-1v9-live-ama-full-guide-updated-650250
   kind: mobafire
 - id: razing42
   author: Razing42
   rankClaim: Emerald (profile badge; no title claim) · Thresh main
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/the-chain-warden-of-botlane-623203
   kind: mobafire
 - id: rhino-nami
   author: Pocket Rhino
   rankClaim: Multi-year NA Challenger and former professional support player (channel claim)
+  rank: challenger
   url: https://www.youtube.com/watch?v=H80f4xIYR-I
   kind: youtube
 - id: rhino-braum
   author: Pocket Rhino
   rankClaim: Multi-year NA Challenger and former professional support player (channel claim)
+  rank: challenger
   url: https://www.youtube.com/watch?v=gbSt7wdkHro
   kind: youtube
 - id: henry
   author: needyhenry
   rankClaim: Grandmaster (video claims grandmaster-or-challenger on any server; modest reading) · Soraka main
+  rank: grandmaster
   url: https://www.youtube.com/watch?v=5DFoZ6eOdy0
   kind: youtube
 - id: justsad42
   author: TTVJustSad42
   rankClaim: Challenger EUNE / Grandmaster EUW (self-claim, no badge) · Fiora main
+  rank: challenger
   url: https://docs.google.com/spreadsheets/d/1g_YjX4jYcz15k8FZuOkhc4IWA1LLm28WinrVCGBXxLY/edit?gid=0#gid=0
   kind: sheet
 - id: ph45
   author: PH45
   rankClaim: Master (profile badge; no title claim) · Jax main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-21-thisispatriks-in-depth-jax-guide-503356
   kind: mobafire
 - id: yshuro13
   author: Yshuro13
   rankClaim: Grandmaster (self-stated 800 LP+ peak) · Garen main
+  rank: grandmaster
+  peak: true
   url: https://docs.google.com/spreadsheets/d/1GbCYcSJLSrSIdOja9EhNFWWSynM0Oin157plraoHO3s/edit?gid=522857221#gid=522857221
   kind: sheet
 - id: dreadknight
@@ -231,131 +275,157 @@
 - id: federals1-darius
   author: Federals1
   rankClaim: Challenger · Darius main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-darius-top-guide-636714
   kind: mobafire
 - id: houcs
   author: Houcs
   rankClaim: Master (profile badge; title claims Challenger Irelia OTP) · Irelia main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/season-16-split-3-irelia-guide-challenger-irelia-otp-649210
   kind: mobafire
 - id: goliath-urgot
   author: I Am Goliath
   rankClaim: Master (profile badge) · Urgot main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/goliathgames-ultimate-guide-to-urgot-tips-on-every-matchup-8m-mastery-554383
   kind: mobafire
 - id: justsad42-mf
   author: TTVJustSad42
   rankClaim: Rank 1 Challenger (title, no badge) · Fiora main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/25-21-rank-1-challenger-fiora-matchups-comprehensive-guide-619642
   kind: mobafire
 - id: lilpicky
   author: LilPicky
   rankClaim: Emerald · Aatrox main
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/not-basic-aatrox-s16-guide-630818
   kind: mobafire
 - id: federals1-malphite
   author: Federals1
   rankClaim: Challenger · Malphite main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-malphite-top-guide-651329
   kind: mobafire
 - id: eve0030
   author: Eve0030
   rankClaim: Master OTP (title and badge) · Ornn main
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-21-master-otp-ornn-in-depth-guide-642099
   kind: mobafire
 - id: federals1-volibear
   author: Federals1
   rankClaim: Challenger · Volibear main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-volibear-top-guide-609641
   kind: mobafire
 - id: procatking
   author: procatking
   rankClaim: Emerald (badge, no title claim) · Pantheon main
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/pantheons-what-to-do-list-for-top-lane-26-7-634392
   kind: mobafire
 - id: paul231
   author: Paul231
   rankClaim: Master (lolmatchups account tier, Riot-linked Paul231#NA1) · Akali main
+  rank: master
   url: https://lolmatchups.gg/Akali/matchups?lane=TOP
   kind: web
 - id: zacheryzztop
   author: ZacheryZZTOP
   rankClaim: Grandmaster (lolmatchups account tier, Riot-linked ZacheryZZTOP#TOP) · Yone main
+  rank: grandmaster
   url: https://lolmatchups.gg/Yone/matchups?lane=TOP
   kind: web
 - id: godkingaatrox
   author: GodKingAatrox
   rankClaim: Master (lolmatchups account tier, Riot-linked GodKingAatrox#NA1) · Aatrox main
+  rank: master
   url: https://lolmatchups.gg/tips/Aatrox-Yone?languageCode=en
   kind: web
 - id: naayil
   author: Naayil
   rankClaim: Challenger (video description tag) · Aatrox main
+  rank: challenger
   url: https://www.youtube.com/watch?v=DN_GEYD6YEM&t=141s
   kind: youtube
 - id: federals1-garen
   author: Federals1
   rankClaim: Challenger (self-stated 900 LP+ each season since 2018; EUW Challenger) · Garen main
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-20-challenger-garen-top-guide-642197
   kind: mobafire
 - id: yshuro13-web
   author: Yshuro13
   rankClaim: Grandmaster (lolmatchups, Yshuro13 #EUW) · Garen main
+  rank: grandmaster
   url: https://lolmatchups.gg/Garen/matchups?lane=TOP
   kind: web
 - id: sharphandjoe
   author: SharpHandJoe
   rankClaim: Master (lolmatchups, SharpHandJoe #camel) · Camille main
+  rank: master
   url: https://lolmatchups.gg/Camille/matchups?lane=TOP
   kind: web
 - id: wizbe
   author: Wizbe
   rankClaim: Grandmaster (lolmatchups, Wizbe #EUW) · Camille main
+  rank: grandmaster
   url: https://lolmatchups.gg/Camille/matchups?lane=TOP
   kind: web
 - id: chaddouk
   author: Chaddouk
   rankClaim: Grandmaster (lolmatchups badge) · Tryndamere main
+  rank: grandmaster
   url: https://lolmatchups.gg/Tryndamere/matchups
   kind: web
 - id: henry-t
   author: needyhenry
   rankClaim: Grandmaster (video claims grandmaster-or-challenger on any server; modest reading) · Soraka main
+  rank: grandmaster
   url: https://www.youtube.com/watch?v=-Zyqp_NxBHA
   kind: youtube
 - id: temoonlyifok
   author: TemoOnlyIfOK
   rankClaim: Diamond (profile badge; no title claim) Teemo main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/a-different-type-of-teemo-vibes-based-wip-650397
   kind: mobafire
 - id: trickybam
   author: TrickyBAM
   rankClaim: Diamond (profile badge; no title claim) Teemo main
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/teemo-top-dark-harvest-ap-shrooms-patch-26-17-526194
   kind: mobafire
 - id: manco1
   author: Manco1
   rankClaim: Challenger (lolmatchups account tier, Riot-linked Manco1#NA1) Teemo main
+  rank: challenger
   url: https://lolmatchups.gg/Teemo/matchups?lane=TOP
   kind: web
 - id: persimannon
   author: Persimannon
   rankClaim: Diamond (self-stated post title) Aatrox main
+  rank: diamond
   url: https://www.reddit.com/r/AatroxMains/comments/1x5etj3/mid_diamond_thoughts_on_aatrox_matchups/
   kind: web
 - id: xsagi
   author: xSagi
   rankClaim: Diamond (title; no badge shown) Akali OTP
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/27-03-euw-diamond-akali-otp-582552
   kind: mobafire
 - id: forlid
   author: forlid
   rankClaim: DIAMOND
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-4-fundamentals-of-aatrox-season-16-guide-632525
   kind: mobafire
 - id: janlon99
   author: janlon99
   rankClaim: Platinum (profile badge; no title claim)
+  rank: platinum
   url: https://www.mobafire.com/league-of-legends/build/ultimate-rogue-assassin-akali-guide-26-05-595099
   kind: mobafire
 - id: mobalytics-akali
@@ -381,16 +451,19 @@
 - id: aniviabot
   author: AniviaBot
   rankClaim: Master (profile badge; no title claim)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/the-anivia-encyclopedia-an-in-depth-anivia-guide-592758
   kind: mobafire
 - id: cyb3r1a
   author: cyb3r1a
   rankClaim: Master Rank (title); Diamond (profile badge)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-16-master-rank-annie-mid-cheat-sheet-651995
   kind: mobafire
 - id: wargreymon
   author: War Greymon
   rankClaim: Master tier ADC (self-described; no badge)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/aphelios-general-guide-by-war-greymon-653897
   kind: mobafire
 - id: mobalytics-blitzcrank
@@ -436,16 +509,19 @@
 - id: raideru-darius
   author: Raideru
   rankClaim: Challenger (title and profile badge)
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/best-darius-world-challenger-guide-by-raider-matchups-638131
   kind: mobafire
 - id: bullwhipgriffin
   author: BullwhipGriffin
   rankClaim: Diamond (profile badge; no title claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/s16-creator-of-tank-diana-griffins-diana-jungle-guide-612672
   kind: mobafire
 - id: diimoonz
   author: Diimoonz
   rankClaim: Diamond (profile badge; no title claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/best-midlane-diana-guide-diimoonz-live-everyday-632282
   kind: mobafire
 - id: granmuhh
@@ -461,6 +537,7 @@
 - id: osgrewynd
   author: OSG Rewynd
   rankClaim: Diamond (profile badge; no title claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/ekko-mid-and-jungle-guide-613291
   kind: mobafire
 - id: mobalytics-elise
@@ -471,6 +548,7 @@
 - id: gnarz
   author: gnarz
   rankClaim: Master (profile badge; self-reports Challenger EUNE and Grandmaster EUW)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-19-gnarzs-guide-to-become-the-best-evelynn-637851
   kind: mobafire
 - id: moosicel
@@ -506,6 +584,7 @@
 - id: dragonlord1022
   author: Dragonlord1022
   rankClaim: Diamond (guide label)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-05-wyverns-gnar-648280
   kind: mobafire
 - id: mobalytics-gragas
@@ -521,6 +600,7 @@
 - id: arthapsic
   author: Arthapsic
   rankClaim: Diamond (guide label)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/patch-26-3-challenger-euw-full-gwen-guide-2mil-mastery-for-top-mid-637153
   kind: mobafire
 - id: mobalytics-hecarim
@@ -541,16 +621,19 @@
 - id: skandallotv
   author: SkandalloTV
   rankClaim: 4x Master (title); Diamond (profile badge)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-21-ap-irelia-4x-master-guide-636935
   kind: mobafire
 - id: iverngott
   author: IvernGott
   rankClaim: Challenger (title); Diamond (profile badge)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/season-16-challenger-ivern-guide-633796
   kind: mobafire
 - id: 1yanou
   author: 1yanou
   rankClaim: Grandmaster (profile badge; no title claim)
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/updated-1yanous-extremely-detailed-janna-guide-636483
   kind: mobafire
 - id: mobalytics-jayce
@@ -586,26 +669,31 @@
 - id: nyrolol
   author: Nyrolol
   rankClaim: Challenger (guide title; no badge)
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-16-s16-nyro-challenger-katarina-build-guide-612060
   kind: mobafire
 - id: prestigegalaxy
   author: PrestigeGalaxy
   rankClaim: Diamond (profile badge; no title claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/26-13-prestigegalaxys-7m-mastery-guide-to-katarina-584446
   kind: mobafire
 - id: kayle1v9
   author: kayle1v9
   rankClaim: Challenger (guide title; self-reports Grandmaster current)
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/kayle-1v9s-season-16-challenger-kayle-guide-updated-for-26-09-625593
   kind: mobafire
 - id: ractickttv
   author: RactickTTV
   rankClaim: Diamond (profile badge; no title claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/racticks-1m-mastery-s26-20-detailed-guide-for-all-situation-589676
   kind: mobafire
 - id: guest-652087
   author: Guest
   rankClaim: Emerald (guide title)
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/kennen-top-mid-600k-points-emerald-insights-make-sure-to-read-notes-for-every-item-matchup-652087
   kind: mobafire
 - id: mobalytics-khazix
@@ -646,11 +734,13 @@
 - id: henrysjg
   author: HenrySJG
   rankClaim: Diamond (profile badge; no title claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/lux-ap-support-season-2026-june-update-651240
   kind: mobafire
 - id: raen
   author: Raen
   rankClaim: Master (profile badge)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/raens-malphite-tips-amp-build-569913
   kind: mobafire
 - id: mobalytics-malzahar
@@ -666,6 +756,7 @@
 - id: funnybunnyh
   author: FunnyBunnyH
   rankClaim: Emerald (profile badge; no title claim)
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/maokai-tank-support-2026-621820
   kind: mobafire
 - id: bobthedodo
@@ -676,6 +767,7 @@
 - id: ssl
   author: SSL
   rankClaim: Platinum (profile badge; no title claim)
+  rank: platinum
   url: https://www.mobafire.com/league-of-legends/build/best-guide-for-milio-l-by-ssl-624095
   kind: mobafire
 - id: ghostk
@@ -696,6 +788,7 @@
 - id: tndd
   author: TnDD
   rankClaim: Emerald (profile badge; no title claim)
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/season-16-bard-guide-t-rk-e-614202
   kind: mobafire
 - id: jesuscirraptor
@@ -706,16 +799,19 @@
 - id: mo100z
   author: Mo100z
   rankClaim: Challenger (title); Master (profile badge)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/mo100z-26-10-new-split-challenger-belveth-indepth-guide-updated-630970
   kind: mobafire
 - id: eventhorizon
   author: Event Horizon
   rankClaim: 1K LP Master OTP (title); Master (profile badge)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-21-mid-bot-4-5m-mastery-1k-lp-master-otp-aurelion-sol-guide-matchup-details-646996
   kind: mobafire
 - id: bodythosefools
   author: Body Those Fools
   rankClaim: Challenger (guide title; no badge)
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/season-16-bodythosefools-challenger-azir-guide-in-depth-10-000-000-mastery-points-beat-faker-614215
   kind: mobafire
 - id: mystral
@@ -771,6 +867,7 @@
 - id: v1gorous1-nilah
   author: V1gorous1
   rankClaim: Diamond (profile badge); Challenger, 829 LP peak (author claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/challenger-nilah-guide-season-16-updated-647955
   kind: mobafire
 - id: yourdadday
@@ -786,16 +883,19 @@
 - id: shok-orianna
   author: ShokLoL
   rankClaim: Rank 1 Challenger; CHALLENGER
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-1-shoks-rank-1-challenger-orianna-guide-636228
   kind: mobafire
 - id: allyooops
   author: Allyooops
   rankClaim: CHALLENGER; none
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/s16-26-16-challenger-qiyana-mid-guide-yt-guides-at-end-622886
   kind: mobafire
 - id: deylan
   author: Deylan
   rankClaim: Gold eune; none
+  rank: gold
   url: https://www.mobafire.com/league-of-legends/build/im-not-arrogant-im-right-qiyana-26-16-guide-mid-jng-640016
   kind: mobafire
 - id: daltonfresh
@@ -806,11 +906,13 @@
 - id: lordgrox
   author: LordGrox
   rankClaim: Emerald profile badge
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/s16-lordgrox-high-elo-reksai-guide-595303
   kind: mobafire
 - id: xinkelol
   author: XinkeLoL
   rankClaim: Master (profile); none shown
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-21-riven-beginner-to-master-650472
   kind: mobafire
 - id: youngryze
@@ -821,6 +923,7 @@
 - id: v1gorous1-samira
   author: V1gorous1
   rankClaim: Diamond (profile badge); Challenger, 829 LP peak (author claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/challenger-samira-otp-guide-season-16-updated-613701
   kind: mobafire
 - id: fearthejester
@@ -831,21 +934,25 @@
 - id: neiri
   author: Neiri
   rankClaim: Diamond (profile badge)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/kits-otp-sona-guide-645016
   kind: mobafire
 - id: shok-taliyah
   author: ShokLoL
   rankClaim: Rank 1 Challenger; CHALLENGER
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/26-1-shoks-rank-1-challenger-taliyah-guide-635673
   kind: mobafire
 - id: trundledaddy
   author: Trundledaddy
   rankClaim: Master+ (author claim); none shown
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-21-updated-trundledaddys-trundle-top-guide-610583
   kind: mobafire
 - id: spook8
   author: Spook8
   rankClaim: Diamond (profile badge); Master ADC main (author claim)
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/vayne-guide-from-master-vayne-one-trick-646861
   kind: mobafire
 - id: harrowedpath
@@ -856,11 +963,13 @@
 - id: intaggar
   author: InTaggar
   rankClaim: no rank claim; Emerald
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/26-17-viktor-guide-in-depth-eng-esp-633306
   kind: mobafire
 - id: zamus
   author: Zamus
   rankClaim: no title claim; GRANDMASTER
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/updated-aura-monster-vladimir-1v9-guide-651008
   kind: mobafire
 - id: chemtechpuppy
@@ -871,16 +980,20 @@
 - id: visionsofv
   author: VisionsOfV
   rankClaim: Grandmaster, 1025 LP peak (author claim); none shown
+  rank: grandmaster
+  peak: true
   url: https://www.mobafire.com/league-of-legends/build/the-complete-yasuo-adc-guide-652077
   kind: mobafire
 - id: wayofthetempesst
   author: WayOfTheTempesst
   rankClaim: Challenger (title); none shown
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/16-6-tempests-challenger-yasuo-guide-in-depth-541576
   kind: mobafire
 - id: infinem
   author: inFinem
   rankClaim: Platinum (profile badge); none shown
+  rank: platinum
   url: https://www.mobafire.com/league-of-legends/build/26-21-the-unbroken-faith-yunara-guide-648698
   kind: mobafire
 - id: hoffmann
@@ -891,16 +1004,20 @@
 - id: stean
   author: Stean
   rankClaim: No current profile badge verified (author says they reached Master before Mythic items)
+  rank: master
+  peak: true
   url: https://www.mobafire.com/league-of-legends/build/zac-build-for-anyone-651849
   kind: mobafire
 - id: junniseoul
   author: junniseoul
   rankClaim: Master (profile badge); #1 NA, Top 3 Global (title claim)
+  rank: master
   url: https://www.mobafire.com/league-of-legends/build/26-18-1-zeri-na-top-3-global-junniseoul-648904
   kind: mobafire
 - id: zileanaire
   author: Zileanaire
   rankClaim: Diamond (profile badge); author claims high-Diamond peak
+  rank: diamond
   url: https://www.mobafire.com/league-of-legends/build/zilean-otp-in-depth-zilean-guide-2026-updated-may-644975
   kind: mobafire
 - id: dabloondemon
@@ -911,6 +1028,7 @@
 - id: ozneviik
   author: ozneviik
   rankClaim: Challenger (title); none shown
+  rank: challenger
   url: https://www.mobafire.com/league-of-legends/build/season-16-challenger-zaahen-guide-653093
   kind: mobafire
 - id: mobalytics-morgana-support
@@ -986,6 +1104,7 @@
 - id: lathyrus
   author: Lathyrus
   rankClaim: Challenger (title claim); Grandmaster (profile badge)
+  rank: grandmaster
   url: https://www.mobafire.com/league-of-legends/build/lathyrus-15-18-challenger-renata-support-609588
   kind: mobafire
 - id: scottysseus
@@ -1001,6 +1120,7 @@
 - id: kaziz
   author: Kaziz
   rankClaim: Emerald (profile badge; no title claim)
+  rank: emerald
   url: https://www.mobafire.com/league-of-legends/build/swain-support-guide-25-23-632823
   kind: mobafire
 - id: luffrey
@@ -1082,4 +1202,43 @@
   author: Mobalytics
   rankClaim: No rank claim
   url: https://mobalytics.gg/lol/champions/xerath/build/support
+  kind: web
+- id: mauro2347
+  author: mauro2347
+  rankClaim: Master 260 LP (stated in post) · Yone main
+  rank: master
+  url: https://www.reddit.com/r/YoneMains/comments/1q1wnaz/my_personal_yone_mid_matchup_tierlistmid_to_high/
+  kind: web
+- id: mmjyn
+  author: mmjyn
+  rankClaim: Master (stated in post) · Yone main
+  rank: master
+  url: https://www.reddit.com/r/YoneMains/comments/1sms1wy/i_find_the_yasuo_matchup_unplayable/
+  kind: web
+- id: dennissuarez69
+  author: Dennissuarez69
+  rankClaim: Diamond 1 OTP Yasuo (stated in comment)
+  rank: diamond
+  url: https://www.reddit.com/r/YoneMains/comments/1sms1wy/i_find_the_yasuo_matchup_unplayable/
+  kind: web
+- id: nicolaslamelas
+  author: nicolas_lamelas17
+  rankClaim: Diamond (4) Yone OTP (stated in comment)
+  rank: diamond
+  url: https://www.reddit.com/r/YoneMains/comments/1sms1wy/i_find_the_yasuo_matchup_unplayable/
+  kind: web
+
+- id: heywil
+  author: heywil
+  rankClaim: Master (sheet About Me, self-claim) · Ambessa main
+  rank: master
+  url: https://docs.google.com/spreadsheets/d/1Ivg4duvQ8s3zzHnq7XXYDPhmhwxdNBASLHegwRhKSwY/edit?usp=sharing
+  kind: sheet
+
+- id: saltyy
+  author: Saltyy
+  rankClaim: Former Diamond player, currently unranked; 2M+ Riven mastery (site info page, self-claim) - Riven main
+  rank: diamond
+  peak: true
+  url: https://riven.saltyy.at/
   kind: web

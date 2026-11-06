@@ -39,7 +39,7 @@ sources: [pengekko, v222, shok-ahri]
 
 - A connecting W stun means no fear of Charm: stun first, commit after.
   sources: [v222]
-  abilities: [Ekko.W]
+  abilities: [Ekko.W, Ahri.E]
 
 - After 6, watch R-E forward plus Ignite: clone placement decides the all-in.
   sources: [v222]

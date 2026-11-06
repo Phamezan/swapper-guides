@@ -21,6 +21,7 @@ sources: [peng04, shok-ahri]
 
 - She plays the lane slowly and holds Charm defensively: dictate the pace, do not wait.
   sources: [shok-ahri]
+  abilities: [Ahri.E]
 
 ## Overview
 
@@ -28,7 +29,7 @@ sources: [peng04, shok-ahri]
 
 - After E to a dagger, expect immediate Charm: keep moving or Shunpo out.
   sources: [peng04]
-  abilities: [Katarina.E]
+  abilities: [Katarina.E, Ahri.E]
 
 - She avoids daggers: place them on her, not near her.
   sources: [shok-ahri]

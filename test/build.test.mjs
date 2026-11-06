@@ -5,6 +5,7 @@ import path from 'node:path';
 import { test } from 'node:test';
 import { compileContent } from '../scripts/compile.mjs';
 import { build } from '../scripts/build.mjs';
+import YAML from 'yaml';
 
 const root = path.resolve(import.meta.dirname, '..');
 const pilotPath = 'guides/Ahri/Zed-mid.md';
@@ -28,6 +29,29 @@ const reject = (files, message, file = pilotPath) => {
     return true;
   });
 };
+
+test('author ranks and peak claims are validated and published, while legacy authors stay optional', () => {
+  const authors = YAML.parse(base.get('authors.yml'));
+  const files = new Map(base);
+  for (const rank of ['iron', 'bronze', 'silver', 'gold', 'platinum', 'emerald', 'diamond', 'master', 'grandmaster', 'challenger']) {
+    Object.assign(authors[0], { rank, peak: true });
+    files.set('authors.yml', YAML.stringify(authors));
+    const source = JSON.parse(compile(files).files.get('champions/103.json')).guides[0].sources[0];
+    assert.equal(source.rank, rank);
+    assert.equal(source.peak, true);
+  }
+  for (const fields of [{ rank: 'unranked' }, { rank: 'Master' }, { rank: 1 }, { peak: 'true' }, { peak: false }]) {
+    delete authors[0].rank; delete authors[0].peak;
+    Object.assign(authors[0], fields);
+    files.set('authors.yml', YAML.stringify(authors));
+    reject(files, /rank|peak/, 'authors.yml');
+  }
+  delete authors[0].rank; delete authors[0].peak;
+  files.set('authors.yml', YAML.stringify(authors));
+  const legacy = JSON.parse(compile(files).files.get('champions/103.json')).guides[0].sources[0];
+  assert.equal(Object.hasOwn(legacy, 'rank'), false);
+  assert.equal(Object.hasOwn(legacy, 'peak'), false);
+});
 
 test('pilot compiles exactly to the app fixture without fixture', () => {
   const result = compile(base);

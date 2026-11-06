@@ -31,6 +31,7 @@ sources: [peng04, shokviktor]
 
 - Keep the wave pushed: her threat is Charm into ganks, not the raw 1v1.
   sources: [shokviktor]
+  abilities: [Ahri.E]
 
 ## Mid lane
 

@@ -17,7 +17,7 @@ sources: [jammed]
 
 - In fights, poke with Q and wait for a safe Gold Card window instead of frontlining; use Destiny to find an isolated target, arrive with Gold Card ready, then follow with an auto and Wild Cards.
   sources: [jammed]
-  abilities: [Twisted Fate.Q, Twisted Fate.W]
+  abilities: [Twisted Fate.Q, Twisted Fate.W, Twisted Fate.R]
 
 ## Overview
 
@@ -33,7 +33,7 @@ sources: [jammed]
 
 - Trade Gold Card into Wild Cards plus an auto to add Stacked Deck damage; clear with Red Card plus Q and restore mana with Blue Card plus Q.
   sources: [jammed]
-  abilities: [Twisted Fate.W, Twisted Fate.Q]
+  abilities: [Twisted Fate.W, Twisted Fate.Q, Twisted Fate.E]
 
 - Freeze near your tower when behind or threatened by an assassin, slow-push before a planned Destiny roam, and fast-push before a recall or map move.
   sources: [jammed]

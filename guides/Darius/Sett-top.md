@@ -45,7 +45,7 @@ sources: [federals1-darius, autolykus]
 - Reach five Hemorrhage stacks through short W and Q contacts before committing. His side wants to chip you and answer the all-in, so do not extend a flat fight at full health into his second rotation.
   sources: [federals1-darius, autolykus]
   heading: Stack discipline
-  abilities: [Darius.W, Darius.Q]
+  abilities: [Darius.W, Darius.Q, Darius.P]
 
 - Time your Stridebreaker active against his. With the item done on both sides, the duel turns on who slows whom first: active as he steps in, then stay at Q edge while it lasts.
   sources: [federals1-darius]

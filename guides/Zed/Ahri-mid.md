@@ -49,5 +49,6 @@ sources: [aikopanda, v222, peng04]
 
 - Close when her answers are down: Charm or ult spent means a free R window.
   sources: [aikopanda]
+  abilities: [Ahri.E]
 
 ## Itemization

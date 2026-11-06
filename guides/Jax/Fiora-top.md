@@ -25,6 +25,7 @@ sources: [ph45, justsad42]
 
 - Never open a full fight first when her Riposte is up. The first engager usually loses, so show pressure and force her parry before committing your leap and stun.
   sources: [justsad42, ph45]
+  abilities: [Fiora.W]
   heading: Engagement rule
   patch: "26.21"
 
@@ -64,6 +65,7 @@ sources: [ph45, justsad42]
 
 - Peel her off your backline rather than dueling her head-on late. If she saves Riposte for your stun, your team gets more from your counter-engage than from a solo all-in you lose.
   sources: [justsad42]
+  abilities: [Fiora.W]
   heading: Teamfight role
 
 ## Itemization

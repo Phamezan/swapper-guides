@@ -59,6 +59,7 @@ sources: [antiwis, yunfang, omibro]
 
 - Never chase through slows. If the trade extends past your burst, reset and wait for the next Volley-down window instead of bleeding out.
   sources: [antiwis]
+  abilities: [Ashe.W]
   patch: "26.21"
 
 ## Itemization

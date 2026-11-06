@@ -24,6 +24,7 @@ sources: [cyb3r1a]
 
 - Keep the Pyromania stun ready to punish a spent enemy cooldown, stop an all-in, or set up the jungler.
   sources: [cyb3r1a]
+  abilities: [Annie.P]
 
 - Throw autos when the opponent mispositions, but respect mid gank angles and ward from a safe spot.
   sources: [cyb3r1a]

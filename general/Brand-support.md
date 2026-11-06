@@ -14,7 +14,7 @@ sources: [mobalytics-brand]
 
 - Treat the level-6 ultimate as a major kill threat, striking once Blaze already burns a target.
   sources: [mobalytics-brand]
-  abilities: [Brand.R]
+  abilities: [Brand.R, Brand.P]
 
 - Aim the ultimate to bounce across several grouped champions in teamfights.
   sources: [mobalytics-brand]

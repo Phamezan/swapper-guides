@@ -32,7 +32,7 @@ sources: [scottysseus]
 
 - If the enemy support catches you or your partner with crowd control, answer by aiming Beat Drop and Surround Sound at their carry to discourage the follow-up.
   sources: [scottysseus]
-  abilities: [Seraphine.E, Seraphine.Q]
+  abilities: [Seraphine.E, Seraphine.Q, Seraphine.W]
 
 - Encourage the lane partner to save wave-clear spells when using them on minions would waste mana and miss a useful trade window.
   sources: [scottysseus]
@@ -44,7 +44,7 @@ sources: [scottysseus]
 
 - Poke with Surround Sound before a team fight instead of waiting until the fight has already started.
   sources: [scottysseus]
-  abilities: [Seraphine.Q]
+  abilities: [Seraphine.Q, Seraphine.W]
 
 - Use the build's crowd control and poke to soften targets before the team commits to the engage.
   sources: [scottysseus]

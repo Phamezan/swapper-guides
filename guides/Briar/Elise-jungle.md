@@ -68,4 +68,5 @@ sources: [loganjg]
 
 - Go bruiser instead of full damage. Sterak's Gage plus Spirit Visage lets you eat the Cocoon focus, live through the Rappel stall, and still land the Q follow-up.
   sources: [loganjg]
+  abilities: [Elise.E]
   items: [3181, 3065]

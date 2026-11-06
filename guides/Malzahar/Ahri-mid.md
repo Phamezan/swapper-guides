@@ -20,6 +20,7 @@ sources: [xblademojo, peng04, shok-ahri]
 
 - Keep your spell shield for her Charm timing: no shield means no walk-up.
   sources: [peng04]
+  abilities: [Ahri.E]
 
 ## Overview
 
