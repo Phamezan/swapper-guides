@@ -55,6 +55,6 @@ sources: [peng04, anguish]
 
 ## Itemization
 
-- Build toward ability haste into Horizon Focus: the Akali main names it as the scaling point she dislikes on Ahri.
+- Build toward ability haste into Horizon Focus; Akali struggles against Ahri's scaling here.
   sources: [anguish]
   items: [4628]

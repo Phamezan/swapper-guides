@@ -74,5 +74,5 @@ sources: [mobalytics-garen]
 
 ## Itemization
 
-- Choose the durable route whenever the team lacks a frontline, even though the page names no item path.
+- Choose the durable route whenever the team lacks a frontline.
   sources: [mobalytics-garen]

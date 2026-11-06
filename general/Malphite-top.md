@@ -86,7 +86,7 @@ sources: [raen]
   items: [3068, 2502]
   sources: [raen]
 
-- Follow the standard tank panel with Mercury's Treads, Jak'Sho, Abyssal Mask, and Thornmail.
+- Build the standard tank set: Mercury's Treads, Jak'Sho, Abyssal Mask, and Thornmail.
   items: [3111, 8020, 3075]
   sources: [raen]
 

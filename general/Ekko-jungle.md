@@ -33,7 +33,7 @@ sources: [guest-653345]
 - Value early takedowns and Void Grubs over an early Dragon, bending the trade to lane state and contest strength.
   sources: [guest-653345]
 
-- Treat the guide item timings as targets: first finished item near 9 to 10 minutes, second near 14 to 16, third near 19 to 20.
+- Target these item timings: first finished item near 9 to 10 minutes, second near 14 to 16, third near 19 to 20.
   sources: [guest-653345]
 
 ## Mid lane
@@ -72,14 +72,14 @@ sources: [guest-653345]
 - Run Dark Harvest with Sudden Impact, Grisly Mementos, and Treasure Hunter, plus Magical Footwear and Cosmic Insight with attack-speed, adaptive-force, and health shards.
   sources: [guest-653345]
 
-- Take Flash and Smite as the displayed summoners.
+- Take Flash and Smite.
   sources: [guest-653345]
 
-- Build Nashor's Tooth into Lich Bane and Rabadon's Deathcap on one core path, with Sorcerer's Shoes and Mejai's Soulstealer in the panel.
+- Build Nashor's Tooth into Lich Bane and Rabadon's Deathcap on one core path, with Sorcerer's Shoes and Mejai's Soulstealer as options.
   items: [3115, 3100, 3089, 3020, 3041]
   sources: [guest-653345]
 
-- Use Dusk and Dawn with Shadowflame, or Nashor's Tooth into Dusk and Dawn plus Rabadon's Deathcap, as the other displayed paths.
+- Use Dusk and Dawn with Shadowflame, or Nashor's Tooth into Dusk and Dawn plus Rabadon's Deathcap, as other paths.
   items: [2510, 4645, 3115, 3089]
   sources: [guest-653345]
 

@@ -40,7 +40,7 @@ sources: [goliath-urgot]
 - Play the level-eleven and level-thirteen passive shotgun cooldowns by circling targets so repeated attacks land harder as Urgot rounds them.
   sources: [goliath-urgot]
 
-- Around level thirteen, press the advantage with side-lane fights, then rotate or Teleport to teamfights; the guide calls this midgame window Urgot's strongest phase.
+- Around level thirteen, press the advantage with side-lane fights, then rotate or Teleport to teamfights; this midgame window is Urgot's strongest phase.
   sources: [goliath-urgot]
 
 - On turrets or neutral objectives, weave one basic attack after every three W hits for extra damage.

@@ -82,6 +82,6 @@ sources: [zileanaire]
   sources: [zileanaire]
   abilities: [Zilean.R]
 
-- Read the author as broadly useful on Solstice Sleigh, strong on Bandlepipes as a team buff, and early-defensive on Locket of the Iron Solari; add Morellonomicon with an early Oblivion Orb when enemy healing is significant, staying flexible across tank, mage, enchanter, or utility picks by game.
+- Solstice Sleigh is broadly useful, Bandlepipes is strong as a team buff, and Locket of the Iron Solari is early-defensive; add Morellonomicon with an early Oblivion Orb when enemy healing is significant, staying flexible across tank, mage, enchanter, or utility picks by game.
   items: [3876, 2524, 3190, 3165, 3916]
   sources: [zileanaire]

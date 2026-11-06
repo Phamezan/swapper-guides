@@ -96,7 +96,7 @@ sources: [ph45]
 - Swap Lethal Tempo with Triumph, Legend: Haste, and Last Stand for matchups demanding attack speed in long all-ins.
   sources: [ph45]
 
-- Start Doran's Shield for safety, with Doran's Bow as the other panel setup.
+- Start Doran's Shield for safety, with Doran's Bow as the other setup.
   items: [1054, 1086]
   sources: [ph45]
 

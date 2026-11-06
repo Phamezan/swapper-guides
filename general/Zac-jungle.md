@@ -59,7 +59,7 @@ sources: [stean]
 
 ## Itemization
 
-- Prefer the author's own testing over habit for Unending Despair, and take Frozen Heart when the team lacks that attack-speed defense.
+- Take Unending Despair, and take Frozen Heart when the team lacks that attack-speed defense.
   items: [2502, 3110]
   sources: [stean]
 

@@ -28,7 +28,7 @@ sources: [jammed]
   sources: [jammed]
   abilities: [Twisted Fate.Q, Twisted Fate.W]
 
-- Run the displayed order of W at level one, Q at two, E at three, then max Q, W, E while taking R at six, eleven, and sixteen; take the early E point into aggressive melee lanes for stronger trades.
+- Take W at level one, Q at two, E at three, then max Q, W, E while taking R at six, eleven, and sixteen; take the early E point into aggressive melee lanes for stronger trades.
   sources: [jammed]
   abilities: [Twisted Fate.W, Twisted Fate.Q, Twisted Fate.E, Twisted Fate.R]
 
@@ -79,7 +79,7 @@ sources: [jammed]
 
 ## Itemization
 
-- Choose Electrocute for burst in short-range lanes, First Strike as the safer scaling and gold-acceleration page, or Unsealed Spellbook for utility and flexible summoner spells; the displayed First Strike page pairs Cash Back, Triple Tonic, and Jack of All Trades with Celerity and Gathering Storm.
+- Choose Electrocute for burst in short-range lanes, First Strike as the safer scaling and gold-acceleration page, or Unsealed Spellbook for utility and flexible summoner spells; the First Strike page pairs Cash Back, Triple Tonic, and Jack of All Trades with Celerity and Gathering Storm.
   sources: [jammed]
 
 - Run Flash by default with Teleport as the consistent ranked pairing, Ignite for aggressive kill pressure, Exhaust against burst, or Ghost for extended skirmishes with limited enemy crowd control.

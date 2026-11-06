@@ -72,6 +72,6 @@ sources: [janlon99]
 - Pick Resolve by matchup: Second Wind into poke, Bone Plating into close-range burst, Unflinching when crowd control matters, Overgrowth for extra health otherwise.
   sources: [janlon99]
 
-- Follow the displayed standard build of Hextech Gunblade into Sorcerer's Shoes, Shadowflame, Zhonya's Hourglass, Rabadon's Deathcap, and Void Staff.
+- Build Hextech Gunblade into Sorcerer's Shoes, Shadowflame, Zhonya's Hourglass, Rabadon's Deathcap, and Void Staff.
   items: [3146, 3020, 4645, 3157, 3089, 3135]
   sources: [janlon99]

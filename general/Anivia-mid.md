@@ -87,7 +87,7 @@ sources: [aniviabot]
 
 ## Itemization
 
-- Run Stormraider's Surge with Manaflow Band, Celerity, and Gathering Storm, plus Triple Tonic and Approach Velocity, as the displayed page.
+- Run Stormraider's Surge with Manaflow Band, Celerity, and Gathering Storm, plus Triple Tonic and Approach Velocity.
   sources: [aniviabot]
 
 - Rush Malignance for earlier damage, or Rod of Ages first for safer health and mana scaling, then complete the other as the second core.

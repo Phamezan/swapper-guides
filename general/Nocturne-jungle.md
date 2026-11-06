@@ -31,7 +31,7 @@ sources: [yourdadday]
 - Invade and fight only when the enemy team cannot rotate first; check every collapse route before committing to their side.
   sources: [yourdadday]
 
-- Treat the author's dragon call as the payoff for the early route: prioritize dragons over Void Grubs when the path creates that control.
+- Prioritize dragons over Void Grubs when the early path creates that control; dragons are the payoff for the early route.
   sources: [yourdadday]
 
 - Run Ignite as this plan's dueling edge for the early fights it seeks; it is a matchup choice for this strategy, not a universal summoner setup.
@@ -49,7 +49,7 @@ sources: [yourdadday]
 - Keep seeking controlled invades while Ignite and a level lead make the duel favorable, tracking which lanes can rotate before entering.
   sources: [yourdadday]
 
-- Only attempt the author's solo-dragon line when the enemy team cannot contest it; it is a high-risk solo-queue tactic that fails against a collapsing team.
+- Only attempt a solo dragon when the enemy team cannot contest it; it is a high-risk solo-queue tactic that fails against a collapsing team.
   sources: [yourdadday]
 
 ## Win condition
@@ -66,5 +66,5 @@ sources: [yourdadday]
 - Keep Ignite as the strategy's dueling summoner: it supplies the early-fight advantage the invade and Scuttle contests rely on.
   sources: [yourdadday]
 
-- Build the route around reaching an early Smite upgrade lead, and treat the guide's exact camp-count and Smite-damage comparison as patch-sensitive math to recheck.
+- Build the route around reaching an early Smite upgrade lead; recheck exact camp counts and Smite damage, since that math is patch-sensitive.
   sources: [yourdadday]

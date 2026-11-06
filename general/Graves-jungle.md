@@ -87,7 +87,7 @@ sources: [christi21]
 
 ## Itemization
 
-- Run Dark Harvest with Precision secondary as the current panel, which explains the keystone choice little.
+- Run Dark Harvest with Precision secondary.
   sources: [christi21]
 
 - Stack lethality through Hubris into The Collector and Lord Dominik's Regards for snowballing squishier targets.

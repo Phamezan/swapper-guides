@@ -27,7 +27,7 @@ sources: [shok-taliyah]
 - Freeze near your tower when behind or threatened by an assassin, slow-push before a planned Destiny-style roam, and fast-push before a recall or map move.
   sources: [shok-taliyah]
 
-- Run the displayed order of W at level one, Q at two, E at three, then max Q, W, E while taking R at six, eleven, and sixteen.
+- Take W at level one, Q at two, E at three, then max Q, W, E while taking R at six, eleven, and sixteen.
   sources: [shok-taliyah]
   abilities: [Taliyah.W, Taliyah.Q, Taliyah.E, Taliyah.R]
 

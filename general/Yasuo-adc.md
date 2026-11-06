@@ -15,7 +15,7 @@ sources: [visionsofv]
   sources: [visionsofv]
   abilities: [Yasuo.W]
 
-- After a successful trade or kill, shove the wave and reset: the guide lists Recurve Bow after a kill, or Cull and a Control Ward when the fight yields no kill.
+- After a successful trade or kill, shove the wave and reset: take Recurve Bow after a kill, or Cull and a Control Ward when the fight yields no kill.
   items: [1043, 2055]
   sources: [visionsofv]
 

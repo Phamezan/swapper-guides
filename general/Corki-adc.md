@@ -42,7 +42,7 @@ sources: [mobalytics-corki]
   sources: [mobalytics-corki]
   abilities: [Corki.R]
 
-- Treat the first finished item as a major poke and clearing spike even though the page never names it.
+- Treat the first finished item as a major poke and clearing spike.
   sources: [mobalytics-corki]
 
 ## Mid lane

@@ -50,7 +50,7 @@ sources: [diimoonz]
 - Respect the flagged gank vulnerability before extending for lane pressure.
   sources: [diimoonz]
 
-- Never assume free shoves into pressure, since the guide flags weak waveclear against it.
+- Never assume free shoves into pressure; waveclear is weak against it.
   sources: [diimoonz]
 
 ## Mid lane
@@ -61,7 +61,7 @@ sources: [diimoonz]
 - Treat the first one to three core items as the labeled power spike.
   sources: [diimoonz]
 
-- Run the displayed AP path from Sorcerer's Shoes and Lich Bane into Shadowflame and Rabadon's Deathcap.
+- Run the AP path from Sorcerer's Shoes and Lich Bane into Shadowflame and Rabadon's Deathcap.
   items: [3020, 3100, 4645, 3089]
   sources: [diimoonz]
 
@@ -96,7 +96,7 @@ sources: [diimoonz]
 
 ## Itemization
 
-- Run Stormraider's Surge with Manaflow Band, Transcendence, and Gathering Storm plus Shield Bash and Conditioning as the recommended panel.
+- Run Stormraider's Surge with Manaflow Band, Transcendence, and Gathering Storm plus Shield Bash and Conditioning.
   sources: [diimoonz]
 
 - Take Flash and Ignite as the aggressive summoner setup.
@@ -106,5 +106,5 @@ sources: [diimoonz]
   items: [3157, 3135, 3102]
   sources: [diimoonz]
 
-- For the bruiser route, use Conqueror with Resolve or Stormraider's Surge; the Senchin panel shows Conqueror with Presence of Mind, Legend: Haste, Last Stand, Shield Bash, and Overgrowth.
+- For the bruiser route, use Conqueror with Resolve or Stormraider's Surge; one Conqueror setup runs Presence of Mind, Legend: Haste, Last Stand, Shield Bash, and Overgrowth.
   sources: [diimoonz]

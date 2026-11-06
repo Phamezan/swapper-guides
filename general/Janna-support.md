@@ -98,7 +98,7 @@ sources: [1yanou]
   items: [3009]
   sources: [1yanou]
 
-- Core Moonstone Renewer into Redemption and Dawncore as the displayed build.
+- Core Moonstone Renewer into Redemption and Dawncore.
   items: [6617, 3107, 6621]
   sources: [1yanou]
 

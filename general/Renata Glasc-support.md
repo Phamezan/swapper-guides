@@ -63,7 +63,7 @@ sources: [lathyrus]
 
 ## Win condition
 
-- Build enough durability to stay alive and keep peeling; the guide favors a tankier support role over maximizing enchanter stats.
+- Build enough durability to stay alive and keep peeling; a tankier support role beats maximizing enchanter stats here.
   sources: [lathyrus]
 
 - Protect the carry with Handshake shields and the last-second Bailout window, then use Leverage Rumor or Hostile Takeover to disrupt divers.

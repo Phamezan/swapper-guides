@@ -60,13 +60,13 @@ sources: [wayofthetempesst]
   sources: [wayofthetempesst]
   abilities: [Yasuo.W]
 
-- Build more durability when the team needs a frontline; the guide suggests Randuin's Omen or Spirit Visage based on the opposing damage.
+- Build more durability when the team needs a frontline; take Randuin's Omen or Spirit Visage based on the opposing damage.
   items: [3143, 3065]
   sources: [wayofthetempesst]
 
 ## Itemization
 
-- Take Lethal Tempo, Absorb Life, Legend: Alacrity, and Cut Down with Second Wind and Overgrowth as the standard page.
+- Take Lethal Tempo, Absorb Life, Legend: Alacrity, and Cut Down with Second Wind and Overgrowth.
   sources: [wayofthetempesst]
 
 - Take Flash and Ignite as the usual lane spells; consider Teleport for top-lane objective pressure, Cleanse into heavy hard crowd control, or Exhaust against burst.

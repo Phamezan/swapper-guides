@@ -53,7 +53,7 @@ sources: [trundledaddy]
 - Convert early lane pressure into a strong side-lane item curve, then turn cleared waves into tower damage that spends enemy players on the answer.
   sources: [trundledaddy]
 
-- Keep choosing between split-push and teamfight by relative side-lane strength, Teleport availability, and the upcoming objective; the guide treats Trundle primarily as a sidelaner.
+- Keep choosing between split-push and teamfight by relative side-lane strength, Teleport availability, and the upcoming objective; play Trundle primarily as a sidelaner.
   sources: [trundledaddy]
 
 ## Itemization
@@ -65,6 +65,6 @@ sources: [trundledaddy]
   items: [3074, 3091, 3181]
   sources: [trundledaddy]
 
-- Vary the panel by game: Black Cleaver against tanks, the safer Trinity Force and Hullbreaker alternate build, Death's Dance, Randuin's Omen, Frozen Heart, Thornmail, Spirit Visage, Overlord's Bloodmail, Force of Nature, Knight's Vow, and Sterak's Gage later, with Boots of Swiftness standard and Plated Steelcaps or Mercury's Treads as defensive swaps.
+- Vary buys by game: Black Cleaver against tanks, the safer Trinity Force and Hullbreaker alternate build, Death's Dance, Randuin's Omen, Frozen Heart, Thornmail, Spirit Visage, Overlord's Bloodmail, Force of Nature, Knight's Vow, and Sterak's Gage later, with Boots of Swiftness standard and Plated Steelcaps or Mercury's Treads as defensive swaps.
   items: [3071, 3078, 3181, 6333, 3143, 3110, 3075, 3065, 2501, 4401, 3109, 3053, 3009, 3047, 3111]
   sources: [trundledaddy]

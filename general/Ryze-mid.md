@@ -54,7 +54,7 @@ sources: [youngryze]
   sources: [youngryze]
   abilities: [Ryze.R]
 
-- Treat Actualizer as the late one-versus-two multiplier from the guide's training-dummy comparison of Q-W-E-Q, using it as a power spike rather than an excuse to fight while behind.
+- Treat Actualizer as the late one-versus-two multiplier on the Q-W-E-Q combo, using it as a power spike rather than an excuse to fight while behind.
   items: [2522]
   sources: [youngryze]
   abilities: [Ryze.Q, Ryze.W, Ryze.E]
@@ -65,6 +65,6 @@ sources: [youngryze]
   items: [2522, 3089]
   sources: [youngryze]
 
-- Take Blackfire Torch as a late option and Warmog's Armor, Frozen Heart, Zhonya's Hourglass, Cryptbloom, or Cosmic Drive for the last slot; the alternate Rod of Ages route exists, though the author prefers Seraph's first for earlier haste and damage.
+- Take Blackfire Torch as a late option and Warmog's Armor, Frozen Heart, Zhonya's Hourglass, Cryptbloom, or Cosmic Drive for the last slot; the alternate Rod of Ages route exists, though Seraph's first gives earlier haste and damage.
   items: [2503, 3083, 3110, 3157, 3137, 4629, 6657]
   sources: [youngryze]

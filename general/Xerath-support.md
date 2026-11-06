@@ -80,7 +80,7 @@ sources: [mobalytics-xerath-support, mobalytics-xerath-support-build]
   items: [3871, 3020, 6655, 4645, 3089]
   sources: [mobalytics-xerath-support-build]
 
-- Start with Health Potion, Amplifying Tome, and Stealth Ward as the displayed early purchases.
+- Start with Health Potion, Amplifying Tome, and Stealth Ward.
   items: [2003, 1052, 3340]
   sources: [mobalytics-xerath-support-build]
 

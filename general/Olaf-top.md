@@ -68,6 +68,6 @@ sources: [1kinglol]
   items: [1055, 1054, 2003]
   sources: [1kinglol]
 
-- Rush Ravenous Hydra, then take Blade of the Ruined King or Wit's End by matchup, with Infinity Edge or Lord Dominik's Regards as swaps; the ranged-opponent panel opens Ravenous Hydra into Experimental Hexplate.
+- Rush Ravenous Hydra, then take Blade of the Ruined King or Wit's End by matchup, with Infinity Edge or Lord Dominik's Regards as swaps; into ranged opponents, open Ravenous Hydra into Experimental Hexplate.
   items: [3074, 3091, 3031, 3036, 3073]
   sources: [1kinglol]

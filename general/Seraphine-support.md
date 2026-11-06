@@ -55,7 +55,7 @@ sources: [scottysseus]
 
 ## Win condition
 
-- The author favors damage and crowd control over a dedicated healing-and-shielding setup, aiming to contribute more directly to picks.
+- Favor damage and crowd control over a dedicated healing-and-shielding setup, to contribute more directly to picks.
   sources: [scottysseus]
 
 - Follow a successful Beat Drop root or stun with team damage, and use Encore to swing a clustered fight rather than casting it without setup.

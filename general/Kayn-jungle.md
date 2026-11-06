@@ -93,7 +93,7 @@ sources: [ractickttv]
 
 ## Itemization
 
-- Run blue on Dark Harvest with Sudden Impact, Grisly Mementos, and Treasure Hunter plus Cash Back and Cosmic Insight as the current panel.
+- Run blue form on Dark Harvest with Sudden Impact, Grisly Mementos, and Treasure Hunter plus Cash Back and Cosmic Insight.
   sources: [ractickttv]
 
 - Run red on Conqueror with Triumph, Legend: Haste, and Last Stand plus Axiom Arcanist and Transcendence for long fights and ultimate value.

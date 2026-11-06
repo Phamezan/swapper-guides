@@ -67,7 +67,7 @@ sources: [houcs]
   sources: [houcs]
   abilities: [Irelia.R, Irelia.E, Irelia.Q]
 
-- Play carefully into the difficult control and armor teams the guide flags.
+- Play carefully into difficult control and armor teams.
   sources: [houcs]
 
 ## Win condition
@@ -88,7 +88,7 @@ sources: [houcs]
 - Run Conqueror with Triumph, Legend: Alacrity, and Last Stand plus Bone Plating and Unflinching.
   sources: [houcs]
 
-- Swap Resolve to Second Wind and Overgrowth on the alternate page into ranged opponents.
+- Swap Resolve to Second Wind and Overgrowth into ranged opponents.
   sources: [houcs]
 
 - Take Flash and Teleport for top lane.

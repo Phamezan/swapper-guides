@@ -90,6 +90,6 @@ sources: [nyrolol, prestigegalaxy]
   items: [3100, 3175, 4645, 3089, 3157, 3135]
   sources: [prestigegalaxy]
 
-- Treat Nyro's 26.16 panel of Hextech Gunblade and Gluttonous Greaves into Nashor's Tooth, Zhonya's Hourglass, Shadowflame, Rabadon's Deathcap, and Void Staff as the alternate item set.
+- Take Hextech Gunblade and Gluttonous Greaves into Nashor's Tooth, Zhonya's Hourglass, Shadowflame, Rabadon's Deathcap, and Void Staff as the alternate item set.
   items: [3146, 3008, 3115, 3157, 4645, 3089, 3135]
   sources: [nyrolol]

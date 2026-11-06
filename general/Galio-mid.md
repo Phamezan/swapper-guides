@@ -80,7 +80,7 @@ sources: [hexeria]
 - Run Aftershock with Shield Bash, Second Wind, and Overgrowth, plus Nimbus Cloak and Transcendence.
   sources: [hexeria]
 
-- Recommend Abyssal Mask, Mercury's Treads, Imperial Mandate, Zhonya's Hourglass, Riftmaker, and Jak'Sho on the panel.
+- Build Abyssal Mask, Mercury's Treads, Imperial Mandate, Zhonya's Hourglass, Riftmaker, and Jak'Sho.
   items: [8020, 3111, 4005, 3157, 4633]
   sources: [hexeria]
 
