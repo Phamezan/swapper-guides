@@ -323,7 +323,7 @@ lanes:
       sources:
         - name: "Reptile"
           url: "https://reptile9.lol/contents/soloq-adc-tierlist-patch-26-22-ft5vy3p8"
-        - name: "루티아 (Rutia)"
+        - name: "ë£¨í‹°ì•„ (Rutia)"
           url: "https://www.youtube.com/@LUTIA"
         - name: "Crownie / Crownshot"
           url: "https://www.youtube.com/@crownielol123"
@@ -356,7 +356,7 @@ lanes:
     - champion: "Varus"
       reason: "Flexible builds and ranged poke adapt to drafts; his ultimate adds peel and picks."
       sources:
-        - name: "루티아 (Rutia)"
+        - name: "ë£¨í‹°ì•„ (Rutia)"
           url: "https://www.youtube.com/@LUTIA"
         - name: "xFSN Saber"
           url: "https://www.youtube.com/@xFSNSaber"
@@ -392,7 +392,7 @@ lanes:
     - champion: "Kai'Sa"
       reason: "Mobility, a repositioning shield and flexible builds help her adapt to enemy drafts."
       sources:
-        - name: "루티아 (Rutia)"
+        - name: "ë£¨í‹°ì•„ (Rutia)"
           url: "https://www.youtube.com/@LUTIA"
         - name: "Doublelift"
           url: "https://www.youtube.com/"
@@ -426,7 +426,7 @@ lanes:
           url: "https://www.youtube.com/@CoachCupcake"
         - name: "r/supportlol High-Elo Community"
           url: "https://www.reddit.com/r/supportlol/comments/1fhs0p4/blind_pick/"
-        - name: "* Will Burton / PicklePants"
+        - name: "Will Burton / PicklePants"
           url: "https://mobalytics.gg/blog/best-blind-pick-champions-league-of-legends/"
     - champion: "Karma"
       reason: "Early push and poke secure space; team shields and speed provide disengage later."
@@ -497,12 +497,13 @@ lanes:
           url: "https://www.youtube.com/@ShoDesu"
         - name: "r/supportlol Contributors"
           url: "https://www.reddit.com/r/supportlol/"
+    # The report also cites Stunt here, but supplies no URL for that citation.
     - champion: "Braum"
       reason: "Projectile shielding and a defensive stun help his carry farm through lane pressure."
       sources:
         - name: "Skill Capped LoL Guides"
           url: "https://www.youtube.com/watch?v=AUZIYQEgaFxPE3-tdSp2QpPkHROzGlkzi2dGtMGdLLEY6jLH_IyWILK7XPHNkXoCv7TBAg2fzqyccc9wKsRnIcAi7G9KJlnUmZDSigWKLIRwLzMgrL9AMOlYgTWJ6XkvYmD-pXQ="
-        - name: "* CoreJJ"
+        - name: "CoreJJ"
           url: "https://www.youtube.com/@CoreJJ"
     - champion: "Alistar"
       reason: "Sustain and ultimate durability preserve frontline value; roaming bypasses bad lanes."
@@ -511,5 +512,5 @@ lanes:
           url: "https://www.mobafire.com"
         - name: "Coach Cupcake"
           url: "https://www.youtube.com/@CoachCupcake"
-        - name: "* Will Burton / PicklePants"
+        - name: "Will Burton / PicklePants"
           url: "https://mobalytics.gg/blog/best-blind-pick-champions-league-of-legends/"
