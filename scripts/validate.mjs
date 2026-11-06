@@ -22,6 +22,12 @@ export function namedAbilities(text, participants) {
 }
 
 export const LANES = ['top', 'jungle', 'mid', 'adc', 'support'];
+const RANKS = ['iron', 'bronze', 'silver', 'gold', 'platinum', 'emerald', 'diamond', 'master', 'grandmaster', 'challenger'];
+
+export function authorRank(source, loc) {
+  if (Object.hasOwn(source, 'rank') && !RANKS.includes(source.rank)) fail(loc, `rank must be one of ${RANKS.join(', ')}`);
+  if (Object.hasOwn(source, 'peak') && source.peak !== true) fail(loc, 'peak must be true when present');
+}
 const HOSTS = new Set(['mobafire.com', 'www.mobafire.com', 'docs.google.com', 'youtube.com', 'www.youtube.com', 'youtu.be', 'reddit.com', 'www.reddit.com', 'old.reddit.com', 'lolmatchups.gg', 'www.inven.co.kr', 'talk.op.gg', 'mobalytics.gg', 'riven.saltyy.at']);
 
 export function fields(value, required, optional, loc) {

@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto';
 import { parseMarkdown, yaml, fail, SECTION_LABELS } from './markdown.mjs';
-import { fields, plain, patch, ids, sourceUrl, championMap, championId, compileTip, LANES } from './validate.mjs';
+import { fields, plain, patch, ids, sourceUrl, championMap, championId, compileTip, LANES, authorRank } from './validate.mjs';
 
 const REQUIRED = ['champion', 'enemy', 'lane', 'patch', 'reviewed', 'difficulty', 'favoredWhen', 'sources'];
 const GENERAL_REQUIRED = ['champion', 'lane', 'patch', 'reviewed', 'sources'];
@@ -15,7 +15,8 @@ function readAuthors(text) {
   const sources = new Map();
   for (const [index, source] of document.value.entries()) {
     const at = document.at(index);
-    fields(source, ['id', 'author', 'rankClaim', 'url', 'kind'], [], at);
+    fields(source, ['id', 'author', 'rankClaim', 'url', 'kind'], ['rank', 'peak'], at);
+    authorRank(source, at);
     ids([source.id], at, 'author id');
     if (sources.has(source.id)) fail(at, `duplicate author id ${source.id}`);
     plain(source.author, at, 'author');
