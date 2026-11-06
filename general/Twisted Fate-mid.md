@@ -60,7 +60,7 @@ sources: [jammed]
 
 ## Win condition
 
-- Protect carries with Gold Card when an enemy diver reaches them; the written role is pick setup and map pressure, not frontline damage.
+- Protect carries with Gold Card when an enemy diver reaches them; focus on pick setup and map pressure rather than frontline damage.
   sources: [jammed]
   abilities: [Twisted Fate.W]
 

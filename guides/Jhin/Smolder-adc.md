@@ -11,7 +11,7 @@ sources: [antiwis, yunfang, omibro]
 
 ## Key tips
 
-- This is the best matchup on the board. Crush him from level 1 and never give him a free wave.
+- This is a favorable matchup. Crush him from level 1 and never give him a free wave.
   sources: [antiwis]
   patch: "26.21"
 

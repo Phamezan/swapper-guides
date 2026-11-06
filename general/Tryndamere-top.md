@@ -68,7 +68,7 @@ sources: [mobalytics-tryndamere-top, mobalytics-tryndamere-top-build]
 
 ## Itemization
 
-- Take Hail of Blades, Sudden Impact, Grisly Mementos, and Treasure Hunter, plus Last Stand and Legend: Alacrity, adjusting if the matchup calls for another listed setup.
+- Take Hail of Blades, Sudden Impact, Grisly Mementos, and Treasure Hunter, plus Last Stand and Legend: Alacrity, adjusting if the matchup calls for another setup.
   sources: [mobalytics-tryndamere-top-build]
 
 - Build the popular item path of Ravenous Hydra, Berserker's Greaves, Phantom Dancer, Infinity Edge, and Lord Dominik's Regards.

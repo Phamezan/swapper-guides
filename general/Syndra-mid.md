@@ -26,7 +26,7 @@ sources: [shok]
 - Play for a lead through CS first and a solo kill second, using Syndra's strong lane and scaling rather than forcing constant fights.
   sources: [shok]
 
-- Keep the combo chapter's video sequences as reference, but in lane prioritize the two-sphere E stun into the level-six burst as the core written pattern.
+- In lane, prioritize the two-sphere E stun into the level-six burst.
   sources: [shok]
   abilities: [Syndra.E, Syndra.R]
 

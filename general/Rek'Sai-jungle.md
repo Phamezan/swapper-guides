@@ -60,7 +60,7 @@ sources: [lordgrox]
   sources: [lordgrox]
   abilities: [Rek'Sai.R, Rek'Sai.W]
 
-- For jungle macro beyond fixed routes, study early-game paths and enemy camp tracking through play or coaching, since no written page covers every game state.
+- For jungle macro beyond fixed routes, study early-game paths and enemy camp tracking through play or coaching.
   sources: [lordgrox]
 
 ## Itemization
@@ -68,6 +68,6 @@ sources: [lordgrox]
 - Choose the identity first: bruiser trades some burst for health and skirmish durability, while the crit path makes picks deadlier but leaves Rek'Sai vulnerable to crowd control.
   sources: [lordgrox]
 
-- Build around Titanic Hydra as the common core, taking Spear of Shojin first on bruiser when the game fits; the listed bruiser core adds Sterak's Gage, Death's Dance, and Overlord's Bloodmail as a May 2026 snapshot.
+- Build around Titanic Hydra as the common core, taking Spear of Shojin first on bruiser when the game fits; the bruiser core adds Sterak's Gage, Death's Dance, and Overlord's Bloodmail as a May 2026 snapshot.
   items: [3748, 3161, 3053, 6333, 2501]
   sources: [lordgrox]

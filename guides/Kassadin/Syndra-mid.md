@@ -14,7 +14,7 @@ sources: [shok]
 - She crushes early, you take over later: the clock runs for you.
   sources: [shok]
 
-- She builds a big early lead: Comet plus TP is the page, so respect it.
+- She builds a big early lead with Comet and Teleport, so respect her early pressure.
   sources: [shok]
 
 - She punishes every walkup: your melee range is her Q range, so concede.

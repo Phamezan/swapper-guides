@@ -71,7 +71,7 @@ sources: [mobalytics-kled, mobalytics-kled-build]
 - Run Flash and Ignite with Conqueror, Triumph, Legend: Alacrity, and Last Stand plus Bone Plating and Demolish, tuning the defensive shard to the lane.
   sources: [mobalytics-kled-build]
 
-- Order Titanic Hydra, Plated Steelcaps, Black Cleaver, Overlord's Bloodmail, Sterak's Gage, and Hullbreaker on the 26.21 popular page while maxing Q before W then E.
+- Build Titanic Hydra, Plated Steelcaps, Black Cleaver, Overlord's Bloodmail, Sterak's Gage, and Hullbreaker for patch 26.21 while maxing Q before W then E.
   items: [3748, 3047, 3071, 2501, 3053, 3181]
   sources: [mobalytics-kled-build]
   abilities: [Kled.Q, Kled.W, Kled.E]

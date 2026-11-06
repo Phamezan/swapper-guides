@@ -75,5 +75,5 @@ sources: [kayle1v9]
   items: [3087, 3115]
   sources: [kayle1v9]
 
-- Take Flash and Teleport for the listed top setup.
+- Take Flash and Teleport for the top-lane setup.
   sources: [kayle1v9]

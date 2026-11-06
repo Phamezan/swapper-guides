@@ -84,7 +84,7 @@ sources: [mobalytics-elise]
 
 ## Itemization
 
-- Rush the first finished item as the major kill-pressure spike the page describes without naming it.
+- Rush the first finished item for a major kill-pressure spike.
   sources: [mobalytics-elise]
 
 - Protect Blue buff as the resource plan, since its loss means fewer casts and open invasions.

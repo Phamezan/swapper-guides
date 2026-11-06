@@ -28,7 +28,7 @@ sources: [shok, trisend3]
 - She concedes gold for HP: zone her off both.
   sources: [shok]
 
-- She takes Bone Plating and plays safe: the page blunts your spikes, so stack through.
+- She takes Bone Plating and plays safe to blunt your spikes, so stack through.
   sources: [trisend3]
 
 ## Mid lane

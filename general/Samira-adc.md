@@ -39,7 +39,7 @@ sources: [v1gorous1-samira]
 - Follow allied crowd control rather than being the first champion to engage; Samira is burst-oriented but punished fast when she dives alone.
   sources: [v1gorous1-samira]
 
-- Build style with the two listed sequences, auto into E-Q into auto into W into auto, or the faster auto into W-one into E-Q into W-two into auto.
+- Build style with either sequence: auto into E-Q into auto into W into auto, or the faster auto into W-one into E-Q into W-two into auto.
   sources: [v1gorous1-samira]
   abilities: [Samira.Q, Samira.W, Samira.E]
 

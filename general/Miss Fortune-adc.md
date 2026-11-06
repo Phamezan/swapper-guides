@@ -40,7 +40,7 @@ sources: [misterfirstblood-mf]
   sources: [misterfirstblood-mf]
   abilities: [Miss Fortune.E, Miss Fortune.R]
 
-- Hold extra distance from assassins and divers as the flagged main weakness with low mobility.
+- Hold extra distance from assassins and divers because your low mobility leaves you vulnerable.
   sources: [misterfirstblood-mf]
 
 ## Win condition

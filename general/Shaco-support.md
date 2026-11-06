@@ -73,6 +73,6 @@ sources: [fearthejester]
 - Run Arcane Comet, Axiom Arcanist, Transcendence, Gathering Storm, Legend: Haste, and Last Stand with Ignite and Teleport, as a specialized damage and control setup.
   sources: [fearthejester]
 
-- Build the high-haste AP list of Zaz'Zak's Realmspike, Imperial Mandate, Malignance, Cryptbloom, Rabadon's Deathcap, and Mejai's Soulstealer for that same specialized control role.
+- Build Zaz'Zak's Realmspike, Imperial Mandate, Malignance, Cryptbloom, Rabadon's Deathcap, and Mejai's Soulstealer for high-haste AP control.
   items: [3871, 4005, 3118, 3137, 3089, 3041]
   sources: [fearthejester]

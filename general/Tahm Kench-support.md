@@ -70,9 +70,9 @@ sources: [luffrey]
 - Take Grasp of the Undying, Shield Bash, Second Wind, Unflinching, Triumph, and Legend: Alacrity as the standard rune page.
   sources: [luffrey]
 
-- Take Flash and Ignite as the listed summoner spells.
+- Take Flash and Ignite as summoner spells.
   sources: [luffrey]
 
-- In the heavy attack-damage example, add Unending Despair, Spirit Visage, Dusk and Dawn, and Rabadon's Deathcap after the earlier armor and tank choices.
+- Against heavy attack damage, add Unending Despair, Spirit Visage, Dusk and Dawn, and Rabadon's Deathcap after armor and tank items.
   items: [2502, 3065, 2510, 3089]
   sources: [luffrey]

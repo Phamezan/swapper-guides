@@ -28,7 +28,7 @@ sources: [shok, trisend3]
 - Not dying matters more than CS: concede gold, never HP.
   sources: [shok]
 
-- Take Bone Plating and play safe: the page blunts her spikes.
+- Take Bone Plating and play safe to blunt her spikes.
   sources: [trisend3]
 
 ## Mid lane

@@ -73,7 +73,7 @@ sources: [antiwis]
 - Run Fleet Footwork with Presence of Mind, Legend: Bloodline, and Coup de Grace plus Cash Back and Triple Tonic.
   sources: [antiwis]
 
-- Take Barrier and Flash as the listed summoners.
+- Take Barrier and Flash as summoner spells.
   sources: [antiwis]
 
 - Build Stormrazor into Infinity Edge, Rapid Firecannon, Lord Dominik's Regards, Bloodthirster, and Guardian Angel on one path.

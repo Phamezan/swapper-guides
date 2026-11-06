@@ -79,7 +79,7 @@ sources: [arthapsic]
   items: [1056, 1054, 3115]
   sources: [arthapsic]
 
-- Finish Nashor's Tooth, Ionian Boots of Lucidity, Rabadon's Deathcap, Shadowflame, Void Staff, and Zhonya's Hourglass, with Riftmaker as the shown alternative.
+- Finish Nashor's Tooth, Ionian Boots of Lucidity, Rabadon's Deathcap, Shadowflame, Void Staff, and Zhonya's Hourglass, with Riftmaker as an alternative.
   items: [3115, 3158, 3089, 4645, 3135, 3157, 4633]
   sources: [arthapsic]
 

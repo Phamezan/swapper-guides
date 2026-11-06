@@ -123,7 +123,7 @@ sources: [softheadpats]
   sources: [softheadpats]
   abilities: [Hwei.Q]
 
-- Follow the example page of Blackfire Torch, Spellslinger's Shoes, Shadowflame, Cryptbloom, Zhonya's Hourglass, and Rabadon's Deathcap.
+- Build Blackfire Torch, Spellslinger's Shoes, Shadowflame, Cryptbloom, Zhonya's Hourglass, and Rabadon's Deathcap.
   items: [2503, 3175, 4645, 3137, 3157, 3089]
   sources: [softheadpats]
 

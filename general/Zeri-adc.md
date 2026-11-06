@@ -63,10 +63,9 @@ sources: [junniseoul]
   items: [1086, 3032, 3031, 3036, 2523, 3006, 2517, 3072, 3026]
   sources: [junniseoul]
 
-- Take the safer alternative of Yun Tal Wildarrows, Runaan's Hurricane, Infinity Edge, and Gluttonous Greaves before situational armor penetration and late picks; treat the Q-W-E ability order as ambiguous since the page also emphasizes maxing W, and do not lock a firm max order from it.
+- Take the safer alternative of Yun Tal Wildarrows, Runaan's Hurricane, Infinity Edge, and Gluttonous Greaves before situational armor penetration and late picks.
   items: [3032, 3085, 3031, 3008]
   sources: [junniseoul]
-  abilities: [Zeri.Q, Zeri.W, Zeri.E]
 
 - Keep Mortal Reminder for armor penetration, Mercurial Scimitar for cleanse, Edge of Night or Serpent's Fang by game, and Zhonya's Hourglass, Maw of Malmortius, Death's Dance, or Spirit Visage as defensive options.
   items: [3033, 3139, 3814, 6695, 3157, 3156, 6333, 3065]

@@ -78,7 +78,7 @@ sources: [granmuhh]
 
 ## Itemization
 
-- Run Conqueror with Triumph, Legend: Alacrity, and Coup de Grace, plus Absolute Focus and Gathering Storm as shown.
+- Run Conqueror with Triumph, Legend: Alacrity, and Coup de Grace, plus Absolute Focus and Gathering Storm.
   sources: [granmuhh]
 
 - Build Vampiric Scepter into Berserker's Greaves, The Collector, Bloodthirster, Lord Dominik's Regards, and Infinity Edge.

@@ -11,7 +11,7 @@ sources: [pumptm]
 
 ## Key tips
 
-- A Rank-1 LeBlanc picks Viktor into her: the matchup is yours.
+- The matchup favors Viktor.
   sources: [pumptm]
 
 - Run Bone Plating: it blunts her opener.

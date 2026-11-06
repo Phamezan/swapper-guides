@@ -32,7 +32,6 @@ sources: [heywil]
 
 - Wave control decides this lane. Freeze on him and you dictate trades; let waves push to you badly and he dives with Undying Rage and snowballs.
   sources: [heywil]
-  heading: Wave control
   abilities: [Tryndamere.R]
 
 - If he freezes on you, consider proxying. Breaking his freeze behind his turret beats walking into his spin range and donating a dive setup.

@@ -88,6 +88,6 @@ sources: [bullwhipgriffin]
   items: [3065, 2504]
   sources: [bullwhipgriffin]
 
-- Start the alternate AP page on Nashor's Tooth, Sorcerer's Shoes, Rabadon's Deathcap, and Zhonya's when Diana can survive the entry and the team needs damage.
+- Start the alternate AP build on Nashor's Tooth, Sorcerer's Shoes, Rabadon's Deathcap, and Zhonya's when Diana can survive the entry and the team needs damage.
   items: [3115, 3020, 3089]
   sources: [bullwhipgriffin]

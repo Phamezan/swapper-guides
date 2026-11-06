@@ -27,7 +27,7 @@ sources: [allyooops, deylan]
   sources: [deylan]
   abilities: [Qiyana.W]
 
-- Use the listed openers: E into auto, grass Q, W, water Q, or water Q into W and stone Q; the full all-in adds autos and Ignite around stone Q into W and stone Q.
+- Use these openers: E into auto, grass Q, W, water Q, or water Q into W and stone Q; the full all-in adds autos and Ignite around stone Q into W and stone Q.
   sources: [deylan]
   abilities: [Qiyana.Q, Qiyana.W, Qiyana.E]
 

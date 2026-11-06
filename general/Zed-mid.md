@@ -30,7 +30,7 @@ sources: [aikopanda]
 - Track the enemy jungler and use fog of war to keep Zed's location uncertain before choosing each play.
   sources: [aikopanda]
 
-- Open Doran's Blade for the standard setup or Doran's Shield into poke, with Pickaxe, Long Sword, and Refillable Potion as the shown first-buy components.
+- Open Doran's Blade for the standard setup or Doran's Shield into poke, with Pickaxe, Long Sword, and Refillable Potion as first-buy components.
   items: [1055, 1054, 1037, 1036, 2031]
   sources: [aikopanda]
 

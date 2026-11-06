@@ -94,6 +94,6 @@ sources: [iverngott]
   items: [6620, 3109]
   sources: [iverngott]
 
-- Take the separate AP page of Cosmic Drive, Lich Bane, Rabadon's Deathcap, and Zhonya's Hourglass when the team needs damage and the selfish build survives.
+- Take the AP build of Cosmic Drive, Lich Bane, Rabadon's Deathcap, and Zhonya's Hourglass when the team needs damage and the selfish build survives.
   items: [4629, 3100, 3089, 3157]
   sources: [iverngott]

@@ -43,7 +43,7 @@ sources: [aikopanda, v222]
 
 ## Win condition
 
-- After Voltaic, keep punishing his engages the same way: the pattern does not change.
+- After Voltaic, keep punishing his engages.
   sources: [aikopanda]
 
 ## Itemization
