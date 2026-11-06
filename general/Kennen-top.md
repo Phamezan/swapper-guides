@@ -51,7 +51,7 @@ sources: [guest-652087]
 
 ## Win condition
 
-- Call each fight between protecting carries and diving the enemy backline, since the guide assigns both jobs late.
+- Call each fight between protecting carries and diving the enemy backline; both jobs matter late.
   sources: [guest-652087]
 
 - Expect hard games into tanks, heavy shields, and teams with reliable disengage or vision.

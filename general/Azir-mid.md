@@ -64,7 +64,7 @@ sources: [bodythosefools]
 
 ## Itemization
 
-- Build Liandry's Torment into Sorcerer's Shoes, Nashor's Tooth, Void Staff, Rabadon's Deathcap, and Zhonya's Hourglass, with Banshee's Veil in the panel.
+- Build Liandry's Torment into Sorcerer's Shoes, Nashor's Tooth, Void Staff, Rabadon's Deathcap, and Zhonya's Hourglass, with Banshee's Veil as an option.
   items: [6653, 3020, 3115, 3135, 3089, 3157, 3102]
   sources: [bodythosefools]
 

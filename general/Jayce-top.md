@@ -64,5 +64,5 @@ sources: [mobalytics-jayce]
 
 ## Itemization
 
-- Track rising poke strength with item components while watching mana needs, since the page names no item or rune setup.
+- Track rising poke strength with item components while watching mana needs.
   sources: [mobalytics-jayce]

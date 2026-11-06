@@ -65,7 +65,7 @@ sources: [wayofthetempesst]
 
 ## Itemization
 
-- Open Doran's Blade into melee lanes and Doran's Shield with Second Wind into ranged poke; treat the panel's Press the Attack claim against its Lethal Tempo, Absorb Life, Legend: Alacrity, Cut Down, Second Wind, Overgrowth listing as an unreconciled rune recommendation.
+- Open Doran's Blade into melee lanes and Doran's Shield with Second Wind into ranged poke; run Lethal Tempo, Absorb Life, Legend: Alacrity, Cut Down, Second Wind, and Overgrowth.
   items: [1055, 1054]
   sources: [wayofthetempesst]
 

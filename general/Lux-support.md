@@ -50,7 +50,7 @@ sources: [guest-653465, henrysjg]
 - Bind and burst squishy targets, then leave on movement speed before opponents turn back.
   sources: [guest-653465]
 
-- Check the team needs an AP damage support before locking Lux, as the guide frames composition first.
+- Check the team needs an AP damage support before locking Lux; composition comes first.
   sources: [guest-653465]
 
 - Snowball early leads and close before prolonged fights, where she fades.

@@ -56,7 +56,7 @@ sources: [ozneviik]
 
 ## Win condition
 
-- Spike on Stridebreaker first: the guide calls Zaahen especially strong with two items and increasingly threatening with a timely third or fourth.
+- Spike on Stridebreaker first: Zaahen is especially strong with two items and increasingly threatening with a timely third or fourth.
   items: [6631]
   sources: [ozneviik]
 

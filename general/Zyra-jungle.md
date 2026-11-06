@@ -38,7 +38,7 @@ sources: [dabloondemon]
   sources: [dabloondemon]
   abilities: [Zyra.W]
 
-- Attack the lowest-health small monster when possible to earn the guide's W cooldown refund, and leave camps to plants once they can safely finish the remaining monsters.
+- Attack the lowest-health small monster when possible to earn the W cooldown refund, and leave camps to plants once they can safely finish the remaining monsters.
   sources: [dabloondemon]
   abilities: [Zyra.W]
 
@@ -77,5 +77,5 @@ sources: [dabloondemon]
 
 ## Itemization
 
-- Spend on the tempo identity: clear speed, range, objective pressure, and disengage matter more than dueling stats, matching the author's non-high-elo tempo framing.
+- Spend on the tempo identity: clear speed, range, objective pressure, and disengage matter more than dueling stats.
   sources: [dabloondemon]

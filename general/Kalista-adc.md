@@ -68,5 +68,5 @@ sources: [mobalytics-kalista]
 
 ## Itemization
 
-- Chase core items while guarding kiting space with positioning, since the page names no item build or rune setup.
+- Chase core items while guarding kiting space with positioning.
   sources: [mobalytics-kalista]

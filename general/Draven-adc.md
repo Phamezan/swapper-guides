@@ -89,5 +89,5 @@ sources: [granmuhh]
   items: [1053, 3134, 3031]
   sources: [granmuhh]
 
-- Take Cleanse and Flash as the displayed summoners.
+- Take Cleanse and Flash.
   sources: [granmuhh]

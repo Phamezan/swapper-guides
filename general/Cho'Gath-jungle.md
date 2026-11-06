@@ -35,7 +35,7 @@ sources: [mobalytics-chogath]
   sources: [mobalytics-chogath]
   abilities: [Cho'Gath.Q, Cho'Gath.W]
 
-- Treat early ganking as situational: the game plan wants level-3 ganks, while the spike section says farm to level 6.
+- Treat early ganking as situational: look for level-3 ganks, but farm to level 6 when no gank is there.
   sources: [mobalytics-chogath]
 
 ## Mid lane

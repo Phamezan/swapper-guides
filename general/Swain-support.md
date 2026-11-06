@@ -52,7 +52,7 @@ sources: [kaziz]
   sources: [kaziz]
   abilities: [Swain.R]
 
-- Swain can fit tank, bruiser, utility-mage, or damage-mage roles, but the guide favors having another frontliner on the team.
+- Swain can fit tank, bruiser, utility-mage, or damage-mage roles, but have another frontliner on the team.
   sources: [kaziz]
 
 ## Win condition
@@ -60,7 +60,7 @@ sources: [kaziz]
 - Avoid being the only frontline; Swain's sustain is less useful if the entire enemy team can focus him before he acts.
   sources: [kaziz]
 
-- In lower-ranked games the guide sees support Swain as a carry option, while still relying on crowd control and team follow-up.
+- In lower-ranked games support Swain works as a carry option, while still relying on crowd control and team follow-up.
   sources: [kaziz]
 
 - Use Vision of Empire to zone exits and Nevermove to catch grouped enemies, then stay near them with Demonic Ascension to sustain and pressure through the fight.

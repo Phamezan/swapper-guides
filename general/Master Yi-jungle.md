@@ -59,7 +59,7 @@ sources: [bobthedodo]
 - Into multiple tanks, fight sustained front-to-back with Lethal Tempo instead of diving past the line.
   sources: [bobthedodo]
 
-- Farm into item spikes with no safe target around; the guide offers no objective-timing or vision setup.
+- Farm into item spikes with no safe target around.
   sources: [bobthedodo]
 
 - While losing, skip forced isolated duels into control and keep the standard build over the snowball-only crit route.
@@ -91,12 +91,12 @@ sources: [bobthedodo]
   items: [6672, 3124]
   sources: [bobthedodo]
 
-- Adapt the later panel across Experimental Hexplate, Blade of the Ruined King, Lord Dominik's Regards, Terminus, and Death's Dance instead of buying every option in order.
+- Adapt later buys across Experimental Hexplate, Blade of the Ruined King, Lord Dominik's Regards, Terminus, and Death's Dance instead of buying every option in order.
   items: [3073, 3036, 3302, 6333]
   sources: [bobthedodo]
 
 - Keep crit as the snowball-only option; falling behind strands its fragile recovery.
   sources: [bobthedodo]
 
-- Treat the guide discouragement of first Blade of the Ruined King as author preference without a detailed comparison.
+- Avoid Blade of the Ruined King first.
   sources: [bobthedodo]

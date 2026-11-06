@@ -72,7 +72,7 @@ sources: [infinem]
 
 ## Itemization
 
-- Open Doran's Bow into Yun Tal Wildarrows, Gluttonous Greaves, Runaan's Hurricane, Infinity Edge, Lord Dominik's Regards, Bloodthirster, and Guardian Angel as the displayed crit line.
+- Open Doran's Bow into Yun Tal Wildarrows, Gluttonous Greaves, Runaan's Hurricane, Infinity Edge, Lord Dominik's Regards, Bloodthirster, and Guardian Angel.
   items: [1086, 3032, 3008, 3085, 3031, 3036, 3072, 3026]
   sources: [infinem]
 

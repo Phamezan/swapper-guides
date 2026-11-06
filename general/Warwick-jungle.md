@@ -59,5 +59,5 @@ sources: [chemtechpuppy]
 - Run Press the Attack with Triumph, Legend: Alacrity, and Coup de Grace to burst targets toward the low-health thresholds, with Magical Footwear and Cosmic Insight plus attack speed, adaptive force, and scaling health shards.
   sources: [chemtechpuppy]
 
-- Treat the rune and item panel as a patch 26.14 snapshot: keep the Press the Attack burst setup while rechecking current shop numbers before locking purchases.
+- Keep the Press the Attack burst setup while rechecking current shop numbers before locking purchases; rune and item numbers here are a patch 26.14 snapshot.
   sources: [chemtechpuppy]

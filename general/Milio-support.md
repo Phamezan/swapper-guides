@@ -30,7 +30,7 @@ sources: [ssl, ghostk]
 - Add poke to help the ADC win short trades from outside engage range, never stepping in to force it.
   sources: [ssl]
 
-- Open three ranks in E then max Cozy Campfire, E, and Q as the displayed order.
+- Open three ranks in E then max Cozy Campfire, E, and Q.
   sources: [ssl]
   abilities: [Milio.E, Milio.W, Milio.Q]
 
@@ -79,7 +79,7 @@ sources: [ssl, ghostk]
 - List Summon Aery, Manaflow Band, Transcendence, and Scorch with Biscuit Delivery and Cosmic Insight on KoSa, fitting poke without detailed reasoning.
   sources: [ssl]
 
-- Follow the displayed KoSa path of Echoes of Helia into Ionian Boots of Lucidity, Ardent Censer, and Locket of the Iron Solari without item explanations.
+- Build Echoes of Helia into Ionian Boots of Lucidity, Ardent Censer, and Locket of the Iron Solari.
   items: [6620, 3158, 3504, 3190]
   sources: [ssl]
 

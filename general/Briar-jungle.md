@@ -77,7 +77,7 @@ sources: [loganjg]
 
 ## Itemization
 
-- Run Press the Attack with Triumph, Legend: Haste, and Coup de Grace, plus Sudden Impact and Treasure Hunter on the bruiser page.
+- Run Press the Attack with Triumph, Legend: Haste, and Coup de Grace, plus Sudden Impact and Treasure Hunter.
   sources: [loganjg]
 
 - Rush Titanic Hydra and Black Cleaver on the high-elo bruiser path, then Plated Steelcaps, Endless Hunger, Death's Dance, and Guardian Angel.

@@ -74,12 +74,12 @@ sources: [shokleblanc]
 
 ## Itemization
 
-- Run Electrocute with Sudden Impact, Deep Ward, and Ultimate Hunter plus Manaflow Band and Scorch as displayed.
+- Run Electrocute with Sudden Impact, Deep Ward, and Ultimate Hunter plus Manaflow Band and Scorch.
   sources: [shokleblanc]
 
-- Take Flash and Teleport as the displayed summoners.
+- Take Flash and Teleport.
   sources: [shokleblanc]
 
-- Feature Luden's Echo, Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Zhonya's Hourglass as the guide 26.1 panel rather than a verified 26.21 build.
+- Build Luden's Echo, Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Zhonya's Hourglass.
   items: [6655, 3020, 4645, 3089, 3135, 3157]
   sources: [shokleblanc]

@@ -73,10 +73,10 @@ sources: [cyb3r1a]
 
 ## Itemization
 
-- Run First Strike with Cash Back, Triple Tonic, Cosmic Insight, Bone Plating, and Overgrowth as the configured page.
+- Run First Strike with Cash Back, Triple Tonic, Cosmic Insight, Bone Plating, and Overgrowth.
   sources: [cyb3r1a]
 
-- Build Rod of Ages into Crimson Lucidity, Archangel's Staff, Rylai's Crystal Scepter, Liandry's Torment, and Bloodletter's Curse as the displayed order.
+- Build Rod of Ages into Crimson Lucidity, Archangel's Staff, Rylai's Crystal Scepter, Liandry's Torment, and Bloodletter's Curse.
   items: [6657, 3171, 3003, 3116, 6653, 8010]
   sources: [cyb3r1a]
 
@@ -84,5 +84,5 @@ sources: [cyb3r1a]
   items: [1082, 2031, 3340, 3070, 3803, 1026]
   sources: [cyb3r1a]
 
-- Take Flash and Ghost as the configured summoners.
+- Take Flash and Ghost.
   sources: [cyb3r1a]

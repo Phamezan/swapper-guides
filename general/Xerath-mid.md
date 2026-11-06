@@ -11,7 +11,7 @@ sources: [hofibauer]
 - Prioritize last hits over poke: take poke only when it costs no farm, and recover mana with passive autos, preferring safe champion hits for the larger return.
   sources: [hofibauer]
 
-- Recall toward the guide's twelve-hundred gold first buy for Lost Chapter; when forced back earlier, take Dark Seal to begin collecting stacks.
+- Recall toward a twelve-hundred gold first buy for Lost Chapter; when forced back earlier, take Dark Seal to begin collecting stacks.
   items: [3802, 1082]
   sources: [hofibauer]
 
@@ -33,7 +33,7 @@ sources: [hofibauer]
 
 ## Mid lane
 
-- Protect the mid tower with safe waveclear; the guide values the first mid tower for the map control it gives.
+- Protect the mid tower with safe waveclear; the first mid tower gives important map control.
   sources: [hofibauer]
 
 - When another lane takes mid and Xerath moves to a side lane, clear waves on his own side of the map and rotate back toward mid.

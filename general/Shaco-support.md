@@ -70,7 +70,7 @@ sources: [fearthejester]
 
 ## Itemization
 
-- Run the author's True Demon page of Arcane Comet, Axiom Arcanist, Transcendence, Gathering Storm, Legend: Haste, and Last Stand with Ignite and Teleport, as this plan's specialized damage and control setup.
+- Run Arcane Comet, Axiom Arcanist, Transcendence, Gathering Storm, Legend: Haste, and Last Stand with Ignite and Teleport, as a specialized damage and control setup.
   sources: [fearthejester]
 
 - Build the high-haste AP list of Zaz'Zak's Realmspike, Imperial Mandate, Malignance, Cryptbloom, Rabadon's Deathcap, and Mejai's Soulstealer for that same specialized control role.

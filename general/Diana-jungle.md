@@ -80,7 +80,7 @@ sources: [bullwhipgriffin]
 - Run the tank page of Conqueror, Triumph, Legend: Haste, and Cut Down with Absolute Focus and Waterwalking.
   sources: [bullwhipgriffin]
 
-- Build Dusk and Dawn into Plated Steelcaps and Riftmaker, then two defenses from Randuin's Omen, Kaenic Rookern, Spirit Visage, Force of Nature, Thornmail, Frozen Heart, and the other listed options.
+- Build Dusk and Dawn into Plated Steelcaps and Riftmaker, then two defenses from Randuin's Omen, Kaenic Rookern, Spirit Visage, Force of Nature, Thornmail, and Frozen Heart.
   items: [2510, 3047, 4633, 3143, 2504, 3065, 4401, 3075, 3110]
   sources: [bullwhipgriffin]
 

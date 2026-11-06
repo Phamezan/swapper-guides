@@ -31,7 +31,7 @@ sources: [auroraaddict]
 - Spend priority on a roam, a jungle invade, or safer vision rather than idling in lane.
   sources: [auroraaddict]
 
-- Trigger Electrocute fast with Q on the displayed page of Electrocute, Sudden Impact, Grisly Mementos, and Ultimate Hunter plus Manaflow Band and Transcendence.
+- Trigger Electrocute fast with Q. Run Electrocute, Sudden Impact, Grisly Mementos, and Ultimate Hunter plus Manaflow Band and Transcendence.
   sources: [auroraaddict]
   abilities: [Aurora.Q]
 

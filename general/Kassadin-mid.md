@@ -62,5 +62,5 @@ sources: [mobalytics-kassadin]
 
 ## Itemization
 
-- Reach first-item and later spikes through safe farming, since the page names no item or rune setup.
+- Reach first-item and later spikes through safe farming.
   sources: [mobalytics-kassadin]

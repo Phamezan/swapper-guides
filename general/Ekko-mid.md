@@ -88,7 +88,7 @@ sources: [osgrewynd]
 - Take Flash and Teleport as the defensive mid summoners.
   sources: [osgrewynd]
 
-- Build Lich Bane, Nashor's Tooth, Rabadon's Deathcap, Void Staff, and Dusk and Dawn as the current standard panel.
+- Build Lich Bane, Nashor's Tooth, Rabadon's Deathcap, Void Staff, and Dusk and Dawn.
   items: [3100, 3115, 3089, 3135, 2510]
   sources: [osgrewynd]
 

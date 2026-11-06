@@ -64,7 +64,7 @@ sources: [manco1, temoonlyifok, persimannon]
 
 ## Itemization
 
-- Rush boots before anything else, with Swifties as the Diamond guide's pick. Movement speed is the whole dodge plan against Q, so complete them before trading with intent.
+- Rush boots before anything else, with Swifties first. Movement speed is the whole dodge plan against Q, so complete them before trading with intent.
   sources: [manco1, temoonlyifok]
 
 - Take Ignite over anything defensive. The post-6 all-in only exists with it, and without it Teemo has no way to answer his R healing in the one fight that matters.

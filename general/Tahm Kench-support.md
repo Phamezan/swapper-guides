@@ -27,7 +27,7 @@ sources: [luffrey]
   sources: [luffrey]
   abilities: [Tahm Kench.W, Tahm Kench.Q, Tahm Kench.R]
 
-- The author recommends a tank build because opponents can underestimate Tahm Kench's damage and durability.
+- Build tank, because opponents can underestimate Tahm Kench's damage and durability.
   sources: [luffrey]
 
 - Commit to the level-three engage only when the carry is positioned to join; the engage is much less useful without follow-up.

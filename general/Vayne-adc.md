@@ -28,7 +28,7 @@ sources: [spook8]
   sources: [spook8]
   abilities: [Vayne.Q]
 
-- Run Presence of Mind because the small mana pool otherwise leaves Vayne unable to cast after E trades; the displayed summoners are Barrier and Flash.
+- Run Presence of Mind because the small mana pool otherwise leaves Vayne unable to cast after E trades; take Barrier and Flash.
   sources: [spook8]
   abilities: [Vayne.E]
 

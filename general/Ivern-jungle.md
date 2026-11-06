@@ -83,7 +83,7 @@ sources: [iverngott]
 - Run Glacial Augment with Cash Back, Triple Tonic, and Cosmic Insight plus Font of Life and Revitalize on the support page.
   sources: [iverngott]
 
-- Take Flash and Smite as the displayed summoners.
+- Take Flash and Smite.
   sources: [iverngott]
 
 - Open Ionian Boots of Lucidity and Dark Seal into Redemption, Moonstone Renewer, and Dawncore, with Mikael's Blessing, Staff of Flowing Water, Ardent Censer, Mejai's Soulstealer, and Knight's Vow as options.

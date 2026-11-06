@@ -63,5 +63,5 @@ sources: [mobalytics-jinx]
 
 ## Itemization
 
-- Reach core items safely on the page plan while managing mana, since it names no item build or rune setup.
+- Reach core items safely while managing mana.
   sources: [mobalytics-jinx]

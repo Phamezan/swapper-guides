@@ -74,11 +74,11 @@ sources: [raideru-darius]
   items: [1055, 1054]
   sources: [raideru-darius]
 
-- Rush Stridebreaker standard, with Trinity Force as the listed alternative.
+- Rush Stridebreaker, with Trinity Force as the alternative.
   items: [6631, 3078]
   sources: [raideru-darius]
 
-- Follow the standard panel of Plated Steelcaps, Dead Man's Plate, Sterak's Gage, Force of Nature, and Jak'Sho, swapping Mercury's Treads or Boots of Swiftness by game.
+- Build Plated Steelcaps, Dead Man's Plate, Sterak's Gage, Force of Nature, and Jak'Sho, swapping Mercury's Treads or Boots of Swiftness by game.
   items: [3047, 3742, 3053, 4401, 3111, 3009]
   sources: [raideru-darius]
 

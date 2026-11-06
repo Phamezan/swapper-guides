@@ -84,7 +84,7 @@ sources: [guest-653683]
 - Run Dark Harvest with Sudden Impact, Grisly Mementos, and Ultimate Hunter, plus Cash Back and Approach Velocity.
   sources: [guest-653683]
 
-- Take Flash and Smite, starting the panel with Gustwalker and Dark Seal.
+- Take Flash and Smite, starting with Gustwalker and Dark Seal.
   items: [1082]
   sources: [guest-653683]
 

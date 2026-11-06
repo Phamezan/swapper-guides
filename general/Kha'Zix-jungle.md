@@ -65,5 +65,5 @@ sources: [mobalytics-khazix]
 
 ## Itemization
 
-- Pick the first evolution and item component around the wanted pick or objective plan, since the page names no item or rune setup.
+- Pick the first evolution and item component around the wanted pick or objective plan.
   sources: [mobalytics-khazix]

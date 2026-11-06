@@ -47,7 +47,7 @@ sources: [lordgrox]
   sources: [lordgrox]
   abilities: [Rek'Sai.W]
 
-- Drill camp kiting and combo execution in Practice Tool, learning how far each camp can be pulled before it resets; that pull distance is the guide's core clear-speed skill.
+- Drill camp kiting and combo execution in Practice Tool, learning how far each camp can be pulled before it resets; that pull distance is the core clear-speed skill.
   sources: [lordgrox]
 
 ## Win condition
