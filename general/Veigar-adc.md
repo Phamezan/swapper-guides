@@ -81,12 +81,15 @@ sources: [mobalytics-veigar-adc, mobalytics-veigar-adc-build]
   sources: [mobalytics-veigar-adc-build]
 
 - Build the popular path of Luden's Echo, Sorcerer's Shoes, Stormsurge, Rabadon's Deathcap, and Zhonya's Hourglass.
+  items: [6655, 3020, 4646, 3089, 3157]
   sources: [mobalytics-veigar-adc-build]
 
 - Start Doran's Ring, a Health Potion, and Stealth Ward.
+  items: [1056, 2003, 3340]
   sources: [mobalytics-veigar-adc-build]
 
 - Choose Banshee's Veil as the fourth-item alternative to Rabadon's against burst damage or key crowd control.
+  items: [3102]
   sources: [mobalytics-veigar-adc-build]
 
 - Max Q, then W, then E, taking Primordial Burst at levels six, eleven, and sixteen.

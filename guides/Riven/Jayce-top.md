@@ -44,6 +44,7 @@ sources: [saltyy, xinkelol]
 ## Mid lane
 
 - Respect Jayce's early lethality purchases, such as Serrated Dirk. Their armor penetration makes physical poke more punishing, so preserve health instead of assuming a level-6 all-in is automatic.
+  items: [3134]
   sources: [saltyy]
 
 - Build ability haste to make delayed Broken Wings trades more frequent. Re-engage when Thundering Blow is actually spent; changing form alone does not consume the knockback cooldown.

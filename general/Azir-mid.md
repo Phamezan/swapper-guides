@@ -65,12 +65,15 @@ sources: [bodythosefools]
 ## Itemization
 
 - Build Liandry's Torment into Sorcerer's Shoes, Nashor's Tooth, Void Staff, Rabadon's Deathcap, and Zhonya's Hourglass, with Banshee's Veil in the panel.
+  items: [6653, 3020, 3115, 3135, 3089, 3157, 3102]
   sources: [bodythosefools]
 
 - Take the Liandry's route into frontline or health stacking, and the Shadowflame route into squishier teams.
+  items: [4645]
   sources: [bodythosefools]
 
 - Buy Seeker's Armguard into Zhonya's Hourglass against dive or attack-damage threats, and Verdant Barrier into Banshee's Veil against crowd control or pick threats.
+  items: [2420, 3157, 4632, 3102]
   sources: [bodythosefools]
 
 - Run the scaling page of Lethal Tempo with Presence of Mind, Legend: Alacrity, and Cut Down, plus Manaflow Band and Gathering Storm.

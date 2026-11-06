@@ -60,7 +60,9 @@ sources: [stean]
 ## Itemization
 
 - Prefer the author's own testing over habit for Unending Despair, and take Frozen Heart when the team lacks that attack-speed defense.
+  items: [2502, 3110]
   sources: [stean]
 
 - Hold Dark Seal without upgrading while the team is not ahead, and buy Mejai's Soulstealer only when the lead looks secure enough to preserve its stacks; take Protoplasm Harness against heavy burst and skip it when the enemy lacks that damage.
+  items: [1082, 3041, 2525]
   sources: [stean]

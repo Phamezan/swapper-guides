@@ -21,6 +21,7 @@ sources: [federals1-darius, houcs]
   abilities: [Irelia.E, Irelia.Q]
 
 - Rush Bramble Vest plus Plated Steelcaps before her Blade of the Ruined King. That window answers her rush; without it, her completed item turns every all-in.
+  items: [3076, 3047]
   sources: [federals1-darius]
   heading: Armor timing
 
@@ -52,6 +53,7 @@ sources: [federals1-darius, houcs]
 ## Win condition
 
 - Stack to five and ult once Spear of Shojin is done. After that spike your stacked trades outscale her burst, so build patiently and finish with the reset.
+  items: [3161]
   sources: [federals1-darius]
   heading: Shojin turn
   abilities: [Darius.R]
@@ -64,4 +66,5 @@ sources: [federals1-darius, houcs]
 ## Itemization
 
 - Open Doran's Blade into Bramble Vest and Plated Steelcaps against her rush, then Stridebreaker into Spear of Shojin and Sterak's Gage.
+  items: [1055, 3076, 3047, 6631, 3161, 3053]
   sources: [federals1-darius]

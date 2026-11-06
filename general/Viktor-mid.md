@@ -47,6 +47,7 @@ sources: [intaggar]
   abilities: [Viktor.E, Viktor.Q]
 
 - Recall into Lost Chapter first, then follow the normal route of Blackfire Torch, boots, Liandry's Torment, Hextech Rocketbelt, Zhonya's Hourglass, Void Staff, and Rabadon's Deathcap; take the Rod of Ages, Rocketbelt, Void Staff, Zhonya's, Rabadon's defensive line or the Lich Bane and Shadowflame burst line by game.
+  items: [3802, 2503, 6653, 3152, 3157, 3135, 3089, 6657, 3100, 4645]
   sources: [intaggar]
 
 ## Win condition
@@ -69,5 +70,6 @@ sources: [intaggar]
 ## Itemization
 
 - Favor Lucidity boots for the cooldown-oriented longer trades and repeated Q use, Sorcerer's Shoes as the general damage option, Plated Steelcaps into physical damage pressure, Mercury's Treads into magic damage and crowd control, and Swifties when extra movement is needed.
+  items: [3020, 3047, 3111]
   sources: [intaggar]
   abilities: [Viktor.Q]

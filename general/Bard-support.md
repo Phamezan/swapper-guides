@@ -64,6 +64,7 @@ sources: [tndd, jesuscirraptor]
 ## Itemization
 
 - List Solstice Sleigh, Ionian Boots of Lucidity, Staff of Flowing Water, Ardent Censer, Redemption, and Moonstone Renewer as the July build panel, which gives no item reasoning.
+  items: [3876, 3158, 6616, 3504, 3107, 6617]
   sources: [jesuscirraptor]
 
 - List Summon Aery, Nimbus Cloak, Transcendence, Gathering Storm, Legend: Haste, and Triumph as the displayed rune page, which gives no rune reasoning.

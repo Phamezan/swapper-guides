@@ -37,6 +37,7 @@ sources: [daltonfresh]
 ## Mid lane
 
 - Buy Oracle Lens after the first recall and use it to pressure bushes and clear river vision.
+  items: [3364]
   sources: [daltonfresh]
 
 - Roam to help mid, assist the jungler around Grubs, or plant deeper vision when the ADC can hold alone; when roaming would expose the ADC, stay to ward entries, cover dragon, or set up the jungler's approach.
@@ -65,7 +66,9 @@ sources: [daltonfresh]
 ## Itemization
 
 - Follow the patch 26.21 meta example of Celestial Opposition, Dark Seal, Ionian Boots of Lucidity, Zeke's Convergence, Bandlepipes, Locket of the Iron Solari, and Knight's Vow, and avoid dying while building Dark Seal's value.
+  items: [3869, 1082, 3158, 3050, 2524, 3190, 3109]
   sources: [daltonfresh]
 
 - Take Celestial Opposition as the default support upgrade with Solstice Sleigh for extra frontline utility; choose Locket, Knight's Vow, Mikael's Blessing, or Shurelya's Battlesong for defense and Oblivion Orb or Imperial Mandate for offense.
+  items: [3869, 3876, 3109, 3222, 2065, 3916, 4005]
   sources: [daltonfresh]

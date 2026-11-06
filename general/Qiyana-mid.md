@@ -47,6 +47,7 @@ sources: [allyooops, deylan]
   sources: [deylan]
 
 - Match the build path to the team's need: the assassin path for burst targets, the Conqueror cooldown path for extended fights, or the scaling path with Muramana, Profane Hydra, Death's Dance, and Serylda's Grudge into several tanks.
+  items: [6698, 6333, 6694]
   sources: [allyooops]
 
 ## Win condition
@@ -69,7 +70,9 @@ sources: [allyooops, deylan]
   sources: [allyooops, deylan]
 
 - Start Doran's Blade with a potion and buy Long Sword, Serrated Dirk, boots, a Control Ward, and Oracle Lens at the first recall.
+  items: [1055, 1036, 3134, 2055, 3364]
   sources: [deylan]
 
 - Build the assassin core of Profane Hydra, Voltaic Cyclosword, Axiom Arc, and Serylda's Grudge; on the Conqueror path start Hubris into Profane Hydra, with Edge of Night, Guardian Angel, Death's Dance, and The Collector as situational picks.
+  items: [6698, 6699, 6696, 6694, 6697, 3814, 3026, 6333, 6676]
   sources: [allyooops, deylan]

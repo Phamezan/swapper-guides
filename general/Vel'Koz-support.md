@@ -77,12 +77,15 @@ sources: [mobalytics-velkoz-support, mobalytics-velkoz-support-build]
   sources: [mobalytics-velkoz-support-build]
 
 - Build the popular path of Zaz'Zak's Realmspike, Sorcerer's Shoes, Luden's Echo, Shadowflame, and Zhonya's Hourglass, followed by Rabadon's Deathcap.
+  items: [3871, 3020, 6655, 4645, 3157, 3089]
   sources: [mobalytics-velkoz-support-build]
 
 - Start with Health Potion, Amplifying Tome, and Stealth Ward as the listed early purchases.
+  items: [2003, 1052, 3340]
   sources: [mobalytics-velkoz-support-build]
 
 - Choose Liandry's Torment to replace Shadowflame in the fourth slot when the enemy team has several tanks.
+  items: [6653, 4645]
   sources: [mobalytics-velkoz-support-build]
 
 - Max Q, then W, then E, taking Life Form Disintegration Ray at levels six, eleven, and sixteen.

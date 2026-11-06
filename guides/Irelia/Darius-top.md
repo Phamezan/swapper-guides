@@ -53,10 +53,12 @@ sources: [houcs, federals1-darius]
 ## Win condition
 
 - Beat him to the item turn. His Bramble Vest plus Steelcaps window answers your rush, so complete Blade of the Ruined King first and run him down before his armor stack lands.
+  items: [3076]
   sources: [federals1-darius]
   heading: Item race
 
 - End fights before five stacks once Spear of Shojin is done. After that spike he looks for five stacks into the ultimate, so take short all-ins and never offer the extended brawl.
+  items: [3161]
   sources: [federals1-darius]
   heading: Post-Shojin rule
   abilities: [Darius.R]

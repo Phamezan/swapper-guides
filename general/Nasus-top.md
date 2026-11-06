@@ -79,10 +79,12 @@ sources: [mobalytics-nasus-top, mobalytics-nasus-top-build]
 ## Itemization
 
 - Build the popular 26.21 core of Trinity Force, Lucidity boots, Frozen Heart, Spirit Visage, and Thornmail.
+  items: [3078, 3110, 3065, 3075]
   sources: [mobalytics-nasus-top-build]
 
 - Take Fleet Footwork, Triumph, Legend: Haste, Last Stand, Second Wind, and Unflinching as the standard rune page.
   sources: [mobalytics-nasus-top-build]
 
 - Choose Randuin's Omen over Spirit Visage when the enemy has heavy physical damage or critical-strike attackers.
+  items: [3143, 3065]
   sources: [mobalytics-nasus-top-build]

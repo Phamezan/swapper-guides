@@ -46,6 +46,7 @@ sources: [hoffmann]
   abilities: [Yuumi.Q]
 
 - Switch to the utility build when the team needs healing and support more than AP damage: Dream Maker, Mikael's Blessing, Knight's Vow, Redemption, and Staff of Flowing Water.
+  items: [3870, 3222, 3109, 3107, 6616]
   sources: [hoffmann]
 
 - Never ward alone while detached: coordinate with the ADC or jungler and retreat when the area may hide an ambush.
@@ -73,7 +74,9 @@ sources: [hoffmann]
 ## Itemization
 
 - Build the AP damage and anti-heal line in order: Dark Seal, Oblivion Orb, and Lost Chapter before Luden's Echo, then Liandry's Torment and Blackfire Torch, with Mejai's Soulstealer and Morellonomicon as later purchases toward Zaz'Zak's Realmspike, Mejai's, Morellonomicon, Liandry's, Luden's Echo, and Blackfire Torch.
+  items: [1082, 3916, 3802, 6655, 6653, 2503, 3041, 3165, 3871]
   sources: [hoffmann]
 
 - For support utility instead of AP damage, build Dream Maker, Mikael's Blessing, Knight's Vow, Redemption, Staff of Flowing Water, and Morellonomicon.
+  items: [3870, 3222, 3109, 3107, 6616, 3165]
   sources: [hoffmann]

@@ -22,6 +22,7 @@ sources: [goliath-urgot, eve0030]
   abilities: [Ornn.Q]
 
 - Turn the lane at level 9 with Black Cleaver. The spike plus ranks flips every exchange, so survive to it and press after.
+  items: [3071]
   sources: [goliath-urgot]
   heading: Spike turn
 
@@ -45,12 +46,14 @@ sources: [goliath-urgot, eve0030]
   abilities: [Urgot.E, Ornn.E, Ornn.R]
 
 - Keep firing into Frozen Heart. Its attack-speed slow does not touch your W rate, so his rush item buys him nothing against locked-on knees.
+  items: [3110]
   sources: [eve0030]
   heading: Ignore Heart
 
 ## Win condition
 
 - Duel after Black Cleaver completes. The armor-shred turn makes extended trades yours, so force them once the item is done.
+  items: [3071]
   sources: [goliath-urgot]
   heading: Cleaver duels
 
@@ -61,4 +64,5 @@ sources: [goliath-urgot, eve0030]
 ## Itemization
 
 - Build Black Cleaver as the matchup spike. It answers his armor stacking and turns level 9 into your lane-winning window.
+  items: [3071]
   sources: [goliath-urgot]

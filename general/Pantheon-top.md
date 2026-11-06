@@ -77,10 +77,12 @@ sources: [mobalytics-pantheon-top, mobalytics-pantheon-top-build]
 ## Itemization
 
 - Build Bastionbreaker, Plated Steelcaps, Voltaic Cyclosword, Lord Dominik's Regards, and Edge of Night as the 26.21 top core.
+  items: [2520, 3047, 6699, 3036, 3814]
   sources: [mobalytics-pantheon-top-build]
 
 - Take Stormraider's Surge, Manaflow Band, Transcendence, Scorch, Triumph, and Cut Down as the current rune page.
   sources: [mobalytics-pantheon-top-build]
 
 - Choose Serpent's Fang as the situational replacement for Lord Dominik's Regards when you need to pressure a team with heavy shielding.
+  items: [6695, 3036]
   sources: [mobalytics-pantheon-top-build]

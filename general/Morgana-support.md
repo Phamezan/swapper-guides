@@ -84,9 +84,11 @@ sources: [mobalytics-morgana-support, mobalytics-morgana-support-build]
   sources: [mobalytics-morgana-support-build]
 
 - Build the popular 26.21 sequence of Zaz'Zak's Realmspike, Lucidity boots, Liandry's Torment, Zhonya's Hourglass, Rylai's Crystal Scepter, and Morellonomicon.
+  items: [3871, 6653, 3157, 3116, 3165]
   sources: [mobalytics-morgana-support-build]
 
 - Take Celestial Opposition with Heal as the alternative support setup with Zhonya's moved earlier; swap Blackfire Torch in for Zhonya's when the game calls for more damage rather than the defensive active.
+  items: [3869, 2503]
   sources: [mobalytics-morgana-support-build]
 
 - Max Dark Binding first, then Tormented Shadow, then Black Shield, upgrading Soul Shackles whenever available.

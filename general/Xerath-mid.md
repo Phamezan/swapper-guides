@@ -12,6 +12,7 @@ sources: [hofibauer]
   sources: [hofibauer]
 
 - Recall toward the guide's twelve-hundred gold first buy for Lost Chapter; when forced back earlier, take Dark Seal to begin collecting stacks.
+  items: [3802, 1082]
   sources: [hofibauer]
 
 - In team fights, stay behind the frontline and poke low-health carries before using the ultimate to start or finish the fight, reaching the longer level-sixteen sequence to pressure isolated carries into defensive summoners or kills.
@@ -23,6 +24,7 @@ sources: [hofibauer]
 ## Early lane
 
 - Open Doran's Ring with two Health Potions as the standard setup.
+  items: [1056]
   sources: [hofibauer]
 
 - At level six, look for nearby kills and objective fights with Rite of the Arcane while tracking the opposing mid laner.
@@ -63,8 +65,10 @@ sources: [hofibauer]
   sources: [hofibauer]
 
 - Build Luden's Echo first for damage and waveclear, then Horizon Focus for cooldowns and reliable ultimate access, preferring Horizon Focus over Shadowflame in the standard route while keeping Shadowflame as the snowball purchase when ahead.
+  items: [6655, 4628, 4645]
   sources: [hofibauer]
   abilities: [Xerath.R]
 
 - Into tank-heavy teams take the Blackfire Torch, Sorcerer's Shoes, Liandry's Torment, Void Staff, Rabadon's Deathcap alternative, with Shadowflame, Rabadon's Deathcap, Void Staff, and Sorcerer's Shoes as standard endgame options and Zhonya's Hourglass for survival.
+  items: [2503, 3020, 6653, 3135, 3089, 4645, 3157]
   sources: [hofibauer]

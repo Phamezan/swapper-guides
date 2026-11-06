@@ -87,10 +87,13 @@ sources: [iverngott]
   sources: [iverngott]
 
 - Open Ionian Boots of Lucidity and Dark Seal into Redemption, Moonstone Renewer, and Dawncore, with Mikael's Blessing, Staff of Flowing Water, Ardent Censer, Mejai's Soulstealer, and Knight's Vow as options.
+  items: [3158, 1082, 3107, 6617, 6621, 3222, 6616, 3504, 3041, 3109]
   sources: [iverngott]
 
 - Vary into the Echoes of Helia side-lane support build, or rush Knight's Vow earlier on the defensive anti-assassin variant.
+  items: [6620, 3109]
   sources: [iverngott]
 
 - Take the separate AP page of Cosmic Drive, Lich Bane, Rabadon's Deathcap, and Zhonya's Hourglass when the team needs damage and the selfish build survives.
+  items: [4629, 3100, 3089, 3157]
   sources: [iverngott]

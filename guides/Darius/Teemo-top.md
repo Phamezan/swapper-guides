@@ -17,6 +17,7 @@ sources: [federals1-darius, temoonlyifok, trickybam]
   patch: "26.20"
 
 - Buy Negatron Cloak and Mercury's Treads before walking up. His poke only matters while Darius lacks magic resist, and Treads cut the slow that lets him run Darius down after a short trade.
+  items: [1057, 3111]
   sources: [federals1-darius]
   heading: First buys
   patch: "26.20"
@@ -41,6 +42,7 @@ sources: [federals1-darius, temoonlyifok, trickybam]
   abilities: [Darius.W, Darius.Q, Darius.E, Teemo.Q]
 
 - Do not rely on a single slow to stick to him. He commonly runs Swifties precisely to blunt Decimate slows, so plan the all-in around the Stridebreaker active rather than a foot chase.
+  items: [6631]
   sources: [temoonlyifok, federals1-darius]
   heading: Stick tools
   abilities: [Darius.Q, Darius.E]
@@ -49,6 +51,7 @@ sources: [federals1-darius, temoonlyifok, trickybam]
 ## Mid lane
 
 - Make him spend his burst movespeed before Apprehend. Whether it is his W sprint or a rune proc, the pull only sticks once that speed is gone, and Stridebreaker's slow creates a far more reliable window than a raw walk-up.
+  items: [6631]
   sources: [federals1-darius]
   heading: Movespeed first
   abilities: [Darius.E, Teemo.W]
@@ -77,9 +80,11 @@ sources: [federals1-darius, temoonlyifok, trickybam]
 ## Itemization
 
 - Take Conqueror with Second Wind, opening Doran's Shield into Negatron Cloak and Mercury's Treads, then Stridebreaker and Kaenic Rookern as the core package that lets Darius walk up at all.
+  items: [1054, 1057, 3111, 6631, 2504]
   sources: [federals1-darius]
   patch: "26.20"
 
 - Finish Kaenic Rookern once teamfights start. The shield plus magic resist keeps a stray shroom or blind-plus-focus from ending Darius before the frontline fight begins.
+  items: [2504]
   sources: [federals1-darius]
   patch: "26.20"

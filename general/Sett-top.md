@@ -67,4 +67,5 @@ sources: [autolykus]
   sources: [autolykus]
 
 - Follow the bruiser damage path of Stridebreaker and Black Cleaver, the Blade of the Ruined King route, or the tankier Heartsteel and Titanic Hydra route; value movement speed for starting fights and skip critical strike and unreliable attack speed into kiters.
+  items: [6631, 3071, 3084, 3748]
   sources: [autolykus]

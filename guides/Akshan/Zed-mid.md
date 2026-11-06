@@ -26,6 +26,7 @@ sources: [aikopanda, v222, peng04]
 ## Early lane
 
 - He starts Doran's Shield: poke through it anyway.
+  items: [1054]
   sources: [aikopanda]
 
 - He refuses to die, farming with Q: HP now is his kills later, so zone him off.

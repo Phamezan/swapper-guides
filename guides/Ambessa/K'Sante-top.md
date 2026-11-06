@@ -73,7 +73,7 @@ sources: [heywil]
 
 - Rush Black Cleaver from a Long Sword and Refillable Potion start. Cleaver is the whole matchup spike against his armor, so reach it before chasing other damage.
   sources: [heywil]
-  items: [3071, 1036]
+  items: [3071, 1036, 2031]
   abilities: [K'Sante.W]
 
 - Build Eclipse after Cleaver for shielded trades. It covers the one charged combo you fail to dodge while Cleaver keeps your damage climbing.

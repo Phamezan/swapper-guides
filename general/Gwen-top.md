@@ -76,9 +76,11 @@ sources: [arthapsic]
 ## Itemization
 
 - Open Doran's Ring standard or Doran's Shield into ranged pressure, then list Nashor's Tooth and Ionian Boots ahead of AP items.
+  items: [1056, 1054, 3115]
   sources: [arthapsic]
 
 - Finish Nashor's Tooth, Ionian Boots of Lucidity, Rabadon's Deathcap, Shadowflame, Void Staff, and Zhonya's Hourglass, with Riftmaker as the shown alternative.
+  items: [3115, 3158, 3089, 4645, 3135, 3157, 4633]
   sources: [arthapsic]
 
 - Run Conqueror with Presence of Mind, Legend: Alacrity, and Cut Down plus Demolish and Bone Plating, swapping Second Wind in against ranged lanes.

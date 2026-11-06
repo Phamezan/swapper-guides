@@ -16,6 +16,7 @@ sources: [goliath-urgot]
   abilities: [Urgot.E]
 
 - Reach level nine with Black Cleaver complete: max-rank W then stays active without mana cost or cooldown until toggled off, and the sustained damage jumps sharply.
+  items: [3071]
   sources: [goliath-urgot]
   abilities: [Urgot.W]
 
@@ -56,6 +57,7 @@ sources: [goliath-urgot]
 ## Win condition
 
 - Build through the level-nine W toggle and Black Cleaver spike, then use the level-eleven to thirteen passive cooldowns to win extended fights and convert them into objectives.
+  items: [3071]
   sources: [goliath-urgot]
   abilities: [Urgot.W]
 
@@ -69,8 +71,10 @@ sources: [goliath-urgot]
 ## Itemization
 
 - Run Press the Attack with Triumph, Legend: Bloodline, and Cut Down plus Second Wind and Overgrowth, with Flash and Ignite and a Doran's Blade start.
+  items: [1055]
   sources: [goliath-urgot]
 
 - Build Black Cleaver, Boots of Swiftness, Sterak's Gage, Dead Man's Plate, Force of Nature, and Overlord's Bloodmail, maxing W first; keep Plated Steelcaps, Gluttonous Greaves, Doran's Shield, Kaenic Rookern, Randuin's Omen, Thornmail, Chempunk Chainsword, Jak'Sho, and Spear of Shojin as situational picks.
+  items: [3071, 3009, 3053, 3742, 4401, 2501, 3047, 3008, 1054, 2504, 3143, 3075, 6609, 3161]
   sources: [goliath-urgot]
   abilities: [Urgot.W]

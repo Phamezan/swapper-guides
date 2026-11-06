@@ -16,6 +16,7 @@ sources: [federals1-darius, yshuro13]
   heading: Freeze plan
 
 - Trade less before Stridebreaker, then stick with its slow. The item is the lane's hinge: before it, concede the mobility game; after it, he cannot walk away from stacked trades.
+  items: [6631]
   sources: [federals1-darius]
   heading: Stridebreaker hinge
 
@@ -63,4 +64,5 @@ sources: [federals1-darius, yshuro13]
 ## Itemization
 
 - Take Stormraider's Surge with Cash Back and the movement-speed shard, opening Doran's Blade into Cull and Boots of Swiftness, then Stridebreaker, Spear of Shojin, and Sterak's Gage.
+  items: [1055, 3009, 6631, 3161, 3053]
   sources: [federals1-darius]

@@ -77,7 +77,7 @@ sources: [heywil]
 
 - Serpent's Fang is the situational slot when her Valor shields and Eclipse procs keep eating your burst. Cutting shields restores your short-trade lethal math.
   sources: [heywil]
-  items: [6695]
+  items: [6695, 6692]
   abilities: [Riven.E]
 
 - Start Doran's Blade with Flash and Exhaust. Blade's early attack damage powers your level-3 trades, where you shield her Broken Wings engage with W and hit back with an Electrocute combo; Exhaust is taken to blunt her ultimate all-in rather than for lane poke.

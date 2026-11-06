@@ -8,7 +8,8 @@
     "build": "node scripts/build.mjs",
     "test": "node --test",
     "refresh:champions": "node scripts/refresh-champions.mjs",
-    "refresh:abilities": "node scripts/refresh-abilities.mjs"
+    "refresh:abilities": "node scripts/refresh-abilities.mjs",
+    "refresh:items": "node scripts/refresh-items.mjs"
   },
   "dependencies": { "yaml": "2.9.1" }
 }

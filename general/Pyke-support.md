@@ -74,12 +74,14 @@ sources: [mobalytics-pyke-support, mobalytics-pyke-support-build]
 ## Itemization
 
 - Build Celestial Opposition, Boots of Swiftness, Umbral Glaive, Edge of Night, and Youmuu's Ghostblade as the 26.21 support core.
+  items: [3869, 3009, 3179, 3814, 3142]
   sources: [mobalytics-pyke-support-build]
 
 - Take Hail of Blades, Cheap Shot, Sixth Sense, Ultimate Hunter, Bone Plating, and Unflinching as the listed rune setup.
   sources: [mobalytics-pyke-support-build]
 
 - Choose Voltaic Cyclosword as a possible fourth-item alternative to Edge of Night when seeking more assassin pressure.
+  items: [6699, 3814]
   sources: [mobalytics-pyke-support-build]
 
 - Start Q, E, W and max Bone Skewer, then Phantom Undertow, then Ghostwater Dive, upgrading Death from Below at levels six, eleven, and sixteen.

@@ -69,10 +69,12 @@ sources: [mobalytics-locke, mobalytics-locke-build]
   sources: [mobalytics-locke-build]
 
 - Order Lich Bane, Sorcerer's Shoes, Shadowflame, Zhonya's Hourglass, Rabadon's Deathcap, and Void Staff while maxing Q, then E, then W.
+  items: [3100, 3020, 4645, 3157, 3089, 3135]
   sources: [mobalytics-locke-build]
   abilities: [Locke.Q, Locke.E, Locke.W]
 
 - Slot Banshee's Veil fourth defensively into burst or one key control spell.
+  items: [3102]
   sources: [mobalytics-locke-build]
 
 - Keep the Stormraider's Surge alternative and the Conqueror off-meta setup as separate rune and build paths.

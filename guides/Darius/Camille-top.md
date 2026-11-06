@@ -64,4 +64,5 @@ sources: [federals1-darius, raideru]
 ## Itemization
 
 - Open Doran's Blade through Cloth Armor and Phage into Plated Steelcaps, then Stridebreaker, Spear of Shojin, and Sterak's Gage.
+  items: [1055, 1029, 3044, 3047, 6631, 3161, 3053]
   sources: [federals1-darius]

@@ -26,6 +26,7 @@ sources: [aikopanda, v222]
 ## Early lane
 
 - Doran's Shield start: shield the poke you cannot dodge.
+  items: [1054]
   sources: [aikopanda]
 
 - Do not die, farm with Q: HP now is kills later.

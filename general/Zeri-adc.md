@@ -29,6 +29,7 @@ sources: [junniseoul]
   abilities: [Zeri.W]
 
 - Open Doran's Bow by default, switching to Doran's Shield when lane priority is unavailable or the lane is going poorly.
+  items: [1086, 1054]
   sources: [junniseoul]
 
 - Run Conqueror with Triumph, Legend: Alacrity, Cut Down, Celerity, and Gathering Storm, with attack speed, movement speed, and scaling health shards.
@@ -59,11 +60,14 @@ sources: [junniseoul]
 ## Itemization
 
 - Build Doran's Bow into Yun Tal Wildarrows, Infinity Edge, Lord Dominik's Regards, Hexoptics C44, and Berserker's Greaves, with Endless Hunger, Bloodthirster, and Guardian Angel as fifth- or sixth-slot options.
+  items: [1086, 3032, 3031, 3036, 2523, 3006, 2517, 3072, 3026]
   sources: [junniseoul]
 
 - Take the safer alternative of Yun Tal Wildarrows, Runaan's Hurricane, Infinity Edge, and Gluttonous Greaves before situational armor penetration and late picks; treat the Q-W-E ability order as ambiguous since the page also emphasizes maxing W, and do not lock a firm max order from it.
+  items: [3032, 3085, 3031, 3008]
   sources: [junniseoul]
   abilities: [Zeri.Q, Zeri.W, Zeri.E]
 
 - Keep Mortal Reminder for armor penetration, Mercurial Scimitar for cleanse, Edge of Night or Serpent's Fang by game, and Zhonya's Hourglass, Maw of Malmortius, Death's Dance, or Spirit Visage as defensive options.
+  items: [3033, 3139, 3814, 6695, 3157, 3156, 6333, 3065]
   sources: [junniseoul]

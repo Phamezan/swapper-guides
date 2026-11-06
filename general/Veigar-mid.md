@@ -82,12 +82,15 @@ sources: [mobalytics-veigar-mid, mobalytics-veigar-mid-build]
   sources: [mobalytics-veigar-mid-build]
 
 - Build the popular path of Rod of Ages, Sorcerer's Shoes, Archangel's Staff, Rabadon's Deathcap, and Zhonya's Hourglass.
+  items: [6657, 3020, 3003, 3089, 3157]
   sources: [mobalytics-veigar-mid-build]
 
 - Start Doran's Ring, a Health Potion, and Stealth Ward.
+  items: [1056, 2003, 3340]
   sources: [mobalytics-veigar-mid-build]
 
 - Choose Shadowflame as the fourth-item alternative to Rabadon's against healing and shielding champions.
+  items: [4645]
   sources: [mobalytics-veigar-mid-build]
 
 - Max Q, then W, then E, taking Primordial Burst at levels six, eleven, and sixteen.

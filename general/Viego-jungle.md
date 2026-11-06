@@ -57,7 +57,9 @@ sources: [harrowedpath]
   sources: [harrowedpath]
 
 - Spend by target: The Collector for burst into squishier enemies, Lord Dominik's Regards for armor penetration into durable opponents, and Infinity Edge only as a later high-cost spike since an early buy stalls the curve; avoid Immortal Shieldbow early and use Guardian Angel or Death's Dance when trading damage for survivability.
+  items: [6676, 3036, 3031, 6673, 3026, 6333]
   sources: [harrowedpath]
 
 - Choose Synchronized Souls for roaming tempo or Berserker's Greaves for attack speed, with Plated Steelcaps and Mercury's Treads as the safer defensive boots.
+  items: [3006, 3047, 3111]
   sources: [harrowedpath]

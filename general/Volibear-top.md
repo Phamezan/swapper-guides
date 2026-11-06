@@ -72,12 +72,15 @@ sources: [mobalytics-volibear-top, mobalytics-volibear-top-build]
   sources: [mobalytics-volibear-top-build]
 
 - Build Dusk and Dawn, Plated Steelcaps, Navori Flickerblade, Spirit Visage, and Thornmail as the popular 16.21 order.
+  items: [2510, 3047, 6675, 3065, 3075]
   sources: [mobalytics-volibear-top-build]
 
 - Start Doran's Ring, a Health Potion, and Stealth Ward.
+  items: [1056, 2003, 3340]
   sources: [mobalytics-volibear-top-build]
 
 - Choose Randuin's Omen to replace Spirit Visage in the fourth slot when armor is needed against physical and critical-hit damage.
+  items: [3143, 3065]
   sources: [mobalytics-volibear-top-build]
 
 - Max W, then Q, then E, taking Stormbringer at levels six, eleven, and sixteen.

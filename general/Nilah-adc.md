@@ -68,7 +68,9 @@ sources: [v1gorous1-nilah]
 ## Itemization
 
 - Run Conqueror with Triumph, Legend: Alacrity, and Last Stand plus Cash Back and Biscuit Delivery; take Flash and Ghost with a Doran's Blade start.
+  items: [1055]
   sources: [v1gorous1-nilah]
 
 - Build the standard curve of Essence Reaver, Immortal Shieldbow, Death's Dance, Infinity Edge, and Lord Dominik's Regards; in burst lanes open with The Collector, Infinity Edge, and Berserker's Greaves.
+  items: [3508, 6673, 6333, 3031, 3036, 6676, 3006]
   sources: [v1gorous1-nilah]

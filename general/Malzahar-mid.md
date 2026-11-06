@@ -73,9 +73,11 @@ sources: [mobalytics-malzahar, mobalytics-malzahar-build]
   sources: [mobalytics-malzahar-build]
 
 - Order Blackfire Torch first and Sorcerer's Shoes second, then Liandry's, Rylai's, Zhonya's, and Rabadon's in the popular build.
+  items: [2503, 3020]
   sources: [mobalytics-malzahar-build]
 
 - Slot Shadowflame fourth against healing- and shield-reliant teams.
+  items: [4645]
   sources: [mobalytics-malzahar-build]
 
 - Level E, W, Q first while prioritizing E, Q, and W after; ride the first-component spell frequency plus later cores and R ranks into stronger picks and teamfights.

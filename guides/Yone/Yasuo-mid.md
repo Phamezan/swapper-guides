@@ -48,6 +48,7 @@ sources: [mauro2347, mmjyn, dennissuarez69, nicolaslamelas]
   abilities: [Yone.E, Yone.Q, Yasuo.W]
 
 - Rush attack speed first: Berserker's plus Recurve Bow. The movement speed dodges his Qs and the attack speed stacks Tempo so you out-damage him once both shields are down.
+  items: [1043]
   sources: [dennissuarez69]
 
 ## Win condition

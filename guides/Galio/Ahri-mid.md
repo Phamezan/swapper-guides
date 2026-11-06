@@ -20,6 +20,7 @@ sources: [hexeria, peng04, shok-ahri]
   abilities: [Ahri.E, Ahri.Q]
 
 - Go Doran's Shield plus Second Wind: farm, play safe, play with your jungler.
+  items: [1054]
   sources: [hexeria]
 
 ## Overview

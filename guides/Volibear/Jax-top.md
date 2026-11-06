@@ -65,4 +65,5 @@ sources: [federals1-volibear, ph45]
 ## Itemization
 
 - Consider Warden's Mail against repeated damage. The armor blunts his auto pattern while your combo pattern decides the lane.
+  items: [3082]
   sources: [federals1-volibear]

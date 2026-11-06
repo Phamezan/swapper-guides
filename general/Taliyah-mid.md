@@ -69,10 +69,13 @@ sources: [shok-taliyah]
 ## Itemization
 
 - Run Phase Rush with Manaflow Band, Transcendence, Waterwalking, Legend: Haste, and Cut Down; open Doran's Ring and two Health Potions, with Tear and two potions as the greedy start.
+  items: [1056]
   sources: [shok-taliyah]
 
 - Build Seraph's Embrace into Sorcerer's Shoes, Liandry's Torment, Rabadon's Deathcap, Cryptbloom, and Zhonya's Hourglass, with Ionian Boots or Mercury's Treads by game, Mercury's specified against double AP and crowd control.
+  items: [3020, 6653, 3089, 3137, 3157, 3111]
   sources: [shok-taliyah]
 
 - Keep Mejai's Soulstealer, Banshee's Veil, Morellonomicon, Shadowflame, Cosmic Drive, Liandry's Torment, and Bloodletter's Curse as situational picks around lead, survival, and enemy defenses.
+  items: [3041, 3102, 3165, 4645, 4629, 6653, 8010]
   sources: [shok-taliyah]

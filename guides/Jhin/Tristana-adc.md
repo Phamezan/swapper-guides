@@ -63,4 +63,5 @@ sources: [antiwis, yunfang, omibro]
 ## Itemization
 
 - Serrated Dirk on the first base is the spike. Your grenade and fourth-shot trades jump in damage, so crash, base, and return before trading hard.
+  items: [3134]
   sources: [omibro]

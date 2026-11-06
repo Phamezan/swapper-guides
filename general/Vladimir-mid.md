@@ -52,10 +52,13 @@ sources: [zamus]
 ## Itemization
 
 - Build Hextech Rocketbelt, Ionian Boots of Lucidity, Rabadon's Deathcap, Riftmaker, Void Staff, and Zhonya's Hourglass as the standard line, keeping Riftmaker and Void Staff into tankier teams.
+  items: [3152, 3158, 3089, 4633, 3135, 3157]
   sources: [zamus]
 
 - Take the high-burst alternative of Stormsurge with Sorcerer's Shoes, Rocketbelt, Void Staff, Deathcap, and Zhonya's; run Stormraider's Surge with Nimbus Cloak, Transcendence, Gathering Storm, Legend: Haste, and Cut Down, with Deathfire Touch plus Ignite as the aggressive melee-lane option.
+  items: [4646, 3020, 3135]
   sources: [zamus]
 
 - Swap boots by game: Sorcerer's Shoes for damage into squishy teams, Swifties against repeated slows, Lucidity for haste, and Mercury's Treads reserved for substantial magic damage and crowd control.
+  items: [3020, 3111]
   sources: [zamus]

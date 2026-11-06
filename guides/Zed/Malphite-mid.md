@@ -26,6 +26,7 @@ sources: [aikopanda, v222]
 ## Early lane
 
 - Doran's Shield start: tank the Qs you cannot dodge.
+  items: [1054]
   sources: [v222]
   abilities: [Malphite.Q]
 

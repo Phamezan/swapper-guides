@@ -37,6 +37,7 @@ sources: [ractickttv]
   sources: [ractickttv]
 
 - Drop the stealth ward before the first recall and usually swap to Oracle Lens after, keeping yellow only for a planned invade.
+  items: [3364]
   sources: [ractickttv]
 
 - Skill three early Q points into maxed W, then finish Q and max E last; Rhaast may prioritize Q sooner into tankier teams for its max-health damage.
@@ -106,10 +107,13 @@ sources: [ractickttv]
   sources: [ractickttv]
 
 - Spend blue gold on early-lead Hubris into Voltaic Cyclosword, Youmuu's Ghostblade, Serylda's Grudge, Edge of Night, Axiom Arc, or Eclipse by game.
+  items: [6697, 6699, 3142, 6694, 3814, 6696, 6692]
   sources: [ractickttv]
 
 - Start red on Voltaic Cyclosword into Black Cleaver or Spear of Shojin, defending through Death's Dance, Maw of Malmortius, Kaenic Rookern, or Randuin's Omen by threat.
+  items: [6699, 3071, 3161, 6333, 3156, 2504, 3143]
   sources: [ractickttv]
 
 - Boot Ionian for Assassin duty and Plated Steelcaps or Mercury's Treads for Rhaast around role, damage, and control.
+  items: [3047, 3111]
   sources: [ractickttv]

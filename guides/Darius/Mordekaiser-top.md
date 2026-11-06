@@ -64,4 +64,5 @@ sources: [federals1-darius, dreadknight]
 ## Itemization
 
 - Open Doran's Shield into Pickaxe and Boots, then Spear of Shojin, Boots of Swiftness, Stridebreaker, and Kaenic Rookern for the stack-and-chase package.
+  items: [1054, 1037, 3161, 3009, 6631, 2504]
   sources: [federals1-darius]

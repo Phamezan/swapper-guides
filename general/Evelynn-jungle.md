@@ -33,6 +33,7 @@ sources: [gnarz]
   abilities: [Evelynn.W]
 
 - After a good level-3 gank, recall for Dark Seal and Amplifying Tome before resuming bot-side.
+  items: [1082, 1052]
   sources: [gnarz]
 
 - Open full clears with Q, E, Q, and throw Q over the wall to shorten the Wolves approach.
@@ -54,6 +55,7 @@ sources: [gnarz]
 ## Mid lane
 
 - Stack Dark Seal through successful ganks, upgrading to Mejai's only with a lead safe enough to guard.
+  items: [1082]
   sources: [gnarz]
 
 - Finish camps with E so Whiplash speed rushes the next play.
@@ -88,10 +90,13 @@ sources: [gnarz]
   sources: [gnarz]
 
 - Buy Sorcerer's Shoes and Dark Seal early, with Blasting Wand plus Dark Seal as the 1,200-gold fallback.
+  items: [3020, 1082, 1026]
   sources: [gnarz]
 
 - Core Sorcerer's Shoes, Lich Bane, Mejai's Soulstealer, Rabadon's Deathcap, Void Staff, and Banshee's Veil.
+  items: [3020, 3100, 3041, 3089, 3135, 3102]
   sources: [gnarz]
 
 - Keep Mejai's only while stacks stay reasonably safe; close with Banshee's Veil or Zhonya's defensively, or Shadowflame for damage after lost stacks.
+  items: [3102, 4645]
   sources: [gnarz]

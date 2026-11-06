@@ -77,13 +77,17 @@ sources: [antiwis]
   sources: [antiwis]
 
 - Build Stormrazor into Infinity Edge, Rapid Firecannon, Lord Dominik's Regards, Bloodthirster, and Guardian Angel on one path.
+  items: [3095, 3031, 3094, 3036, 3072, 3026]
   sources: [antiwis]
 
 - Open Youmuu's Ghostblade and The Collector before Infinity Edge, Rapid Firecannon, Lord Dominik's Regards, and Bloodthirster on the alternate path.
+  items: [3142, 6676, 3031, 3094, 3036, 3072]
   sources: [antiwis]
 
 - Adapt with Mortal Reminder or Executioner's Calling into healing, Serpent's Fang into shields, and Maw of Malmortius into magic burst.
+  items: [3033, 3123, 6695, 3156]
   sources: [antiwis]
 
 - Wear Boots of Swiftness default and Plated Steelcaps as the defensive alternative.
+  items: [3009, 3047]
   sources: [antiwis]

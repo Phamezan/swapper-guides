@@ -30,6 +30,7 @@ sources: [infinem]
   sources: [infinem]
 
 - Prioritize attack damage in early component buys since Q supplies the attack speed; take Doran's Bow for the smoother start or Doran's Blade for stronger raw lane-trading stats.
+  items: [1086, 1055]
   sources: [infinem]
   abilities: [Yunara.Q]
 
@@ -72,9 +73,11 @@ sources: [infinem]
 ## Itemization
 
 - Open Doran's Bow into Yun Tal Wildarrows, Gluttonous Greaves, Runaan's Hurricane, Infinity Edge, Lord Dominik's Regards, Bloodthirster, and Guardian Angel as the displayed crit line.
+  items: [1086, 3032, 3008, 3085, 3031, 3036, 3072, 3026]
   sources: [infinem]
 
 - Vary the first item with Kraken Slayer, Blade of the Ruined King, or Hexoptics C44, the boots with Berserker's Greaves or Plated Steelcaps, and the later slots with Phantom Dancer, Terminus, Mortal Reminder, Immortal Shieldbow, Maw of Malmortius, Hextech Gunblade, Zhonya's Hourglass, or Mercurial Scimitar by need.
+  items: [6672, 2523, 3006, 3047, 3046, 3302, 3033, 6673, 3156, 3146, 3157, 3139]
   sources: [infinem]
 
 - Use W for waveclear, poke, or a slow, and keep E and R mobility ready for repositioning, remembering that E gains a fresh cooldown when R ends.

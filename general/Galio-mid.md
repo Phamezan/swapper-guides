@@ -81,16 +81,21 @@ sources: [hexeria]
   sources: [hexeria]
 
 - Recommend Abyssal Mask, Mercury's Treads, Imperial Mandate, Zhonya's Hourglass, Riftmaker, and Jak'Sho on the panel.
+  items: [8020, 3111, 4005, 3157, 4633]
   sources: [hexeria]
 
 - Rush Ionian Boots as a cheap early spike for long cooldowns; swap Mercury's Treads into magic damage or control, Steelcaps into basic-attack threats, and Sorcerer's Shoes for damage builds.
+  items: [3111, 3020]
   sources: [hexeria]
 
 - Rate Abyssal Mask highly for its low cost, defensive stats, and nearby-enemy magic-damage amplification.
+  items: [8020]
   sources: [hexeria]
 
 - Add Cosmic Drive for health, AP, haste, and movement speed behind repeated spell and passive cycles.
+  items: [4629]
   sources: [hexeria]
 
 - Pick Dusk and Dawn as the AP-bruiser spellblade, or Fimbulwinter from an early Tear for mana, health, and haste.
+  items: [2510]
   sources: [hexeria]

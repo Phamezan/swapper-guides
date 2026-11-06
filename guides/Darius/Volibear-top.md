@@ -53,6 +53,7 @@ sources: [federals1-darius, federals1-volibear]
 ## Win condition
 
 - Race Shojin plus Stridebreaker into his Rod plus Navori two items. Your spike beats his at even farm, so force the issue in that window.
+  items: [6631]
   sources: [federals1-darius]
   heading: Spike race
 
@@ -63,4 +64,5 @@ sources: [federals1-darius, federals1-volibear]
 ## Itemization
 
 - Take Conqueror with Transcendence and Axiom Arcanist, opening Doran's Blade into Mercury's Treads and Shojin, with Executioner's Calling, Stridebreaker, and Sterak's Gage.
+  items: [1055, 3111, 3123, 6631, 3053]
   sources: [federals1-darius]

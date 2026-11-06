@@ -39,6 +39,7 @@ sources: [omibro, antiwis]
   abilities: [Jhin.W]
 
 - Crash the wave and base for Serrated Dirk. That first base is your biggest spike, so plan recalls around it instead of forcing fights before it.
+  items: [3134]
   sources: [omibro]
 
 - Respect level 2 against engage supports. Do not auto into their range near your tower; her support only needs one opening.
@@ -75,6 +76,7 @@ sources: [omibro, antiwis]
 ## Itemization
 
 - Serrated Dirk on the first base is the spike. Your grenade and fourth-shot trades jump in damage, so crash, base, and return before trading hard.
+  items: [3134]
   sources: [omibro]
 
 - Collector plus Deathfire Touch is the execute package. The extra health threshold lets you save bullets and keep stealing gold toward full crit.

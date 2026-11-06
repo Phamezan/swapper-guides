@@ -17,6 +17,7 @@ sources: [federals1-darius, autolykus]
   abilities: [Darius.W, Darius.Q, Sett.E]
 
 - Build two passive stacks before he reaches auto range. Once both sides finish Stridebreaker, spacing and active timing decide the duel, so enter it stacked, not flat.
+  items: [6631]
   sources: [federals1-darius]
   heading: Stack first
   abilities: [Darius.Q, Darius.W]
@@ -48,6 +49,7 @@ sources: [federals1-darius, autolykus]
   abilities: [Darius.W, Darius.Q, Darius.P]
 
 - Time your Stridebreaker active against his. With the item done on both sides, the duel turns on who slows whom first: active as he steps in, then stay at Q edge while it lasts.
+  items: [6631]
   sources: [federals1-darius]
   heading: Stridebreaker timing
 
@@ -71,7 +73,9 @@ sources: [federals1-darius, autolykus]
 ## Itemization
 
 - Take Conqueror with Bone Plating and Overgrowth, opening Doran's Blade into Plated Steelcaps, then Stridebreaker and Sterak's Gage as the core duel package.
+  items: [1055, 3047, 6631, 3053]
   sources: [federals1-darius]
 
 - If he rushes Blade of the Ruined King, start Bramble Vest and finish Thornmail before Sterak's, so his extended trades stop outpacing your stacks.
+  items: [3076, 3075]
   sources: [federals1-darius]

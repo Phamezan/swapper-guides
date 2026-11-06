@@ -61,6 +61,7 @@ sources: [wayofthetempesst]
   abilities: [Yasuo.W]
 
 - Build more durability when the team needs a frontline; the guide suggests Randuin's Omen or Spirit Visage based on the opposing damage.
+  items: [3143, 3065]
   sources: [wayofthetempesst]
 
 ## Itemization
@@ -76,7 +77,9 @@ sources: [wayofthetempesst]
   abilities: [Yasuo.Q, Yasuo.E, Yasuo.W, Yasuo.R]
 
 - Build Berserker's Greaves, Blade of the Ruined King, Infinity Edge, Immortal Shieldbow, Death's Dance, and Mercurial Scimitar as the main path.
+  items: [3006, 3031, 6673, 6333, 3139]
   sources: [wayofthetempesst]
 
 - Swap toward armor or magic resistance when needed, listing Randuin's Omen and Thornmail against physical threats and Spirit Visage or Force of Nature against heavy ability power.
+  items: [3143, 3075, 3065, 4401]
   sources: [wayofthetempesst]

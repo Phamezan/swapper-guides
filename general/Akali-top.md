@@ -92,4 +92,5 @@ sources: [mobalytics-akali]
   abilities: [Akali.Q]
 
 - Scout Zhonya's Hourglass and Guardian Angel on late opponents and hold the commit until their answers are mapped.
+  items: [3157, 3026]
   sources: [mobalytics-akali]

@@ -50,6 +50,7 @@ sources: [mobalytics-cassiopeia]
   abilities: [Cassiopeia.R]
 
 - Stack Tear of the Goddess by mid game to ease mana through sustained casting.
+  items: [3070]
   sources: [mobalytics-cassiopeia]
 
 - At level 9, convert maxed E into heavier follow-up once Q lands.
@@ -80,4 +81,5 @@ sources: [mobalytics-cassiopeia]
 ## Itemization
 
 - Stack Tear of the Goddess into mid game, since stored mana sustains long casting stretches.
+  items: [3070]
   sources: [mobalytics-cassiopeia]

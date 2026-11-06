@@ -79,19 +79,25 @@ sources: [raen]
   sources: [raen]
 
 - Start Doran's Shield or Doran's Ring, showing Bami's Cinder on AD-lane first recalls and Null-Magic Mantle plus Ruby Crystal into AP lanes.
+  items: [1054, 1056, 6660, 1033, 1028]
   sources: [raen]
 
 - Core Sunfire Aegis and Unending Despair.
+  items: [3068, 2502]
   sources: [raen]
 
 - Follow the standard tank panel with Mercury's Treads, Jak'Sho, Abyssal Mask, and Thornmail.
+  items: [3111, 8020, 3075]
   sources: [raen]
 
 - Pivot toward Plated Steelcaps, Thornmail, Frozen Heart, and Death's Dance into heavy AD.
+  items: [3047, 3075, 3110, 6333]
   sources: [raen]
 
 - Pivot toward Mercury's Treads, Hollow Radiance, Abyssal Mask, Force of Nature, Banshee's Veil, and Wit's End into heavy AP.
+  items: [3111, 6664, 8020, 4401, 3102, 3091]
   sources: [raen]
 
 - Keep the AP burst build of Sorcerer's Shoes, Malignance, Rabadon's Deathcap, Shadowflame, and Void Staff fully separate.
+  items: [3020, 3118, 3089, 4645, 3135]
   sources: [raen]

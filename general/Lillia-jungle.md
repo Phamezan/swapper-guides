@@ -68,11 +68,14 @@ sources: [mobalytics-lillia, mobalytics-lillia-build]
   sources: [mobalytics-lillia-build]
 
 - Order Liandry's Torment, Sorcerer's Shoes, Riftmaker, Zhonya's Hourglass, Rylai's Crystal Scepter, and Rabadon's Deathcap while maxing Q, then W, then E.
+  items: [6653, 3020, 4633, 3157, 3116, 3089]
   sources: [mobalytics-lillia-build]
   abilities: [Lillia.Q, Lillia.W, Lillia.E]
 
 - Slot Bloodletter's Curse fourth instead of Zhonya's Hourglass by game.
+  items: [8010, 3157]
   sources: [mobalytics-lillia-build]
 
 - Keep the alternate current build of Blackfire Torch first shifting later toward Liandry's and Rylai's as its own separate order.
+  items: [2503]
   sources: [mobalytics-lillia-build]

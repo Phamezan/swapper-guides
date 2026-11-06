@@ -48,6 +48,7 @@ sources: [streetmagiks]
   abilities: [Karthus.Q]
 
 - Core Rylai's Crystal Scepter for utility in most builds, since its slow sets up Q against melee champions without dashes.
+  items: [3116]
   sources: [streetmagiks]
   abilities: [Karthus.Q]
 
@@ -93,9 +94,11 @@ sources: [streetmagiks]
   sources: [streetmagiks]
 
 - Build Blackfire Torch into Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, and Void Staff, then Liandry's Torment or Zhonya's Hourglass as needed.
+  items: [2503, 3020, 4645, 3089, 3135, 6653, 3157]
   sources: [streetmagiks]
 
 - Open the catch-and-kite setup near Rylai's Crystal Scepter and Boots of Swiftness, then Rabadon's, Void Staff, and Dead Man's Plate.
+  items: [3116, 3009, 3135, 3742]
   sources: [streetmagiks]
 
 - Buy Zhonya's when surviving engage beats another damage item, and defense when divers arrive before the rotation ends.

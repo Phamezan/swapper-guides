@@ -67,6 +67,7 @@ sources: [guest-652087]
   sources: [guest-652087]
 
 - Build Hextech Rocketbelt first into Sorcerer's Shoes and Shadowflame, then Zhonya's Hourglass, Void Staff, and Rabadon's Deathcap.
+  items: [3152, 3020, 4645, 3157, 3135, 3089]
   sources: [guest-652087]
 
 - Buy time inside R entries with Zhonya's, since the ultimate keeps working through stasis.
@@ -74,4 +75,5 @@ sources: [guest-652087]
   abilities: [Kennen.R]
 
 - Hold Hextech Gunblade as the situational choice, moving to Rocketbelt later when games start on Gunblade.
+  items: [3146]
   sources: [guest-652087]

@@ -61,7 +61,9 @@ sources: [spook8]
 ## Itemization
 
 - Open Doran's Bow and build the crit line of Yun Tal Wildarrows, Infinity Edge, Gluttonous Greaves, Phantom Dancer, Lord Dominik's Regards, and Bloodthirster, with Guardian Angel as the late option.
+  items: [1086, 3032, 3031, 3008, 3046, 3036, 3072, 3026]
   sources: [spook8]
 
 - Vary by game with Mortal Reminder for armor penetration and Randuin's Omen, Kaenic Rookern, Immortal Shieldbow, Edge of Night, or Mercurial Scimitar for defense; prefer Legend: Alacrity with Gluttonous Greaves and Bloodline on other boot paths, with Cut Down, Coup de Grace, or Last Stand as viable final-row picks.
+  items: [3033, 3143, 2504, 6673, 3814, 3139, 3008]
   sources: [spook8]

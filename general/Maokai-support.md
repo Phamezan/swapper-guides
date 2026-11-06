@@ -42,11 +42,13 @@ sources: [funnybunnyh]
   sources: [funnybunnyh]
 
 - Swap to Oracle Lens after the first warding trip or early recall to sweep lane brushes toward a possible mid gank.
+  items: [3364]
   sources: [funnybunnyh]
 
 ## Mid lane
 
 - Buy basic boots on the first recall for roam and rotation speed, often finishing Boots of Swiftness before any full item.
+  items: [3009]
   sources: [funnybunnyh]
 
 - Check bushes with saplings first, then plant deeper enemy-jungle wards inside safe roam windows.
@@ -96,11 +98,14 @@ sources: [funnybunnyh]
   sources: [funnybunnyh]
 
 - Start World Atlas into Solstice Sleigh generally, Celestial Opposition into burst or picks, and Bloodsong for catch play into healing-heavy teams.
+  items: [3865, 3876, 3869, 3877]
   sources: [funnybunnyh]
 
 - Default to Boots of Swiftness for price and W-engage movement, spending Mercury's Treads or Plated Steelcaps only into heavy control or auto threats.
+  items: [3009, 3111, 3047]
   sources: [funnybunnyh]
   abilities: [Maokai.W]
 
 - Take Thornmail into auto-heavy plus healing enemies, Randuin's Omen for late health into multi-crit, Kaenic Rookern as the main resistance, Force of Nature into damage-over-time mages, Bandlepipes or Knight's Vow for peel plans, Redemption for front-heavy games, and Oblivion Orb for early anti-heal without finishing it.
+  items: [3075, 3143, 2504, 4401, 2524, 3109, 3107, 3916]
   sources: [funnybunnyh]

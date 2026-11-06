@@ -81,4 +81,5 @@ sources: [shokleblanc]
   sources: [shokleblanc]
 
 - Feature Luden's Echo, Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Zhonya's Hourglass as the guide 26.1 panel rather than a verified 26.21 build.
+  items: [6655, 3020, 4645, 3089, 3135, 3157]
   sources: [shokleblanc]

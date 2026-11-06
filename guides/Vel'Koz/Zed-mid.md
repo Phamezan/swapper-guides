@@ -16,6 +16,7 @@ sources: [aikopanda, v222, peng04]
   abilities: [Zed.W, Zed.R]
 
 - Edge of Night second blocks his E, then kill.
+  items: [3814]
   sources: [aikopanda]
   abilities: [Zed.W]
 

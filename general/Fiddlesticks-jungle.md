@@ -37,6 +37,7 @@ sources: [guest-653683]
   sources: [guest-653683]
 
 - Recall first for Fated Ashes, then Dark Seal, then tier-one boots.
+  items: [2508, 1082]
   sources: [guest-653683]
 
 - Delay boot upgrades that stall the damage curve, leaning on Blue Smite speed after the pet upgrade.
@@ -45,9 +46,11 @@ sources: [guest-653683]
 ## Mid lane
 
 - Rush Liandry's Torment for health and burn beside sustained damage.
+  items: [6653]
   sources: [guest-653683]
 
 - Spike next on Shadowflame, matching its execute line with W damage.
+  items: [4645]
   sources: [guest-653683]
   abilities: [Fiddlesticks.W]
 
@@ -59,9 +62,11 @@ sources: [guest-653683]
   abilities: [Fiddlesticks.R]
 
 - Take Hextech Rocketbelt into hard-to-reach mobiles, and Rylai's Crystal Scepter into less mobile teams.
+  items: [3152, 3116]
   sources: [guest-653683]
 
 - Buy defense only for clear needs: Spirit Visage into an AP threat while behind, Randuin's into multi-crit, Oblivion Orb when the team needs anti-heal.
+  items: [3065, 3916]
   sources: [guest-653683]
 
 ## Win condition
@@ -80,10 +85,13 @@ sources: [guest-653683]
   sources: [guest-653683]
 
 - Take Flash and Smite, starting the panel with Gustwalker and Dark Seal.
+  items: [1082]
   sources: [guest-653683]
 
 - Core Liandry's Torment, Shadowflame, Zhonya's Hourglass, Rabadon's Deathcap, and Void Staff, finishing Shadowflame before situational adds.
+  items: [6653, 4645, 3157, 3089, 3135]
   sources: [guest-653683]
 
 - Rotate Hextech Rocketbelt, Rylai's, Bloodletter's Curse, Spirit Visage, Randuin's, and Oblivion Orb by matchup.
+  items: [3152, 8010, 3065, 3916]
   sources: [guest-653683]

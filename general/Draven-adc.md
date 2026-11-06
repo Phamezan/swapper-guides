@@ -82,9 +82,11 @@ sources: [granmuhh]
   sources: [granmuhh]
 
 - Build Vampiric Scepter into Berserker's Greaves, The Collector, Bloodthirster, Lord Dominik's Regards, and Infinity Edge.
+  items: [1053, 3006, 6676, 3072, 3036, 3031]
   sources: [granmuhh]
 
 - Rush Vampiric Scepter and Greaves for comfort, treat a first-back Serrated Dirk as another good-feeling option, and never open Infinity Edge.
+  items: [1053, 3134, 3031]
   sources: [granmuhh]
 
 - Take Cleanse and Flash as the displayed summoners.

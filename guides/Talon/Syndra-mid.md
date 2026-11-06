@@ -34,6 +34,7 @@ sources: [shok]
 ## Mid lane
 
 - Her early HP or Cloth Armor blunts you: roam when she turtles.
+  items: [1029]
   sources: [shok]
 
 - She dodges the return: double-cast angles.

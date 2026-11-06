@@ -41,6 +41,7 @@ sources: [aikopanda, v222, peng04]
   abilities: [Zed.R]
 
 - His Edge of Night second: with it your cage cannot catch him after R, so end it first.
+  items: [3814]
   sources: [aikopanda]
   abilities: [Veigar.E]
 

@@ -65,4 +65,5 @@ sources: [houcs, justsad42-mf]
 ## Itemization
 
 - Take Ignite over Teleport, with early Executioner's Calling only when skipping Ignite. The lane is decided by all-in lethality, not sustain.
+  items: [3123]
   sources: [justsad42-mf]

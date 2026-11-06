@@ -36,6 +36,7 @@ sources: [aikopanda, v222]
 ## Mid lane
 
 - Rush Edge of Night: with it the lane goes calm.
+  items: [3814]
   sources: [aikopanda]
 
 - Cleanse is very strong here: it answers the fear that holds you.

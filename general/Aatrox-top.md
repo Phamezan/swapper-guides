@@ -98,16 +98,21 @@ sources: [forlid]
   sources: [forlid]
 
 - Take Bone Plating into melee lanes with little poke, or Second Wind with Doran's Shield into ranged and poke lanes.
+  items: [1054]
   sources: [forlid]
 
 - Take Revitalize to raise healing and the Sterak's Gage shield on bruiser and lethality setups.
+  items: [3053]
   sources: [forlid]
 
 - Open Sundered Sky or Spear of Shojin first; pick Voltaic Cyclosword into mobile targets, Eclipse for duels, and Black Cleaver into tanks.
+  items: [6610, 3161, 6699, 6692, 3071]
   sources: [forlid]
 
 - Follow with bruiser survival such as Sterak's Gage and Death's Dance, plus Maw of Malmortius against burst AP.
+  items: [3053, 6333, 3156]
   sources: [forlid]
 
 - Match boots and defense to the lane: Plated Steelcaps into AD, Mercury's Treads into AP and crowd control, Hexdrinker against AP burst.
+  items: [3047, 3111, 3155]
   sources: [forlid]

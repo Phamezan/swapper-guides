@@ -40,6 +40,7 @@ sources: [aikopanda, v222, peng04]
   abilities: [Zed.R]
 
 - His Edge of Night rush calms the lane: end it before it lands.
+  items: [3814]
   sources: [aikopanda]
 
 ## Win condition

@@ -77,12 +77,15 @@ sources: [mobalytics-xerath-support, mobalytics-xerath-support-build]
   sources: [mobalytics-xerath-support-build]
 
 - Build the popular path of Zaz'Zak's Realmspike, Sorcerer's Shoes, Luden's Echo, Shadowflame, and Rabadon's Deathcap.
+  items: [3871, 3020, 6655, 4645, 3089]
   sources: [mobalytics-xerath-support-build]
 
 - Start with Health Potion, Amplifying Tome, and Stealth Ward as the displayed early purchases.
+  items: [2003, 1052, 3340]
   sources: [mobalytics-xerath-support-build]
 
 - Choose Horizon Focus to replace Shadowflame in the fourth slot for longer-range damage or against immobilized targets.
+  items: [4628, 4645]
   sources: [mobalytics-xerath-support-build]
 
 - Max Q, then W, then E, taking Rite of the Arcane at levels six, eleven, and sixteen.

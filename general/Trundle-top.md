@@ -29,6 +29,7 @@ sources: [trundledaddy]
   sources: [trundledaddy]
 
 - Into sustain lanes against ranged poke, start Doran's Shield with Second Wind; prefer Conditioning as the scaling choice and Bone Plating against strong all-in patterns.
+  items: [1054]
   sources: [trundledaddy]
 
 - Value Trundle's passive healing from nearby unit deaths as part of the lane sustain plan.
@@ -40,9 +41,11 @@ sources: [trundledaddy]
   sources: [trundledaddy]
 
 - Buy Hullbreaker as the midgame split-push purchase, but never rush it; build it after the earlier core items.
+  items: [3181]
   sources: [trundledaddy]
 
 - When the team needs a frontline body, treat Sterak's Gage as a later fifth- or sixth-slot option with less isolated-dueling value than the damage choices.
+  items: [3053]
   sources: [trundledaddy]
 
 ## Win condition
@@ -59,7 +62,9 @@ sources: [trundledaddy]
   sources: [trundledaddy]
 
 - Open Ravenous Hydra as the recommended first core, then Blade of the Ruined King or Wit's End by the opponent's damage and durability, with Hullbreaker after the first two items for the split-push plan.
+  items: [3074, 3091, 3181]
   sources: [trundledaddy]
 
 - Vary the panel by game: Black Cleaver against tanks, the safer Trinity Force and Hullbreaker alternate build, Death's Dance, Randuin's Omen, Frozen Heart, Thornmail, Spirit Visage, Overlord's Bloodmail, Force of Nature, Knight's Vow, and Sterak's Gage later, with Boots of Swiftness standard and Plated Steelcaps or Mercury's Treads as defensive swaps.
+  items: [3071, 3078, 3181, 6333, 3143, 3110, 3075, 3065, 2501, 4401, 3109, 3053, 3009, 3047, 3111]
   sources: [trundledaddy]

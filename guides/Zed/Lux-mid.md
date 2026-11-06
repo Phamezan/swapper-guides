@@ -38,6 +38,7 @@ sources: [aikopanda, v222]
 ## Mid lane
 
 - Buy Edge of Night: blanking one Q buys the engage.
+  items: [3814]
   sources: [aikopanda]
 
 - Cleanse negates her Q: with it you all-in through the binding.
@@ -47,6 +48,7 @@ sources: [aikopanda, v222]
 ## Win condition
 
 - After Edge of Night the kills are free: dodge Q, shield the next, and R the defenseless Lux.
+  items: [3814]
   sources: [aikopanda, v222]
 
 ## Itemization

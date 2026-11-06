@@ -53,6 +53,7 @@ sources: [christi21]
 ## Mid lane
 
 - Prefer Hubris as the snowball first item on the lethality route, keeping Youmuu's Ghostblade as the less-used mobility and lethality alternative.
+  items: [6697, 3142]
   sources: [christi21]
 
 - Stretch side-lane plays into towers, objectives, safe enemy camps, and deep vision instead of resetting to only own camps.
@@ -90,16 +91,20 @@ sources: [christi21]
   sources: [christi21]
 
 - Stack lethality through Hubris into The Collector and Lord Dominik's Regards for snowballing squishier targets.
+  items: [6697, 6676, 3036]
   sources: [christi21]
 
 - Start Youmuu's Ghostblade and Collector before crit on the alternate path, or Umbral Glaive and Sundered Sky on the bruiser path.
+  items: [3142, 3179, 6610]
   sources: [christi21]
 
 - Take the blue pet for speed and reach, red for direct damage and kill pressure, or green for durability into burst and heavy control.
   sources: [christi21]
 
 - Wear Plated Steelcaps into auto-heavy physical teams and Mercury's Treads into high magic damage or control.
+  items: [3047, 3111]
   sources: [christi21]
 
 - Prioritize Serrated Dirk plus basic boots on the first recall, leaving finished boots until after the first two cores.
+  items: [3134]
   sources: [christi21]

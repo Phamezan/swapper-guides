@@ -46,6 +46,7 @@ sources: [anguish, xsagi, justsad42-mf]
 ## Mid lane
 
 - Leave shroud on a new angle, not where she expects. She answers shroud with Q or Tiamat procs onto the nearest vital, so reposition inside the cover and force her to guess the exit direction.
+  items: [3077]
   sources: [justsad42-mf, anguish]
   heading: Shroud angles
   abilities: [Akali.W, Fiora.Q]

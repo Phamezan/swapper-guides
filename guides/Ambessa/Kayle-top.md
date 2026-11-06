@@ -77,7 +77,7 @@ sources: [heywil]
 
 - Start Doran's Blade, or Long Sword with Refillable Potion to rush your spike. Blade funds the early bully trades; the long-sword start reaches Voltaic sooner when you farm cleanly.
   sources: [heywil]
-  items: [1055, 1036]
+  items: [1055, 1036, 2031]
   abilities: [Kayle.P]
 
 - Take Flash and Ignite. Ignite pressures the early levels she must survive, and Flash covers the one Lethal Tempo chase you misjudge.
