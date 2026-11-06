@@ -1,7 +1,7 @@
 import { createHash } from 'node:crypto';
 import { compileVods } from './vods.mjs';
 import { parseMarkdown, yaml, fail, SECTION_LABELS } from './markdown.mjs';
-import { fields, plain, patch, ids, sourceUrl, championMap, championId, compileTip, LANES, authorRank } from './validate.mjs';
+import { fields, plain, patch, ids, sourceUrl, championMap, championId, compileTip, LANES, authorRank, blindPicks } from './validate.mjs';
 
 const REQUIRED = ['champion', 'enemy', 'lane', 'patch', 'reviewed', 'difficulty', 'favoredWhen', 'sources'];
 const GENERAL_REQUIRED = ['champion', 'lane', 'patch', 'reviewed', 'sources'];
@@ -168,6 +168,14 @@ export function compileContent(input, { generatedAt = new Date().toISOString(), 
     } else matchups.push(entry);
   }
   const files = new Map();
+  const lists = [...input].filter(([file]) => file.startsWith('blind-picks/')).sort(([a], [b]) => a.localeCompare(b, 'en')).map(([file, text]) => {
+    const loc = { file, line: 1 };
+    const list = blindPicks(yaml(text, loc).value, champions, loc);
+    if (file !== `blind-picks/${list.patch}.yml`) fail(loc, 'blind pick file path must match patch');
+    return list;
+  });
+  // Well-known sibling: legacy apps reject unknown index fields.
+  if (lists.length) files.set('blind-picks.json', json({ schema: 1, lists }));
   for (const [champion, entries] of [...groups].sort(([a], [b]) => a - b)) {
     const guides = entries.guides.map(entry => entry.guide).sort((a, b) => a.enemy - b.enemy || a.lane.localeCompare(b.lane, 'en'));
     const general = entries.general.map(entry => entry.guide).sort((a, b) => a.lane.localeCompare(b.lane, 'en'));

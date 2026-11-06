@@ -20,7 +20,7 @@ async function sourceFiles(root, relative, extension = '.md') {
 }
 
 export async function build(root = process.cwd(), options = {}) {
-  const files = ['authors.yml', 'champions.json', ...await sourceFiles(root, 'guides'), ...await sourceFiles(root, 'enemies'), ...await sourceFiles(root, 'general'), ...await sourceFiles(root, 'vods', '.yml'), ...await sourceFiles(root, 'vods-auto', '.yml')];
+  const files = ['authors.yml', 'champions.json', ...await sourceFiles(root, 'guides'), ...await sourceFiles(root, 'enemies'), ...await sourceFiles(root, 'general'), ...await sourceFiles(root, 'vods', '.yml'), ...await sourceFiles(root, 'vods-auto', '.yml'), ...await sourceFiles(root, 'blind-picks', '.yml')];
   const input = new Map();
   for (const file of files) {
     try { input.set(file, await readFile(path.join(root, file), 'utf8')); }

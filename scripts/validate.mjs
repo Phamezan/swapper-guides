@@ -34,6 +34,35 @@ export function namedAbilities(text, participants) {
 }
 
 export const LANES = ['top', 'jungle', 'mid', 'adc', 'support'];
+
+export function blindPicks(document, champions, loc) {
+  fields(document, ['patch', 'lanes'], [], loc);
+  patch(document.patch, loc);
+  fields(document.lanes, LANES, [], loc);
+  const lanes = {};
+  for (const [lane, picks] of Object.entries(document.lanes)) {
+    if (!Array.isArray(picks) || !picks.length || picks.length > 10) fail(loc, `${lane} needs 1 to 10 blind picks`);
+    const seen = new Set();
+    lanes[lane] = picks.map(pick => {
+      fields(pick, ['champion', 'reason', 'sources'], [], loc);
+      const champion = championId(pick.champion, champions, loc);
+      if (seen.has(champion)) fail(loc, `duplicate blind pick in ${lane}`);
+      seen.add(champion);
+      plain(pick.reason, loc, 'reason');
+      if ([...pick.reason].length > 90 || /[\r\n]/u.test(pick.reason)) fail(loc, 'reason must be one line of at most 90 characters');
+      if (!Array.isArray(pick.sources) || !pick.sources.length) fail(loc, 'blind pick sources must be nonempty');
+      for (const source of pick.sources) {
+        fields(source, ['name', 'url'], [], loc);
+        plain(source.name, loc, 'source name');
+        let url;
+        try { url = new URL(source.url); } catch { fail(loc, 'invalid source URL'); }
+        if (url.protocol !== 'https:' || url.username || url.password || url.port || source.url.length > 2048) fail(loc, 'invalid source URL');
+      }
+      return { champion, reason: pick.reason, sources: pick.sources };
+    });
+  }
+  return { patch: document.patch, lanes };
+}
 const RANKS = ['iron', 'bronze', 'silver', 'gold', 'platinum', 'emerald', 'diamond', 'master', 'grandmaster', 'challenger'];
 
 export function authorRank(source, loc) {
