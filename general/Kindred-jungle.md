@@ -34,7 +34,7 @@ sources: [thespian]
 - Track early duelists who win counterganks and refuse to show on their side first.
   sources: [thespian]
 
-- Run the same matchup-and-priority read on mid and bot before locking any route.
+- Check mid and bot matchups and lane priority before locking any route.
   sources: [thespian]
 
 - Review unclear matchups and early duels after games so future invade calls rest on learned outcomes.

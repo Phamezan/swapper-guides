@@ -73,7 +73,7 @@ sources: [anguish, xsagi, justsad42-mf]
 
 ## Itemization
 
-- No matchup-specific item defines this lane on current patch; spend gold on the standard Akali core and win through the Riposte and shroud windows above rather than an item answer.
+- No matchup-specific item defines this lane on current patch; spend gold on the standard Akali core and win through Riposte and shroud cooldown windows rather than an item answer.
   sources: [anguish, xsagi]
   abilities: [Fiora.W]
   patch: "26.20"

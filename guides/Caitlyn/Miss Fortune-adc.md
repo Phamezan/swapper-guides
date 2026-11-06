@@ -63,6 +63,6 @@ sources: [rowzkit, yunfang-mf]
 
 ## Itemization
 
-- No sourced spike decides this lane. Keep buys tempo-positive and keep pressing range — your wins come from lane pressure, not an item break.
+- No single item spike decides this lane. Keep buys tempo-positive and keep pressing range — your wins come from lane pressure, not an item break.
   sources: [rowzkit]
   patch: "26.21"

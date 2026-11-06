@@ -33,7 +33,6 @@ sources: [federals1-darius, autolykus]
 
 - Levels 1–3, position outside his auto range and let W plus Q do the work. Each cast forces a choice on him: spend his pull early or take free damage.
   sources: [federals1-darius]
-  heading: Levels 1–3
   abilities: [Darius.W, Darius.Q, Sett.E]
 
 - Once his pull is down, he has no clean way to start an all-in. Hold your pull for his re-engage and keep the trade at Q edge instead of walking into his autos.

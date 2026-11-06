@@ -35,7 +35,6 @@ sources: [federals1-volibear, federals1-darius]
 
 - Step inside before the Q edge casts. Meet each Q windup by closing in, denying the heal and the outer-ring damage together.
   sources: [federals1-volibear]
-  heading: Step inside
   abilities: [Darius.Q]
 
 ## Mid lane

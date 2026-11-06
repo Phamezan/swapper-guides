@@ -33,7 +33,7 @@ sources: [shok]
 
 ## Mid lane
 
-- Her page is built for push and map: match TP with your ult.
+- She plays for pushing and map pressure: match Teleport with your ult.
   sources: [shok]
 
 - Every wave she crashes denies a roam: thin the wave before it lands.

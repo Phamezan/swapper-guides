@@ -33,7 +33,7 @@ sources: [shok]
 
 ## Mid lane
 
-- Comet or Phase Rush plus TP: the page is built for push and map.
+- Take Comet or Phase Rush with Teleport for pushing and map pressure.
   sources: [shok]
 
 - Push before he can look: every wave crashed is a roam denied.

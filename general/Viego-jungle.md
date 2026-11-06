@@ -35,7 +35,7 @@ sources: [harrowedpath]
 - Group for dragons and skirmishes through the midgame, then look for isolated targets that can start a possession chain.
   sources: [harrowedpath]
 
-- Chain the listed burst strings, W into attack into Q into R, or W into E into attack into Q into attack into R, remembering that R consumes the Q mark so its timing decides the follow-up.
+- Chain these burst strings: W into attack into Q into R, or W into E into attack into Q into attack into R, remembering that R consumes the Q mark so its timing decides the follow-up.
   sources: [harrowedpath]
   abilities: [Viego.W, Viego.Q, Viego.E, Viego.R]
 

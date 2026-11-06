@@ -85,7 +85,7 @@ sources: [mobalytics-rell-support, mobalytics-rell-support-build]
   items: [3869, 3047, 3050, 3190, 3109]
   sources: [mobalytics-rell-support-build]
 
-- Take Aftershock, Shield Bash, Bone Plating, Unflinching, Cosmic Insight, and Hextech Flashtraption as the listed rune setup.
+- Take Aftershock, Shield Bash, Bone Plating, Unflinching, Cosmic Insight, and Hextech Flashtraption as the rune setup.
   sources: [mobalytics-rell-support-build]
 
 - Choose Thornmail as a situational fourth-item alternative to Locket against auto-attack-heavy teams or when anti-heal is needed.

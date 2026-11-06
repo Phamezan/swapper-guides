@@ -47,7 +47,7 @@ sources: [antiwis, rowzkit, yunfang, omibro]
   sources: [antiwis]
   patch: "26.21"
 
-- Track her net in skirmishes the same way. When she has no disengage, your root into Curtain Call ({cd:202:R}) is the fight starter.
+- Track her net in skirmishes. When she has no disengage, your root into Curtain Call ({cd:202:R}) is the fight starter.
   sources: [rowzkit, omibro]
   patch: "26.21"
   abilities: [Jhin.W, Jhin.R, Caitlyn.E]

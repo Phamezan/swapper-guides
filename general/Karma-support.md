@@ -66,6 +66,6 @@ sources: [mobalytics-karma]
 
 ## Itemization
 
-- Cover poke, mana support, and E readiness without a named item build or rune setup on the page.
+- Cover poke, mana support, and E readiness.
   sources: [mobalytics-karma]
   abilities: [Karma.E]

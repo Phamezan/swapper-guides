@@ -80,7 +80,7 @@ sources: [mobalytics-velkoz-support, mobalytics-velkoz-support-build]
   items: [3871, 3020, 6655, 4645, 3157, 3089]
   sources: [mobalytics-velkoz-support-build]
 
-- Start with Health Potion, Amplifying Tome, and Stealth Ward as the listed early purchases.
+- Start with Health Potion, Amplifying Tome, and Stealth Ward as early purchases.
   items: [2003, 1052, 3340]
   sources: [mobalytics-velkoz-support-build]
 

@@ -22,7 +22,7 @@ sources: [trundledaddy]
 
 ## Early lane
 
-- Treat levels one and two as the pressure window, but follow no fixed wave-by-wave script from this page; its detailed lane phases live in the matchup spreadsheet and are out of scope here.
+- Treat levels one and two as the pressure window.
   sources: [trundledaddy]
 
 - Run Flash and Teleport to support lane plays plus later split-push and teamfight arrivals; take Ghost over one of them only when the enemy team is so ranged that a Flash engage never sticks.
@@ -40,7 +40,7 @@ sources: [trundledaddy]
 - Turn side-lane pressure into room for the team: make opponents answer Trundle while checking whether the side-lane contest is actually winnable.
   sources: [trundledaddy]
 
-- Buy Hullbreaker as the midgame split-push purchase, but never rush it; build it after the earlier core items.
+- Buy Hullbreaker for midgame split-push pressure after the first two items; never rush it.
   items: [3181]
   sources: [trundledaddy]
 

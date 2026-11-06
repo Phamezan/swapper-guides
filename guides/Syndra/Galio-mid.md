@@ -35,7 +35,7 @@ sources: [shok]
 - Answer his map looks with shoves: plates for his roams.
   sources: [shok]
 
-- Keep Aery pressure or First Strike banks flowing: the page keeps working all lane.
+- Keep Aery pressure or First Strike gold flowing throughout the lane.
   sources: [shok]
 
 ## Win condition

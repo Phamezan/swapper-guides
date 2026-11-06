@@ -78,7 +78,7 @@ sources: [auroraaddict]
 - Take Flash and Teleport standard, Barrier into high-burst assassins, and Cleanse into Zoe bubble.
   sources: [auroraaddict]
 
-- Follow the standard page of Stormsurge into Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Zhonya's Hourglass.
+- Build Stormsurge into Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, Void Staff, and Zhonya's Hourglass.
   items: [4646, 3020, 4645, 3089, 3135, 3157]
   sources: [auroraaddict]
 

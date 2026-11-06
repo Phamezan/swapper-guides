@@ -14,7 +14,7 @@ sources: [shok]
 - You crush him early and he takes over later: the clock runs against you.
   sources: [shok]
 
-- Build a big early lead: Comet plus TP is the page.
+- Take Comet and Teleport to build a big early lead.
   sources: [shok]
 
 - Punish every walkup: his melee range is your Q range.

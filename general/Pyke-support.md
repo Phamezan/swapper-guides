@@ -77,7 +77,7 @@ sources: [mobalytics-pyke-support, mobalytics-pyke-support-build]
   items: [3869, 3009, 3179, 3814, 3142]
   sources: [mobalytics-pyke-support-build]
 
-- Take Hail of Blades, Cheap Shot, Sixth Sense, Ultimate Hunter, Bone Plating, and Unflinching as the listed rune setup.
+- Take Hail of Blades, Cheap Shot, Sixth Sense, Ultimate Hunter, Bone Plating, and Unflinching as the rune setup.
   sources: [mobalytics-pyke-support-build]
 
 - Choose Voltaic Cyclosword as a possible fourth-item alternative to Edge of Night when seeking more assassin pressure.

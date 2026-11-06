@@ -90,7 +90,7 @@ sources: [streetmagiks]
 - Run Deathfire Touch with Axiom Arcanist, Transcendence, and Gathering Storm plus Legend: Haste and Cut Down.
   sources: [streetmagiks]
 
-- Take Ghost and Smite with Gustwalker as the listed pet.
+- Take Ghost and Smite with Gustwalker as the jungle pet.
   sources: [streetmagiks]
 
 - Build Blackfire Torch into Sorcerer's Shoes, Shadowflame, Rabadon's Deathcap, and Void Staff, then Liandry's Torment or Zhonya's Hourglass as needed.

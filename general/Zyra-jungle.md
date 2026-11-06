@@ -15,7 +15,7 @@ sources: [dabloondemon]
 - Auto-attack the intended champion target in fights, because plants otherwise prioritize minions when minions are present.
   sources: [dabloondemon]
 
-- Play the listed teamfight string of E, W, R, Q, W to root, knock up, and amplify plant damage, using it when the root can connect safely and never as the opener into easy hard engage or mobility.
+- Use the teamfight string of E, W, R, Q, W to root, knock up, and amplify plant damage, using it when the root can connect safely and never as the opener into easy hard engage or mobility.
   sources: [dabloondemon]
   abilities: [Zyra.E, Zyra.W, Zyra.R, Zyra.Q]
 

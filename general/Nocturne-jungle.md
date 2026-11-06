@@ -22,7 +22,7 @@ sources: [yourdadday]
 
 ## Early lane
 
-- Prefer the full clear over the earlier invade-first plan; the route is built for pace and a Smite upgrade lead, not constant fighting.
+- Prefer a full clear over invading first; prioritize pace and a Smite upgrade lead over constant fighting.
   sources: [yourdadday]
 
 - After both crabs, continue through Krugs, Raptors, and Wolves, then recall and return for Gromp to keep the farm cycle unbroken.
@@ -34,7 +34,7 @@ sources: [yourdadday]
 - Prioritize dragons over Void Grubs when the early path creates that control; dragons are the payoff for the early route.
   sources: [yourdadday]
 
-- Run Ignite as this plan's dueling edge for the early fights it seeks; it is a matchup choice for this strategy, not a universal summoner setup.
+- Take Ignite for an edge in early duels when the matchup calls for it.
   sources: [yourdadday]
 
 ## Mid lane

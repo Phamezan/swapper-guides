@@ -65,7 +65,7 @@ sources: [guest-653465, henrysjg]
   items: [2065, 3009, 4646, 1082]
   sources: [guest-653465]
 
-- Run Arcane Comet with Manaflow Band, Absolute Focus, and Gathering Storm plus Cash Back and Jack of All Trades on the HenrySJG page, with First Strike as the repeated-poke and gold alternative.
+- Run Arcane Comet with Manaflow Band, Absolute Focus, and Gathering Storm plus Cash Back and Jack of All Trades, with First Strike as the repeated-poke and gold alternative.
   sources: [henrysjg]
 
 - Build Stormsurge first for burst into Sorcerer's Shoes and Shadowflame, then Rabadon's Deathcap and Cryptbloom in the order that completes Jack of All Trades and Cash Back bonuses efficiently.

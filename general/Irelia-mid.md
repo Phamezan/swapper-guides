@@ -89,7 +89,7 @@ sources: [skandallotv]
   items: [2503, 3118, 3100]
   sources: [skandallotv]
 
-- List Hextech Gunblade first or second for sustain and burst, with Lich Bane, Hextech Rocketbelt, Rabadon's Deathcap, and Cryptbloom across the panels.
+- Build Hextech Gunblade first or second for sustain and burst, with Lich Bane, Hextech Rocketbelt, Rabadon's Deathcap, and Cryptbloom as options.
   items: [3146, 3100, 3152, 3089, 3137]
   sources: [skandallotv]
 
