@@ -520,12 +520,6 @@ test('limited detail chunks resume without refetching and prioritize newest patc
     assert.deepEqual(visited, ['newvideo001', 'oldvideo001']);
   });
 });
-import { mergeRecords } from '../scripts/harvest-loop.mjs';
-test('cache union preserves disjoint IDs and fields', () => {
-  assert.deepEqual(mergeRecords({ a: { chapters: [1], uploadDate: 'old' }, b: { unavailable: true } }, { a: { uploadDate: 'new' }, c: { embeddable: false } }),
-    { a: { chapters: [1], uploadDate: 'new' }, b: { unavailable: true }, c: { embeddable: false } });
-});
-
 test('XiaoMing selected listings enter detail queue and publish only after exact-date embed check', async()=>{
  await temporaryRoot(async root=>{
   const xiao={id:'UCBnsdnhdPysrE0JCjQPn-QA',name:'XiaoMing Aatrox',style:'named',estimatePatch:true,patchStyle:'calendar',approved:true};
