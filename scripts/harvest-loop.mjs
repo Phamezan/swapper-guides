@@ -6,7 +6,8 @@ import { harvest } from './harvest-vods.mjs';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const review = path.resolve(root, '../review');
 const app = 'C:/Users/Pham2/.herdr/worktrees/Swapper/feat-matchup-vod-player';
-const state = path.join(process.env.LOCALAPPDATA, 'swapper-vod-harvest');
+// LOCALAPPDATA is Windows-only; CI imports this module for tests on Linux.
+const state = path.join(process.env.LOCALAPPDATA ?? root, 'swapper-vod-harvest');
 const log = async text => appendFile(path.join(state, 'harvest.log'), `${new Date().toISOString()} ${text}\n`);
 const read = async (base, name) => JSON.parse(await readFile(path.join(base, 'vods/cache', name), 'utf8'));
 async function save(base, name, data) {
