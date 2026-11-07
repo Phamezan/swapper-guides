@@ -13,9 +13,63 @@
   patch: "26.9"
   durationSec: 1671
   region: KR
+  uploaded: 2026-05-07
 - videoId: 49VMGYloqvI
   title: Kled Top vs Gragas - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1566
   region: KR
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:08
+      label: Take down The Turret
+      kind: tower
+    - at: 12:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:58
+      label: Take down The Turret
+      kind: tower
+    - at: 15:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Take down The Turret
+      kind: tower
+    - at: 17:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:10
+      label: Take down The Turret
+      kind: tower
+    - at: 20:47
+      label: Take down The Inhibitor
+    - at: 21:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Take down The Turret
+      kind: tower
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:55
+      label: End credit

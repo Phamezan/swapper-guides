@@ -5,15 +5,62 @@
   patch: "25.15"
   durationSec: 1455
   region: KR
+  uploaded: 2025-08-12
 - videoId: ed0BngY5xN4
   title: Garen Mid vs Sylas - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1718
   region: KR
+  uploaded: 2025-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:35
+      label: Take down The Turret
+      kind: tower
+    - at: 16:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Take down The Turret
+      kind: tower
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Take down The Turret
+      kind: tower
+    - at: 24:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:17
+      label: End credit
 - videoId: okbimcNCTnc
   title: Garen Mid vs Sylas - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1509
   region: KR
+  uploaded: 2025-03-18

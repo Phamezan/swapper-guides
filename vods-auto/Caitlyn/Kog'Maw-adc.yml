@@ -14,3 +14,61 @@
   patch: "26.19"
   durationSec: 1880
   region: NA
+  uploaded: 2026-09-27
+  result: W
+  moments:
+    - at: 1:55
+      label: First Blood — Wukong kills Jarvan IV
+      kind: kill
+    - at: 3:25
+      label: Caitlyn takes down Kog'Maw
+    - at: 7:06
+      label: Caitlyn takes down Kog'Maw
+    - at: 10:13
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:51
+      label: Wukong eliminates Kog'Maw
+    - at: 12:29
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:25
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:56
+      label: Nami eliminates Lulu
+    - at: 17:46
+      label: Caitlyn kills Sylas
+      kind: kill
+    - at: 20:23
+      label: Caitlyn takes down Kog'Maw
+    - at: 21:37
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 22:46
+      label: Caitlyn picks off Kai'Sa
+    - at: 23:12
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:22
+      label: Caitlyn picks off Lulu
+    - at: 26:46
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:14
+      label: Wukong Double Kill
+      kind: kill
+    - at: 29:40
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 30:05
+      label: Mid Inhibitor falls (Red)
+- videoId: dLlvDnvFSBM
+  title: "Teddy : His Caitlyn Mechanic is so Dam Terrifying - Engsub ( Caitlyn vs Kog'maw )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 767
+  patchEstimated: true
+  player: Teddy
+  uploaded: 2026-06-20
+  format: stream

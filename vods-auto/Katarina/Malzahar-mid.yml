@@ -5,9 +5,58 @@
   patch: "26.6"
   durationSec: 1505
   region: KR
+  uploaded: 2026-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Get a Triple Kill
+      kind: kill
+    - at: 10:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:43
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:48
+      label: Take down The Turret
+      kind: tower
+    - at: 22:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:07
+      label: Take down The Turret
+      kind: tower
+    - at: 24:54
+      label: End credit
 - videoId: -l-mIgi1qLo
   title: Katarina vs Malzahar [ MID ] Lol Korea Master Patch 25.15 ✅
   rankClaim: Master
   patch: "25.15"
   durationSec: 1257
   region: KR
+  uploaded: 2025-08-01

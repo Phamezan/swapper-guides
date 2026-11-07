@@ -8,3 +8,12 @@
   player: Faker
   team: T1
   uploaded: 2026-08-03
+- videoId: f2dCy5euH4k
+  title: BeiFeng Akali vs Qiyana — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1392
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-05-25
+  format: stream

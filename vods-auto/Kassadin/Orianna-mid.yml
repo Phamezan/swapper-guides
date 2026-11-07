@@ -5,9 +5,49 @@
   patch: "25.11"
   durationSec: 2048
   region: EUW
+  uploaded: 2025-06-12
 - videoId: vaSmF7GWhpw
   title: Kassadin Mid vs Orianna - EUW Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1968
   region: EUW
+  uploaded: 2025-05-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Take down The Turret
+      kind: tower
+    - at: 20:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:27
+      label: End credit

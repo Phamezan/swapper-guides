@@ -5,9 +5,87 @@
   patch: "26.7"
   durationSec: 1484
   region: KR
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:56
+      label: Take down The Turret
+      kind: tower
+    - at: 14:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:08
+      label: Take down The Turret
+      kind: tower
+    - at: 19:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Take down The Inhibitor
+    - at: 23:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:41
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: End credit
 - videoId: 4tR73hOHrGA
   title: Elise Jungle vs Kha'Zix - NA Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1693
   region: NA
+  uploaded: 2025-10-19

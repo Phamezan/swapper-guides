@@ -5,15 +5,91 @@
   patch: "25.9"
   durationSec: 1667
   region: EUW
+  uploaded: 2025-05-10
 - videoId: bY22skONrSc
   title: Xerath Support vs Nautilus - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1489
   region: KR
+  uploaded: 2025-04-28
 - videoId: PElnc5DZSko
   title: Xerath Support vs Nautilus - NA Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2028
   region: NA
+  uploaded: 2025-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Take down The Turret
+      kind: tower
+    - at: 16:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Take down The Turret
+      kind: tower
+    - at: 25:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 31:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:41
+      label: Take down The Inhibitor
+    - at: 32:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:02
+      label: Take down The Turret
+      kind: tower
+    - at: 33:27
+      label: End credit

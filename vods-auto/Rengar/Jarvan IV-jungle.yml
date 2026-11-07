@@ -6,6 +6,7 @@
   durationSec: 1670
   region: KR
   player: DNS deokdam
+  uploaded: 2026-08-02
 - videoId: gOphu8pqHKw
   title: (DNS deokdam) Rengar Jungle vs Jarvan IV - KR Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -13,6 +14,55 @@
   durationSec: 1608
   region: KR
   player: DNS deokdam
+  uploaded: 2026-07-20
+  result: L
+  moments:
+    - at: 6:42
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:18
+      label: First Blood — Rengar kills Jarvan IV
+      kind: kill
+    - at: 11:09
+      label: Rengar kills Jax
+      kind: kill
+    - at: 11:34
+      label: Rengar takes down Jarvan IV
+    - at: 12:38
+      label: Rengar kills Jax
+      kind: kill
+    - at: 15:47
+      label: Rengar takes down Jarvan IV
+    - at: 16:59
+      label: Varus kills Akali
+      kind: kill
+    - at: 17:20
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 18:20
+      label: Rengar kills Sion
+      kind: kill
+    - at: 19:34
+      label: Rengar eliminates Viktor
+    - at: 20:18
+      label: Syndra takes down Jax
+    - at: 21:25
+      label: Varus eliminates Jarvan IV
+    - at: 22:38
+      label: Rengar kills Sion
+      kind: kill
+    - at: 23:15
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:01
+      label: Rengar eliminates Viktor
+    - at: 24:36
+      label: Red takes Baron
+      kind: baron
+    - at: 25:20
+      label: Varus takes down Viktor
+    - at: 25:40
+      label: Bot Inhibitor falls (Blue)
 - videoId: Hn3HQ0nYIs8
   title: Rengar vs Jarvan IV 12/3/12 (Jungle) | EUW Master | Rengar OTP Replay
   rankClaim: Master

@@ -8,21 +8,32 @@
   player: Viper
   team: BLG
   uploaded: 2026-10-11
+- videoId: kKpVDNbvtrk
+  title: "HuanFeng Jhin : ONE BULLET - ONE SHOT - ONE KILL - Engsub (Jhin vs Jinx)"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 991
+  patchEstimated: true
+  uploaded: 2026-06-19
+  format: stream
 - videoId: a4X0wL40hVk
   title: Jhin ADC vs Jinx - KR Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1851
   region: KR
+  uploaded: 2026-05-16
 - videoId: NTPVMYRktUc
   title: Jhin vs Jinx ADC - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1781
   region: KR
+  uploaded: 2025-10-13
 - videoId: vsc7Sb0ufEE
   title: Jhin vs Jinx ADC - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 2356
   region: KR
+  uploaded: 2025-09-27

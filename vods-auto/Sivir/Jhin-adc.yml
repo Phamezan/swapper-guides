@@ -52,6 +52,15 @@
     - at: 27:05
       label: Sivir Quadra Kill
       kind: kill
+- videoId: e1SERn0yZ3I
+  title: '"HanQL" 2255LP Sivir : How to Take Advantage Laning Phase in Early Game - Engsub ( vs Jhin, Yasuo )'
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1566
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-09-12
+  format: stream
 - videoId: JelV3GiZbKk
   title: Sivir vs Jhin [ ADC ] Korea Challenger 1878 LP | Patch 26.15
   rankClaim: Challenger
@@ -59,6 +68,15 @@
   durationSec: 1381
   region: KR
   uploaded: 2026-08-01
+- videoId: LEZobFRbOPE
+  title: 2000LP Sivir "Jz" His Spacing is WORLD CLASS LEVEL - Engsub (Sivir vs Ez,Jhin)
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1695
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-07-06
+  format: stream
 - videoId: qvWb87V7b2U
   title: (OLE Flakked) Sivir ADC vs Jhin - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -66,15 +84,63 @@
   durationSec: 1898
   region: EUW
   player: OLE Flakked
+  uploaded: 2026-06-17
+  result: L
+  moments:
+    - at: 2:37
+      label: First Blood — Sivir kills Jhin
+      kind: kill
+    - at: 8:57
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:58
+      label: Poppy picks off Jhin
+    - at: 12:06
+      label: Sivir outduels Jhin
+    - at: 14:14
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:33
+      label: Fizz picks off Ryze
+    - at: 19:27
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 22:31
+      label: Jayce picks off Jhin
+    - at: 23:00
+      label: Red takes Baron
+      kind: baron
+    - at: 24:48
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:36
+      label: Jayce Double Kill
+      kind: kill
+    - at: 27:37
+      label: Bot Inhibitor falls (Red)
+    - at: 29:55
+      label: Jayce eliminates Camille
+    - at: 30:38
+      label: Mid Inhibitor falls (Blue)
+- videoId: 48zYQCw_Brc
+  title: "Rank 1 Sivir : He is Worlds Cleanest Sivir Ever Alive - Engsub ( Sivir vs Jhin, MF )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1406
+  patchEstimated: true
+  uploaded: 2026-06-15
+  format: stream
 - videoId: GfrCpCuceZw
   title: Sivir ADC vs Jhin - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1486
   region: KR
+  uploaded: 2025-11-24
 - videoId: Jq2_3IwIj2E
   title: Sivir vs Jhin [ ADC ] Lol Korea Master Patch 25.2 ✅
   rankClaim: Master
   patch: "25.2"
   durationSec: 1237
   region: KR
+  uploaded: 2025-01-27

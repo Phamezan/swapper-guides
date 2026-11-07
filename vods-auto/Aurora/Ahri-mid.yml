@@ -8,6 +8,15 @@
   player: Faker
   team: T1
   uploaded: 2026-04-30
+- videoId: HwrGFlFAx-o
+  title: "Baicaiovo Aurora : CN Super Server Rank 1 CRUSHING Ahri with DEVASTATING Mechanics"
+  rankClaim: Master+
+  patch: "26.7"
+  durationSec: 1380
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-04-10
+  format: stream
 - videoId: mqR07x74x4o
   title: Faker Aurora vs Ahri [ MID ] Patch 25.17 Korea Grandmaster - T1 Faker Aurora
   rankClaim: Grandmaster
@@ -15,18 +24,21 @@
   durationSec: 1112
   region: KR
   player: Faker
+  uploaded: 2025-09-07
 - videoId: JrbMnr3b-O4
   title: Aurora vs Ahri Mid - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1621
   region: KR
+  uploaded: 2025-06-27
 - videoId: s9k8u_qMZLI
   title: Aurora Mid vs Ahri - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 2100
   region: KR
+  uploaded: 2025-05-06
 - videoId: H1OXt04oXAc
   title: T1 Faker Aurora vs Ahri [ MID ] Patch 25.9 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -35,3 +47,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-01

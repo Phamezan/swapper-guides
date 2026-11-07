@@ -5,12 +5,14 @@
   patch: "25.22"
   durationSec: 1587
   region: KR
+  uploaded: 2025-11-16
 - videoId: SVSP7v7i0Y8
   title: Yorick Top vs Sion - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1946
   region: KR
+  uploaded: 2025-10-30
 - videoId: WtQ__QkvGhE
   title: HLE Zeus Yorick vs Sion [ TOP ] Korea Challenger Patch 25.16
   rankClaim: Challenger
@@ -19,3 +21,4 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2025-08-25

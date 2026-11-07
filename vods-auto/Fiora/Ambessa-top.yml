@@ -5,15 +5,18 @@
   patch: "26.17"
   durationSec: 1402
   region: KR
-- videoId: 1Mr6gek740k
-  title: Fiora Top vs Ambessa - KR Challenger Patch 26.05
-  rankClaim: Challenger
-  patch: "26.5"
-  durationSec: 1512
-  region: KR
+  uploaded: 2026-09-09
 - videoId: Y0-FQcCz9n8
   title: Fiora vs Ambessa Top - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 2206
   region: KR
+  uploaded: 2026-03-18
+- videoId: 1Mr6gek740k
+  title: Fiora Top vs Ambessa - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1512
+  region: KR
+  uploaded: 2026-03-10

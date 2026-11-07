@@ -209,21 +209,25 @@
   rankClaim: Master
   patch: "25.20"
   durationSec: 1727
+  uploaded: 2025-10-12
 - videoId: w6MPjabHKeM
   title: Ahri Support vs Lulu - NA Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1490
   region: NA
+  uploaded: 2025-09-22
 - videoId: Gp1TvFFr4nQ
   title: Ahri Support vs Lulu - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1972
   region: KR
+  uploaded: 2025-07-29
 - videoId: quouJWlfcWI
   title: Ahri Support vs Lulu - NA Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1898
   region: NA
+  uploaded: 2025-07-10

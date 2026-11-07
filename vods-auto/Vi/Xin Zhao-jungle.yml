@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1481
   region: KR
+  uploaded: 2026-09-14
 - videoId: ANrcEp2ohbY
   title: Vi vs Xin Zhao Jungle [ Gen.G Canyon ] Korea Challengerr 2394 LP | Patch 26.18
   rankClaim: Challenger
@@ -20,6 +21,7 @@
   patch: "26.16"
   durationSec: 1567
   region: KR
+  uploaded: 2026-08-23
 - videoId: r6gLaDr8E8g
   title: (BFX Clear) Vi Jungle vs Xin Zhao - KR Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -28,12 +30,7 @@
   region: KR
   player: Clear
   team: BFX
-- videoId: GwtZ36bSfH0
-  title: Vi Jungle vs Xin Zhao - KR Challenger Patch 26.09
-  rankClaim: Challenger
-  patch: "26.9"
-  durationSec: 1625
-  region: KR
+  uploaded: 2026-07-28
 - videoId: FfwTVys7ehc
   title: T1 Faker Vi vs Xin Zhao [ Jungle ] Korea Challenger 1942 LP | Patch 26.9
   rankClaim: Challenger
@@ -43,33 +40,228 @@
   player: Faker
   team: T1
   uploaded: 2026-05-12
+- videoId: GwtZ36bSfH0
+  title: Vi Jungle vs Xin Zhao - KR Challenger Patch 26.09
+  rankClaim: Challenger
+  patch: "26.9"
+  durationSec: 1625
+  region: KR
+  uploaded: 2026-05-05
 - videoId: hsQ2RP4LCGM
   title: Vi Jungle vs Xin Zhao - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1714
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:23
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:10
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:55
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:49
+      label: Take down The Turret
+      kind: tower
+    - at: 25:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:34
+      label: Take down The Turret
+      kind: tower
+    - at: 27:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:02
+      label: Take down The Turret
+      kind: tower
+    - at: 28:23
+      label: End credit
 - videoId: rfCGNhkEq-8
   title: Vi Jungle vs Xin Zhao - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1811
   region: KR
+  uploaded: 2026-02-20
 - videoId: D6sYlRodhqk
   title: Vi Jungle vs Xin Zhao - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1506
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Get a Triple Kill
+      kind: kill
+    - at: 10:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:40
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:38
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: End credit
 - videoId: qvT7JQ0zhFI
   title: Vi vs XinZhao Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1776
   region: KR
+  uploaded: 2025-04-19
 - videoId: O1G837wm6cM
   title: Vi Jungle vs Xin Zhao - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1488
   region: KR
+  uploaded: 2025-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:07
+      label: Take down The Turret
+      kind: tower
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:27
+      label: End credit

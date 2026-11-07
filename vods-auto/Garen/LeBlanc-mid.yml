@@ -5,3 +5,51 @@
   patch: "26.18"
   durationSec: 1812
   region: KR
+  uploaded: 2026-09-23
+  result: W
+  moments:
+    - at: 0:10
+      label: First Blood — Kennen kills Fiora
+      kind: kill
+    - at: 6:24
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 6:34
+      label: Garen takes down LeBlanc
+    - at: 12:31
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 16:10
+      label: Garen catches Caitlyn
+    - at: 17:13
+      label: Garen catches LeBlanc again
+    - at: 18:29
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 21:22
+      label: Red takes Baron
+      kind: baron
+    - at: 21:46
+      label: Yasuo picks off Bard
+    - at: 22:26
+      label: Garen kills Caitlyn
+      kind: kill
+    - at: 23:38
+      label: Garen takes down Bard
+    - at: 24:04
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:48
+      label: Garen picks off Ekko
+    - at: 26:29
+      label: Sylas kills Fiora
+      kind: kill
+    - at: 26:47
+      label: Mid Inhibitor falls (Red)
+    - at: 27:13
+      label: Garen picks off Ekko
+    - at: 28:28
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 29:21
+      label: Garen eliminates LeBlanc

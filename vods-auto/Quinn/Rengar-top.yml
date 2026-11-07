@@ -5,15 +5,59 @@
   patch: "26.4"
   durationSec: 1561
   region: KR
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:25
+      label: Take down The Turret
+      kind: tower
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 19:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Take down The Turret
+      kind: tower
+    - at: 24:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: End credit
 - videoId: 07GsJ4BJ5Jw
   title: Quinn Top vs Rengar - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1884
   region: KR
+  uploaded: 2025-05-08
 - videoId: JE441Huf-Tw
   title: Quinn Top vs Rengar - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1495
   region: KR
+  uploaded: 2025-04-10

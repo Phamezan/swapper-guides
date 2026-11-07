@@ -8,6 +8,14 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-09-27
+- videoId: eLKH7Q7czxM
+  title: 1600LP Lucian "Jzad" He is The Only Man Who Could Save This Game - Engsub ( Lucian vs Varus )
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1309
+  patchEstimated: true
+  uploaded: 2026-05-22
+  format: stream
 - videoId: S69A70q1DBg
   title: Lucian vs Varus ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -23,12 +31,14 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-02-22
 - videoId: YQuoHNDonCw
   title: Lucian ADC vs Varus - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1548
   region: KR
+  uploaded: 2026-01-24
 - videoId: QOYZKW0GrBo
   title: Lucian vs Varus ADC [ DRX Teddy ] Patch 25.14 Korea Challenger
   rankClaim: Challenger
@@ -37,12 +47,14 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-16
 - videoId: 9TTOAY-h8WI
   title: Lucian ADC vs Varus - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1669
   region: KR
+  uploaded: 2025-06-02
 - videoId: w1isDzZSnPI
   title: T1 Gumayusi Lucian vs Varus [ ADC ] Korea Challenger Patch 25.10
   rankClaim: Challenger
@@ -51,6 +63,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-23
 - videoId: h5ielOKLz7c
   title: T1 Gumayusi Lucian vs Varus [ ADC ] Korea Master Patch 25.9
   rankClaim: Master
@@ -59,6 +72,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-02
 - videoId: nhIhnihhZYc
   title: Lucian vs Varus ADC [ Deft ] Korea Challenger Patch 25.8 ✅
   rankClaim: Challenger
@@ -66,6 +80,7 @@
   durationSec: 1448
   region: KR
   player: Deft
+  uploaded: 2025-04-28
 - videoId: HPIw8RuVLTk
   title: T1 Gumayusi Lucian vs Varus [ ADC ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -74,3 +89,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-08

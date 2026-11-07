@@ -5,9 +5,61 @@
   patch: "26.18"
   durationSec: 1498
   region: EUW
+  uploaded: 2026-09-13
 - videoId: 1mvfhU0nq4Q
   title: Yorick Top vs Camille - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1537
   region: KR
+  uploaded: 2026-01-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:22
+      label: Take down The Turret
+      kind: tower
+    - at: 13:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:31
+      label: Take down The Turret
+      kind: tower
+    - at: 17:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Take down The Turret
+      kind: tower
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Take down The Turret
+      kind: tower
+    - at: 24:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: End credit

@@ -5,9 +5,95 @@
   patch: "25.7"
   durationSec: 1356
   region: KR
+  uploaded: 2025-04-07
 - videoId: xQo-fo9DQWk
   title: Udyr Jungle vs Shaco - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1893
   region: EUW
+  uploaded: 2025-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:46
+      label: Hunt The Atakhan
+    - at: 21:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:08
+      label: Take down The Turret
+      kind: tower
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:20
+      label: Take down The Turret
+      kind: tower
+    - at: 26:53
+      label: Take down The Inhibitor
+    - at: 27:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:59
+      label: Take down The Turret
+      kind: tower
+    - at: 31:12
+      label: End credit

@@ -5,15 +5,80 @@
   patch: "26.17"
   durationSec: 1860
   region: KR
+  uploaded: 2026-08-31
 - videoId: gN5ogeOfY5k
   title: LeBLanc vs Taliyah Mid - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1751
   region: KR
+  uploaded: 2025-10-27
 - videoId: 09fSqL3jqe8
   title: LeBlanc Mid vs Taliyah - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1515
   region: KR
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: End credit

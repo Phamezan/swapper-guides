@@ -84,12 +84,51 @@
   patch: "26.16"
   durationSec: 1791
   region: EUW
+  uploaded: 2026-08-20
+  result: L
+  moments:
+    - at: 7:04
+      label: First Blood — Kassadin kills Yone
+      kind: kill
+    - at: 11:06
+      label: Kassadin kills Veigar
+      kind: kill
+    - at: 12:12
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:58
+      label: Kassadin eliminates Yone
+    - at: 13:27
+      label: Kassadin takes down Nautilus
+    - at: 14:14
+      label: Kassadin eliminates Yone
+    - at: 14:48
+      label: Kassadin takes down Nautilus
+    - at: 17:44
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:09
+      label: Azir Double Kill
+      kind: kill
+    - at: 20:54
+      label: Red takes Baron
+      kind: baron
+    - at: 23:23
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 27:01
+      label: Xin Zhao takes down Lee Sin
+    - at: 27:23
+      label: Mid Inhibitor falls (Red)
+    - at: 28:51
+      label: Mid Inhibitor falls (Blue)
 - videoId: zcf5FRR1azg
   title: Kassadin Mid vs Yone - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1750
   region: KR
+  uploaded: 2026-05-06
 - videoId: IESxWmvEn20
   title: Kassadin vs Yone MID [ Triple Kill ] Lol Korea Master Patch 25.9 ✅
   rankClaim: Master
@@ -97,3 +136,4 @@
   durationSec: 1667
   region: KR
   player: Triple Kill
+  uploaded: 2025-05-08

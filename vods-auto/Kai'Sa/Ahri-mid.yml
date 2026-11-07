@@ -5,9 +5,51 @@
   patch: "26.12"
   durationSec: 1658
   region: EUW
+  uploaded: 2026-06-25
 - videoId: qYGfU4Bd0GM
   title: Kai'Sa Mid vs Ahri - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1581
   region: KR
+  uploaded: 2026-05-08
+  result: W
+  moments:
+    - at: 2:17
+      label: First Blood — Kai'Sa kills Ahri
+      kind: kill
+    - at: 4:16
+      label: Sivir Double Kill
+      kind: kill
+    - at: 5:54
+      label: Jarvan IV takes down Lee Sin
+    - at: 7:27
+      label: Kai'Sa eliminates Ahri
+    - at: 9:38
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:58
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 12:33
+      label: Kai'Sa takes down Blitzcrank
+    - at: 15:02
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:28
+      label: Kai'Sa eliminates Ahri
+    - at: 18:20
+      label: Bot Inhibitor falls (Red)
+    - at: 19:57
+      label: Kai'Sa outplays Yorick
+    - at: 20:42
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:22
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 23:17
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:25
+      label: Mid Inhibitor falls (Red)

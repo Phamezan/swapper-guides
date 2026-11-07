@@ -5,9 +5,57 @@
   patch: "25.13"
   durationSec: 2066
   region: KR
+  uploaded: 2025-07-17
 - videoId: yrFsjGBvTtk
   title: Shyvana Jungle vs Pantheon - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1787
   region: KR
+  uploaded: 2025-05-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: Take down The Turret
+      kind: tower
+    - at: 26:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:10
+      label: Take down The Inhibitor
+    - at: 29:26
+      label: End credit

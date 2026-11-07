@@ -5,9 +5,98 @@
   patch: "26.17"
   durationSec: 1455
   region: KR
+  uploaded: 2026-08-31
 - videoId: 4xNesf15geY
   title: Kayn Jungle vs Naafiri - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1575
   region: KR
+  uploaded: 2025-05-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:54
+      label: Get a Triple Kill
+      kind: kill
+    - at: 12:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:33
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 14:08
+      label: Take down The Turret
+      kind: tower
+    - at: 15:11
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:42
+      label: Take down The Turret
+      kind: tower
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:03
+      label: Take down The Turret
+      kind: tower
+    - at: 20:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Take down The Turret
+      kind: tower
+    - at: 21:05
+      label: Take down The Inhibitor
+    - at: 21:33
+      label: Hunt The Atakhan
+    - at: 22:57
+      label: Take down The Turret
+      kind: tower
+    - at: 23:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:54
+      label: End credit

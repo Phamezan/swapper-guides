@@ -5,15 +5,58 @@
   patch: "26.8"
   durationSec: 1894
   region: KR
+  uploaded: 2026-04-21
 - videoId: 8GlgLlIsEuI
   title: Xin Zhao Jungle vs Skarner - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1485
   region: EUW
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:16
+      label: Hunt The Atakhan
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: End credit
 - videoId: 2CtSNBm4B9w
   title: Xin Zhao Jungle vs Skarner - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1580
   region: KR
+  uploaded: 2025-06-01

@@ -14,8 +14,66 @@
   patch: "25.24"
   durationSec: 1586
   region: EUW
+  uploaded: 2025-12-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: Take down The Turret
+      kind: tower
+    - at: 24:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:15
+      label: End credit
 - videoId: sNVG0x4MuMg
   title: Cassiopeia Mid vs Ahri - VN Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1767
+  uploaded: 2025-10-19

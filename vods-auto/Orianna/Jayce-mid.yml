@@ -6,12 +6,14 @@
   durationSec: 1714
   region: EUW
   player: FXF Creal
+  uploaded: 2026-06-25
 - videoId: L3x-jAdizTg
   title: Orianna Mid vs Jayce - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1657
   region: KR
+  uploaded: 2025-10-25
 - videoId: guyN9MkUa5Q
   title: T1 Faker Orianna vs Jayce [ MID ] Patch 25.18 Korea Grandmaster
   rankClaim: Grandmaster
@@ -20,3 +22,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-09-14

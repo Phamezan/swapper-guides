@@ -457,27 +457,93 @@
   patch: "26.7"
   durationSec: 1590
   region: KR
+  uploaded: 2026-04-05
 - videoId: 96_O4iMF864
   title: Zed Mid vs Aurora - EUW Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1885
   region: EUW
+  uploaded: 2026-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:32
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:18
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: Take down The Turret
+      kind: tower
+    - at: 27:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:19
+      label: Take down The Turret
+      kind: tower
+    - at: 27:37
+      label: Take down The Inhibitor
+    - at: 29:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:14
+      label: End credit
 - videoId: 8p3Q4-y0crM
   title: Zed Mid vs Aurora - TW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1642
+  uploaded: 2025-10-19
 - videoId: kPKoVgpE2Yc
   title: Zed Mid vs Aurora - BR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1752
+  uploaded: 2025-08-28
 - videoId: sauJIp61P94
   title: Zed Mid vs Aurora - TW Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1474
+  uploaded: 2025-05-31
 - videoId: DtLw_LY3zVE
   title: OnZed Zed vs Aurora Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
@@ -485,29 +551,124 @@
   durationSec: 1571
   region: KR
   player: OnZed
+  uploaded: 2025-04-29
 - videoId: IpmR83Z5Ljk
   title: Zed vs Aurora Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 2416
   region: KR
+  uploaded: 2025-04-19
 - videoId: JHsITeP8xnE
   title: Zed Mid vs Aurora - BR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1910
+  uploaded: 2025-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:43
+      label: Take down The Turret
+      kind: tower
+    - at: 16:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Take down The Turret
+      kind: tower
+    - at: 21:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:48
+      label: Take down The Turret
+      kind: tower
+    - at: 26:11
+      label: Get a Triple Kill
+      kind: kill
+    - at: 26:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:59
+      label: Take down The Inhibitor
+    - at: 30:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 31:29
+      label: End credit
 - videoId: sbmu6ifGNkE
   title: Zed Mid vs Aurora - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1783
   region: EUW
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:22
+      label: End credit
 - videoId: XCTssBoDVsI
   title: Zed Mid vs Aurora - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1767
   region: EUW
+  uploaded: 2025-03-04
 - videoId: WW0GQB9wDro
   title: Zed vs Aurora MID [ Gen G Chovy ] Korea Grandmaster Patch 25.2 ✅
   rankClaim: Grandmaster
@@ -515,3 +676,4 @@
   durationSec: 1477
   region: KR
   player: Chovy
+  uploaded: 2025-02-05

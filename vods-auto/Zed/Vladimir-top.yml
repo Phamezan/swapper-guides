@@ -59,9 +59,78 @@
   patch: "25.24"
   durationSec: 1525
   region: EUW
+  uploaded: 2025-12-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Take down The Turret
+      kind: tower
+    - at: 17:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:59
+      label: Take down The Turret
+      kind: tower
+    - at: 21:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: Take down The Turret
+      kind: tower
+    - at: 24:41
+      label: Take down The Inhibitor
+    - at: 24:53
+      label: Take down The Turret
+      kind: tower
+    - at: 25:14
+      label: End credit
 - videoId: LpkwddEeSgI
   title: Zed Top vs Vladimir - NA Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1758
   region: NA
+  uploaded: 2025-06-01

@@ -85,21 +85,72 @@
   patch: "26.9"
   durationSec: 1706
   region: KR
+  uploaded: 2026-05-04
+  result: W
+  moments:
+    - at: 7:06
+      label: First Blood — Nocturne kills Syndra
+      kind: kill
+    - at: 11:05
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:42
+      label: LeBlanc takes down Syndra
+    - at: 13:47
+      label: LeBlanc catches Syndra again
+    - at: 14:35
+      label: LeBlanc kills Ashe
+      kind: kill
+    - at: 16:23
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:07
+      label: LeBlanc eliminates Syndra
+    - at: 18:14
+      label: LeBlanc outduels Syndra (3rd time)
+    - at: 20:13
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:14
+      label: LeBlanc outplays Syndra (4th time)
+    - at: 22:15
+      label: LeBlanc solo kills Syndra (5th time)
+      kind: kill
+    - at: 22:32
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:12
+      label: LeBlanc picks off Pantheon
+    - at: 24:34
+      label: Mid Inhibitor falls (Red)
+    - at: 24:55
+      label: Bot Inhibitor falls (Red)
+    - at: 26:21
+      label: Top Inhibitor falls (Red)
+    - at: 27:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:33
+      label: LeBlanc Triple Kill
+      kind: kill
 - videoId: 4yjxVRdPSEk
   title: LeBlanc Mid vs Syndra - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1479
   region: KR
+  uploaded: 2026-01-26
 - videoId: uOSZvV6fBPM
   title: LeBlanc Mid vs Syndra - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1495
   region: EUW
+  uploaded: 2026-01-06
 - videoId: sX_ljPcc8dA
   title: LeBlanc vs Syndra Mid - KR Master - Patch 25.7 Season 15
   rankClaim: Master
   patch: "25.7"
   durationSec: 1801
   region: KR
+  uploaded: 2025-04-15

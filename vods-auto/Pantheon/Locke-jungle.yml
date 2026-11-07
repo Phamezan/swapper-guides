@@ -6,6 +6,55 @@
   durationSec: 1500
   region: EUW
   player: MADD Benny
+  uploaded: 2026-07-16
+  result: L
+  moments:
+    - at: 0:57
+      label: First Blood — Pantheon kills Bard
+      kind: kill
+    - at: 5:16
+      label: Pantheon outplays Locke
+    - at: 5:54
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:48
+      label: Pantheon takes down Locke
+    - at: 11:18
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 12:05
+      label: Tryndamere picks off Locke
+    - at: 13:40
+      label: Tryndamere eliminates Jayce
+    - at: 14:20
+      label: Jinx eliminates Locke
+    - at: 15:14
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:55
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 17:31
+      label: Pantheon kills Malphite
+      kind: kill
+    - at: 18:44
+      label: Tryndamere kills Draven
+      kind: kill
+    - at: 19:20
+      label: Jinx eliminates Locke
+    - at: 20:10
+      label: Red takes Baron
+      kind: baron
+    - at: 21:59
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:22
+      label: Jinx eliminates Locke
+    - at: 22:43
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 23:54
+      label: Pantheon Double Kill
+      kind: kill
 - videoId: doIiBGf1N7c
   title: (FWS Betty) Pantheon Jungle vs Locke - KR Master Patch 26.13
   rankClaim: Master
@@ -13,3 +62,4 @@
   durationSec: 1609
   region: KR
   player: FWS Betty
+  uploaded: 2026-07-04

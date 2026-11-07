@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1816
   region: KR
+  uploaded: 2026-09-10
 - videoId: _ii4q8159cs
   title: (LNG sheer) Gnar Top vs Jax - KR Master Patch 26.12
   rankClaim: Master
@@ -13,9 +14,11 @@
   region: KR
   player: sheer
   team: LNG
+  uploaded: 2026-06-25
 - videoId: 6QuZZPOXX6M
   title: Gnar Top vs Jax - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1669
   region: EUW
+  uploaded: 2025-12-05

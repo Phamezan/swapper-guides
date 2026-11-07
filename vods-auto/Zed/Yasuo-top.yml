@@ -217,8 +217,139 @@
   patch: "26.2"
   durationSec: 1497
   region: EUW
+  uploaded: 2026-01-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:52
+      label: Take down The Turret
+      kind: tower
+    - at: 11:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:29
+      label: Take down The Turret
+      kind: tower
+    - at: 17:04
+      label: Take down The Turret
+      kind: tower
+    - at: 17:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:40
+      label: Take down The Turret
+      kind: tower
+    - at: 19:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:33
+      label: Take down The Turret
+      kind: tower
+    - at: 20:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:49
+      label: Take down The Turret
+      kind: tower
+    - at: 21:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Take down The Turret
+      kind: tower
+    - at: 23:43
+      label: Take down The Inhibitor
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: End credit
 - videoId: Q35MIIkpsUA
   title: Zed Top vs Yasuo - VN Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1499
+  uploaded: 2025-05-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Take down The Turret
+      kind: tower
+    - at: 15:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:14
+      label: Take down The Turret
+      kind: tower
+    - at: 16:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Take down The Turret
+      kind: tower
+    - at: 24:38
+      label: End credit

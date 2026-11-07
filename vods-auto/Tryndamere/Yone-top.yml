@@ -50,8 +50,29 @@
       label: Bot Inhibitor falls (Blue)
     - at: 30:41
       label: Kha'Zix picks off Vladimir
+- videoId: A2px1VpqLPs
+  title: I Beat Yone so bad he has a Mental Breakdown about Tryndamere
+  rankClaim: Master+
+  patch: "26.8"
+  durationSec: 1551
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-04-17
+  format: stream
+  cam: true
+- videoId: 0VJ5Gjb80ZE
+  title: If you're tired of losing to Yone, just lock in Tryndamere
+  rankClaim: Master+
+  patch: "26.6"
+  durationSec: 1500
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-03-30
+  format: stream
+  cam: true
 - videoId: gNJScpO3Zz4
   title: Tryndamere Top vs Yone - TW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1644
+  uploaded: 2026-03-20

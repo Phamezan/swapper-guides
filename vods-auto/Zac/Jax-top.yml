@@ -5,9 +5,66 @@
   patch: "26.6"
   durationSec: 1531
   region: KR
+  uploaded: 2026-03-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:31
+      label: Take down The Turret
+      kind: tower
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Take down The Turret
+      kind: tower
+    - at: 16:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:05
+      label: Take down The Turret
+      kind: tower
+    - at: 21:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:11
+      label: Take down The Turret
+      kind: tower
+    - at: 23:04
+      label: Take down The Inhibitor
+    - at: 23:16
+      label: Take down The Turret
+      kind: tower
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: End credit
 - videoId: mcwOiTwrfTY
   title: Zac Top vs Jax - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1668
   region: KR
+  uploaded: 2025-06-22

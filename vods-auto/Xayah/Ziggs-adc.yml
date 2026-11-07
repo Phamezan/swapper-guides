@@ -6,12 +6,14 @@
   durationSec: 1715
   region: EUW
   player: Henry Snow
+  uploaded: 2026-07-09
 - videoId: XzK50ZxeHDo
   title: Xayah ADC vs Ziggs - EUW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1927
   region: EUW
+  uploaded: 2025-06-26
 - videoId: XRScpOV-BIY
   title: T1 Gumayusi Xayah ADC vs Ziggs - Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -20,3 +22,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-22

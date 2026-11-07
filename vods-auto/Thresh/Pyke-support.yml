@@ -61,15 +61,81 @@
   patch: "26.7"
   durationSec: 1681
   region: KR
+  uploaded: 2026-04-17
 - videoId: DrGUwJJbiAI
   title: Thresh Support vs Pyke - EUW Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1571
   region: EUW
+  uploaded: 2025-09-25
 - videoId: ZSFsAlr5tlw
   title: Thresh Support vs Pyke - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1802
   region: KR
+  uploaded: 2025-05-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 16:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Take down The Turret
+      kind: tower
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:58
+      label: Take down The Turret
+      kind: tower
+    - at: 23:18
+      label: Take down The Inhibitor
+    - at: 23:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: Take down The Turret
+      kind: tower
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:41
+      label: Take down The Inhibitor
+    - at: 28:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:41
+      label: End credit

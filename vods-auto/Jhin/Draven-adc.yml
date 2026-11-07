@@ -7,6 +7,14 @@
   patchEstimated: true
   uploaded: 2026-10-24
   format: stream
+- videoId: g-m71jJZET0
+  title: "Rank 1 Jhin : His DAMAGE is Overwhelming Everyone - Engsub ( vs Draven, Sivir )"
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1874
+  patchEstimated: true
+  uploaded: 2026-10-06
+  format: stream
 - videoId: coAAq789LTc
   title: (KT Ghost) Jhin ADC vs Draven - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -15,6 +23,7 @@
   region: KR
   player: Ghost
   team: KT
+  uploaded: 2026-08-14
 - videoId: NSSmozVE0q4
   title: HLE Gumayusi Jhin vs Draven [ ADC ] Patch 26.7 Korea Challenger 2376 LP
   rankClaim: Challenger
@@ -30,3 +39,4 @@
   patch: "25.24"
   durationSec: 1613
   region: EUW
+  uploaded: 2026-01-06

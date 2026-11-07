@@ -7,15 +7,67 @@
   region: KR
   player: Jackal
   team: HLE
+  uploaded: 2026-10-01
 - videoId: IRQoDgteWAc
   title: Viktor Mid vs Syndra (TSW Dire) - KR Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1821
   region: KR
+  uploaded: 2026-08-22
 - videoId: c16f8tfdWUI
   title: Viktor Mid vs Syndra - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1656
   region: KR
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Take down The Turret
+      kind: tower
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:59
+      label: Take down The Turret
+      kind: tower
+    - at: 18:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 24:02
+      label: Take down The Turret
+      kind: tower
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:14
+      label: Take down The Inhibitor
+    - at: 26:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Take down The Turret
+      kind: tower
+    - at: 27:15
+      label: End credit

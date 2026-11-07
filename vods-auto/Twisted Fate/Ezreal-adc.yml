@@ -6,3 +6,51 @@
   durationSec: 1750
   region: KR
   player: CFO Rest
+  uploaded: 2026-06-19
+  result: L
+  moments:
+    - at: 0:14
+      label: First Blood — Twisted Fate kills Ezreal
+      kind: kill
+    - at: 6:17
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:06
+      label: Twisted Fate picks off Thresh
+    - at: 7:29
+      label: Twisted Fate outduels Ezreal
+    - at: 8:39
+      label: Twisted Fate picks off Thresh
+    - at: 11:57
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:50
+      label: Karma picks off Ezreal
+    - at: 16:25
+      label: Twisted Fate kills Mel
+      kind: kill
+    - at: 17:01
+      label: Twisted Fate picks off Yasuo
+    - at: 17:47
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:42
+      label: Ryze takes down Yasuo
+    - at: 19:36
+      label: Twisted Fate picks off Thresh
+    - at: 21:38
+      label: Twisted Fate picks off Yasuo
+    - at: 22:19
+      label: Red takes Baron
+      kind: baron
+    - at: 23:15
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:01
+      label: Kha'Zix Double Kill
+      kind: kill
+    - at: 27:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:11
+      label: Top Inhibitor falls (Blue)

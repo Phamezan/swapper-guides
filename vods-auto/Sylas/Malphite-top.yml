@@ -6,6 +6,7 @@
   durationSec: 1686
   region: NA
   player: Philip
+  uploaded: 2026-07-11
 - videoId: URswcILNikA
   title: (LNG BuLLDoG) Sylas Top vs Malphite - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -14,9 +15,72 @@
   region: KR
   player: BuLLDoG
   team: LNG
+  uploaded: 2026-05-23
 - videoId: c56Mk-3qFmM
   title: Sylas Top vs Malphite - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1526
   region: KR
+  uploaded: 2025-05-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Take down The Turret
+      kind: tower
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Take down The Turret
+      kind: tower
+    - at: 20:44
+      label: Take down The Inhibitor
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Take down The Turret
+      kind: tower
+    - at: 25:05
+      label: End credit

@@ -5,12 +5,73 @@
   patch: "26.6"
   durationSec: 1804
   region: KR
+  uploaded: 2026-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:46
+      label: Take down The Turret
+      kind: tower
+    - at: 13:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Take down The Turret
+      kind: tower
+    - at: 19:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:35
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:13
+      label: Take down The Turret
+      kind: tower
+    - at: 29:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:53
+      label: End credit
 - videoId: Vc8AgGaWkkc
   title: Taliyah Mid vs Azir - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1869
   region: KR
+  uploaded: 2025-08-18
 - videoId: EvJEMamn3I0
   title: T1 Faker Taliyah vs Azir [ MID ] Patch 25.11 Korea Grandmaster
   rankClaim: Grandmaster
@@ -19,9 +80,11 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-06-07
 - videoId: uUZufyHAOus
   title: Taliyah Mid vs Azir - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1514
   region: KR
+  uploaded: 2025-05-18

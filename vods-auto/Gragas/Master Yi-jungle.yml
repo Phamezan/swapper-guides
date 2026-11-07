@@ -5,9 +5,65 @@
   patch: "25.24"
   durationSec: 1529
   region: KR
+  uploaded: 2025-12-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:11
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Hunt The Atakhan
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Take down The Inhibitor
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: Take down The Turret
+      kind: tower
+    - at: 25:18
+      label: End credit
 - videoId: 1b4igfU0OnY
   title: Gragas Jungle vs Master Yi - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1428
   region: KR
+  uploaded: 2025-12-02

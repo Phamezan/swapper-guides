@@ -5,27 +5,79 @@
   patch: "26.11"
   durationSec: 1910
   region: KR
+  uploaded: 2026-06-02
 - videoId: RN8l5w5QkeI
   title: Aatrox Top vs Cho'Gath - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1597
   region: EUW
+  uploaded: 2026-01-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Take down The Turret
+      kind: tower
+    - at: 16:09
+      label: Take down The Turret
+      kind: tower
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: End credit
 - videoId: Ru8rh1QSP5g
   title: AATROX vs CHO'GATH (TOP) | 5k comeback, 50k DMG, Godlike | EUW Master | 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1845
   region: EUW
+  uploaded: 2025-10-10
 - videoId: epNVe_RROrE
   title: AATROX vs CHO'GATH (TOP) | 60k DMG, 4k comeback, 16/5/9 | EUW Master | 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 2375
   region: EUW
+  uploaded: 2025-08-29
 - videoId: iyM5VsPQAJk
   title: AATROX vs CHO'GATH (TOP) | 60k DMG | EUW Grandmaster | 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1718
   region: EUW
+  uploaded: 2025-06-10

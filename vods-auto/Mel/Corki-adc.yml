@@ -5,12 +5,14 @@
   patch: "25.21"
   durationSec: 1426
   region: KR
+  uploaded: 2025-11-03
 - videoId: 7DWleessWyQ
   title: Mel vs Corki ADC - EUW Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1741
   region: EUW
+  uploaded: 2025-07-18
 - videoId: kaECu7kZA2k
   title: Mel vs Corki ADC [ Peyz + TripleKill ] Patch 25.5 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -18,3 +20,4 @@
   durationSec: 1003
   region: KR
   player: Peyz
+  uploaded: 2025-03-12

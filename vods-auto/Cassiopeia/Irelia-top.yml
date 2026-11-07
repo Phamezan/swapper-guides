@@ -5,9 +5,144 @@
   patch: "25.9"
   durationSec: 1776
   region: KR
+  uploaded: 2025-05-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:04
+      label: Take down The Turret
+      kind: tower
+    - at: 29:15
+      label: End credit
 - videoId: NL12m9RIldA
   title: Cassiopeia Top vs Irelia - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1996
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:09
+      label: Take down The Turret
+      kind: tower
+    - at: 13:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Take down The Turret
+      kind: tower
+    - at: 22:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:06
+      label: Take down The Turret
+      kind: tower
+    - at: 27:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:39
+      label: Take down The Turret
+      kind: tower
+    - at: 32:55
+      label: End credit

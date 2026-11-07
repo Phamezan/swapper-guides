@@ -64,6 +64,7 @@
   patch: "26.13"
   durationSec: 1785
   region: KR
+  uploaded: 2026-07-15
 - videoId: guvEC4ruJCU
   title: (IJC Kaboom) Lillia Jungle vs Lee Sin - EUW Challenger Patch 26.11
   rankClaim: Challenger
@@ -71,6 +72,7 @@
   durationSec: 1455
   region: EUW
   player: IJC Kaboom
+  uploaded: 2026-06-11
 - videoId: zQQZSvzliAg
   title: (AOEE RoseThorn) Lillia Jungle vs Lee Sin - NA Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -78,12 +80,14 @@
   durationSec: 1798
   region: NA
   player: AOEE RoseThorn
+  uploaded: 2026-05-30
 - videoId: DuVl9tNTnj4
   title: Lillia Jungle vs Lee Sin - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1696
   region: KR
+  uploaded: 2026-05-14
 - videoId: 7xD7xRG2HXY
   title: Lillia vs Lee Sin 8/6/25 (Jungle) | EUW Master | Lillia OTP Replay
   rankClaim: Master
@@ -98,8 +102,10 @@
   patch: "26.5"
   durationSec: 1888
   region: KR
+  uploaded: 2026-03-11
 - videoId: 37-2_lDZzw0
   title: Lillia Jungle vs Lee Sin - TW Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1506
+  uploaded: 2025-09-12

@@ -5,3 +5,75 @@
   patch: "26.4"
   durationSec: 1793
   region: NA
+  uploaded: 2026-03-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:06
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:15
+      label: Take down The Turret
+      kind: tower
+    - at: 29:42
+      label: End credit

@@ -5,3 +5,46 @@
   patch: "26.17"
   durationSec: 1688
   region: NA
+  uploaded: 2026-09-02
+  result: W
+  moments:
+    - at: 3:56
+      label: First Blood — Kennen kills Volibear
+      kind: kill
+    - at: 6:23
+      label: Qiyana kills Volibear
+      kind: kill
+    - at: 7:41
+      label: Kennen catches Volibear
+    - at: 10:17
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:15
+      label: Qiyana kills Volibear
+      kind: kill
+    - at: 14:21
+      label: Kennen eliminates Volibear
+    - at: 16:13
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:26
+      label: Qiyana kills Seraphine
+      kind: kill
+    - at: 17:03
+      label: Qiyana kills Volibear
+      kind: kill
+    - at: 19:22
+      label: Yunara picks off Seraphine
+    - at: 20:02
+      label: Mid Inhibitor falls (Blue)
+    - at: 21:35
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:45
+      label: Qiyana kills Seraphine
+      kind: kill
+    - at: 27:09
+      label: Mid Inhibitor falls (Blue)

@@ -5,3 +5,65 @@
   patch: "26.7"
   durationSec: 1530
   region: NA
+  uploaded: 2026-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Take down The Turret
+      kind: tower
+    - at: 22:56
+      label: Take down The Inhibitor
+    - at: 23:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Take down The Turret
+      kind: tower
+    - at: 25:19
+      label: End credit

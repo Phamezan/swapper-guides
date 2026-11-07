@@ -5,15 +5,81 @@
   patch: "25.22"
   durationSec: 1671
   region: EUW
+  uploaded: 2025-11-14
 - videoId: G9lyLlJIvh8
   title: Jayce Mid vs Sylas - NA Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1599
   region: NA
+  uploaded: 2025-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:17
+      label: Take down The Turret
+      kind: tower
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Take down The Turret
+      kind: tower
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:06
+      label: Take down The Turret
+      kind: tower
+    - at: 23:11
+      label: Take down The Inhibitor
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Take down The Turret
+      kind: tower
+    - at: 24:05
+      label: Take down The Inhibitor
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Take down The Turret
+      kind: tower
+    - at: 26:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: End credit
 - videoId: VjbADSl4V3k
   title: Jayce Mid vs Sylas - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1806
   region: KR
+  uploaded: 2025-02-24

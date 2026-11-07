@@ -5,9 +5,61 @@
   patch: "26.13"
   durationSec: 1765
   region: EUW
+  uploaded: 2026-07-03
 - videoId: ONizVGhSAUY
   title: Malzahar Mid vs Tristana - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1486
   region: EUW
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:16
+      label: Take down The Turret
+      kind: tower
+    - at: 16:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Take down The Turret
+      kind: tower
+    - at: 18:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:36
+      label: Take down The Turret
+      kind: tower
+    - at: 22:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Take down The Turret
+      kind: tower
+    - at: 24:15
+      label: Take down The Turret
+      kind: tower
+    - at: 24:35
+      label: End credit

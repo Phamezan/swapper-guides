@@ -5,15 +5,68 @@
   patch: "26.13"
   durationSec: 1547
   region: KR
+  uploaded: 2026-07-02
 - videoId: o_UJAvjLTtc
   title: Volibear Jungle vs Vi - NA Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2140
   region: NA
+  uploaded: 2025-05-09
 - videoId: A37xlTmnfTg
   title: Volibear Jungle vs Vi - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1567
   region: EUW
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:30
+      label: Take down The Turret
+      kind: tower
+    - at: 25:46
+      label: End credit

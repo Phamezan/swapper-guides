@@ -5,9 +5,54 @@
   patch: "26.17"
   durationSec: 1436
   region: EUW
+  uploaded: 2026-09-03
 - videoId: 33bY87f4t7w
   title: Veigar Mid vs Katarina - EUW Challenger Patch 26.12
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1462
   region: EUW
+  uploaded: 2026-06-18
+  result: W
+  moments:
+    - at: 6:16
+      label: First Blood — Veigar kills Katarina
+      kind: kill
+    - at: 6:39
+      label: Kha'Zix takes down Trundle
+    - at: 8:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 8:54
+      label: Veigar Double Kill
+      kind: kill
+    - at: 9:24
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:11
+      label: Kha'Zix takes down Trundle
+    - at: 10:35
+      label: Veigar takes down Katarina
+    - at: 14:26
+      label: Veigar eliminates Katarina
+    - at: 15:21
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:25
+      label: Jax eliminates Rumble
+    - at: 18:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:43
+      label: Veigar outduels Karma
+    - at: 20:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:13
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:05
+      label: Mid Inhibitor falls (Red)
+    - at: 23:18
+      label: Kalista Double Kill
+      kind: kill

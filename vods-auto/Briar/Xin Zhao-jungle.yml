@@ -5,15 +5,218 @@
   patch: "26.4"
   durationSec: 1510
   region: EUW
+  uploaded: 2026-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:18
+      label: Take down The Turret
+      kind: tower
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Take down The Turret
+      kind: tower
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Take down The Inhibitor
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: End credit
 - videoId: VuXNdobcnyg
   title: Briar Jungle vs Xin Zhao - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1552
   region: KR
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:21
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Take down The Turret
+      kind: tower
+    - at: 15:02
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Take down The Turret
+      kind: tower
+    - at: 25:19
+      label: Take down The Inhibitor
+    - at: 25:41
+      label: End credit
 - videoId: 1Z2YsSFUkeM
   title: Briar Jungle vs Xin Zhao - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1710
   region: KR
+  uploaded: 2025-05-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:58
+      label: Take down The Turret
+      kind: tower
+    - at: 16:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Hunt The Atakhan
+    - at: 21:03
+      label: Take down The Turret
+      kind: tower
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:16
+      label: Take down The Turret
+      kind: tower
+    - at: 27:32
+      label: Take down The Inhibitor
+    - at: 28:09
+      label: End credit

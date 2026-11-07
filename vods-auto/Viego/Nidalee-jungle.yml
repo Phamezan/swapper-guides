@@ -13,6 +13,7 @@
   durationSec: 1584
   region: KR
   player: OMG re0
+  uploaded: 2026-08-10
 - videoId: BzQI8EYDr_0
   title: (TT Feather) Viego Jungle vs Nidalee - KR Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -20,6 +21,7 @@
   durationSec: 1540
   region: KR
   player: TT Feather
+  uploaded: 2026-06-12
 - videoId: MqwjcSxf5pQ
   title: Viego vs Nidalee 22/3/8 (Jungle) | EUW Challenger | Viego OTP Replay
   rankClaim: Challenger
@@ -34,66 +36,157 @@
   patch: "26.5"
   durationSec: 1741
   region: KR
+  uploaded: 2026-03-17
 - videoId: xU9iXGA0jIs
   title: Viego Jungle vs Nidalee - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1652
   region: KR
-- videoId: CfCoI07gtbU
-  title: Viego Jungle vs Nidalee - KR Challenger Patch 25.21
-  rankClaim: Challenger
-  patch: "25.21"
-  durationSec: 1551
-  region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 27:00
+      label: Take down The Turret
+      kind: tower
+    - at: 27:21
+      label: End credit
 - videoId: w45BHTJBf9w
   title: Viego vs Nidalee Jungle - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1561
   region: KR
+  uploaded: 2025-10-27
+- videoId: CfCoI07gtbU
+  title: Viego Jungle vs Nidalee - KR Challenger Patch 25.21
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1551
+  region: KR
+  uploaded: 2025-10-26
 - videoId: zSaCB2RBQzM
   title: Viego vs Nidalee Jungle - EUW Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1981
   region: EUW
-- videoId: K4JhMK88mho
-  title: Viego Jungle vs Nidalee - KR Challenger Patch 25.12
-  rankClaim: Challenger
-  patch: "25.12"
-  durationSec: 1831
-  region: KR
+  uploaded: 2025-10-25
 - videoId: 8bzCRfe029w
   title: Viego vs Nidalee Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1786
   region: KR
+  uploaded: 2025-06-23
+- videoId: K4JhMK88mho
+  title: Viego Jungle vs Nidalee - KR Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1831
+  region: KR
+  uploaded: 2025-06-14
 - videoId: Igc0M8L2ouo
   title: Viego vs Nidalee Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1831
   region: KR
+  uploaded: 2025-06-13
 - videoId: lzVLfP-ZmaI
   title: Viego vs Nidalee Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1726
   region: KR
+  uploaded: 2025-04-27
 - videoId: 6svcMzwqqyE
   title: Viego vs Nidalee Jungle - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1980
   region: KR
+  uploaded: 2025-02-26
 - videoId: FRh3jjCR-eY
   title: Viego vs Nidalee Jungle - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1750
   region: KR
+  uploaded: 2025-02-24
 - videoId: z7DWZy0K2hs
   title: T1 Oner Viego vs Nidalee [ Jungle ] Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -102,3 +195,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-02-01

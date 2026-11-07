@@ -5,9 +5,70 @@
   patch: "26.6"
   durationSec: 1889
   region: KR
+  uploaded: 2026-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:19
+      label: Take down The Turret
+      kind: tower
+    - at: 19:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:18
+      label: End credit
 - videoId: EXaw24Nnf8Q
   title: Tahm Kench Top vs Darius - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1746
   region: KR
+  uploaded: 2025-06-06

@@ -5,9 +5,67 @@
   patch: "26.2"
   durationSec: 1487
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:11
+      label: Take down The Turret
+      kind: tower
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:04
+      label: Take down The Turret
+      kind: tower
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: End credit
 - videoId: LU-0ObnMOz8
   title: Vel'Koz Support vs Taric - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1509
   region: NA
+  uploaded: 2026-01-03

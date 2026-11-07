@@ -19,12 +19,7 @@
   region: KR
   player: Doran
   team: T1
-- videoId: VuOkWaJKjDs
-  title: Gangplank Top vs Urgot - KR Grandmaster Patch 25.06
-  rankClaim: Grandmaster
-  patch: "25.6"
-  durationSec: 2053
-  region: KR
+  uploaded: 2025-12-14
 - videoId: SpEdusmVkz0
   title: Gangplank vs Urgot TOP [ Quadra Kill ] Lol Korea Master Patch 25.6 ✅
   rankClaim: Master
@@ -32,3 +27,84 @@
   durationSec: 1442
   region: KR
   player: Quadra Kill
+  uploaded: 2025-03-26
+- videoId: VuOkWaJKjDs
+  title: Gangplank Top vs Urgot - KR Grandmaster Patch 25.06
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 2053
+  region: KR
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:23
+      label: Take down The Turret
+      kind: tower
+    - at: 15:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Take down The Turret
+      kind: tower
+    - at: 16:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:00
+      label: Take down The Turret
+      kind: tower
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 31:20
+      label: Take down The Turret
+      kind: tower
+    - at: 32:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:18
+      label: Take down The Inhibitor
+    - at: 33:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:41
+      label: Take down The Turret
+      kind: tower
+    - at: 33:52
+      label: End credit

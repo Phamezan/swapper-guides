@@ -61,9 +61,54 @@
   durationSec: 1676
   region: EUW
   player: BGT CENTU
+  uploaded: 2026-07-17
 - videoId: FSarNCRX_ic
   title: Sona Support vs Senna - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1521
   region: EUW
+  uploaded: 2026-01-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Take down The Turret
+      kind: tower
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:58
+      label: Take down The Turret
+      kind: tower
+    - at: 23:12
+      label: Take down The Inhibitor
+    - at: 25:10
+      label: End credit

@@ -5,15 +5,95 @@
   patch: "26.2"
   durationSec: 1539
   region: EUW
+  uploaded: 2026-02-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:53
+      label: Take down The Turret
+      kind: tower
+    - at: 16:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Take down The Turret
+      kind: tower
+    - at: 21:12
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Take down The Turret
+      kind: tower
+    - at: 25:28
+      label: End credit
 - videoId: VjWC2psms9k
   title: Elise vs Diana Jungle - EUW Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1521
   region: EUW
+  uploaded: 2026-01-29
 - videoId: atIyd3XC9ss
   title: Elise Jungle vs Diana - EUW Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1556
   region: EUW
+  uploaded: 2026-01-15

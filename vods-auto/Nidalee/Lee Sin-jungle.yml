@@ -61,6 +61,7 @@
   patch: "26.19"
   durationSec: 1841
   region: KR
+  uploaded: 2026-09-26
 - videoId: Vbuy_52jrLI
   title: T1 Oner Nidalee vs Lee Sin [ Jungle ] Korea Challenger 2360 LP | Patch 26.10
   rankClaim: Challenger
@@ -76,27 +77,32 @@
   patch: "25.22"
   durationSec: 1606
   region: KR
-- videoId: X6faT17Kscg
-  title: Nidalee Jungle vs Lee Sin - KR Challenger Patch 25.20
-  rankClaim: Challenger
-  patch: "25.20"
-  durationSec: 2020
-  region: KR
+  uploaded: 2025-11-14
 - videoId: Xx0dP05gz60
   title: Nidalee vs Lee Sin Jungle - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1411
   region: KR
+  uploaded: 2025-10-20
+- videoId: X6faT17Kscg
+  title: Nidalee Jungle vs Lee Sin - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2020
+  region: KR
+  uploaded: 2025-10-11
 - videoId: MB2CbUdsznI
   title: Nidalee vs Lee Sin Jungle - KR Grandmaster - Patch 25.13 Season 15
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1726
   region: KR
+  uploaded: 2025-07-07
 - videoId: -saDenz1AIY
   title: Nidalee vs Lee Sin Jungle - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1590
   region: KR
+  uploaded: 2025-03-19

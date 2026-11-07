@@ -5,33 +5,150 @@
   patch: "26.9"
   durationSec: 1456
   region: KR
+  uploaded: 2026-05-06
 - videoId: XORmj8LGiys
   title: Sett Top vs Irelia - EUNE Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1579
   region: EUNE
+  uploaded: 2026-04-22
 - videoId: _2-m_ib9HUs
   title: Sett Top vs Irelia - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1483
   region: KR
+  uploaded: 2026-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Take down The Turret
+      kind: tower
+    - at: 11:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:04
+      label: Take down The Turret
+      kind: tower
+    - at: 17:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Take down The Turret
+      kind: tower
+    - at: 18:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Take down The Inhibitor
+    - at: 24:06
+      label: Take down The Turret
+      kind: tower
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:32
+      label: End credit
 - videoId: SOhEYxmFO5g
   title: Sett Top vs Irelia - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1590
   region: KR
+  uploaded: 2026-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:49
+      label: Take down The Turret
+      kind: tower
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:02
+      label: Take down The Turret
+      kind: tower
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: End credit
 - videoId: 7tg-QYV6_Rg
   title: Sett Top vs Irelia - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1487
   region: KR
+  uploaded: 2025-12-26
 - videoId: wCYJwV3C3nc
   title: Sett vs Irelia Top - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1801
   region: KR
+  uploaded: 2025-03-09

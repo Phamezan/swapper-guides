@@ -120,6 +120,14 @@
   durationSec: 1515
   region: KR
   uploaded: 2026-06-14
+- videoId: UINH39HmCmI
+  title: This is What Machine Gun Jinx Look Like - Engsub ( Jinx vs MF, Ashe )
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1399
+  patchEstimated: true
+  uploaded: 2026-06-03
+  format: stream
 - videoId: Z5oC6wcwTFg
   title: Jinx vs Ashe ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -133,12 +141,7 @@
   patch: "26.5"
   durationSec: 1518
   region: KR
-- videoId: aHXuWcfnZ-0
-  title: Jinx ADC vs Ashe - KR Master Patch 25.24
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1610
-  region: KR
+  uploaded: 2026-03-06
 - videoId: JeVIz8zAzEQ
   title: Jinx vs Ashe ADC [ QuadraKill ] Korea Master Patch 25.24
   rankClaim: Master
@@ -146,36 +149,84 @@
   durationSec: 1249
   region: KR
   player: QuadraKill
+  uploaded: 2025-12-18
+- videoId: aHXuWcfnZ-0
+  title: Jinx ADC vs Ashe - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1610
+  region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Take down The Turret
+      kind: tower
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:39
+      label: End credit
 - videoId: yFdonMDGGII
   title: Jinx vs Ashe [ ADC ] Lol Korea Master Patch 25.20 ✅
   rankClaim: Master
   patch: "25.20"
   durationSec: 2058
   region: KR
+  uploaded: 2025-10-17
 - videoId: L-hQARcjQv8
   title: Jinx vs Ashe ADC - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1710
   region: KR
+  uploaded: 2025-05-24
 - videoId: RLJHjEjINxs
   title: Jinx vs Ashe ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1610
   region: KR
+  uploaded: 2025-03-17
 - videoId: apNIyuHQxLo
   title: Jinx vs Ashe [ ADC ] Lol Korea Master Patch 25.5 ✅
   rankClaim: Master
   patch: "25.5"
   durationSec: 1402
   region: KR
+  uploaded: 2025-03-08
 - videoId: ztEe9lUDpVg
   title: Jinx vs Ashe ADC - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2051
   region: KR
+  uploaded: 2025-02-28
 - videoId: SFlh6G2ZLOg
   title: Jinx vs Ashe ADC [ HLE Viper ] Korea Challenger Patch 25.1 ✅
   rankClaim: Challenger
@@ -184,3 +235,4 @@
   region: KR
   player: Viper
   team: HLE
+  uploaded: 2025-01-18

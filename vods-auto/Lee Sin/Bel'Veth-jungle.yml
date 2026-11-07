@@ -23,12 +23,82 @@
   region: KR
   player: Lucid
   team: DK
+  uploaded: 2026-06-22
 - videoId: MfS3SRocG-I
   title: Lee Sin Jungle vs Bel'Veth - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1546
   region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:58
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:44
+      label: Take down The Turret
+      kind: tower
+    - at: 17:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Take down The Turret
+      kind: tower
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: End credit
 - videoId: 7FNDo2fEzgQ
   title: T1 Oner Lee Sin vs Bel'Veth [ Jungle ] Patch 25.8 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -37,9 +107,11 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-04-18
 - videoId: p1g9QJvNJmk
   title: Lee Sin vs Bel'Veth Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1800
   region: KR
+  uploaded: 2025-03-18

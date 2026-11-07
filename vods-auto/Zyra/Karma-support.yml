@@ -5,9 +5,55 @@
   patch: "25.8"
   durationSec: 1738
   region: NA
+  uploaded: 2025-04-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:12
+      label: Take down The Turret
+      kind: tower
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:37
+      label: End credit
 - videoId: Ckd0lT3f0p0
   title: Zyra Support vs Karma - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 2092
   region: KR
+  uploaded: 2025-03-15

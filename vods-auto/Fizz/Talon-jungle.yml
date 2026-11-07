@@ -5,3 +5,78 @@
   patch: "25.24"
   durationSec: 1592
   region: KR
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:54
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:15
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:23
+      label: Take down The Turret
+      kind: tower
+    - at: 17:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:05
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: End credit

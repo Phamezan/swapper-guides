@@ -5,9 +5,130 @@
   patch: "25.6"
   durationSec: 1719
   region: EUW
+  uploaded: 2025-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:40
+      label: Take down The Turret
+      kind: tower
+    - at: 11:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Take down The Turret
+      kind: tower
+    - at: 13:46
+      label: Take down The Turret
+      kind: tower
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:16
+      label: Take down The Turret
+      kind: tower
+    - at: 18:32
+      label: Take down The Turret
+      kind: tower
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Take down The Turret
+      kind: tower
+    - at: 24:27
+      label: Take down The Inhibitor
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:27
+      label: Take down The Inhibitor
+    - at: 27:47
+      label: Take down The Turret
+      kind: tower
+    - at: 27:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:18
+      label: End credit
 - videoId: rWimKjt33aQ
   title: Yone Top vs Sett - EUW Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1665
   region: EUW
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Take down The Turret
+      kind: tower
+    - at: 21:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: Take down The Turret
+      kind: tower
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:24
+      label: End credit

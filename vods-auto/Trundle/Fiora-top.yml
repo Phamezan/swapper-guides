@@ -5,3 +5,52 @@
   patch: "26.13"
   durationSec: 1524
   region: EUW
+  uploaded: 2026-07-06
+  result: W
+  moments:
+    - at: 5:55
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:44
+      label: First Blood — Trundle kills Fiora
+      kind: kill
+    - at: 9:57
+      label: Trundle catches Fiora
+    - at: 11:35
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 11:49
+      label: Trundle solo kills Kai'Sa
+      kind: kill
+    - at: 13:32
+      label: Trundle outduels Wukong
+    - at: 15:03
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:47
+      label: Kha'Zix kills Fiora
+      kind: kill
+    - at: 17:07
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:41
+      label: Trundle eliminates Xin Zhao
+    - at: 20:12
+      label: Trundle eliminates Fiora
+    - at: 21:06
+      label: Bot Inhibitor falls (Red)
+    - at: 21:50
+      label: Twisted Fate takes down Fiora
+    - at: 22:14
+      label: Trundle kills Wukong
+      kind: kill
+    - at: 22:37
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:38
+      label: Trundle eliminates Fiora
+    - at: 24:12
+      label: Aphelios Double Kill
+      kind: kill
+    - at: 24:26
+      label: Mid Inhibitor falls (Red)

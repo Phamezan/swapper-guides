@@ -216,14 +216,135 @@
   patch: "26.2"
   durationSec: 1528
   region: NA
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Take down The Turret
+      kind: tower
+    - at: 11:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:53
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 20:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:31
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Take down The Turret
+      kind: tower
+    - at: 25:17
+      label: End credit
 - videoId: 6FXC8qB2lKk
   title: Zed Jungle vs Jayce - KR Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1469
   region: KR
+  uploaded: 2026-01-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: End credit
 - videoId: YqdBTleIIjw
   title: Zed Jungle vs Jayce - VN Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1457
+  uploaded: 2025-12-22

@@ -61,8 +61,69 @@
   patch: "25.7"
   durationSec: 1591
   region: EUW
+  uploaded: 2025-04-18
 - videoId: fUlVyg9SeWg
   title: Zed ADC vs Varus - VN Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1494
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 2:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Take down The Turret
+      kind: tower
+    - at: 18:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:17
+      label: Take down The Turret
+      kind: tower
+    - at: 22:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:10
+      label: Take down The Turret
+      kind: tower
+    - at: 23:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: End credit

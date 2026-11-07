@@ -5,9 +5,94 @@
   patch: "25.9"
   durationSec: 2009
   region: KR
+  uploaded: 2025-05-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:52
+      label: Take down The Turret
+      kind: tower
+    - at: 33:08
+      label: End credit
 - videoId: RNs-4xaKiao
   title: Pyke vs Corki Mid - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1981
   region: KR
+  uploaded: 2025-05-02

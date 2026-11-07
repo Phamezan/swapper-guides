@@ -5,15 +5,101 @@
   patch: "26.4"
   durationSec: 1674
   region: KR
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:43
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Take down The Turret
+      kind: tower
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 24:33
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:18
+      label: Take down The Turret
+      kind: tower
+    - at: 25:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:43
+      label: End credit
 - videoId: vJ8nWTLj9Bk
   title: Hecarim Jungle vs Nunu & Willump - EUW Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1464
   region: EUW
+  uploaded: 2025-07-31
 - videoId: CLCSPwyOQTo
   title: Hecarim Jungle vs Nunu & Willump - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1892
   region: EUW
+  uploaded: 2025-05-13

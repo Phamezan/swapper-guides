@@ -152,6 +152,23 @@
     - at: 24:14
       label: Fiora kills Nidalee
       kind: kill
+- videoId: gNTIaZP_Q_U
+  title: "Rank 1 Zeri : His AOE Damage is Extremely so BROKEN - Engsub (Zeri vs MF, Jinx)"
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1180
+  patchEstimated: true
+  uploaded: 2026-07-05
+  format: stream
+- videoId: dgyoOAK_oSY
+  title: "Rank 1 Zeri : Perfect Kiting, 1v5 HardCarrying in G.Master Elo - Engsub ( Zeri vs Jinx )"
+  rankClaim: Master
+  patch: "26.12"
+  durationSec: 1132
+  patchEstimated: true
+  player: PerfecT
+  uploaded: 2026-06-11
+  format: stream
 - videoId: cQENfsA--ng
   title: "T1 Peyz Zeri vs Jinx [ ADC ] Rank #1 Korea Challenger Patch 26.3"
   rankClaim: Challenger
@@ -160,6 +177,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-13
 - videoId: l1r_U3hDDf0
   title: DK Smash Zeri vs Jinx [ ADC ] Korea Challenger 1294 LP | Patch 26.2
   rankClaim: Challenger
@@ -168,12 +186,14 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-02-04
 - videoId: s8e6g508NQY
   title: Zeri ADC vs Jinx - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1649
   region: KR
+  uploaded: 2025-11-22
 - videoId: zx8RpsBULsI
   title: T1 Smash Zeri vs Jinx ADC [ QuadraKill ] Korea Challenger 1517 LP | Patch 25.20
   rankClaim: Challenger
@@ -182,9 +202,11 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-10-10
 - videoId: ixbxYphUDv8
   title: Zeri ADC vs Jinx - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1977
   region: KR
+  uploaded: 2025-06-27

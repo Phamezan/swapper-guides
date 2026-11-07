@@ -5,9 +5,58 @@
   patch: "25.17"
   durationSec: 1809
   region: KR
+  uploaded: 2025-09-08
 - videoId: Tyy_mOBSRoI
   title: Annie Support vs Leona - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1563
   region: KR
+  uploaded: 2025-05-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Take down The Turret
+      kind: tower
+    - at: 17:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Take down The Turret
+      kind: tower
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:42
+      label: End credit

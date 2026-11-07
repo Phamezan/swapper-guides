@@ -5,9 +5,78 @@
   patch: "26.4"
   durationSec: 1842
   region: KR
+  uploaded: 2026-03-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Take down The Turret
+      kind: tower
+    - at: 13:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:49
+      label: Take down The Turret
+      kind: tower
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Take down The Turret
+      kind: tower
+    - at: 25:36
+      label: Take down The Inhibitor
+    - at: 25:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:10
+      label: Take down The Turret
+      kind: tower
+    - at: 30:31
+      label: End credit
 - videoId: o8sKDp_uzeY
   title: Ashe Support vs Karma - EUW Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1494
   region: EUW
+  uploaded: 2025-04-12

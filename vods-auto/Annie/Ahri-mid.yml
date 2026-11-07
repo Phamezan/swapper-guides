@@ -5,6 +5,54 @@
   patch: "26.17"
   durationSec: 1732
   region: KR
+  uploaded: 2026-09-02
+  result: W
+  moments:
+    - at: 2:49
+      label: First Blood — Ziggs kills Ahri
+      kind: kill
+    - at: 4:54
+      label: Annie takes down Ahri
+    - at: 7:12
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:24
+      label: Annie catches Ahri again
+    - at: 12:50
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:02
+      label: Jarvan IV eliminates Jhin
+    - at: 17:23
+      label: Annie picks off Talon
+    - at: 18:14
+      label: Olaf takes down Ahri
+    - at: 18:41
+      label: Olaf kills Talon
+      kind: kill
+    - at: 18:58
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 21:15
+      label: Annie outplays Camille
+    - at: 23:54
+      label: Ziggs picks off Camille
+    - at: 24:23
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 25:36
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:15
+      label: Annie solo kills Camille again
+      kind: kill
+    - at: 27:17
+      label: Mid Inhibitor falls (Red)
+    - at: 27:37
+      label: Bot Inhibitor falls (Red)
+    - at: 27:56
+      label: Jarvan IV kills Camille
+      kind: kill
 - videoId: uJghonMrPmI
   title: (HRTS Lurox) Annie Mid vs Ahri - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -12,9 +60,11 @@
   durationSec: 1528
   region: EUW
   player: HRTS Lurox
+  uploaded: 2026-06-15
 - videoId: PxvWzr9M_ec
   title: Annie Mid vs Ahri - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1800
   region: KR
+  uploaded: 2026-03-10

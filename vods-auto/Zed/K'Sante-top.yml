@@ -153,8 +153,51 @@
   patch: "25.24"
   durationSec: 1501
   region: KR
+  uploaded: 2026-01-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:36
+      label: Take down The Turret
+      kind: tower
+    - at: 13:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:59
+      label: Take down The Turret
+      kind: tower
+    - at: 18:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: End credit
 - videoId: isYvckVE_NM
   title: Zed Top vs K'Sante - TW Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1991
+  uploaded: 2025-03-11

@@ -5,15 +5,82 @@
   patch: "26.9"
   durationSec: 1640
   region: KR
+  uploaded: 2026-05-15
 - videoId: -3iulKogcG0
   title: Xin Zhao Jungle vs Pantheon - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1754
   region: KR
+  uploaded: 2025-06-28
 - videoId: dZZJempbZv4
   title: Xin Zhao Jungle vs Pantheon - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1683
   region: KR
+  uploaded: 2025-05-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:41
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Take down The Turret
+      kind: tower
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:53
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:45
+      label: Take down The Turret
+      kind: tower
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Take down The Turret
+      kind: tower
+    - at: 24:51
+      label: Take down The Inhibitor
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: Take down The Turret
+      kind: tower
+    - at: 27:42
+      label: End credit

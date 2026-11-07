@@ -5,15 +5,65 @@
   patch: "26.13"
   durationSec: 1420
   region: KR
+  uploaded: 2026-07-14
 - videoId: fEsI7FjRbpU
   title: Singed Mid vs Sylas - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1484
   region: KR
+  uploaded: 2026-02-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Take down The Turret
+      kind: tower
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Take down The Turret
+      kind: tower
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Take down The Turret
+      kind: tower
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Take down The Turret
+      kind: tower
+    - at: 24:33
+      label: End credit
 - videoId: B0DiuCEDMfY
   title: Singed Mid vs Sylas - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1822
   region: KR
+  uploaded: 2025-07-08

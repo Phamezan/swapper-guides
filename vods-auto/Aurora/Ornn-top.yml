@@ -5,9 +5,66 @@
   patch: "26.2"
   durationSec: 1578
   region: EUW
+  uploaded: 2026-01-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Take down The Turret
+      kind: tower
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Take down The Turret
+      kind: tower
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Take down The Turret
+      kind: tower
+    - at: 22:03
+      label: Take down The Inhibitor
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:07
+      label: End credit
 - videoId: LtEoZEhs1m0
   title: Aurora Top vs Ornn - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2060
   region: EUW
+  uploaded: 2025-03-29

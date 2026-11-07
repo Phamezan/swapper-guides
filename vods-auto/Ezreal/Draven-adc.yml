@@ -21,14 +21,58 @@
       label: Late game chaos
     - at: 20:59
       label: Final push and conclusion
-- videoId: AfPu76D3H-g
-  title: Ezreal ADC vs Draven - KR Challenger Patch 26.08
+- videoId: qjGWQfeMflk
+  title: When "HanQL" 2255LP Ezreal meet Rank 1 Draven - Engsub
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1016
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-09-09
+  format: stream
+- videoId: BDxxv9dOKBU
+  title: '"HanQL" 2255LP Ezreal : How to Dominating Draven From Early Game - Engsub'
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 846
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-25
+  format: stream
+- videoId: -K0aop1PWsM
+  title: When 2255LP Ezreal visit Fan Town Diamond Elo - Engsub ( Ez vs Draven )
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1025
+  patchEstimated: true
+  uploaded: 2026-06-18
+  format: stream
+- videoId: fPburaQtok8
+  title: When 2255LP Ezreal meet CN Rank 1 Draven - Engsub
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1619
+  patchEstimated: true
+  uploaded: 2026-06-14
+  format: stream
+- videoId: gNs2YmxLiFU
+  title: '2255LP Ezreal : His Aiming Skill so Dam Good " Did He SCRIPTING " Engsub ( Ez vs Draven, Caitlyn )'
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1263
+  patchEstimated: true
+  player: Aiming
+  uploaded: 2026-04-29
+  format: stream
+- videoId: Bh_gEtZWw6c
+  title: Ezreal vs Draven ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1711
   region: KR
-- videoId: Bh_gEtZWw6c
-  title: Ezreal vs Draven ADC - KR Challenger - Patch 16.08 Season 16
+  uploaded: 2026-04-18
+- videoId: AfPu76D3H-g
+  title: Ezreal ADC vs Draven - KR Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1711
@@ -51,18 +95,28 @@
   player: Peyz
   team: T1
   uploaded: 2026-04-07
+- videoId: GavmeQKrZIQ
+  title: "2255LP Ezreal : How He Could Overwhelming Draven AGGRESSIVE in Early Game - Engsub"
+  rankClaim: Master+
+  patch: "26.6"
+  durationSec: 1071
+  patchEstimated: true
+  uploaded: 2026-03-24
+  format: stream
 - videoId: RT1k70DQgaI
   title: Ezreal vs Draven ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1921
   region: KR
+  uploaded: 2025-12-12
 - videoId: 3Z9NLOhabXI
   title: Ezreal ADC vs Draven - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1943
   region: KR
+  uploaded: 2025-09-13
 - videoId: AxTGNpmSF-Q
   title: T1 Smash Ezreal vs Draven [ ADC ] Patch 25.9 Korea Challenger ✅
   rankClaim: Challenger
@@ -71,12 +125,14 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-05-11
 - videoId: DX_yidgmYOI
   title: Ezreal vs Draven ADC - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1711
   region: KR
+  uploaded: 2025-04-01
 - videoId: IE4KRFw52x0
   title: Gumayusi Ezreal vs Draven ADC - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
@@ -84,6 +140,7 @@
   durationSec: 1386
   region: KR
   player: Gumayusi
+  uploaded: 2025-03-22
 - videoId: 4jRaZtToLF4
   title: T1 Gumayusi Ezreal vs Draven [ ADC ] Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -92,9 +149,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-22
 - videoId: weC_HzO3Qvw
   title: Ezreal vs Draven ADC - KR Challenger - Patch 25.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1516
   region: KR
+  uploaded: 2025-03-04

@@ -12,18 +12,21 @@
   patch: "25.20"
   durationSec: 1632
   region: KR
+  uploaded: 2025-10-10
 - videoId: r2XxfhABGVA
   title: Viego vs Graves Jungle - EUW Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1871
   region: EUW
+  uploaded: 2025-06-02
 - videoId: ToWUCiysSgc
   title: Viego vs Graves Jungle - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1621
   region: KR
+  uploaded: 2025-04-14
 - videoId: nHxVrshfOVk
   title: Peanut Viego vs Graves Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
@@ -31,3 +34,4 @@
   durationSec: 1651
   region: KR
   player: Peanut
+  uploaded: 2025-03-08

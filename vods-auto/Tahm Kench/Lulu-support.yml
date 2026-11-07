@@ -7,9 +7,60 @@
   region: EUW
   player: Labrov
   team: G2
+  uploaded: 2026-05-31
+  result: L
+  moments:
+    - at: 1:13
+      label: First Blood — Senna kills Lulu
+      kind: kill
+    - at: 5:51
+      label: Senna eliminates Lee Sin
+    - at: 8:34
+      label: Nidalee takes down Lee Sin
+    - at: 9:12
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:55
+      label: Senna takes down Zeri
+    - at: 10:33
+      label: Tahm Kench kills Lee Sin
+      kind: kill
+    - at: 14:05
+      label: Zed takes down Lulu
+    - at: 14:54
+      label: Nidalee eliminates Zeri
+    - at: 16:57
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:56
+      label: Nidalee kills Sion
+      kind: kill
+    - at: 20:55
+      label: Nidalee kills Lulu
+      kind: kill
+    - at: 22:19
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:31
+      label: Nidalee takes down Lee Sin
+    - at: 23:08
+      label: Senna picks off Sion
+    - at: 24:22
+      label: Nidalee kills Lulu
+      kind: kill
+    - at: 24:36
+      label: Nidalee Triple Kill
+      kind: kill
+    - at: 25:03
+      label: Red takes Baron
+      kind: baron
+    - at: 25:50
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: ToTyJb7Jc28
   title: Tahm Kench Support vs Lulu - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1935
   region: KR
+  uploaded: 2025-05-07

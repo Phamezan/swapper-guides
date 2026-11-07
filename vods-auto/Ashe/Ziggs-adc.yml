@@ -6,6 +6,7 @@
   durationSec: 1625
   region: EUW
   player: LR Crownie
+  uploaded: 2026-06-25
 - videoId: orREbDVfp04
   title: HLE Gumayusi Ashe vs Ziggs [ ADC ] Korea Challenger 1637 LP | Patch 26.4
   rankClaim: Challenger
@@ -14,12 +15,14 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-02-28
 - videoId: bgPdq3hErVY
   title: Ashe vs Ziggs ADC - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1951
   region: KR
+  uploaded: 2025-11-11
 - videoId: Z26QpIQI8yo
   title: T1 Smash Ashe vs Ziggs [ ADC ] Korea Challenger 1446 LP | Patch 25.18
   rankClaim: Challenger
@@ -28,3 +31,4 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-09-23

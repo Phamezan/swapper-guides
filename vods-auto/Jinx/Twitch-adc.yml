@@ -6,24 +6,90 @@
   durationSec: 1438
   region: EUW
   player: Bung
+  uploaded: 2026-08-21
+- videoId: HzooBQJU8ZI
+  title: "Rank 1 Jinx : Let This Dude Cooking Master with Insane Mecahnic - Engsub( vs Twitch, Ez )"
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1159
+  patchEstimated: true
+  uploaded: 2026-08-09
+  format: stream
+- videoId: XQ6bVNToqMI
+  title: "Rank 1 Jinx : He is The SAVIOR We Need, Insane 1v5 HardCarrying - Engsub ( Jinx vs Yauso, Twitch )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1350
+  patchEstimated: true
+  uploaded: 2026-05-17
+  format: stream
 - videoId: CChabpqeBks
   title: Jinx ADC vs Twitch - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1493
   region: KR
+  uploaded: 2026-05-01
 - videoId: i1EriSvNxmI
   title: Jinx ADC vs Twitch - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1588
   region: NA
+  uploaded: 2025-12-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Take down The Turret
+      kind: tower
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Take down The Turret
+      kind: tower
+    - at: 25:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:25
+      label: Take down The Turret
+      kind: tower
+    - at: 25:38
+      label: Take down The Inhibitor
+    - at: 25:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:04
+      label: Take down The Turret
+      kind: tower
+    - at: 26:17
+      label: End credit
 - videoId: IQcT1Ga3y4I
   title: Jinx vs Twitch ADC - EUW Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1216
   region: EUW
+  uploaded: 2025-08-06
 - videoId: PDEp8_uU_Sg
   title: Jinx vs Twitch ADC [ Peyz ] Patch 25.1 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -31,3 +97,4 @@
   durationSec: 1923
   region: KR
   player: Peyz
+  uploaded: 2025-01-20

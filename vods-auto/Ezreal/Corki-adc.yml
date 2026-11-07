@@ -7,6 +7,16 @@
   region: EUW
   player: Caliste
   team: KC
+  uploaded: 2026-08-16
+- videoId: nv7UuRv5xco
+  title: '"HanQL" 2255LP Ezreal : His Spacing in TeamFight is S+ TIER LEVEL - Engsub ( vs Tris, Corki )'
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1411
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-10
+  format: stream
 - videoId: UPfTT1W6O2g
   title: DK Smash Ezreal vs HLE Gumayusi Corki [ ADC ] Korea Challenger 2255 LP | Patch 26.15
   rankClaim: Challenger
@@ -16,6 +26,22 @@
   player: Smash
   team: DK
   uploaded: 2026-08-08
+- videoId: HLdoC17Kl4s
+  title: "LazyFeel : His Ezreal is a Absolutely a BEAST (Ez vs Corki)"
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 805
+  patchEstimated: true
+  uploaded: 2026-06-29
+  format: stream
+- videoId: myGMV9m--wE
+  title: "1600LP Ezreal : Insane Mechanics Crushing Super Server HighElo - Engsub ( Ez vs Corki, Lucian )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1269
+  patchEstimated: true
+  uploaded: 2026-05-13
+  format: stream
 - videoId: mTGoKZkAwqg
   title: T1 Peyz Ezreal vs Corki [ ADC ] Korea Challenger 1995 LP | Patch 26.3
   rankClaim: Challenger
@@ -24,12 +50,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: mzpShcNwCmg
-  title: Ezreal vs Corki ADC - EUW Challenger - Patch 25.18 Season 15
-  rankClaim: Challenger
-  patch: "25.18"
-  durationSec: 1951
-  region: EUW
+  uploaded: 2026-02-11
 - videoId: ixa5odI3XIQ
   title: T1 Gumayusi Ezreal vs Corki [ ADC ] Korea Challenger Patch 25.18
   rankClaim: Challenger
@@ -38,6 +59,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-09-17
+- videoId: mzpShcNwCmg
+  title: Ezreal vs Corki ADC - EUW Challenger - Patch 25.18 Season 15
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1951
+  region: EUW
+  uploaded: 2025-09-12
 - videoId: 65EFnudZda4
   title: Ezreal vs Corki ADC [ DRX Teddy ] Patch 25.15 Korea Challenger
   rankClaim: Challenger
@@ -46,12 +75,14 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-08-02
 - videoId: IlXYCXyS4SQ
   title: Ezreal ADC vs Corki - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1704
   region: KR
+  uploaded: 2025-05-17
 - videoId: nFuCGjwB4Us
   title: T1 Gumayusi Ezreal vs Corki [ ADC ] Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -60,3 +91,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-30

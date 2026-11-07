@@ -5,3 +5,39 @@
   patch: "26.1"
   durationSec: 1503
   region: KR
+  uploaded: 2026-01-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: End credit

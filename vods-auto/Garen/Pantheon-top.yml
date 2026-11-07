@@ -5,9 +5,78 @@
   patch: "25.24"
   durationSec: 1536
   region: KR
+  uploaded: 2026-01-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:17
+      label: Take down The Turret
+      kind: tower
+    - at: 14:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:42
+      label: Take down The Turret
+      kind: tower
+    - at: 18:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:26
+      label: Take down The Turret
+      kind: tower
+    - at: 19:56
+      label: Take down The Turret
+      kind: tower
+    - at: 20:17
+      label: Take down The Inhibitor
+    - at: 20:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:25
+      label: End credit
 - videoId: uLwJJEwTOUE
   title: Garen Top vs Pantheon - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1593
   region: KR
+  uploaded: 2025-11-12

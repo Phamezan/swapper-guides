@@ -7,18 +7,124 @@
   region: EUW
   player: Vladi
   team: FNC
+  uploaded: 2026-08-01
+  result: L
+  moments:
+    - at: 7:08
+      label: First Blood — Twisted Fate kills Naafiri
+      kind: kill
+    - at: 7:35
+      label: Syndra eliminates Orianna
+    - at: 10:32
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:12
+      label: Twisted Fate kills Orianna
+      kind: kill
+    - at: 15:50
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:23
+      label: Wukong kills Varus
+      kind: kill
+    - at: 19:10
+      label: Syndra kills Xerath
+      kind: kill
+    - at: 21:02
+      label: Wukong kills Varus
+      kind: kill
+    - at: 22:14
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:22
+      label: Malphite picks off Xerath
+    - at: 27:25
+      label: Syndra Double Kill
+      kind: kill
+    - at: 28:06
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 28:25
+      label: Red takes Baron
+      kind: baron
 - videoId: 6WZYObrNhuU
   title: Syndra Mid vs Orianna - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1583
   region: KR
+  uploaded: 2026-01-26
 - videoId: BYDl-Mm0DEU
   title: Syndra Mid vs Orianna - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1538
   region: EUW
+  uploaded: 2025-12-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Take down The Turret
+      kind: tower
+    - at: 15:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:03
+      label: Take down The Turret
+      kind: tower
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Take down The Turret
+      kind: tower
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:56
+      label: Take down The Inhibitor
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: End credit
 - videoId: skQWLNkiKR0
   title: DK ShowMaker Syndra vs Orianna [ MID ] Korea Challenger 1826 LP | Patch 25.24
   rankClaim: Challenger
@@ -27,9 +133,11 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-12-23
 - videoId: rALDrD4cxPQ
   title: Syndra Mid vs Orianna - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1783
   region: KR
+  uploaded: 2025-07-25

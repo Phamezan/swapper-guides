@@ -5,9 +5,116 @@
   patch: "26.4"
   durationSec: 1771
   region: EUW
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Take down The Turret
+      kind: tower
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Take down The Turret
+      kind: tower
+    - at: 19:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:51
+      label: Take down The Inhibitor
+    - at: 29:01
+      label: Take down The Turret
+      kind: tower
+    - at: 29:20
+      label: End credit
 - videoId: SMcn0CQUkY4
   title: Urgot Top vs Irelia - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1745
   region: KR
+  uploaded: 2025-04-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:44
+      label: Take down The Turret
+      kind: tower
+    - at: 17:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:57
+      label: Take down The Turret
+      kind: tower
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Take down The Turret
+      kind: tower
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:29
+      label: Take down The Turret
+      kind: tower
+    - at: 28:44
+      label: End credit

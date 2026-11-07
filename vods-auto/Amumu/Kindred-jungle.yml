@@ -5,15 +5,152 @@
   patch: "26.13"
   durationSec: 1583
   region: KR
+  uploaded: 2026-07-10
 - videoId: gdYunCYxjgU
   title: Amumu Jungle vs Kindred - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1621
   region: KR
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:31
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:00
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Take down The Turret
+      kind: tower
+    - at: 18:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:21
+      label: Hunt The Atakhan
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:18
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:40
+      label: End credit
 - videoId: SvJKx7GljjA
   title: Amumu Jungle vs Kindred - NA Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1716
   region: NA
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:13
+      label: Take down The Turret
+      kind: tower
+    - at: 13:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:30
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:49
+      label: Hunt The Atakhan
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Take down The Turret
+      kind: tower
+    - at: 22:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:47
+      label: Take down The Turret
+      kind: tower
+    - at: 28:15
+      label: End credit

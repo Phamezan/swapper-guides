@@ -6,6 +6,7 @@
   durationSec: 1634
   region: KR
   player: Pullbae
+  uploaded: 2026-08-05
 - videoId: CLp6-tCWSvk
   title: (FWS Betty) Vex Mid vs Viktor - KR Master Patch 26.13
   rankClaim: Master
@@ -13,6 +14,7 @@
   durationSec: 1697
   region: KR
   player: FWS Betty
+  uploaded: 2026-06-30
 - videoId: JJFOmpOykFE
   title: (FWS Betty) Vex Mid vs Viktor - KR Master Patch 26.11
   rankClaim: Master
@@ -20,3 +22,52 @@
   durationSec: 1695
   region: KR
   player: FWS Betty
+  uploaded: 2026-06-04
+  result: L
+  moments:
+    - at: 7:23
+      label: First Blood — Jayce kills Viktor
+      kind: kill
+    - at: 8:03
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:40
+      label: Vex eliminates Viktor
+    - at: 13:23
+      label: Vex picks off Jarvan IV
+    - at: 14:03
+      label: Vex Double Kill
+      kind: kill
+    - at: 14:36
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:25
+      label: Vex eliminates Viktor
+    - at: 16:48
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:48
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 20:00
+      label: Vex takes down Poppy
+    - at: 20:15
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:50
+      label: Red takes Baron
+      kind: baron
+    - at: 22:05
+      label: Vex takes down Viktor
+    - at: 25:34
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 26:04
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 27:09
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 27:19
+      label: Pantheon Triple Kill
+      kind: kill

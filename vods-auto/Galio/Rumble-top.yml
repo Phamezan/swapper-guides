@@ -6,6 +6,7 @@
   durationSec: 1716
   region: KR
   player: CFO Rest
+  uploaded: 2026-07-27
 - videoId: aO_gvlTx2s4
   title: (KRX Vincenzo) Galio Top vs Rumble - KR Challenger Patch 26.12
   rankClaim: Challenger
@@ -13,15 +14,79 @@
   durationSec: 1623
   region: KR
   player: KRX Vincenzo
+  uploaded: 2026-06-13
 - videoId: xV-3fvmpcUg
   title: Galio Top vs Rumble - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1471
   region: KR
+  uploaded: 2025-12-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Take down The Turret
+      kind: tower
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:23
+      label: Take down The Turret
+      kind: tower
+    - at: 20:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:09
+      label: Take down The Turret
+      kind: tower
+    - at: 21:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Turret
+      kind: tower
+    - at: 23:38
+      label: Take down The Inhibitor
+    - at: 23:48
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: End credit
 - videoId: j3e-2muo3eg
   title: Galio Top vs Rumble - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1782
   region: KR
+  uploaded: 2025-07-11

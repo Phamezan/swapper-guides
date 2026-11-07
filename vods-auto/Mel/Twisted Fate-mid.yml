@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1860
   region: EUW
+  uploaded: 2026-09-19
 - videoId: glq9pWXYA1c
   title: (HRTS Mercy9) Mel Mid vs Twisted Fate (MagiFelix) - EUW Challenger Patch 26.17
   rankClaim: Challenger
@@ -12,6 +13,7 @@
   durationSec: 1520
   region: EUW
   player: HRTS Mercy9
+  uploaded: 2026-09-04
 - videoId: b1AqXI_btaA
   title: (HLE Zeka) Mel Mid vs Twisted Fate - KR Master Patch 26.13
   rankClaim: Master
@@ -20,6 +22,7 @@
   region: KR
   player: Zeka
   team: HLE
+  uploaded: 2026-06-29
 - videoId: KW6AVRaOvIw
   title: Mel vs Twisted Fate  Mid - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -33,33 +36,95 @@
   patch: "25.15"
   durationSec: 1826
   region: KR
+  uploaded: 2025-08-05
 - videoId: pNlbV3zlTJ0
   title: Mel Mid vs Twisted Fate - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1807
   region: KR
+  uploaded: 2025-07-21
 - videoId: ZqXh9BEaCSY
   title: Mel vs Twisted Fate Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 2026
   region: KR
-- videoId: WpXh0rkImzI
-  title: Mel Mid vs Twisted Fate - KR Master Patch 25.12
-  rankClaim: Master
-  patch: "25.12"
-  durationSec: 1666
-  region: KR
+  uploaded: 2025-06-29
 - videoId: baq3rAeJQh8
   title: Mel vs Twisted Fate Mid - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1711
   region: KR
+  uploaded: 2025-06-17
+- videoId: WpXh0rkImzI
+  title: Mel Mid vs Twisted Fate - KR Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1666
+  region: KR
+  uploaded: 2025-06-16
 - videoId: q_YiU_bYJgs
   title: Mel Mid vs Twisted Fate - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1632
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:32
+      label: Take down The Turret
+      kind: tower
+    - at: 16:27
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Take down The Turret
+      kind: tower
+    - at: 20:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:16
+      label: Take down The Turret
+      kind: tower
+    - at: 26:51
+      label: End credit

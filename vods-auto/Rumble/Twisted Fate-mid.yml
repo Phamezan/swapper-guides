@@ -5,15 +5,50 @@
   patch: "25.17"
   durationSec: 1750
   region: KR
+  uploaded: 2025-09-06
 - videoId: bObGp5Xc1CY
   title: Rumble Mid vs Twisted Fate - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1798
   region: KR
+  uploaded: 2025-06-24
 - videoId: MOtCDVMx7zo
   title: Rumble Mid vs Twisted Fate - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1886
   region: KR
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Take down The Turret
+      kind: tower
+    - at: 16:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:05
+      label: End credit

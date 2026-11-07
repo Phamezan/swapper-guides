@@ -5,15 +5,65 @@
   patch: "26.17"
   durationSec: 1813
   region: KR
+  uploaded: 2026-09-02
 - videoId: FAict47Oleg
   title: Poppy Support vs Nautilus - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1443
   region: KR
+  uploaded: 2026-01-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Take down The Turret
+      kind: tower
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: End credit
 - videoId: lwubyLGXa8w
   title: Poppy Support vs Nautilus - EUW Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1949
   region: EUW
+  uploaded: 2025-02-25

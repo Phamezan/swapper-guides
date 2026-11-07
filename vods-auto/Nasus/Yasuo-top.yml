@@ -5,15 +5,56 @@
   patch: "26.15"
   durationSec: 1775
   region: NA
+  uploaded: 2026-08-12
 - videoId: 9SSxRFcjEG4
   title: Nasus Top vs Yasuo - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1533
   region: KR
+  uploaded: 2025-12-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Take down The Turret
+      kind: tower
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:48
+      label: Take down The Turret
+      kind: tower
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: End credit
 - videoId: VdTQSqHqa6w
   title: Nasus Top vs Yasuo - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1650
   region: KR
+  uploaded: 2025-05-10

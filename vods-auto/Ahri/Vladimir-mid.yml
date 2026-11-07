@@ -53,14 +53,6 @@
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-30
-- videoId: rtt7Ehfa2Uk
-  title: (GEN Chovy) Ahri Mid vs Vladimir - KR Challenger Patch 26.16
-  rankClaim: Challenger
-  patch: "26.16"
-  durationSec: 1695
-  region: KR
-  player: Chovy
-  team: GEN
 - videoId: 87M65PF2SXY
   title: Ahri Mid vs Vladimir - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -105,6 +97,60 @@
       label: Ahri picks off Master Yi
     - at: 23:11
       label: Top Inhibitor falls (Blue)
+- videoId: rtt7Ehfa2Uk
+  title: (GEN Chovy) Ahri Mid vs Vladimir - KR Challenger Patch 26.16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1695
+  region: KR
+  player: Chovy
+  team: GEN
+  uploaded: 2026-08-17
+  result: L
+  moments:
+    - at: 0:53
+      label: First Blood — Ahri kills Vladimir
+      kind: kill
+    - at: 4:33
+      label: Ahri takes down Vladimir
+    - at: 7:25
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:46
+      label: Ahri kills Jhin
+      kind: kill
+    - at: 13:10
+      label: Camille takes down Vladimir
+    - at: 13:51
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:49
+      label: Ahri outplays Anivia
+    - at: 17:38
+      label: Ahri solo kills Anivia again
+      kind: kill
+    - at: 19:45
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:00
+      label: Ziggs eliminates Rengar
+    - at: 22:18
+      label: Ziggs eliminates Rengar
+    - at: 23:16
+      label: Ahri kills Jhin
+      kind: kill
+    - at: 25:16
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 25:50
+      label: Ahri outduels Karma
+    - at: 26:22
+      label: Red takes Baron
+      kind: baron
+    - at: 26:42
+      label: Ahri takes down Anivia
+    - at: 27:15
+      label: Mid Inhibitor falls (Blue)
 - videoId: WIzzkYcEjcE
   title: "MID.GG: [ dunlol ] Ahri MID vs Vladimir | NA GRANDMASTER | LOL Season 2026"
   rankClaim: Grandmaster
@@ -203,3 +249,4 @@
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1550
+  uploaded: 2025-08-12

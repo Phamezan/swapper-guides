@@ -60,12 +60,30 @@
   player: Ruler
   team: Gen.G
   uploaded: 2026-09-04
+- videoId: _hvV0_NEbA8
+  title: '"HanQL" 2255LP Lucian : His Mechanic is Master Class - Engsub ( vs Aphe, Corki )'
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1500
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-11
+  format: stream
+- videoId: RUxIZHZXxUU
+  title: "Diable : His Lucian is TOTAL DESTRUCTIONS SAVAGE - Engsub ( Lucian vs Corki )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 976
+  patchEstimated: true
+  uploaded: 2026-05-05
+  format: stream
 - videoId: US03FSctH1g
   title: Lucian ADC vs Corki - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1729
   region: KR
+  uploaded: 2025-10-25
 - videoId: j0tTSDMhuUs
   title: DRX Teddy Lucian vs Corki ADC [ Quadrakill ] Patch 25.14 Korea Challenger
   rankClaim: Challenger
@@ -74,6 +92,7 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-25
 - videoId: K7664vjacuc
   title: Lucian vs Corki ADC [ DRX Teddy ] Korea Challenger Patch 25.14
   rankClaim: Challenger
@@ -82,9 +101,11 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-18
 - videoId: AJwBXwb9PgY
   title: Lucian vs Corki [ ADC ] Lol Korea Master Patch 25.4 ✅
   rankClaim: Master
   patch: "25.4"
   durationSec: 1509
   region: KR
+  uploaded: 2025-03-03

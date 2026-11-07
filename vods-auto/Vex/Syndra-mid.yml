@@ -63,21 +63,72 @@
   patch: "26.9"
   durationSec: 1729
   region: KR
+  uploaded: 2026-05-08
 - videoId: FMqU1ciiui8
   title: Vex Mid vs Syndra - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1467
   region: NA
+  uploaded: 2026-01-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: End credit
 - videoId: uWHjnsov_6w
   title: Vex Mid vs Syndra - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1737
   region: KR
+  uploaded: 2025-11-13
 - videoId: LiK6BpV3jXQ
   title: Vex Mid vs Syndra - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1720
   region: KR
+  uploaded: 2025-10-01

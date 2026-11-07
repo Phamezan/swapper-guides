@@ -5,9 +5,52 @@
   patch: "25.15"
   durationSec: 1805
   region: KR
+  uploaded: 2025-08-10
 - videoId: oh7SAj7HsMY
   title: Ashe Support vs Lulu - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1721
   region: KR
+  uploaded: 2025-04-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Take down The Turret
+      kind: tower
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:10
+      label: Take down The Turret
+      kind: tower
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:20
+      label: End credit

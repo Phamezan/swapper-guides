@@ -60,6 +60,7 @@
   patch: "26.18"
   durationSec: 1641
   region: KR
+  uploaded: 2026-09-14
 - videoId: 3jpPGJm_n6c
   title: (IG Wei) Graves Jungle vs Hecarim - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -68,6 +69,7 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-08-21
 - videoId: O7cGTgGujNU
   title: (MADD Benny) Graves Jungle vs Hecarim - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
@@ -75,3 +77,4 @@
   durationSec: 1748
   region: EUW
   player: MADD Benny
+  uploaded: 2026-06-28

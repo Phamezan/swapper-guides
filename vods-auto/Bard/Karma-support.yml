@@ -7,27 +7,96 @@
   region: KR
   player: Delight
   team: HLE
+  uploaded: 2026-05-29
 - videoId: XwOQWdYFAsQ
   title: Bard Support vs Karma - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1916
   region: KR
+  uploaded: 2026-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Take down The Turret
+      kind: tower
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:21
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:26
+      label: Take down The Inhibitor
+    - at: 29:46
+      label: Take down The Turret
+      kind: tower
+    - at: 31:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:45
+      label: End credit
 - videoId: i41q8WUpDWQ
   title: Bard Support vs Karma - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1568
   region: KR
+  uploaded: 2026-01-25
 - videoId: 0FoHZSKd__U
   title: Bard Support vs Karma - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1680
   region: EUW
+  uploaded: 2025-12-03
 - videoId: DDo4GBxP0Qc
   title: Bard Support vs Karma - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1540
   region: KR
+  uploaded: 2025-08-06

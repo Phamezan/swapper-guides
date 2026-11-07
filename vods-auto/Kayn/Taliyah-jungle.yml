@@ -5,9 +5,123 @@
   patch: "25.24"
   durationSec: 1534
   region: NA
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Take down The Turret
+      kind: tower
+    - at: 19:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:17
+      label: Hunt The Atakhan
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:23
+      label: End credit
 - videoId: Iz60DM2dxuc
   title: Kayn Jungle vs Taliyah - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1684
   region: KR
+  uploaded: 2025-05-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:22
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:57
+      label: Take down The Turret
+      kind: tower
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Hunt The Atakhan
+    - at: 21:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: Take down The Turret
+      kind: tower
+    - at: 27:06
+      label: Take down The Inhibitor
+    - at: 27:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:43
+      label: End credit

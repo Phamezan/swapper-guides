@@ -5,6 +5,51 @@
   patch: "25.24"
   durationSec: 1569
   region: KR
+  uploaded: 2025-12-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Take down The Turret
+      kind: tower
+    - at: 20:25
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:59
+      label: Take down The Turret
+      kind: tower
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Take down The Turret
+      kind: tower
+    - at: 23:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:17
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:48
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: End credit
 - videoId: oJPLcEZ3WH0
   title: Rengar vs Sion TOP [ TripleKill ] Korea Master Patch 25.19 ✅
   rankClaim: Master
@@ -12,14 +57,55 @@
   durationSec: 1467
   region: KR
   player: TripleKill
+  uploaded: 2025-10-01
 - videoId: l3qTBGyZHAs
   title: Rengar vs Sion Top - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1846
   region: KR
+  uploaded: 2025-06-18
 - videoId: yGEPeIvsArQ
   title: Rengar Top vs Sion - TW Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1629
+  uploaded: 2025-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:35
+      label: Take down The Turret
+      kind: tower
+    - at: 20:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Take down The Turret
+      kind: tower
+    - at: 24:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: End credit

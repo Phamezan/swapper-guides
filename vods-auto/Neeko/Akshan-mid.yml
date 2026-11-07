@@ -5,9 +5,52 @@
   patch: "26.14"
   durationSec: 1838
   region: KR
+  uploaded: 2026-07-24
 - videoId: rFArxhjDTt0
   title: Neeko Mid vs Akshan - NA Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2147
   region: NA
+  uploaded: 2025-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:38
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:32
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 34:50
+      label: Take down The Turret
+      kind: tower
+    - at: 35:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:26
+      label: End credit

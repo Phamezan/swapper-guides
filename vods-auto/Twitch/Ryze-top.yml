@@ -5,3 +5,50 @@
   patch: "26.13"
   durationSec: 1592
   region: KR
+  uploaded: 2026-07-02
+  result: L
+  moments:
+    - at: 2:32
+      label: First Blood — Twitch kills Ryze
+      kind: kill
+    - at: 6:07
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:22
+      label: Twitch catches Ryze
+    - at: 10:55
+      label: Twitch outduels Ryze again
+    - at: 11:29
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:14
+      label: Twitch eliminates Ryze
+    - at: 15:46
+      label: Twitch eliminates Braum
+    - at: 16:41
+      label: Twitch takes down Tristana
+    - at: 16:52
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 17:27
+      label: Mel eliminates Karthus
+    - at: 19:19
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:13
+      label: Red takes Baron
+      kind: baron
+    - at: 21:06
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:16
+      label: Twitch outplays Ryze (3rd time)
+    - at: 22:11
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 22:48
+      label: Twitch outplays Tristana
+    - at: 25:18
+      label: Twitch takes down Tristana
+    - at: 25:28
+      label: Mid Inhibitor falls (Blue)

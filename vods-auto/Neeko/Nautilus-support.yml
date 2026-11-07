@@ -5,15 +5,71 @@
   patch: "26.8"
   durationSec: 1644
   region: KR
+  uploaded: 2026-04-23
 - videoId: s3t_zFOmPIA
   title: Neeko Support vs Nautilus - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1669
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:24
+      label: Take down The Turret
+      kind: tower
+    - at: 18:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:38
+      label: End credit
 - videoId: LRDvD3Jf5mw
   title: Neeko Support vs Nautilus - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1613
   region: KR
+  uploaded: 2025-08-16

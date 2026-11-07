@@ -5,15 +5,68 @@
   patch: "26.8"
   durationSec: 1459
   region: NA
+  uploaded: 2026-04-28
 - videoId: UZPImp6keWc
   title: Diana Mid vs Twisted Fate - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1892
   region: KR
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Take down The Turret
+      kind: tower
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:05
+      label: Take down The Turret
+      kind: tower
+    - at: 30:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:21
+      label: End credit
 - videoId: qg88xyspVFM
   title: Diana Mid vs Twisted Fate - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1690
   region: KR
+  uploaded: 2025-11-25

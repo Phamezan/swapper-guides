@@ -45,9 +45,54 @@
   patch: "25.22"
   durationSec: 1846
   region: KR
+  uploaded: 2025-11-12
 - videoId: 9rmldTxpxWU
   title: Jax Top vs K'Sante - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1605
   region: KR
+  uploaded: 2025-05-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:00
+      label: Take down The Turret
+      kind: tower
+    - at: 16:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Take down The Turret
+      kind: tower
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Take down The Inhibitor
+    - at: 24:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:24
+      label: End credit

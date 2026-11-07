@@ -5,15 +5,74 @@
   patch: "26.4"
   durationSec: 1640
   region: KR
+  uploaded: 2026-02-21
 - videoId: Sr5N1d8hdDw
   title: Jayce Top vs Zaahen - EUW Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1574
   region: EUW
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:14
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:33
+      label: Take down The Turret
+      kind: tower
+    - at: 11:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Take down The Turret
+      kind: tower
+    - at: 13:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:35
+      label: Take down The Turret
+      kind: tower
+    - at: 26:03
+      label: End credit
 - videoId: VaWAWbGs54M
   title: Jayce vs Zaahen Top - NA Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1861
   region: NA
+  uploaded: 2025-12-08

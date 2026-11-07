@@ -26,3 +26,13 @@
     - at: 33:59
       label: Final team fight and victory
       kind: teamfight
+- videoId: 7jKLdFT8Axo
+  title: STOMPING MASTER PLAYERS WITH DANTES HECARIM (RANK 1 TRYND + RANK 1 HECARIM)
+  rankClaim: Master
+  patch: "26.1"
+  durationSec: 1450
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-01-12
+  format: stream
+  cam: true

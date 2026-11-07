@@ -169,8 +169,83 @@
   patch: "26.3"
   durationSec: 1592
   region: EUW
+  uploaded: 2026-02-15
 - videoId: jwOwQpQwjAs
   title: Zed Jungle vs Shaco - VN Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1797
+  uploaded: 2025-05-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:38
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 12:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Take down The Turret
+      kind: tower
+    - at: 19:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Hunt The Atakhan
+    - at: 21:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:36
+      label: End credit

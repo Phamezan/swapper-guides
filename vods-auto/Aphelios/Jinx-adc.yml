@@ -33,6 +33,14 @@
   patchEstimated: true
   uploaded: 2026-10-29
   format: stream
+- videoId: etPMkKPtAWI
+  title: When Gumayusi using Aphelios Destroying Viper Jinx in Laning Phase - Engsub
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1031
+  patchEstimated: true
+  uploaded: 2026-10-13
+  format: stream
 - videoId: pbt9M5RVHfw
   title: (xpd) Aphelios ADC vs Jinx (T1 Peyz) - KR Challenger Patch 26.20
   rankClaim: Challenger
@@ -94,6 +102,41 @@
   player: Viper
   team: BLG
   uploaded: 2026-10-08
+- videoId: mBdoBBAWXcY
+  title: "Rank 1 Aphelios : I’m back to KR Challenger ! Boy ... Engsub ( vs Jinx, Yunara )"
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1522
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-09-04
+  format: stream
+- videoId: Z0CwoQ_R67M
+  title: "Rank 1 Aphelios : 1v5 Storming Korean Grand Master Elo - Engsub ( vs MF, Jinx )"
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1296
+  patchEstimated: true
+  uploaded: 2026-08-06
+  format: stream
+- videoId: jpGFw_YBzCI
+  title: "\"HanQL\" 2255LP Aphelios : His Mechanic is LEGIT INSANE - Engsub (Aphe vs Jinx, Kai'sa)"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1272
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-07-30
+  format: stream
+- videoId: sO7YC5COWX0
+  title: '"Jz" 2000LP Aphelios : Insane 1v9 Comeback of History - Engsub (Aphe vs Jinx)'
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1393
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-07-27
+  format: stream
 - videoId: lc9C0VGwRcs
   title: (OLE Flakked) Aphelios ADC vs Jinx - EUW Challenger Patch 26.14
   rankClaim: Challenger
@@ -101,6 +144,16 @@
   durationSec: 1770
   region: EUW
   player: OLE Flakked
+  uploaded: 2026-07-22
+- videoId: FiZrxiMwx3Q
+  title: "Rank 1 Aphelios : He Make KR Challenger 1500LP Look Like AI ROBOT - Engsub (Aphe vs Jinx, Senna)"
+  rankClaim: Challenger
+  patch: "26.14"
+  durationSec: 1325
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-07-17
+  format: stream
 - videoId: nSZfI1dsQvs
   title: (VIT Carzzy) Aphelios ADC vs Jinx - EUW Master Patch 26.13
   rankClaim: Master
@@ -108,18 +161,30 @@
   durationSec: 1486
   region: EUW
   player: VIT Carzzy
+  uploaded: 2026-06-29
+- videoId: Z0H6Z6XSBIY
+  title: "Rank 1 Aphelios : His Mechanic is so DAM GOOD - Engsub ( Aphe vs Jinx, Zeri )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1069
+  patchEstimated: true
+  uploaded: 2026-05-21
+  format: stream
 - videoId: CPrj3lPVRxw
   title: Aphelios ADC vs Jinx - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1493
   region: KR
-- videoId: omKT-EPXJMM
-  title: Aphelios ADC vs Jinx - EUW Challenger Patch 26.06
-  rankClaim: Challenger
-  patch: "26.6"
-  durationSec: 1570
-  region: EUW
+  uploaded: 2026-05-14
+- videoId: 8E2JXE8CUnw
+  title: "1300LP Aphelios : His Mechanic is Phenomenal - Engsub (Aphe vs Jinx, Twitch)"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1253
+  patchEstimated: true
+  uploaded: 2026-05-10
+  format: stream
 - videoId: hzvhBM5D5Wg
   title: Aphelios vs Jinx ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
@@ -127,17 +192,141 @@
   durationSec: 2026
   region: KR
   uploaded: 2026-03-27
+- videoId: omKT-EPXJMM
+  title: Aphelios ADC vs Jinx - EUW Challenger Patch 26.06
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1570
+  region: EUW
+  uploaded: 2026-03-22
 - videoId: lZl5JxJNdn8
   title: Aphelios ADC vs Jinx - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1558
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Take down The Turret
+      kind: tower
+    - at: 15:34
+      label: Take down The Turret
+      kind: tower
+    - at: 17:44
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:38
+      label: Take down The Turret
+      kind: tower
+    - at: 23:02
+      label: Take down The Inhibitor
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Take down The Turret
+      kind: tower
+    - at: 24:21
+      label: Take down The Inhibitor
+    - at: 24:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: End credit
 - videoId: g-Ml_UtaHmc
   title: Aphelios ADC vs Jinx - VN Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1496
+  uploaded: 2026-02-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:00
+      label: Take down The Turret
+      kind: tower
+    - at: 12:52
+      label: Take down The Turret
+      kind: tower
+    - at: 13:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:06
+      label: Take down The Turret
+      kind: tower
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Take down The Inhibitor
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:30
+      label: Take down The Turret
+      kind: tower
+    - at: 24:45
+      label: End credit
 - videoId: vWAIhKEC1pM
   title: T1 Peyz Aphelios vs Jinx [ ADC ] Korea Challenger 1260 LP | Patch 26.2
   rankClaim: Challenger
@@ -146,6 +335,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-23
 - videoId: _B7V005ekvQ
   title: BLG Viper Aphelios vs Jinx [ ADC ] Patch 26.1 Ranked Korea ✅
   rankClaim: Master+
@@ -154,6 +344,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-01-11
 - videoId: T2WnuK0zo0g
   title: DK Smash Aphelios vs Jinx [ ADC ] Patch 25.24 Korea Challenger 1800 LP
   rankClaim: Challenger
@@ -162,66 +353,141 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2025-12-03
 - videoId: 6143HmqcXeM
   title: Aphelios vs Jinx ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1696
   region: KR
-- videoId: 8NhKZi1EIbA
-  title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.23
-  rankClaim: Grandmaster
-  patch: "25.23"
-  durationSec: 1771
-  region: KR
+  uploaded: 2025-12-02
 - videoId: qXKaHyGOPMA
   title: Aphelios vs Jinx ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1691
   region: KR
+  uploaded: 2025-11-30
+- videoId: 8NhKZi1EIbA
+  title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1771
+  region: KR
+  uploaded: 2025-11-22
 - videoId: q5MneknAS9E
   title: Aphelios ADC vs Jinx - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1804
   region: KR
-- videoId: qs0Ks8OWTsg
-  title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.20
-  rankClaim: Grandmaster
-  patch: "25.20"
-  durationSec: 1584
-  region: KR
+  uploaded: 2025-11-09
 - videoId: qeg67THAm-A
   title: Aphelios vs Jinx [ ADC ] Lol Korea Master Patch 25.20 ✅
   rankClaim: Master
   patch: "25.20"
   durationSec: 1424
   region: KR
+  uploaded: 2025-10-12
+- videoId: qs0Ks8OWTsg
+  title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1584
+  region: KR
+  uploaded: 2025-10-12
 - videoId: J-jS5orqn5M
   title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1848
   region: KR
+  uploaded: 2025-09-27
 - videoId: Ov5K2kSqKZE
   title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1875
   region: KR
+  uploaded: 2025-06-13
 - videoId: Fw8QL-FuzIQ
   title: Aphelios ADC vs Jinx - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1911
   region: KR
+  uploaded: 2025-06-04
 - videoId: w4iwNHbyiBQ
   title: Aphelios ADC vs Jinx - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1646
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Take down The Turret
+      kind: tower
+    - at: 14:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:35
+      label: Take down The Turret
+      kind: tower
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Take down The Turret
+      kind: tower
+    - at: 18:42
+      label: Take down The Turret
+      kind: tower
+    - at: 19:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:18
+      label: Take down The Turret
+      kind: tower
+    - at: 26:32
+      label: Take down The Inhibitor
+    - at: 27:05
+      label: End credit
 - videoId: Z5TpeV19R_0
   title: T1 Gumayusi Aphelios vs Jinx [ ADC ] Patch 25.10 Korea Grandmaster
   rankClaim: Grandmaster
@@ -230,3 +496,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-18

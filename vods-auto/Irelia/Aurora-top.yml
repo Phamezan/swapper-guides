@@ -6,9 +6,78 @@
   durationSec: 1590
   region: EUW
   player: TH Tracyn
+  uploaded: 2026-06-28
 - videoId: agLseQ8cOU4
   title: Irelia Top vs Aurora - NA Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1594
   region: NA
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:53
+      label: Take down The Turret
+      kind: tower
+    - at: 14:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:35
+      label: Take down The Turret
+      kind: tower
+    - at: 17:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Take down The Turret
+      kind: tower
+    - at: 19:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Take down The Turret
+      kind: tower
+    - at: 22:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Take down The Inhibitor
+    - at: 26:01
+      label: Take down The Turret
+      kind: tower
+    - at: 26:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:23
+      label: End credit

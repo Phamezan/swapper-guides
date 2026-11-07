@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1857
   region: KR
+  uploaded: 2026-08-30
 - videoId: DzOc9ID3Rww
   title: Draven vs Kai'Sa [ ADC ] Korea Master 734 LP | Patch 26.16
   rankClaim: Master
@@ -12,18 +13,36 @@
   durationSec: 1675
   region: KR
   uploaded: 2026-08-24
+- videoId: M_oL95bZlZ8
+  title: "Rank 1 Draven : He just Slaughtering Super Server HighElo - Engsub (Draven vs Kai'sa, Ez)"
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1199
+  patchEstimated: true
+  uploaded: 2026-07-27
+  format: stream
+- videoId: T3RWv1d_Abs
+  title: "Rank 1 Draven : This Dude is a SAVAGE in Early Game - Engsub (Draven vs Ez, Kai'sa)"
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1209
+  patchEstimated: true
+  uploaded: 2026-07-19
+  format: stream
 - videoId: CFdwvyCFvsA
   title: Draven ADC vs Kai'Sa - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1463
   region: KR
+  uploaded: 2026-01-31
 - videoId: GZl0yi-K-iI
   title: Draven ADC vs Kai'Sa - NA Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2022
   region: NA
+  uploaded: 2025-11-05
 - videoId: AkGz06dzWso
   title: T1 Smash Draven vs Kaisa [ ADC ] Korea Challenger 1613 LP | Patch 25.21
   rankClaim: Challenger
@@ -32,18 +51,21 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-11-01
 - videoId: Ixm9j8ptHZk
   title: Draven ADC vs Kai'Sa - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1501
   region: KR
+  uploaded: 2025-10-14
 - videoId: 8_xURk9JgRk
   title: Draven ADC vs Kai'Sa - EUW Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1758
   region: EUW
+  uploaded: 2025-09-26
 - videoId: 7FPNX-3P3I0
   title: Draven vs Kaisa ADC [ PentaKill ] Lol Korea Master Patch 25.18 ✅
   rankClaim: Master
@@ -51,21 +73,75 @@
   durationSec: 1345
   region: KR
   player: PentaKill
+  uploaded: 2025-09-23
 - videoId: TwajJmS2rv4
   title: Draven ADC vs Kai'Sa - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1804
   region: KR
+  uploaded: 2025-08-20
 - videoId: 0LYOqaS0qWA
   title: Draven ADC vs Kai'Sa - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1924
   region: KR
+  uploaded: 2025-06-05
 - videoId: wSqpa2IPYzI
   title: Draven ADC vs Kai'Sa - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1512
   region: KR
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:28
+      label: Take down The Turret
+      kind: tower
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: End credit

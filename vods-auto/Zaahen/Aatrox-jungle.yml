@@ -5,3 +5,53 @@
   patch: "25.24"
   durationSec: 1536
   region: NA
+  uploaded: 2025-12-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:15
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Take down The Turret
+      kind: tower
+    - at: 17:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:38
+      label: Hunt The Atakhan
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:50
+      label: Take down The Turret
+      kind: tower
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: End credit

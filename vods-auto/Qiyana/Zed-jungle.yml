@@ -7,21 +7,86 @@
   region: KR
   player: Kanavi
   team: HLE
+  uploaded: 2026-03-04
 - videoId: KVsokFjrxkM
   title: Qiyana vs Zed [ Jungle ] Korea Challenger 1900 LP | Patch 25.21 ✅
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1564
   region: KR
+  uploaded: 2025-10-26
 - videoId: bYdEHW9vU_0
   title: Qiyana Jungle vs Zed - NA Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1479
   region: NA
+  uploaded: 2025-05-28
 - videoId: Bg_7DaqiVpU
   title: Qiyana Jungle vs Zed - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1549
   region: EUW
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:18
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 15:43
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:58
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:28
+      label: Take down The Inhibitor
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:28
+      label: End credit

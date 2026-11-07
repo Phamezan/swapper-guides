@@ -5,9 +5,50 @@
   patch: "26.16"
   durationSec: 1451
   region: EUW
+  uploaded: 2026-08-22
+  result: L
+  moments:
+    - at: 5:25
+      label: First Blood — Draven kills Sona
+      kind: kill
+    - at: 7:53
+      label: Draven picks off Sona
+    - at: 8:29
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 10:49
+      label: Talon takes down Rengar
+    - at: 14:12
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:52
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:10
+      label: Talon kills Camille
+      kind: kill
+    - at: 19:29
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:42
+      label: Talon kills Camille
+      kind: kill
+    - at: 20:39
+      label: Red takes Baron
+      kind: baron
+    - at: 20:53
+      label: Draven picks off Sona
+    - at: 22:59
+      label: Akshan eliminates Viktor
+    - at: 23:11
+      label: Mid Inhibitor falls (Blue)
 - videoId: KtRnm4LlaPc
   title: Janna Support vs Sona - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1810
   region: KR
+  uploaded: 2025-03-27

@@ -5,15 +5,77 @@
   patch: "26.4"
   durationSec: 1552
   region: KR
+  uploaded: 2026-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:38
+      label: Take down The Turret
+      kind: tower
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:01
+      label: Take down The Turret
+      kind: tower
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: End credit
 - videoId: psY_YCwZD5g
   title: Urgot Mid vs Yone - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1481
   region: EUW
+  uploaded: 2025-11-05
 - videoId: VXzJtrCGuDw
   title: Urgot Mid vs Yone - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1937
   region: KR
+  uploaded: 2025-07-12

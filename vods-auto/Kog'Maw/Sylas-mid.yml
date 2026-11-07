@@ -5,9 +5,52 @@
   patch: "26.3"
   durationSec: 1868
   region: KR
+  uploaded: 2026-02-19
 - videoId: Xdak13BtjYo
   title: Kog'Maw Mid vs Sylas - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1596
   region: KR
+  uploaded: 2026-01-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Take down The Turret
+      kind: tower
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: End credit

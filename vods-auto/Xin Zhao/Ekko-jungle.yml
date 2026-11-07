@@ -5,21 +5,77 @@
   patch: "25.22"
   durationSec: 1711
   region: KR
+  uploaded: 2025-11-15
 - videoId: RHAu53Gn278
   title: XinZhao vs Ekko Jungle - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1741
   region: KR
+  uploaded: 2025-09-25
 - videoId: 8wp-WdMIrRE
   title: XinZhao vs Ekko Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 2101
   region: KR
+  uploaded: 2025-05-27
 - videoId: aEb_jlv1B38
   title: Xin Zhao Jungle vs Ekko - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1636
   region: KR
+  uploaded: 2025-05-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Hunt The Atakhan
+    - at: 21:00
+      label: Take down The Turret
+      kind: tower
+    - at: 21:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:45
+      label: Take down The Turret
+      kind: tower
+    - at: 24:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:54
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:08
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 26:55
+      label: End credit

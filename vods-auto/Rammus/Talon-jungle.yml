@@ -5,9 +5,61 @@
   patch: "26.14"
   durationSec: 1621
   region: KR
+  uploaded: 2026-07-23
 - videoId: kgkjUu3y3KA
   title: Rammus Jungle vs Talon - NA Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1576
   region: NA
+  uploaded: 2026-02-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: End credit

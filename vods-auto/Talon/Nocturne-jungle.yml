@@ -13,6 +13,7 @@
   durationSec: 1710
   region: EUW
   player: ESB qualzy
+  uploaded: 2026-07-01
 - videoId: -slDySILbMQ
   title: Talon vs Nocturne 15/1/4 (Jungle) | EUW Master | Talon OTP Replay
   rankClaim: Master
@@ -27,15 +28,18 @@
   patch: "26.8"
   durationSec: 1702
   region: EUW
+  uploaded: 2026-04-19
 - videoId: ruaJIOVKhLM
   title: Talon Jungle vs Nocturne - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1840
   region: KR
+  uploaded: 2025-10-11
 - videoId: Zt3SFNruRYo
   title: Talon Jungle vs Nocturne - EUW Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1761
   region: EUW
+  uploaded: 2025-03-16

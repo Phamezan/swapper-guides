@@ -12,27 +12,250 @@
   patch: "26.7"
   durationSec: 1668
   region: KR
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:11
+      label: Take down The Turret
+      kind: tower
+    - at: 16:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:20
+      label: Take down The Turret
+      kind: tower
+    - at: 17:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:36
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 20:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Take down The Turret
+      kind: tower
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Take down The Inhibitor
+    - at: 26:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:37
+      label: End credit
 - videoId: 36e3ofhHSm0
   title: Naafiri Mid vs Ryze - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1650
   region: KR
+  uploaded: 2026-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:30
+      label: Take down The Turret
+      kind: tower
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:19
+      label: End credit
 - videoId: eAlesZURaZY
   title: Naafiri Mid vs Ryze - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1590
   region: KR
+  uploaded: 2026-01-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:47
+      label: Take down The Turret
+      kind: tower
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:42
+      label: Take down The Turret
+      kind: tower
+    - at: 20:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:14
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:25
+      label: Take down The Turret
+      kind: tower
+    - at: 23:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Take down The Turret
+      kind: tower
+    - at: 25:16
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: End credit
 - videoId: lhXkshSRW-8
   title: Naafiri Mid vs Ryze - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1666
   region: EUW
+  uploaded: 2025-11-24
 - videoId: PSGYklXrKAI
   title: Naafiri vs Ryze Mid - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 2111
   region: KR
+  uploaded: 2025-08-19

@@ -4,6 +4,48 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1567
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:54
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:32
+      label: Take down The Turret
+      kind: tower
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:51
+      label: Take down The Turret
+      kind: tower
+    - at: 25:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:56
+      label: End credit
 - videoId: OFl6bNXb4I8
   title: T1 Faker Kassadin vs Katarina [ MID ] Patch 25.8 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -12,3 +54,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-04-17

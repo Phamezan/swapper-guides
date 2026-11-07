@@ -5,9 +5,67 @@
   patch: "26.16"
   durationSec: 1811
   region: KR
+  uploaded: 2026-08-23
 - videoId: RanKpMtZ3hE
   title: Yasuo Mid vs Lissandra - KR Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1830
   region: KR
+  uploaded: 2026-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:50
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 30:19
+      label: End credit

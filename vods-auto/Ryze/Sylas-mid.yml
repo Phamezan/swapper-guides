@@ -13,12 +13,80 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1674
+  uploaded: 2026-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:33
+      label: Take down The Turret
+      kind: tower
+    - at: 17:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Take down The Turret
+      kind: tower
+    - at: 19:09
+      label: Take down The Inhibitor
+    - at: 20:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:06
+      label: Take down The Turret
+      kind: tower
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:09
+      label: Take down The Turret
+      kind: tower
+    - at: 27:23
+      label: Take down The Inhibitor
+    - at: 27:43
+      label: End credit
 - videoId: KPrJqlxxeNQ
   title: Ryze Mid vs Sylas - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1468
   region: KR
+  uploaded: 2025-09-14
 - videoId: SJQEMVNv8Y4
   title: Ryze vs Sylas MID [ Perfect KDA ] Lol Korea Grandmaster Patch 25.9 ✅
   rankClaim: Grandmaster
@@ -26,3 +94,4 @@
   durationSec: 1139
   region: KR
   player: Perfect KDA
+  uploaded: 2025-05-07

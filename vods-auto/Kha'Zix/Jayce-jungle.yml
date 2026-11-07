@@ -21,6 +21,42 @@
   region: KR
   player: Lucid
   team: DK
+  uploaded: 2026-06-08
+  result: L
+  moments:
+    - at: 2:52
+      label: First Blood — Kha'Zix kills Ryze
+      kind: kill
+    - at: 5:29
+      label: Bard eliminates Rakan
+    - at: 9:27
+      label: Kha'Zix takes down Jayce
+    - at: 11:26
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:45
+      label: Kha'Zix picks off Ryze
+    - at: 15:43
+      label: Kha'Zix kills Rakan
+      kind: kill
+    - at: 17:07
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:15
+      label: Ziggs eliminates Jayce
+    - at: 20:00
+      label: Bard eliminates Vladimir
+    - at: 22:51
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 24:14
+      label: Ziggs Double Kill
+      kind: kill
+    - at: 26:49
+      label: Poppy kills Jayce
+      kind: kill
+    - at: 27:03
+      label: Mid Inhibitor falls (Blue)
 - videoId: WILNv9ccvC4
   title: HLE Kanavi Kha'Zix vs Jayce [ Jungle ] Korea Challenger 1745 LP | Patch 26.9
   rankClaim: Challenger
@@ -36,9 +72,63 @@
   patch: "26.4"
   durationSec: 2011
   region: KR
+  uploaded: 2026-02-24
 - videoId: 0iZz50GFTMk
   title: Kha'Zix Jungle vs Jayce - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1584
   region: EUW
+  uploaded: 2025-12-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:04
+      label: Hunt The Atakhan
+    - at: 21:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: End credit

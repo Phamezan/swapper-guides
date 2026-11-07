@@ -266,18 +266,95 @@
   patch: "26.5"
   durationSec: 1535
   region: KR
+  uploaded: 2026-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:58
+      label: Take down The Turret
+      kind: tower
+    - at: 19:05
+      label: Take down The Turret
+      kind: tower
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:59
+      label: Take down The Turret
+      kind: tower
+    - at: 24:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:24
+      label: End credit
 - videoId: 17GwH3XlimE
   title: Zed Top vs Malphite - VN Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1460
+  uploaded: 2026-01-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:09
+      label: End credit
 - videoId: IU9c6nj0z2k
   title: Zed Top vs Malphite - TW Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1887
+  uploaded: 2025-08-20
 - videoId: MmzeG9Ob6RM
   title: Zed Top vs Malphite - TW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1944
+  uploaded: 2025-06-25

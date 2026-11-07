@@ -4,9 +4,75 @@
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1876
+  uploaded: 2025-09-10
 - videoId: 5Go7dyzf_f8
   title: Varus Top vs Gangplank - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1722
   region: KR
+  uploaded: 2025-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:41
+      label: Take down The Turret
+      kind: tower
+    - at: 18:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:51
+      label: Take down The Turret
+      kind: tower
+    - at: 27:15
+      label: Take down The Inhibitor
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:01
+      label: Take down The Turret
+      kind: tower
+    - at: 28:21
+      label: End credit

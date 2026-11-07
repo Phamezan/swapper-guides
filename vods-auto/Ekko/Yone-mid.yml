@@ -5,3 +5,41 @@
   patch: "25.9"
   durationSec: 1825
   region: NA
+  uploaded: 2025-05-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:56
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Take down The Inhibitor
+    - at: 28:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:04
+      label: End credit

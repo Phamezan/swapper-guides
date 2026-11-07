@@ -5,15 +5,71 @@
   patch: "26.2"
   durationSec: 1681
   region: KR
+  uploaded: 2026-01-27
 - videoId: MbEk0mVu3KM
   title: Viego Mid vs Twisted Fate - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1994
   region: KR
+  uploaded: 2025-08-15
 - videoId: sLi3qKFQeUg
   title: Viego Mid vs Twisted Fate - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1482
   region: KR
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Take down The Turret
+      kind: tower
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: End credit

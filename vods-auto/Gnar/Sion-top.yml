@@ -5,21 +5,56 @@
   patch: "26.9"
   durationSec: 1696
   region: KR
+  uploaded: 2026-05-04
+  result: L
+  moments:
+    - at: 9:00
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:32
+      label: First Blood — Gnar kills Sion
+      kind: kill
+    - at: 11:01
+      label: Gnar catches Sion
+    - at: 14:27
+      label: Viktor Double Kill
+      kind: kill
+    - at: 15:46
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:56
+      label: Viktor picks off Talon
+    - at: 20:46
+      label: Viktor takes down Sion
+    - at: 21:30
+      label: Red takes Baron
+      kind: baron
+    - at: 22:59
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:48
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:46
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
 - videoId: p6Q6fl_Awyo
   title: Gnar Top vs Sion - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1764
   region: EUW
+  uploaded: 2026-04-17
 - videoId: weYIlPlnMMg
   title: Gnar Top vs Sion - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1850
   region: KR
+  uploaded: 2025-11-24
 - videoId: vBflV6e5eZs
   title: Gnar Top vs Sion - EUW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 2054
   region: EUW
+  uploaded: 2025-10-24

@@ -5,8 +5,65 @@
   patch: "26.3"
   durationSec: 1536
   region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Take down The Turret
+      kind: tower
+    - at: 21:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Take down The Inhibitor
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: End credit
 - videoId: PTZgW1HKpj0
   title: Pantheon Support vs Thresh - VN Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1587
+  uploaded: 2025-03-17

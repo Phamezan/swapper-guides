@@ -5,9 +5,58 @@
   patch: "25.23"
   durationSec: 1776
   region: KR
+  uploaded: 2025-11-29
 - videoId: oHbfLSv_Iy8
   title: Viego Mid vs Hwei - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1845
   region: KR
+  uploaded: 2025-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:35
+      label: Take down The Turret
+      kind: tower
+    - at: 16:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:14
+      label: Take down The Turret
+      kind: tower
+    - at: 27:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:33
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 30:24
+      label: End credit

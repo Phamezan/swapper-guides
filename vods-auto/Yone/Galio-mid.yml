@@ -5,12 +5,7 @@
   patch: "26.5"
   durationSec: 1492
   region: KR
-- videoId: ZhyOCpwVaEw
-  title: Yone Mid vs Galio - KR Grandmaster Patch 26.01
-  rankClaim: Grandmaster
-  patch: "26.1"
-  durationSec: 1484
-  region: KR
+  uploaded: 2026-03-07
 - videoId: GdmixVcjoUM
   title: T1 Faker Yone vs Galio [ MID ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -19,21 +14,87 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-15
+- videoId: ZhyOCpwVaEw
+  title: Yone Mid vs Galio - KR Grandmaster Patch 26.01
+  rankClaim: Grandmaster
+  patch: "26.1"
+  durationSec: 1484
+  region: KR
+  uploaded: 2026-01-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Take down The Turret
+      kind: tower
+    - at: 18:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:59
+      label: Take down The Turret
+      kind: tower
+    - at: 19:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:57
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:06
+      label: Take down The Turret
+      kind: tower
+    - at: 23:24
+      label: Take down The Inhibitor
+    - at: 23:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:07
+      label: Take down The Turret
+      kind: tower
+    - at: 24:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:33
+      label: End credit
 - videoId: KSneBgFmOKU
   title: Yone Mid vs Galio - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1553
   region: KR
+  uploaded: 2025-11-22
 - videoId: VKZ4VYKCa88
   title: Yone Mid vs Galio - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 2118
   region: KR
+  uploaded: 2025-11-09
 - videoId: DrNUiKW5cQI
   title: Yone Mid vs Galio - KR Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1903
   region: KR
+  uploaded: 2025-02-26

@@ -55,9 +55,66 @@
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1599
+  uploaded: 2026-01-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:54
+      label: Take down The Turret
+      kind: tower
+    - at: 13:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Take down The Turret
+      kind: tower
+    - at: 15:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Take down The Turret
+      kind: tower
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Take down The Turret
+      kind: tower
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:00
+      label: Take down The Inhibitor
+    - at: 26:10
+      label: Take down The Turret
+      kind: tower
+    - at: 26:28
+      label: End credit
 - videoId: BbD3iLxtTm4
   title: Ahri Support vs Janna - EUW Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1792
   region: EUW
+  uploaded: 2025-08-23

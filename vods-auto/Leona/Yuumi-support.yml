@@ -4,15 +4,114 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1554
+  uploaded: 2026-03-22
 - videoId: ZmcMb8h99dE
   title: Leona Support vs Yuumi - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1688
   region: KR
+  uploaded: 2025-12-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Take down The Turret
+      kind: tower
+    - at: 15:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Take down The Turret
+      kind: tower
+    - at: 24:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:24
+      label: Take down The Turret
+      kind: tower
+    - at: 27:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:57
+      label: End credit
 - videoId: N1E0ztuMqCQ
   title: Leona Support vs Yuumi - EUW Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1696
   region: EUW
+  uploaded: 2025-03-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Take down The Turret
+      kind: tower
+    - at: 19:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:39
+      label: Take down The Turret
+      kind: tower
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Take down The Inhibitor
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:41
+      label: Take down The Turret
+      kind: tower
+    - at: 27:55
+      label: End credit

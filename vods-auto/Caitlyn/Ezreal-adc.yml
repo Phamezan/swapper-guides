@@ -70,6 +70,7 @@
   patch: "26.17"
   durationSec: 1717
   region: KR
+  uploaded: 2026-08-29
 - videoId: -B6N2IwBKco
   title: (KT Ghost) Caitlyn ADC vs Ezreal - KR Challenger Patch 26.15
   rankClaim: Challenger
@@ -78,6 +79,7 @@
   region: KR
   player: Ghost
   team: KT
+  uploaded: 2026-08-04
 - videoId: pITy-jA1Shk
   title: (LR Crownie) Caitlyn ADC vs Ezreal - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -85,6 +87,7 @@
   durationSec: 1564
   region: EUW
   player: LR Crownie
+  uploaded: 2026-06-14
 - videoId: V78ELHg5dS0
   title: Caitlyn vs Ezreal ADC [ Gen.G Ruler ] Korea Challenger 2190 | Patch 26.12
   rankClaim: Challenger
@@ -175,6 +178,7 @@
   patch: "26.6"
   durationSec: 1752
   region: KR
+  uploaded: 2026-04-02
 - videoId: yvBCl7T_RBY
   title: T1 Peyz Caitlyn vs Ezreal [ ADC ] Patch 26.6 Korea Challenger 1887 LP
   rankClaim: Challenger
@@ -183,12 +187,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-19
 - videoId: kfzdunnkjIQ
   title: Caitlyn ADC vs Ezreal - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1517
   region: KR
+  uploaded: 2026-03-17
 - videoId: 58nkMmIwnIw
   title: Caitlyn vs Ezreal ADC [ Teddy ] Korea Challenger 1515 LP | Patch 26.5
   rankClaim: Challenger
@@ -196,18 +202,21 @@
   durationSec: 2231
   region: KR
   player: Teddy
+  uploaded: 2026-03-08
 - videoId: BnVahv_OJ3M
   title: Caitlyn vs Ezreal ADC - EUW Challenger - Patch 16.04 Season 16
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1801
   region: EUW
+  uploaded: 2026-03-02
 - videoId: d44Y7858Fq4
   title: Caitlyn vs Ezreal ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1381
   region: KR
+  uploaded: 2026-01-02
 - videoId: 2fYaB9bNosU
   title: Caitlyn vs Ezreal ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -216,18 +225,21 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2025-12-23
 - videoId: R_T4DsqYsDo
   title: Caitlyn ADC vs Ezreal - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 2108
   region: KR
+  uploaded: 2025-04-06
 - videoId: lK7xbAMWQfk
   title: Caitlyn vs Ezreal ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1681
   region: KR
+  uploaded: 2025-03-09
 - videoId: O24GUPrZlmA
   title: T1 Gumayusi Caitlyn vs Ezreal [ ADC ] Patch 25.2 Korea Challenger
   rankClaim: Challenger
@@ -236,6 +248,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-24
 - videoId: 3wpQYviY2FU
   title: Caitlyn vs Ezreal ADC [ HLE Viper ] Patch 25.1 Ranked Master Korea ✅
   rankClaim: Master
@@ -244,3 +257,4 @@
   region: KR
   player: Viper
   team: HLE
+  uploaded: 2025-01-16

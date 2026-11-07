@@ -5,62 +5,122 @@
   patch: "26.18"
   durationSec: 1719
   region: KR
+  uploaded: 2026-09-24
 - videoId: v7iDOICOSMs
   title: Nami Support vs Karma - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1762
   region: EUW
+  uploaded: 2026-04-17
 - videoId: zaJ4baBt70A
   title: Nami Support vs Karma - KR Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1634
   region: KR
+  uploaded: 2026-03-23
 - videoId: c-Cu17u4xxs
   title: Nami Support vs Karma - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1805
   region: KR
+  uploaded: 2026-03-18
 - videoId: 07-nizNp3OU
   title: Nami Support vs Karma - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1763
   region: KR
+  uploaded: 2025-11-12
 - videoId: za0pt1aWNiY
   title: Nami Support vs Karma - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1708
   region: EUW
+  uploaded: 2025-11-07
 - videoId: JzapD2cLbFM
   title: Nami Support vs Karma - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1597
   region: KR
+  uploaded: 2025-08-19
 - videoId: FARenAhu1xc
   title: Nami Support vs Karma - EUW Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1590
   region: EUW
+  uploaded: 2025-08-15
 - videoId: zXT8LMRqmTw
   title: Nami Support vs Karma - EUW Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1720
   region: EUW
+  uploaded: 2025-07-31
 - videoId: KwTExFUOwXQ
   title: Nami Support vs Karma - VN Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1823
+  uploaded: 2025-06-11
 - videoId: _JWH9H-Uv_k
   title: Nami Support vs Karma - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1502
   region: KR
+  uploaded: 2025-04-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Take down The Turret
+      kind: tower
+    - at: 18:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Take down The Turret
+      kind: tower
+    - at: 21:42
+      label: Take down The Inhibitor
+    - at: 22:59
+      label: Take down The Turret
+      kind: tower
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: End credit

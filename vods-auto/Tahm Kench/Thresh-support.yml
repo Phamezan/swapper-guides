@@ -4,9 +4,60 @@
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1639
+  uploaded: 2026-09-05
+  result: W
+  moments:
+    - at: 0:25
+      label: First Blood — Aurelion Sol kills Jinx
+      kind: kill
+    - at: 5:54
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:49
+      label: Tahm Kench picks off Jinx
+    - at: 10:06
+      label: Tahm Kench solo kills Thresh
+      kind: kill
+    - at: 11:13
+      label: Wukong takes down Rengar
+    - at: 12:11
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:39
+      label: Wukong takes down Rengar
+    - at: 15:14
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:15
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:29
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:11
+      label: Tahm Kench takes down Thresh again
+    - at: 20:10
+      label: Aurelion Sol picks off Thresh
+    - at: 20:54
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:55
+      label: Aurelion Sol takes down Jinx
+    - at: 22:26
+      label: Mid Inhibitor falls (Red)
+    - at: 23:47
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:03
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 26:11
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: dA0WLaB7LEs
   title: Tahm Kench Support vs Thresh - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1743
   region: KR
+  uploaded: 2025-04-09

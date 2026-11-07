@@ -5,6 +5,54 @@
   patch: "25.4"
   durationSec: 2086
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:27
+      label: Take down The Turret
+      kind: tower
+    - at: 14:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:57
+      label: Take down The Turret
+      kind: tower
+    - at: 33:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:12
+      label: Take down The Turret
+      kind: tower
+    - at: 34:25
+      label: End credit
 - videoId: GQmdhMI78aw
   title: T1 Faker Xerath vs Qiyana [ MID ] Korea Master Patch 25.1 ✅
   rankClaim: Master
@@ -13,3 +61,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-01-21

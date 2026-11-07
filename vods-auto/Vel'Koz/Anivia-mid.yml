@@ -4,9 +4,55 @@
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1694
+  uploaded: 2025-09-09
 - videoId: hFGCDnrL7Ss
   title: Vel'Koz Mid vs Anivia - EUW Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1777
   region: EUW
+  uploaded: 2025-04-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Take down The Turret
+      kind: tower
+    - at: 15:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:25
+      label: Take down The Turret
+      kind: tower
+    - at: 27:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:16
+      label: End credit

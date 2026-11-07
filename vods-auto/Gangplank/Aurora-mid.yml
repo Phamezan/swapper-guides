@@ -5,9 +5,43 @@
   patch: "25.18"
   durationSec: 1634
   region: NA
+  uploaded: 2025-09-22
 - videoId: R3HDaxlXKxE
   title: Gangplank Mid vs Aurora - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1929
   region: KR
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:03
+      label: Take down The Turret
+      kind: tower
+    - at: 30:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:48
+      label: End credit

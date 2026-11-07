@@ -5,9 +5,132 @@
   patch: "26.6"
   durationSec: 1893
   region: KR
+  uploaded: 2026-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:01
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 30:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:22
+      label: End credit
 - videoId: 3PJB3k3n6g0
   title: Vi Jungle vs Lillia - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1944
   region: KR
+  uploaded: 2025-04-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:03
+      label: End credit

@@ -5,15 +5,68 @@
   patch: "25.24"
   durationSec: 1553
   region: EUW
+  uploaded: 2026-01-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:47
+      label: Take down The Turret
+      kind: tower
+    - at: 16:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:12
+      label: Take down The Turret
+      kind: tower
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:20
+      label: Take down The Turret
+      kind: tower
+    - at: 24:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:42
+      label: End credit
 - videoId: qy47XngApdY
   title: Akshan Top vs Ambessa - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1948
   region: KR
+  uploaded: 2025-11-05
 - videoId: VqgPtpkR6UI
   title: Akshan Top vs Ambessa - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1691
   region: KR
+  uploaded: 2025-09-23

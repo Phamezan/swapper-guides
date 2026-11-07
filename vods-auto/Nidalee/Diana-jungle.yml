@@ -5,3 +5,70 @@
   patch: "25.24"
   durationSec: 1604
   region: EUW
+  uploaded: 2025-12-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:08
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:46
+      label: Take down The Turret
+      kind: tower
+    - at: 18:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:41
+      label: Hunt The Atakhan
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:05
+      label: Take down The Inhibitor
+    - at: 26:15
+      label: Take down The Turret
+      kind: tower
+    - at: 26:33
+      label: End credit

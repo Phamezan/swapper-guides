@@ -5,12 +5,14 @@
   patch: "25.20"
   durationSec: 1634
   region: KR
+  uploaded: 2025-10-10
 - videoId: 7MgYE78EzLk
   title: Yone vs Orianna Mid - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1931
   region: KR
+  uploaded: 2025-07-28
 - videoId: kyl-YiiSEhY
   title: Faker Yone vs Orianna Mid - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
@@ -18,6 +20,7 @@
   durationSec: 2086
   region: KR
   player: Faker
+  uploaded: 2025-05-21
 - videoId: t7S45cmHFLE
   title: T1 Faker Yone vs Orianna [ MID ] Korea Grandmaster Patch 25.10
   rankClaim: Grandmaster
@@ -26,3 +29,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-20

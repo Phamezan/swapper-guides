@@ -51,9 +51,43 @@
   patch: "25.13"
   durationSec: 2134
   region: KR
+  uploaded: 2025-07-02
 - videoId: 3oJeXWoMsZY
   title: Vel'Koz Mid vs Akali - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1522
   region: EUW
+  uploaded: 2025-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:01
+      label: End credit

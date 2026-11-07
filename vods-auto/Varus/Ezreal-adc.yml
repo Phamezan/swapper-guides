@@ -42,12 +42,95 @@
   durationSec: 1681
   region: KR
   uploaded: 2026-04-03
+- videoId: urj8Z2P3OvI
+  title: When Gumayusi Varus Destroying Peyz Ezreal at 2100LP Match Aiming For Rank 1 KR Server - Engsub
+  rankClaim: Master+
+  patch: "26.6"
+  durationSec: 1153
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-03-28
+  format: stream
 - videoId: LpW817FdDxw
   title: Varus ADC vs Ezreal - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1605
   region: KR
+  uploaded: 2026-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Take down The Turret
+      kind: tower
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Take down The Turret
+      kind: tower
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 20:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Take down The Inhibitor
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:19
+      label: Take down The Turret
+      kind: tower
+    - at: 26:34
+      label: End credit
 - videoId: _-mnwmyw6RA
   title: BLG Viper Varus vs Ezreal [ ADC ] Korea Challenger 1443 LP | Patch 26.4
   rankClaim: Challenger
@@ -56,6 +139,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-03-03
 - videoId: -aHm71oNndE
   title: T1 Smash Varus vs Ezreal [ ADC ] Korea Challenger Patch 25.12
   rankClaim: Challenger
@@ -64,30 +148,21 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-06-16
 - videoId: 39x4K_tkjFg
   title: Varus ADC vs Ezreal - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1650
   region: KR
+  uploaded: 2025-06-01
 - videoId: CD-6Hfku9cs
   title: Varus ADC vs Ezreal - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1742
   region: KR
-- videoId: i_4dDRvLZfY
-  title: Varus ADC vs Ezreal - KR Challenger Patch 25.08
-  rankClaim: Challenger
-  patch: "25.8"
-  durationSec: 1643
-  region: KR
-- videoId: bxZrZkItUvE
-  title: Varus vs Ezreal ADC - KR Challenger - Patch 25.8 Season 15
-  rankClaim: Challenger
-  patch: "25.8"
-  durationSec: 1681
-  region: KR
+  uploaded: 2025-05-17
 - videoId: vN6j1qp6fzQ
   title: Varus vs Ezreal ADC [ Deft ] Korea Challenger Patch 25.8 ✅
   rankClaim: Challenger
@@ -95,6 +170,79 @@
   durationSec: 1293
   region: KR
   player: Deft
+  uploaded: 2025-04-29
+- videoId: bxZrZkItUvE
+  title: Varus vs Ezreal ADC - KR Challenger - Patch 25.8 Season 15
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1681
+  region: KR
+  uploaded: 2025-04-24
+- videoId: i_4dDRvLZfY
+  title: Varus ADC vs Ezreal - KR Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1643
+  region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:20
+      label: Take down The Turret
+      kind: tower
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Take down The Turret
+      kind: tower
+    - at: 15:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Take down The Turret
+      kind: tower
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Take down The Turret
+      kind: tower
+    - at: 23:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:45
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:39
+      label: Take down The Inhibitor
+    - at: 27:02
+      label: End credit
 - videoId: M2RClLVhXHk
   title: T1 Gumayusi Varus vs Ezreal [ ADC ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -103,18 +251,21 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-04
 - videoId: euR_Hrz_8SM
   title: Varus vs Ezreal ADC - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1716
   region: KR
+  uploaded: 2025-03-21
 - videoId: Uy_ySQmznvk
   title: Varus ADC vs Ezreal - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1732
   region: KR
+  uploaded: 2025-02-25
 - videoId: y0KFbaYoQII
   title: Ruler Varus vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
@@ -122,6 +273,7 @@
   durationSec: 1710
   region: KR
   player: Ruler
+  uploaded: 2025-02-23
 - videoId: e-yamEQyvLs
   title: Varus vs Ezreal ADC [ Gen.G Ruler ] Patch 25.4 Korea Challenger ✅
   rankClaim: Challenger
@@ -130,3 +282,4 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-02-22

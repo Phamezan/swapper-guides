@@ -5,3 +5,50 @@
   patch: "26.18"
   durationSec: 1652
   region: KR
+  uploaded: 2026-09-16
+  result: W
+  moments:
+    - at: 2:02
+      label: First Blood — Fizz kills Vladimir
+      kind: kill
+    - at: 4:04
+      label: Fizz takes down Sion
+    - at: 5:43
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:03
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 9:45
+      label: Fizz takes down Vladimir
+    - at: 11:17
+      label: Fizz Double Kill
+      kind: kill
+    - at: 13:35
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 14:16
+      label: Fizz catches Vladimir again
+    - at: 15:47
+      label: Fizz outduels Vladimir (3rd time)
+    - at: 19:31
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 20:05
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:02
+      label: Fizz kills Corki
+      kind: kill
+    - at: 21:55
+      label: Red takes Baron
+      kind: baron
+    - at: 23:05
+      label: Fizz Double Kill
+      kind: kill
+    - at: 25:25
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 26:18
+      label: Fizz kills Corki
+      kind: kill

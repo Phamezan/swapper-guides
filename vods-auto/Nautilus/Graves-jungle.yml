@@ -5,9 +5,75 @@
   patch: "26.15"
   durationSec: 1402
   region: EUW
+  uploaded: 2026-08-09
 - videoId: OdwYRuQTknA
   title: Nautilus Jungle vs Graves - NA Grandmaster Patch 26.07
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1754
   region: NA
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Take down The Turret
+      kind: tower
+    - at: 26:21
+      label: Take down The Inhibitor
+    - at: 28:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:03
+      label: End credit

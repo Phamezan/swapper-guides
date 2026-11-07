@@ -5,3 +5,59 @@
   patch: "25.7"
   durationSec: 1732
   region: KR
+  uploaded: 2025-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:03
+      label: Hunt The Atakhan
+    - at: 26:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:16
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:31
+      label: End credit

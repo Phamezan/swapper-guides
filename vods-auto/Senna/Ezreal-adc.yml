@@ -7,6 +7,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-06-27
 - videoId: 3bGmbjgH6Sg
   title: HLE Gumayusi Senna vs Ezreal [ ADC ] Patch 26.13 Korea Challenger 2650 LP
   rankClaim: Challenger
@@ -24,6 +25,46 @@
   region: KR
   player: JackeyLove
   team: TES
+  uploaded: 2026-06-13
+  result: W
+  moments:
+    - at: 0:34
+      label: First Blood — Senna kills Ezreal
+      kind: kill
+    - at: 2:33
+      label: Senna picks off Rell
+    - at: 7:54
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:26
+      label: Senna picks off Rell
+    - at: 8:41
+      label: Senna Triple Kill
+      kind: kill
+    - at: 11:34
+      label: Senna kills Syndra
+      kind: kill
+    - at: 13:30
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:47
+      label: Senna picks off Rell
+    - at: 17:12
+      label: Zac picks off Syndra
+    - at: 19:12
+      label: Senna Double Kill
+      kind: kill
+    - at: 19:22
+      label: Senna Triple Kill
+      kind: kill
+    - at: 20:32
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 26:18
+      label: Rakan eliminates Rell
+    - at: 27:04
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
 - videoId: Z9zOz-CK5Jg
   title: T1 Peyz Senna vs Ezreal [ ADC ] Korea Challenger 2425 LP | Patch 26.11
   rankClaim: Challenger
@@ -71,6 +112,7 @@
   patch: "26.4"
   durationSec: 1706
   region: KR
+  uploaded: 2026-03-02
 - videoId: 235ru3N8o30
   title: T1 Peyz Senna vs Ezreal [ ADC ] Korea Challenger 2156 LP | Patch 26.4
   rankClaim: Challenger
@@ -79,6 +121,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-27
 - videoId: kwbjIF_b1NM
   title: Senna vs Ezreal ADC [ QuadraKill ] Korea Master Patch 25.21 ✅
   rankClaim: Master
@@ -86,6 +129,7 @@
   durationSec: 1606
   region: KR
   player: QuadraKill
+  uploaded: 2025-11-03
 - videoId: IOCTx3oyGAE
   title: Senna vs Ezreal ADC [ JDG Peyz ] Korea Challenger Patch 25.14 ✅
   rankClaim: Challenger
@@ -94,9 +138,67 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-07-23
 - videoId: cme9vaKcucE
   title: Senna ADC vs Ezreal - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1689
   region: KR
+  uploaded: 2025-05-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Take down The Turret
+      kind: tower
+    - at: 16:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Take down The Turret
+      kind: tower
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:48
+      label: End credit

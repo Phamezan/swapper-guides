@@ -5,21 +5,71 @@
   patch: "26.1"
   durationSec: 1490
   region: KR
+  uploaded: 2026-01-21
 - videoId: kaiXKpqTpyY
   title: Fiddlesticks Support vs Blitzcrank - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1546
   region: KR
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:20
+      label: Take down The Turret
+      kind: tower
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Take down The Turret
+      kind: tower
+    - at: 24:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Take down The Inhibitor
+    - at: 25:20
+      label: Take down The Turret
+      kind: tower
+    - at: 25:35
+      label: End credit
 - videoId: xFAKeK0iF-A
   title: Fiddlesticks Support vs Blitzcrank - EUW Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1700
   region: EUW
+  uploaded: 2025-08-12
 - videoId: lva3UohId2M
   title: Fiddlesticks Support vs Blitzcrank - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1626
   region: KR
+  uploaded: 2025-03-17

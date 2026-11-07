@@ -7,18 +7,79 @@
   region: KR
   player: Elk
   team: WBG
+  uploaded: 2026-07-25
 - videoId: -TeRsMrFO6c
   title: Twisted Fate Mid vs Akali - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1611
   region: EUW
+  uploaded: 2026-01-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Take down The Turret
+      kind: tower
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Take down The Turret
+      kind: tower
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:48
+      label: Take down The Turret
+      kind: tower
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:48
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: Take down The Inhibitor
+    - at: 26:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:40
+      label: End credit
 - videoId: 7oYBZxmx8lY
   title: Twisted Fate Mid vs Akali - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 2061
   region: KR
+  uploaded: 2025-09-27
 - videoId: geRebCGrMz0
   title: "T1 Faker Twisted Fate vs Akali [ MID ] Patch 25.17 Korea Master "
   rankClaim: Master
@@ -27,9 +88,11 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-28
 - videoId: IJowYjGKAKg
   title: Twisted Fate Mid vs Akali - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1814
   region: EUW
+  uploaded: 2025-06-13

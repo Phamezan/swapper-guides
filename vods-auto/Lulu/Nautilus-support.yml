@@ -174,21 +174,84 @@
   patch: "26.4"
   durationSec: 1464
   region: KR
+  uploaded: 2026-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Take down The Turret
+      kind: tower
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Take down The Turret
+      kind: tower
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Take down The Turret
+      kind: tower
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: End credit
 - videoId: UfmtKrd-TEg
   title: Lulu Support vs Nautilus - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1606
   region: KR
+  uploaded: 2025-10-11
 - videoId: RD5rx1YizHg
   title: Lulu Support vs Nautilus - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1517
   region: KR
+  uploaded: 2025-06-14
 - videoId: moWgwcdZHUc
   title: Lulu Support vs Nautilus - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1525
   region: KR
+  uploaded: 2025-04-18

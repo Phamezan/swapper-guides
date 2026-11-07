@@ -5,9 +5,100 @@
   patch: "25.12"
   durationSec: 1697
   region: EUW
+  uploaded: 2025-06-21
 - videoId: oyZPmiDJudg
   title: Gwen Jungle vs Lillia - NA Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 2099
   region: NA
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Take down The Turret
+      kind: tower
+    - at: 18:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:40
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Take down The Turret
+      kind: tower
+    - at: 24:19
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Take down The Turret
+      kind: tower
+    - at: 25:13
+      label: Take down The Inhibitor
+    - at: 26:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:24
+      label: Take down The Turret
+      kind: tower
+    - at: 28:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:54
+      label: Take down The Inhibitor
+    - at: 30:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:46
+      label: Take down The Inhibitor
+    - at: 31:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 31:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 34:27
+      label: Take down The Turret
+      kind: tower
+    - at: 34:38
+      label: End credit

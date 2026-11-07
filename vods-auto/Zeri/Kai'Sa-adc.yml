@@ -5,6 +5,39 @@
   patch: "26.17"
   durationSec: 1798
   region: EUW
+  uploaded: 2026-08-30
+- videoId: zXwEZQG-IhU
+  title: "Rank 1 Zeri : His Spacing is on A NEXT LEVEL with this NEW SHOE - Engsub (Zeri vs Kai'sa, Sivir)"
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1573
+  patchEstimated: true
+  uploaded: 2026-06-25
+  format: stream
+- videoId: SOabGaZ63l0
+  title: "Rank 1 Zeri : Insane Mechanics Running The Show - Engsub ( Zeri vs MF, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1213
+  patchEstimated: true
+  uploaded: 2026-05-12
+  format: stream
+- videoId: j09Id6UDuRk
+  title: "HuanFeng Zeri : DOMINATNG Super Server Master Elo - Engsub ( Zeri vs Kai'sa )"
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 803
+  patchEstimated: true
+  uploaded: 2026-05-11
+  format: stream
+- videoId: BMLlAkL5Hko
+  title: "Rank 1 Zeri : DESTROYING Super Server HighElo - Engsub ( Zeri vs Kai'sa, Aphelios )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1381
+  patchEstimated: true
+  uploaded: 2026-05-08
+  format: stream
 - videoId: yl1nHLiD4BM
   title: BLG Viper Zeri vs Kai'Sa [ ADC ] Korea Challenger 2014 LP | Patch 26.9
   rankClaim: Challenger
@@ -19,17 +52,13 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1652
+  uploaded: 2026-04-10
 - videoId: i0PR53nzmgk
   title: Zeri ADC vs Kai'Sa - VN Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1670
-- videoId: DPfNMi_LheE
-  title: Zeri ADC vs Kai'Sa - KR Challenger Patch 26.05
-  rankClaim: Challenger
-  patch: "26.5"
-  durationSec: 1466
-  region: KR
+  uploaded: 2026-03-25
 - videoId: 6EyZTfCJVAQ
   title: T1 Peyz Zeri vs Kai'Sa [ ADC ] Patch 26.5 Korea Challenger 2081 LP
   rankClaim: Challenger
@@ -38,36 +67,42 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-16
+- videoId: DPfNMi_LheE
+  title: Zeri ADC vs Kai'Sa - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1466
+  region: KR
+  uploaded: 2026-03-12
 - videoId: tILB4g69yOY
   title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1650
   region: KR
-- videoId: zZDjSFLfsGg
-  title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 15.20 Season 15
-  rankClaim: Challenger
-  patch: "25.20"
-  durationSec: 1120
-  region: KR
-- videoId: SgIJg4-bX-E
-  title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 25.20 Season 15
-  rankClaim: Challenger
-  patch: "25.20"
-  durationSec: 1831
-  region: KR
+  uploaded: 2025-12-02
 - videoId: iSEX1IT92SA
   title: Zeri vs Kai'Sa [ ADC ] Korea Challenger 1398 LP | Patch 25.20 ✅
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1368
   region: KR
-- videoId: invS9KfoVAQ
-  title: Zeri ADC vs Kai'Sa - KR Master Patch 25.19
-  rankClaim: Master
-  patch: "25.19"
-  durationSec: 1884
+  uploaded: 2025-10-21
+- videoId: zZDjSFLfsGg
+  title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 15.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1120
   region: KR
+  uploaded: 2025-10-15
+- videoId: SgIJg4-bX-E
+  title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 25.20 Season 15
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1831
+  region: KR
+  uploaded: 2025-10-13
 - videoId: Ij6utszXwTU
   title: Zeri vs Kaisa ADC [ PentaKill ] Korea Challenger Patch 25.19 ✅
   rankClaim: Challenger
@@ -75,39 +110,106 @@
   durationSec: 1305
   region: KR
   player: PentaKill
+  uploaded: 2025-10-01
+- videoId: invS9KfoVAQ
+  title: Zeri ADC vs Kai'Sa - KR Master Patch 25.19
+  rankClaim: Master
+  patch: "25.19"
+  durationSec: 1884
+  region: KR
+  uploaded: 2025-09-30
 - videoId: dSvWLXj6jVE
   title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1631
   region: KR
+  uploaded: 2025-06-27
 - videoId: xeqHPXshGD0
   title: Zeri vs Kai'Sa ADC - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1771
   region: KR
+  uploaded: 2025-05-28
 - videoId: Fv-g95GbShc
   title: Zeri vs Kai'Sa ADC - KR Grandmaster - Patch 25.10 Season 15
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1751
   region: KR
+  uploaded: 2025-05-23
 - videoId: dCZwwUTpKtQ
   title: Zeri ADC vs Kai'Sa - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 2083
   region: KR
+  uploaded: 2025-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Take down The Turret
+      kind: tower
+    - at: 16:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:02
+      label: Get a Triple Kill
+      kind: kill
+    - at: 32:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 33:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:22
+      label: End credit
 - videoId: QMw0jkd7540
   title: Zeri ADC vs Kai'Sa - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1717
   region: KR
+  uploaded: 2025-02-27
 - videoId: 0FcvXaejq_4
   title: Zeri vs Kaisa [ ADC ] Lol Korea Master Patch 25.3 ✅
   rankClaim: Master
   patch: "25.3"
   durationSec: 1368
   region: KR
+  uploaded: 2025-02-09

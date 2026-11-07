@@ -5,9 +5,64 @@
   patch: "25.24"
   durationSec: 1455
   region: KR
+  uploaded: 2026-01-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:47
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: End credit
 - videoId: tkTV1j2gUlg
   title: Kayn vs Jarvan IV Jungle - NA Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1711
   region: NA
+  uploaded: 2025-12-17

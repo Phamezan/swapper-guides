@@ -5,27 +5,147 @@
   patch: "26.5"
   durationSec: 1809
   region: KR
+  uploaded: 2026-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:04
+      label: Take down The Turret
+      kind: tower
+    - at: 14:09
+      label: Take down The Turret
+      kind: tower
+    - at: 15:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:47
+      label: Take down The Turret
+      kind: tower
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Take down The Turret
+      kind: tower
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:10
+      label: Take down The Turret
+      kind: tower
+    - at: 26:28
+      label: Get a Triple Kill
+      kind: kill
+    - at: 28:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:21
+      label: Take down The Turret
+      kind: tower
+    - at: 29:58
+      label: End credit
 - videoId: 0_KeePy5raQ
   title: Illaoi Top vs Ambessa - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 2091
   region: KR
+  uploaded: 2025-09-19
 - videoId: 0uCSXwJ_w1Q
   title: Illaoi Top vs Ambessa - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1709
   region: KR
+  uploaded: 2025-05-23
 - videoId: sIJNA2no914
   title: Illaoi Top vs Ambessa - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1971
   region: KR
+  uploaded: 2025-05-02
 - videoId: hykBfkbekEk
   title: Illaoi Top vs Ambessa - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1704
   region: KR
+  uploaded: 2025-03-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:03
+      label: Take down The Turret
+      kind: tower
+    - at: 14:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:25
+      label: Take down The Turret
+      kind: tower
+    - at: 17:37
+      label: Take down The Turret
+      kind: tower
+    - at: 18:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:07
+      label: Take down The Turret
+      kind: tower
+    - at: 20:20
+      label: Take down The Turret
+      kind: tower
+    - at: 20:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Take down The Turret
+      kind: tower
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Take down The Turret
+      kind: tower
+    - at: 27:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:03
+      label: End credit

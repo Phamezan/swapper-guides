@@ -5,15 +5,62 @@
   patch: "26.16"
   durationSec: 1720
   region: KR
+  uploaded: 2026-08-25
 - videoId: _XI_hjhOmlc
   title: Gnar Top vs Sylas - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1547
   region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:29
+      label: Take down The Turret
+      kind: tower
+    - at: 14:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:52
+      label: Take down The Turret
+      kind: tower
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:36
+      label: End credit
 - videoId: xfUQ3eGHc80
   title: Gnar Top vs Sylas - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1697
   region: KR
+  uploaded: 2025-07-24

@@ -5,9 +5,73 @@
   patch: "26.5"
   durationSec: 1559
   region: NA
+  uploaded: 2026-03-14
 - videoId: QGCGJV6v9Mk
   title: Viego Mid vs Taliyah - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1757
   region: NA
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Take down The Turret
+      kind: tower
+    - at: 24:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:02
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 28:42
+      label: Take down The Turret
+      kind: tower
+    - at: 28:56
+      label: End credit

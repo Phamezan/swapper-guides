@@ -5,15 +5,112 @@
   patch: "26.2"
   durationSec: 1604
   region: KR
+  uploaded: 2026-02-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: End credit
 - videoId: 4MLEya6CAxE
   title: Zed Support vs Neeko - EUW Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1606
   region: EUW
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Take down The Turret
+      kind: tower
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:35
+      label: End credit
 - videoId: HP3X5bW-Zx8
   title: Zed Support vs Neeko - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1692
   region: KR
+  uploaded: 2025-08-18

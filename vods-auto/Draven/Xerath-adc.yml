@@ -5,3 +5,67 @@
   patch: "26.19"
   durationSec: 1734
   region: KR
+  uploaded: 2026-09-27
+  result: W
+  moments:
+    - at: 2:25
+      label: First Blood — Pantheon kills Xerath
+      kind: kill
+    - at: 8:37
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:57
+      label: Draven outduels Xerath
+    - at: 10:12
+      label: Draven picks off Leona
+    - at: 11:26
+      label: Draven takes down Xerath
+    - at: 12:35
+      label: Pantheon eliminates Leona
+    - at: 14:30
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 15:00
+      label: Azir eliminates Zed
+    - at: 16:17
+      label: Draven eliminates Kha'Zix
+    - at: 19:58
+      label: Draven eliminates Kha'Zix
+    - at: 20:23
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 21:38
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:59
+      label: Draven picks off Ambessa
+    - at: 23:45
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:30
+      label: Mid Inhibitor falls (Red)
+    - at: 25:51
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 27:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:48
+      label: Draven Triple Kill
+      kind: kill
+- videoId: 8DAFDodHXtw
+  title: "Rank 1 Draven : Insane 1v9 HardCarrying His TEAM - Engsub ( vs Xerath, Syndra )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1637
+  patchEstimated: true
+  uploaded: 2026-08-21
+  format: stream
+- videoId: ljYiCPkdWTU
+  title: "Rank 1 Draven : ONE AXE - ONE SHOT - ONE KILL DRAVEN BE LIKE - Engsub ( vs Xerath, Jinx )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1480
+  patchEstimated: true
+  uploaded: 2026-08-14
+  format: stream

@@ -7,15 +7,65 @@
   region: KR
   player: JunJia
   team: JDG
+  uploaded: 2026-06-28
 - videoId: 8_dOe1iTyNk
   title: Zyra vs Vi Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1801
   region: KR
+  uploaded: 2025-06-18
 - videoId: TAswFr15qCY
   title: Zyra Jungle vs Vi - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1669
   region: KR
+  uploaded: 2025-04-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: End credit

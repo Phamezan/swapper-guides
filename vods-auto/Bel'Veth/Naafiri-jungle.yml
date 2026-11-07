@@ -5,21 +5,25 @@
   patch: "26.10"
   durationSec: 1729
   region: KR
-- videoId: 47jeqZlW2V0
-  title: Bel'Veth Jungle vs Naafiri - KR Master Patch 25.10
-  rankClaim: Master
-  patch: "25.10"
-  durationSec: 1681
-  region: KR
+  uploaded: 2026-05-29
 - videoId: ciyFeWO4RbQ
   title: Bel'Veth vs Naafiri Jungle - KR Master - Patch 25.10 Season 15
   rankClaim: Master
   patch: "25.10"
   durationSec: 1606
   region: KR
+  uploaded: 2025-05-21
+- videoId: 47jeqZlW2V0
+  title: Bel'Veth Jungle vs Naafiri - KR Master Patch 25.10
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1681
+  region: KR
+  uploaded: 2025-05-21
 - videoId: 0Laq7XHwZAI
   title: Bel'Veth Jungle vs Naafiri - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1776
   region: KR
+  uploaded: 2025-03-26

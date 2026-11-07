@@ -422,11 +422,13 @@
   patch: "26.4"
   durationSec: 1561
   region: NA
+  uploaded: 2026-03-03
 - videoId: _yxsmNTbB-A
   title: Zed Mid vs Fizz - TW Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 2136
+  uploaded: 2025-09-19
 - videoId: nILy9AwBCfM
   title: Laceration Zed vs Fizz Mid - NA Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
@@ -434,14 +436,17 @@
   durationSec: 1741
   region: NA
   player: Laceration
+  uploaded: 2025-08-25
 - videoId: SPIU_HiGhMQ
   title: Zed Mid vs Fizz - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 2057
   region: KR
+  uploaded: 2025-06-15
 - videoId: _ixsKKjkLVU
   title: Zed Mid vs Fizz - TW Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1649
+  uploaded: 2025-06-05

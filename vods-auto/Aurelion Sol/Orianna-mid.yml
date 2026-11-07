@@ -13,33 +13,101 @@
   patch: "25.18"
   durationSec: 1824
   region: KR
+  uploaded: 2025-09-22
 - videoId: hu1E-2FJR74
   title: Aurelion Sol vs Orianna Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 1571
   region: KR
+  uploaded: 2025-07-04
 - videoId: ah1ftJ_7qNU
   title: Aurelion Sol vs Orianna Mid - KR Master - Patch 25.11 Season 15
   rankClaim: Master
   patch: "25.11"
   durationSec: 1951
   region: KR
+  uploaded: 2025-06-02
 - videoId: pN_HE4sn61Y
   title: Aurelion Sol Mid vs Orianna - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1783
   region: KR
+  uploaded: 2025-04-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:53
+      label: Get a Triple Kill
+      kind: kill
+    - at: 16:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 25:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:33
+      label: Take down The Turret
+      kind: tower
+    - at: 28:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:22
+      label: End credit
 - videoId: tyjkQ5AOsB0
   title: Aurelion Sol vs Orianna Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1636
   region: KR
+  uploaded: 2025-04-23
 - videoId: 9Z7xOTZY5FI
   title: Aurelion Sol vs Orianna Mid - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1620
   region: KR
+  uploaded: 2025-03-08

@@ -5,9 +5,113 @@
   patch: "26.10"
   durationSec: 1636
   region: KR
+  uploaded: 2026-05-21
+  result: W
+  moments:
+    - at: 3:05
+      label: First Blood — Illaoi kills Shen
+      kind: kill
+    - at: 7:05
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:25
+      label: Illaoi eliminates Neeko
+    - at: 10:38
+      label: Sylas kills Shen
+      kind: kill
+    - at: 12:27
+      label: Illaoi catches Shen
+    - at: 13:45
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:42
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:56
+      label: Illaoi outduels Shen again
+    - at: 17:17
+      label: Sylas takes down Kayn
+    - at: 18:00
+      label: Illaoi eliminates Shen
+    - at: 18:54
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:34
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 21:00
+      label: Smolder eliminates Kayn
+    - at: 21:56
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:05
+      label: Smolder Triple Kill
+      kind: kill
+    - at: 24:16
+      label: Mid Inhibitor falls (Red)
+    - at: 26:17
+      label: Illaoi takes down Jayce
 - videoId: rIWhZJ2Ngyw
   title: Illaoi Top vs Shen - EUW Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1603
   region: EUW
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:00
+      label: Take down The Turret
+      kind: tower
+    - at: 14:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:09
+      label: Take down The Turret
+      kind: tower
+    - at: 20:02
+      label: Take down The Turret
+      kind: tower
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Take down The Turret
+      kind: tower
+    - at: 22:51
+      label: Take down The Inhibitor
+    - at: 25:13
+      label: Take down The Turret
+      kind: tower
+    - at: 25:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:59
+      label: Take down The Inhibitor
+    - at: 26:11
+      label: Take down The Turret
+      kind: tower
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:32
+      label: End credit

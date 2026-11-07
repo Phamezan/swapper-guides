@@ -5,14 +5,85 @@
   patch: "25.12"
   durationSec: 1540
   region: KR
+  uploaded: 2025-06-20
 - videoId: dlNduFYi_ZY
   title: Amumu Jungle vs Viego - VN Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1514
+  uploaded: 2025-04-26
 - videoId: NMlyUtegeXs
   title: Amumu Jungle vs Viego - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1743
   region: KR
+  uploaded: 2025-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:36
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:32
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:42
+      label: End credit

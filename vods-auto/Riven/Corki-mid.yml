@@ -5,3 +5,47 @@
   patch: "26.8"
   durationSec: 1605
   region: EUW
+  uploaded: 2026-04-26
+  result: W
+  moments:
+    - at: 3:43
+      label: First Blood — Riven kills Corki
+      kind: kill
+    - at: 5:28
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:13
+      label: Riven takes down Kennen
+    - at: 7:59
+      label: Riven eliminates Corki
+    - at: 9:44
+      label: Riven takes down Corki
+    - at: 11:26
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 12:08
+      label: Riven kills Swain
+      kind: kill
+    - at: 13:40
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:52
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 17:32
+      label: Aatrox eliminates Swain
+    - at: 19:42
+      label: Red takes Baron
+      kind: baron
+    - at: 22:02
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:54
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:29
+      label: Riven kills Swain
+      kind: kill
+    - at: 24:15
+      label: Riven picks off Ambessa
+    - at: 25:43
+      label: Mid Inhibitor falls (Red)

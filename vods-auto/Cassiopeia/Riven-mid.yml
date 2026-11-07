@@ -6,3 +6,48 @@
   durationSec: 1815
   region: EUW
   player: MISA Kofte
+  uploaded: 2026-06-30
+  result: L
+  moments:
+    - at: 6:42
+      label: First Blood — Cassiopeia kills Malphite
+      kind: kill
+    - at: 10:02
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:22
+      label: Cassiopeia kills Aphelios
+      kind: kill
+    - at: 13:27
+      label: Jax takes down Malphite
+    - at: 15:43
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:42
+      label: Cassiopeia takes down Varus
+    - at: 20:53
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 21:22
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:24
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:09
+      label: Cassiopeia picks off Malphite
+    - at: 26:54
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
+    - at: 29:15
+      label: Sion Double Kill
+      kind: kill
+- videoId: WEk23Y5iaB8
+  title: "Challenger Cassiopeia : His Kiting on CN Super Server is INSANE, Riven DEAD"
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1323
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-23
+  format: stream

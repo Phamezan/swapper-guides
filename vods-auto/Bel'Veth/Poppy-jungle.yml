@@ -5,3 +5,53 @@
   patch: "26.16"
   durationSec: 1556
   region: KR
+  uploaded: 2026-08-25
+  result: L
+  moments:
+    - at: 3:32
+      label: First Blood — Bel'Veth kills Kennen
+      kind: kill
+    - at: 5:21
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:51
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:00
+      label: Bel'Veth kills Senna
+      kind: kill
+    - at: 15:40
+      label: Camille eliminates Kennen
+    - at: 16:05
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:34
+      label: Bel'Veth picks off Hwei
+    - at: 18:54
+      label: Ziggs eliminates Poppy
+    - at: 20:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:51
+      label: Red takes Baron
+      kind: baron
+    - at: 21:37
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:10
+      label: Bel'Veth Double Kill
+      kind: kill
+    - at: 22:28
+      label: Bel'Veth catches Senna
+    - at: 22:41
+      label: Camille takes down Hwei
+    - at: 22:52
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:59
+      label: Bel'Veth outduels Kennen
+    - at: 24:33
+      label: Bel'Veth kills Senna
+      kind: kill
+    - at: 25:04
+      label: Bel'Veth kills Kennen
+      kind: kill

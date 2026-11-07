@@ -5,9 +5,49 @@
   patch: "25.24"
   durationSec: 1688
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:45
+      label: Take down The Turret
+      kind: tower
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:59
+      label: Take down The Turret
+      kind: tower
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:57
+      label: End credit
 - videoId: Pk6vG7G_7Es
   title: Zaahen vs Pantheon Top - KR Master - Patch 25.23 Season 15
   rankClaim: Master
   patch: "25.23"
   durationSec: 1921
   region: KR
+  uploaded: 2025-11-21

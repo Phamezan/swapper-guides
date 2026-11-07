@@ -6,15 +6,70 @@
   durationSec: 1864
   region: KR
   player: Beichuan
+  uploaded: 2026-09-11
 - videoId: xziqX6kuqvQ
   title: Twisted Fate Mid vs Mel - KR Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1911
   region: KR
+  uploaded: 2026-05-17
 - videoId: XQE8Bo11ncE
   title: Twisted Fate Mid vs Mel - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1967
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:04
+      label: Take down The Turret
+      kind: tower
+    - at: 28:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:00
+      label: Take down The Turret
+      kind: tower
+    - at: 29:12
+      label: Take down The Inhibitor
+    - at: 31:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:26
+      label: End credit

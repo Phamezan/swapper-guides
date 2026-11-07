@@ -5,26 +5,81 @@
   patch: "26.7"
   durationSec: 1621
   region: KR
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:06
+      label: Take down The Turret
+      kind: tower
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Take down The Turret
+      kind: tower
+    - at: 25:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: End credit
 - videoId: dqaEaxFEe6k
   title: LeBlanc Support vs Rakan - VN Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1744
+  uploaded: 2026-03-01
 - videoId: 7EvCOhFyCtc
   title: LeBlanc Support vs Rakan - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1676
   region: KR
+  uploaded: 2025-11-03
 - videoId: MFoomyztTFw
   title: LeBlanc Support vs Rakan - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1506
   region: KR
+  uploaded: 2025-04-28
 - videoId: ayr8PuwZZY4
   title: LeBlanc Support vs Rakan - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1587
   region: KR
+  uploaded: 2025-04-14

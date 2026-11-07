@@ -5,9 +5,61 @@
   patch: "26.2"
   durationSec: 1487
   region: EUW
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:00
+      label: Take down The Turret
+      kind: tower
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Take down The Turret
+      kind: tower
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Take down The Turret
+      kind: tower
+    - at: 24:36
+      label: End credit
 - videoId: WZ2tGbxtjdQ
   title: Briar Mid vs Katarina - NA Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1461
   region: NA
+  uploaded: 2025-07-09

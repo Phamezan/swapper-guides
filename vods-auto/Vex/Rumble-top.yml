@@ -5,3 +5,49 @@
   patch: "26.15"
   durationSec: 1755
   region: NA
+  uploaded: 2026-08-12
+  result: W
+  moments:
+    - at: 0:16
+      label: First Blood — Janna kills Zed
+      kind: kill
+    - at: 3:20
+      label: Vex picks off Riven
+    - at: 6:55
+      label: Nocturne kills Rumble
+      kind: kill
+    - at: 12:23
+      label: Vex kills Graves
+      kind: kill
+    - at: 14:34
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 15:43
+      label: Vex outplays Zed
+    - at: 16:46
+      label: Smolder takes down Riven
+    - at: 19:26
+      label: Vex takes down Zed
+    - at: 20:21
+      label: Vex eliminates Thresh
+    - at: 21:09
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 23:53
+      label: Mid Inhibitor falls (Red)
+    - at: 24:20
+      label: Top Inhibitor falls (Red)
+    - at: 25:28
+      label: Vex eliminates Rumble
+    - at: 26:43
+      label: Vex kills Graves
+      kind: kill
+    - at: 27:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 28:05
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 28:19
+      label: Smolder Double Kill
+      kind: kill

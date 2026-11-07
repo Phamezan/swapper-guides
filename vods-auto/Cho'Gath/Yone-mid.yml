@@ -5,3 +5,66 @@
   patch: "25.5"
   durationSec: 2077
   region: EUW
+  uploaded: 2025-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:00
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:23
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 15:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Take down The Turret
+      kind: tower
+    - at: 17:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:28
+      label: Take down The Turret
+      kind: tower
+    - at: 22:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 33:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:16
+      label: End credit

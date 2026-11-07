@@ -7,6 +7,7 @@
   region: KR
   player: Zeka
   team: TES
+  uploaded: 2026-06-28
 - videoId: AxBvWbYGtJE
   title: (CNWI Doinb) Syndra Mid vs Galio - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -14,14 +15,17 @@
   durationSec: 1649
   region: KR
   player: Doinb
+  uploaded: 2026-05-24
 - videoId: acb9efvh2N0
   title: Syndra Mid vs Galio - VN Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1510
+  uploaded: 2026-01-13
 - videoId: wbXGfyRpgWQ
   title: Syndra Mid vs Galio - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1805
   region: KR
+  uploaded: 2025-08-06

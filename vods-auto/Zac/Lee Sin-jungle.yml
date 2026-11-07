@@ -14,27 +14,102 @@
   patch: "26.11"
   durationSec: 1649
   region: KR
+  uploaded: 2026-06-05
 - videoId: Zm7kPWExYyY
   title: Zac Jungle vs Lee Sin - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1574
   region: KR
+  uploaded: 2026-02-09
 - videoId: -RaQyXikjas
   title: Zac Jungle vs Lee Sin - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1505
   region: KR
+  uploaded: 2026-01-13
 - videoId: 0sN3ucuiAEo
   title: Zac Jungle vs Lee Sin - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1829
   region: KR
+  uploaded: 2025-05-22
 - videoId: Pm88q-Cw9xg
   title: Zac Jungle vs Lee Sin - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1796
   region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:44
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Take down The Turret
+      kind: tower
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Take down The Inhibitor
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:14
+      label: Take down The Turret
+      kind: tower
+    - at: 29:35
+      label: End credit

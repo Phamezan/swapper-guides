@@ -5,9 +5,69 @@
   patch: "26.15"
   durationSec: 1860
   region: KR
+  uploaded: 2026-08-06
 - videoId: YLpzC9hokyQ
   title: Draven Jungle vs Jayce - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1443
   region: KR
+  uploaded: 2025-12-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 12:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:03
+      label: Take down The Turret
+      kind: tower
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Hunt The Atakhan
+    - at: 20:34
+      label: Take down The Turret
+      kind: tower
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: End credit

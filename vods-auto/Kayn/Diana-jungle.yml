@@ -61,9 +61,78 @@
   patch: "25.24"
   durationSec: 1457
   region: EUW
+  uploaded: 2026-01-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:56
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:05
+      label: Hunt The Atakhan
+    - at: 21:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Take down The Turret
+      kind: tower
+    - at: 23:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:46
+      label: Take down The Turret
+      kind: tower
+    - at: 24:06
+      label: End credit
 - videoId: RhqtQxGO9V4
   title: Kayn Jungle vs Diana - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1732
   region: KR
+  uploaded: 2025-04-11

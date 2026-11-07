@@ -5,3 +5,62 @@
   patch: "25.24"
   durationSec: 1462
   region: NA
+  uploaded: 2025-12-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:29
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:54
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:51
+      label: Take down The Turret
+      kind: tower
+    - at: 21:06
+      label: Hunt The Atakhan
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: End credit

@@ -23,12 +23,14 @@
   patch: "26.6"
   durationSec: 1612
   region: KR
+  uploaded: 2026-03-27
 - videoId: IZYWGukwxDc
   title: Kalista ADC vs Caitlyn - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1550
   region: KR
+  uploaded: 2025-09-04
 - videoId: w8XV9t7mekg
   title: T1 Gumayusi Kalista vs Caitlyn [ ADC ] Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -37,3 +39,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-08

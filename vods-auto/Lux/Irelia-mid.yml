@@ -5,3 +5,42 @@
   patch: "25.8"
   durationSec: 1816
   region: NA
+  uploaded: 2025-05-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:47
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 29:55
+      label: End credit

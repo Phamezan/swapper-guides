@@ -6,3 +6,50 @@
   durationSec: 1525
   region: EUW
   player: GNG Dean
+  uploaded: 2026-08-20
+  result: L
+  moments:
+    - at: 3:18
+      label: First Blood — Braum kills Cassiopeia
+      kind: kill
+    - at: 6:43
+      label: Katarina kills Cassiopeia
+      kind: kill
+    - at: 9:15
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:02
+      label: Ivern kills Sett
+      kind: kill
+    - at: 12:08
+      label: Katarina takes down Twitch
+    - at: 13:09
+      label: Katarina eliminates Taliyah
+    - at: 14:24
+      label: Katarina kills Cassiopeia
+      kind: kill
+    - at: 14:50
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 17:04
+      label: Anivia picks off Taliyah
+    - at: 17:41
+      label: Ivern Double Kill
+      kind: kill
+    - at: 19:36
+      label: Anivia takes down Elise
+    - at: 20:14
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:51
+      label: Katarina eliminates Taliyah
+    - at: 21:22
+      label: Red takes Baron
+      kind: baron
+    - at: 23:18
+      label: Katarina takes down Twitch
+    - at: 23:58
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:22
+      label: Viktor Double Kill
+      kind: kill

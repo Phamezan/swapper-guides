@@ -15,6 +15,7 @@
   durationSec: 1511
   region: EUW
   player: SGE ZaZee
+  uploaded: 2026-06-21
 - videoId: Mw2cToJdVA0
   title: (WE Karis) Taliyah Mid vs Ryze (NS Calix) - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -23,27 +24,136 @@
   region: KR
   player: Karis
   team: WE
+  uploaded: 2026-05-24
 - videoId: -qMqpuXkQPI
   title: Taliyah Mid vs Ryze - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1576
   region: EUW
+  uploaded: 2026-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:49
+      label: Take down The Turret
+      kind: tower
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Take down The Turret
+      kind: tower
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:12
+      label: Take down The Turret
+      kind: tower
+    - at: 23:30
+      label: Take down The Inhibitor
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: End credit
 - videoId: JdUstJ6xRks
   title: Taliyah Mid vs Ryze - NA Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1522
   region: NA
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Take down The Turret
+      kind: tower
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Take down The Turret
+      kind: tower
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Take down The Turret
+      kind: tower
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Take down The Inhibitor
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: End credit
 - videoId: 0NbtCm1y_V4
   title: Taliyah Mid vs Ryze - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1709
   region: KR
+  uploaded: 2025-09-27
 - videoId: eH4FX0HXb_U
   title: Taliyah Mid vs Ryze - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1527
   region: KR
+  uploaded: 2025-04-20

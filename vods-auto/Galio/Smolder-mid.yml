@@ -57,6 +57,7 @@
   patch: "25.22"
   durationSec: 1624
   region: KR
+  uploaded: 2025-11-09
 - videoId: uXTBW_SmDCg
   title: Faker Galio vs Smolder Mid - KR Grandmaster - Patch 25.7 Season 15
   rankClaim: Grandmaster
@@ -64,6 +65,7 @@
   durationSec: 1786
   region: KR
   player: Faker
+  uploaded: 2025-04-15
 - videoId: wfK59I7-dLQ
   title: T1 Faker Galio vs Smolder [ MID ] Patch 25.7 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -72,3 +74,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-04-14

@@ -218,6 +218,7 @@
   patch: "26.15"
   durationSec: 1626
   region: KR
+  uploaded: 2026-08-05
 - videoId: oCEXW-5C1a0
   title: (IN5 Alix) Zed Jungle vs Taliyah - EUW Challenger Patch 26.14
   rankClaim: Challenger
@@ -382,12 +383,6 @@
       kind: teamfight
     - at: 26:05
       label: Bot Inhibitor falls (Blue)
-- videoId: zVli9pcBdVg
-  title: Zed Jungle vs Taliyah - KR Grandmaster Patch 26.09
-  rankClaim: Grandmaster
-  patch: "26.9"
-  durationSec: 1568
-  region: KR
 - videoId: n2UKCcEIm7o
   title: Zed Jungle vs Taliyah - EUW Master Patch 26.09
   rankClaim: Master
@@ -442,20 +437,30 @@
       label: Zed eliminates Vayne
     - at: 29:42
       label: Mid Inhibitor falls (Blue)
+- videoId: zVli9pcBdVg
+  title: Zed Jungle vs Taliyah - KR Grandmaster Patch 26.09
+  rankClaim: Grandmaster
+  patch: "26.9"
+  durationSec: 1568
+  region: KR
+  uploaded: 2026-05-02
 - videoId: c9zPwXWZkCg
   title: Zed Jungle vs Taliyah - TW Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1883
+  uploaded: 2025-09-16
 - videoId: HXUEnfOE5p0
   title: Zed vs Taliyah Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1561
   region: KR
+  uploaded: 2025-05-19
 - videoId: G3kd1dkaniY
   title: Zed Jungle vs Taliyah - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2077
   region: EUW
+  uploaded: 2025-03-09

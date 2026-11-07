@@ -63,6 +63,7 @@
   patch: "26.12"
   durationSec: 1471
   region: KR
+  uploaded: 2026-06-22
 - videoId: KsGQSQyeHn0
   title: (TLAW CoreJJ) Renata Glasc Support vs Neeko - NA Challenger Patch 26.11
   rankClaim: Challenger
@@ -70,21 +71,95 @@
   durationSec: 1594
   region: NA
   player: TLAW CoreJJ
+  uploaded: 2026-06-07
 - videoId: j2lchdc3ujI
   title: Renata Glasc Support vs Neeko - EUW Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1462
   region: EUW
+  uploaded: 2026-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:43
+      label: Take down The Turret
+      kind: tower
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Take down The Turret
+      kind: tower
+    - at: 22:47
+      label: Take down The Inhibitor
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: End credit
 - videoId: d1Ou51VNemc
   title: Renata Glasc Support vs Neeko - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1659
   region: KR
+  uploaded: 2025-10-03
 - videoId: wPkQdfMpT1M
   title: Renata Glasc Support vs Neeko - NA Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1557
   region: NA
+  uploaded: 2025-07-31

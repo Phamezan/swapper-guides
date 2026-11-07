@@ -5,15 +5,76 @@
   patch: "26.1"
   durationSec: 1510
   region: KR
+  uploaded: 2026-01-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:10
+      label: Take down The Inhibitor
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Take down The Turret
+      kind: tower
+    - at: 24:59
+      label: End credit
 - videoId: Pg1kugtb0C0
   title: Warwick vs Wukong [ Jungle ] Lol Korea Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1576
   region: KR
+  uploaded: 2025-09-25
 - videoId: sailee15W_M
   title: Warwick Jungle vs Wukong - EUW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1608
   region: EUW
+  uploaded: 2025-06-23

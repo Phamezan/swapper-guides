@@ -336,24 +336,73 @@
   durationSec: 1717
   region: KR
   player: QuadraKill
+  uploaded: 2025-11-04
 - videoId: C1RGFMwSwPc
   title: Zed Mid vs LeBlanc - BR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1683
+  uploaded: 2025-07-20
 - videoId: MAaofvvw4I0
   title: Zed Mid vs LeBlanc - KR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1779
   region: KR
+  uploaded: 2025-06-14
 - videoId: SYgPaxrpnQI
   title: Zed Mid vs LeBlanc - TW Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1458
+  uploaded: 2025-05-16
 - videoId: dsWLMREOwY8
   title: Zed Mid vs LeBlanc - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1748
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Take down The Turret
+      kind: tower
+    - at: 20:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:09
+      label: Take down The Turret
+      kind: tower
+    - at: 28:47
+      label: End credit

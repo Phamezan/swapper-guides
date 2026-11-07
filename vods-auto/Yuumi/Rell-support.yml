@@ -4,15 +4,18 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1541
+  uploaded: 2025-12-31
 - videoId: emGDISi4UcU
   title: Yuumi Support vs Rell - EUW Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1746
   region: EUW
+  uploaded: 2025-07-30
 - videoId: LmxYRx_vT9U
   title: Yuumi Support vs Rell - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1627
   region: KR
+  uploaded: 2025-06-15

@@ -6,9 +6,83 @@
   durationSec: 1591
   region: KR
   player: TLAW Morgan
+  uploaded: 2026-06-26
 - videoId: VRnpcPKWLik
   title: Wukong Top vs Jayce - EUW Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1491
   region: EUW
+  uploaded: 2026-01-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:28
+      label: Take down The Turret
+      kind: tower
+    - at: 11:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Take down The Turret
+      kind: tower
+    - at: 15:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:10
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:54
+      label: Take down The Turret
+      kind: tower
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:38
+      label: Take down The Turret
+      kind: tower
+    - at: 20:59
+      label: Take down The Inhibitor
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Take down The Turret
+      kind: tower
+    - at: 24:02
+      label: Take down The Inhibitor
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: Take down The Turret
+      kind: tower
+    - at: 24:40
+      label: End credit

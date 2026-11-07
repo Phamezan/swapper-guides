@@ -5,3 +5,75 @@
   patch: "25.4"
   durationSec: 1903
   region: KR
+  uploaded: 2025-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:05
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Take down The Turret
+      kind: tower
+    - at: 23:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:01
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:08
+      label: Take down The Turret
+      kind: tower
+    - at: 31:22
+      label: End credit

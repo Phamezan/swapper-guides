@@ -5,9 +5,57 @@
   patch: "25.24"
   durationSec: 1598
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 18:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Hunt The Atakhan
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: End credit
 - videoId: EiTywehj2RY
   title: Sylas vs Aatrox Jungle - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1471
   region: KR
+  uploaded: 2025-11-29

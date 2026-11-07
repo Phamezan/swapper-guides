@@ -5,15 +5,129 @@
   patch: "26.3"
   durationSec: 1653
   region: EUW
+  uploaded: 2026-02-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Take down The Turret
+      kind: tower
+    - at: 17:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:12
+      label: Take down The Turret
+      kind: tower
+    - at: 26:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:44
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Take down The Inhibitor
+    - at: 27:22
+      label: End credit
 - videoId: fdznURBS6Sg
   title: Naafiri Mid vs Yasuo - NA Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2084
   region: NA
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:23
+      label: End credit
 - videoId: gQeVcl7NwFk
   title: Naafiri vs Yasuo Mid - NA Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2056
   region: NA
+  uploaded: 2025-03-12

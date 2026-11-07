@@ -17,6 +17,49 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-08-29
+- videoId: vLLJNPUoC3U
+  title: "Smash : His Yunara Mechanic is on Another Level - Engsub ( vs Caitlyn )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1022
+  patchEstimated: true
+  player: Smash
+  uploaded: 2026-08-25
+  format: stream
+- videoId: zLj9g9-uFQY
+  title: "2255LP Yunara : 1v5 BREAKING CN Super Server Challenger - Engsub ( Yunara vs Caitlyn, Sivir )"
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1587
+  patchEstimated: true
+  uploaded: 2026-06-18
+  format: stream
+- videoId: dUZvWcezfoA
+  title: "Uzi : Yunara + Lulu Combos is INDESTRUCTIBLE - Engsub ( Yunara vs Caitlyn, Smolder )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1395
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-21
+  format: stream
+- videoId: bOVQaIM-Gss
+  title: "1600LP Yunara : His Mechanic is so AGGRESSIVE in Early Game - Engsub ( Yunara vs Ez, Caitlyn )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1480
+  patchEstimated: true
+  uploaded: 2026-05-11
+  format: stream
+- videoId: dMXmqkAKJWI
+  title: "T1 Peyz : His Yunara Mechanic is so AGGRESSIVE in Early Game ( Yunara vs Caitlyn )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1063
+  patchEstimated: true
+  player: Peyz
+  uploaded: 2026-04-29
+  format: stream
 - videoId: Frbut_NlalU
   title: Peyz Yunara vs Caitlyn ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -59,6 +102,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-02-06
 - videoId: SpB1O7GYSFQ
   title: T1 Peyz Yunara vs Caitlyn [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -67,6 +111,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-14
 - videoId: ZGMlbrWt_Ww
   title: Yunara vs Caitlyn ADC [ PentaKill ] Lol Korea Master Patch 25.14
   rankClaim: Master
@@ -74,6 +119,7 @@
   durationSec: 1644
   region: KR
   player: PentaKill
+  uploaded: 2025-07-26
 - videoId: bk_Sv8C2K4c
   title: Yunara vs Caitlyn ADC [ PentaKill ] Lol Korea Master Patch 25.14
   rankClaim: Master
@@ -81,6 +127,7 @@
   durationSec: 1224
   region: KR
   player: PentaKill
+  uploaded: 2025-07-22
 - videoId: TPRuj3rQyNk
   title: Yunara vs Caitlyn ADC [ JDG Peyz ] Patch 25.14 Korea Challenger ✅
   rankClaim: Challenger
@@ -89,3 +136,4 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-07-17

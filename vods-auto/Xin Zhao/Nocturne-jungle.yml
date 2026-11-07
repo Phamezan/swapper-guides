@@ -5,6 +5,75 @@
   patch: "26.5"
   durationSec: 1693
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:38
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:55
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Take down The Turret
+      kind: tower
+    - at: 17:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:15
+      label: Take down The Turret
+      kind: tower
+    - at: 27:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:02
+      label: End credit
 - videoId: nXtjZTPfN8Y
   title: Xin Zhao vs Nocturne Jungle [ KT Cuzz ] Korea Challenger Patch 25.7 ✅
   rankClaim: Challenger
@@ -13,3 +82,4 @@
   region: KR
   player: Cuzz
   team: KT
+  uploaded: 2025-04-05

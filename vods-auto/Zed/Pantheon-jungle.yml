@@ -258,31 +258,36 @@
       kind: teamfight
     - at: 27:36
       label: Top Inhibitor falls (Blue)
-- videoId: K9HfEj5H-bQ
-  title: Zed Jungle vs Pantheon - KR Challenger Patch 25.15
-  rankClaim: Challenger
-  patch: "25.15"
-  durationSec: 1854
-  region: KR
 - videoId: uhk11enlTlM
   title: Zed vs Pantheon Jungle - KR Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1696
   region: KR
+  uploaded: 2025-08-04
+- videoId: K9HfEj5H-bQ
+  title: Zed Jungle vs Pantheon - KR Challenger Patch 25.15
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1854
+  region: KR
+  uploaded: 2025-08-02
 - videoId: neEr-_kBVcI
   title: Zed Jungle vs Pantheon - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1845
   region: KR
+  uploaded: 2025-07-19
 - videoId: PVduj7QhTP4
   title: Zed Jungle vs Pantheon - TW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1914
+  uploaded: 2025-06-19
 - videoId: QRk3bUufD80
   title: Zed Jungle vs Pantheon - BR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2103
+  uploaded: 2025-05-13

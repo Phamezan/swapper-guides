@@ -5,3 +5,50 @@
   patch: "26.6"
   durationSec: 1707
   region: EUW
+  uploaded: 2026-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:38
+      label: Take down The Inhibitor
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:16
+      label: End credit

@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1673
   region: KR
+  uploaded: 2026-09-12
 - videoId: vqLS50bTNlo
   title: (3BL c0st0m) Kassadin Mid vs Syndra - EUW Challenger Patch 26.15
   rankClaim: Challenger
@@ -12,15 +13,94 @@
   durationSec: 1731
   region: EUW
   player: 3BL c0st0m
+  uploaded: 2026-08-03
 - videoId: 0gGE-vYw-2g
   title: Kassadin Mid vs Syndra - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1527
   region: NA
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:58
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Take down The Turret
+      kind: tower
+    - at: 20:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: End credit
 - videoId: UGfgyiFcEe0
   title: Kassadin Mid vs Syndra - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1633
   region: KR
+  uploaded: 2025-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:57
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 25:26
+      label: Take down The Turret
+      kind: tower
+    - at: 26:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:52
+      label: End credit

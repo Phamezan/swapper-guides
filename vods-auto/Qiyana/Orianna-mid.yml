@@ -5,9 +5,21 @@
   patch: "26.18"
   durationSec: 1630
   region: KR
+  uploaded: 2026-09-21
+- videoId: L18DcZA8GKE
+  title: BeiFeng Qiyana vs Orianna — Master KR Server — Engsub
+  rankClaim: Master
+  patch: "26.7"
+  durationSec: 1745
+  region: KR
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-04-14
+  format: stream
 - videoId: CzY2Ig-yARY
   title: Qiyana Mid vs Orianna - EUW Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1452
   region: EUW
+  uploaded: 2026-02-15

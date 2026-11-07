@@ -7,6 +7,7 @@
   region: KR
   player: Pungyeon
   team: BRO
+  uploaded: 2026-08-26
 - videoId: h9kphXrM6t0
   title: T1 Faker Cassiopeia vs Sylas [ MID ] Korea Grandmaster 1697 LP | Patch 26.13
   rankClaim: Grandmaster
@@ -22,21 +23,127 @@
   patch: "25.23"
   durationSec: 1682
   region: EUW
+  uploaded: 2025-12-02
 - videoId: 642U5nooGRQ
   title: Cassiopeia Mid vs Sylas - EUW Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1456
   region: EUW
+  uploaded: 2025-06-09
 - videoId: GJMDZyz4-84
   title: Cassiopeia Mid vs Sylas - NA Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1510
   region: NA
+  uploaded: 2025-05-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Take down The Turret
+      kind: tower
+    - at: 14:16
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Take down The Turret
+      kind: tower
+    - at: 18:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Take down The Turret
+      kind: tower
+    - at: 22:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:56
+      label: Take down The Turret
+      kind: tower
+    - at: 23:21
+      label: Take down The Inhibitor
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Take down The Turret
+      kind: tower
+    - at: 24:49
+      label: End credit
 - videoId: A39kLPHxZ9Y
   title: Cassiopeia Mid vs Sylas - NA Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1615
   region: NA
+  uploaded: 2025-04-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:11
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:02
+      label: Take down The Turret
+      kind: tower
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:55
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:44
+      label: Take down The Turret
+      kind: tower
+    - at: 26:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:34
+      label: End credit

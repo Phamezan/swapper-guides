@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1684
+  uploaded: 2026-09-15
 - videoId: Bv2x50IalGY
   title: (Qwacker) Darius Top vs Garen - NA Grandmaster Patch 26.16
   rankClaim: Grandmaster
@@ -11,15 +12,18 @@
   durationSec: 1911
   region: NA
   player: Qwacker
+  uploaded: 2026-08-20
 - videoId: niZlWCyYocU
   title: Darius Top vs Garen - EUW Grandmaster Patch 26.05
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1691
   region: EUW
+  uploaded: 2026-03-11
 - videoId: kEXhhweJY9w
   title: Darius Top vs Garen - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1697
   region: EUW
+  uploaded: 2025-11-06

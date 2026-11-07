@@ -5,15 +5,37 @@
   patch: "26.16"
   durationSec: 1794
   region: KR
+  uploaded: 2026-08-23
 - videoId: 1cgM9YdSrQg
   title: Gangplank Top vs Gwen - KR Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1469
   region: KR
+  uploaded: 2026-07-01
+- videoId: uX6bz2mR4iI
+  title: THE MOST EFFECTIVE BUILD TO COUNTER GWEN AS GANGPLANK
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 2028
+  patchEstimated: true
+  player: Solarbacca
+  uploaded: 2026-06-14
+  format: stream
+  cam: true
+  moments:
+    - at: 0:00
+      label: Game 1
+    - at: 7:28
+      label: Game 2
+    - at: 14:57
+      label: Game 3
+    - at: 22:48
+      label: Game 4
 - videoId: MPZz9OPgQQ0
   title: Gangplank Top vs Gwen - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1484
   region: KR
+  uploaded: 2025-05-18

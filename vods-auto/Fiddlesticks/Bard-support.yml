@@ -5,15 +5,62 @@
   patch: "26.3"
   durationSec: 1771
   region: EUW
+  uploaded: 2026-02-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Take down The Turret
+      kind: tower
+    - at: 14:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Take down The Turret
+      kind: tower
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:20
+      label: End credit
 - videoId: umhZQaulUNI
   title: Fiddlesticks Support vs Bard - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1601
   region: KR
+  uploaded: 2025-12-03
 - videoId: H_19xScX2Sg
   title: Fiddlesticks Support vs Bard - NA Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1672
   region: NA
+  uploaded: 2025-06-23

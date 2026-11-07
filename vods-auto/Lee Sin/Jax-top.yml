@@ -5,9 +5,66 @@
   patch: "25.24"
   durationSec: 1599
   region: KR
+  uploaded: 2026-01-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:42
+      label: Take down The Turret
+      kind: tower
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:53
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Take down The Turret
+      kind: tower
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Take down The Turret
+      kind: tower
+    - at: 18:11
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Take down The Turret
+      kind: tower
+    - at: 23:09
+      label: Take down The Inhibitor
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:12
+      label: Take down The Turret
+      kind: tower
+    - at: 26:28
+      label: End credit
 - videoId: EY10F4pMPnU
   title: Lee Sin vs Jax Top - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1711
   region: KR
+  uploaded: 2025-12-22

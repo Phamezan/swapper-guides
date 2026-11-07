@@ -5,3 +5,84 @@
   patch: "25.10"
   durationSec: 2085
   region: EUW
+  uploaded: 2025-05-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:04
+      label: Hunt The Atakhan
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Take down The Turret
+      kind: tower
+    - at: 24:12
+      label: Take down The Inhibitor
+    - at: 26:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 31:16
+      label: Take down The Inhibitor
+    - at: 31:27
+      label: Take down The Turret
+      kind: tower
+    - at: 33:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 34:24
+      label: End credit

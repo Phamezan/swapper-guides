@@ -6,6 +6,7 @@
   durationSec: 1695
   region: EUW
   player: Wantage
+  uploaded: 2026-10-01
 - videoId: mdBlxcgL9hk
   title: Zed Mid vs Viego - KR Master Patch 26.17
   rankClaim: Master
@@ -68,9 +69,11 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-07
 - videoId: RoYjUY-WT68
   title: Zed Mid vs Viego - EUW Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1701
   region: EUW
+  uploaded: 2025-08-17

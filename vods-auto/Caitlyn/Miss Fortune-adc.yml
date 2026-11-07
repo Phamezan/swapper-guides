@@ -12,24 +12,77 @@
   patch: "26.2"
   durationSec: 1527
   region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:48
+      label: Take down The Turret
+      kind: tower
+    - at: 14:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Take down The Turret
+      kind: tower
+    - at: 23:55
+      label: Take down The Inhibitor
+    - at: 24:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:16
+      label: End credit
 - videoId: st0JXSONP34
   title: Caitlyn vs Miss Fortune ADC - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1321
   region: KR
+  uploaded: 2025-09-25
 - videoId: DK5idFqd45g
   title: Caitlyn vs Miss Fortune ADC - EUW Grandmaster - Patch 25.15 Season 15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1951
   region: EUW
+  uploaded: 2025-08-07
 - videoId: 83ZImOIbBeA
   title: Caitlyn ADC vs Miss Fortune - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1539
   region: KR
+  uploaded: 2025-06-30
 - videoId: kdDGlhEiIzk
   title: T1 Gumayusi Caitlyn vs Miss Fortune [ ADC ] Patch 25.1 Korea Grandmaster
   rankClaim: Grandmaster
@@ -38,3 +91,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-17

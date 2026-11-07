@@ -5,3 +5,45 @@
   patch: "25.4"
   durationSec: 2010
   region: KR
+  uploaded: 2025-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Take down The Turret
+      kind: tower
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:34
+      label: Take down The Turret
+      kind: tower
+    - at: 33:09
+      label: End credit

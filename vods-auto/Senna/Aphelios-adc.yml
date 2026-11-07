@@ -125,15 +125,58 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-03-24
 - videoId: R6JXATLLlBQ
   title: Senna ADC vs Aphelios - KR Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1497
   region: KR
+  uploaded: 2026-01-20
 - videoId: 0bcjVZx_TlI
   title: Senna ADC vs Aphelios - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1934
   region: KR
+  uploaded: 2025-04-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: Take down The Turret
+      kind: tower
+    - at: 28:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:25
+      label: Take down The Turret
+      kind: tower
+    - at: 30:42
+      label: Take down The Inhibitor
+    - at: 30:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:25
+      label: Take down The Turret
+      kind: tower
+    - at: 31:53
+      label: End credit

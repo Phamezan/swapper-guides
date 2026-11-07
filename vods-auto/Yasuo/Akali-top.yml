@@ -5,6 +5,7 @@
   patch: "26.2"
   durationSec: 1597
   region: EUW
+  uploaded: 2026-01-31
 - videoId: VE_EkNLRt38
   title: PzZZang Yasuo vs Akali Top - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
@@ -12,9 +13,63 @@
   durationSec: 2146
   region: KR
   player: PzZZang
+  uploaded: 2025-03-07
 - videoId: jy8j5N16Evw
   title: Yasuo Top vs Akali - EUW Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 2168
   region: EUW
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:08
+      label: Take down The Turret
+      kind: tower
+    - at: 19:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 26:22
+      label: Take down The Turret
+      kind: tower
+    - at: 26:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Take down The Turret
+      kind: tower
+    - at: 27:24
+      label: Take down The Inhibitor
+    - at: 27:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 30:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:47
+      label: End credit

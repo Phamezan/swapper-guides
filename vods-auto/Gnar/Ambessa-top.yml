@@ -5,21 +5,132 @@
   patch: "26.2"
   durationSec: 1604
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:31
+      label: Take down The Turret
+      kind: tower
+    - at: 12:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Take down The Turret
+      kind: tower
+    - at: 14:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:28
+      label: Take down The Turret
+      kind: tower
+    - at: 16:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Take down The Turret
+      kind: tower
+    - at: 24:53
+      label: Take down The Inhibitor
+    - at: 25:46
+      label: Take down The Turret
+      kind: tower
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: Take down The Inhibitor
+    - at: 26:33
+      label: End credit
 - videoId: Q04ov9Y9Vs4
   title: Gnar Top vs Ambessa - KR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1550
   region: KR
+  uploaded: 2025-06-20
 - videoId: 383Q6tZu67Y
   title: Gnar Top vs Ambessa - EUW Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1663
   region: EUW
+  uploaded: 2025-05-29
 - videoId: m2mp-hRXipA
   title: Gnar Top vs Ambessa - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1658
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Turret
+      kind: tower
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:17
+      label: End credit

@@ -5,9 +5,70 @@
   patch: "26.2"
   durationSec: 1564
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:12
+      label: Take down The Turret
+      kind: tower
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:32
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:53
+      label: End credit
 - videoId: ZHFuMW8ydos
   title: Nidalee vs Ambessa [ Jungle ] Patch 25.23 Korea Grandmaster 799 LP
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1357
   region: KR
+  uploaded: 2025-11-20

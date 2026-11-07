@@ -5,3 +5,57 @@
   patch: "26.7"
   durationSec: 1643
   region: KR
+  uploaded: 2026-04-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:04
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:17
+      label: Take down The Turret
+      kind: tower
+    - at: 19:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Take down The Turret
+      kind: tower
+    - at: 25:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:12
+      label: End credit

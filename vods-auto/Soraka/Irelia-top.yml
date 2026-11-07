@@ -5,6 +5,7 @@
   patch: "26.13"
   durationSec: 1635
   region: KR
+  uploaded: 2026-07-03
 - videoId: Ruz1l4-yS84
   title: (BIG Irrelevant) Soraka Top vs Irelia - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -12,3 +13,49 @@
   durationSec: 1862
   region: EUW
   player: BIG Irrelevant
+  uploaded: 2026-06-16
+  result: L
+  moments:
+    - at: 8:05
+      label: First Blood — Soraka kills Irelia
+      kind: kill
+    - at: 8:48
+      label: Tristana takes down Kai'Sa
+    - at: 9:22
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:43
+      label: Soraka catches Irelia
+    - at: 11:57
+      label: Rengar kills Irelia
+      kind: kill
+    - at: 14:40
+      label: Soraka picks off Kai'Sa
+    - at: 15:27
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:21
+      label: Soraka eliminates Irelia
+    - at: 17:05
+      label: Brand kills Kai'Sa
+      kind: kill
+    - at: 19:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:43
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 25:54
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 26:46
+      label: Tristana Double Kill
+      kind: kill
+    - at: 27:36
+      label: Red takes Baron
+      kind: baron
+    - at: 29:36
+      label: Rengar Double Kill
+      kind: kill
+    - at: 30:05
+      label: Mid Inhibitor falls (Blue)

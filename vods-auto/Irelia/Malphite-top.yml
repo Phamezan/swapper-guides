@@ -5,21 +5,75 @@
   patch: "26.19"
   durationSec: 1763
   region: KR
+  uploaded: 2026-10-01
 - videoId: e3uhNFTHZ4E
   title: Irelia Top vs Malphite - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1451
   region: KR
+  uploaded: 2026-09-03
 - videoId: KqUIvRVIIgY
   title: Irelia Top vs Malphite - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1565
   region: NA
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:01
+      label: Take down The Turret
+      kind: tower
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:35
+      label: Take down The Turret
+      kind: tower
+    - at: 17:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Take down The Turret
+      kind: tower
+    - at: 19:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:24
+      label: Take down The Turret
+      kind: tower
+    - at: 20:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: End credit
 - videoId: MEsOqEwqm1Y
   title: Irelia vs Malphite Top - EUW Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1860
   region: EUW
+  uploaded: 2025-08-07

@@ -5,9 +5,70 @@
   patch: "26.6"
   durationSec: 1580
   region: EUW
+  uploaded: 2026-03-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Take down The Turret
+      kind: tower
+    - at: 15:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Take down The Turret
+      kind: tower
+    - at: 20:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:32
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:01
+      label: Take down The Turret
+      kind: tower
+    - at: 25:40
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 26:09
+      label: End credit
 - videoId: n5ZtL0bKzsw
   title: Kog'Maw ADC vs Tristana - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1835
   region: KR
+  uploaded: 2025-07-04

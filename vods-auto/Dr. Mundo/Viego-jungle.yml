@@ -5,20 +5,74 @@
   patch: "26.6"
   durationSec: 1906
   region: EUW
+  uploaded: 2026-03-30
 - videoId: XwYV2FpVS4I
   title: Dr. Mundo Jungle vs Viego - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1822
   region: KR
+  uploaded: 2025-08-07
 - videoId: IpdOS4OfA-A
   title: Dr. Mundo Jungle vs Viego - EUW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 2137
   region: EUW
+  uploaded: 2025-04-27
 - videoId: pqRlB1vjCck
   title: Dr. Mundo Jungle vs Viego - VN Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1937
+  uploaded: 2025-04-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:56
+      label: End credit

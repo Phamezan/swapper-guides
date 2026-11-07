@@ -62,18 +62,14 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2026-06-10
 - videoId: cd0F0cAhc_U
   title: Lee Sin Jungle vs Jarvan IV - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1529
   region: KR
-- videoId: IpDoyq81YfQ
-  title: Lee Sin Jungle vs Jarvan IV - KR Challenger Patch 26.08
-  rankClaim: Challenger
-  patch: "26.8"
-  durationSec: 1650
-  region: KR
+  uploaded: 2026-05-02
 - videoId: mJ3gVvSB1vY
   title: T1 Faker Lee Sin vs Jarvan IV [ Jungle ] Korea Challenger 1993 LP | Patch 26.8
   rankClaim: Challenger
@@ -83,6 +79,13 @@
   player: Faker
   team: T1
   uploaded: 2026-04-25
+- videoId: IpDoyq81YfQ
+  title: Lee Sin Jungle vs Jarvan IV - KR Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1650
+  region: KR
+  uploaded: 2026-04-18
 - videoId: S-HhKp67nuU
   title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -90,6 +93,13 @@
   durationSec: 1936
   region: KR
   uploaded: 2026-04-04
+- videoId: GN86HPgrPOw
+  title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 16.06 Season 16
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1966
+  region: KR
+  uploaded: 2026-03-20
 - videoId: pl3cQYMVXKQ
   title: T1 Oner Lee Sin vs Jarvan IV [ Jungle ] Patch 26.6 Korea Challenger 1661 LP |
   rankClaim: Challenger
@@ -98,43 +108,42 @@
   region: KR
   player: Oner
   team: T1
-- videoId: GN86HPgrPOw
-  title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 16.06 Season 16
-  rankClaim: Challenger
-  patch: "26.6"
-  durationSec: 1966
-  region: KR
-  uploaded: 2026-03-20
+  uploaded: 2026-03-19
 - videoId: 2pr79aGLu_g
   title: Lee Sin vs Jarvan IV [ Jungle ] Patch 25.22 Korea Challenger 1455 LP
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1542
   region: KR
+  uploaded: 2025-11-10
 - videoId: xeiI-TGmxkA
   title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 2081
   region: KR
+  uploaded: 2025-10-13
 - videoId: jRVxMtkvF1Y
   title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 25.17 Season 15
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1501
   region: KR
+  uploaded: 2025-09-03
 - videoId: 97JBGESq54A
   title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1581
   region: KR
+  uploaded: 2025-08-25
 - videoId: DNO9AXJhrrw
   title: Lee Sin vs Jarvan IV Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 2086
   region: KR
+  uploaded: 2025-06-12
 - videoId: ByFITb8hmtw
   title: T1 Oner Lee Sin vs Jarvan IV [ Jungle ] Patch 25.11 Korea Challenger
   rankClaim: Challenger
@@ -143,3 +152,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-06-09

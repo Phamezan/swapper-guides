@@ -5,6 +5,51 @@
   patch: "26.3"
   durationSec: 1568
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Take down The Turret
+      kind: tower
+    - at: 16:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Take down The Turret
+      kind: tower
+    - at: 19:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Take down The Turret
+      kind: tower
+    - at: 24:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: End credit
 - videoId: 4U3qiucqr1k
   title: Ryze vs Azir MID [ Doinb ] Patch 25.6 Korea Master ✅
   rankClaim: Master
@@ -12,3 +57,4 @@
   durationSec: 1797
   region: KR
   player: Doinb
+  uploaded: 2025-03-20

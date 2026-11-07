@@ -6,15 +6,58 @@
   durationSec: 1473
   region: EUW
   player: GL Marty
+  uploaded: 2026-07-02
+  result: L
+  moments:
+    - at: 4:18
+      label: First Blood — Annie kills Viktor
+      kind: kill
+    - at: 6:37
+      label: Camille takes down Viktor
+    - at: 9:37
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:00
+      label: Annie takes down Viktor
+    - at: 13:00
+      label: Camille takes down Viktor
+    - at: 15:20
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:12
+      label: Gangplank Double Kill
+      kind: kill
+    - at: 17:59
+      label: Xin Zhao Double Kill
+      kind: kill
+    - at: 18:51
+      label: Annie outduels Janna
+    - at: 20:19
+      label: Annie picks off Aatrox
+    - at: 21:00
+      label: Red takes Baron
+      kind: baron
+    - at: 21:31
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 21:44
+      label: Yunara takes down Draven
+    - at: 22:21
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:41
+      label: Gangplank Triple Kill
+      kind: kill
 - videoId: rFWF-r2pq24
   title: Annie Mid vs Viktor - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1618
   region: KR
+  uploaded: 2025-12-12
 - videoId: eeVkWTuVMok
   title: Annie Mid vs Viktor - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1930
   region: KR
+  uploaded: 2025-11-13

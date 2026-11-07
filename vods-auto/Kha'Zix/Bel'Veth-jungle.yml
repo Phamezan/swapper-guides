@@ -4,15 +4,18 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1599
+  uploaded: 2026-01-08
 - videoId: VYc8A15uOVA
   title: Kha'Zix Jungle vs Bel'Veth - EUW Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1609
   region: EUW
+  uploaded: 2025-09-11
 - videoId: 1D9CQZugFyA
   title: Kha'Zix vs Bel'Veth Jungle  - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1696
   region: KR
+  uploaded: 2025-08-23

@@ -8,6 +8,15 @@
   player: Ruler
   team: Gen.G
   uploaded: 2026-10-06
+- videoId: pSR2n7SosGw
+  title: '"HanQL" 2255LP Yunara : From ZERO to HERO Insane Comeback - Engsub ( vs Xayah )'
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1480
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-09-16
+  format: stream
 - videoId: lBVEdhi_lCI
   title: (NS Lucy) Yunara ADC vs Xayah - KR Challenger Patch 26.17
   rankClaim: Challenger
@@ -16,6 +25,14 @@
   region: KR
   player: Lucy
   team: NS
+  uploaded: 2026-08-29
+- videoId: j5WTYcvQGes
+  title: Yunara vs Xayah ADC - KR Challenger - Patch 16.06 Season 16
+  rankClaim: Challenger
+  patch: "26.6"
+  durationSec: 1381
+  region: KR
+  uploaded: 2026-03-30
 - videoId: LB6eTVhAVSA
   title: T1 Peyz Yunara vs Xayah [ ADC ] Korea Challenger 1968 LP | Patch 26.6
   rankClaim: Challenger
@@ -24,13 +41,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: j5WTYcvQGes
-  title: Yunara vs Xayah ADC - KR Challenger - Patch 16.06 Season 16
-  rankClaim: Challenger
-  patch: "26.6"
-  durationSec: 1381
-  region: KR
-  uploaded: 2026-03-30
+  uploaded: 2026-03-22
 - videoId: Lcx1FfpImPk
   title: T1 Gumayusi Yunara vs Xayah [ ADC ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -39,3 +50,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-04

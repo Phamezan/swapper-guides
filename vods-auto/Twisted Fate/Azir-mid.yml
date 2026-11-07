@@ -5,6 +5,71 @@
   patch: "26.2"
   durationSec: 1544
   region: EUW
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:54
+      label: Take down The Turret
+      kind: tower
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:18
+      label: Take down The Turret
+      kind: tower
+    - at: 16:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Take down The Turret
+      kind: tower
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Take down The Turret
+      kind: tower
+    - at: 22:42
+      label: Take down The Inhibitor
+    - at: 22:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:15
+      label: Take down The Turret
+      kind: tower
+    - at: 25:33
+      label: End credit
 - videoId: FabVkT67LCA
   title: T1 Faker Twisted Fate vs Azir [ MID ] Patch 25.11 Korea Grandmaster
   rankClaim: Grandmaster
@@ -13,9 +78,80 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-06-09
 - videoId: WIVkkGMm2jo
   title: Twisted Fate Mid vs Azir - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1971
   region: KR
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:34
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:58
+      label: Take down The Turret
+      kind: tower
+    - at: 23:11
+      label: Take down The Inhibitor
+    - at: 24:38
+      label: Take down The Turret
+      kind: tower
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Take down The Turret
+      kind: tower
+    - at: 28:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:26
+      label: Take down The Inhibitor
+    - at: 28:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:47
+      label: Take down The Turret
+      kind: tower
+    - at: 31:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:30
+      label: End credit

@@ -4,18 +4,101 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1912
+  uploaded: 2026-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:50
+      label: Take down The Turret
+      kind: tower
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:15
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 31:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:41
+      label: End credit
 - videoId: uconWkCvGDs
   title: Briar vs Viego [ Jungle ] Lol Korea Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1541
   region: KR
+  uploaded: 2025-11-13
 - videoId: QLLlVm20yIU
   title: Briar Jungle vs Viego - NA Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1914
   region: NA
+  uploaded: 2025-08-20
 - videoId: WGN-eArwatQ
   title: Briar vs Viego Jungle [ 56% Win Rate ] Lol Korea Master Patch 25.13
   rankClaim: Master
@@ -23,6 +106,7 @@
   durationSec: 1419
   region: KR
   player: 56% Win Rate
+  uploaded: 2025-07-10
 - videoId: J3HSxSmS0Rs
   title: Briar vs Viego Jungle [ Triple Kill ] Korea Master Patch 25.8 ✅
   rankClaim: Master
@@ -30,9 +114,11 @@
   durationSec: 1291
   region: KR
   player: Triple Kill
+  uploaded: 2025-04-28
 - videoId: x4mla6nJv80
   title: Briar Jungle vs Viego - EUW Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1565
   region: EUW
+  uploaded: 2025-04-17

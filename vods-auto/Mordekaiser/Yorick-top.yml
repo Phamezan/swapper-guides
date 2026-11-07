@@ -5,15 +5,64 @@
   patch: "26.15"
   durationSec: 1811
   region: KR
+  uploaded: 2026-08-08
 - videoId: -6-QmUF--8s
   title: Mordekaiser vs Yorick Top - KR Master - Patch 25.10 Season 15
   rankClaim: Master
   patch: "25.10"
   durationSec: 1741
   region: KR
+  uploaded: 2025-05-28
 - videoId: EC4zNLOAKHs
   title: Mordekaiser Top vs Yorick - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1623
   region: KR
+  uploaded: 2025-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:05
+      label: Take down The Turret
+      kind: tower
+    - at: 18:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Hunt The Atakhan
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:42
+      label: End credit

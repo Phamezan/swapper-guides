@@ -5,15 +5,66 @@
   patch: "26.14"
   durationSec: 1619
   region: KR
+  uploaded: 2026-07-29
 - videoId: U5m0qfoxkVU
   title: Lulu Top vs Ambessa - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1720
   region: KR
+  uploaded: 2026-05-15
+  result: W
+  moments:
+    - at: 2:33
+      label: First Blood — Kindred kills Zac
+      kind: kill
+    - at: 5:06
+      label: Lulu catches Ambessa
+    - at: 8:28
+      label: Lulu outduels Ambessa again
+    - at: 10:20
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:43
+      label: Lulu outplays Ambessa (3rd time)
+    - at: 11:43
+      label: Lulu solo kills Ambessa (4th time)
+      kind: kill
+    - at: 15:38
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:33
+      label: Kindred kills Ambessa
+      kind: kill
+    - at: 20:53
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:50
+      label: Kindred picks off Jayce
+    - at: 23:56
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:10
+      label: Zed picks off Zac
+    - at: 24:38
+      label: Zed takes down Ambessa
+    - at: 25:07
+      label: Smolder kills Jayce
+      kind: kill
+    - at: 25:29
+      label: Zed takes down Brand
+    - at: 26:10
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:36
+      label: Smolder Double Kill
+      kind: kill
+    - at: 27:49
+      label: Mid Inhibitor falls (Red)
 - videoId: TeEN-HntJE0
   title: Lulu Top vs Ambessa - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1538
   region: KR
+  uploaded: 2025-05-23

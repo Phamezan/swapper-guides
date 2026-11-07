@@ -5,9 +5,69 @@
   patch: "26.6"
   durationSec: 1717
   region: KR
+  uploaded: 2026-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:41
+      label: Take down The Turret
+      kind: tower
+    - at: 13:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Take down The Turret
+      kind: tower
+    - at: 17:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Take down The Turret
+      kind: tower
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Take down The Turret
+      kind: tower
+    - at: 27:11
+      label: Take down The Inhibitor
+    - at: 27:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:52
+      label: Take down The Turret
+      kind: tower
+    - at: 28:26
+      label: End credit
 - videoId: Q_FdrCWq090
   title: Shyvana Top vs Singed - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1600
   region: KR
+  uploaded: 2025-05-27

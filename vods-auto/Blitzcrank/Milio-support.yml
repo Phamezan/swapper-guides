@@ -5,9 +5,96 @@
   patch: "26.3"
   durationSec: 1700
   region: KR
+  uploaded: 2026-02-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Take down The Turret
+      kind: tower
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:09
+      label: End credit
 - videoId: gk3vWFhQ_pY
   title: Blitzcrank Support vs Milio - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1625
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Take down The Turret
+      kind: tower
+    - at: 15:24
+      label: Take down The Turret
+      kind: tower
+    - at: 17:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Take down The Turret
+      kind: tower
+    - at: 26:44
+      label: End credit

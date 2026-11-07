@@ -5,45 +5,53 @@
   patch: "26.10"
   durationSec: 1447
   region: KR
+  uploaded: 2026-05-22
 - videoId: e12D70vTozU
   title: Bel'Veth Jungle vs Nidalee - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1944
   region: KR
+  uploaded: 2025-10-25
 - videoId: rE1mdG0EWnw
   title: Bel'veth vs Nidalee Jungle - EUW Grandmaster - Patch 25.14 Season 15
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 2011
   region: EUW
+  uploaded: 2025-07-21
 - videoId: BNg1QfIepuI
   title: Bel'Veth Jungle vs Nidalee - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1970
   region: KR
-- videoId: zDTPcDi7NFc
-  title: Bel'Veth Jungle vs Nidalee - KR Grandmaster Patch 25.11
-  rankClaim: Grandmaster
-  patch: "25.11"
-  durationSec: 2096
-  region: KR
+  uploaded: 2025-06-19
 - videoId: u3_YR5_bh1c
   title: Bel'Veth vs Nidalee Jungle - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 2101
   region: KR
+  uploaded: 2025-06-05
+- videoId: zDTPcDi7NFc
+  title: Bel'Veth Jungle vs Nidalee - KR Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 2096
+  region: KR
+  uploaded: 2025-06-05
 - videoId: lLWhWfHM19s
   title: Bel'Veth vs Nidalee Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1711
   region: KR
+  uploaded: 2025-03-20
 - videoId: s_rvEDHPv4s
   title: Bel'Veth vs Nidalee Jungle - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1631
   region: KR
+  uploaded: 2025-02-24

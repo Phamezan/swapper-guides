@@ -5,57 +5,129 @@
   patch: "26.13"
   durationSec: 1395
   region: EUW
+  uploaded: 2026-06-27
 - videoId: MfzbZXAaZ5M
   title: "SAMIRA & Thresh vs VARUS & Senna (ADC) | Perfect KDA: 20/0/1 | KR Master | 26.8"
   rankClaim: Master
   patch: "26.8"
   durationSec: 1084
   region: KR
-- videoId: R0Xdd1tSqK0
-  title: SAMIRA & Alistar vs VARUS & Karma (ADC) | 67K damage | EUW Master | 26.3
-  rankClaim: Master
-  patch: "26.3"
-  durationSec: 1994
-  region: EUW
+  uploaded: 2026-04-27
 - videoId: HZJtcObkGxs
   title: Samira ADC vs Varus - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1618
   region: KR
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:53
+      label: Take down The Turret
+      kind: tower
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:41
+      label: Take down The Turret
+      kind: tower
+    - at: 19:27
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 20:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: End credit
+- videoId: R0Xdd1tSqK0
+  title: SAMIRA & Alistar vs VARUS & Karma (ADC) | 67K damage | EUW Master | 26.3
+  rankClaim: Master
+  patch: "26.3"
+  durationSec: 1994
+  region: EUW
+  uploaded: 2026-02-06
 - videoId: WJJ8DeSWcBQ
   title: SAMIRA & Nautilus vs VARUS & Bard (ADC) | 72K damage | EUW Master | 26.2
   rankClaim: Master
   patch: "26.2"
   durationSec: 1961
   region: EUW
+  uploaded: 2026-02-01
 - videoId: RyaHfQ-BDRA
   title: SAMIRA & Renata Glasc vs VARUS & Pyke (ADC) | 89K damage, 7k gold comeback | NA Challenger | 26.2
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 2026
   region: NA
+  uploaded: 2026-01-27
 - videoId: qFBpuETmLmQ
   title: SAMIRA & Nautilus vs VARUS & Senna (ADC) | 56K damage | NA Challenger | 26.2
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1881
   region: NA
+  uploaded: 2026-01-24
 - videoId: C5oG7hW_5Q8
   title: SAMIRA & Karma vs VARUS & Sona (ADC) | EUW Master | 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 2629
   region: EUW
+  uploaded: 2025-09-20
 - videoId: 04DENhDOxHw
   title: Samira ADC vs Varus - EUW Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1641
   region: EUW
+  uploaded: 2025-06-27
 - videoId: VRsKSOv_TCU
   title: SAMIRA & Nautilus vs VARUS & Pyke (ADC) | Comeback, Legendary | EUW Grandmaster | 25.9
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2034
   region: EUW
+  uploaded: 2025-05-14

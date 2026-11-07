@@ -5,6 +5,7 @@
   patch: "25.19"
   durationSec: 1911
   region: EUW
+  uploaded: 2025-10-09
 - videoId: _inTPN7m0Js
   title: Kindred vs Lee Sin Jungle [ 68% Win Rate ] Lol Korea Grandmaster Patch 25.13 ✅
   rankClaim: Grandmaster
@@ -12,18 +13,21 @@
   durationSec: 1327
   region: KR
   player: 68% Win Rate
-- videoId: 4B5cBtLlHT4
-  title: Kindred vs Lee Sin Jungle - KR Challenger - Patch 25.6 Season 15
-  rankClaim: Challenger
-  patch: "25.6"
-  durationSec: 1470
-  region: KR
+  uploaded: 2025-07-12
 - videoId: KEKyFEbd9-E
   title: Kindred vs Lee Sin [ Jungle ] Korea Grandmaster Patch 25.6 ✅
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1672
   region: KR
+  uploaded: 2025-04-02
+- videoId: 4B5cBtLlHT4
+  title: Kindred vs Lee Sin Jungle - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1470
+  region: KR
+  uploaded: 2025-03-21
 - videoId: Rh-r3IR7ejU
   title: Kindred vs Lee Sin Jungle [ Perfect KDA ] Lol Korea Grandmaster Patch 25.4 ✅
   rankClaim: Grandmaster
@@ -31,3 +35,4 @@
   durationSec: 1309
   region: KR
   player: Perfect KDA
+  uploaded: 2025-03-05

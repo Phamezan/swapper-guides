@@ -4,9 +4,102 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1611
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:22
+      label: Take down The Turret
+      kind: tower
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:35
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:35
+      label: Take down The Turret
+      kind: tower
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:40
+      label: End credit
 - videoId: f27FDs3gvVg
   title: Zed Top vs Tahm Kench - EUW Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1475
   region: EUW
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:23
+      label: Take down The Turret
+      kind: tower
+    - at: 15:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Take down The Turret
+      kind: tower
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Take down The Turret
+      kind: tower
+    - at: 23:09
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:57
+      label: Take down The Turret
+      kind: tower
+    - at: 24:24
+      label: End credit

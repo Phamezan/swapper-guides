@@ -12,9 +12,69 @@
   patch: "25.24"
   durationSec: 1550
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Hunt The Atakhan
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:39
+      label: End credit
 - videoId: vExy_U9Yjps
   title: Bel'Veth vs Graves Jungle - KR Grandmaster - Patch 25.20 Season 15
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1696
   region: KR
+  uploaded: 2025-10-21

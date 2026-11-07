@@ -5,12 +5,14 @@
   patch: "25.22"
   durationSec: 1672
   region: KR
+  uploaded: 2025-11-10
 - videoId: YHPVZSkisRI
   title: Yasuo vs Aurora Mid - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1666
   region: KR
+  uploaded: 2025-10-25
 - videoId: MvMgAyIJIPk
   title: Pz ZZang Yasuo vs Aurora Mid - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
@@ -18,6 +20,7 @@
   durationSec: 1981
   region: KR
   player: Pz ZZang
+  uploaded: 2025-07-14
 - videoId: 4SCEBjdPlDQ
   title: Yasuo vs Aurora MID [ Doinb ] Patch 25.3 Korea Master ✅
   rankClaim: Master
@@ -25,3 +28,4 @@
   durationSec: 1281
   region: KR
   player: Doinb
+  uploaded: 2025-02-19

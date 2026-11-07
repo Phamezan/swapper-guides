@@ -50,13 +50,6 @@
       kind: kill
     - at: 28:18
       label: Mid Inhibitor falls (Blue)
-- videoId: bOgx3JiBPrA
-  title: (AP Kehvo) Caitlyn ADC vs Sivir (Creon) - EUW Grandmaster Patch 26.14
-  rankClaim: Grandmaster
-  patch: "26.14"
-  durationSec: 1851
-  region: EUW
-  player: AP Kehvo
 - videoId: IIWEdxnECr0
   title: Caitlyn vs Sivir [ ADC ] Korea Challenger 2584 LP | Patch 26.14
   rankClaim: Challenger
@@ -64,21 +57,108 @@
   durationSec: 1839
   region: KR
   uploaded: 2026-07-25
+- videoId: bOgx3JiBPrA
+  title: (AP Kehvo) Caitlyn ADC vs Sivir (Creon) - EUW Grandmaster Patch 26.14
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1851
+  region: EUW
+  player: AP Kehvo
+  uploaded: 2026-07-25
+- videoId: oUCHWZgwiAo
+  title: "Uzi : His Caitlyn is so Dam Good, STORMING KR HighElo - Engsub ( Caitlyn vs Sivir )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 816
+  region: KR
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-23
+  format: stream
+- videoId: fWml5NMjlzw
+  title: "【Jzad】1600LP Caitlyn : His Kiting Skill is LEGIT INSANE - Engsub ( Caitlyn vs Sivir, Aphe )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1496
+  patchEstimated: true
+  uploaded: 2026-05-21
+  format: stream
 - videoId: zEw5qyVZpn4
   title: Caitlyn ADC vs Sivir - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1528
   region: EUW
+  uploaded: 2026-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:32
+      label: Take down The Turret
+      kind: tower
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:20
+      label: Take down The Turret
+      kind: tower
+    - at: 13:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:30
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:57
+      label: Take down The Turret
+      kind: tower
+    - at: 17:43
+      label: Take down The Turret
+      kind: tower
+    - at: 18:31
+      label: Take down The Inhibitor
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:00
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: End credit
 - videoId: WsRVIC0BsB4
   title: Caitlyn ADC vs Sivir - EUW Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1687
   region: EUW
+  uploaded: 2025-09-26
 - videoId: 4Hs5MTrBp3Y
   title: Caitlyn vs Sivir ADC - EUW Grandmaster - Patch 25.17 Season 15
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1381
   region: EUW
+  uploaded: 2025-09-09

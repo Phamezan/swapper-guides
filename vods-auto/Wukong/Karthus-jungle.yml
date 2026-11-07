@@ -7,3 +7,47 @@
   region: EUW
   player: Shanks
   team: AL
+  uploaded: 2026-06-26
+  result: L
+  moments:
+    - at: 2:42
+      label: First Blood — Wukong kills Karthus
+      kind: kill
+    - at: 4:00
+      label: Akali picks off Karthus
+    - at: 6:01
+      label: Wukong outduels Fiora
+    - at: 7:34
+      label: Wukong eliminates Zeri
+    - at: 10:18
+      label: Wukong kills Karma
+      kind: kill
+    - at: 10:51
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 12:54
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:44
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:36
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 19:42
+      label: Red takes Baron
+      kind: baron
+    - at: 20:37
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:33
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:26
+      label: Wukong picks off Zoe
+    - at: 23:39
+      label: Top Inhibitor falls (Blue)
+    - at: 23:57
+      label: Kai'Sa takes down Zeri
+    - at: 26:49
+      label: Red takes 2nd Baron
+      kind: baron

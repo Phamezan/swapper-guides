@@ -5,3 +5,60 @@
   patch: "25.10"
   durationSec: 1677
   region: KR
+  uploaded: 2025-05-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:35
+      label: Take down The Turret
+      kind: tower
+    - at: 13:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:18
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:22
+      label: Take down The Turret
+      kind: tower
+    - at: 27:36
+      label: End credit

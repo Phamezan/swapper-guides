@@ -101,6 +101,7 @@
   durationSec: 1827
   region: EUW
   player: USE White
+  uploaded: 2026-08-19
 - videoId: Ovy7cAo_kDo
   title: Laceration Zed vs Viktor Mid - NA Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
@@ -108,25 +109,71 @@
   durationSec: 2161
   region: NA
   player: Laceration
+  uploaded: 2025-08-26
 - videoId: EVCGlQqsVAw
   title: Zed Mid vs Viktor - BR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1835
-- videoId: bjrCAsHF9OQ
-  title: Zed Mid vs Viktor - KR Master Patch 25.10
-  rankClaim: Master
-  patch: "25.10"
-  durationSec: 1870
-  region: KR
+  uploaded: 2025-06-18
 - videoId: cSm_RtyQKBM
   title: Zed Mid vs Viktor - NA Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1514
   region: NA
+  uploaded: 2025-05-21
+- videoId: bjrCAsHF9OQ
+  title: Zed Mid vs Viktor - KR Master Patch 25.10
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1870
+  region: KR
+  uploaded: 2025-05-17
 - videoId: 1vQcyUpEtto
   title: Zed Mid vs Viktor - TW Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1955
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 12:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:55
+      label: Take down The Turret
+      kind: tower
+    - at: 31:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:14
+      label: End credit

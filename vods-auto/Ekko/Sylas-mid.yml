@@ -68,15 +68,18 @@
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 2090
+  uploaded: 2025-06-22
 - videoId: K7TjWFZHSoQ
   title: Ekko vs Sylas Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1661
   region: KR
+  uploaded: 2025-04-18
 - videoId: tw_AB4Q0E14
   title: Ekko vs Sylas Mid - EUW Grandmaster - Patch 25.6 Season 15
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2176
   region: EUW
+  uploaded: 2025-03-20

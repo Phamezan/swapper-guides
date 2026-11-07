@@ -5,9 +5,72 @@
   patch: "25.24"
   durationSec: 1449
   region: KR
+  uploaded: 2026-01-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:36
+      label: Take down The Turret
+      kind: tower
+    - at: 12:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:00
+      label: Take down The Turret
+      kind: tower
+    - at: 15:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:21
+      label: Take down The Turret
+      kind: tower
+    - at: 16:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:12
+      label: Take down The Turret
+      kind: tower
+    - at: 20:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:36
+      label: Take down The Turret
+      kind: tower
+    - at: 22:46
+      label: Take down The Inhibitor
+    - at: 22:56
+      label: Take down The Turret
+      kind: tower
+    - at: 23:08
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:58
+      label: End credit
 - videoId: sZMB_9ZP9BU
   title: Illaoi Top vs Rumble - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1914
   region: KR
+  uploaded: 2025-11-15

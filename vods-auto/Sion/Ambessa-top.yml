@@ -6,6 +6,7 @@
   durationSec: 1645
   region: KR
   player: DNS Quantum
+  uploaded: 2026-08-26
 - videoId: uStXEOB1GzU
   title: (BW Elramir) Sion Top vs Ambessa - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -13,6 +14,7 @@
   durationSec: 1749
   region: EUW
   player: BW Elramir
+  uploaded: 2026-06-15
 - videoId: xsedb-55ZaY
   title: (DK ShowMaker) Sion Top vs Ambessa - KR Challenger Patch 26.11
   rankClaim: Challenger
@@ -21,9 +23,11 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-05-31
 - videoId: ynwFzGIbFN4
   title: Sion Top vs Ambessa - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1442
   region: KR
+  uploaded: 2025-10-27

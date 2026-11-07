@@ -53,21 +53,57 @@
   patch: "25.21"
   durationSec: 1805
   region: KR
+  uploaded: 2025-10-29
 - videoId: olKGOj-pOVU
   title: Riven Top vs Gangplank - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1533
   region: KR
+  uploaded: 2025-06-04
 - videoId: 6fSc_s9Weso
   title: Riven Top vs Gangplank - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1567
   region: KR
+  uploaded: 2025-05-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Take down The Turret
+      kind: tower
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: End credit
 - videoId: VeWL3UlD_cQ
   title: Riven vs GangPlank Top - NA Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 2161
   region: NA
+  uploaded: 2025-04-10

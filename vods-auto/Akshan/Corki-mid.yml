@@ -5,21 +5,75 @@
   patch: "26.15"
   durationSec: 1513
   region: EUW
+  uploaded: 2026-08-12
 - videoId: nVZ86biGGww
   title: Akshan Mid vs Corki - EUW Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1520
   region: EUW
+  uploaded: 2026-01-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 17:14
+      label: Take down The Turret
+      kind: tower
+    - at: 20:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:38
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:09
+      label: End credit
 - videoId: Wdd31WCwUGo
   title: Akshan Mid vs Corki - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 2127
   region: KR
+  uploaded: 2025-08-09
 - videoId: EHs-idOPy3s
   title: Akshan Mid vs Corki - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1847
   region: KR
+  uploaded: 2025-03-12

@@ -64,15 +64,64 @@
   patch: "26.19"
   durationSec: 1810
   region: EUW
+  uploaded: 2026-09-27
 - videoId: reDyPF5UgjQ
   title: Nami Support vs Rell - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1494
   region: EUW
+  uploaded: 2026-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Take down The Turret
+      kind: tower
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:13
+      label: Take down The Turret
+      kind: tower
+    - at: 18:19
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:36
+      label: Take down The Turret
+      kind: tower
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Take down The Turret
+      kind: tower
+    - at: 22:25
+      label: Take down The Inhibitor
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: End credit
 - videoId: U2y9S1s84LI
   title: Nami Support vs Rell - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1791
   region: EUW
+  uploaded: 2025-07-16

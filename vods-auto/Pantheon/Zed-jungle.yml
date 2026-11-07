@@ -5,12 +5,14 @@
   patch: "25.16"
   durationSec: 1458
   region: KR
+  uploaded: 2025-08-17
 - videoId: ARY96FgIaAA
   title: Pantheon vs Zed Jungle - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 2016
   region: KR
+  uploaded: 2025-07-10
 - videoId: exWRU6ZBLpc
   title: T1 Faker Pantheon vs Zed [ Jungle ] Korea Challenger Patch 25.11 ✅
   rankClaim: Challenger
@@ -19,3 +21,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-06-05

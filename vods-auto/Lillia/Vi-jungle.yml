@@ -5,21 +5,71 @@
   patch: "25.24"
   durationSec: 1457
   region: KR
+  uploaded: 2025-12-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Hunt The Atakhan
+    - at: 22:22
+      label: Take down The Turret
+      kind: tower
+    - at: 22:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: End credit
 - videoId: 1JXUIl_D7ZE
   title: Lillia vs Vi Jungle - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1871
   region: KR
+  uploaded: 2025-05-13
 - videoId: -qQ7T7I4rik
   title: Lillia vs Vi Jungle - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1621
   region: KR
+  uploaded: 2025-05-12
 - videoId: zHDCavLMtI8
   title: Lillia Jungle vs Vi - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1806
   region: KR
+  uploaded: 2025-02-24

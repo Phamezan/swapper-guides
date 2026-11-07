@@ -5,21 +5,108 @@
   patch: "26.1"
   durationSec: 1602
   region: KR
+  uploaded: 2026-01-18
 - videoId: GyjC4H77Tm4
   title: Diana vs Sylas [ MID ] Patch 25.24 Korea Master
   rankClaim: Master
   patch: "25.24"
   durationSec: 1253
   region: KR
+  uploaded: 2025-12-22
 - videoId: tSEpy9DPYoI
   title: Diana Mid vs Sylas - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1748
   region: KR
+  uploaded: 2025-09-04
 - videoId: _mUz5MvSYbo
   title: Diana Mid vs Sylas - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1788
   region: KR
+  uploaded: 2025-05-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Take down The Turret
+      kind: tower
+    - at: 12:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:09
+      label: Take down The Turret
+      kind: tower
+    - at: 16:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:44
+      label: Take down The Turret
+      kind: tower
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Take down The Turret
+      kind: tower
+    - at: 25:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:16
+      label: Take down The Turret
+      kind: tower
+    - at: 29:27
+      label: End credit

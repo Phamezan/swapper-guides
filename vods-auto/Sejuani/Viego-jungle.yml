@@ -5,15 +5,65 @@
   patch: "26.10"
   durationSec: 1508
   region: EUW
+  uploaded: 2026-05-24
 - videoId: cDPgAW0m1xE
   title: Sejuani Jungle vs Viego - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1575
   region: KR
+  uploaded: 2026-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:04
+      label: End credit
 - videoId: XShXOtOpSxU
   title: Sejuani Jungle vs Viego - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1979
   region: KR
+  uploaded: 2025-10-03

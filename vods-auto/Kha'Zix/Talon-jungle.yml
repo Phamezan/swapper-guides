@@ -12,15 +12,94 @@
   patch: "26.3"
   durationSec: 1476
   region: KR
+  uploaded: 2026-02-07
 - videoId: gvUS2Kk8WMk
   title: Kha'Zix Jungle vs Talon - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1596
   region: EUW
+  uploaded: 2026-02-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:58
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:15
+      label: Get a Triple Kill
+      kind: kill
+    - at: 16:43
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Take down The Inhibitor
+    - at: 23:10
+      label: Take down The Turret
+      kind: tower
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Get a Triple Kill
+      kind: kill
+    - at: 26:13
+      label: Take down The Turret
+      kind: tower
+    - at: 26:25
+      label: End credit
 - videoId: cCmrNof1QOw
   title: Kha'Zix vs Talon Jungle - EUW Grandmaster - Patch 25.21 Season 15
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1781
   region: EUW
+  uploaded: 2025-10-31

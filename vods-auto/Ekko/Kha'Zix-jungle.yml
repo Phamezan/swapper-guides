@@ -4,3 +4,99 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1608
+  uploaded: 2026-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:53
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Take down The Turret
+      kind: tower
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:13
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:17
+      label: Take down The Turret
+      kind: tower
+    - at: 23:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:37
+      label: End credit

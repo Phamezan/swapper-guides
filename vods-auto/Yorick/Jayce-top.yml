@@ -110,6 +110,7 @@
   patch: "26.19"
   durationSec: 1526
   region: EUW
+  uploaded: 2026-09-29
 - videoId: 8G62BXt6Q_c
   title: (JDG Xiaoxu) Yorick Top vs Jayce - KR Master Patch 26.15
   rankClaim: Master
@@ -118,12 +119,14 @@
   region: KR
   player: Xiaoxu
   team: JDG
+  uploaded: 2026-08-13
 - videoId: LfPjgP_UlQs
   title: Yorick Top vs Jayce (HRTS Papiteero) - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1726
   region: EUW
+  uploaded: 2026-07-31
 - videoId: Omdy4NlTYl0
   title: (CKZ Robocop) Yorick Top vs Jayce - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -131,6 +134,7 @@
   durationSec: 1579
   region: EUW
   player: CKZ Robocop
+  uploaded: 2026-07-19
 - videoId: dMORuRg6Css
   title: (Oscarinin) Yorick Top vs Jayce - EUW Challenger Patch 26.13
   rankClaim: Challenger
@@ -138,6 +142,7 @@
   durationSec: 1601
   region: EUW
   player: Oscarinin
+  uploaded: 2026-07-10
 - videoId: I-73yib1WFQ
   title: (KT PerfecT) Yorick Top vs Jayce - KR Challenger Patch 26.11
   rankClaim: Challenger
@@ -146,27 +151,148 @@
   region: KR
   player: PerfecT
   team: KT
+  uploaded: 2026-06-12
 - videoId: LJCTGJdFjhU
   title: Yorick Top vs Jayce - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1870
   region: KR
+  uploaded: 2026-05-14
 - videoId: hG7Gh5p1ta0
   title: Yorick Top vs Jayce - NA Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1814
   region: NA
+  uploaded: 2026-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 19:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:02
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Take down The Turret
+      kind: tower
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:52
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:24
+      label: Take down The Turret
+      kind: tower
+    - at: 28:38
+      label: Take down The Inhibitor
+    - at: 29:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:53
+      label: Take down The Turret
+      kind: tower
+    - at: 30:03
+      label: End credit
 - videoId: 1nNLLfRCeKE
   title: Yorick Top vs Jayce - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1560
   region: KR
+  uploaded: 2026-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:28
+      label: Take down The Turret
+      kind: tower
+    - at: 15:41
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:07
+      label: Take down The Turret
+      kind: tower
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:51
+      label: Take down The Turret
+      kind: tower
+    - at: 24:15
+      label: Take down The Inhibitor
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:49
+      label: End credit
 - videoId: DoDQVoIhcV4
   title: Yorick Top vs Jayce - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1676
   region: KR
+  uploaded: 2026-03-10

@@ -5,3 +5,52 @@
   patch: "26.14"
   durationSec: 1894
   region: EUW
+  uploaded: 2026-07-23
+  result: L
+  moments:
+    - at: 0:20
+      label: First Blood — Twitch kills Vayne
+      kind: kill
+    - at: 1:07
+      label: Twitch catches Vayne
+    - at: 6:36
+      label: Twitch outduels Vayne again
+    - at: 7:51
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:57
+      label: Twitch outplays Ahri
+    - at: 10:46
+      label: Twitch solo kills Syndra
+      kind: kill
+    - at: 12:35
+      label: Twitch outplays Vayne (3rd time)
+    - at: 14:07
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 19:29
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 21:18
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:40
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:10
+      label: Twitch kills Rengar
+      kind: kill
+    - at: 25:41
+      label: Evelynn eliminates Syndra
+    - at: 27:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:04
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:42
+      label: Twitch outduels Rengar
+    - at: 28:55
+      label: Top Inhibitor falls (Red)
+    - at: 29:46
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon

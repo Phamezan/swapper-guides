@@ -480,23 +480,68 @@
   patch: "26.3"
   durationSec: 1663
   region: KR
+  uploaded: 2026-02-20
 - videoId: t58fwKMTJmw
   title: Zed Mid vs Galio - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1608
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:24
+      label: Take down The Turret
+      kind: tower
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: End credit
 - videoId: gmCR-z3Ckjk
   title: Zed Mid vs Galio - EUW Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1707
   region: EUW
+  uploaded: 2025-08-02
 - videoId: 8N17KIXfJl4
   title: Zed Mid vs Galio - TW Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1698
+  uploaded: 2025-07-18
 - videoId: wG8FpKhxixM
   title: OnZed Zed vs Galio Mid - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
@@ -504,13 +549,71 @@
   durationSec: 1591
   region: KR
   player: OnZed
+  uploaded: 2025-07-09
 - videoId: sVom-o0Mz1U
   title: Zed Mid vs Galio - BR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2141
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Take down The Turret
+      kind: tower
+    - at: 19:17
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Take down The Turret
+      kind: tower
+    - at: 24:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:59
+      label: Take down The Turret
+      kind: tower
+    - at: 30:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:40
+      label: Take down The Inhibitor
+    - at: 30:51
+      label: Take down The Turret
+      kind: tower
+    - at: 31:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:20
+      label: End credit
 - videoId: 9Ab6MSI2MPU
   title: Zed Mid vs Galio - TW Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1670
+  uploaded: 2025-04-01

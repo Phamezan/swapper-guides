@@ -6,15 +6,54 @@
   durationSec: 1498
   region: KR
   player: CFO Rest
+  uploaded: 2026-07-27
+  result: W
+  moments:
+    - at: 2:18
+      label: First Blood — Lulu kills Pantheon
+      kind: kill
+    - at: 3:37
+      label: Varus picks off Kindred
+    - at: 7:51
+      label: Varus takes down Yone
+    - at: 8:19
+      label: Varus solo kills Kindred
+      kind: kill
+    - at: 12:53
+      label: Varus takes down Pantheon
+    - at: 13:29
+      label: Varus eliminates Yone
+    - at: 14:51
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 16:37
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:20
+      label: Elise kills Pantheon
+      kind: kill
+    - at: 20:34
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 21:48
+      label: Varus Double Kill
+      kind: kill
+    - at: 23:06
+      label: Jinx eliminates Kindred
+    - at: 23:38
+      label: Blue takes Baron
+      kind: baron
 - videoId: m14IM7Ry8dY
   title: Varus Mid vs Yone - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1741
   region: KR
+  uploaded: 2026-05-12
 - videoId: UT8R5JAhvfU
   title: Varus vs Yone Mid - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1391
   region: KR
+  uploaded: 2026-01-14

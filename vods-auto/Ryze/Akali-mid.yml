@@ -5,6 +5,53 @@
   patch: "26.2"
   durationSec: 1619
   region: KR
+  uploaded: 2026-01-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Get a Triple Kill
+      kind: kill
+    - at: 10:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Take down The Turret
+      kind: tower
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Take down The Turret
+      kind: tower
+    - at: 18:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Take down The Inhibitor
+    - at: 26:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: End credit
 - videoId: dl997Z9e8xo
   title: DK ShowMaker Ryze vs Akali [ MID ] Korea Challenger 1162 LP | Patch 26.1
   rankClaim: Challenger
@@ -13,24 +60,81 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-01-19
 - videoId: 1wRz3Gj7e0s
   title: Ryze Mid vs Akali - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1756
   region: KR
+  uploaded: 2025-08-03
 - videoId: OG5V-QaHsmg
   title: Ryze Mid vs Akali - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1670
   region: KR
+  uploaded: 2025-04-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Take down The Turret
+      kind: tower
+    - at: 14:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Take down The Turret
+      kind: tower
+    - at: 18:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:54
+      label: Take down The Turret
+      kind: tower
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Take down The Turret
+      kind: tower
+    - at: 26:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:29
+      label: End credit
 - videoId: E3ULyrBSr-8
   title: Ryze vs Akali [ MID ] Lol Korea Master Patch 25.4 ✅
   rankClaim: Master
   patch: "25.4"
   durationSec: 1566
   region: KR
+  uploaded: 2025-02-26
 - videoId: WqyCXLDtY04
   title: T1 Faker Ryze MID vs Akali - Patch 25.2 Korea Master ✅
   rankClaim: Master
@@ -39,3 +143,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-02-03

@@ -5,3 +5,84 @@
   patch: "25.5"
   durationSec: 1910
   region: KR
+  uploaded: 2025-03-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 1:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:51
+      label: Take down The Turret
+      kind: tower
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:03
+      label: Take down The Turret
+      kind: tower
+    - at: 17:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 31:29
+      label: End credit

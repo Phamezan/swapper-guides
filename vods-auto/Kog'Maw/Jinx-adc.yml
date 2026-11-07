@@ -5,12 +5,58 @@
   patch: "26.2"
   durationSec: 1474
   region: KR
+  uploaded: 2026-01-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:00
+      label: Take down The Turret
+      kind: tower
+    - at: 22:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Take down The Turret
+      kind: tower
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: End credit
 - videoId: uq1BsKarjL0
   title: Kog'Maw ADC vs Jinx - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1730
   region: KR
+  uploaded: 2025-10-18
 - videoId: iXfGtGNp5fA
   title: KogMaw vs Jinx ADC [ Quadrakill ] Korea Master Patch 25.19 ✅
   rankClaim: Master
@@ -18,9 +64,70 @@
   durationSec: 1494
   region: KR
   player: Quadrakill
+  uploaded: 2025-10-02
 - videoId: QHE9Xa42Oig
   title: Kog'Maw ADC vs Jinx - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 2141
   region: KR
+  uploaded: 2025-04-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 13:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Take down The Turret
+      kind: tower
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Hunt The Atakhan
+    - at: 22:40
+      label: Take down The Turret
+      kind: tower
+    - at: 23:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:41
+      label: Take down The Turret
+      kind: tower
+    - at: 26:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:44
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:29
+      label: Take down The Turret
+      kind: tower
+    - at: 29:01
+      label: Take down The Inhibitor
+    - at: 29:16
+      label: Take down The Turret
+      kind: tower
+    - at: 29:29
+      label: Take down The Inhibitor
+    - at: 31:33
+      label: Take down The Turret
+      kind: tower
+    - at: 33:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:20
+      label: End credit

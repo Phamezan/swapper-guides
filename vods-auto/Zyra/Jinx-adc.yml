@@ -5,8 +5,57 @@
   patch: "26.19"
   durationSec: 1807
   region: EUW
+  uploaded: 2026-10-05
 - videoId: Hf-1BYC5JMw
   title: Zyra Bot vs Jinx - BR Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1658
+  uploaded: 2026-09-22
+  result: W
+  moments:
+    - at: 2:05
+      label: First Blood — Zyra kills Jinx
+      kind: kill
+    - at: 4:39
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:23
+      label: Zyra outduels Jinx
+    - at: 11:00
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 12:17
+      label: Zyra picks off Sona
+    - at: 13:53
+      label: Zyra picks off Sona
+    - at: 15:24
+      label: Kennen eliminates Sona
+    - at: 16:35
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 16:53
+      label: Kennen eliminates Sona
+    - at: 17:17
+      label: Vi eliminates Jinx
+    - at: 20:04
+      label: Zyra Double Kill
+      kind: kill
+    - at: 20:27
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:03
+      label: Yone takes down Fiora
+    - at: 22:01
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:25
+      label: Vi Double Kill
+      kind: kill
+    - at: 23:49
+      label: Kennen takes down Yasuo
+    - at: 26:09
+      label: Vi Double Kill
+      kind: kill
+    - at: 26:40
+      label: Mid Inhibitor falls (Blue)

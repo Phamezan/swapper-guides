@@ -5,9 +5,64 @@
   patch: "25.19"
   durationSec: 2046
   region: KR
+  uploaded: 2025-09-28
 - videoId: TU5pF_MR5GM
   title: Karma Support vs Poppy - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1557
   region: KR
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:44
+      label: Take down The Turret
+      kind: tower
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Take down The Turret
+      kind: tower
+    - at: 25:36
+      label: End credit

@@ -5,9 +5,55 @@
   patch: "26.6"
   durationSec: 1526
   region: KR
+  uploaded: 2026-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Take down The Turret
+      kind: tower
+    - at: 18:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Take down The Turret
+      kind: tower
+    - at: 20:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Take down The Turret
+      kind: tower
+    - at: 25:15
+      label: End credit
 - videoId: ZBhCtsxJG5o
   title: Zilean Mid vs Mel - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1815
   region: EUW
+  uploaded: 2025-07-07

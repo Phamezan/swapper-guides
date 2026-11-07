@@ -6,33 +6,113 @@
   durationSec: 1741
   region: EUW
   player: AP Simpli
+  uploaded: 2026-09-24
 - videoId: bbjTnfX0Dls
   title: Orianna Mid vs Taliyah - KR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1717
   region: KR
+  uploaded: 2025-09-12
 - videoId: 43T_z9nufH8
   title: Orianna Mid vs Taliyah - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1699
   region: KR
+  uploaded: 2025-08-30
 - videoId: bHCoB5qatLw
   title: Orianna Mid vs Taliyah - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1717
   region: KR
+  uploaded: 2025-08-02
 - videoId: _km_jwlfs9I
   title: Orianna Mid vs Taliyah - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1798
   region: KR
+  uploaded: 2025-05-03
 - videoId: p_uMh_7X96Y
   title: Orianna Mid vs Taliyah - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1810
   region: EUW
+  uploaded: 2025-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:01
+      label: Take down The Turret
+      kind: tower
+    - at: 14:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Take down The Turret
+      kind: tower
+    - at: 17:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:35
+      label: Take down The Turret
+      kind: tower
+    - at: 22:22
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Take down The Turret
+      kind: tower
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:49
+      label: End credit

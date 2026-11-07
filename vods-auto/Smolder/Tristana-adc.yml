@@ -5,12 +5,14 @@
   patch: "25.24"
   durationSec: 1721
   region: EUW
+  uploaded: 2026-01-02
 - videoId: CG59sRlSER8
   title: Smolder ADC vs Tristana - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1764
   region: KR
+  uploaded: 2025-03-25
 - videoId: slU8oglHyJs
   title: Smolder vs Tristana ADC [ Peyz ] Patch 25.6 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -18,3 +20,4 @@
   durationSec: 1489
   region: KR
   player: Peyz
+  uploaded: 2025-03-23

@@ -4,3 +4,75 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1904
+  uploaded: 2026-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:15
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:42
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:33
+      label: End credit

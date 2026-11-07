@@ -5,21 +5,54 @@
   patch: "26.4"
   durationSec: 1792
   region: KR
+  uploaded: 2026-02-22
 - videoId: FT0uGmysGrU
   title: Neeko Support vs Karma - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1608
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: End credit
 - videoId: 9WuP0I_30vI
   title: Neeko Support vs Karma - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1460
   region: KR
+  uploaded: 2025-11-09
 - videoId: oambQ05lZ38
   title: Neeko Support vs Karma - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1686
   region: KR
+  uploaded: 2025-09-28

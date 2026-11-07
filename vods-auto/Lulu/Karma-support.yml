@@ -6,15 +6,73 @@
   durationSec: 1867
   region: KR
   player: DNS Quantum
+  uploaded: 2026-08-21
 - videoId: fN1saIFRNqA
   title: Lulu Support vs Karma - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1533
   region: EUW
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Take down The Turret
+      kind: tower
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Take down The Turret
+      kind: tower
+    - at: 17:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:02
+      label: Take down The Turret
+      kind: tower
+    - at: 21:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Take down The Turret
+      kind: tower
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Take down The Inhibitor
+    - at: 25:04
+      label: Take down The Turret
+      kind: tower
+    - at: 25:22
+      label: End credit
 - videoId: Kz51pvXdSYQ
   title: Lulu Support vs Karma - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1881
   region: KR
+  uploaded: 2025-03-07

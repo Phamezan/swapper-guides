@@ -6,15 +6,141 @@
   durationSec: 1488
   region: EUW
   player: ANB Theocacs
+  uploaded: 2026-05-26
 - videoId: VnGy6z34cZM
   title: Graves Jungle vs Jayce - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1566
   region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:25
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:55
+      label: End credit
 - videoId: dQ87H3cBPU4
   title: Graves Jungle vs Jayce - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1483
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:47
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 20:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Take down The Turret
+      kind: tower
+    - at: 22:28
+      label: Take down The Inhibitor
+    - at: 24:32
+      label: End credit

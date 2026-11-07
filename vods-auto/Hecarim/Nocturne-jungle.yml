@@ -6,6 +6,7 @@
   durationSec: 1737
   region: EUW
   player: BW Elramir
+  uploaded: 2026-06-29
 - videoId: 4VOlpDTWk90
   title: Hecarim vs Nocturne 10/2/11 (Jungle) | EUW Grandmaster | Hecarim OTP Replay
   rankClaim: Grandmaster
@@ -20,3 +21,80 @@
   patch: "25.5"
   durationSec: 1762
   region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:51
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Hunt The Atakhan
+    - at: 21:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Take down The Turret
+      kind: tower
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:29
+      label: Take down The Turret
+      kind: tower
+    - at: 27:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:01
+      label: End credit

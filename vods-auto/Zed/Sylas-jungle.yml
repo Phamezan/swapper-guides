@@ -323,14 +323,17 @@
   rankClaim: Master
   patch: "26.6"
   durationSec: 1539
+  uploaded: 2026-03-31
 - videoId: gCq3pk38epE
   title: Zed Jungle vs Sylas - VN Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1805
+  uploaded: 2025-09-30
 - videoId: 0K9aH0Erd2Y
   title: Zed Jungle vs Sylas - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1843
   region: KR
+  uploaded: 2025-08-29

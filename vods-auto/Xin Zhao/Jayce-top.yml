@@ -5,33 +5,138 @@
   patch: "26.9"
   durationSec: 1765
   region: KR
+  uploaded: 2026-05-01
 - videoId: JRG0ak9kc8c
   title: Xin Zhao Top vs Jayce - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1473
   region: KR
+  uploaded: 2026-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Take down The Turret
+      kind: tower
+    - at: 16:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:23
+      label: Take down The Turret
+      kind: tower
+    - at: 18:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: End credit
 - videoId: pap1SjLHtT4
   title: Xin Zhao Top vs Jayce - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1651
   region: KR
+  uploaded: 2025-08-08
 - videoId: BH60HCHftSk
   title: Xin Zhao Top vs Jayce - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1967
   region: KR
+  uploaded: 2025-06-22
 - videoId: c9_BfeK-FKc
   title: Xin Zhao Top vs Jayce - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1627
   region: KR
+  uploaded: 2025-05-30
 - videoId: Q2U_dhp8UWs
   title: Xin Zhao Top vs Jayce - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1540
   region: KR
+  uploaded: 2025-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:55
+      label: Get a Triple Kill
+      kind: kill
+    - at: 8:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:19
+      label: Take down The Turret
+      kind: tower
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Take down The Turret
+      kind: tower
+    - at: 23:01
+      label: Take down The Inhibitor
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 24:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:57
+      label: Take down The Turret
+      kind: tower
+    - at: 25:19
+      label: End credit

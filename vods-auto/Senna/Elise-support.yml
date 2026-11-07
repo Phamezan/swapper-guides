@@ -5,15 +5,59 @@
   patch: "26.5"
   durationSec: 1724
   region: EUW
+  uploaded: 2026-03-11
 - videoId: HfGJ_Ob0vf0
   title: Senna Support vs Elise - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 2006
   region: KR
+  uploaded: 2025-06-19
 - videoId: ZjnlrjIGxV8
   title: Senna Support vs Elise - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1482
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Take down The Turret
+      kind: tower
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: End credit

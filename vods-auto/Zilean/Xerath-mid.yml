@@ -5,3 +5,48 @@
   patch: "26.8"
   durationSec: 1703
   region: NA
+  uploaded: 2026-04-26
+  result: W
+  moments:
+    - at: 1:31
+      label: First Blood — Kayn kills Sylas
+      kind: kill
+    - at: 6:20
+      label: Draven kills Sylas
+      kind: kill
+    - at: 9:05
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:16
+      label: Zilean solo kills Sylas
+      kind: kill
+    - at: 15:02
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:22
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:16
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 21:34
+      label: Kayn kills Ezreal
+      kind: kill
+    - at: 23:15
+      label: Draven kills Sylas
+      kind: kill
+    - at: 23:59
+      label: Mid Inhibitor falls (Red)
+    - at: 24:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:25
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 27:00
+      label: Kai'Sa takes down Seraphine
+    - at: 27:21
+      label: Bot Inhibitor falls (Red)

@@ -5,12 +5,14 @@
   patch: "25.10"
   durationSec: 1740
   region: NA
+  uploaded: 2025-05-24
 - videoId: 5PA3Q2Kvtek
   title: Ambessa vs Zed Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1870
   region: KR
+  uploaded: 2025-04-25
 - videoId: dFP5vp09GuE
   title: T1 Faker Ambessa vs Zed [ MID ] Patch 25.6 Korea Master ✅
   rankClaim: Master
@@ -19,3 +21,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-03-23

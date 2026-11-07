@@ -5,9 +5,61 @@
   patch: "25.20"
   durationSec: 1742
   region: EUW
+  uploaded: 2025-10-23
 - videoId: RX-48nHypPk
   title: Azir Mid vs Anivia - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1785
   region: KR
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:12
+      label: Take down The Turret
+      kind: tower
+    - at: 27:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:01
+      label: Take down The Turret
+      kind: tower
+    - at: 29:24
+      label: End credit

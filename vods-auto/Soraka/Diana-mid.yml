@@ -5,3 +5,36 @@
   patch: "25.4"
   durationSec: 1867
   region: KR
+  uploaded: 2025-03-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:46
+      label: End credit

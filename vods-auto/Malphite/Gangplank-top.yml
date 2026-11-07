@@ -5,9 +5,63 @@
   patch: "26.5"
   durationSec: 2581
   region: KR
+  uploaded: 2026-03-09
 - videoId: ZNkqrEI1Tuc
   title: Malphite Top vs Gangplank - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1801
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:51
+      label: Take down The Turret
+      kind: tower
+    - at: 27:10
+      label: Take down The Inhibitor
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:50
+      label: End credit

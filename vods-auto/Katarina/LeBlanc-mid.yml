@@ -5,18 +5,133 @@
   patch: "26.12"
   durationSec: 1509
   region: EUW
+  uploaded: 2026-06-22
 - videoId: -EhslhXpi20
   title: Katarina Mid vs LeBlanc - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1787
   region: EUW
+  uploaded: 2026-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:21
+      label: Take down The Turret
+      kind: tower
+    - at: 13:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:38
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:53
+      label: Take down The Turret
+      kind: tower
+    - at: 20:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:55
+      label: Take down The Turret
+      kind: tower
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:36
+      label: End credit
 - videoId: X8_Jsz2vdNc
   title: Katarina Mid vs LeBlanc - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1571
   region: KR
+  uploaded: 2026-01-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Take down The Turret
+      kind: tower
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:15
+      label: Take down The Turret
+      kind: tower
+    - at: 25:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:00
+      label: End credit
 - videoId: v1yYl3sUbJ8
   title: OTP Katarina vs Leblanc [ MID ] Patch 25.19 Korea Master ✅
   rankClaim: Master
@@ -24,15 +139,18 @@
   durationSec: 2013
   region: KR
   player: OTP
+  uploaded: 2025-10-04
 - videoId: o4Oc6sdgUp4
   title: Katarina vs LeBlanc Mid - KR Master - Patch 25.12 Season 15
   rankClaim: Master
   patch: "25.12"
   durationSec: 1751
   region: KR
+  uploaded: 2025-06-25
 - videoId: CHdUU6fDPQc
   title: Katarina vs LeBlanc Mid - KR Master - Patch 25.12 Season 15
   rankClaim: Master
   patch: "25.12"
   durationSec: 1516
   region: KR
+  uploaded: 2025-06-13

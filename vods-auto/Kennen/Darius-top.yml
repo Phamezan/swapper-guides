@@ -58,9 +58,49 @@
   patch: "26.8"
   durationSec: 1503
   region: KR
+  uploaded: 2026-04-24
+  result: L
+  moments:
+    - at: 3:55
+      label: First Blood — Pantheon kills Darius
+      kind: kill
+    - at: 5:48
+      label: Pantheon takes down Talon
+    - at: 7:31
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:42
+      label: Kennen catches Darius
+    - at: 11:14
+      label: Kennen outduels Darius again
+    - at: 12:11
+      label: Kennen outplays Darius (3rd time)
+    - at: 12:56
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:18
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 20:52
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 21:26
+      label: Red takes Baron
+      kind: baron
+    - at: 22:20
+      label: Pantheon Triple Kill
+      kind: kill
+    - at: 23:09
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 23:46
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:07
+      label: Kennen eliminates Nautilus
 - videoId: fCGFnFpvTHE
   title: Kennen Top vs Darius - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1597
   region: KR
+  uploaded: 2025-08-05

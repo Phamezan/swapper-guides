@@ -5,9 +5,63 @@
   patch: "26.2"
   durationSec: 1619
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Take down The Turret
+      kind: tower
+    - at: 23:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Take down The Inhibitor
+    - at: 24:28
+      label: Take down The Turret
+      kind: tower
+    - at: 26:48
+      label: End credit
 - videoId: 65hgHzGC3z4
   title: Zeri vs Miss Fortune ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 2056
   region: KR
+  uploaded: 2025-06-26

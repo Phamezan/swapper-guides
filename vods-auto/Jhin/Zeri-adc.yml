@@ -8,6 +8,14 @@
   player: Jz
   uploaded: 2026-11-02
   format: stream
+- videoId: wrAyBiKAwc0
+  title: "Gumyusi : His JHIN Mechanic is so DAM CLEAN - Engsub ( vs Zeri )"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1098
+  patchEstimated: true
+  uploaded: 2026-10-08
+  format: stream
 - videoId: ek3fhH2kX38
   title: (BGT Vzz) Jhin ADC vs Zeri - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
@@ -15,9 +23,11 @@
   durationSec: 1698
   region: EUW
   player: BGT Vzz
+  uploaded: 2026-08-03
 - videoId: kC2_w_nqFmc
   title: Jhin vs Zeri ADC - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1711
   region: KR
+  uploaded: 2025-04-16

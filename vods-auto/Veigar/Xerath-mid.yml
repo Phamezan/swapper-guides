@@ -4,6 +4,53 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1884
+  uploaded: 2026-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Take down The Turret
+      kind: tower
+    - at: 26:13
+      label: Take down The Turret
+      kind: tower
+    - at: 27:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:01
+      label: Take down The Turret
+      kind: tower
+    - at: 28:23
+      label: Take down The Inhibitor
+    - at: 30:14
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 30:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:13
+      label: End credit
 - videoId: ex1xLO6w8CU
   title: Veigar vs Xerath MID [ PentaKill ] Korea Master Patch 25.19 ✅
   rankClaim: Master
@@ -11,3 +58,4 @@
   durationSec: 1465
   region: KR
   player: PentaKill
+  uploaded: 2025-09-27

@@ -5,9 +5,73 @@
   patch: "26.15"
   durationSec: 1646
   region: KR
+  uploaded: 2026-08-08
 - videoId: h171_qtRBpg
   title: Morgana Jungle vs Vi - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2015
   region: EUW
+  uploaded: 2025-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Take down The Turret
+      kind: tower
+    - at: 16:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:00
+      label: Take down The Turret
+      kind: tower
+    - at: 33:14
+      label: End credit

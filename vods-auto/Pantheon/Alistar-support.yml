@@ -5,9 +5,57 @@
   patch: "26.16"
   durationSec: 1846
   region: KR
+  uploaded: 2026-08-25
+  result: W
+  moments:
+    - at: 4:16
+      label: First Blood — Vel'Koz kills Yunara
+      kind: kill
+    - at: 8:50
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:21
+      label: Zac takes down Lee Sin
+    - at: 14:20
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 14:38
+      label: Pantheon picks off Yunara
+    - at: 14:59
+      label: Vel'Koz picks off Alistar
+    - at: 15:41
+      label: Pantheon picks off Yunara
+    - at: 19:54
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:16
+      label: Pantheon kills Lee Sin
+      kind: kill
+    - at: 22:50
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:09
+      label: Zac eliminates Yunara
+    - at: 26:39
+      label: Pantheon takes down Locke
+    - at: 26:58
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 27:52
+      label: Vel'Koz picks off Alistar
+    - at: 28:23
+      label: Mid Inhibitor falls (Red)
+    - at: 28:35
+      label: Top Inhibitor falls (Red)
+    - at: 29:23
+      label: Pantheon outduels Locke
 - videoId: 3FQ-uk4N25w
   title: Pantheon Support vs Alistar - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1681
   region: KR
+  uploaded: 2025-10-26

@@ -5,15 +5,27 @@
   patch: "26.18"
   durationSec: 1764
   region: EUW
+  uploaded: 2026-09-17
+- videoId: VGZP-BcxC3Y
+  title: "Rank 1 Ryze : His DAMAGE is INSANE vs Lissandra - Engsub"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1962
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-12
+  format: stream
 - videoId: iQVMJ0N9atY
   title: Ryze Mid vs Lissandra - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1481
   region: KR
+  uploaded: 2026-03-22
 - videoId: -Euw_O9O6WE
   title: Ryze vs Lissandra Mid - KR Challenger - Patch 16.03 Season 16
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1681
   region: KR
+  uploaded: 2026-02-07

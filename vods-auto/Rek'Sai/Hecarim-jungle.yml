@@ -5,3 +5,84 @@
   patch: "26.5"
   durationSec: 1544
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:18
+      label: Take down The Turret
+      kind: tower
+    - at: 15:05
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:38
+      label: Take down The Turret
+      kind: tower
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Take down The Turret
+      kind: tower
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:33
+      label: End credit

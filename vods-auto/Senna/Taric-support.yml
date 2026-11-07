@@ -5,9 +5,43 @@
   patch: "26.5"
   durationSec: 1625
   region: KR
+  uploaded: 2026-03-19
 - videoId: AIBZX-0DK5w
   title: Senna Support vs Taric - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1572
   region: KR
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Take down The Turret
+      kind: tower
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: End credit

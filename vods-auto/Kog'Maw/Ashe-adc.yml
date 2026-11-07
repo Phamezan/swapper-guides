@@ -5,21 +5,69 @@
   patch: "26.4"
   durationSec: 1513
   region: KR
+  uploaded: 2026-03-01
 - videoId: XUVuJ3snthA
   title: KogMaw vs Ashe [ ADC ] Lol Korea Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1449
   region: KR
+  uploaded: 2025-09-21
 - videoId: lHwNjTcemzs
   title: Kog'Maw ADC vs Ashe - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1571
   region: KR
+  uploaded: 2025-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Take down The Turret
+      kind: tower
+    - at: 19:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Take down The Turret
+      kind: tower
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:09
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: End credit
 - videoId: CdWD-zc2vL8
   title: Kog'Maw ADC vs Ashe - NA Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1987
   region: NA
+  uploaded: 2025-03-01

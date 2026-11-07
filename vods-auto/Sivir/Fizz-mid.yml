@@ -5,3 +5,42 @@
   patch: "26.13"
   durationSec: 1601
   region: EUW
+  uploaded: 2026-07-16
+  result: L
+  moments:
+    - at: 5:27
+      label: First Blood — Kayn kills Sylas
+      kind: kill
+    - at: 8:14
+      label: Kayn kills Zac
+      kind: kill
+    - at: 11:05
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:25
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:12
+      label: Sivir takes down Zac
+    - at: 16:59
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 18:57
+      label: Kayn takes down Sylas
+    - at: 19:48
+      label: Yasuo eliminates Senna
+    - at: 21:22
+      label: Sivir kills Vayne
+      kind: kill
+    - at: 22:31
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:27
+      label: Sivir takes down Senna
+    - at: 23:37
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:18
+      label: Kayn Double Kill
+      kind: kill
+    - at: 25:38
+      label: Sivir outplays Zac

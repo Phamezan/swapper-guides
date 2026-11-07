@@ -5,15 +5,71 @@
   patch: "26.17"
   durationSec: 1621
   region: KR
+  uploaded: 2026-09-05
 - videoId: VdbC_VrqFSE
   title: Qiyana Mid vs Taliyah - EUW Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1454
   region: EUW
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Take down The Turret
+      kind: tower
+    - at: 18:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: End credit
 - videoId: vcJNPClirZ4
   title: Qiyana Mid vs Taliyah - KR Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1570
   region: KR
+  uploaded: 2026-01-17

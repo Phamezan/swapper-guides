@@ -5,9 +5,51 @@
   patch: "25.24"
   durationSec: 1586
   region: NA
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:37
+      label: Take down The Turret
+      kind: tower
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Take down The Turret
+      kind: tower
+    - at: 23:27
+      label: Take down The Inhibitor
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: End credit
 - videoId: ZZuHWD8rEZk
   title: Janna Support vs Milio - NA Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1774
   region: NA
+  uploaded: 2025-12-04

@@ -6,15 +6,65 @@
   durationSec: 1689
   region: EUW
   player: NBS Strode
+  uploaded: 2026-08-18
 - videoId: RZl6KbimcZ4
   title: Zeri ADC vs Aurelion Sol - NA Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1662
   region: NA
+  uploaded: 2025-05-15
 - videoId: _yTdEyvnq7c
   title: Zeri ADC vs Aurelion Sol - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1612
   region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Take down The Turret
+      kind: tower
+    - at: 20:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:31
+      label: End credit

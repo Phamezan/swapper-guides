@@ -7,15 +7,67 @@
   region: KR
   player: Meiko
   team: IG
+  uploaded: 2026-07-20
 - videoId: D3D0_vsoVS4
   title: Senna Support vs Poppy - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1713
   region: EUW
+  uploaded: 2025-11-23
 - videoId: T52ntsKeV_o
   title: Senna Support vs Poppy - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1820
   region: KR
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Take down The Turret
+      kind: tower
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:58
+      label: Take down The Turret
+      kind: tower
+    - at: 29:19
+      label: Take down The Inhibitor
+    - at: 29:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:59
+      label: End credit

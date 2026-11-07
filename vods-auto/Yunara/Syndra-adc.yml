@@ -7,6 +7,28 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-07-25
+  result: W
+  moments:
+    - at: 1:56
+      label: First Blood — Yunara kills Xin Zhao
+      kind: kill
+    - at: 2:56
+      label: Yunara picks off Rell
+    - at: 8:56
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:57
+      label: Yunara takes down Syndra
+    - at: 14:46
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 15:18
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 20:17
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
 - videoId: jfPDMjH55r4
   title: HLE Gumayusi Yunara vs Syndra [ ADC ] Korea Challenger 2497 LP | Patch 26.14
   rankClaim: Challenger

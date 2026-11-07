@@ -4,6 +4,7 @@
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1598
+  uploaded: 2026-09-03
 - videoId: wwLT5mqeHyY
   title: Shaco vs Lee Sin [ Jungle ] Korea Grandmaster 1508 LP | Patch 26.15 ✅
   rankClaim: Grandmaster
@@ -18,12 +19,7 @@
   durationSec: 1447
   region: KR
   player: Doil
-- videoId: v30prE6mhJ4
-  title: Shaco Jungle vs Lee Sin - KR Grandmaster Patch 26.09
-  rankClaim: Grandmaster
-  patch: "26.9"
-  durationSec: 1683
-  region: KR
+  uploaded: 2026-07-30
 - videoId: Fm4-yM4e0xQ
   title: Shaco vs Lee Sin 9/2/14 (Jungle) | EUW Master | Shaco OTP Replay
   rankClaim: Master
@@ -32,63 +28,161 @@
   region: EUW
   patchEstimated: true
   uploaded: 2026-05-11
+- videoId: v30prE6mhJ4
+  title: Shaco Jungle vs Lee Sin - KR Grandmaster Patch 26.09
+  rankClaim: Grandmaster
+  patch: "26.9"
+  durationSec: 1683
+  region: KR
+  uploaded: 2026-05-05
 - videoId: tK6tpbhFl4g
   title: Shaco Jungle vs Lee Sin - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1590
   region: NA
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:46
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:58
+      label: Take down The Turret
+      kind: tower
+    - at: 15:35
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:34
+      label: Take down The Turret
+      kind: tower
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Hunt The Atakhan
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: Take down The Inhibitor
+    - at: 26:01
+      label: Take down The Turret
+      kind: tower
+    - at: 26:19
+      label: End credit
 - videoId: Hv2H8jlTKJw
   title: Shaco vs Lee Sin [ Jungle ] Patch 25.24 Korea Grandmaster 1057 LP
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1559
   region: KR
+  uploaded: 2025-12-18
 - videoId: mbL-dVPTHX4
   title: Shaco vs Lee Sin [ Jungle ] Lol Korea Master Patch 25.22 ✅
   rankClaim: Master
   patch: "25.22"
   durationSec: 1564
   region: KR
-- videoId: RLUNesXsYUE
-  title: Shaco Jungle vs Lee Sin - KR Grandmaster Patch 25.20
-  rankClaim: Grandmaster
-  patch: "25.20"
-  durationSec: 1693
-  region: KR
+  uploaded: 2025-11-19
 - videoId: ozVZBwwo-ZQ
   title: Shaco vs Lee Sin Jungle - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1691
   region: KR
+  uploaded: 2025-10-19
+- videoId: RLUNesXsYUE
+  title: Shaco Jungle vs Lee Sin - KR Grandmaster Patch 25.20
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1693
+  region: KR
+  uploaded: 2025-10-13
 - videoId: Gj8aCDodDnM
   title: Shaco Jungle vs Lee Sin - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1501
   region: KR
+  uploaded: 2025-07-21
 - videoId: hsaNtX1kZrc
   title: Shaco vs Lee Sin [ Jungle ] Lol Korea Master Patch 25.9 ✅
   rankClaim: Master
   patch: "25.9"
   durationSec: 1441
   region: KR
+  uploaded: 2025-05-02
 - videoId: ivATBn7N6TU
   title: Shaco Jungle vs Lee Sin - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1670
   region: KR
+  uploaded: 2025-03-25
 - videoId: 6KOVdQtiMNY
   title: Shaco Jungle vs Lee Sin - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1959
   region: KR
+  uploaded: 2025-03-11
 - videoId: M3psr7ZpNiE
   title: Shaco vs Lee Sin [ Jungle ] Lol Korea Master Patch 25.4 ✅
   rankClaim: Master
   patch: "25.4"
   durationSec: 1261
   region: KR
+  uploaded: 2025-02-25

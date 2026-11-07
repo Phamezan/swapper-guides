@@ -5,21 +5,72 @@
   patch: "26.8"
   durationSec: 1661
   region: KR
+  uploaded: 2026-04-28
 - videoId: vINbAru_cds
   title: Elise Support vs Leona - EUW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1689
   region: EUW
+  uploaded: 2026-02-17
 - videoId: 8V6UI1wgarg
   title: Elise Support vs Leona - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1613
   region: KR
+  uploaded: 2025-12-07
 - videoId: eb9qa9AmZZo
   title: Elise Support vs Leona - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1681
   region: KR
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Take down The Turret
+      kind: tower
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Take down The Turret
+      kind: tower
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:40
+      label: End credit

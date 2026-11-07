@@ -6,6 +6,15 @@
   durationSec: 2266
   region: KR
   uploaded: 2026-10-09
+- videoId: Q3p92Y_gCHM
+  title: '"HanQL" 2255LP Ezreal : He just Out Class Entier Super Server HighElo - Engsub ( vs Jinx )'
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1342
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-10-08
+  format: stream
 - videoId: cz8jCvYNjws
   title: Ezreal vs Jinx ADC - KR Challenger - Patch 16.19 Season 16
   rankClaim: Challenger
@@ -20,6 +29,50 @@
   durationSec: 1825
   region: EUW
   player: OTF Shakur
+  uploaded: 2026-09-26
+- videoId: c8HWWr4C9Ac
+  title: '"HanQL" 2255lp Ezreal : He Make Super Server Challenger Look Like AI - Engsub ( vs Tris, Jinx )'
+  rankClaim: Challenger
+  patch: "26.15"
+  durationSec: 1158
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-05
+  format: stream
+- videoId: NVmQ-Bi5x70
+  title: When "HanQL" 2255LP Ezreal visit Master Elo - Engsub ( vs Jinx, Yunara)
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1279
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-04
+  format: stream
+- videoId: Z_qdTcvGFT4
+  title: '"HanQL" 2255LP Ezreal : This Dude is a KILLING MACHINE " One Kills Per Min " Engsub (Ez vs Jinx)'
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 751
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-07-21
+  format: stream
+- videoId: YHhfU-PA7Ac
+  title: "2255LP Ezreal : He Become UNKILLABLE When Buying Frozen Heart - Engsub (Ez vs Jinx, Draven)"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1851
+  patchEstimated: true
+  uploaded: 2026-06-22
+  format: stream
+- videoId: xpVoKmp9W0Y
+  title: "2255LP Ezreal : He Make Super Server HighElo Look Like An NPC - Engsub ( Ez vs Jinx )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1282
+  patchEstimated: true
+  uploaded: 2026-04-30
+  format: stream
 - videoId: gjgal-T8KcU
   title: Ezreal vs Jinx ADC [ Teddy ] Korea Challenger 1567 LP | Patch 26.4
   rankClaim: Challenger
@@ -27,30 +80,35 @@
   durationSec: 1740
   region: KR
   player: Teddy
+  uploaded: 2026-02-25
 - videoId: ywsyV9ceVOw
   title: Ezreal ADC vs Jinx - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1875
   region: KR
+  uploaded: 2025-10-11
 - videoId: gJJcWkGRp7c
   title: Ezreal ADC vs Jinx - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1578
   region: KR
+  uploaded: 2025-09-01
 - videoId: Vh_lTzjodpE
   title: Ezreal ADC vs Jinx - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1659
   region: KR
+  uploaded: 2025-06-14
 - videoId: eI3T4imeWvs
   title: Ezreal ADC vs Jinx - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1538
   region: KR
+  uploaded: 2025-03-08
 - videoId: r_haR5INiEQ
   title: Ezreal vs Jinx ADC [ DRX Teddy ] Patch 25.4 Korea Challenger ✅
   rankClaim: Challenger
@@ -59,3 +117,4 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-02-25

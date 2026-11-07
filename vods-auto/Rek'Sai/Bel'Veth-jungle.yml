@@ -5,9 +5,64 @@
   patch: "26.1"
   durationSec: 1504
   region: KR
+  uploaded: 2026-01-10
 - videoId: WhQk8poP2EE
   title: Rek'Sai Jungle vs Bel'Veth - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1474
   region: KR
+  uploaded: 2025-12-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Take down The Turret
+      kind: tower
+    - at: 18:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Take down The Turret
+      kind: tower
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: End credit

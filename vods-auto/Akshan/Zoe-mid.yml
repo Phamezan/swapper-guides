@@ -5,9 +5,49 @@
   patch: "26.7"
   durationSec: 1788
   region: EUW
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:17
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:55
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 29:21
+      label: Take down The Turret
+      kind: tower
+    - at: 29:37
+      label: End credit
 - videoId: dr6KLXVlTSY
   title: Akshan Mid vs Zoe - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1736
   region: KR
+  uploaded: 2025-05-08

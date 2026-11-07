@@ -131,6 +131,24 @@
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-04-13
+- videoId: TsiJOpsxH9g
+  title: "MID.GG: [ jackspektra ] Ahri MID vs Akshan | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.6"
+  durationSec: 1510
+  region: EUW
+  patchEstimated: true
+  player: jackspektra
+  uploaded: 2026-03-21
+- videoId: c0eJPLE03MI
+  title: "MID.GG: [ Eika ] Ahri MID vs Akshan | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.5"
+  durationSec: 1610
+  region: EUW
+  patchEstimated: true
+  player: Eika
+  uploaded: 2026-03-15
 - videoId: Rg2HX2ghNb8
   title: Ahri vs Akshan Mid - EUW Grandmaster - Patch 16.04 Season 16
   rankClaim: Grandmaster
@@ -138,13 +156,24 @@
   durationSec: 1711
   region: EUW
   uploaded: 2026-03-01
+- videoId: W_5NHV2gOf4
+  title: "MID.GG: [ Opat04 ] Ahri MID vs Akshan | EUNE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.3"
+  durationSec: 1838
+  region: EUNE
+  patchEstimated: true
+  player: Opat04
+  uploaded: 2026-02-11
 - videoId: VMNveqdbPmo
   title: Ahri Mid vs Akshan - BR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1644
+  uploaded: 2025-07-30
 - videoId: 6QQhb5n7vhI
   title: Ahri Mid vs Akshan - TW Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1546
+  uploaded: 2025-07-11

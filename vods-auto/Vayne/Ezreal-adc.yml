@@ -7,6 +7,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-08-02
 - videoId: RfMHt5H33G0
   title: Peyz Vayne vs Ezreal ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -30,18 +31,59 @@
   patch: "26.4"
   durationSec: 1586
   region: EUW
+  uploaded: 2026-03-01
 - videoId: RTHJi4GCXsM
   title: Vayne ADC vs Ezreal - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1621
   region: KR
+  uploaded: 2026-01-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: End credit
 - videoId: eNiLrxBWnqQ
   title: Vayne vs Ezreal [ ADC ] Korea Challenger 1236 LP | Patch 25.22 ✅
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1791
   region: KR
+  uploaded: 2025-11-15
 - videoId: 8ELCZIahKJA
   title: Vayne vs Ezreal ADC [ QuadraKill ] Korea Master Patch 25.19 ✅
   rankClaim: Master
@@ -49,12 +91,14 @@
   durationSec: 1882
   region: KR
   player: QuadraKill
+  uploaded: 2025-09-30
 - videoId: _prr1UWiuFc
   title: Vayne ADC vs Ezreal - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1655
   region: KR
+  uploaded: 2025-02-26
 - videoId: 4g5GhdiIeKo
   title: Deft Vayne ADC vs Ezreal - Patch 25.1 Korea Master ✅
   rankClaim: Master
@@ -62,6 +106,7 @@
   durationSec: 1413
   region: KR
   player: Deft
+  uploaded: 2025-01-23
 - videoId: OCJlERgf3rg
   title: Vayne vs Ezreal ADC [ TripleKill ] Patch 25.1 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -69,3 +114,4 @@
   durationSec: 1285
   region: KR
   player: TripleKill
+  uploaded: 2025-01-18

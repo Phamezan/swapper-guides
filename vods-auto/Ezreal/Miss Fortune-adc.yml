@@ -74,6 +74,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-27
 - videoId: zqrLUviE1ec
   title: T1 Peyz Ezreal vs Miss Fortune [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -82,12 +83,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: iqZKs62fPxA
-  title: Ezreal ADC vs Miss Fortune - KR Master Patch 25.24
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1468
-  region: KR
+  uploaded: 2026-01-04
 - videoId: V4fbayBFDrI
   title: HLE Gumayusi Ezreal vs Miss Fortune [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -96,6 +92,14 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2025-12-28
+- videoId: iqZKs62fPxA
+  title: Ezreal ADC vs Miss Fortune - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1468
+  region: KR
+  uploaded: 2025-12-06
 - videoId: kkh5I4ETAoM
   title: Ezreal vs Miss Fortune ADC [ TripleKill ] Korea Grandmaster Patch 25.19 ✅
   rankClaim: Grandmaster
@@ -103,30 +107,35 @@
   durationSec: 1288
   region: KR
   player: TripleKill
+  uploaded: 2025-09-30
 - videoId: QzXQGdUqH7U
   title: Ezreal ADC vs Miss Fortune - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1951
   region: KR
+  uploaded: 2025-08-02
 - videoId: eePqZ1iLl6g
   title: Ezreal ADC vs Miss Fortune - EUW Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1556
   region: EUW
+  uploaded: 2025-07-30
 - videoId: q90WLkGjQGY
   title: Ezreal vs Miss Fortune [ ADC ] Lol Korea Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1759
   region: KR
+  uploaded: 2025-06-21
 - videoId: wY42zIr1ad4
   title: Ezreal vs Miss Fortune ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1830
   region: KR
+  uploaded: 2025-03-19
 - videoId: FtWWmw6caX0
   title: T1 Gumayusi Ezreal ADC vs Miss Fortune - Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -135,6 +144,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-03
 - videoId: yiZPAytRBYk
   title: T1 Gumayusi Ezreal ADC vs Miss Fortune - Korea Challenger Patch 25.1 ✅
   rankClaim: Challenger
@@ -143,6 +153,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-22
 - videoId: iOYaEPF6qEA
   title: T1 Gumayusi Ezreal vs Miss Fortune [ ADC ] Patch 25.1 Korea Master ✅
   rankClaim: Master
@@ -151,3 +162,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-14

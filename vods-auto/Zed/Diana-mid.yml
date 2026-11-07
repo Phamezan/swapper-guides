@@ -417,31 +417,184 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1631
+  uploaded: 2026-02-20
 - videoId: Hb2AElWZmU0
   title: Zed Mid vs Diana - TW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1928
+  uploaded: 2025-06-09
 - videoId: Svxt2jRCRsQ
   title: Zed Mid vs Diana - NA Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1629
   region: NA
+  uploaded: 2025-05-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 15:35
+      label: Take down The Turret
+      kind: tower
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: End credit
 - videoId: wPrwiFzkeXE
   title: Zed Mid vs Diana - TW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1813
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Take down The Turret
+      kind: tower
+    - at: 17:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Take down The Turret
+      kind: tower
+    - at: 20:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:52
+      label: End credit
 - videoId: IC1-292CGvY
   title: Zed Mid vs Diana - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1492
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:11
+      label: Take down The Turret
+      kind: tower
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Take down The Turret
+      kind: tower
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Take down The Turret
+      kind: tower
+    - at: 24:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:31
+      label: End credit
 - videoId: WJC6GXmlrpk
   title: Zed Mid vs Diana - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1730
   region: KR
+  uploaded: 2025-03-08

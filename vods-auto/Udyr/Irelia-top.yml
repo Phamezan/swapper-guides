@@ -5,26 +5,77 @@
   patch: "26.2"
   durationSec: 1503
   region: KR
+  uploaded: 2026-01-29
 - videoId: Q1YWWgsdquI
   title: Udyr Top vs Irelia - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1549
   region: KR
+  uploaded: 2026-01-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:07
+      label: Take down The Turret
+      kind: tower
+    - at: 12:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:18
+      label: Take down The Turret
+      kind: tower
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Take down The Inhibitor
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: End credit
 - videoId: 2O15MEqrjG0
   title: Udyr Top vs Irelia - VN Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1684
+  uploaded: 2025-09-24
 - videoId: cEDmCe6sdWs
   title: Udyr Top vs Irelia - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1771
   region: KR
+  uploaded: 2025-08-27
 - videoId: mEoc8XEdXY4
   title: Udyr Top vs Irelia - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1693
   region: KR
+  uploaded: 2025-05-22

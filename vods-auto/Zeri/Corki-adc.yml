@@ -12,21 +12,72 @@
   patch: "26.4"
   durationSec: 1604
   region: EUW
+  uploaded: 2026-02-27
 - videoId: zC0BK6xv64w
   title: Zeri ADC vs Corki - EUW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1465
   region: EUW
+  uploaded: 2026-02-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:14
+      label: Take down The Turret
+      kind: tower
+    - at: 18:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Take down The Turret
+      kind: tower
+    - at: 23:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: Take down The Turret
+      kind: tower
+    - at: 24:14
+      label: End credit
 - videoId: qHL_kDGfIuM
   title: Zeri ADC vs Corki - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1633
   region: KR
+  uploaded: 2025-07-23
 - videoId: JU4TD-s0Jts
   title: Zeri vs Corki ADC - KR Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1531
   region: KR
+  uploaded: 2025-06-14

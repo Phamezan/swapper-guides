@@ -5,12 +5,60 @@
   patch: "26.18"
   durationSec: 1655
   region: KR
+  uploaded: 2026-09-18
 - videoId: NBXLYD3Yyug
   title: Xerath Mid vs Syndra - KR Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1673
   region: KR
+  uploaded: 2026-09-03
+  result: W
+  moments:
+    - at: 2:23
+      label: First Blood — Xerath kills Syndra
+      kind: kill
+    - at: 11:03
+      label: Xerath takes down Thresh
+    - at: 13:02
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:25
+      label: Xerath takes down Syndra
+    - at: 14:13
+      label: Xerath outduels Thresh
+    - at: 15:55
+      label: Senna takes down Syndra
+    - at: 16:22
+      label: Senna eliminates Thresh
+    - at: 17:13
+      label: Yone takes down Syndra
+    - at: 18:35
+      label: Xerath kills Yunara
+      kind: kill
+    - at: 19:01
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 20:30
+      label: Senna picks off Yunara
+    - at: 22:27
+      label: Senna picks off Yunara
+    - at: 23:07
+      label: Mid Inhibitor falls (Red)
+    - at: 24:03
+      label: Yone Double Kill
+      kind: kill
+    - at: 24:42
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:57
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 26:16
+      label: Red takes Baron
+      kind: baron
+    - at: 26:46
+      label: Xerath takes down Thresh
 - videoId: eiS6FPJ7ubU
   title: (BAN bbmuffin) Xerath Mid vs Syndra - EUW Challenger Patch 26.14
   rankClaim: Challenger
@@ -18,3 +66,4 @@
   durationSec: 1568
   region: EUW
   player: BAN bbmuffin
+  uploaded: 2026-07-20

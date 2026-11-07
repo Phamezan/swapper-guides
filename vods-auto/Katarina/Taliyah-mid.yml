@@ -7,24 +7,28 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-28
 - videoId: KimHXu2yswQ
   title: Katarina Mid vs Taliyah - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1589
   region: KR
+  uploaded: 2025-11-24
 - videoId: QVxPpO59Ryg
   title: Katarina vs Taliyah Mid - KR Grandmaster - Patch 25.21 Season 15
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1681
   region: KR
+  uploaded: 2025-11-04
 - videoId: ktPUX5JfAhU
   title: Katarina Mid vs Taliyah - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1654
   region: KR
+  uploaded: 2025-10-27
 - videoId: INiImLo4n-4
   title: DK ShowMaker Katarina vs Taliyah [ MID ] Korea Challenger Patch 25.16 ✅
   rankClaim: Challenger
@@ -33,6 +37,7 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-08-22
 - videoId: v5QB8pYfEUg
   title: T1 Faker Katarina vs Taliyah [ MID ] Korea Grandmaster Patch 25.9
   rankClaim: Grandmaster
@@ -41,15 +46,18 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-14
 - videoId: oyXq0S39zHc
   title: Katarina vs Taliyah Mid - EUW Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1591
   region: EUW
+  uploaded: 2025-03-17
 - videoId: UVp6iuJ8ZbY
   title: Katarina vs Taliyah Mid - EUW Grandmaster - Patch 15.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1871
   region: EUW
+  uploaded: 2025-02-28

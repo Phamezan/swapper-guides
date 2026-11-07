@@ -16,6 +16,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-08-26
 - videoId: V4npzHa1PpU
   title: T1 Peyz Corki vs Lucian [ ADC ] Korea Challenger 2443 LP | Patch 26.16
   rankClaim: Challenger
@@ -32,24 +33,28 @@
   durationSec: 1469
   region: KR
   player: LGD Shaoye
+  uploaded: 2026-06-20
 - videoId: l9n8uYfBoMQ
   title: Corki ADC vs Lucian - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1875
   region: KR
+  uploaded: 2025-11-25
 - videoId: hXN6KICySGU
   title: Corki ADC vs Lucian - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1636
   region: KR
+  uploaded: 2025-07-21
 - videoId: dOfQ_CgDCBI
   title: Corki ADC vs Lucian - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1922
   region: KR
+  uploaded: 2025-06-30
 - videoId: yv_UgwrFnHc
   title: T1 Gumayusi Corki vs Lucian [ ADC ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -58,9 +63,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-10
 - videoId: EK7YtLMR-VQ
   title: Corki ADC vs Lucian - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1434
   region: KR
+  uploaded: 2025-05-08

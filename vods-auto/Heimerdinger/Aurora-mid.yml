@@ -5,3 +5,52 @@
   patch: "26.9"
   durationSec: 1802
   region: KR
+  uploaded: 2026-05-08
+  result: W
+  moments:
+    - at: 5:06
+      label: First Blood — Heimerdinger kills Caitlyn
+      kind: kill
+    - at: 8:11
+      label: Heimerdinger kills Caitlyn
+      kind: kill
+    - at: 9:04
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 10:10
+      label: Xin Zhao takes down Vi
+    - at: 11:18
+      label: Heimerdinger picks off Vi
+    - at: 12:50
+      label: Heimerdinger takes down Aurora
+    - at: 13:43
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 14:45
+      label: Heimerdinger catches Aurora again
+    - at: 18:20
+      label: Kai'Sa eliminates Vi
+    - at: 19:07
+      label: Heimerdinger kills Caitlyn
+      kind: kill
+    - at: 19:22
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 21:14
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:54
+      label: Kai'Sa takes down Caitlyn
+    - at: 24:55
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:29
+      label: Anivia eliminates Neeko
+    - at: 26:30
+      label: Xin Zhao takes down Vi
+    - at: 28:12
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:06
+      label: Xin Zhao Double Kill
+      kind: kill

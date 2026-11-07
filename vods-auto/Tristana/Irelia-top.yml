@@ -6,3 +6,46 @@
   durationSec: 1536
   region: KR
   player: TheShy
+  uploaded: 2026-07-25
+  result: L
+  moments:
+    - at: 0:14
+      label: First Blood — Tristana kills Irelia
+      kind: kill
+    - at: 1:29
+      label: Tristana catches Irelia
+    - at: 7:42
+      label: Tristana outduels Taliyah
+    - at: 13:04
+      label: Fiddlesticks takes down Irelia
+    - at: 14:44
+      label: Tristana eliminates Irelia
+    - at: 15:48
+      label: Tristana takes down Varus
+    - at: 16:27
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 17:03
+      label: Tristana outplays Varus
+    - at: 19:01
+      label: Tristana solo kills Varus again
+      kind: kill
+    - at: 19:39
+      label: Red takes Baron
+      kind: baron
+    - at: 20:01
+      label: Fiddlesticks takes down Irelia
+    - at: 20:53
+      label: Mel eliminates Irelia
+    - at: 21:40
+      label: Mel kills Taliyah
+      kind: kill
+    - at: 21:52
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:39
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 24:01
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:29
+      label: Syndra eliminates Taliyah

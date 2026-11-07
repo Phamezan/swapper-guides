@@ -5,9 +5,63 @@
   patch: "26.15"
   durationSec: 1517
   region: KR
+  uploaded: 2026-08-13
 - videoId: hygpPigcDNw
   title: Tahm Kench Top vs Riven - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2039
   region: KR
+  uploaded: 2025-05-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:00
+      label: Take down The Turret
+      kind: tower
+    - at: 27:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:02
+      label: Take down The Inhibitor
+    - at: 30:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:38
+      label: End credit

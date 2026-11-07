@@ -6,6 +6,56 @@
   durationSec: 1713
   region: EUW
   player: SU RAMES
+  uploaded: 2026-06-13
+  result: L
+  moments:
+    - at: 5:06
+      label: First Blood — Thresh kills Seraphine
+      kind: kill
+    - at: 6:24
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:06
+      label: Sylas outplays Kha'Zix
+    - at: 11:31
+      label: Sylas takes down Kha'Zix
+    - at: 12:24
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 12:52
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:51
+      label: Jayce Double Kill
+      kind: kill
+    - at: 14:23
+      label: Sylas kills Bard
+      kind: kill
+    - at: 15:01
+      label: Sylas eliminates Seraphine
+    - at: 15:15
+      label: Sylas catches Bard
+    - at: 16:01
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:13
+      label: Sylas kills Tryndamere
+      kind: kill
+    - at: 18:01
+      label: Sylas takes down Kha'Zix
+    - at: 20:38
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:57
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 27:29
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:43
+      label: Sylas eliminates Seraphine
 - videoId: poFkd2PNfwM
   title: (G2 SkewMond) Sylas Jungle vs Kha'Zix - EUW Challenger Patch 26.11
   rankClaim: Challenger
@@ -14,3 +64,4 @@
   region: EUW
   player: SkewMond
   team: G2
+  uploaded: 2026-05-31

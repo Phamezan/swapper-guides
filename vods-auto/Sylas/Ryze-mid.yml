@@ -53,12 +53,23 @@
     - at: 27:50
       label: Viego Triple Kill
       kind: kill
+- videoId: RrSOyQFUOtM
+  title: Beifeng Sylas vs Ryze — Grandmaster KR Server
+  rankClaim: Grandmaster
+  patch: "26.6"
+  durationSec: 1145
+  region: KR
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-03-20
+  format: stream
 - videoId: qsxsGmtxzrc
   title: Sylas Mid vs Ryze - EUW Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1969
   region: EUW
+  uploaded: 2025-09-05
 - videoId: 14I3tdxrxWU
   title: DK ShowMaker Sylas vs Ryze [ MID ] Patch 25.5 Korea Master ✅
   rankClaim: Master
@@ -67,3 +78,4 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-03-11

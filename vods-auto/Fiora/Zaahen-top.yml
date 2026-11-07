@@ -5,15 +5,85 @@
   patch: "26.18"
   durationSec: 1868
   region: EUW
+  uploaded: 2026-09-13
 - videoId: aiGiJj4DOEc
   title: Fiora Top vs Zaahen - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1554
   region: KR
+  uploaded: 2026-02-10
 - videoId: Fh4UVOht1Rc
   title: Fiora Top vs Zaahen - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1605
   region: NA
+  uploaded: 2025-12-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:28
+      label: Take down The Turret
+      kind: tower
+    - at: 11:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:16
+      label: Take down The Turret
+      kind: tower
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:38
+      label: Take down The Turret
+      kind: tower
+    - at: 16:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Take down The Inhibitor
+    - at: 25:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:17
+      label: Take down The Turret
+      kind: tower
+    - at: 26:34
+      label: End credit

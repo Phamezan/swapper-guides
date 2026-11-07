@@ -6,14 +6,70 @@
   durationSec: 1452
   region: EUW
   player: VIT Lyncas
+  uploaded: 2026-05-31
 - videoId: TO902tacwi4
   title: Aatrox Jungle vs Naafiri - NA Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1469
   region: NA
+  uploaded: 2026-03-29
 - videoId: NzI2-avWkcg
   title: Aatrox Jungle vs Naafiri - VN Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1514
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:53
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Take down The Turret
+      kind: tower
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:03
+      label: End credit

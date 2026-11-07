@@ -6,15 +6,79 @@
   durationSec: 1553
   region: EUW
   player: SPXF Lelouch
+  uploaded: 2026-08-12
 - videoId: eKSkOdR1ncs
   title: Morgana Support vs Leona - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1441
   region: KR
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Take down The Turret
+      kind: tower
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Take down The Turret
+      kind: tower
+    - at: 21:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Inhibitor
+    - at: 23:38
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: End credit
 - videoId: 64ydifspAHc
   title: Morgana Support vs Leona - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1480
   region: KR
+  uploaded: 2025-06-10

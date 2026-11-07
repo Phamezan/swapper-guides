@@ -6,14 +6,58 @@
   durationSec: 1566
   region: EUW
   player: ULF Kaori
+  uploaded: 2026-06-14
 - videoId: wOdK8E5GSNA
   title: Malphite Top vs Vayne - VN Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1649
+  uploaded: 2026-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Take down The Turret
+      kind: tower
+    - at: 20:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:18
+      label: End credit
 - videoId: 8yY-WOyr3gs
   title: Malphite Top vs Vayne - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1759
   region: KR
+  uploaded: 2025-06-05

@@ -381,17 +381,20 @@
   patch: "26.5"
   durationSec: 1515
   region: EUW
+  uploaded: 2026-03-11
 - videoId: wrbZH4MsxHY
   title: Zed Mid vs Ryze - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1845
   region: KR
+  uploaded: 2026-03-05
 - videoId: hc_b_z-8rJg
   title: Zed Mid vs Ryze - TW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1451
+  uploaded: 2026-01-04
 - videoId: 9xNvLRKSkgo
   title: OnZed Zed vs Ryze Mid - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
@@ -399,6 +402,7 @@
   durationSec: 1846
   region: KR
   player: OnZed
+  uploaded: 2025-12-14
 - videoId: _5VzFLiasSE
   title: OnZed Zed vs Ryze Mid - KR Grandmaster - Patch 25.24 Season 15
   rankClaim: Grandmaster
@@ -406,6 +410,7 @@
   durationSec: 1351
   region: KR
   player: OnZed
+  uploaded: 2025-12-09
 - videoId: c0VpUfgelRg
   title: OnZed Zed vs Ryze Mid - KR Grandmaster - Patch 25.24 Season 15
   rankClaim: Grandmaster
@@ -413,8 +418,60 @@
   durationSec: 1831
   region: KR
   player: OnZed
+  uploaded: 2025-12-07
 - videoId: zcQZS3R1JGY
   title: Zed Mid vs Ryze - BR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1634
+  uploaded: 2025-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:56
+      label: Get a Triple Kill
+      kind: kill
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Take down The Turret
+      kind: tower
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:12
+      label: Take down The Turret
+      kind: tower
+    - at: 26:53
+      label: End credit

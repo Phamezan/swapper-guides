@@ -13,9 +13,63 @@
   patch: "25.6"
   durationSec: 1992
   region: KR
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:02
+      label: Take down The Turret
+      kind: tower
+    - at: 30:15
+      label: Take down The Inhibitor
+    - at: 31:49
+      label: Get a Triple Kill
+      kind: kill
+    - at: 32:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:40
+      label: Take down The Turret
+      kind: tower
+    - at: 32:51
+      label: End credit
 - videoId: wCCHFA_5LA0
   title: Yasuo vs Ahri Mid - KR Master - Patch 25.6 Season 15
   rankClaim: Master
   patch: "25.6"
   durationSec: 1290
   region: KR
+  uploaded: 2025-03-22

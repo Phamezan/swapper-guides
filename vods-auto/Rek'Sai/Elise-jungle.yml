@@ -5,3 +5,53 @@
   patch: "26.17"
   durationSec: 1745
   region: KR
+  uploaded: 2026-08-31
+  result: W
+  moments:
+    - at: 1:40
+      label: First Blood — Rek'Sai kills Elise
+      kind: kill
+    - at: 10:24
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 15:49
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:06
+      label: Rek'Sai takes down Elise
+    - at: 18:05
+      label: Rek'Sai outplays Elise
+    - at: 18:43
+      label: Talon kills Yunara
+      kind: kill
+    - at: 20:08
+      label: Rek'Sai outduels Yone
+    - at: 20:37
+      label: Lissandra picks off Yunara
+    - at: 21:03
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 21:16
+      label: Talon eliminates Zoe
+    - at: 21:53
+      label: Rek'Sai eliminates Yunara
+    - at: 22:47
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:45
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 25:11
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:55
+      label: Rek'Sai Double Kill
+      kind: kill
+    - at: 26:21
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 27:44
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 28:24
+      label: Mid Inhibitor falls (Red)

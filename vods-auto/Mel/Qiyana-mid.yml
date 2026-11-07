@@ -5,15 +5,44 @@
   patch: "26.1"
   durationSec: 1581
   region: NA
+  uploaded: 2026-01-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:55
+      label: Take down The Turret
+      kind: tower
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Take down The Turret
+      kind: tower
+    - at: 24:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:10
+      label: End credit
 - videoId: l0F3IWRXpCo
   title: Mel Mid vs Qiyana - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2015
   region: KR
+  uploaded: 2025-02-23
 - videoId: Y7qnoWkNHss
   title: Mel vs Qiyana MId - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1981
   region: KR
+  uploaded: 2025-02-21

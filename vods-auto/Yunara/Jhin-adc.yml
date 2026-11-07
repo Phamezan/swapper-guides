@@ -48,6 +48,32 @@
     - at: 23:30
       label: Yunara kills Tristana
       kind: kill
+- videoId: 6VaUPno05KI
+  title: '"HanQL" 2255LP Yunara : CLEAN SPACING Get Easy Pentakill - Engsub ( vs Jhin, Lucian )'
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1242
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-07
+  format: stream
+- videoId: fOLmhD38SKc
+  title: "2255LP Yunara : This Dude is Overwhelming Super Server HighElo - Engsub (Yunara vs Jhin, Smolder)"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1455
+  patchEstimated: true
+  uploaded: 2026-06-14
+  format: stream
+- videoId: 0od6baaO0-w
+  title: "Uzi Yunara : From ZERO to HERO, Insane Comeback of History - Engsub ( Yunara vs Jhin )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 975
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-26
+  format: stream
 - videoId: Vs2L6olIqac
   title: Yunara vs Jhin ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -55,12 +81,6 @@
   durationSec: 1936
   region: KR
   uploaded: 2026-04-02
-- videoId: Wp9Qnzqj-fw
-  title: Yunara vs Jhin ADC - EUW Challenger - Patch 16.05 Season 16
-  rankClaim: Challenger
-  patch: "26.5"
-  durationSec: 1801
-  region: EUW
 - videoId: mJxtkYRtT9M
   title: HLE Gumayusi Yunara vs Jhin [ ADC ] Korea Challenger 1986 LP | Patch 26.5
   rankClaim: Challenger
@@ -69,12 +89,21 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-03-17
+- videoId: Wp9Qnzqj-fw
+  title: Yunara vs Jhin ADC - EUW Challenger - Patch 16.05 Season 16
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1801
+  region: EUW
+  uploaded: 2026-03-11
 - videoId: SIpmDTqW2EU
   title: Yunara vs Jhin [ ADC ] Korea Challenger 1704 LP | Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1383
   region: KR
+  uploaded: 2025-12-26
 - videoId: 7L6IhVH07ZM
   title: HLE Gumayusi Yunara vs Jhin [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -83,21 +112,25 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2025-12-04
 - videoId: zodYZfqpOn0
   title: Yunara vs Jhin ADC - EUW Master - Patch 25.14 Season 15
   rankClaim: Master
   patch: "25.14"
   durationSec: 1451
   region: EUW
+  uploaded: 2025-07-21
 - videoId: 7C4IVUPEBqk
   title: Yunara vs Jhin ADC - EUW Master - Patch 25.14 Season 15
   rankClaim: Master
   patch: "25.14"
   durationSec: 1606
   region: EUW
+  uploaded: 2025-07-18
 - videoId: r_k52AMd_p0
   title: Yunara vs Jhin ADC - EUW Master - Patch 25.14 Season 15
   rankClaim: Master
   patch: "25.14"
   durationSec: 1606
   region: EUW
+  uploaded: 2025-07-17

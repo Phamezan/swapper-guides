@@ -6,6 +6,13 @@
   durationSec: 1426
   region: KR
   uploaded: 2026-09-02
+- videoId: wnPpsjk7yu4
+  title: Locke vs Galio Mid - KR Challenger - Patch 16.16 Season 16
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1620
+  region: KR
+  uploaded: 2026-08-21
 - videoId: EBkhrn_D5xk
   title: (KT Bdd) Locke Mid vs Galio - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -14,10 +21,4 @@
   region: KR
   player: Bdd
   team: KT
-- videoId: wnPpsjk7yu4
-  title: Locke vs Galio Mid - KR Challenger - Patch 16.16 Season 16
-  rankClaim: Challenger
-  patch: "26.16"
-  durationSec: 1620
-  region: KR
-  uploaded: 2026-08-21
+  uploaded: 2026-08-15

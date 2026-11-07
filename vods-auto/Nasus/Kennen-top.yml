@@ -5,21 +5,131 @@
   patch: "26.6"
   durationSec: 1736
   region: NA
+  uploaded: 2026-03-27
 - videoId: VwH6faoWVdk
   title: Nasus Top vs Kennen - EUW Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1558
   region: EUW
+  uploaded: 2026-01-20
 - videoId: 7b1uFj03oIQ
   title: Nasus Top vs Kennen - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1725
   region: KR
+  uploaded: 2025-04-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:35
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:12
+      label: Take down The Turret
+      kind: tower
+    - at: 28:24
+      label: End credit
 - videoId: o04zKsFFmGk
   title: Nasus Top vs Kennen - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1675
   region: KR
+  uploaded: 2025-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Take down The Turret
+      kind: tower
+    - at: 17:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:02
+      label: Take down The Turret
+      kind: tower
+    - at: 22:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:07
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:36
+      label: Take down The Turret
+      kind: tower
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:20
+      label: Take down The Turret
+      kind: tower
+    - at: 27:34
+      label: End credit

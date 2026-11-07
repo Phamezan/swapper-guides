@@ -7,6 +7,7 @@
   region: EUW
   player: Shanks
   team: AL
+  uploaded: 2026-08-11
 - videoId: 5_tDGMlftLk
   title: T1 Oner Wukong vs Talon [ Jungle ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -15,9 +16,11 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-08-10
 - videoId: tzk3PSCBAHM
   title: Wukong vs Talon Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1891
   region: KR
+  uploaded: 2025-05-24

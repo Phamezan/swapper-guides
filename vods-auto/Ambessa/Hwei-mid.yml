@@ -5,9 +5,46 @@
   patch: "25.24"
   durationSec: 1517
   region: KR
+  uploaded: 2025-12-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Take down The Turret
+      kind: tower
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 25:06
+      label: End credit
 - videoId: faJWwgk1zcA
   title: Ambessa Mid vs Hwei - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1823
   region: KR
+  uploaded: 2025-08-08

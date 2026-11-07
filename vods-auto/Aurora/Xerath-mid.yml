@@ -14,9 +14,66 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-02-22
 - videoId: rSxRAXApFsw
   title: Aurora Mid vs Xerath - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1907
   region: KR
+  uploaded: 2025-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:35
+      label: Take down The Turret
+      kind: tower
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Take down The Turret
+      kind: tower
+    - at: 19:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:22
+      label: Take down The Inhibitor
+    - at: 28:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:26
+      label: End credit

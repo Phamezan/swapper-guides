@@ -64,6 +64,45 @@
   region: KR
   player: Moham
   team: WBG
+  uploaded: 2026-09-13
+  result: W
+  moments:
+    - at: 0:41
+      label: First Blood — Yunara kills Tristana
+      kind: kill
+    - at: 3:00
+      label: Karma picks off Tristana
+    - at: 6:06
+      label: Cassiopeia picks off Vi
+    - at: 8:34
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:59
+      label: Cassiopeia eliminates Akali
+    - at: 9:58
+      label: Karma eliminates Ambessa
+    - at: 15:07
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:12
+      label: Cassiopeia kills Tristana
+      kind: kill
+    - at: 18:26
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 20:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:41
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 26:28
+      label: Mid Inhibitor falls (Red)
+    - at: 27:10
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:44
+      label: Yunara picks off Lulu
 - videoId: MyI4f9Vyz00
   title: (HLE Delight) Karma Support vs Lulu - KR Master Patch 26.10
   rankClaim: Master
@@ -72,21 +111,129 @@
   region: KR
   player: Delight
   team: HLE
+  uploaded: 2026-05-26
 - videoId: 4or-DafAM1o
   title: Karma Support vs Lulu - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1836
   region: KR
+  uploaded: 2026-05-02
 - videoId: lVjODlBeyHg
   title: Karma Support vs Lulu - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1471
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Take down The Turret
+      kind: tower
+    - at: 14:20
+      label: Take down The Turret
+      kind: tower
+    - at: 14:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Take down The Turret
+      kind: tower
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Take down The Inhibitor
+    - at: 23:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: End credit
 - videoId: utWpMy7OK8I
   title: Karma Support vs Lulu - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1705
   region: KR
+  uploaded: 2025-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Take down The Turret
+      kind: tower
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Take down The Turret
+      kind: tower
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Take down The Turret
+      kind: tower
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Take down The Turret
+      kind: tower
+    - at: 24:23
+      label: Take down The Inhibitor
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:04
+      label: End credit

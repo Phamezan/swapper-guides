@@ -5,21 +5,93 @@
   patch: "26.18"
   durationSec: 1714
   region: NA
+  uploaded: 2026-09-18
 - videoId: GcH7BK8Mi-o
   title: Udyr Jungle vs Viego - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1911
   region: KR
+  uploaded: 2025-08-18
 - videoId: DlyzsLXSEno
   title: Udyr Jungle vs Viego - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1886
   region: EUW
+  uploaded: 2025-06-09
 - videoId: bBnhjmmJNHc
   title: Udyr Jungle vs Viego - NA Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1806
   region: NA
+  uploaded: 2025-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:09
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:22
+      label: Take down The Turret
+      kind: tower
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Take down The Turret
+      kind: tower
+    - at: 22:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:45
+      label: End credit

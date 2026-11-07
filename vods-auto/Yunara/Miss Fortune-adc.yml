@@ -7,6 +7,7 @@
   region: KR
   player: Ghost
   team: KT
+  uploaded: 2026-08-22
 - videoId: tJmLhExAfDg
   title: T1 Peyz Yunara ADC vs Miss Fortune - Patch 26.3 Korea Challenger 2036 LP
   rankClaim: Challenger
@@ -15,18 +16,21 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-13
 - videoId: 9hOhBoqKynE
   title: Yunara vs Miss Fortune [ ADC ] Korea Challenger 1521 LP | Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1436
   region: KR
+  uploaded: 2025-12-17
 - videoId: jMbbxDhgWMQ
   title: Yunara vs Miss Fortune ADC - EUW Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2146
   region: EUW
+  uploaded: 2025-11-01
 - videoId: 6qL6Cd-Q8d4
   title: Yunara vs Miss Fortune ADC [ Gen.G Ruler ] Patch 25.18 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -35,3 +39,4 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-09-21

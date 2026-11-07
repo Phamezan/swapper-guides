@@ -5,9 +5,57 @@
   patch: "25.24"
   durationSec: 1507
   region: KR
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:09
+      label: Take down The Turret
+      kind: tower
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Hunt The Atakhan
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:56
+      label: End credit
 - videoId: NKQScDN9vbc
   title: Warwick Jungle vs Qiyana - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1825
   region: KR
+  uploaded: 2025-11-19

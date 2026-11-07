@@ -5,33 +5,179 @@
   patch: "26.5"
   durationSec: 1703
   region: KR
+  uploaded: 2026-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:40
+      label: Take down The Inhibitor
+    - at: 27:56
+      label: Take down The Turret
+      kind: tower
+    - at: 28:12
+      label: End credit
 - videoId: 44sZz-clfM0
   title: Bard Support vs Nautilus - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1455
   region: KR
+  uploaded: 2026-02-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Take down The Turret
+      kind: tower
+    - at: 18:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Take down The Turret
+      kind: tower
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: End credit
 - videoId: 729wooyFcBw
   title: Bard Support vs Nautilus - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1576
   region: KR
+  uploaded: 2026-02-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: End credit
 - videoId: QfV-XDl9SZ0
   title: Bard Support vs Nautilus - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1806
   region: KR
+  uploaded: 2025-07-02
 - videoId: haeBj5zii8A
   title: Bard Support vs Nautilus - EUW Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1607
   region: EUW
+  uploaded: 2025-06-26
 - videoId: s65Cxw9f9sE
   title: Bard Support vs Nautilus - EUW Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1662
   region: EUW
+  uploaded: 2025-05-15

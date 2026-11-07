@@ -5,9 +5,66 @@
   patch: "25.16"
   durationSec: 1335
   region: KR
+  uploaded: 2025-08-20
 - videoId: IoIU0g7tnv0
   title: Sion Top vs Fiora - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1768
   region: KR
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:57
+      label: Take down The Turret
+      kind: tower
+    - at: 14:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:07
+      label: Take down The Turret
+      kind: tower
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Take down The Turret
+      kind: tower
+    - at: 25:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:44
+      label: Take down The Inhibitor
+    - at: 28:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:54
+      label: Take down The Turret
+      kind: tower
+    - at: 29:07
+      label: End credit

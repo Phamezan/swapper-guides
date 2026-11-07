@@ -5,3 +5,48 @@
   patch: "26.2"
   durationSec: 1463
   region: KR
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: End credit

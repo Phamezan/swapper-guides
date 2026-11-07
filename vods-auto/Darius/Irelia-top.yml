@@ -5,12 +5,14 @@
   patch: "26.15"
   durationSec: 1628
   region: EUW
+  uploaded: 2026-08-10
 - videoId: QgtjSOxLTm4
   title: Darius Top vs Irelia (BRO DDahyuk) - KR Grandmaster Patch 26.11
   rankClaim: Grandmaster
   patch: "26.11"
   durationSec: 1555
   region: KR
+  uploaded: 2026-06-02
 - videoId: YU0AVxvhBCU
   title: Darius vs Irelia Top - KR Grandmaster - Patch 16.08 Season 16
   rankClaim: Grandmaster
@@ -24,15 +26,79 @@
   patch: "26.7"
   durationSec: 1565
   region: EUW
+  uploaded: 2026-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Take down The Turret
+      kind: tower
+    - at: 15:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:09
+      label: Take down The Turret
+      kind: tower
+    - at: 18:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:16
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:31
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Take down The Turret
+      kind: tower
+    - at: 24:37
+      label: Take down The Inhibitor
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Take down The Turret
+      kind: tower
+    - at: 25:54
+      label: End credit
 - videoId: w70WLf6aU9I
   title: Darius vs Irelia Top - EUW Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1771
   region: EUW
+  uploaded: 2025-10-29
 - videoId: yCr1fGZzC8k
   title: Darius vs Irelia [ TOP ] Lol Korea Master Patch 25.14 ✅
   rankClaim: Master
   patch: "25.14"
   durationSec: 1517
   region: KR
+  uploaded: 2025-07-17

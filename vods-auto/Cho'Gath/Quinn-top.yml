@@ -5,3 +5,53 @@
   patch: "26.18"
   durationSec: 1627
   region: NA
+  uploaded: 2026-09-20
+  result: W
+  moments:
+    - at: 5:19
+      label: First Blood — Cho'Gath kills Quinn
+      kind: kill
+    - at: 5:57
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 7:14
+      label: Cho'Gath eliminates Quinn
+    - at: 8:51
+      label: Cho'Gath catches Quinn
+    - at: 11:36
+      label: Cho'Gath kills Darius
+      kind: kill
+    - at: 12:13
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:01
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:59
+      label: Cho'Gath kills Darius
+      kind: kill
+    - at: 20:34
+      label: Red takes Baron
+      kind: baron
+    - at: 21:25
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:04
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:18
+      label: Jhin picks off Quinn
+    - at: 23:12
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:45
+      label: Jhin picks off Quinn
+    - at: 24:31
+      label: Jhin eliminates Darius
+    - at: 24:57
+      label: Cho'Gath outduels Quinn again
+    - at: 26:16
+      label: Lee Sin Double Kill
+      kind: kill

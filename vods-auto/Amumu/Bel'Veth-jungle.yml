@@ -5,3 +5,51 @@
   patch: "26.3"
   durationSec: 1573
   region: KR
+  uploaded: 2026-02-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:47
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: Take down The Turret
+      kind: tower
+    - at: 26:02
+      label: End credit

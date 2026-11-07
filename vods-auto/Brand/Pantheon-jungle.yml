@@ -5,21 +5,85 @@
   patch: "25.20"
   durationSec: 1807
   region: KR
+  uploaded: 2025-10-15
 - videoId: g438o7sCdwM
   title: Brand Jungle vs Pantheon - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1621
   region: KR
+  uploaded: 2025-08-20
 - videoId: 7dHwzO6qQLs
   title: Brand Jungle vs Pantheon - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1818
   region: KR
+  uploaded: 2025-04-20
 - videoId: eXWeFJ6rQoc
   title: Brand Jungle vs Pantheon - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1668
   region: EUW
+  uploaded: 2025-03-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:14
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Hunt The Atakhan
+    - at: 23:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Take down The Inhibitor
+    - at: 27:27
+      label: End credit

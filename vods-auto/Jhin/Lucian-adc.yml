@@ -8,6 +8,23 @@
   player: Peyz
   team: T1
   uploaded: 2026-11-02
+- videoId: QMhEkPRLkpM
+  title: "Doggo : His JHIN Mechanic is PERFECTLY SO CLEAN \" Destroying KR HighElo\" Engsub (vs Lucian, Kai'sa)"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1389
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-10-14
+  format: stream
+- videoId: 4y6_Fy6ONKQ
+  title: 'Rank 1 Jhin : ONE BULLET - ONE SHOT - ONE KILL " Perfect KDA " Engsub ( vs Lucian )'
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 913
+  patchEstimated: true
+  uploaded: 2026-09-20
+  format: stream
 - videoId: xeRsKSWZbXo
   title: BLG Viper Jhin vs Lucian [ ADC ] Korea Challenger 2205 LP | Patch 26.18
   rankClaim: Challenger
@@ -39,30 +56,35 @@
   patch: "26.2"
   durationSec: 2026
   region: KR
+  uploaded: 2026-01-26
 - videoId: ulhGCHOEM7Y
   title: Jhin ADC vs Lucian - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1695
   region: KR
+  uploaded: 2025-12-07
 - videoId: s4hR5G69ok8
   title: Jhin ADC vs Lucian - KR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1727
   region: KR
+  uploaded: 2025-09-12
 - videoId: A5eQvKiFe8Y
   title: Jhin ADC vs Lucian - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1788
   region: KR
+  uploaded: 2025-08-17
 - videoId: v5JvvRlDSZs
   title: Jhin vs Lucian ADC - KR Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1950
   region: KR
+  uploaded: 2025-08-07
 - videoId: ZFnSy_9AU14
   title: T1 Gumayusi Jhin vs Lucian [ ADC ] Korea Challenger Patch 25.13
   rankClaim: Challenger
@@ -71,6 +93,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-27
 - videoId: wJKX_VHbp0U
   title: T1 Gumayusi Jhin vs Lucian [ ADC ] Korea Challenger Patch 25.12
   rankClaim: Challenger
@@ -79,6 +102,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-24
 - videoId: reVfSsYgkGs
   title: "T1 Gumayusi Jhin vs Lucian [ ADC ] Rank #8 Korea Challenger Patch 25.9"
   rankClaim: Challenger
@@ -87,3 +111,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-30

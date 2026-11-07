@@ -5,3 +5,65 @@
   patch: "26.5"
   durationSec: 1919
   region: EUW
+  uploaded: 2026-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: Take down The Turret
+      kind: tower
+    - at: 26:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:32
+      label: Take down The Turret
+      kind: tower
+    - at: 28:48
+      label: Take down The Inhibitor
+    - at: 29:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:48
+      label: End credit

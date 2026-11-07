@@ -60,6 +60,7 @@
   patch: "26.19"
   durationSec: 1820
   region: KR
+  uploaded: 2026-09-25
 - videoId: Y4bHZI4djTM
   title: Xayah ADC vs Kai'Sa (Deft) - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
@@ -67,12 +68,22 @@
   durationSec: 1551
   region: KR
   player: Deft
+  uploaded: 2026-09-10
 - videoId: 693U0p1UPLE
   title: Xayah ADC vs Kai'Sa - KR Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1670
   region: KR
+  uploaded: 2026-08-30
+- videoId: wcdxZ407q_o
+  title: "Doggo : His Xayah is so Good in TeamFight - Engsub ( vs Kai'sa )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 904
+  patchEstimated: true
+  uploaded: 2026-08-26
+  format: stream
 - videoId: BNQWsDIHvuk
   title: HLE Gumayusi Xayah vs Kai'Sa [ ADC ] Patch 26.16 Korea Challenger 2504 LP
   rankClaim: Challenger
@@ -82,6 +93,15 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-08-13
+- videoId: uR2ESs7vqHg
+  title: "Gumayusi : His Xayah is a Freaky Animal ( vs Kai'sa )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 764
+  patchEstimated: true
+  player: Gumayusi
+  uploaded: 2026-08-13
+  format: stream
 - videoId: ojgdvVPtwwc
   title: (AHQ Doggo) Xayah ADC vs Kai'Sa - KR Master Patch 26.15
   rankClaim: Master
@@ -89,6 +109,7 @@
   durationSec: 1869
   region: KR
   player: AHQ Doggo
+  uploaded: 2026-08-14
 - videoId: IzvDJ3pY2A0
   title: (OLE Flakked) Xayah ADC vs Kai'Sa - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -96,42 +117,113 @@
   durationSec: 1413
   region: EUW
   player: OLE Flakked
+  uploaded: 2026-06-17
 - videoId: gQvgSBQ96JY
   title: Xayah ADC vs Kai'Sa - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1529
   region: KR
+  uploaded: 2026-05-15
 - videoId: xwlyk0V-fTM
   title: Xayah ADC vs Kai'Sa - EUW Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1532
   region: EUW
+  uploaded: 2026-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:41
+      label: Take down The Turret
+      kind: tower
+    - at: 15:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:16
+      label: Take down The Turret
+      kind: tower
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:31
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:54
+      label: Take down The Turret
+      kind: tower
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:40
+      label: Take down The Turret
+      kind: tower
+    - at: 24:52
+      label: Take down The Inhibitor
+    - at: 25:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:21
+      label: End credit
 - videoId: 6kK6_PKa-_I
   title: Xayah ADC vs Kai'Sa - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1618
   region: EUW
+  uploaded: 2026-03-17
 - videoId: twWbyxqJaSI
   title: Xayah ADC vs Kai'Sa - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1702
   region: KR
+  uploaded: 2026-03-08
 - videoId: x4BxWlmBfQk
   title: Xayah ADC vs Kai'Sa - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1626
   region: KR
+  uploaded: 2026-03-06
 - videoId: ztrAOddSM1M
   title: Xayah ADC vs Kai'Sa - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1519
   region: EUW
+  uploaded: 2026-02-06
 - videoId: HBavnBNei0s
   title: DK Smash Xayah vs Kai'Sa [ ADC ] Korea Challenger 1824 LP | Patch 25.24
   rankClaim: Challenger
@@ -140,12 +232,7 @@
   region: KR
   player: Smash
   team: DK
-- videoId: aOrMiQq3q9Y
-  title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.23
-  rankClaim: Grandmaster
-  patch: "25.23"
-  durationSec: 1628
-  region: KR
+  uploaded: 2025-12-31
 - videoId: c6EZIVvdc04
   title: DK Smash Xayah vs Kai'Sa [ ADC ] Korea Challenger 1252 LP | Patch 25.23
   rankClaim: Challenger
@@ -154,24 +241,28 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2025-11-29
+- videoId: aOrMiQq3q9Y
+  title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1628
+  region: KR
+  uploaded: 2025-11-26
 - videoId: 3DyBdEQfQQg
   title: Xayah ADC vs Kai'Sa - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1460
   region: KR
+  uploaded: 2025-11-13
 - videoId: cJtQ-WdYkjU
   title: Xayah ADC vs Kai'Sa - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1726
   region: KR
-- videoId: xD2xfMszats
-  title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.19
-  rankClaim: Grandmaster
-  patch: "25.19"
-  durationSec: 1751
-  region: KR
+  uploaded: 2025-10-28
 - videoId: oECAqqP1v0c
   title: T1 Gumayusi Xayah vs Kai'Sa [ ADC ] Korea Challenger Patch 25.19
   rankClaim: Challenger
@@ -180,11 +271,20 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-10-06
+- videoId: xD2xfMszats
+  title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.19
+  rankClaim: Grandmaster
+  patch: "25.19"
+  durationSec: 1751
+  region: KR
+  uploaded: 2025-09-30
 - videoId: 80bnLydjsKk
   title: Xayah ADC vs Kai'Sa - VN Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 2059
+  uploaded: 2025-09-10
 - videoId: 2VH9Tgaha7A
   title: T1 Gumayusi Xayah vs Kaisa [ ADC ] Patch 25.17 Korea Grandmaster
   rankClaim: Grandmaster
@@ -193,30 +293,28 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-09-06
 - videoId: RHlVo81F2I8
   title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1930
   region: KR
+  uploaded: 2025-08-16
 - videoId: CBiZ-CJw2dI
   title: Xayah vs Kai'Sa ADC - KR Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1651
   region: KR
+  uploaded: 2025-08-15
 - videoId: Vo1tiB2wGec
   title: Xayah vs Kai'Sa ADC - KR Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1636
   region: KR
-- videoId: XdWhv5H3Ic4
-  title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.14
-  rankClaim: Grandmaster
-  patch: "25.14"
-  durationSec: 1532
-  region: KR
+  uploaded: 2025-08-09
 - videoId: iMrnZOP3Cwg
   title: T1 Gumayusi Xayah vs Kaisa [ ADC ] Korea Master Patch 25.14
   rankClaim: Master
@@ -225,12 +323,21 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-28
+- videoId: XdWhv5H3Ic4
+  title: Xayah ADC vs Kai'Sa - KR Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 1532
+  region: KR
+  uploaded: 2025-07-20
 - videoId: PMyv5zEytME
   title: Xayah ADC vs Kai'Sa - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1576
   region: KR
+  uploaded: 2025-05-04
 - videoId: c46AQvI0P5Q
   title: Xayah vs Kaisa ADC [ Gen.G Ruler ] Patch 25.8 Korea Challenger ✅
   rankClaim: Challenger
@@ -239,29 +346,34 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-04-26
 - videoId: np4gdHNPoqs
   title: Xayah ADC vs Kai'Sa - VN Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 2039
+  uploaded: 2025-03-23
 - videoId: d3z9KxKJ2Rk
   title: Xayah vs Kai'Sa ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2116
   region: KR
+  uploaded: 2025-03-14
 - videoId: i470ke2g7RQ
   title: Xayah ADC vs Kai'Sa - EUW Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1456
   region: EUW
+  uploaded: 2025-03-07
 - videoId: dh8hssvUikg
   title: Xayah vs Kai'Sa ADC - KR Grandmaster - Patch 25.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1740
   region: KR
+  uploaded: 2025-03-03
 - videoId: E8OF9uGMjzE
   title: "T1 Smash Xayah ADC vs Kaisa - Rank #5 Korea Challenger Patch 25.4 ✅"
   rankClaim: Challenger
@@ -270,3 +382,4 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-03-01

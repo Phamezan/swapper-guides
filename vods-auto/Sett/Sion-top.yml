@@ -5,15 +5,82 @@
   patch: "26.6"
   durationSec: 1777
   region: EUW
+  uploaded: 2026-03-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Take down The Turret
+      kind: tower
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:12
+      label: Take down The Turret
+      kind: tower
+    - at: 24:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Take down The Turret
+      kind: tower
+    - at: 27:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:46
+      label: Take down The Inhibitor
+    - at: 28:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:02
+      label: Take down The Turret
+      kind: tower
+    - at: 29:26
+      label: End credit
 - videoId: ZKgI6gmaB2A
   title: Sett Top vs Sion - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1540
   region: KR
+  uploaded: 2025-10-13
 - videoId: diLoHKaDQSM
   title: Sett Top vs Sion - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1809
   region: KR
+  uploaded: 2025-06-04

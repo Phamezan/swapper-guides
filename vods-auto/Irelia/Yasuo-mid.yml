@@ -8,15 +8,26 @@
   player: Baicaiovo
   uploaded: 2026-07-07
   format: stream
+- videoId: aWqcUmxzbUM
+  title: "Rank 1 Irelia : This Guy is CRUSHING Yasuo on CN Super Server"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1237
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-05-25
+  format: stream
 - videoId: yDs9c3BrsWE
   title: Irelia vs Yasuo Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 1591
   region: KR
+  uploaded: 2025-06-26
 - videoId: 5-AJyFrpRsE
   title: Irelia vs Yasuo Mid - KR Grandmaster - Patch 15.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1640
   region: KR
+  uploaded: 2025-02-21

@@ -5,9 +5,51 @@
   patch: "25.24"
   durationSec: 1508
   region: NA
+  uploaded: 2026-01-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:23
+      label: Take down The Turret
+      kind: tower
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:18
+      label: Take down The Turret
+      kind: tower
+    - at: 19:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:06
+      label: Take down The Inhibitor
+    - at: 24:57
+      label: End credit
 - videoId: mlnRvK_Ka_o
   title: Kennen Mid vs LeBlanc - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1628
   region: EUW
+  uploaded: 2025-11-05

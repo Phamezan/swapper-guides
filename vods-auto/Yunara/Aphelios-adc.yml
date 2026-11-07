@@ -149,6 +149,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-03-07
 - videoId: -X1llTr8uFE
   title: T1 Peyz Yunara ADC vs Aphelios - Patch 26.4 Korea Challenger 2076 LP
   rankClaim: Challenger
@@ -157,6 +158,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-21
 - videoId: POoKnBy5WqQ
   title: Peyz Yunara vs Aphelios ADC - KR Challenger - Patch 16.03 Season 16
   rankClaim: Challenger
@@ -164,6 +166,7 @@
   durationSec: 1476
   region: KR
   player: Peyz
+  uploaded: 2026-02-12
 - videoId: gIOnkDjV4x8
   title: T1 Peyz Yunara vs Aphelios [ ADC ] Korea Challenger 1808 LP | Patch 26.3
   rankClaim: Challenger
@@ -172,6 +175,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-08
 - videoId: mVGWGkErpLo
   title: HLE Gumayusi Yunara vs Aphelios [ ADC ] Patch 26.2 Ranked Korea
   rankClaim: Master+
@@ -180,6 +184,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-02-03
 - videoId: HhtagWBMWmM
   title: T1 Peyz Yunara vs Aphelios [ ADC ] Korea Challenger 1569 LP | Patch 26.2
   rankClaim: Challenger
@@ -188,12 +193,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-31
 - videoId: r8GeDOnq6Es
   title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 2011
   region: KR
+  uploaded: 2026-01-05
 - videoId: V-IMoKxKUF0
   title: T1 Peyz Yunara vs Aphelios ADC - KR Grandmaster - Patch 25.24 Season 15
   rankClaim: Grandmaster
@@ -202,18 +209,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: Ywx7H7UR2mg
-  title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.24 Season 15
-  rankClaim: Challenger
-  patch: "25.24"
-  durationSec: 2051
-  region: KR
-- videoId: IEYTOMGF-Fc
-  title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.24 Season 15
-  rankClaim: Challenger
-  patch: "25.24"
-  durationSec: 1636
-  region: KR
+  uploaded: 2025-12-29
 - videoId: TBYaEPUFuvc
   title: T1 Peyz Yunara vs Aphelios [ ADC ] Korea Challenger Patch 25.24
   rankClaim: Challenger
@@ -222,12 +218,28 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2025-12-27
+- videoId: Ywx7H7UR2mg
+  title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 2051
+  region: KR
+  uploaded: 2025-12-26
+- videoId: IEYTOMGF-Fc
+  title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1636
+  region: KR
+  uploaded: 2025-12-23
 - videoId: rzZh_GQyYuI
   title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1536
   region: KR
+  uploaded: 2025-12-01
 - videoId: _x6W6dvfPHQ
   title: Yunara vs Aphelios ADC [ Gen.G Ruler ] Patch 25.17 Korea Master ✅
   rankClaim: Master
@@ -236,6 +248,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-08-27
 - videoId: N_HCTs-Y_sE
   title: Yunara vs Aphelios ADC [ DRX Teddy ] Patch 25.16 Korea Challenger
   rankClaim: Challenger
@@ -244,6 +257,7 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-08-24
 - videoId: 3VZ9shuDwqY
   title: T1 Gumayusi Yunara vs Aphelios [ ADC ] Patch 25.16 Korea Master
   rankClaim: Master
@@ -252,38 +266,45 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-15
 - videoId: 0SWMRltOvWc
   title: Yunara vs Aphelios ADC - Grandmaster - Patch 25.14 Season 15
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 2080
+  uploaded: 2025-07-31
 - videoId: 1JWjTVGikKE
   title: Yunara vs Aphelios ADC - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1216
   region: KR
+  uploaded: 2025-07-24
 - videoId: aW-tBWj5Dd4
   title: Yunara vs Aphelios  ADC - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1606
   region: KR
+  uploaded: 2025-07-19
 - videoId: j1iW8jY5AOY
   title: Yunara vs Aphelios ADC - KR Master - Patch 25.14 Season 15
   rankClaim: Master
   patch: "25.14"
   durationSec: 1591
   region: KR
+  uploaded: 2025-07-19
 - videoId: 0gecQNWFQUA
   title: Yunara vs Aphelios ADC - NA Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1596
   region: NA
+  uploaded: 2025-07-18
 - videoId: m0U18WlGmlU
   title: Yunara vs Aphelios ADC - NA Grandmaster - Patch 25.14 Season 15
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 2041
   region: NA
+  uploaded: 2025-07-18

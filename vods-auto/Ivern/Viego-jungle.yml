@@ -5,15 +5,87 @@
   patch: "26.7"
   durationSec: 1889
   region: KR
+  uploaded: 2026-04-10
 - videoId: nOU4VCD-9tk
   title: Ivern Jungle vs Viego - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1596
   region: KR
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:21
+      label: Hunt The Atakhan
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Take down The Turret
+      kind: tower
+    - at: 21:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Take down The Turret
+      kind: tower
+    - at: 24:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:56
+      label: Take down The Turret
+      kind: tower
+    - at: 25:10
+      label: Take down The Inhibitor
+    - at: 25:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:25
+      label: End credit
 - videoId: Vm0wCjfQDa8
   title: Ivern Jungle vs Viego - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1870
   region: KR
+  uploaded: 2025-11-28

@@ -5,9 +5,125 @@
   patch: "26.7"
   durationSec: 1820
   region: KR
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Take down The Turret
+      kind: tower
+    - at: 27:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:09
+      label: End credit
 - videoId: EqDZxMXGS1k
   title: Sejuani Jungle vs Sylas - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1575
   region: KR
+  uploaded: 2025-12-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:58
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:39
+      label: Take down The Turret
+      kind: tower
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Hunt The Atakhan
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:04
+      label: End credit

@@ -5,6 +5,60 @@
   patch: "26.4"
   durationSec: 1627
   region: KR
+  uploaded: 2026-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:00
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 13:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Take down The Turret
+      kind: tower
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Take down The Turret
+      kind: tower
+    - at: 23:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:43
+      label: Take down The Turret
+      kind: tower
+    - at: 26:56
+      label: End credit
 - videoId: 9lV-EIkLy7k
   title: T1 Peyz Corki vs Ezreal [ ADC ] Patch 26.2 Ranked Korea
   rankClaim: Master+
@@ -13,6 +67,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-01
 - videoId: SB34c9WRo8M
   title: Corki vs Ezreal ADC [ TripleKill ] Korea Challenger 1318 LP | Patch 25.22 ✅
   rankClaim: Challenger
@@ -20,12 +75,14 @@
   durationSec: 1640
   region: KR
   player: TripleKill
+  uploaded: 2025-11-16
 - videoId: gw8NZ5RXhPQ
   title: Corki vs Ezreal ADC - KR Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1771
   region: KR
+  uploaded: 2025-08-21
 - videoId: kQv-hsdimxY
   title: T1 Smash Corki vs Ezreal [ ADC ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -34,12 +91,14 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-04-09
 - videoId: QuXA_92YpZA
   title: Corki ADC vs Ezreal - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1969
   region: KR
+  uploaded: 2025-03-08
 - videoId: seDlbp5s37w
   title: T1 Gumayusi Corki vs Ezreal [ ADC ] Patch 25.5 Korea Challenger
   rankClaim: Challenger
@@ -48,6 +107,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-06
 - videoId: 2D5Mbpb-nWg
   title: T1 Gumayusi Corki vs Ezreal [ ADC ] Patch 25.1 Korea Master✅
   rankClaim: Master
@@ -56,3 +116,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-13

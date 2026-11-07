@@ -5,3 +5,72 @@
   patch: "25.7"
   durationSec: 1850
   region: NA
+  uploaded: 2025-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Take down The Turret
+      kind: tower
+    - at: 24:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:29
+      label: End credit

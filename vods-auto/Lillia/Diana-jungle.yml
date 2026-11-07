@@ -13,15 +13,71 @@
   patch: "26.1"
   durationSec: 1461
   region: KR
+  uploaded: 2026-01-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Take down The Turret
+      kind: tower
+    - at: 24:10
+      label: End credit
 - videoId: m_5A9WJTBh0
   title: Lillia Jungle vs Diana - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1501
   region: NA
+  uploaded: 2026-01-03
 - videoId: cGhK9iPWN1M
   title: Lillia Jungle vs Diana - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1739
   region: KR
+  uploaded: 2025-10-29

@@ -5,15 +5,56 @@
   patch: "26.8"
   durationSec: 1666
   region: KR
+  uploaded: 2026-04-29
 - videoId: 9gFC0ZcWxlI
   title: Rammus Support vs Thresh - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1708
   region: KR
+  uploaded: 2025-09-25
 - videoId: tQxZWZjLw1E
   title: Rammus Support vs Thresh - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1590
   region: KR
+  uploaded: 2025-04-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Take down The Turret
+      kind: tower
+    - at: 18:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: End credit

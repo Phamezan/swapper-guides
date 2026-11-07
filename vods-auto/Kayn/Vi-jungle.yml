@@ -5,12 +5,14 @@
   patch: "25.14"
   durationSec: 1721
   region: KR
+  uploaded: 2025-07-24
 - videoId: vWN3xJuaB_8
   title: Kayn Jungle vs Vi - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1443
   region: KR
+  uploaded: 2025-06-04
 - videoId: KTw1_z_KS2o
   title: Kayn vs Vi Jungle [ TripleKill ] Patch 25.2 Korea Master ✅
   rankClaim: Master
@@ -18,3 +20,4 @@
   durationSec: 1521
   region: KR
   player: TripleKill
+  uploaded: 2025-02-02

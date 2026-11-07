@@ -5,12 +5,7 @@
   patch: "25.9"
   durationSec: 1476
   region: KR
-- videoId: rgEiYNLuP7c
-  title: Viego Jungle vs Brand - KR Grandmaster Patch 25.08
-  rankClaim: Grandmaster
-  patch: "25.8"
-  durationSec: 1891
-  region: KR
+  uploaded: 2025-05-02
 - videoId: R3t2LUTHWgo
   title: T1 Oner Viego vs Brand [ Jungle ] Patch 25.8 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -19,3 +14,11 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-04-23
+- videoId: rgEiYNLuP7c
+  title: Viego Jungle vs Brand - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1891
+  region: KR
+  uploaded: 2025-04-19

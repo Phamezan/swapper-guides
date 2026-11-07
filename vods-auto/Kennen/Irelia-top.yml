@@ -5,15 +5,88 @@
   patch: "26.7"
   durationSec: 1653
   region: KR
+  uploaded: 2026-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:19
+      label: Take down The Turret
+      kind: tower
+    - at: 14:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:48
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:44
+      label: Take down The Inhibitor
+    - at: 27:03
+      label: Take down The Turret
+      kind: tower
+    - at: 27:22
+      label: End credit
 - videoId: ckLY2OY-F6k
   title: Kennen Top vs Irelia - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1573
   region: KR
+  uploaded: 2026-03-23
 - videoId: AjQopKv9kcE
   title: Kennen Top vs Irelia - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1984
   region: KR
+  uploaded: 2025-09-18

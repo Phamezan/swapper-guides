@@ -16,6 +16,7 @@
   region: KR
   player: GALA
   team: JDG
+  uploaded: 2026-06-28
 - videoId: M9nS6sPOI80
   title: T1 Peyz Kai'Sa vs Tristana [ ADC ] Korea Challenger 1978 LP | Patch 26.6
   rankClaim: Challenger
@@ -24,18 +25,85 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-25
 - videoId: myvd-7b8TbQ
   title: Kai'Sa ADC vs Tristana - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1618
   region: KR
+  uploaded: 2025-12-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Take down The Turret
+      kind: tower
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:36
+      label: Take down The Turret
+      kind: tower
+    - at: 20:55
+      label: Take down The Inhibitor
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:38
+      label: Take down The Turret
+      kind: tower
+    - at: 26:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: End credit
 - videoId: 20kEQqDZCqc
   title: Kai'Sa vs Tristana ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1921
   region: KR
+  uploaded: 2025-12-22
 - videoId: GTcEBgIrh6E
   title: T1 Gumayusi Kaisa vs Tristana [ ADC ] Korea Master Patch 25.9
   rankClaim: Master
@@ -44,12 +112,7 @@
   region: KR
   player: Gumayusi
   team: T1
-- videoId: bfXZJRDciis
-  title: Kai'Sa ADC vs Tristana - KR Challenger Patch 25.07
-  rankClaim: Challenger
-  patch: "25.7"
-  durationSec: 1483
-  region: KR
+  uploaded: 2025-05-04
 - videoId: isQviUWzroA
   title: Kaisa vs Tristana ADC [ Peyz ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -57,6 +120,7 @@
   durationSec: 1085
   region: KR
   player: Peyz
+  uploaded: 2025-04-11
 - videoId: O9aE3bupbzs
   title: Kaisa vs Tristana ADC [ Deft ] Korea Grandmaster Patch 25.7 ✅
   rankClaim: Grandmaster
@@ -64,6 +128,14 @@
   durationSec: 1137
   region: KR
   player: Deft
+  uploaded: 2025-04-07
+- videoId: bfXZJRDciis
+  title: Kai'Sa ADC vs Tristana - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1483
+  region: KR
+  uploaded: 2025-04-06
 - videoId: HftrytKeGUs
   title: Kaisa vs Tristana ADC [ Gen.G Ruler ] Patch 25.5 Korea Challenger ✅
   rankClaim: Challenger
@@ -72,3 +144,4 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-03-07

@@ -16,6 +16,7 @@
   region: KR
   player: Calix
   team: NS
+  uploaded: 2026-08-24
 - videoId: _u9aRWZnONU
   title: (LNG BuLLDoG) Ryze Mid vs Syndra - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -24,9 +25,96 @@
   region: KR
   player: BuLLDoG
   team: LNG
+  uploaded: 2026-06-27
+  result: L
+  moments:
+    - at: 6:16
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:05
+      label: First Blood — Ryze kills Poppy
+      kind: kill
+    - at: 11:49
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 17:15
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 18:42
+      label: Qiyana picks off Syndra
+    - at: 20:35
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:49
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 25:10
+      label: Ryze kills Sivir
+      kind: kill
+    - at: 25:34
+      label: Red takes Baron
+      kind: baron
+    - at: 27:00
+      label: Ryze Double Kill
+      kind: kill
+    - at: 27:12
+      label: Mid Inhibitor falls (Blue)
 - videoId: d3OIqTC4XL4
   title: Ryze Mid vs Syndra - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1488
   region: EUW
+  uploaded: 2025-12-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:57
+      label: Take down The Turret
+      kind: tower
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Take down The Turret
+      kind: tower
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:53
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Take down The Turret
+      kind: tower
+    - at: 22:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:05
+      label: Take down The Inhibitor
+    - at: 24:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:37
+      label: End credit

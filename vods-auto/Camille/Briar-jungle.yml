@@ -5,3 +5,52 @@
   patch: "26.9"
   durationSec: 1452
   region: KR
+  uploaded: 2026-05-11
+  result: L
+  moments:
+    - at: 0:10
+      label: First Blood — Camille kills Ezreal
+      kind: kill
+    - at: 3:11
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 4:54
+      label: Nautilus kills Briar
+      kind: kill
+    - at: 7:12
+      label: Camille picks off Yone
+    - at: 7:53
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:10
+      label: Camille catches Heimerdinger
+    - at: 9:37
+      label: Camille outduels Pantheon
+    - at: 11:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:02
+      label: Camille picks off Yone
+    - at: 15:13
+      label: Smolder picks off Heimerdinger
+    - at: 15:27
+      label: Smolder Triple Kill
+      kind: kill
+    - at: 15:51
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:00
+      label: Camille picks off Yone
+    - at: 18:44
+      label: Camille kills Heimerdinger
+      kind: kill
+    - at: 20:03
+      label: Twisted Fate picks off Briar
+    - at: 21:28
+      label: Camille eliminates Ezreal
+    - at: 22:00
+      label: Red takes Baron
+      kind: baron
+    - at: 23:01
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon

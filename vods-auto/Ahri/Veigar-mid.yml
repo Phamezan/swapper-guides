@@ -133,8 +133,18 @@
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-09-21
+- videoId: bx0WoSwDXPs
+  title: "MID.GG: [ Assassadin ] Ahri MID vs Veigar | NA MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.4"
+  durationSec: 1629
+  region: NA
+  patchEstimated: true
+  player: Assassadin
+  uploaded: 2026-02-20
 - videoId: d927i6HXeL0
   title: Ahri Mid vs Veigar - BR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1450
+  uploaded: 2025-08-31

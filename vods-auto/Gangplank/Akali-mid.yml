@@ -5,9 +5,79 @@
   patch: "25.12"
   durationSec: 1871
   region: KR
+  uploaded: 2025-06-20
 - videoId: hbW8CyPdqU8
   title: Gangplank Mid vs Akali - EUW Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1829
   region: EUW
+  uploaded: 2025-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:32
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Take down The Turret
+      kind: tower
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Take down The Turret
+      kind: tower
+    - at: 25:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:38
+      label: Take down The Turret
+      kind: tower
+    - at: 29:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:55
+      label: Take down The Turret
+      kind: tower
+    - at: 30:08
+      label: End credit

@@ -5,21 +5,71 @@
   patch: "25.24"
   durationSec: 1449
   region: EUW
+  uploaded: 2026-01-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:21
+      label: Take down The Turret
+      kind: tower
+    - at: 22:22
+      label: Take down The Turret
+      kind: tower
+    - at: 22:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:05
+      label: Take down The Turret
+      kind: tower
+    - at: 23:16
+      label: Take down The Inhibitor
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 23:58
+      label: End credit
 - videoId: 4e0SD4Hs9bg
   title: Rell Support vs Poppy - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1762
   region: KR
+  uploaded: 2025-08-03
 - videoId: HB5D4puHBV0
   title: Rell Support vs Poppy - KR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1632
   region: KR
+  uploaded: 2025-06-14
 - videoId: fyCfQZr5lJo
   title: Rell Support vs Poppy - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1485
   region: KR
+  uploaded: 2025-03-09

@@ -5,12 +5,14 @@
   patch: "26.1"
   durationSec: 1482
   region: KR
+  uploaded: 2026-01-10
 - videoId: W72ay40alIM
   title: Miss Fortune ADC vs Ashe - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1532
   region: KR
+  uploaded: 2025-12-21
 - videoId: qfhcPkqno-w
   title: Miss Fortune vs Ashe ADC [ Teddy ] Patch 25.24 Korea Grandmaster
   rankClaim: Grandmaster
@@ -18,18 +20,21 @@
   durationSec: 1349
   region: KR
   player: Teddy
+  uploaded: 2025-12-09
 - videoId: oLznOObOf4g
   title: Miss Fortune ADC vs Ashe - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1693
   region: KR
+  uploaded: 2025-10-27
 - videoId: 7ckdf-oNT_w
   title: Miss Fortune ADC vs Ashe - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 2111
   region: KR
+  uploaded: 2025-10-10
 - videoId: cxWVXAgk3W0
   title: T1 Gumayusi Miss Fortune vs Ashe [ ADC ] Patch 25.1 Korea Master ✅
   rankClaim: Master
@@ -38,3 +43,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-13

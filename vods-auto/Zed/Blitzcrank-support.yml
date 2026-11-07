@@ -110,21 +110,130 @@
   patch: "26.5"
   durationSec: 1506
   region: KR
+  uploaded: 2026-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:29
+      label: Take down The Turret
+      kind: tower
+    - at: 16:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: End credit
 - videoId: nzwK6o7d_SI
   title: Zed Support vs Blitzcrank - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1473
   region: KR
+  uploaded: 2025-11-07
 - videoId: _RXwF9OBcC4
   title: Zed Support vs Blitzcrank - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1684
   region: KR
+  uploaded: 2025-06-13
 - videoId: FGsAzkI2poc
   title: Zed Support vs Blitzcrank - NA Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1852
   region: NA
+  uploaded: 2025-04-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Take down The Turret
+      kind: tower
+    - at: 25:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:41
+      label: Take down The Inhibitor
+    - at: 30:31
+      label: End credit

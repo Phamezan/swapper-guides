@@ -5,3 +5,83 @@
   patch: "26.7"
   durationSec: 1783
   region: KR
+  uploaded: 2026-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Take down The Turret
+      kind: tower
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:15
+      label: Take down The Turret
+      kind: tower
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Take down The Inhibitor
+    - at: 23:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:07
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:32
+      label: End credit

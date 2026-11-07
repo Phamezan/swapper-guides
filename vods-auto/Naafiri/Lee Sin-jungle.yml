@@ -7,12 +7,14 @@
   region: EUW
   player: Shanks
   team: AL
+  uploaded: 2026-07-18
 - videoId: oqiuCqGvWX8
   title: (LEV Booki) Naafiri Jungle vs Lee Sin (PAIN CarioK) - BR Challenger Patch 26.12
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1549
   player: LEV Booki
+  uploaded: 2026-06-13
 - videoId: bHyVlYC-j0c
   title: (T1 Oner) Naafiri Jungle vs Lee Sin - KR Challenger Patch 26.11
   rankClaim: Challenger
@@ -21,6 +23,7 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-06-09
 - videoId: ib_XQeQuBes
   title: (BLG ON) Naafiri Jungle vs Lee Sin - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -29,30 +32,35 @@
   region: KR
   player: ON
   team: BLG
+  uploaded: 2026-05-30
 - videoId: qGzWGQJ39E0
   title: Naafiri Jungle vs Lee Sin - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1538
   region: KR
+  uploaded: 2025-11-28
 - videoId: XT4NFhQ227U
   title: Naafiri vs Lee Sin Jungle - KR Challenger - Patch 25.17 Season 15
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1681
   region: KR
+  uploaded: 2025-09-04
 - videoId: C9SM7h1KVoI
   title: Naafiri vs Lee Sin Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1831
   region: KR
+  uploaded: 2025-06-24
 - videoId: iMSnGd0YTpg
   title: Naafiri vs Lee Sin Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1351
   region: KR
+  uploaded: 2025-05-24
 - videoId: nQje1biW6Pc
   title: Kanavi Naafiri vs Lee Sin Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
@@ -60,3 +68,4 @@
   durationSec: 1980
   region: KR
   player: Kanavi
+  uploaded: 2025-03-21

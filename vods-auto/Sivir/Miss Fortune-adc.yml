@@ -5,12 +5,14 @@
   patch: "26.2"
   durationSec: 1587
   region: KR
+  uploaded: 2026-01-26
 - videoId: jApxmJxdIB4
   title: Sivir ADC vs Miss Fortune - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1588
   region: KR
+  uploaded: 2025-09-13
 - videoId: IViCi3gKPuY
   title: T1 Gumayusi Sivir vs Miss Fortune [ ADC ] Patch 25.14 Ranked Korea
   rankClaim: Master+
@@ -19,3 +21,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-28

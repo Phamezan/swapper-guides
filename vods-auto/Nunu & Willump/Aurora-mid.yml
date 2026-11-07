@@ -5,15 +5,68 @@
   patch: "26.6"
   durationSec: 1651
   region: KR
+  uploaded: 2026-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Take down The Turret
+      kind: tower
+    - at: 26:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:20
+      label: End credit
 - videoId: Eq-Y8deIKmc
   title: Nunu & Willump Mid vs Aurora - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1881
   region: KR
+  uploaded: 2025-10-28
 - videoId: SE7h6zQYggg
   title: Nunu & Willump Mid vs Aurora - NA Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1813
   region: NA
+  uploaded: 2025-07-28

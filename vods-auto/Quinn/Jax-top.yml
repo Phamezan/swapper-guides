@@ -5,9 +5,60 @@
   patch: "26.19"
   durationSec: 1764
   region: KR
+  uploaded: 2026-10-03
 - videoId: UiRt4U9nRC8
   title: Quinn Top vs Jax - EUW Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1564
   region: EUW
+  uploaded: 2026-01-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:23
+      label: Get a Triple Kill
+      kind: kill
+    - at: 13:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:18
+      label: Take down The Turret
+      kind: tower
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Take down The Turret
+      kind: tower
+    - at: 22:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:17
+      label: Take down The Inhibitor
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Take down The Turret
+      kind: tower
+    - at: 25:53
+      label: End credit

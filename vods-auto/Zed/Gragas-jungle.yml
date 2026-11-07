@@ -166,8 +166,73 @@
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1709
+  uploaded: 2025-07-04
 - videoId: CZMUU_ng1R4
   title: Zed Jungle vs Gragas - VN Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1799
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:51
+      label: Hunt The Atakhan
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:03
+      label: Take down The Turret
+      kind: tower
+    - at: 29:20
+      label: Take down The Inhibitor
+    - at: 29:38
+      label: End credit

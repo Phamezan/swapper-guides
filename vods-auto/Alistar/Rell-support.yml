@@ -57,6 +57,7 @@
   durationSec: 1452
   region: KR
   player: OMG re0
+  uploaded: 2026-08-29
 - videoId: z6RiF_rkYUM
   title: (G2 Labrov) Alistar Support vs Rell - EUW Challenger Patch 26.10
   rankClaim: Challenger
@@ -65,45 +66,138 @@
   region: EUW
   player: Labrov
   team: G2
+  uploaded: 2026-05-22
 - videoId: nUIiw7hYAyQ
   title: Alistar Support vs Rell - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1517
   region: KR
+  uploaded: 2026-05-07
 - videoId: DYj51ecjLNs
   title: Alistar Support vs Rell - EUW Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1676
   region: EUW
+  uploaded: 2026-04-30
 - videoId: OUeBHp0W550
   title: Alistar Support vs Rell - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1722
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Take down The Turret
+      kind: tower
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Take down The Turret
+      kind: tower
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:04
+      label: Take down The Turret
+      kind: tower
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:31
+      label: End credit
 - videoId: R7foDUWX2xI
   title: Alistar Support vs Rell - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1458
   region: KR
+  uploaded: 2025-08-16
 - videoId: qL_6Donuwd0
   title: Alistar Support vs Rell - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1968
   region: KR
+  uploaded: 2025-06-28
 - videoId: 6uzPO3bMEFA
   title: Alistar Support vs Rell - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1714
   region: KR
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Take down The Turret
+      kind: tower
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:13
+      label: End credit
 - videoId: -23g8PLNYmg
   title: Alistar Support vs Rell - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2003
   region: KR
+  uploaded: 2025-02-24

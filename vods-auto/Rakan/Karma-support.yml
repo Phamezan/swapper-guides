@@ -5,15 +5,106 @@
   patch: "26.9"
   durationSec: 1551
   region: KR
+  uploaded: 2026-05-09
 - videoId: 6FvnOUbMOjY
   title: Rakan Support vs Karma - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1896
   region: KR
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:15
+      label: End credit
 - videoId: xhD5dKx7Olg
   title: Rakan Support vs Karma - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1568
   region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Take down The Turret
+      kind: tower
+    - at: 12:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: End credit

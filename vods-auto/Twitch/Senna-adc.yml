@@ -5,15 +5,126 @@
   patch: "26.5"
   durationSec: 1495
   region: NA
+  uploaded: 2026-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:42
+      label: Take down The Turret
+      kind: tower
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:50
+      label: Take down The Turret
+      kind: tower
+    - at: 19:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Take down The Turret
+      kind: tower
+    - at: 21:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:41
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Take down The Inhibitor
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 24:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: End credit
 - videoId: p_kFGepo_-0
   title: Twitch ADC vs Senna - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1436
   region: KR
+  uploaded: 2025-07-03
 - videoId: Tv1zxh5lYoQ
   title: Twitch ADC vs Senna - NA Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1914
   region: NA
+  uploaded: 2025-05-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:03
+      label: Get a Triple Kill
+      kind: kill
+    - at: 31:33
+      label: End credit

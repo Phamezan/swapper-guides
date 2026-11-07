@@ -115,26 +115,78 @@
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1453
+  uploaded: 2026-01-04
 - videoId: -Ej0RaFFarE
   title: Zed Mid vs Aurelion Sol - EUW Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1720
   region: EUW
+  uploaded: 2025-07-03
 - videoId: xKrQrBm9UpA
   title: Zed Mid vs Aurelion Sol - NA Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 2067
   region: NA
+  uploaded: 2025-06-08
+- videoId: oOe8PU0S8IY
+  title: Zed Mid vs Aurelion Sol - BR Grandmaster Patch 25.04
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1518
+  uploaded: 2025-03-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:56
+      label: Take down The Turret
+      kind: tower
+    - at: 16:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:57
+      label: End credit
 - videoId: IdOaCFzB1s4
   title: Zed vs Aurelion Sol Mid - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1710
   region: KR
-- videoId: oOe8PU0S8IY
-  title: Zed Mid vs Aurelion Sol - BR Grandmaster Patch 25.04
-  rankClaim: Grandmaster
-  patch: "25.4"
-  durationSec: 1518
+  uploaded: 2025-02-22

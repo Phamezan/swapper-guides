@@ -5,12 +5,51 @@
   patch: "26.17"
   durationSec: 1484
   region: KR
+  uploaded: 2026-09-03
+  result: W
+  moments:
+    - at: 4:03
+      label: First Blood — Hwei kills Ahri
+      kind: kill
+    - at: 5:38
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:22
+      label: Hwei takes down Ahri
+    - at: 11:07
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 11:30
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:50
+      label: Singed takes down Ahri
+    - at: 15:33
+      label: Hwei catches Ahri again
+    - at: 16:49
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 18:05
+      label: Lee Sin kills Mordekaiser
+      kind: kill
+    - at: 21:09
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:05
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 23:19
+      label: Lucian Double Kill
+      kind: kill
+    - at: 23:40
+      label: Mid Inhibitor falls (Blue)
 - videoId: 0PdqGvVAt3I
   title: Hwei Mid vs Ahri (HLE Cracker) - KR Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1484
   region: KR
+  uploaded: 2026-08-25
 - videoId: 4DdZ4j6lMSM
   title: Hwei vs Ahri Mid - EUW Master - Patch 16.08 Season 16
   rankClaim: Master

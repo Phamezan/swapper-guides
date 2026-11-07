@@ -5,3 +5,60 @@
   patch: "26.2"
   durationSec: 1573
   region: NA
+  uploaded: 2026-01-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: End credit

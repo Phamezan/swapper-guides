@@ -5,3 +5,51 @@
   patch: "26.18"
   durationSec: 1888
   region: KR
+  uploaded: 2026-09-18
+  result: W
+  moments:
+    - at: 6:05
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:36
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:18
+      label: First Blood — Viego kills Ekko
+      kind: kill
+    - at: 15:05
+      label: Viktor kills Corki
+      kind: kill
+    - at: 17:35
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:53
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:34
+      label: Viego takes down Talon
+    - at: 20:12
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 20:46
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:08
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 24:40
+      label: Jhin eliminates Talon
+    - at: 26:22
+      label: Jhin takes down Corki
+    - at: 26:49
+      label: Mid Inhibitor falls (Red)
+    - at: 28:17
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:42
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 30:10
+      label: Bot Inhibitor falls (Red)
+    - at: 30:27
+      label: Viego picks off Ekko

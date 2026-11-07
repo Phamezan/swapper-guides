@@ -53,3 +53,12 @@
     - at: 26:26
       label: Lee Sin kills Pantheon
       kind: kill
+- videoId: Ud_qlkRjCxg
+  title: "MID.GG: [ Eika ] Ahri MID vs Vel'Koz | EUW GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1871
+  region: EUW
+  patchEstimated: true
+  player: Eika
+  uploaded: 2026-02-14

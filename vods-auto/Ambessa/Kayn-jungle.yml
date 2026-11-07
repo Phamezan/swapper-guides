@@ -6,8 +6,87 @@
   durationSec: 1541
   region: EUW
   player: IJC Kaboom
+  uploaded: 2026-07-16
 - videoId: xj8pbVEIYyM
   title: Ambessa Jungle vs Kayn - TW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1751
+  uploaded: 2026-04-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:45
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:02
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:09
+      label: Take down The Turret
+      kind: tower
+    - at: 28:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:49
+      label: Take down The Turret
+      kind: tower
+    - at: 29:00
+      label: End credit

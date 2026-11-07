@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1858
   region: KR
+  uploaded: 2026-09-01
 - videoId: cW20jBpVb7U
   title: T1 Faker Ryze vs Yone [ MID ] Korea Challenger 1942 LP | Patch 26.9
   rankClaim: Challenger
@@ -22,9 +23,69 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-03-29
 - videoId: vhM0T9_Grg8
   title: Ryze Mid vs Yone - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1622
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Take down The Turret
+      kind: tower
+    - at: 16:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:55
+      label: Take down The Turret
+      kind: tower
+    - at: 17:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Take down The Turret
+      kind: tower
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Hunt The Atakhan
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:41
+      label: End credit

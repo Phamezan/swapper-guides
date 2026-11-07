@@ -23,12 +23,23 @@
   cam: true
   startSec: 0
   endSec: 1871
+- videoId: MgjZSZ6kaqU
+  title: KOREAN RUMBLE LOSES HIS MIND VS MY GANGPLANK
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1203
+  patchEstimated: true
+  player: Solarbacca
+  uploaded: 2026-06-24
+  format: stream
+  cam: true
 - videoId: z1-s6ajLx58
   title: Gangplank Top vs Rumble - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1577
   region: KR
+  uploaded: 2026-04-07
 - videoId: hrBFyhnXoLs
   title: HLE Zeus Gangplank vs Rumble [ TOP ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -37,15 +48,74 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2026-01-09
 - videoId: 198nKiY6oSU
   title: Gangplank Top vs Rumble - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1774
   region: KR
+  uploaded: 2025-12-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:40
+      label: Take down The Turret
+      kind: tower
+    - at: 13:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:26
+      label: Take down The Turret
+      kind: tower
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:01
+      label: Take down The Turret
+      kind: tower
+    - at: 29:23
+      label: End credit
 - videoId: RH4X7K3tWVM
   title: GangPlank vs Rumble Top - KR Master - Patch 25.12 Season 15
   rankClaim: Master
   patch: "25.12"
   durationSec: 2461
   region: KR
+  uploaded: 2025-06-16

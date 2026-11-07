@@ -5,12 +5,14 @@
   patch: "26.17"
   durationSec: 1684
   region: KR
+  uploaded: 2026-08-31
 - videoId: NTbAitKh1d0
   title: Nilah ADC vs Zeri - KR Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1584
   region: KR
+  uploaded: 2026-07-03
 - videoId: oEGCB5gmEfo
   title: Nilah vs Zeri [ ADC ] Korea Challenger 2232 LP | Patch 26.12 ✅
   rankClaim: Challenger
@@ -25,12 +27,14 @@
   durationSec: 1536
   region: KR
   player: SSG Tianzhen
+  uploaded: 2026-06-04
 - videoId: x66Ckyn34R0
   title: Nilah ADC vs Zeri (LR Crownie) - EUW Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1566
   region: EUW
+  uploaded: 2026-05-30
 - videoId: Up1gp9GH3Gk
   title: Nilah vs Zeri ADC - EUW Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
@@ -44,12 +48,72 @@
   patch: "26.7"
   durationSec: 1483
   region: KR
+  uploaded: 2026-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 18:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Take down The Turret
+      kind: tower
+    - at: 20:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Take down The Inhibitor
+    - at: 22:08
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:35
+      label: Take down The Turret
+      kind: tower
+    - at: 24:32
+      label: End credit
 - videoId: zmSH8VLi9u4
   title: Nilah vs Zeri ADC - KR Grandmaster - Patch 26.01 Season 16
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1421
   region: KR
+  uploaded: 2026-01-12
 - videoId: Pe-JMlZWmfU
   title: Nilah vs Zeri ADC [ JDG Peyz ] Patch 25.16 Korea Challenger ✅
   rankClaim: Challenger
@@ -58,15 +122,18 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-08-15
 - videoId: mfvrCuf0eGo
   title: Nilah ADC vs Zeri - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1538
   region: KR
+  uploaded: 2025-07-17
 - videoId: 0N-CDj5APVw
   title: Nilah vs Zeri ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1546
   region: KR
+  uploaded: 2025-07-01

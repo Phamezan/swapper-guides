@@ -5,9 +5,58 @@
   patch: "26.3"
   durationSec: 1582
   region: EUW
+  uploaded: 2026-02-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:30
+      label: Take down The Turret
+      kind: tower
+    - at: 25:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:11
+      label: End credit
 - videoId: PH_uqyw08So
   title: Volibear Jungle vs Brand - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 2139
   region: EUW
+  uploaded: 2025-04-25

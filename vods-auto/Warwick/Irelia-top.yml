@@ -5,15 +5,53 @@
   patch: "26.2"
   durationSec: 1546
   region: NA
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Take down The Turret
+      kind: tower
+    - at: 24:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: End credit
 - videoId: JJ5c0lX8YWE
   title: Warwick Top vs Irelia - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1825
   region: KR
+  uploaded: 2025-10-29
 - videoId: kEaqN_2D-8Y
   title: Warwick Top vs Irelia - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1549
   region: KR
+  uploaded: 2025-07-21

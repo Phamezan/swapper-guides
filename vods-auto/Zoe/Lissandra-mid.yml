@@ -5,6 +5,51 @@
   patch: "26.6"
   durationSec: 1446
   region: KR
+  uploaded: 2026-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:29
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: End credit
 - videoId: pYbEyBz7NKE
   title: T1 Faker Zoe vs Lissandra [ MID ] Korea Master Patch 26.2
   rankClaim: Master
@@ -13,3 +58,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-29

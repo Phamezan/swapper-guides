@@ -5,3 +5,51 @@
   patch: "25.5"
   durationSec: 1761
   region: KR
+  uploaded: 2025-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Take down The Turret
+      kind: tower
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:41
+      label: Take down The Turret
+      kind: tower
+    - at: 24:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Take down The Turret
+      kind: tower
+    - at: 29:00
+      label: End credit

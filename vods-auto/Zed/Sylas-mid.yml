@@ -738,47 +738,157 @@
       kind: kill
     - at: 26:35
       label: End credit
-- videoId: hBEXEEPhiKI
-  title: Zed Mid vs Sylas - KR Master Patch 26.04
-  rankClaim: Master
-  patch: "26.4"
-  durationSec: 1591
-  region: KR
 - videoId: 2WwTxuqQsz8
   title: Zed Mid vs Sylas - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1681
   region: KR
+  uploaded: 2026-02-27
+- videoId: hBEXEEPhiKI
+  title: Zed Mid vs Sylas - KR Master Patch 26.04
+  rankClaim: Master
+  patch: "26.4"
+  durationSec: 1591
+  region: KR
+  uploaded: 2026-02-21
 - videoId: a8PgkvwEAhg
   title: Zed Mid vs Sylas - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1475
   region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:56
+      label: Take down The Turret
+      kind: tower
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: End credit
 - videoId: D-Wznoy-Ufw
   title: Zed Mid vs Sylas - TW Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1505
+  uploaded: 2026-01-15
 - videoId: P5dnpXRPfJM
   title: Zed Mid vs Sylas - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1487
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:14
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 6:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:01
+      label: Take down The Turret
+      kind: tower
+    - at: 14:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:04
+      label: Take down The Turret
+      kind: tower
+    - at: 18:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Take down The Turret
+      kind: tower
+    - at: 20:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Take down The Turret
+      kind: tower
+    - at: 22:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:36
+      label: End credit
 - videoId: q-DTWdvKjvc
   title: Zed Mid vs Sylas - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1753
   region: KR
+  uploaded: 2025-11-02
 - videoId: QJ-M5jzFMUE
   title: Zed Mid vs Sylas - EUW Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1562
   region: EUW
+  uploaded: 2025-09-13
 - videoId: 8D-nWIsB9uM
   title: OnZed Zed vs Sylas Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
@@ -786,9 +896,11 @@
   durationSec: 1741
   region: KR
   player: OnZed
+  uploaded: 2025-04-27
 - videoId: j9n1mVOynLQ
   title: Zed Mid vs Sylas - NA Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1979
   region: NA
+  uploaded: 2025-02-25

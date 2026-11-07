@@ -7,12 +7,65 @@
   region: EUW
   player: Caps
   team: G2
+  uploaded: 2026-09-29
+- videoId: ZfVW2GXBEYo
+  title: "\"Jz\" 2000LP Lucian : Destroying Master Elo with Perfect KDA - Engsub ( vs Kai'sa, Corki )"
+  rankClaim: Master
+  patch: "26.18"
+  durationSec: 1174
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-09-21
+  format: stream
 - videoId: OtXHivwzGx0
   title: Lucian ADC vs Kai'Sa - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1790
   region: KR
+  uploaded: 2026-09-14
+- videoId: LQkxW1ZQCPo
+  title: "1500lp Lucian : This Dude is RUTHLESS SAVAGE - Engsub ( vs Kai'sa )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 801
+  patchEstimated: true
+  uploaded: 2026-09-06
+  format: stream
+- videoId: Y5pykk9g49c
+  title: 2000LP Lucian "Jz" His Mechanic is so AGGRESSIVE in Early Game - Engsub (Lucian vs Kai'sa, Tris)
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1415
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-07-10
+  format: stream
+- videoId: pjCvN3I6fMI
+  title: "1600LP Lucian : LET HIM COOKKK .... Engsub ( Lucian vs Kai'sa, Nilah )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1338
+  patchEstimated: true
+  uploaded: 2026-06-22
+  format: stream
+- videoId: RykPiPTTQj0
+  title: "1600LP Lucian : His DAMAGE Hurting so Bad with Full CRIT BUILD - Engsub (Lucian vs Kai'sa, Draven)"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1579
+  patchEstimated: true
+  uploaded: 2026-06-13
+  format: stream
+- videoId: rfYwGXXtCUA
+  title: 1600LP Lucian "Jz" This Dude is a FREAKING KILLING MACHINE - Engsub ( Lucian vs Kai'sa, Tris )
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1227
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-05-31
+  format: stream
 - videoId: rE6h7D1LF3o
   title: BLG Viper Lucian vs Kai'Sa [ ADC ] Korea Challenger 2050 LP | Patch 26.9
   rankClaim: Challenger
@@ -28,6 +81,7 @@
   patch: "26.3"
   durationSec: 1531
   region: KR
+  uploaded: 2026-02-08
 - videoId: qsAmvlKHIuY
   title: HLE Gumayusi Lucian vs Kai'Sa [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -36,30 +90,76 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-11
 - videoId: miJv5CYmPC0
   title: Lucian ADC vs Kai'Sa - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1510
   region: EUW
+  uploaded: 2025-12-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:05
+      label: Take down The Turret
+      kind: tower
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:36
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Take down The Turret
+      kind: tower
+    - at: 20:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: End credit
 - videoId: zAr4f3fwrFc
   title: Lucian vs Kai'Sa [ ADC ] Patch 25.24 Korea Challenger 1405 LP
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1408
   region: KR
+  uploaded: 2025-12-04
 - videoId: yypI2uZsq2I
   title: Lucian vs Kaisa [ ADC ] Korea Challenger 1183 LP | Patch 25.21 ✅
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1416
   region: KR
+  uploaded: 2025-10-30
 - videoId: wJXeo1cfmRo
   title: Lucian vs Kai'Sa ADC - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1381
   region: KR
+  uploaded: 2025-09-21
 - videoId: H5RdoY-aOB0
   title: Lucian vs Kaisa ADC [ Gen.G Ruler ] Patch 25.18 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -68,6 +168,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-09-19
 - videoId: BLDXHw54G1M
   title: T1 Gumayusi Lucian vs Kaisa [ ADC ] Korea Challenger Patch 25.17
   rankClaim: Challenger
@@ -76,27 +177,75 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-09-08
 - videoId: SOhLg0lYJR4
   title: Lucian ADC vs Kai'Sa - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1787
   region: KR
+  uploaded: 2025-08-15
 - videoId: ZZ5ICJotGQk
   title: Lucian ADC vs Kai'Sa - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1625
   region: KR
+  uploaded: 2025-08-01
 - videoId: eQYejeENxug
   title: Lucian ADC vs Kai'Sa - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1556
   region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 18:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:28
+      label: Take down The Turret
+      kind: tower
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:47
+      label: Take down The Inhibitor
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: End credit
 - videoId: CXlba1LPFds
   title: Lucian ADC vs Kai'Sa - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1722
   region: KR
+  uploaded: 2025-03-23

@@ -5,15 +5,88 @@
   patch: "26.2"
   durationSec: 1562
   region: KR
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: End credit
 - videoId: 9oDNzF6jlYY
   title: Tahm Kench Support vs Alistar - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1763
   region: KR
+  uploaded: 2025-07-24
 - videoId: 93cwUJdL0bs
   title: Tahm Kench Support vs Alistar - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1686
   region: KR
+  uploaded: 2025-04-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:45
+      label: End credit

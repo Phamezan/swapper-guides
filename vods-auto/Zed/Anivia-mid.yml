@@ -332,12 +332,114 @@
   patch: "26.6"
   durationSec: 1536
   region: NA
+  uploaded: 2026-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Take down The Turret
+      kind: tower
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:16
+      label: Take down The Turret
+      kind: tower
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:14
+      label: Take down The Turret
+      kind: tower
+    - at: 25:25
+      label: End credit
 - videoId: yujIu-fhyrk
   title: Zed Mid vs Anivia - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1614
   region: KR
+  uploaded: 2026-03-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Take down The Turret
+      kind: tower
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: End credit
 - videoId: 80o0S4u3i3Y
   title: OnZed Zed vs Anivia Mid - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
@@ -345,24 +447,89 @@
   durationSec: 1666
   region: KR
   player: OnZed
+  uploaded: 2025-12-16
 - videoId: 8hmiFGaMNM0
   title: Zed Mid vs Anivia - TW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1584
+  uploaded: 2025-10-13
 - videoId: lwaimvdEbTE
   title: Zed Mid vs Anivia - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 2115
   region: KR
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Take down The Turret
+      kind: tower
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Take down The Turret
+      kind: tower
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:34
+      label: Take down The Turret
+      kind: tower
+    - at: 26:50
+      label: Take down The Inhibitor
+    - at: 29:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:13
+      label: Take down The Turret
+      kind: tower
+    - at: 31:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:48
+      label: Take down The Turret
+      kind: tower
+    - at: 34:04
+      label: Take down The Inhibitor
+    - at: 34:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:54
+      label: End credit
 - videoId: 5Duffj7n4wQ
   title: Zed Mid vs Anivia - BR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1939
+  uploaded: 2025-04-16
 - videoId: 4FZyhGxR0_M
   title: Zed Mid vs Anivia - TW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1534
+  uploaded: 2025-03-30

@@ -5,15 +5,70 @@
   patch: "26.18"
   durationSec: 1732
   region: KR
+  uploaded: 2026-09-15
 - videoId: 1kFrWJcLHtw
   title: Renekton Top vs Fiora - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1695
   region: KR
+  uploaded: 2025-11-24
 - videoId: RGUCMiaUUyU
   title: Renekton Top vs Fiora - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1680
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:36
+      label: Take down The Turret
+      kind: tower
+    - at: 12:19
+      label: Take down The Turret
+      kind: tower
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Hunt The Atakhan
+    - at: 22:25
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:39
+      label: End credit

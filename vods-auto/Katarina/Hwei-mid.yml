@@ -5,30 +5,35 @@
   patch: "25.23"
   durationSec: 1381
   region: KR
+  uploaded: 2025-12-03
 - videoId: jX2iN9dVvyw
   title: Katarina Mid vs Hwei - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1984
   region: EUW
+  uploaded: 2025-11-05
 - videoId: MWQof8Ud798
   title: Katarina vs Hwei Mid - EUW Grandmaster - Patch 25.21 Season 15
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1651
   region: EUW
+  uploaded: 2025-10-30
 - videoId: SzIZs71OF2A
   title: Katarina vs Hwei Mid - KR Grandmaster - Patch 25.19 Season 15
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1801
   region: KR
+  uploaded: 2025-09-26
 - videoId: Wl7bupI6AeA
   title: Katarina vs Hwei Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 1861
   region: KR
+  uploaded: 2025-07-05
 - videoId: OAIp42iW0PE
   title: DK ShowMaker Katarina vs Hwei [ MID ] Korea Challenger Patch 25.11 ✅
   rankClaim: Challenger
@@ -37,9 +42,58 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-06-07
 - videoId: J0QwJPDoZLg
   title: Katarina Mid vs Hwei - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1676
   region: KR
+  uploaded: 2025-05-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:04
+      label: Take down The Turret
+      kind: tower
+    - at: 21:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:35
+      label: End credit

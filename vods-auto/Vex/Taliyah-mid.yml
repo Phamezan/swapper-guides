@@ -5,15 +5,115 @@
   patch: "26.4"
   durationSec: 1649
   region: KR
+  uploaded: 2026-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:17
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:41
+      label: Take down The Inhibitor
+    - at: 24:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Take down The Inhibitor
+    - at: 26:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:18
+      label: End credit
 - videoId: w9W7YHyHH8A
   title: Vex Mid vs Taliyah - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1510
   region: EUW
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:26
+      label: Take down The Turret
+      kind: tower
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Take down The Turret
+      kind: tower
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Take down The Inhibitor
+    - at: 24:44
+      label: Take down The Turret
+      kind: tower
+    - at: 24:59
+      label: End credit
 - videoId: Ww_p9o5hYCI
   title: Vex vs Taliyah Mid - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2081
   region: KR
+  uploaded: 2025-03-10

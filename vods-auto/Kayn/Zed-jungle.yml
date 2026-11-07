@@ -5,15 +5,67 @@
   patch: "26.1"
   durationSec: 2041
   region: KR
+  uploaded: 2026-01-12
 - videoId: uQ812-JmR2I
   title: Kayn Jungle vs Zed - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1484
   region: EUW
+  uploaded: 2025-12-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:23
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:32
+      label: Hunt The Atakhan
+    - at: 24:33
+      label: End credit
 - videoId: -g6OAL4aY7g
   title: Kayn Jungle vs Zed - NA Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1854
   region: NA
+  uploaded: 2025-11-20

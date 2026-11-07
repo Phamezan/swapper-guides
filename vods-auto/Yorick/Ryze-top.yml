@@ -5,9 +5,86 @@
   patch: "26.17"
   durationSec: 1694
   region: KR
+  uploaded: 2026-09-10
 - videoId: mY0LAnDuRmw
   title: Yorick Top vs Ryze - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1477
   region: EUW
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:27
+      label: Take down The Turret
+      kind: tower
+    - at: 12:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:52
+      label: Take down The Turret
+      kind: tower
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Take down The Turret
+      kind: tower
+    - at: 16:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Take down The Turret
+      kind: tower
+    - at: 17:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Take down The Turret
+      kind: tower
+    - at: 22:07
+      label: Take down The Inhibitor
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 23:54
+      label: Take down The Inhibitor
+    - at: 24:10
+      label: Take down The Turret
+      kind: tower
+    - at: 24:26
+      label: End credit

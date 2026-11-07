@@ -5,21 +5,81 @@
   patch: "26.16"
   durationSec: 1657
   region: KR
+  uploaded: 2026-08-24
 - videoId: zCMeR-UEcBQ
   title: Lissandra Mid vs Galio - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1471
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:35
+      label: Take down The Turret
+      kind: tower
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:35
+      label: Take down The Turret
+      kind: tower
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Take down The Turret
+      kind: tower
+    - at: 24:20
+      label: End credit
 - videoId: NEXHhsVQMKs
   title: Lissandra Mid vs Galio - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1634
   region: KR
+  uploaded: 2025-07-25
 - videoId: qR14JzlVF6I
   title: Lissandra Mid vs Galio - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1660
   region: KR
+  uploaded: 2025-06-18

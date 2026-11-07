@@ -4,15 +4,58 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1466
+  uploaded: 2026-01-18
 - videoId: SwpumjCqdig
   title: Aurora Top vs Singed - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1495
   region: KR
+  uploaded: 2025-12-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:56
+      label: Take down The Turret
+      kind: tower
+    - at: 19:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Take down The Inhibitor
+    - at: 24:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:44
+      label: End credit
 - videoId: IRqi4Y-Meus
   title: Aurora Top vs Singed - EUW Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1674
   region: EUW
+  uploaded: 2025-11-03

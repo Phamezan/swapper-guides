@@ -345,17 +345,20 @@
   patch: "26.5"
   durationSec: 1456
   region: KR
+  uploaded: 2026-03-13
 - videoId: kuLxLx3gvZM
   title: Ahri vs Yasuo Mid - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1711
   region: KR
+  uploaded: 2026-01-05
 - videoId: feuCsavq4hc
   title: Ahri Mid vs Yasuo - BR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1907
+  uploaded: 2025-10-15
 - videoId: iuhc99pDQ-c
   title: T1 Faker Ahri vs Yasuo [ MID ] Korea Challenger Patch 25.10
   rankClaim: Challenger
@@ -364,3 +367,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-27

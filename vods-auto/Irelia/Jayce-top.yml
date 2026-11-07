@@ -22,18 +22,14 @@
   patch: "26.15"
   durationSec: 1453
   region: KR
+  uploaded: 2026-08-03
 - videoId: 0VdjiTFpmg8
   title: Irelia vs Jayce Top - KR Grandmaster - Patch 25.23 Season 15
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1481
   region: KR
-- videoId: BXxjrpLemes
-  title: Irelia Top vs Jayce - KR Challenger Patch 25.11
-  rankClaim: Challenger
-  patch: "25.11"
-  durationSec: 1454
-  region: KR
+  uploaded: 2025-11-27
 - videoId: oMECP2cuF0Y
   title: Irelking Irelia vs Jayce Top - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
@@ -41,3 +37,11 @@
   durationSec: 1451
   region: KR
   player: Irelking
+  uploaded: 2025-06-06
+- videoId: BXxjrpLemes
+  title: Irelia Top vs Jayce - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1454
+  region: KR
+  uploaded: 2025-06-04

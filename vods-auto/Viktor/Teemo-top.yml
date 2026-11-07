@@ -5,9 +5,60 @@
   patch: "25.22"
   durationSec: 1599
   region: KR
+  uploaded: 2025-11-17
 - videoId: NR4FCYt9RhI
   title: Viktor Top vs Teemo - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1603
   region: KR
+  uploaded: 2025-05-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:44
+      label: Take down The Turret
+      kind: tower
+    - at: 19:05
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:32
+      label: Take down The Turret
+      kind: tower
+    - at: 20:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Take down The Turret
+      kind: tower
+    - at: 22:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:48
+      label: Take down The Inhibitor
+    - at: 25:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:22
+      label: End credit

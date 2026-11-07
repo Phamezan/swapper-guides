@@ -6,6 +6,7 @@
   durationSec: 1420
   region: NA
   player: CTG Array
+  uploaded: 2026-07-01
 - videoId: f_RzKxqiWXE
   title: Shaco vs Jarvan IV 3/2/15 (Jungle) | EUW Grandmaster | Shaco OTP Replay
   rankClaim: Grandmaster
@@ -20,9 +21,70 @@
   patch: "26.2"
   durationSec: 1477
   region: KR
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:21
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:26
+      label: End credit
 - videoId: s4DFuELqEvs
   title: Shaco Jungle vs Jarvan IV - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1711
   region: KR
+  uploaded: 2025-09-16

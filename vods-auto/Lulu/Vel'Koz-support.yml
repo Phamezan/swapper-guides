@@ -5,9 +5,64 @@
   patch: "26.2"
   durationSec: 1549
   region: KR
+  uploaded: 2026-01-24
 - videoId: 2-dl5k8Q58M
   title: Lulu Support vs Vel'Koz - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1525
   region: KR
+  uploaded: 2025-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Take down The Turret
+      kind: tower
+    - at: 19:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: Take down The Turret
+      kind: tower
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:04
+      label: End credit

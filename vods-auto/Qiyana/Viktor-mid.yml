@@ -8,21 +8,105 @@
   player: Beifeng
   uploaded: 2026-08-24
   format: stream
+- videoId: 8zuoIktFCns
+  title: BeiFeng Qiyana vs Viktor — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.11"
+  durationSec: 2167
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-06-02
+  format: stream
+- videoId: WZX110_jlOc
+  title: BeiFeng Qiyana vs Viktor — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 883
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-05-27
+  format: stream
+- videoId: A2KLsOvLD9U
+  title: BeiFeng Qiyana vs Viktor — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1170
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-05-19
+  format: stream
 - videoId: QZU0Wl97SBo
   title: Qiyana Mid vs Viktor - EUW Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1565
   region: EUW
+  uploaded: 2025-09-05
 - videoId: V8gN3K675yU
   title: Qiyana Mid vs Viktor - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1582
   region: KR
+  uploaded: 2025-03-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:33
+      label: Take down The Inhibitor
+    - at: 23:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Take down The Inhibitor
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:01
+      label: End credit
 - videoId: gmOH8rpCYmE
   title: Qiyana vs Viktor Mid - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1561
   region: KR
+  uploaded: 2025-03-25

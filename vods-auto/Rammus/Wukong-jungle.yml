@@ -4,18 +4,74 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1757
+  uploaded: 2026-06-05
 - videoId: ohxIFuboWkU
   title: Rammus Jungle vs Wukong - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1555
   region: KR
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Take down The Turret
+      kind: tower
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Take down The Turret
+      kind: tower
+    - at: 25:44
+      label: End credit
 - videoId: -rIjVNUT1bE
   title: Rammus Jungle vs Wukong - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1577
   region: KR
+  uploaded: 2026-01-06
 - videoId: HSuu_9QAizc
   title: Rammus vs Wukong Jungle [ 55% Win Rate ] Lol Korea Master Patch 25.17
   rankClaim: Master
@@ -23,3 +79,4 @@
   durationSec: 1686
   region: KR
   player: 55% Win Rate
+  uploaded: 2025-09-02

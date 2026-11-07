@@ -6,6 +6,14 @@
   durationSec: 1902
   region: KR
   uploaded: 2026-09-26
+- videoId: 09eOy4lp8lQ
+  title: "1600LP Caitlyn : ONE TRAP HIT YOU GETTING DELETED - Engsub ( Caitlyn vs Yunara, Aphe )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1535
+  patchEstimated: true
+  uploaded: 2026-06-22
+  format: stream
 - videoId: Wj5db1pCUwQ
   title: DK Smash Caitlyn vs Yunara [ ADC ] Korea Challenger 2597 LP | Patch 26.11
   rankClaim: Challenger
@@ -62,24 +70,90 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-30
 - videoId: f11NprnCsFo
   title: Caitlyn ADC vs Yunara - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1564
   region: NA
+  uploaded: 2026-01-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Take down The Turret
+      kind: tower
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:05
+      label: Take down The Turret
+      kind: tower
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:23
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: End credit
 - videoId: QNN0fdksaas
   title: Caitlyn vs Yunara [ ADC ] Korea Challenger 1347 LP | Patch 25.24 ✅
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1493
   region: KR
+  uploaded: 2025-12-16
 - videoId: zbo3pZ6jWJ8
   title: Caitlyn ADC vs Yunara - EUW Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1631
   region: EUW
+  uploaded: 2025-12-04
 - videoId: f71EfXo3jgo
   title: Caitlyn vs Yunara ADC [ QuadraKill ] Patch 25.21 Korea Grandmaster 1021 LP
   rankClaim: Grandmaster
@@ -87,21 +161,25 @@
   durationSec: 1608
   region: KR
   player: QuadraKill
+  uploaded: 2025-10-22
 - videoId: 40jF6ev0qiU
   title: Caitlyn ADC vs Yunara - EUW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1609
   region: EUW
+  uploaded: 2025-10-23
 - videoId: xewGkP7SBfU
   title: Caitlyn vs Yunara ADC - KR Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1891
   region: KR
+  uploaded: 2025-08-08
 - videoId: vdQO92sSiL0
   title: Caitlyn vs Yunara ADC - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1831
   region: KR
+  uploaded: 2025-07-24

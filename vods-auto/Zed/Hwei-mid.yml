@@ -228,12 +228,55 @@
   patch: "26.3"
   durationSec: 1466
   region: EUW
+  uploaded: 2026-02-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:56
+      label: Take down The Turret
+      kind: tower
+    - at: 18:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Take down The Turret
+      kind: tower
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Take down The Turret
+      kind: tower
+    - at: 24:15
+      label: End credit
 - videoId: O6G84nDBrJM
   title: Zed Mid vs Hwei - NA Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1590
   region: NA
+  uploaded: 2026-01-16
 - videoId: hjrfTDUyRSE
   title: OnZed Zed vs Hwei Mid - KR Grandmaster - Patch 25.18 Season 15
   rankClaim: Grandmaster
@@ -241,9 +284,11 @@
   durationSec: 1681
   region: KR
   player: OnZed
+  uploaded: 2025-09-21
 - videoId: 37SbCaahtow
   title: Zed vs Hwei Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1320
   region: KR
+  uploaded: 2025-04-30

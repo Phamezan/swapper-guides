@@ -5,9 +5,60 @@
   patch: "26.16"
   durationSec: 1723
   region: KR
+  uploaded: 2026-08-26
+  result: W
+  moments:
+    - at: 4:39
+      label: First Blood — Lee Sin kills Shyvana
+      kind: kill
+    - at: 8:09
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:35
+      label: Sett kills Shyvana
+      kind: kill
+    - at: 12:37
+      label: Lux picks off Shyvana
+    - at: 14:56
+      label: Kai'Sa kills Ahri
+      kind: kill
+    - at: 15:07
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 16:46
+      label: Kai'Sa kills Ahri
+      kind: kill
+    - at: 19:08
+      label: Kai'Sa picks off Seraphine
+    - at: 19:44
+      label: Blue takes Baron
+      kind: baron
+    - at: 19:56
+      label: Lee Sin eliminates Ezreal
+    - at: 20:22
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 20:32
+      label: Kai'Sa eliminates Shyvana
+    - at: 21:08
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 24:20
+      label: Kai'Sa eliminates Shyvana
+    - at: 24:51
+      label: Mid Inhibitor falls (Red)
+    - at: 25:32
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:08
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:30
+      label: Lee Sin eliminates Ezreal
 - videoId: btxqJZud-po
   title: Zilean Support vs Seraphine - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1522
   region: KR
+  uploaded: 2025-11-12

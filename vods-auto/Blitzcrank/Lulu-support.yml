@@ -5,20 +5,71 @@
   patch: "26.18"
   durationSec: 1717
   region: KR
+  uploaded: 2026-09-13
 - videoId: EiJfX3O5S4k
   title: Blitzcrank Support vs Lulu - KR Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1718
   region: KR
+  uploaded: 2026-08-30
 - videoId: gADX-YtBvZ4
   title: Blitzcrank Support vs Lulu - TW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1561
+  uploaded: 2026-03-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:49
+      label: Take down The Turret
+      kind: tower
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: End credit
 - videoId: e_zsGIKNiog
   title: Blitzcrank Support vs Lulu - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1822
   region: KR
+  uploaded: 2025-07-21

@@ -115,6 +115,54 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1914
+  uploaded: 2026-03-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 30:49
+      label: Take down The Turret
+      kind: tower
+    - at: 31:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:43
+      label: End credit
 - videoId: b-NHfJwviwI
   title: T1 Faker Zed vs Sejuani [ Jungle ] Patch 25.16 Korea Master
   rankClaim: Master
@@ -123,14 +171,93 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-18
 - videoId: nxDI4g_aeuw
   title: Zed Jungle vs Sejuani - BR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 2132
+  uploaded: 2025-05-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Take down The Turret
+      kind: tower
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:22
+      label: Hunt The Atakhan
+    - at: 21:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 32:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 33:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 34:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:11
+      label: End credit
 - videoId: MNLfDlVsz3U
   title: Zed vs Sejuani Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1651
   region: KR
+  uploaded: 2025-03-24

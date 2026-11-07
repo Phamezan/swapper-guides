@@ -5,15 +5,88 @@
   patch: "26.7"
   durationSec: 1892
   region: KR
-- videoId: 9oraV1SkV-g
-  title: Fiddlesticks Jungle vs Nocturne - KR Grandmaster Patch 25.08
-  rankClaim: Grandmaster
-  patch: "25.8"
-  durationSec: 1820
-  region: KR
+  uploaded: 2026-04-09
 - videoId: EXJC8wb6ggQ
   title: Fiddlesticks vs Nocturne [ Jungle ] Lol Korea Grandmaster Patch 25.8 ✅
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1619
   region: KR
+  uploaded: 2025-04-22
+- videoId: 9oraV1SkV-g
+  title: Fiddlesticks Jungle vs Nocturne - KR Grandmaster Patch 25.08
+  rankClaim: Grandmaster
+  patch: "25.8"
+  durationSec: 1820
+  region: KR
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Hunt The Atakhan
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:59
+      label: End credit

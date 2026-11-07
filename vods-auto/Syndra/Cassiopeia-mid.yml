@@ -7,6 +7,52 @@
   region: KR
   player: Chovy
   team: GEN
+  uploaded: 2026-08-22
+  result: L
+  moments:
+    - at: 1:44
+      label: First Blood — Syndra kills Cassiopeia
+      kind: kill
+    - at: 4:19
+      label: Syndra takes down Cassiopeia
+    - at: 7:27
+      label: Syndra picks off Zac
+    - at: 9:20
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:26
+      label: Syndra solo kills Zac
+      kind: kill
+    - at: 13:04
+      label: Viktor picks off Pantheon
+    - at: 13:30
+      label: Tristana Double Kill
+      kind: kill
+    - at: 14:47
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:05
+      label: Syndra catches Cassiopeia again
+    - at: 16:57
+      label: Syndra takes down Pantheon
+    - at: 17:53
+      label: Ambessa picks off Cassiopeia
+    - at: 19:32
+      label: Syndra outplays Gnar
+    - at: 19:59
+      label: Ambessa kills Pantheon
+      kind: kill
+    - at: 20:48
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:12
+      label: Red takes Baron
+      kind: baron
+    - at: 23:14
+      label: Syndra catches Corki
+    - at: 25:32
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: uH7zVdVsNCU
   title: Syndra vs Cassiopeia MID [ Gen.G Chovy ] Korea Challenger 2214 LP | Patch 26.16
   rankClaim: Challenger

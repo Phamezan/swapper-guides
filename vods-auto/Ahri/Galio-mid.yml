@@ -448,31 +448,80 @@
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-04-05
+- videoId: VWXo9wB5oD4
+  title: Ahri Mid vs Galio - BR Challenger Patch 25.17
+  rankClaim: Challenger
+  patch: "25.17"
+  durationSec: 1460
+  uploaded: 2025-09-10
 - videoId: FP3n_K7y-J8
   title: Ahri Mid vs Galio - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1652
   region: KR
-- videoId: VWXo9wB5oD4
-  title: Ahri Mid vs Galio - BR Challenger Patch 25.17
-  rankClaim: Challenger
-  patch: "25.17"
-  durationSec: 1460
+  uploaded: 2025-09-02
 - videoId: OvIJ9AZbX8w
   title: Ahri Mid vs Galio - TW Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1523
+  uploaded: 2025-08-18
 - videoId: YmuoV6amxu4
   title: Ahri Mid vs Galio - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1848
   region: KR
+  uploaded: 2025-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:27
+      label: End credit
 - videoId: _LpK6hCCJzA
   title: Ahri vs Galio Mid - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2176
   region: KR
+  uploaded: 2025-03-16

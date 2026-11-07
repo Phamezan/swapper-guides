@@ -5,12 +5,60 @@
   patch: "26.1"
   durationSec: 1572
   region: KR
+  uploaded: 2026-01-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:09
+      label: Take down The Turret
+      kind: tower
+    - at: 17:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Turret
+      kind: tower
+    - at: 23:40
+      label: Take down The Inhibitor
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:41
+      label: Take down The Turret
+      kind: tower
+    - at: 26:01
+      label: End credit
 - videoId: qY7LxTzs-bg
   title: Ashe ADC vs Aphelios - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1561
   region: EUW
+  uploaded: 2025-11-20
 - videoId: 3DW4KNpV4uY
   title: Ashe vs Aphelios ADC [ TripleKill ] Korea Master Patch 25.22 ✅
   rankClaim: Master
@@ -18,6 +66,7 @@
   durationSec: 1548
   region: KR
   player: TripleKill
+  uploaded: 2025-11-08
 - videoId: iUlMvdd6b2o
   title: T1 Gumayusi Ashe vs Aphelios [ ADC ] Patch 25.9 Korea Grandmaster
   rankClaim: Grandmaster
@@ -26,3 +75,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-08

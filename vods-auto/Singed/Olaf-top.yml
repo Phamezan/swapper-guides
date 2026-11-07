@@ -6,9 +6,46 @@
   durationSec: 1712
   region: KR
   player: Xiaoxu
+  uploaded: 2026-06-30
 - videoId: 8DfALOiLOGk
   title: Singed Top vs Olaf - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1772
   region: KR
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 15:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Take down The Turret
+      kind: tower
+    - at: 26:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Take down The Turret
+      kind: tower
+    - at: 27:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:11
+      label: End credit

@@ -5,3 +5,54 @@
   patch: "25.7"
   durationSec: 2158
   region: KR
+  uploaded: 2025-04-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:50
+      label: Get a Triple Kill
+      kind: kill
+    - at: 30:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:37
+      label: End credit

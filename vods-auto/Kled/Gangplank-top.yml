@@ -59,9 +59,84 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1754
+  uploaded: 2026-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:08
+      label: Take down The Turret
+      kind: tower
+    - at: 11:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:18
+      label: Take down The Turret
+      kind: tower
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Take down The Turret
+      kind: tower
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:38
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: Take down The Turret
+      kind: tower
+    - at: 26:52
+      label: Take down The Inhibitor
+    - at: 28:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:53
+      label: Take down The Turret
+      kind: tower
+    - at: 29:03
+      label: End credit
 - videoId: OykAwRl33LI
   title: Kled Top vs Gangplank - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1958
   region: KR
+  uploaded: 2025-03-13

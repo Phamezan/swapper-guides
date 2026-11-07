@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1589
   region: KR
+  uploaded: 2026-09-11
 - videoId: vLfz6dc2cW0
   title: T1 Peyz Ashe vs Ezreal [ ADC ] Korea Challenger 2444 LP | Patch 26.17
   rankClaim: Challenger
@@ -29,6 +30,15 @@
   patch: "26.9"
   durationSec: 1581
   region: KR
+  uploaded: 2026-05-01
+- videoId: 8jDge940aR4
+  title: "Rank 1 Ashe : From ZERO to HERO Insane Comeback of History - Engsub ( Ashe vs Ezreal )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1121
+  patchEstimated: true
+  uploaded: 2026-04-29
+  format: stream
 - videoId: uhF_lPQNUnE
   title: HLE Gumayusi Ashe vs Ezreal [ ADC ] Korea Challenger 2463 LP | Patch 26.8
   rankClaim: Challenger
@@ -62,6 +72,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-26
 - videoId: 0iceaXnRil8
   title: Ashe vs Ezreal ADC - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
@@ -77,12 +88,23 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-18
 - videoId: KiHBjBVkNbE
   title: Ashe vs Ezreal [ ADC ] Lol Korea Master Patch 26.1 ✅
   rankClaim: Master
   patch: "26.1"
   durationSec: 1871
   region: KR
+  uploaded: 2026-01-20
+- videoId: yhQl0cQJ5GQ
+  title: When Smash Ashe Destroying LazyFeel Ezreal at 1800LP Match
+  rankClaim: Master+
+  patch: "26.1"
+  durationSec: 788
+  patchEstimated: true
+  player: Smash
+  uploaded: 2026-01-08
+  format: stream
 - videoId: aEPON6uDm-I
   title: Ashe vs Ezreal ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -91,24 +113,147 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2025-12-21
 - videoId: zlKsw3MMUtI
   title: Ashe ADC vs Ezreal - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1816
   region: KR
+  uploaded: 2025-05-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 20:09
+      label: Take down The Turret
+      kind: tower
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:08
+      label: Take down The Turret
+      kind: tower
+    - at: 28:31
+      label: Take down The Inhibitor
+    - at: 28:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:38
+      label: Take down The Turret
+      kind: tower
+    - at: 29:55
+      label: End credit
 - videoId: r4b2hq6bdjk
   title: Ashe vs Ezreal ADC - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1981
   region: KR
+  uploaded: 2025-03-21
 - videoId: r8y_uvxXccs
   title: Ashe ADC vs Ezreal - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1708
   region: KR
+  uploaded: 2025-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Take down The Turret
+      kind: tower
+    - at: 16:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Take down The Turret
+      kind: tower
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:32
+      label: Take down The Turret
+      kind: tower
+    - at: 27:49
+      label: Take down The Inhibitor
+    - at: 28:07
+      label: End credit
 - videoId: ts30adqr_B8
   title: T1 Gumayusi Ashe ADC vs Ezreal - Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -117,3 +262,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-29

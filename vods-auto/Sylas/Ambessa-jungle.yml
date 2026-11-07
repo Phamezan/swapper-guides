@@ -5,15 +5,86 @@
   patch: "26.7"
   durationSec: 1861
   region: KR
+  uploaded: 2026-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 1:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:50
+      label: End credit
 - videoId: TedY3rTTBqY
   title: Sylas Jungle vs Ambessa - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1735
   region: KR
+  uploaded: 2026-03-28
 - videoId: nhOiW8_NmWQ
   title: Sylas Jungle vs Ambessa - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1451
   region: NA
+  uploaded: 2026-01-02

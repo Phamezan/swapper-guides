@@ -5,3 +5,40 @@
   patch: "26.19"
   durationSec: 1734
   region: KR
+  uploaded: 2026-10-04
+- videoId: IUVw1Mc4g8g
+  title: YeQiuFeng Qiyana vs Akali（Beifeng) — Master CN Super Server
+  rankClaim: Master
+  patch: "26.16"
+  durationSec: 1441
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-08-24
+  format: stream
+- videoId: xs4MEf6Kdq0
+  title: BeiFeng Qiyana vs Akali — Grandmaster CN Super Server — Engsub
+  rankClaim: Grandmaster
+  patch: "26.16"
+  durationSec: 1323
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-08-15
+  format: stream
+- videoId: kWwGWNxbJtM
+  title: BeiFeng Qiyana vs Akali — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.14"
+  durationSec: 1652
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-07-17
+  format: stream
+- videoId: 7XawLtPIbLI
+  title: BeiFeng Qiyana vs Akali — Master CN Super Server — Engsub
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 1377
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-05-04
+  format: stream

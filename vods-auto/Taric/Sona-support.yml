@@ -5,15 +5,62 @@
   patch: "26.2"
   durationSec: 1505
   region: EUW
+  uploaded: 2026-02-05
 - videoId: A9B8bbWZOl0
   title: Taric Support vs Sona - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1937
   region: KR
+  uploaded: 2025-11-14
 - videoId: z2SiXyUJJOs
   title: Taric Support vs Sona - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1541
   region: EUW
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Take down The Turret
+      kind: tower
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: End credit

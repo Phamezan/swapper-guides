@@ -5,9 +5,55 @@
   patch: "25.11"
   durationSec: 1844
   region: KR
+  uploaded: 2025-06-09
 - videoId: edBuW8wVLlo
   title: Camille Support vs Neeko - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1532
   region: KR
+  uploaded: 2025-04-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Take down The Turret
+      kind: tower
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Take down The Turret
+      kind: tower
+    - at: 21:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: End credit

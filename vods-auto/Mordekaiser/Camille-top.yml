@@ -58,33 +58,39 @@
   patch: "26.10"
   durationSec: 1783
   region: KR
+  uploaded: 2026-05-19
 - videoId: Yr7P4e1INl8
   title: Mordekaiser Top vs Camille - KR Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1508
   region: KR
+  uploaded: 2026-04-22
 - videoId: ShTEc8LwVIA
   title: Mordekaiser Top vs Camille - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1829
   region: KR
+  uploaded: 2025-11-25
 - videoId: ZAUq2DhZXEU
   title: Mordekaiser vs Camille Top - KR Master - Patch 25.20 Season 15
   rankClaim: Master
   patch: "25.20"
   durationSec: 2221
   region: KR
-- videoId: 2DV418P8WPU
-  title: Mordekaiser Top vs Camille - KR Master Patch 25.16
-  rankClaim: Master
-  patch: "25.16"
-  durationSec: 1863
-  region: KR
+  uploaded: 2025-10-20
 - videoId: zE-fJ0jcsfA
   title: Mordekaiser vs Camille Top - KR Master - Patch 25.16 Season 15
   rankClaim: Master
   patch: "25.16"
   durationSec: 1861
   region: KR
+  uploaded: 2025-08-23
+- videoId: 2DV418P8WPU
+  title: Mordekaiser Top vs Camille - KR Master Patch 25.16
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1863
+  region: KR
+  uploaded: 2025-08-17

@@ -67,20 +67,24 @@
   patch: "25.22"
   durationSec: 2025
   region: EUW
+  uploaded: 2025-11-10
 - videoId: NXN8Ws15gdQ
   title: Ahri Support vs Pyke - VN Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1476
+  uploaded: 2025-09-24
 - videoId: CFcfuV_aenY
   title: Ahri Support vs Pyke - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1812
   region: KR
+  uploaded: 2025-08-06
 - videoId: fRp9uvw9Io4
   title: Ahri Support vs Pyke - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1608
   region: KR
+  uploaded: 2025-05-31

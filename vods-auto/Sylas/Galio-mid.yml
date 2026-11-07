@@ -5,12 +5,14 @@
   patch: "26.17"
   durationSec: 1803
   region: KR
+  uploaded: 2026-08-28
 - videoId: wPAFtEJRvF0
   title: Sylas Mid vs Galio - KR Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1516
   region: KR
+  uploaded: 2026-04-18
 - videoId: Vmt1meOq5pI
   title: T1 Faker Sylas vs Galio [ MID ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -19,12 +21,14 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-05
 - videoId: FkzwDLMghYU
   title: Sylas Mid vs Galio - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1470
   region: KR
+  uploaded: 2025-02-25
 - videoId: sd6AxacpUy4
   title: T1 Faker Sylas vs Galio [ MID ] Patch 25.3 Korea Master ✅
   rankClaim: Master
@@ -33,3 +37,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-02-06

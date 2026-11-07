@@ -5,15 +5,76 @@
   patch: "26.16"
   durationSec: 1748
   region: KR
+  uploaded: 2026-08-20
 - videoId: 51dYuMaxFbM
   title: Ekko Jungle vs Vi - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1490
   region: KR
+  uploaded: 2026-02-09
 - videoId: PbFCz-35GvM
   title: Ekko Jungle vs Vi - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1614
   region: KR
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Take down The Turret
+      kind: tower
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Hunt The Atakhan
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:33
+      label: End credit

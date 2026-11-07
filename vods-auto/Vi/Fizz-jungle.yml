@@ -5,3 +5,51 @@
   patch: "26.4"
   durationSec: 1480
   region: KR
+  uploaded: 2026-03-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:29
+      label: End credit

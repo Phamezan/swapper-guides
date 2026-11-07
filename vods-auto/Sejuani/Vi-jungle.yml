@@ -6,6 +6,7 @@
   durationSec: 1727
   region: EUW
   player: Fallen
+  uploaded: 2026-07-09
 - videoId: gmQFSFb2OGU
   title: (KRX Vincenzo) Sejuani Jungle vs Vi (DNS Pyosik) - KR Challenger Patch 26.12
   rankClaim: Challenger
@@ -13,15 +14,74 @@
   durationSec: 1590
   region: KR
   player: Pyosik
+  uploaded: 2026-06-23
 - videoId: sjXE732w--s
   title: Sejuani Jungle vs Vi - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1534
   region: KR
+  uploaded: 2025-08-07
 - videoId: 1FCOrFs_7EU
   title: Sejuani Jungle vs Vi - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1551
   region: KR
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:52
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:30
+      label: End credit

@@ -6,6 +6,7 @@
   durationSec: 1836
   region: KR
   player: Clozer
+  uploaded: 2026-06-30
 - videoId: Pj4Phv88L60
   title: (DNS Clozer) LeBlanc Mid vs Zoe - KR Challenger Patch 26.12
   rankClaim: Challenger
@@ -13,6 +14,7 @@
   durationSec: 1599
   region: KR
   player: Clozer
+  uploaded: 2026-06-20
 - videoId: VE22dsZJDck
   title: T1 Faker Leblanc vs Zoe [ MID ] Korea Challenger 1723 LP | Patch 26.7
   rankClaim: Challenger
@@ -30,15 +32,18 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-01-23
 - videoId: d2VjuQDjIMc
   title: LeBlanc Mid vs Zoe - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1559
   region: KR
+  uploaded: 2025-10-26
 - videoId: 52C1uHWJhoo
   title: LeBlanc vs Zoe Mid - KR Grandmaster - Patch 25.10 Season 15
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1786
   region: KR
+  uploaded: 2025-05-20

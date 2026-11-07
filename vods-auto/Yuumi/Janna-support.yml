@@ -5,15 +5,68 @@
   patch: "26.17"
   durationSec: 1815
   region: KR
+  uploaded: 2026-08-30
 - videoId: JNLDKI653lE
   title: Yuumi Support vs Janna - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1504
   region: NA
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Take down The Turret
+      kind: tower
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Take down The Turret
+      kind: tower
+    - at: 16:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Take down The Turret
+      kind: tower
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:46
+      label: Take down The Turret
+      kind: tower
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: End credit
 - videoId: 3GzzADqxSEw
   title: Yuumi Support vs Janna - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1448
   region: KR
+  uploaded: 2025-09-16

@@ -23,3 +23,53 @@
   patch: "26.9"
   durationSec: 1461
   region: KR
+  uploaded: 2026-05-11
+  result: W
+  moments:
+    - at: 2:29
+      label: First Blood — Draven kills Thresh
+      kind: kill
+    - at: 6:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 7:59
+      label: Draven kills Jayce
+      kind: kill
+    - at: 9:09
+      label: Draven outduels Yone
+    - at: 10:15
+      label: Draven outplays Yone again
+    - at: 11:44
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:00
+      label: Draven picks off Thresh
+    - at: 16:59
+      label: Draven solo kills Yone (3rd time)
+      kind: kill
+    - at: 17:32
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 18:46
+      label: Vayne kills Nidalee
+      kind: kill
+    - at: 19:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:13
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:25
+      label: Draven Triple Kill
+      kind: kill
+    - at: 21:51
+      label: Mid Inhibitor falls (Red)
+    - at: 22:30
+      label: Draven takes down Yone (4th time)
+    - at: 22:52
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 23:29
+      label: Lillia picks off Jayce
+    - at: 23:41
+      label: Bot Inhibitor falls (Red)

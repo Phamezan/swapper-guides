@@ -5,9 +5,77 @@
   patch: "25.9"
   durationSec: 1758
   region: KR
+  uploaded: 2025-05-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:23
+      label: Take down The Turret
+      kind: tower
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:30
+      label: Take down The Turret
+      kind: tower
+    - at: 20:47
+      label: Take down The Inhibitor
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:57
+      label: Take down The Inhibitor
+    - at: 27:08
+      label: Take down The Turret
+      kind: tower
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:57
+      label: End credit
 - videoId: 8mBwvbOHqXk
   title: Heimerdinger Support vs Pyke - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1579
   region: KR
+  uploaded: 2025-04-01

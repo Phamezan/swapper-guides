@@ -5,79 +5,93 @@
   patch: "26.2"
   durationSec: 2355
   region: KR
+  uploaded: 2026-01-24
 - videoId: eFrEPBdcFSw
   title: AATROX vs TEEMO (TOP) | Arcane Comet, 5k gold comeback, 38K damage | KR Master | 26.1
   rankClaim: Master
   patch: "26.1"
   durationSec: 2674
   region: KR
+  uploaded: 2026-01-22
 - videoId: hi7D6mtzlOw
   title: AATROX vs TEEMO (TOP) | 12/2/4 | KR Master | 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1465
   region: KR
+  uploaded: 2025-12-06
 - videoId: YlI_uCrO9e8
   title: AATROX vs TEEMO (TOP) | Quadra | KR Master | 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1154
   region: KR
+  uploaded: 2025-11-14
 - videoId: UhOXaAZ509k
   title: AATROX vs TEEMO (TOP) | 12/1/9, 8 solo kills, Legendary | EUW Master | 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1784
   region: EUW
+  uploaded: 2025-11-05
 - videoId: 8EagFDH2Gbs
   title: AATROX vs TEEMO (TOP) | 5/2/15 | KR Master | 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1606
   region: KR
+  uploaded: 2025-10-30
 - videoId: eI5YvuOhYxM
   title: AATROX vs TEEMO (TOP) | 8 solo kills, 8/1/1, Legendary | EUW Challenger | 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 836
   region: EUW
+  uploaded: 2025-10-26
 - videoId: H_A9WXUSQqw
   title: AATROX vs TEEMO (TOP) | 8k comeback | NA Master | 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 2594
   region: NA
+  uploaded: 2025-08-31
 - videoId: pso9s4LC3_4
   title: AATROX vs TEEMO (TOP) | 1600+ games, 13/3/12, 44k DMG, Godlike | EUW Grandmaster | 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1862
   region: EUW
+  uploaded: 2025-07-09
 - videoId: F_jhjP61kBo
   title: AATROX vs TEEMO (TOP) | BR Grandmaster | 25.9
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2102
+  uploaded: 2025-05-07
 - videoId: sf-WIOya9Ow
   title: AATROX vs TEEMO (TOP) | 600+ games | KR Master | 25.8
   rankClaim: Master
   patch: "25.8"
   durationSec: 1924
   region: KR
+  uploaded: 2025-04-18
 - videoId: KeH4y1UgGMM
   title: AATROX vs TEEMO (TOP) | 14/1/12, Legendary | BR Challenger | 25.7
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1726
-- videoId: 0swlEUhnzJE
-  title: AATROX vs TEEMO (TOP) | 7 solo kills, Dominating | KR Master | 25.5
-  rankClaim: Master
-  patch: "25.5"
-  durationSec: 1317
-  region: KR
+  uploaded: 2025-04-17
 - videoId: UexkNGXaOkM
   title: Aatrox vs Teemo Top - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2230
   region: KR
+  uploaded: 2025-03-17
+- videoId: 0swlEUhnzJE
+  title: AATROX vs TEEMO (TOP) | 7 solo kills, Dominating | KR Master | 25.5
+  rankClaim: Master
+  patch: "25.5"
+  durationSec: 1317
+  region: KR
+  uploaded: 2025-03-11

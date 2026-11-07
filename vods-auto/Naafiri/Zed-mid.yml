@@ -5,15 +5,76 @@
   patch: "25.24"
   durationSec: 1526
   region: EUW
+  uploaded: 2025-12-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:37
+      label: Take down The Turret
+      kind: tower
+    - at: 14:21
+      label: Take down The Turret
+      kind: tower
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Take down The Turret
+      kind: tower
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Take down The Turret
+      kind: tower
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Take down The Turret
+      kind: tower
+    - at: 23:14
+      label: Take down The Inhibitor
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Take down The Turret
+      kind: tower
+    - at: 24:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:15
+      label: End credit
 - videoId: KK9GsxuwFNA
   title: Naafiri Mid vs Zed - EUW Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1782
   region: EUW
+  uploaded: 2025-08-27
 - videoId: 0L1KNxyx72c
   title: Naafiri vs Zed Mid - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1456
   region: KR
+  uploaded: 2025-03-21

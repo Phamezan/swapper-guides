@@ -14,6 +14,7 @@
   region: KR
   player: Keria
   team: T1
+  uploaded: 2026-08-10
 - videoId: kkIBXagd3PY
   title: (DK Lucid) Vi Jungle vs Lee Sin (EDG Xiaohao) - KR Challenger Patch 26.15
   rankClaim: Challenger
@@ -22,6 +23,7 @@
   region: KR
   player: Lucid
   team: DK
+  uploaded: 2026-08-01
 - videoId: 77LI59Pebxs
   title: (GEN Canyon) Vi Jungle vs Lee Sin - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -30,6 +32,7 @@
   region: KR
   player: Canyon
   team: GEN
+  uploaded: 2026-07-05
 - videoId: dY1whJok_W8
   title: (TT Junhao) Vi Jungle vs Lee Sin - KR Master Patch 26.13
   rankClaim: Master
@@ -37,21 +40,25 @@
   durationSec: 1830
   region: KR
   player: TT Junhao
+  uploaded: 2026-06-28
 - videoId: Qn1xYLJf3cI
   title: Vi Jungle vs Lee Sin - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1442
   region: KR
+  uploaded: 2025-12-18
 - videoId: fxVz3-4YNOY
   title: Vi vs Lee Sin Jungle - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 2191
   region: KR
+  uploaded: 2025-07-24
 - videoId: 8JOwSGaD9vQ
   title: Vi vs Lee Sin Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1666
   region: KR
+  uploaded: 2025-03-16

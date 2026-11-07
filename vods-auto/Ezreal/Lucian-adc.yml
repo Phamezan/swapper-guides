@@ -8,6 +8,60 @@
   player: Viper
   team: BLG
   uploaded: 2026-10-24
+- videoId: KvxLG72A6v4
+  title: '"HanQL" 2255LP Ezreal : His Spacing and Kiting is on Another Level - Engsub ( vs Lucian )'
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1537
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-09-19
+  format: stream
+- videoId: GzNTxubaOVY
+  title: '"HanQL" 2255LP Ezreal : His Mechanic is so AGGRESSIVE at Level One - Engsub ( vs Lucian )'
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1309
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-30
+  format: stream
+- videoId: HjolykhTWIc
+  title: "\"HanQL\" 2255LP Ezreal : His Mechanic is Absolutely a Beast - Engsub ( vs Lucian, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1540
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-08
+  format: stream
+- videoId: -i56nFMjpEo
+  title: '"HanQL" 2255LP Ezreal : 1v5 DOMINATING in HighElo - Engsub (Ez vs Aphe, Lucian)'
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1236
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-07-22
+  format: stream
+- videoId: 6eEUW0BkRZg
+  title: 2255LP Ezreal "HanQL" He Make Super Server Master Look Like AI - Engsub (Ez vs Lucian, Viktor)
+  rankClaim: Master
+  patch: "26.13"
+  durationSec: 1460
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-07-04
+  format: stream
+- videoId: ca-Sbkvi240
+  title: "Gumayusi Ezreal : Insane Comeback of History Saving The Game - Engsub ( Ez vs Lucian )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1239
+  patchEstimated: true
+  player: Gumayusi
+  uploaded: 2026-05-14
+  format: stream
 - videoId: gJG_hP31Q8I
   title: HLE Gumayusi Ezreal vs Lucian [ ADC ] Korea Challenger 2408 LP | Patch 26.9
   rankClaim: Challenger
@@ -17,6 +71,22 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-05-11
+- videoId: w3ihh-rHu44
+  title: "2255LP Ezreal : This BUFF Make Ezreal Become a GOD in Botlane - Engsub ( Ez vs Lucian, Draven )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1249
+  patchEstimated: true
+  uploaded: 2026-05-08
+  format: stream
+- videoId: twsyizwq6U4
+  title: When 2255LP Ezreal Loss His Main , Using Lucian to Destroying Them For Stealing His Champ - Engsub
+  rankClaim: Master+
+  patch: "26.7"
+  durationSec: 939
+  patchEstimated: true
+  uploaded: 2026-04-03
+  format: stream
 - videoId: ESFtKZF3NUo
   title: T1 Peyz Ezreal ADC vs Lucian - Patch 26.3 Korea Challenger 1981 LP
   rankClaim: Challenger
@@ -25,6 +95,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-12
 - videoId: 83_If8BdpuU
   title: T1 Peyz Ezreal vs Lucian [ ADC ] Korea Grandmaster 795 LP | Patch 26.1
   rankClaim: Grandmaster
@@ -33,6 +104,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-21
 - videoId: -tjjW0M5O5E
   title: T1 Gumayusi Ezreal vs Lucian [ ADC ] Korea Grandmaster Patch 25.19
   rankClaim: Grandmaster
@@ -41,12 +113,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-10-08
 - videoId: JCys5hwA4ME
   title: Ezreal ADC vs Lucian - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1618
   region: KR
+  uploaded: 2025-07-20
 - videoId: DVcpRy42qSk
   title: Ezreal vs Lucian ADC [ DRX Teddy ] Patch 25.14 Korea Challenger
   rankClaim: Challenger
@@ -55,18 +129,21 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-16
 - videoId: hJsCQhK9YlY
   title: Ezreal ADC vs Lucian - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1638
   region: EUW
+  uploaded: 2025-07-18
 - videoId: DLr2AEjbvbo
   title: Ezreal vs Lucian ADC - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 2116
   region: KR
+  uploaded: 2025-06-11
 - videoId: u-OtLtjt6AI
   title: T1 Gumayusi Ezreal vs Lucian [ ADC ] Patch 25.11 Korea Challenger
   rankClaim: Challenger
@@ -75,6 +152,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-05
 - videoId: tsPOKwwMeR8
   title: T1 Gumayusi Ezreal vs Lucian [ ADC ] Patch 25.10 Korea Grandmaster
   rankClaim: Grandmaster
@@ -83,3 +161,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-15

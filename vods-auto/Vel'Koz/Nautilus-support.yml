@@ -5,15 +5,73 @@
   patch: "26.6"
   durationSec: 1654
   region: KR
+  uploaded: 2026-03-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Take down The Turret
+      kind: tower
+    - at: 12:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: Take down The Inhibitor
+    - at: 27:23
+      label: End credit
 - videoId: q0mnEZz2H38
   title: Vel'Koz Support vs Nautilus - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1861
   region: KR
+  uploaded: 2025-07-27
 - videoId: tUdyc9OV2kI
   title: Vel'Koz Support vs Nautilus - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1928
   region: KR
+  uploaded: 2025-05-10

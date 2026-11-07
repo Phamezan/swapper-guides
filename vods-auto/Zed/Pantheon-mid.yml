@@ -68,19 +68,85 @@
   durationSec: 1711
   region: KR
   player: OnZed
+  uploaded: 2025-12-22
 - videoId: Aq1Lwga9d6s
   title: Zed vs Pantheon Mid - KR Grandmaster - Patch 25.21 Seasin 15
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1471
   region: KR
+  uploaded: 2025-11-04
 - videoId: Mi7DQ-hk_wM
   title: Zed Mid vs Pantheon - TW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1587
+  uploaded: 2025-04-20
 - videoId: so2pmVur44A
   title: Zed Mid vs Pantheon - TW Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1957
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:01
+      label: Take down The Turret
+      kind: tower
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:12
+      label: Take down The Turret
+      kind: tower
+    - at: 31:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:16
+      label: End credit

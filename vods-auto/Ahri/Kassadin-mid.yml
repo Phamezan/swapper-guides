@@ -113,9 +113,19 @@
   patchEstimated: true
   player: ShokLoL
   uploaded: 2026-05-08
+- videoId: 1H8e7MGutVc
+  title: "MID.GG: [ Nemesis ] Ahri MID vs Kassadin | EUW GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1517
+  region: EUW
+  patchEstimated: true
+  player: Nemesis
+  uploaded: 2026-02-09
 - videoId: h52UlWviEsc
   title: Ahri Mid vs Kassadin - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1451
   region: EUW
+  uploaded: 2025-12-13

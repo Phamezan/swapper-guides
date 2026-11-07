@@ -7,28 +7,71 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-09-24
 - videoId: jdHZC1PnooY
   title: Nilah ADC vs Kai'Sa - VN Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1728
+  uploaded: 2026-03-28
 - videoId: KJ5FsRL48y8
   title: Nilah ADC vs Kai'Sa - VN Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1506
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:28
+      label: Take down The Turret
+      kind: tower
+    - at: 17:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:19
+      label: Take down The Turret
+      kind: tower
+    - at: 20:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Take down The Turret
+      kind: tower
+    - at: 22:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: End credit
 - videoId: 6FrAgJcom2M
   title: Nilah ADC vs Kai'Sa - EUW Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1527
   region: EUW
+  uploaded: 2025-11-21
 - videoId: f5LRIbyrhQA
   title: Nilah ADC vs Kai'Sa - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1830
   region: KR
+  uploaded: 2025-10-31
 - videoId: -wrmqjTixgM
   title: T1 Gumayusi Nilah vs Kaisa [ ADC ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -37,15 +80,102 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-03
 - videoId: iok_eohSpPk
   title: Nilah ADC vs Kai'Sa - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 2042
   region: KR
+  uploaded: 2025-05-08
 - videoId: 6rxdsU_-dwU
   title: Nilah ADC vs Kai'Sa - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2018
   region: EUW
+  uploaded: 2025-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:59
+      label: Take down The Turret
+      kind: tower
+    - at: 11:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:16
+      label: Take down The Turret
+      kind: tower
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:34
+      label: Take down The Turret
+      kind: tower
+    - at: 23:59
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:31
+      label: Take down The Inhibitor
+    - at: 26:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:31
+      label: Take down The Inhibitor
+    - at: 32:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:17
+      label: End credit

@@ -7,6 +7,7 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-06-22
 - videoId: Bp7C0yhQZbU
   title: Tarzan Naafiri vs Viego Jungle - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
@@ -14,6 +15,7 @@
   durationSec: 1636
   region: KR
   player: Tarzan
+  uploaded: 2025-09-20
 - videoId: XzoyWH7gK9I
   title: Naafiri vs Viego Jungle [  HLE Peanut ] Patch 25.13 Korea Challenger ✅
   rankClaim: Challenger
@@ -22,30 +24,28 @@
   region: KR
   player: Peanut
   team: HLE
+  uploaded: 2025-07-05
 - videoId: UbeK-hoCbIQ
   title: Naafiri vs Viego Jungle - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1751
   region: KR
+  uploaded: 2025-06-03
 - videoId: Sb_CDBjfKg0
   title: Naafiri vs Viego Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1620
   region: KR
+  uploaded: 2025-03-26
 - videoId: 4AyVly3sK2U
   title: Naafiri vs Viego Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 2010
   region: KR
-- videoId: bxTUgo4qTac
-  title: Naafiri vs Viego Jungle - KR Challenger - Patch 25.6 Season 15
-  rankClaim: Challenger
-  patch: "25.6"
-  durationSec: 1961
-  region: KR
+  uploaded: 2025-03-24
 - videoId: I6iDc9xZJXo
   title: T1 Oner Naafiri vs Viego [ Jungle ] Patch 25.6 Korea Master ✅
   rankClaim: Master
@@ -54,3 +54,11 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-03-24
+- videoId: bxTUgo4qTac
+  title: Naafiri vs Viego Jungle - KR Challenger - Patch 25.6 Season 15
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1961
+  region: KR
+  uploaded: 2025-03-22

@@ -61,27 +61,95 @@
   patch: "25.24"
   durationSec: 1571
   region: KR
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:47
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:30
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Take down The Turret
+      kind: tower
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:27
+      label: Hunt The Atakhan
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:54
+      label: Take down The Inhibitor
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: End credit
 - videoId: C-y5VjCcvxg
   title: Vi Jungle vs Qiyana - EUW Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1517
   region: EUW
+  uploaded: 2025-09-25
 - videoId: YphrkkZHEp8
   title: Vi vs Qiyana Jungle - KR Grandmaster - Patch 25.18 Season 15
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 2116
   region: KR
+  uploaded: 2025-09-17
 - videoId: cz2gwRfKd9o
   title: Vi vs Qiyana Jungle - KR Challenger - Patch 25.17 Season 15
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1921
   region: KR
+  uploaded: 2025-09-09
 - videoId: iw4VxyjnJ4o
   title: Vi Jungle vs Qiyana - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1869
   region: KR
+  uploaded: 2025-08-18

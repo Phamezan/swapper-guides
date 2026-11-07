@@ -14,6 +14,7 @@
   patch: "26.8"
   durationSec: 1680
   region: KR
+  uploaded: 2026-04-29
 - videoId: Q9CG_6MwAts
   title: Kayle vs Twisted Fate Mid - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -27,15 +28,18 @@
   patch: "25.24"
   durationSec: 1587
   region: KR
+  uploaded: 2025-12-29
 - videoId: VbM_PcjbmGU
   title: Kayle Mid vs Twisted Fate - EUW Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1800
   region: EUW
+  uploaded: 2025-08-18
 - videoId: nACaMzqNcL8
   title: Kayle Mid vs Twisted Fate - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1566
   region: EUW
+  uploaded: 2025-07-04

@@ -5,3 +5,86 @@
   patch: "25.4"
   durationSec: 1909
   region: KR
+  uploaded: 2025-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:29
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:50
+      label: Take down The Turret
+      kind: tower
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:01
+      label: Hunt The Atakhan
+    - at: 24:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:26
+      label: Take down The Turret
+      kind: tower
+    - at: 28:55
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:14
+      label: Take down The Turret
+      kind: tower
+    - at: 31:28
+      label: End credit

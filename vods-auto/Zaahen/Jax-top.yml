@@ -5,39 +5,87 @@
   patch: "26.4"
   durationSec: 1661
   region: KR
+  uploaded: 2026-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:30
+      label: End credit
 - videoId: le9qqjGHkUI
   title: Zaahen vs Jax Top - NA Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1741
   region: NA
+  uploaded: 2025-12-18
 - videoId: AxUN9TyxeJ8
   title: Zaahen vs Jax Top - KR Grandmaster - Patch 25.24 Season 15
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1711
   region: KR
+  uploaded: 2025-12-11
 - videoId: nBsJ3lff1d0
   title: Zaahen vs Jax Top - KR Master - Patch 25.23 Season 15
   rankClaim: Master
   patch: "25.23"
   durationSec: 1711
   region: KR
+  uploaded: 2025-12-03
 - videoId: f1YeUJZzVuY
   title: Zaahen vs Jax Top - KR Master - Patch 25.23 Season 15
   rankClaim: Master
   patch: "25.23"
   durationSec: 1591
   region: KR
-- videoId: a2q5Xdu8M5w
-  title: Zaahen Top vs Jax - KR Challenger Patch 25.23
-  rankClaim: Challenger
-  patch: "25.23"
-  durationSec: 1867
-  region: KR
+  uploaded: 2025-12-02
 - videoId: olRkzad0zC0
   title: Zaahen vs Jax [ TOP ] Patch 25.23 Korea Challenger 1507 LP
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1611
   region: KR
+  uploaded: 2025-11-22
+- videoId: a2q5Xdu8M5w
+  title: Zaahen Top vs Jax - KR Challenger Patch 25.23
+  rankClaim: Challenger
+  patch: "25.23"
+  durationSec: 1867
+  region: KR
+  uploaded: 2025-11-22

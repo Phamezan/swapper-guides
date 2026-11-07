@@ -7,6 +7,7 @@
   region: KR
   player: Sponge
   team: NS
+  uploaded: 2026-08-14
 - videoId: R_6yXFPiOMY
   title: (IG Wei) Pantheon Jungle vs Lee Sin (KRWI Clid) - KR Challenger Patch 26.14
   rankClaim: Challenger
@@ -15,6 +16,7 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-07-30
 - videoId: kP171pVXlJI
   title: (AL Shanks) Pantheon Jungle vs Lee Sin - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -23,6 +25,7 @@
   region: EUW
   player: Shanks
   team: AL
+  uploaded: 2026-07-18
 - videoId: FjbwxPeDoOo
   title: (BFX Raptor) Pantheon Jungle vs Lee Sin - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -31,24 +34,57 @@
   region: KR
   player: Raptor
   team: BFX
+  uploaded: 2026-05-27
+  result: L
+  moments:
+    - at: 5:19
+      label: First Blood — Pantheon kills Lee Sin
+      kind: kill
+    - at: 7:33
+      label: Pantheon kills Bard
+      kind: kill
+    - at: 8:33
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:24
+      label: Pantheon takes down Varus
+    - at: 13:51
+      label: Qiyana Double Kill
+      kind: kill
+    - at: 14:37
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:18
+      label: Pantheon catches Varus again
+    - at: 18:43
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 22:04
+      label: Pantheon catches Bard
+    - at: 23:18
+      label: Qiyana Double Kill
+      kind: kill
 - videoId: uDH95ztnibc
   title: Pantheon Jungle vs Lee Sin - KR Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1547
   region: KR
+  uploaded: 2026-04-26
 - videoId: nHaTe2r60J8
   title: Pantheon vs Lee Sin Jungle - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1876
   region: KR
+  uploaded: 2025-11-09
 - videoId: R3PI-5lMkKQ
   title: Pantheon vs Lee Sin [ Jungle ] Patch 25.21 Korea Challenger 1550 LP
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1811
   region: KR
+  uploaded: 2025-10-26
 - videoId: mxnlrkPtJ0s
   title: T1 Oner Pantheon vs Lee Sin [ Jungle ] Patch 25.8 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -57,3 +93,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-04-24

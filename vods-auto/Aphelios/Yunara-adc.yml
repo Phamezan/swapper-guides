@@ -77,12 +77,6 @@
   player: Smash
   team: DK
   uploaded: 2026-10-04
-- videoId: wl2Chdz7_UM
-  title: Aphelios ADC vs Yunara - KR Master Patch 26.19
-  rankClaim: Master
-  patch: "26.19"
-  durationSec: 1465
-  region: KR
 - videoId: ba_cyNN64Ng
   title: Aphelios vs Yunara ADC - KR Challenger - Patch 16.19 Season 16
   rankClaim: Challenger
@@ -90,6 +84,124 @@
   durationSec: 1776
   region: KR
   uploaded: 2026-10-03
+- videoId: FZSuhaFWT9M
+  title: "Rank 1 Aphelios : His Combos is TOTAL DESTRUCTIONS - Engsub ( vs Yunara, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1400
+  patchEstimated: true
+  uploaded: 2026-09-30
+  format: stream
+- videoId: wl2Chdz7_UM
+  title: Aphelios ADC vs Yunara - KR Master Patch 26.19
+  rankClaim: Master
+  patch: "26.19"
+  durationSec: 1465
+  region: KR
+  uploaded: 2026-09-27
+  result: W
+  moments:
+    - at: 2:05
+      label: First Blood — Aphelios kills Yunara
+      kind: kill
+    - at: 7:14
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:03
+      label: Aphelios takes down Yunara
+    - at: 10:28
+      label: Aphelios outduels Yunara
+    - at: 12:07
+      label: Aphelios takes down Yunara
+    - at: 12:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:27
+      label: Aphelios picks off LeBlanc
+    - at: 15:05
+      label: Aphelios Double Kill
+      kind: kill
+    - at: 15:29
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:02
+      label: Aphelios picks off Blitzcrank
+    - at: 16:30
+      label: Aphelios eliminates Lee Sin
+    - at: 18:21
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:50
+      label: Gragas eliminates LeBlanc
+    - at: 19:46
+      label: Aphelios outplays Yunara again
+    - at: 21:13
+      label: Aphelios Double Kill
+      kind: kill
+    - at: 21:49
+      label: Red takes Baron
+      kind: baron
+    - at: 23:09
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:29
+      label: Aphelios Double Kill
+      kind: kill
+- videoId: X4aQDWVjYYs
+  title: "Rank 1 Aphelios : STROMING Super Server Master Elo - Engsub ( vs Ez, Yunara )"
+  rankClaim: Master
+  patch: "26.18"
+  durationSec: 1433
+  patchEstimated: true
+  uploaded: 2026-09-21
+  format: stream
+- videoId: EbzEBsE5Hg4
+  title: "Rank 1 Aphelios : He Turn a GOD in Last TeamFighting - Engsub ( vs Yunara )"
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 810
+  patchEstimated: true
+  uploaded: 2026-09-11
+  format: stream
+- videoId: zLlTdlTYLv0
+  title: "1300LP Aphelios : His Chaning Gun in Midle Of TeamFight is 200IQ - Engsub ( vs Ez, Yunara )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1601
+  patchEstimated: true
+  uploaded: 2026-08-21
+  format: stream
+- videoId: C4q8m93nQik
+  title: "Rank 1 Aphelios : DOMINATING KOREAN Challenger at 1800LP Match ( vs Yunara, Ez )"
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1485
+  patchEstimated: true
+  uploaded: 2026-08-19
+  format: stream
+- videoId: Ih_Q7KkdVoQ
+  title: "Rank 1 Aphelios : His DAMAGE is so BROKEN with C44 - Engsub ( Aphe vs Yunara, Tris )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1297
+  patchEstimated: true
+  uploaded: 2026-05-19
+  format: stream
+- videoId: BYOazSDgK1w
+  title: "Rank 1 Aphelios : Insane 1v5 HardCarry in HighElo - Engsub ( Aphe vs Yunara, Tris )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1444
+  patchEstimated: true
+  uploaded: 2026-05-15
+  format: stream
+- videoId: uTJ9YWq2PYk
+  title: "Rank 1 Aphelios : His Combos is Gonna Blow You Mind - Engsub ( Aphe vs Yunara )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 833
+  patchEstimated: true
+  uploaded: 2026-05-05
+  format: stream
 - videoId: D8j-eONau94
   title: Aphelios vs Yunara ADC - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
@@ -105,12 +217,14 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-02-23
 - videoId: tx2WQGOV0lg
   title: Aphelios ADC vs Yunara - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1472
   region: KR
+  uploaded: 2026-01-24
 - videoId: 242NxqvDWQE
   title: T1 Peyz Aphelios vs Yunara [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -119,6 +233,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-09
 - videoId: OLvEAa_loW4
   title: Viper Aphelios vs Yunara ADC - KR Grandmaster - Patch 25.24 Season 15
   rankClaim: Grandmaster
@@ -126,18 +241,14 @@
   durationSec: 1726
   region: KR
   player: Viper
+  uploaded: 2025-12-30
 - videoId: syRRudSJsJg
   title: Aphelios vs Yunara ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 2101
   region: KR
-- videoId: lE_hmHXVhEk
-  title: Aphelios vs Yunara ADC - KR Challenger - Patch 25.24 Season 15
-  rankClaim: Challenger
-  patch: "25.24"
-  durationSec: 1771
-  region: KR
+  uploaded: 2025-12-29
 - videoId: tqqdtf1-XgI
   title: BLG Viper Aphelios vs Yunara [ ADC ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -146,6 +257,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2025-12-29
 - videoId: zNaEiiquxqA
   title: Aphelios vs Yunara ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -154,6 +266,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2025-12-24
 - videoId: oFcDKNgy9Fg
   title: Aphelios vs Yunara ADC [ Teddy ] Korea Challenger 1220 LP | Patch 25.24
   rankClaim: Challenger
@@ -161,6 +274,7 @@
   durationSec: 1448
   region: KR
   player: Teddy
+  uploaded: 2025-12-12
 - videoId: zvlsS_aSNiM
   title: T1 Peyz Aphelios vs Yunara [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -169,6 +283,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2025-12-08
+- videoId: lE_hmHXVhEk
+  title: Aphelios vs Yunara ADC - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1771
+  region: KR
+  uploaded: 2025-12-07
 - videoId: pZotHWmJagI
   title: Aphelios vs Yunara ADC [ TripleKill ] Korea Master Patch 25.22
   rankClaim: Master
@@ -176,30 +298,35 @@
   durationSec: 1922
   region: KR
   player: TripleKill
+  uploaded: 2025-11-07
 - videoId: 9bS8lydL2r0
   title: Aphelios ADC vs Yunara - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1770
   region: KR
+  uploaded: 2025-10-25
 - videoId: GqtRn0ab_6E
   title: Aphelios vs Yunara ADC - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1831
   region: KR
+  uploaded: 2025-10-06
 - videoId: HEYZ4kofD0Y
   title: Aphelios ADC vs Yunara - EUW Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1795
   region: EUW
+  uploaded: 2025-08-14
 - videoId: f0x0CIroIPE
   title: Aphelios vs Yunara ADC - KR Grandmaster - Patch 25.15 Season 15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 2041
   region: KR
+  uploaded: 2025-08-13
 - videoId: THTBJZh5rVA
   title: T1 Smash Aphelios vs Yunara [ ADC ] Korea Challenger Patch 25.15
   rankClaim: Challenger
@@ -208,9 +335,11 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-08-09
 - videoId: aBkuZ7tJuE8
   title: Aphelios vs Yunara ADC - KR Grandmaster - Patch 25.14 Season 15
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1806
   region: KR
+  uploaded: 2025-07-23

@@ -59,9 +59,58 @@
   patch: "25.22"
   durationSec: 1646
   region: KR
+  uploaded: 2025-11-07
 - videoId: Tqg2spZnNHk
   title: Thresh Support vs Zyra - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1590
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Take down The Turret
+      kind: tower
+    - at: 16:49
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Take down The Turret
+      kind: tower
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: End credit

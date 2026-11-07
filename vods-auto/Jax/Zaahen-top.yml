@@ -5,24 +5,28 @@
   patch: "26.9"
   durationSec: 1866
   region: KR
+  uploaded: 2026-05-10
 - videoId: 33PdBUzyKYY
   title: Jax Top vs Zaahen - KR Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1527
   region: KR
+  uploaded: 2026-04-19
 - videoId: Lcs6KRSJrLM
   title: Jax vs Zaahen [ TOP ] Korea Grandmaster 941 LP | Patch 26.2
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1261
   region: KR
+  uploaded: 2026-02-01
 - videoId: 1pXICa54H9A
   title: Jax Top vs Zaahen - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1521
   region: EUW
+  uploaded: 2025-12-22
 - videoId: pV8jH9eUmiI
   title: HLE Zeus Jax vs Zaahen [ TOP ] Patch 25.24 Korea Master
   rankClaim: Master
@@ -31,6 +35,7 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2025-12-09
 - videoId: UJPXvkpLlH8
   title: Jax vs Zaahen TOP [ QuadraKill ] Patch 25.23 Korea Grandmaster 1028 LP
   rankClaim: Grandmaster
@@ -38,3 +43,4 @@
   durationSec: 1459
   region: KR
   player: QuadraKill
+  uploaded: 2025-11-28

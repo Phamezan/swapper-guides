@@ -113,3 +113,12 @@
       kind: teamfight
     - at: 24:01
       label: End credit
+- videoId: 7RS-aLnBEcE
+  title: "MID.GG: [ Pobelter ] Ahri MID vs Nasus | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1201
+  region: NA
+  patchEstimated: true
+  player: Pobelter
+  uploaded: 2026-02-13

@@ -14,6 +14,7 @@
   patch: "26.18"
   durationSec: 1779
   region: KR
+  uploaded: 2026-09-14
 - videoId: 3ludzVjwSpo
   title: (LNG sheer) Gnar Top vs K'Sante - KR Challenger Patch 26.14
   rankClaim: Challenger
@@ -22,15 +23,68 @@
   region: KR
   player: sheer
   team: LNG
+  uploaded: 2026-07-19
 - videoId: GsyY1oa_lR4
   title: Gnar Top vs K'Sante - KR Grandmaster Patch 26.05
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1519
   region: KR
+  uploaded: 2026-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:42
+      label: Take down The Turret
+      kind: tower
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Take down The Turret
+      kind: tower
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: End credit
 - videoId: TxUkeO7Bjog
   title: Gnar Top vs K'Sante - EUW Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1779
   region: EUW
+  uploaded: 2025-07-16

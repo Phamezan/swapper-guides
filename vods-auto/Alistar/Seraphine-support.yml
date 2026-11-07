@@ -5,15 +5,71 @@
   patch: "25.24"
   durationSec: 1613
   region: KR
+  uploaded: 2026-01-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Take down The Turret
+      kind: tower
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Take down The Turret
+      kind: tower
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: End credit
 - videoId: 0lvH4ZBXNpk
   title: Alistar Support vs Seraphine - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1448
   region: KR
+  uploaded: 2025-11-08
 - videoId: XD3YZ3gHW0s
   title: Alistar Support vs Seraphine - EUW Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1865
   region: EUW
+  uploaded: 2025-04-01

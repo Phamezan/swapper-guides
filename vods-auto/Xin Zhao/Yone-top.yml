@@ -5,3 +5,66 @@
   patch: "25.24"
   durationSec: 1620
   region: KR
+  uploaded: 2026-01-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:46
+      label: Take down The Turret
+      kind: tower
+    - at: 12:57
+      label: Take down The Turret
+      kind: tower
+    - at: 15:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:49
+      label: End credit

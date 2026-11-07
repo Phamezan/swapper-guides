@@ -212,8 +212,59 @@
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1804
+  uploaded: 2025-09-28
 - videoId: NKzUY_lj0c0
   title: Zed Mid vs Qiyana - TW Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1532
+  uploaded: 2025-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:03
+      label: Take down The Turret
+      kind: tower
+    - at: 17:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Take down The Turret
+      kind: tower
+    - at: 22:54
+      label: Take down The Inhibitor
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: End credit

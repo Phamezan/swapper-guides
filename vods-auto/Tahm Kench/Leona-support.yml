@@ -61,9 +61,49 @@
   patch: "25.13"
   durationSec: 2037
   region: NA
+  uploaded: 2025-07-16
 - videoId: pn0BrXYEu6g
   title: Tahm Kench Support vs Leona - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1981
   region: KR
+  uploaded: 2025-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Take down The Turret
+      kind: tower
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:45
+      label: Take down The Turret
+      kind: tower
+    - at: 32:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:40
+      label: End credit

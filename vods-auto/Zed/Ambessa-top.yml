@@ -113,27 +113,99 @@
   patch: "25.21"
   durationSec: 1640
   region: KR
+  uploaded: 2025-10-27
 - videoId: selS42Ld4is
   title: Zed Top vs Ambessa - NA Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1756
   region: NA
+  uploaded: 2025-08-27
 - videoId: DCAxmazphVk
   title: Zed Top vs Ambessa - EUW Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1799
   region: EUW
+  uploaded: 2025-07-22
 - videoId: 80rN-3A0Toc
   title: Zed Top vs Ambessa - EUW Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1754
   region: EUW
+  uploaded: 2025-06-26
 - videoId: E5vF7SXU8eU
   title: Zed Top vs Ambessa - EUW Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1945
   region: EUW
+  uploaded: 2025-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Take down The Turret
+      kind: tower
+    - at: 12:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:31
+      label: Take down The Turret
+      kind: tower
+    - at: 16:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: Take down The Turret
+      kind: tower
+    - at: 31:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:39
+      label: Take down The Inhibitor
+    - at: 31:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:04
+      label: End credit

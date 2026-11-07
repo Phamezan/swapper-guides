@@ -5,9 +5,54 @@
   patch: "26.8"
   durationSec: 1633
   region: EUW
+  uploaded: 2026-04-23
+  result: L
+  moments:
+    - at: 3:29
+      label: First Blood — Cho'Gath kills Garen
+      kind: kill
+    - at: 5:27
+      label: Cho'Gath catches Garen
+    - at: 6:08
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:30
+      label: Cho'Gath outduels Garen again
+    - at: 10:02
+      label: Cho'Gath eliminates Garen
+    - at: 11:20
+      label: Cho'Gath outplays Garen (3rd time)
+    - at: 11:47
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:41
+      label: Cho'Gath solo kills Garen (4th time)
+      kind: kill
+    - at: 17:20
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:47
+      label: Cho'Gath eliminates Garen
+    - at: 22:25
+      label: Red takes Baron
+      kind: baron
+    - at: 23:01
+      label: Cho'Gath eliminates Lulu
+    - at: 23:41
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:33
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 25:10
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:48
+      label: Cho'Gath takes down Ekko
+    - at: 26:15
+      label: Cho'Gath picks off Twitch
 - videoId: -2af5uNRcuo
   title: Cho'Gath Top vs Garen - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1719
   region: KR
+  uploaded: 2025-11-14

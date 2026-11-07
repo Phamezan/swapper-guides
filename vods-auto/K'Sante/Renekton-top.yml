@@ -5,9 +5,65 @@
   patch: "25.24"
   durationSec: 1509
   region: EUW
+  uploaded: 2026-01-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Take down The Turret
+      kind: tower
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Take down The Turret
+      kind: tower
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:46
+      label: Take down The Turret
+      kind: tower
+    - at: 19:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Take down The Turret
+      kind: tower
+    - at: 22:04
+      label: Take down The Inhibitor
+    - at: 24:25
+      label: Take down The Inhibitor
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: End credit
 - videoId: mpmb_fBkOUs
   title: KSante vs Renekton Top - EUW Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 2296
   region: EUW
+  uploaded: 2025-09-18

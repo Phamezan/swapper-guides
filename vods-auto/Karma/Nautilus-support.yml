@@ -6,27 +6,128 @@
   durationSec: 1663
   region: KR
   player: SHG Vsta
+  uploaded: 2026-07-19
 - videoId: gFLW6LI5CaA
   title: Karma Support vs Nautilus - KR Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1479
   region: KR
+  uploaded: 2026-04-18
 - videoId: iAcvqJxPbRc
   title: Karma Support vs Nautilus - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1540
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Take down The Turret
+      kind: tower
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: Take down The Inhibitor
+    - at: 25:11
+      label: Take down The Turret
+      kind: tower
+    - at: 25:29
+      label: End credit
 - videoId: zwwn0hQtQZ8
   title: Karma Support vs Nautilus - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1835
   region: KR
+  uploaded: 2026-02-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:39
+      label: Take down The Turret
+      kind: tower
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:24
+      label: End credit
 - videoId: WX7YyFlEeGU
   title: Karma Support vs Nautilus - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1743
   region: KR
+  uploaded: 2025-08-15

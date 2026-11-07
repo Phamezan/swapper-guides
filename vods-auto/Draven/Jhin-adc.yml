@@ -55,6 +55,30 @@
       label: Draven outduels Jhin
     - at: 27:34
       label: Draven eliminates Vi
+- videoId: hn-pyyYQ_qw
+  title: "Rank 1 Draven : This Dude is NEXT LEVEL OF AGGRESSIVE - Engsub ( vs Jhin, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1515
+  patchEstimated: true
+  uploaded: 2026-09-14
+  format: stream
+- videoId: 9Ry6fZ62vcY
+  title: When Rank 1 Draven visit FAN TOWN Diamond Elo - Engsub ( vs Aphe, Jhin )
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1616
+  patchEstimated: true
+  uploaded: 2026-08-16
+  format: stream
+- videoId: F6JVTkiFwd8
+  title: "Rank 1 Draven : This Man is a BRUTAL MACHINE \" I'M GOING TO WAR \" Engsub ( vs Jhin, Yunara )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1486
+  patchEstimated: true
+  uploaded: 2026-08-12
+  format: stream
 - videoId: otCmz7fnRm8
   title: Draven vs Jhin [ ADC ] Korea Master 862 LP | Patch 26.14
   rankClaim: Master
@@ -62,18 +86,92 @@
   durationSec: 1506
   region: KR
   uploaded: 2026-07-19
+- videoId: 5CQ-Iw1u3Jg
+  title: "Rank 1 Draven : He just ONE SHOT Everyone with this NEW BUILD - Engsub ( Draven vs Jhin, Twitch )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1498
+  patchEstimated: true
+  uploaded: 2026-05-11
+  format: stream
+- videoId: w0dap9MQlYM
+  title: 'Rank 1 Draven : This Dude is a REAL DEAL " Wrecking KR Master Elo" - Engsub ( Draven vs Jhin, Ashe )'
+  rankClaim: Master
+  patch: "26.9"
+  durationSec: 1185
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-04-30
+  format: stream
 - videoId: asuEzaRkjL0
   title: Draven ADC vs Jhin - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1620
   region: KR
+  uploaded: 2026-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Take down The Turret
+      kind: tower
+    - at: 22:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:33
+      label: Take down The Turret
+      kind: tower
+    - at: 25:49
+      label: Take down The Inhibitor
+    - at: 26:00
+      label: Get a Triple Kill
+      kind: kill
+    - at: 26:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: End credit
 - videoId: wTysKArvV40
   title: Draven vs Jhin [ ADC ] Korea Challenger 1740 LP | Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1412
   region: KR
+  uploaded: 2025-12-15
 - videoId: qLduRmbCVo4
   title: T1 Gumayusi Draven vs Jhin [ ADC ] Korea Challenger Patch 25.10
   rankClaim: Challenger
@@ -82,15 +180,18 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-27
 - videoId: _oG2sndyiGM
   title: Draven vs Jhin [ ADC ] Korea Grandmaster Patch 25.5 ✅
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1273
   region: KR
+  uploaded: 2025-03-07
 - videoId: PiDUV-a9WCc
   title: Draven vs Jhin ADC - KR Grandmaster - Patch 15.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1661
   region: KR
+  uploaded: 2025-02-28

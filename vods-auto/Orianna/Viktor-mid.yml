@@ -6,6 +6,52 @@
   durationSec: 1868
   region: EUW
   player: SC Nafkelah
+  uploaded: 2026-08-16
+  result: L
+  moments:
+    - at: 4:31
+      label: First Blood — Camille kills Viktor
+      kind: kill
+    - at: 7:36
+      label: Orianna picks off Zyra
+    - at: 10:11
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:53
+      label: Camille eliminates Nautilus
+    - at: 15:22
+      label: Cassiopeia picks off Corki
+    - at: 16:59
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:13
+      label: Ashe Double Kill
+      kind: kill
+    - at: 19:52
+      label: Orianna takes down Gnar
+    - at: 21:23
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:14
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:56
+      label: Orianna takes down Gnar
+    - at: 24:28
+      label: Orianna picks off Zyra
+    - at: 25:29
+      label: Ashe takes down Corki
+    - at: 27:22
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 27:39
+      label: Ashe kills Viktor
+      kind: kill
+    - at: 29:32
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:12
+      label: Mid Inhibitor falls (Blue)
 - videoId: O8yyOS9vKKo
   title: (DMG JayJay) Orianna Mid vs Viktor - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -13,27 +59,32 @@
   durationSec: 1500
   region: EUW
   player: DMG JayJay
+  uploaded: 2026-07-20
 - videoId: JtE1IiY6t5A
   title: Orianna Mid vs Viktor - EUW Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1783
   region: EUW
+  uploaded: 2026-04-19
 - videoId: Kf6__N7pfB8
   title: Orianna Mid vs Viktor - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1902
   region: KR
+  uploaded: 2025-05-17
 - videoId: yAJtl4q9zmg
   title: Orianna Mid vs Viktor - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1746
   region: KR
+  uploaded: 2025-03-24
 - videoId: shXMu1X24Hk
   title: Orianna vs Viktor Mid - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1716
   region: KR
+  uploaded: 2025-03-21

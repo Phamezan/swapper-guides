@@ -5,9 +5,69 @@
   patch: "26.11"
   durationSec: 1792
   region: KR
+  uploaded: 2026-06-07
 - videoId: 7U_u4o18LK0
   title: Twitch Jungle vs Naafiri - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1664
   region: KR
+  uploaded: 2025-05-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 1:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:51
+      label: Take down The Inhibitor
+    - at: 27:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:23
+      label: End credit

@@ -5,24 +5,77 @@
   patch: "26.12"
   durationSec: 1481
   region: KR
+  uploaded: 2026-06-25
 - videoId: qHzSGR5Dxbo
   title: Azir Mid vs Orianna - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1623
   region: KR
+  uploaded: 2026-05-15
 - videoId: nBr6FJC6aTo
   title: Azir Mid vs Orianna - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1560
   region: KR
+  uploaded: 2026-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:23
+      label: Take down The Turret
+      kind: tower
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:40
+      label: Take down The Turret
+      kind: tower
+    - at: 22:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:06
+      label: Take down The Inhibitor
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:49
+      label: End credit
 - videoId: scxKJsp2x30
   title: Azir vs Orianna Mid - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 2476
   region: KR
+  uploaded: 2025-11-28
 - videoId: CsuAU7LXns0
   title: DK ShowMaker Azir vs Orianna [ MID ] Korea Master Patch 25.13 ✅
   rankClaim: Master
@@ -31,12 +84,14 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-07-14
 - videoId: mQT9mHZkzFU
   title: Azir Mid vs Orianna - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1905
   region: KR
+  uploaded: 2025-06-02
 - videoId: Kg6JUPzhOng
   title: T1 Faker Azir vs Orianna MID [ Pentakill ] Patch 25.1 Ranked Korea ✅
   rankClaim: Master+
@@ -45,3 +100,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-01-09

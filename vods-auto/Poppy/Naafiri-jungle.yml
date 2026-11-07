@@ -7,15 +7,151 @@
   region: EUW
   player: SkewMond
   team: G2
+  uploaded: 2026-08-01
 - videoId: b9MkpSX0PAw
   title: Poppy Jungle vs Naafiri - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1883
   region: KR
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:30
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:11
+      label: Take down The Turret
+      kind: tower
+    - at: 29:58
+      label: Take down The Turret
+      kind: tower
+    - at: 30:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:02
+      label: End credit
 - videoId: 3kt0WGDFF2I
   title: Poppy Jungle vs Naafiri - NA Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1916
   region: NA
+  uploaded: 2025-04-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Take down The Turret
+      kind: tower
+    - at: 12:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Take down The Turret
+      kind: tower
+    - at: 23:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:35
+      label: End credit

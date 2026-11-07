@@ -4,3 +4,62 @@
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1495
+  uploaded: 2025-04-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:31
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:00
+      label: Hunt The Atakhan
+    - at: 21:09
+      label: Take down The Turret
+      kind: tower
+    - at: 21:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:34
+      label: End credit

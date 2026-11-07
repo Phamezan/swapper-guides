@@ -5,9 +5,66 @@
   patch: "25.19"
   durationSec: 1992
   region: KR
+  uploaded: 2025-09-27
 - videoId: IGeo_-WDshc
   title: K'Sante Top vs Gragas - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1810
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Take down The Turret
+      kind: tower
+    - at: 18:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: Take down The Turret
+      kind: tower
+    - at: 25:26
+      label: Get a Triple Kill
+      kind: kill
+    - at: 27:29
+      label: Take down The Turret
+      kind: tower
+    - at: 27:46
+      label: Take down The Inhibitor
+    - at: 28:43
+      label: Take down The Turret
+      kind: tower
+    - at: 29:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:49
+      label: End credit

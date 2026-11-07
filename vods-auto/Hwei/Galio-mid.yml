@@ -5,21 +5,77 @@
   patch: "26.2"
   durationSec: 1526
   region: KR
+  uploaded: 2026-01-28
 - videoId: Md5AC3OsKwc
   title: Hwei Mid vs Galio - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1494
   region: KR
+  uploaded: 2026-01-14
 - videoId: XHmbl0Bruc8
   title: Hwei Mid vs Galio - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1564
   region: KR
+  uploaded: 2025-05-19
 - videoId: 5OGdNRMl_TI
   title: Hwei Mid vs Galio - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2119
   region: KR
+  uploaded: 2025-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 18:32
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:37
+      label: Take down The Inhibitor
+    - at: 34:47
+      label: Take down The Turret
+      kind: tower
+    - at: 34:58
+      label: End credit

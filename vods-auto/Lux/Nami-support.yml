@@ -5,8 +5,50 @@
   patch: "26.19"
   durationSec: 1633
   region: NA
+  uploaded: 2026-09-30
 - videoId: _9oehJyphFo
   title: Lux Support vs Nami - TW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1470
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:57
+      label: Take down The Turret
+      kind: tower
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Take down The Inhibitor
+    - at: 23:57
+      label: Take down The Turret
+      kind: tower
+    - at: 24:19
+      label: End credit

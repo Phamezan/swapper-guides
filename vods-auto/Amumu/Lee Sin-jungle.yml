@@ -5,32 +5,114 @@
   patch: "26.13"
   durationSec: 1666
   region: KR
+  uploaded: 2026-07-02
 - videoId: SGsYAOMtwPY
   title: Amumu Jungle vs Lee Sin - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1576
   region: KR
+  uploaded: 2025-12-20
 - videoId: BiFB6NyN5qA
   title: Amumu Jungle vs Lee Sin - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1610
   region: KR
+  uploaded: 2025-11-30
 - videoId: syuAtLNgPGY
   title: Amumu Jungle vs Lee Sin - NA Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1451
   region: NA
+  uploaded: 2025-11-19
 - videoId: HykOPkfcM1g
   title: Amumu Jungle vs Lee Sin - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1638
   region: KR
+  uploaded: 2025-10-16
 - videoId: wfNQFeLRQ9k
   title: Amumu Jungle vs Lee Sin - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1576
+  uploaded: 2025-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:27
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:48
+      label: Take down The Turret
+      kind: tower
+    - at: 17:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:53
+      label: Hunt The Atakhan
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:55
+      label: End credit

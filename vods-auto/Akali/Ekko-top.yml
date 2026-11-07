@@ -5,3 +5,48 @@
   patch: "26.4"
   durationSec: 1823
   region: EUW
+  uploaded: 2026-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:22
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:12
+      label: End credit

@@ -5,6 +5,7 @@
   patch: "26.7"
   durationSec: 1580
   region: KR
+  uploaded: 2026-04-05
 - videoId: Gio7XsW5vYc
   title: T1 Faker Twisted Fate vs Ryze [ MID ] Korea Grandmaster Patch 25.17
   rankClaim: Grandmaster
@@ -13,9 +14,11 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-09-07
 - videoId: NLu5V9lzZBo
   title: Twisted Fate Mid vs Ryze - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1493
   region: KR
+  uploaded: 2025-07-19

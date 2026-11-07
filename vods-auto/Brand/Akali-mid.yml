@@ -5,3 +5,54 @@
   patch: "26.18"
   durationSec: 1867
   region: KR
+  uploaded: 2026-09-22
+  result: W
+  moments:
+    - at: 1:46
+      label: First Blood — Brand kills Vi
+      kind: kill
+    - at: 5:05
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 8:15
+      label: Brand takes down Darius
+    - at: 8:42
+      label: Brand kills Zeri
+      kind: kill
+    - at: 10:32
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 14:08
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 15:54
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:17
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 17:07
+      label: Kindred Double Kill
+      kind: kill
+    - at: 21:16
+      label: Brand picks off Vi
+    - at: 21:26
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:45
+      label: Miss Fortune picks off Darius
+    - at: 23:07
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:16
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 27:46
+      label: Mid Inhibitor falls (Red)
+    - at: 28:20
+      label: Brand takes down Darius
+    - at: 29:21
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:35
+      label: Yone picks off Zeri

@@ -7,3 +7,50 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-06-08
+  result: W
+  moments:
+    - at: 2:30
+      label: First Blood — Xin Zhao kills Jarvan IV
+      kind: kill
+    - at: 2:40
+      label: Xin Zhao kills Bard
+      kind: kill
+    - at: 5:28
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:19
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:41
+      label: Lux kills Jhin
+      kind: kill
+    - at: 17:12
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:51
+      label: Lux takes down Yone
+    - at: 19:08
+      label: Ashe takes down Jhin
+    - at: 22:31
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 22:53
+      label: Ashe Double Kill
+      kind: kill
+    - at: 23:24
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:23
+      label: Sion eliminates Yone
+    - at: 27:41
+      label: Xin Zhao Double Kill
+      kind: kill
+    - at: 28:02
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 29:41
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:08
+      label: Mid Inhibitor falls (Red)

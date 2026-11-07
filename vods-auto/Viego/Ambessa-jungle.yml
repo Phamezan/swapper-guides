@@ -67,20 +67,173 @@
   patch: "26.5"
   durationSec: 1659
   region: KR
+  uploaded: 2026-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:27
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Take down The Turret
+      kind: tower
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:08
+      label: Get a Triple Kill
+      kind: kill
+    - at: 27:28
+      label: End credit
 - videoId: 5XBScweGBI8
   title: Viego Jungle vs Ambessa - TW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1502
+  uploaded: 2026-02-21
 - videoId: akkwDVo4bjU
   title: Viego Jungle vs Ambessa - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1599
   region: KR
+  uploaded: 2026-02-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:47
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:28
+      label: End credit
 - videoId: ObpvuhnoIJ8
   title: Viego Jungle vs Ambessa - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1594
   region: EUW
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Take down The Turret
+      kind: tower
+    - at: 16:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Hunt The Atakhan
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Take down The Turret
+      kind: tower
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: End credit

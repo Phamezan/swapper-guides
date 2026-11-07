@@ -57,21 +57,69 @@
   patch: "26.18"
   durationSec: 1877
   region: EUNE
+  uploaded: 2026-09-18
 - videoId: LNSFXFNv924
   title: Lux Support vs Lulu - EUW Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1439
   region: EUW
+  uploaded: 2026-04-26
 - videoId: fikMueelmDA
   title: Lux Support vs Lulu - EUW Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1599
   region: EUW
+  uploaded: 2026-02-08
 - videoId: 2ksn-O9sr4k
   title: Lux Support vs Lulu - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1453
   region: KR
+  uploaded: 2025-12-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:11
+      label: Take down The Turret
+      kind: tower
+    - at: 16:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: End credit

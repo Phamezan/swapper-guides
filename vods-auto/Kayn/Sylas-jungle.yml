@@ -4,9 +4,60 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1569
+  uploaded: 2026-09-15
+  result: W
+  moments:
+    - at: 2:58
+      label: First Blood — Kayn kills Swain
+      kind: kill
+    - at: 7:40
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:08
+      label: Kayn kills Shen
+      kind: kill
+    - at: 10:58
+      label: Kayn takes down Sylas
+    - at: 11:54
+      label: Kayn kills Shen
+      kind: kill
+    - at: 13:24
+      label: Kayn kills Urgot
+      kind: kill
+    - at: 13:39
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:35
+      label: Sett eliminates Shen
+    - at: 16:29
+      label: Kayn takes down Sylas
+    - at: 17:09
+      label: Sett picks off Swain
+    - at: 17:36
+      label: Sett eliminates Shen
+    - at: 18:27
+      label: Camille eliminates Urgot
+    - at: 18:47
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 20:46
+      label: Kayn Double Kill
+      kind: kill
+    - at: 21:41
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:19
+      label: Viktor kills Swain
+      kind: kill
+    - at: 23:55
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 25:16
+      label: Kayn eliminates Swain
 - videoId: Ya7c5HGx7ZY
   title: Kayn Jungle vs Sylas - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1940
   region: KR
+  uploaded: 2025-09-04

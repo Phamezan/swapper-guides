@@ -5,9 +5,72 @@
   patch: "26.3"
   durationSec: 1610
   region: KR
+  uploaded: 2026-02-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:14
+      label: Take down The Turret
+      kind: tower
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Take down The Turret
+      kind: tower
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Take down The Turret
+      kind: tower
+    - at: 24:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:19
+      label: Take down The Turret
+      kind: tower
+    - at: 24:41
+      label: Take down The Inhibitor
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: Take down The Turret
+      kind: tower
+    - at: 26:39
+      label: End credit
 - videoId: PeTvlWbdres
   title: Draven Top vs Kennen - KR Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1572
   region: KR
+  uploaded: 2026-01-20

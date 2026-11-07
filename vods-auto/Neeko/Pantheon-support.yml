@@ -5,9 +5,67 @@
   patch: "25.8"
   durationSec: 2028
   region: KR
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Take down The Turret
+      kind: tower
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Take down The Turret
+      kind: tower
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:04
+      label: Take down The Turret
+      kind: tower
+    - at: 28:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:51
+      label: Take down The Turret
+      kind: tower
+    - at: 30:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:27
+      label: End credit
 - videoId: jDwAs4Ro42o
   title: Neeko Support vs Pantheon - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1596
   region: KR
+  uploaded: 2025-04-07

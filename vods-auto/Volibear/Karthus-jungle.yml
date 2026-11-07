@@ -5,8 +5,88 @@
   patch: "26.9"
   durationSec: 1602
   region: KR
+  uploaded: 2026-05-13
 - videoId: zXGhMhk7grw
   title: Volibear Jungle vs Karthus - BR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1491
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:53
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:28
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 10:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Hunt The Atakhan
+    - at: 23:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:57
+      label: Take down The Inhibitor
+    - at: 24:28
+      label: Take down The Turret
+      kind: tower
+    - at: 24:40
+      label: End credit

@@ -322,31 +322,209 @@
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1474
+  uploaded: 2026-02-09
 - videoId: b7MfDvHuEgw
   title: Zed Jungle vs Hecarim - EUW Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1488
   region: EUW
+  uploaded: 2026-01-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:12
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Take down The Inhibitor
+    - at: 24:03
+      label: Take down The Turret
+      kind: tower
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: End credit
 - videoId: C4Y0tZG0oCo
   title: Zed Jungle vs Hecarim - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1527
   region: EUW
+  uploaded: 2026-01-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:00
+      label: Take down The Turret
+      kind: tower
+    - at: 16:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: End credit
 - videoId: 89HxdtW2pzg
   title: Zed Jungle vs Hecarim - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1436
   region: KR
+  uploaded: 2025-06-01
 - videoId: 44S_jfp93WM
   title: Zed Jungle vs Hecarim - VN Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1629
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Take down The Turret
+      kind: tower
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:02
+      label: Hunt The Atakhan
+    - at: 25:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: End credit
 - videoId: VJtrZL6rQG4
   title: Zed Jungle vs Hecarim - BR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1903
+  uploaded: 2025-03-13

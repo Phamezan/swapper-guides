@@ -5,15 +5,79 @@
   patch: "26.8"
   durationSec: 1745
   region: KR
+  uploaded: 2026-05-01
 - videoId: N8jDN5zM2QQ
   title: Lillia Jungle vs Pantheon - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1722
   region: KR
+  uploaded: 2025-06-15
 - videoId: wdaS0eQg0e0
   title: Lillia Jungle vs Pantheon - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1704
   region: KR
+  uploaded: 2025-05-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:25
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:23
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Take down The Inhibitor
+    - at: 25:33
+      label: Take down The Turret
+      kind: tower
+    - at: 25:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:03
+      label: End credit

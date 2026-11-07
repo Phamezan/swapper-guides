@@ -5,51 +5,97 @@
   patch: "25.24"
   durationSec: 1474
   region: EUW
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Take down The Turret
+      kind: tower
+    - at: 15:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Hunt The Atakhan
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: End credit
 - videoId: 4sqm_j30CRw
   title: Katarina vs Syndra Mid - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1620
   region: KR
+  uploaded: 2025-07-29
 - videoId: -TRqVFx4iNw
   title: Katarina vs Syndra Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 1771
   region: KR
+  uploaded: 2025-07-12
 - videoId: PlOmNx8uUjI
   title: Katarina vs Syndra Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 1696
   region: KR
+  uploaded: 2025-07-11
 - videoId: -cdq7Pj8DLU
   title: Katarina Mid vs Syndra - NA Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1587
   region: NA
+  uploaded: 2025-05-19
 - videoId: tOA7giLyZ0E
   title: Katarina vs Syndra Mid - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1666
   region: KR
+  uploaded: 2025-05-14
 - videoId: VYsSH1BpUvs
   title: Katarina Mid vs Syndra - NA Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1453
   region: NA
+  uploaded: 2025-04-17
 - videoId: 3jPBF9zUCVI
   title: Katarina vs Syndra Mid - EUW Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1691
   region: EUW
+  uploaded: 2025-02-24
 - videoId: kv9TiSGzz3s
   title: Katarina vs Syndra Mid - EUW Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1691
   region: EUW
+  uploaded: 2025-02-21

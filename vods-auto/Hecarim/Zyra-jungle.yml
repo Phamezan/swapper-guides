@@ -59,9 +59,93 @@
   patch: "26.17"
   durationSec: 1869
   region: KR
+  uploaded: 2026-08-29
 - videoId: 7VrDz75WcSI
   title: Hecarim Jungle vs Zyra - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1962
   region: KR
+  uploaded: 2025-04-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:47
+      label: Take down The Turret
+      kind: tower
+    - at: 18:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:54
+      label: Hunt The Atakhan
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:39
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 32:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:21
+      label: End credit

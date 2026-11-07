@@ -7,3 +7,53 @@
   region: KR
   player: Canyon
   team: GEN
+  uploaded: 2026-06-09
+  result: W
+  moments:
+    - at: 1:28
+      label: First Blood — Zoe kills Ekko
+      kind: kill
+    - at: 6:11
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:33
+      label: Quinn takes down Ziggs
+    - at: 11:33
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:58
+      label: Quinn catches Ziggs again
+    - at: 14:56
+      label: Quinn kills Irelia
+      kind: kill
+    - at: 16:13
+      label: Renekton takes down Ekko
+    - at: 16:36
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:08
+      label: Quinn eliminates Ziggs
+    - at: 17:33
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 17:59
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:20
+      label: Quinn eliminates Ziggs
+    - at: 20:18
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 21:12
+      label: Quinn picks off Ekko
+    - at: 22:41
+      label: Renekton Double Kill
+      kind: kill
+    - at: 23:16
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:52
+      label: Renekton Triple Kill
+      kind: kill
+    - at: 24:15
+      label: Mid Inhibitor falls (Red)

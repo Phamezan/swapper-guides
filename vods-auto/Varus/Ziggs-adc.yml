@@ -23,9 +23,54 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-03-22
 - videoId: o2CSeKU_-VI
   title: Varus ADC vs Ziggs - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1568
   region: KR
+  uploaded: 2026-02-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:37
+      label: Take down The Turret
+      kind: tower
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Take down The Turret
+      kind: tower
+    - at: 23:17
+      label: Take down The Inhibitor
+    - at: 24:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:17
+      label: Take down The Turret
+      kind: tower
+    - at: 25:57
+      label: End credit

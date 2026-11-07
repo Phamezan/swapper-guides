@@ -7,15 +7,76 @@
   region: EUW
   player: Yike
   team: KC
+  uploaded: 2026-06-10
 - videoId: 91IUbz5CIEs
   title: Nocturne vs XinZhao Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1711
   region: KR
+  uploaded: 2025-04-26
 - videoId: 1R8z4rAovWI
   title: Nocturne Jungle vs Xin Zhao - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1624
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:09
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Take down The Inhibitor
+    - at: 26:43
+      label: End credit

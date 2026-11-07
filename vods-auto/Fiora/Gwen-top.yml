@@ -5,36 +5,42 @@
   patch: "25.24"
   durationSec: 1501
   region: NA
+  uploaded: 2025-12-06
 - videoId: 5xL11p1_NjI
   title: Fiora vs Gwen Top - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 2311
   region: KR
+  uploaded: 2025-07-11
 - videoId: rG4jwAcftuk
   title: Fiora Top vs Gwen - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1535
   region: KR
+  uploaded: 2025-06-03
 - videoId: PiXh6bTKaEY
   title: Fiora vs Gwen Top - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1541
   region: KR
+  uploaded: 2025-05-31
 - videoId: kUvMDkrGlXE
   title: Fiora vs Gwen Top - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1950
   region: KR
+  uploaded: 2025-05-12
 - videoId: 4Cq8dYSt470
   title: Fiora vs Gwen Top - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1846
   region: KR
+  uploaded: 2025-05-10
 - videoId: QtwvmH2T4Hs
   title: Zeus Fiora vs Gwen Top - KR Grandmaster - Patch 25.6 Season 15
   rankClaim: Grandmaster
@@ -42,3 +48,4 @@
   durationSec: 1441
   region: KR
   player: Zeus
+  uploaded: 2025-03-27

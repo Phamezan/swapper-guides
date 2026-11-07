@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1764
   region: EUW
+  uploaded: 2026-09-16
 - videoId: id_SL0V5RzI
   title: LeBlanc vs Ahri Mid - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -18,15 +19,18 @@
   patch: "25.10"
   durationSec: 1666
   region: KR
+  uploaded: 2025-05-18
 - videoId: BOUyLzJwHA4
   title: LeBlanc Mid vs Ahri - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1582
   region: KR
+  uploaded: 2025-05-05
 - videoId: tZEjcq6qGiE
   title: LeBlanc vs Ahri Mid - KR Grandmaster - Patch 25.7 Season 15
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1871
   region: KR
+  uploaded: 2025-04-09

@@ -6,9 +6,58 @@
   durationSec: 1507
   region: EUW
   player: UCAM Kozi
+  uploaded: 2026-05-21
 - videoId: AzxpWAGnbKs
   title: Volibear Top vs Irelia - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1672
   region: KR
+  uploaded: 2025-05-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:06
+      label: Take down The Turret
+      kind: tower
+    - at: 15:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:34
+      label: Take down The Turret
+      kind: tower
+    - at: 26:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:15
+      label: Take down The Turret
+      kind: tower
+    - at: 27:31
+      label: End credit

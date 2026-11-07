@@ -5,21 +5,90 @@
   patch: "26.17"
   durationSec: 1707
   region: KR
+  uploaded: 2026-09-12
 - videoId: UL8mswN_--Y
   title: Zyra Jungle vs Pantheon - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1641
   region: KR
+  uploaded: 2026-05-13
 - videoId: YdtZg91jIIE
   title: Zyra Jungle vs Pantheon - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1654
   region: KR
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Take down The Turret
+      kind: tower
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:05
+      label: Take down The Turret
+      kind: tower
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:23
+      label: End credit
 - videoId: WQDg-nuu-uw
   title: Zyra Jungle vs Pantheon - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1840
   region: KR
+  uploaded: 2025-06-04

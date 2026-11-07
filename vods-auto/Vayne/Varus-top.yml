@@ -60,3 +60,60 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1507
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:06
+      label: Take down The Turret
+      kind: tower
+    - at: 19:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:46
+      label: Take down The Turret
+      kind: tower
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:35
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:48
+      label: Take down The Turret
+      kind: tower
+    - at: 23:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Take down The Turret
+      kind: tower
+    - at: 24:56
+      label: End credit

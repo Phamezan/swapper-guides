@@ -5,9 +5,64 @@
   patch: "25.24"
   durationSec: 1605
   region: KR
+  uploaded: 2026-01-08
 - videoId: Rqg3R40gy1E
   title: Jayce Mid vs Azir - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1997
   region: EUW
+  uploaded: 2025-05-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:12
+      label: Take down The Turret
+      kind: tower
+    - at: 30:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:01
+      label: Take down The Turret
+      kind: tower
+    - at: 31:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:35
+      label: Take down The Turret
+      kind: tower
+    - at: 32:56
+      label: End credit

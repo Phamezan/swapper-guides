@@ -5,9 +5,52 @@
   patch: "26.3"
   durationSec: 1583
   region: NA
+  uploaded: 2026-02-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 20:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:13
+      label: Take down The Turret
+      kind: tower
+    - at: 24:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:12
+      label: End credit
 - videoId: 2OaRH0KsJnk
   title: Fizz Mid vs Zed - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 2053
   region: KR
+  uploaded: 2025-06-04

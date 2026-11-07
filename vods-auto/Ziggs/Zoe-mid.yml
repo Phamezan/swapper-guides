@@ -5,3 +5,60 @@
   patch: "26.4"
   durationSec: 1824
   region: KR
+  uploaded: 2026-03-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:06
+      label: Take down The Turret
+      kind: tower
+    - at: 13:04
+      label: Take down The Turret
+      kind: tower
+    - at: 13:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Take down The Turret
+      kind: tower
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Take down The Turret
+      kind: tower
+    - at: 26:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:13
+      label: End credit

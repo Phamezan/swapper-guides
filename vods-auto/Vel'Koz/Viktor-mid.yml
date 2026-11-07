@@ -13,9 +13,55 @@
   patch: "26.2"
   durationSec: 1562
   region: NA
+  uploaded: 2026-01-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: End credit
 - videoId: FBLsAnAfhTw
   title: Vel'Koz Mid vs Viktor - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1790
   region: EUW
+  uploaded: 2025-03-31

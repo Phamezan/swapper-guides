@@ -5,15 +5,56 @@
   patch: "26.5"
   durationSec: 1478
   region: KR
+  uploaded: 2026-03-07
 - videoId: jBhTm828K-o
   title: Karma Support vs Neeko - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1506
   region: KR
+  uploaded: 2025-11-24
 - videoId: wuDagB7EHfw
   title: Karma Support vs Neeko - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1777
   region: KR
+  uploaded: 2025-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Take down The Turret
+      kind: tower
+    - at: 25:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Take down The Turret
+      kind: tower
+    - at: 28:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:16
+      label: End credit

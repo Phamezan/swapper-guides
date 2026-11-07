@@ -6,6 +6,7 @@
   durationSec: 1757
   region: EUW
   player: NAVI Parus
+  uploaded: 2026-08-18
 - videoId: btV18vO4KhQ
   title: (G2 Labrov) Nautilus Support vs Janna - EUW Master Patch 26.15
   rankClaim: Master
@@ -14,15 +15,77 @@
   region: EUW
   player: Labrov
   team: G2
+  uploaded: 2026-08-02
 - videoId: Y0zrwQYxrYs
   title: Nautilus Support vs Janna - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1645
   region: EUW
+  uploaded: 2025-11-19
 - videoId: 6UKbLFBP5Zc
   title: Nautilus Support vs Janna - EUW Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 2020
   region: EUW
+  uploaded: 2025-05-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Take down The Turret
+      kind: tower
+    - at: 27:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: Take down The Turret
+      kind: tower
+    - at: 28:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:19
+      label: End credit

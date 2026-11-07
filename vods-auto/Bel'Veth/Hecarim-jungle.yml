@@ -118,12 +118,14 @@
   durationSec: 1600
   region: EUW
   player: CKZ Ano
+  uploaded: 2026-07-20
 - videoId: LREzRnZlrfk
   title: Bel'Veth Jungle vs Hecarim - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1572
   region: KR
+  uploaded: 2026-05-07
 - videoId: uYdssqcuxHA
   title: Bel'Veth vs Hercarim Jungle - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -145,3 +147,4 @@
   patch: "25.4"
   durationSec: 1740
   region: KR
+  uploaded: 2025-02-28

@@ -5,9 +5,73 @@
   patch: "26.6"
   durationSec: 1917
   region: KR
+  uploaded: 2026-03-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Take down The Turret
+      kind: tower
+    - at: 12:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:45
+      label: Take down The Turret
+      kind: tower
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:37
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 31:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:46
+      label: End credit
 - videoId: miLeZVyh7fY
   title: Trundle Support vs Nautilus - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1580
   region: KR
+  uploaded: 2025-09-09

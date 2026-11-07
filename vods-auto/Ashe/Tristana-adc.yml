@@ -15,36 +15,42 @@
   durationSec: 1429
   region: EUW
   player: MISA Ruep
+  uploaded: 2026-06-05
 - videoId: 4eY1dlVzXdU
   title: Ashe vs Tristana ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1741
   region: KR
-- videoId: -ecDDaG1n5g
-  title: Ashe ADC vs Tristana - KR Grandmaster Patch 25.22
-  rankClaim: Grandmaster
-  patch: "25.22"
-  durationSec: 1441
-  region: KR
+  uploaded: 2025-12-02
 - videoId: cNBxpEyDJcA
   title: Ashe vs Tristana ADC - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1621
   region: KR
+  uploaded: 2025-11-17
+- videoId: -ecDDaG1n5g
+  title: Ashe ADC vs Tristana - KR Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1441
+  region: KR
+  uploaded: 2025-11-07
 - videoId: o_jyqvCWFLY
   title: Ashe vs Tristana [ ADC ] Lol Korea Master Patch 25.18 ✅
   rankClaim: Master
   patch: "25.18"
   durationSec: 1418
   region: KR
+  uploaded: 2025-09-11
 - videoId: nWoxxKumwbE
   title: Ashe ADC vs Tristana - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1915
   region: KR
+  uploaded: 2025-09-02
 - videoId: BmtD_1nUftE
   title: T1 Gumayusi Ashe vs Tristana [ ADC ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -53,3 +59,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-03

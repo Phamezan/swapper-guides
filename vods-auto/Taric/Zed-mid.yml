@@ -5,3 +5,51 @@
   patch: "26.13"
   durationSec: 1709
   region: NA
+  uploaded: 2026-07-14
+  result: W
+  moments:
+    - at: 1:50
+      label: First Blood — Taric kills Zed
+      kind: kill
+    - at: 6:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:14
+      label: Master Yi kills Lulu
+      kind: kill
+    - at: 10:36
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:22
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 16:49
+      label: Master Yi Double Kill
+      kind: kill
+    - at: 17:39
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:04
+      label: Master Yi picks off Zed
+    - at: 20:14
+      label: Taric takes down Vladimir
+    - at: 20:56
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:03
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:51
+      label: Taric picks off Dr. Mundo
+    - at: 24:59
+      label: Pantheon eliminates Vladimir
+    - at: 26:42
+      label: Master Yi kills Vladimir
+      kind: kill
+    - at: 26:58
+      label: Mid Inhibitor falls (Red)
+    - at: 27:19
+      label: Top Inhibitor falls (Red)

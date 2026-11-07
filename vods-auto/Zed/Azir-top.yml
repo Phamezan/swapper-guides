@@ -4,3 +4,47 @@
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1579
+  uploaded: 2026-01-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:19
+      label: Take down The Turret
+      kind: tower
+    - at: 18:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Take down The Turret
+      kind: tower
+    - at: 20:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:37
+      label: Take down The Inhibitor
+    - at: 26:08
+      label: End credit

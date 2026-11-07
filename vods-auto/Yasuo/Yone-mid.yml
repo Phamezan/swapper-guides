@@ -5,3 +5,50 @@
   patch: "26.8"
   durationSec: 1666
   region: KR
+  uploaded: 2026-04-18
+  result: L
+  moments:
+    - at: 3:05
+      label: First Blood — Yasuo kills Yone
+      kind: kill
+    - at: 5:35
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:07
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:49
+      label: Yasuo eliminates Yone
+    - at: 13:37
+      label: Lee Sin takes down Sylas
+    - at: 14:24
+      label: Yasuo takes down Yone
+    - at: 15:23
+      label: Yasuo picks off Sylas
+    - at: 17:24
+      label: Mordekaiser Double Kill
+      kind: kill
+    - at: 18:16
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:56
+      label: Yasuo eliminates Yone
+    - at: 20:28
+      label: Yasuo takes down Renekton
+    - at: 22:55
+      label: Yasuo takes down Thresh
+    - at: 23:26
+      label: Red takes Baron
+      kind: baron
+    - at: 23:58
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 25:02
+      label: Yasuo eliminates Yone
+    - at: 25:28
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:02
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:34
+      label: Team fight (3 kills)
+      kind: teamfight

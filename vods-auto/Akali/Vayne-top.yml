@@ -5,9 +5,55 @@
   patch: "26.8"
   durationSec: 1770
   region: KR
+  uploaded: 2026-04-25
 - videoId: tZO-CrEOCUI
   title: Akali Top vs Vayne - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1540
   region: KR
+  uploaded: 2026-01-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 17:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: End credit

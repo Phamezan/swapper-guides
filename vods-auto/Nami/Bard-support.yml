@@ -6,15 +6,76 @@
   durationSec: 1452
   region: KR
   player: EQX Mese
+  uploaded: 2026-08-20
 - videoId: HJg_MghUzuA
   title: Nami Support vs Bard - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1472
   region: KR
+  uploaded: 2026-02-26
 - videoId: vnOCBIVQwXo
   title: Nami Support vs Bard - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1738
   region: KR
+  uploaded: 2026-02-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Take down The Turret
+      kind: tower
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: Take down The Turret
+      kind: tower
+    - at: 25:21
+      label: Take down The Turret
+      kind: tower
+    - at: 25:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Take down The Turret
+      kind: tower
+    - at: 26:49
+      label: Take down The Inhibitor
+    - at: 27:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:47
+      label: End credit

@@ -13,9 +13,67 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1560
+  uploaded: 2025-12-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Take down The Turret
+      kind: tower
+    - at: 11:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:27
+      label: Take down The Turret
+      kind: tower
+    - at: 13:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:53
+      label: Take down The Turret
+      kind: tower
+    - at: 18:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:52
+      label: Take down The Turret
+      kind: tower
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Take down The Turret
+      kind: tower
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:49
+      label: End credit
 - videoId: 0LiSdgFRSg4
   title: Irelia Mid vs Katarina - EUW Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1479
   region: EUW
+  uploaded: 2025-11-29

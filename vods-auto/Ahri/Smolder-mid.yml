@@ -72,3 +72,12 @@
       kind: kill
     - at: 26:38
       label: End credit
+- videoId: eeT34yEuBSo
+  title: "MID.GG: [ Splash_1v9 ] Ahri MID vs Smolder | EUW MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "26.1"
+  durationSec: 2374
+  region: EUW
+  patchEstimated: true
+  player: Splash_1v9
+  uploaded: 2026-01-11

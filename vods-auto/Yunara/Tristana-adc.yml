@@ -69,6 +69,7 @@
   patch: "26.17"
   durationSec: 1450
   region: KR
+  uploaded: 2026-09-09
 - videoId: Awm4PFh9R-c
   title: Yunara vs Tristana ADC - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
@@ -92,9 +93,11 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-09
 - videoId: T6pcoESAu3I
   title: Yunara vs Tristana ADC - KR Master - Patch 25.15 Season 15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1840
   region: KR
+  uploaded: 2025-08-03

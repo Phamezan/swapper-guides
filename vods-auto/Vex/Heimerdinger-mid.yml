@@ -5,3 +5,48 @@
   patch: "26.14"
   durationSec: 1718
   region: KR
+  uploaded: 2026-07-29
+  result: W
+  moments:
+    - at: 3:26
+      label: First Blood — Vex kills Vayne
+      kind: kill
+    - at: 4:44
+      label: Vex outplays Corki
+    - at: 6:39
+      label: Vex solo kills Vayne
+      kind: kill
+    - at: 9:50
+      label: Vex outduels Pyke
+    - at: 12:16
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:39
+      label: Vex takes down Heimerdinger
+    - at: 14:39
+      label: Vex catches Zoe
+    - at: 17:36
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 18:15
+      label: Vex picks off Vayne
+    - at: 19:57
+      label: Vex catches Heimerdinger again
+    - at: 20:25
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:28
+      label: Vex picks off Vayne
+    - at: 23:01
+      label: Vex takes down Vayne again
+    - at: 23:14
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:17
+      label: Vex picks off Vayne
+    - at: 26:50
+      label: Vex outduels Zoe again
+    - at: 27:13
+      label: Vex takes down Corki
+    - at: 27:36
+      label: Mid Inhibitor falls (Red)

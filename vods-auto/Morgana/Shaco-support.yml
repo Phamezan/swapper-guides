@@ -5,9 +5,58 @@
   patch: "26.8"
   durationSec: 1734
   region: KR
+  uploaded: 2026-04-22
+  result: W
+  moments:
+    - at: 0:23
+      label: First Blood — Morgana kills Shaco
+      kind: kill
+    - at: 5:50
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:45
+      label: Morgana outplays Sivir
+    - at: 11:59
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:08
+      label: Ashe takes down Sivir
+    - at: 15:02
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:20
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:42
+      label: Vayne Double Kill
+      kind: kill
+    - at: 19:32
+      label: Graves eliminates Sivir
+    - at: 20:32
+      label: Ashe takes down Sivir
+    - at: 22:29
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:22
+      label: Morgana eliminates Shaco
+    - at: 24:52
+      label: Graves picks off Sylas
+    - at: 25:39
+      label: Blue takes Baron
+      kind: baron
+    - at: 27:08
+      label: Ashe takes down Sivir
+    - at: 27:27
+      label: Bot Inhibitor falls (Red)
+    - at: 27:40
+      label: Mid Inhibitor falls (Red)
+    - at: 27:56
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: dgPQdhWtqh4
   title: Morgana Support vs Shaco - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1684
   region: KR
+  uploaded: 2025-10-01

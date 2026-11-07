@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1896
   region: KR
+  uploaded: 2026-09-16
 - videoId: ZlZOFJl4jEE
   title: (CF Danilo) Kennen Top vs Jax - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
@@ -12,33 +13,80 @@
   durationSec: 1449
   region: EUW
   player: CF Danilo
+  uploaded: 2026-07-15
 - videoId: yGq7IJkEk_8
   title: Kennen Top vs Jax - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1413
   region: KR
+  uploaded: 2026-05-13
 - videoId: -DBq7mDyWOc
   title: Kennen Top vs Jax - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1515
   region: KR
+  uploaded: 2026-02-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:32
+      label: Take down The Turret
+      kind: tower
+    - at: 12:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Take down The Turret
+      kind: tower
+    - at: 18:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:04
+      label: End credit
 - videoId: w6o-_G4HP54
   title: Kennen Top vs Jax - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1799
   region: KR
+  uploaded: 2025-10-31
 - videoId: RdD2JNBf1Zw
   title: Kennen Top vs Jax - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1767
   region: KR
+  uploaded: 2025-09-03
 - videoId: So_baPWxZyk
   title: Kennen Top vs Jax - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1458
   region: KR
+  uploaded: 2025-07-02

@@ -5,9 +5,64 @@
   patch: "26.4"
   durationSec: 1495
   region: KR
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:57
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: End credit
 - videoId: ThGpU6Kp5bA
   title: Nocturne Jungle vs Jayce - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1607
   region: KR
+  uploaded: 2026-01-16

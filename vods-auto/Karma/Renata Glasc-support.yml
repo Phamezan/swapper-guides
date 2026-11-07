@@ -7,9 +7,49 @@
   region: KR
   player: Kael
   team: AL
+  uploaded: 2026-09-07
 - videoId: Y80HBige0E0
   title: Karma Support vs Renata Glasc - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1560
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Take down The Turret
+      kind: tower
+    - at: 17:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Take down The Turret
+      kind: tower
+    - at: 25:39
+      label: End credit

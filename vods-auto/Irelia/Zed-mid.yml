@@ -6,15 +6,36 @@
   durationSec: 1565
   region: EUW
   player: PCF FireAscept
+  uploaded: 2026-07-12
+- videoId: 5KxaKBjh6nk
+  title: "CN Super Server Rank 1 Irelia : This Dude DELETED Zed with ONE COMBO at Challenger Elo"
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1448
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-10
+  format: stream
+- videoId: o5I6EGeA0rA
+  title: "Baicaiovo Irelia : MAKING Challenger Zed Look Like NPC on CN Super Server - Engsub"
+  rankClaim: Challenger
+  patch: "26.11"
+  durationSec: 1319
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-05-29
+  format: stream
 - videoId: fYe1bstPqYs
   title: Irelia Mid vs Zed - EUW Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1578
   region: EUW
+  uploaded: 2025-08-22
 - videoId: PETbwdGguM0
   title: Irelia vs Zed Mid - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1441
   region: KR
+  uploaded: 2025-03-13

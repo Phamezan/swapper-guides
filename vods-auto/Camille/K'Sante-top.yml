@@ -14,11 +14,59 @@
   patch: "26.9"
   durationSec: 1840
   region: KR
+  uploaded: 2026-05-05
 - videoId: trrwPmw-5II
   title: Camille Top vs K'Sante - TW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1628
+  uploaded: 2026-03-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Take down The Turret
+      kind: tower
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 23:55
+      label: Take down The Inhibitor
+    - at: 25:22
+      label: Take down The Turret
+      kind: tower
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:57
+      label: End credit
 - videoId: 4C2dvp6NSjs
   title: Camille vs K'Sante Top - KR Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
@@ -32,9 +80,52 @@
   patch: "25.15"
   durationSec: 1671
   region: KR
+  uploaded: 2025-08-07
 - videoId: hKOW8Rs0Yyo
   title: Camille Top vs K'Sante - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1712
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:07
+      label: Take down The Turret
+      kind: tower
+    - at: 19:03
+      label: Take down The Turret
+      kind: tower
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:19
+      label: Take down The Turret
+      kind: tower
+    - at: 27:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:11
+      label: End credit

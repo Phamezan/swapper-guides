@@ -5,21 +5,95 @@
   patch: "26.19"
   durationSec: 1807
   region: KR
+  uploaded: 2026-10-03
 - videoId: e29lD-cIvds
   title: Udyr Top vs Yorick - KR Grandmaster Patch 26.07
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1811
   region: KR
+  uploaded: 2026-04-15
 - videoId: 4SVn0bH55As
   title: Udyr Top vs Yorick - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1568
   region: KR
+  uploaded: 2025-11-13
 - videoId: gu0fP_4P08o
   title: Udyr Top vs Yorick - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1851
   region: KR
+  uploaded: 2025-05-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:28
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:12
+      label: Take down The Turret
+      kind: tower
+    - at: 13:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:31
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:09
+      label: Take down The Turret
+      kind: tower
+    - at: 28:26
+      label: Take down The Inhibitor
+    - at: 29:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:30
+      label: End credit

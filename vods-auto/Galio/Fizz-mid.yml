@@ -16,3 +16,40 @@
   region: KR
   player: Zeka
   team: HLE
+  uploaded: 2026-05-22
+  result: W
+  moments:
+    - at: 4:15
+      label: First Blood — Galio kills Fizz
+      kind: kill
+    - at: 4:37
+      label: Galio picks off Zac
+    - at: 6:09
+      label: Galio picks off Zac
+    - at: 9:50
+      label: Jarvan IV eliminates Corki
+    - at: 10:59
+      label: Jarvan IV picks off Fizz
+    - at: 11:50
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:38
+      label: Yone takes down Fizz
+    - at: 13:54
+      label: Galio picks off Zac
+    - at: 15:53
+      label: Galio takes down Jayce
+    - at: 17:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:01
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:30
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:05
+      label: Top Inhibitor falls (Red)

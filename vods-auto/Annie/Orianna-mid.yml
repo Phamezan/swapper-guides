@@ -5,12 +5,14 @@
   patch: "25.24"
   durationSec: 1538
   region: KR
+  uploaded: 2026-01-02
 - videoId: bFtSn5VQVkU
   title: Annie Mid vs Orianna - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1612
   region: KR
+  uploaded: 2025-06-04
 - videoId: oPJgsfxnKAk
   title: T1 Faker Annie vs Orianna [ MID ] Patch 25.9 Korea Grandmaster
   rankClaim: Grandmaster
@@ -19,3 +21,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-13

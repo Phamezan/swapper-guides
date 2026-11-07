@@ -6,15 +6,64 @@
   durationSec: 2266
   region: KR
   uploaded: 2026-04-07
+- videoId: ORLy0y04clE
+  title: "Baicaiovo Mel : This CN Super Server Legend is DEVASTATING Ryze with INSANE Mechanics"
+  rankClaim: Master+
+  patch: "26.6"
+  durationSec: 1774
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-03-21
+  format: stream
 - videoId: XV94115JDoQ
   title: Mel Mid vs Ryze - EUW Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1614
   region: EUW
+  uploaded: 2025-04-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Take down The Turret
+      kind: tower
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: End credit
 - videoId: L_qXGV1NFe4
   title: Mel vs Ryze Mid - EUW Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1651
   region: EUW
+  uploaded: 2025-03-11

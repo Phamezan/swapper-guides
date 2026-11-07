@@ -4,15 +4,18 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1404
+  uploaded: 2026-04-30
 - videoId: jUZ1r1OYlFM
   title: Udyr Top vs Aatrox - EUW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1714
   region: EUW
+  uploaded: 2025-08-13
 - videoId: 4CPXlR2SfEw
   title: Udyr Top vs Aatrox - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1669
   region: KR
+  uploaded: 2025-05-12

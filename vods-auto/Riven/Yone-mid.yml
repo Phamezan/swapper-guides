@@ -60,6 +60,7 @@
   patch: "26.18"
   durationSec: 1679
   region: KR
+  uploaded: 2026-09-21
 - videoId: GpIbZzD7QCw
   title: (Harbo) Riven Mid vs Yone (HRTS Mercy9) - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -67,9 +68,11 @@
   durationSec: 1601
   region: EUW
   player: Harbo
+  uploaded: 2026-06-17
 - videoId: YkbW-MBNrGo
   title: Riven Mid vs Yone - NA Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1658
   region: NA
+  uploaded: 2025-04-01

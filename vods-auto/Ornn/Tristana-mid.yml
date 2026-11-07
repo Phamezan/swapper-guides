@@ -5,9 +5,111 @@
   patch: "26.7"
   durationSec: 1826
   region: KR
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Take down The Turret
+      kind: tower
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:27
+      label: Take down The Turret
+      kind: tower
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:41
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:23
+      label: Take down The Turret
+      kind: tower
+    - at: 29:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:15
+      label: End credit
 - videoId: X4SunOEx5CM
   title: Ornn Mid vs Tristana - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 2077
   region: KR
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Take down The Turret
+      kind: tower
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:16
+      label: End credit

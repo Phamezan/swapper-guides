@@ -5,3 +5,53 @@
   patch: "26.1"
   durationSec: 1455
   region: EUW
+  uploaded: 2026-01-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:02
+      label: Take down The Turret
+      kind: tower
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Take down The Turret
+      kind: tower
+    - at: 22:39
+      label: Take down The Inhibitor
+    - at: 22:55
+      label: Take down The Turret
+      kind: tower
+    - at: 23:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: End credit

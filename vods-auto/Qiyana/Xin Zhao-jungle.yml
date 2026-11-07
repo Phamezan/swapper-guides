@@ -5,21 +5,89 @@
   patch: "26.2"
   durationSec: 2110
   region: KR
+  uploaded: 2026-01-27
 - videoId: mZBqAAzMO5E
   title: Qiyana Jungle vs Xin Zhao - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1521
   region: KR
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:08
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Take down The Turret
+      kind: tower
+    - at: 15:27
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:13
+      label: Hunt The Atakhan
+    - at: 23:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: End credit
 - videoId: Ei-AVmSEa2w
   title: Qiyana Jungle vs Xin Zhao - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1466
   region: KR
+  uploaded: 2025-08-31
 - videoId: i0cFcC6ieW0
   title: Qiyana Jungle vs Xin Zhao - EUW Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1757
   region: EUW
+  uploaded: 2025-08-22

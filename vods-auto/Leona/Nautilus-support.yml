@@ -7,6 +7,7 @@
   region: KR
   player: Career
   team: DK
+  uploaded: 2026-08-07
 - videoId: 2RaJY1GRkTA
   title: (JDG Vampire) Leona Support vs Nautilus - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -15,51 +16,103 @@
   region: KR
   player: Vampire
   team: JDG
+  uploaded: 2026-06-30
 - videoId: Lig_kmDtou8
   title: Leona Support vs Nautilus - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1796
   region: EUW
+  uploaded: 2026-04-04
 - videoId: i_xJ6xq_ZJk
   title: Leona Support vs Nautilus - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1666
   region: EUW
+  uploaded: 2026-03-17
 - videoId: DlpD-j9iqQQ
   title: Leona Support vs Nautilus - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1519
   region: KR
+  uploaded: 2026-02-21
 - videoId: QWZBd5tPWSo
   title: Leona Support vs Nautilus - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1577
   region: KR
+  uploaded: 2026-02-08
 - videoId: 9L8IXsxX-xY
   title: Leona Support vs Nautilus - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1495
   region: NA
+  uploaded: 2026-01-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Take down The Turret
+      kind: tower
+    - at: 23:45
+      label: Take down The Inhibitor
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Take down The Turret
+      kind: tower
+    - at: 24:44
+      label: End credit
 - videoId: Y4gxnjOujFg
   title: Leona Support vs Nautilus - NA Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1431
   region: NA
+  uploaded: 2025-11-20
 - videoId: B6MId8Y2g20
   title: Leona Support vs Nautilus - KR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1442
   region: KR
+  uploaded: 2025-10-12
 - videoId: kDvwf15V-B8
   title: Leona Support vs Nautilus - EUW Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1870
   region: EUW
+  uploaded: 2025-06-13

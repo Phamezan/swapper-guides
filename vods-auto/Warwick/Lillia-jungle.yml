@@ -5,9 +5,61 @@
   patch: "26.8"
   durationSec: 1722
   region: EUW
+  uploaded: 2026-04-24
+  result: L
+  moments:
+    - at: 4:38
+      label: First Blood — Ahri kills Lillia
+      kind: kill
+    - at: 5:05
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:27
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 13:20
+      label: Warwick solo kills Yone
+      kind: kill
+    - at: 15:30
+      label: Warwick kills Kled
+      kind: kill
+    - at: 16:08
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 17:33
+      label: K'Sante kills Lillia
+      kind: kill
+    - at: 18:45
+      label: Warwick outplays Lillia
+    - at: 20:28
+      label: Ahri eliminates Yone
+    - at: 21:05
+      label: Warwick kills Nami
+      kind: kill
+    - at: 21:27
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:43
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 22:40
+      label: Red takes Baron
+      kind: baron
+    - at: 24:10
+      label: Warwick kills Kled
+      kind: kill
+    - at: 24:21
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:48
+      label: Warwick picks off Yone
+    - at: 26:19
+      label: Ahri takes down Kled
+    - at: 27:04
+      label: Warwick picks off Yone
 - videoId: H3L3HvL-8aE
   title: Warwick Jungle vs Lillia - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1537
   region: EUW
+  uploaded: 2025-05-15

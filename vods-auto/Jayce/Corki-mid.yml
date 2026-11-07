@@ -7,12 +7,14 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-07-25
 - videoId: mR7OcTUo8TA
   title: Jayce Mid vs Corki - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1510
   region: EUW
+  uploaded: 2025-07-05
 - videoId: 9MUQO2-RSVY
   title: T1 Faker Jayce vs Corki [ MID ] Patch 25.6 Korea Master ✅
   rankClaim: Master
@@ -21,3 +23,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-03-24

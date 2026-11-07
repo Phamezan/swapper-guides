@@ -7,3 +7,43 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-08-22
+  result: L
+  moments:
+    - at: 4:47
+      label: First Blood — Ahri kills Zilean
+      kind: kill
+    - at: 5:51
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:24
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 16:16
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 17:13
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 19:26
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:44
+      label: Yunara Triple Kill
+      kind: kill
+    - at: 21:10
+      label: Jax picks off Zilean
+    - at: 23:01
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 24:31
+      label: Ahri kills Kalista
+      kind: kill
+    - at: 25:09
+      label: Red takes Baron
+      kind: baron
+    - at: 26:39
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 27:04
+      label: Bot Inhibitor falls (Blue)

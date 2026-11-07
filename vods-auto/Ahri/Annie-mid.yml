@@ -172,15 +172,25 @@
     - at: 27:31
       label: Ahri Double Kill
       kind: kill
+- videoId: 68-c-KVvuDI
+  title: "MID.GG: [ ShokLoL ] Ahri MID vs Annie | OCE MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.4"
+  durationSec: 1708
+  patchEstimated: true
+  player: ShokLoL
+  uploaded: 2026-03-03
 - videoId: GcA8Kz8EhKc
   title: Ahri Mid vs Annie - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1759
   region: KR
+  uploaded: 2025-08-15
 - videoId: pyXxDO2NzZ8
   title: Ahri vs Annie Mid - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1571
   region: KR
+  uploaded: 2025-05-17

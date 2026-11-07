@@ -5,15 +5,82 @@
   patch: "26.4"
   durationSec: 1791
   region: KR
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:21
+      label: Take down The Turret
+      kind: tower
+    - at: 13:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:26
+      label: Take down The Turret
+      kind: tower
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: Take down The Turret
+      kind: tower
+    - at: 26:16
+      label: Take down The Inhibitor
+    - at: 26:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:40
+      label: End credit
 - videoId: uA9VwLNCVAc
   title: Cho'Gath Top vs Zaahen - NA Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1618
   region: NA
+  uploaded: 2026-02-01
 - videoId: 7hfclqorkHU
   title: Cho'Gatch vs Zaahen Top - EUW Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 2251
   region: EUW
+  uploaded: 2026-01-31

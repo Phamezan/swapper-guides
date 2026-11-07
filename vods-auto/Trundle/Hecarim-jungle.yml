@@ -5,9 +5,69 @@
   patch: "26.2"
   durationSec: 1580
   region: NA
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Take down The Turret
+      kind: tower
+    - at: 20:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:24
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Take down The Turret
+      kind: tower
+    - at: 23:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:48
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Take down The Inhibitor
+    - at: 24:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Take down The Turret
+      kind: tower
+    - at: 26:09
+      label: End credit
 - videoId: CDQ4gM9eQfA
   title: Trundle Jungle vs Hecarim - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1619
   region: EUW
+  uploaded: 2026-01-06

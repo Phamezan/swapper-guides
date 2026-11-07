@@ -17,6 +17,7 @@
   patch: "26.2"
   durationSec: 1604
   region: KR
+  uploaded: 2026-01-25
 - videoId: 1pKQLqtU02I
   title: HLE Zeus K'Sante vs Gangplank [ TOP ] Korea Grandmaster Patch 25.13
   rankClaim: Grandmaster
@@ -25,9 +26,11 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2025-07-07
 - videoId: X3wXuXu5sy4
   title: K'Sante Top vs Gangplank - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1475
   region: KR
+  uploaded: 2025-03-10

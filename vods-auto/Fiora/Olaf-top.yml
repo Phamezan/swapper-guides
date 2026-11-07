@@ -55,15 +55,62 @@
   patch: "26.15"
   durationSec: 1590
   region: KR
+  uploaded: 2026-08-09
 - videoId: jjpUSaZvEzo
   title: Fiora Top vs Olaf - KR Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1520
   region: KR
+  uploaded: 2026-05-01
 - videoId: ZYnYR3AsgZ0
   title: Fiora Top vs Olaf - NA Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1616
   region: NA
+  uploaded: 2026-02-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:55
+      label: Take down The Turret
+      kind: tower
+    - at: 14:48
+      label: Take down The Turret
+      kind: tower
+    - at: 15:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: Take down The Turret
+      kind: tower
+    - at: 26:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:45
+      label: End credit

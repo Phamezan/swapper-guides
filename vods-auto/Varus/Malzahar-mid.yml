@@ -5,3 +5,56 @@
   patch: "25.24"
   durationSec: 1548
   region: NA
+  uploaded: 2025-12-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Take down The Turret
+      kind: tower
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:41
+      label: Take down The Inhibitor
+    - at: 22:52
+      label: Take down The Turret
+      kind: tower
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:37
+      label: End credit

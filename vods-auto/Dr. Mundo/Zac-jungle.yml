@@ -5,3 +5,54 @@
   patch: "26.10"
   durationSec: 1829
   region: NA
+  uploaded: 2026-05-22
+  result: L
+  moments:
+    - at: 1:03
+      label: First Blood — Dr. Mundo kills Riven
+      kind: kill
+    - at: 2:47
+      label: Dr. Mundo outduels Riven
+    - at: 5:43
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:53
+      label: Ahri takes down Riven
+    - at: 7:38
+      label: Dr. Mundo takes down Zac
+    - at: 10:58
+      label: Ahri Double Kill
+      kind: kill
+    - at: 11:26
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:05
+      label: Ahri eliminates Orianna
+    - at: 13:35
+      label: Dr. Mundo kills Riven
+      kind: kill
+    - at: 16:54
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:18
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 19:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:00
+      label: Ahri takes down Riven
+    - at: 22:48
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 26:22
+      label: Red takes Baron
+      kind: baron
+    - at: 27:56
+      label: Mid Inhibitor falls (Blue)
+    - at: 28:35
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 29:14
+      label: Ahri Double Kill
+      kind: kill

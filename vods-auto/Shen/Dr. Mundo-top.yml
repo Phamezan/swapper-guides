@@ -4,9 +4,46 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1893
+  uploaded: 2026-04-20
 - videoId: Hze55AwnVqI
   title: Shen Top vs Dr. Mundo - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1513
   region: KR
+  uploaded: 2026-02-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:07
+      label: Take down The Turret
+      kind: tower
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Take down The Turret
+      kind: tower
+    - at: 24:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: End credit

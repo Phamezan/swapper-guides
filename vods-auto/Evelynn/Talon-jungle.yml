@@ -4,15 +4,83 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1583
+  uploaded: 2026-03-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:12
+      label: End credit
 - videoId: nnNRofU3SM0
   title: Evelynn Jungle vs Talon - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1614
   region: KR
+  uploaded: 2026-02-13
 - videoId: ixMT8_LS-LY
   title: Evelynn Jungle vs Talon - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1446
   region: KR
+  uploaded: 2025-11-12

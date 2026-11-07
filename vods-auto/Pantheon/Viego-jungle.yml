@@ -7,6 +7,7 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-08-01
 - videoId: p7_gUiS4Jpo
   title: (HRTS Lurox) Pantheon Jungle vs Viego - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -14,6 +15,7 @@
   durationSec: 1768
   region: EUW
   player: HRTS Lurox
+  uploaded: 2026-06-19
 - videoId: lIgSzlU_TdU
   title: (WBG Elk) Pantheon Jungle vs Viego - KR Grandmaster Patch 26.11
   rankClaim: Grandmaster
@@ -22,12 +24,14 @@
   region: KR
   player: Elk
   team: WBG
+  uploaded: 2026-05-31
 - videoId: 3ecL7wNui6k
   title: Pantheon Jungle vs Viego - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1442
   region: KR
+  uploaded: 2026-05-18
 - videoId: zYdw7NiWDSw
   title: Pantheon vs Viego Jungle - KR Challenger - Patch 16.06 Season 16
   rankClaim: Challenger
@@ -41,18 +45,21 @@
   patch: "26.3"
   durationSec: 1591
   region: KR
+  uploaded: 2026-02-18
 - videoId: _lv0HbDn9nc
   title: Pantheon Jungle vs Viego - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1605
   region: KR
+  uploaded: 2025-08-30
 - videoId: Um70C41Mvzw
   title: Pantheon vs Viego Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1606
   region: KR
+  uploaded: 2025-06-23
 - videoId: ZoPLTIHHCJM
   title: T1 Oner Pantheon vs Viego [ Jungle ] Patch 25.10 Korea Challenger ✅
   rankClaim: Challenger
@@ -61,27 +68,91 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-05-27
 - videoId: U5FcJMYTeMc
   title: Pantheon vs Viego Jungle - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1511
   region: KR
+  uploaded: 2025-05-14
 - videoId: BbxMqjGR5_A
   title: Pantheon Jungle vs Viego - EUW Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1736
   region: EUW
+  uploaded: 2025-04-13
 - videoId: 5ll7k8C0uxI
   title: Pantheon Jungle vs Viego - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1551
   region: KR
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:25
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Take down The Turret
+      kind: tower
+    - at: 17:18
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:30
+      label: End credit
 - videoId: geJ71NaXyqI
   title: Pantheon vs Viego Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1986
   region: KR
+  uploaded: 2025-03-13

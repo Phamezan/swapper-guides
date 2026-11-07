@@ -60,9 +60,73 @@
   patch: "26.7"
   durationSec: 1808
   region: NA
+  uploaded: 2026-04-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Take down The Turret
+      kind: tower
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Take down The Turret
+      kind: tower
+    - at: 22:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Take down The Turret
+      kind: tower
+    - at: 23:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:43
+      label: Take down The Turret
+      kind: tower
+    - at: 28:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:57
+      label: End credit
 - videoId: 9A9ekZzM7Ss
   title: Gangplank Mid vs Yone - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1476
   region: KR
+  uploaded: 2026-01-05

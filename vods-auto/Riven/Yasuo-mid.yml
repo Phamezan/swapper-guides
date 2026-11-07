@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1501
   region: NA
+  uploaded: 2026-09-06
 - videoId: MIuDqIQQGh8
   title: Riven vs Yasuo Mid - EUW Challenger - Patch 16.11 Season 16
   rankClaim: Challenger
@@ -17,15 +18,68 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1482
+  uploaded: 2026-02-18
 - videoId: j-sT29sOuxc
   title: Riven Mid vs Yasuo - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1546
   region: KR
+  uploaded: 2025-12-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Take down The Turret
+      kind: tower
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:46
+      label: Take down The Turret
+      kind: tower
+    - at: 21:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: End credit
 - videoId: fXMEUWWKi_U
   title: Riven Mid vs Yasuo - NA Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1785
   region: NA
+  uploaded: 2025-03-21

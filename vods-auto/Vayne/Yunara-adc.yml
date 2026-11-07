@@ -4,39 +4,129 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1543
+  uploaded: 2026-09-17
+- videoId: S2N5KIm5rcU
+  title: 'Rank 1 Vayne : His Mechanic is Perfecly " Make No Mistake " Engsub ( vs Yunara, Lucian )'
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1491
+  patchEstimated: true
+  uploaded: 2026-08-29
+  format: stream
+- videoId: 1BEmUipVOqo
+  title: "Rank 1 Vayne : DAM ! His True Damage is NUT - Engsub ( vs Yunara )"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1023
+  patchEstimated: true
+  uploaded: 2026-08-07
+  format: stream
+- videoId: QLFNY3wJP4c
+  title: "Rank 1 Vayne : His Spacing is on a Different Level - Engsub (VS Yunara)"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 951
+  patchEstimated: true
+  uploaded: 2026-08-04
+  format: stream
+- videoId: F6r55p2-31U
+  title: "Rank 1 Vayne : From ZERO to HERO, He is a SAVAGE - Engsub (Vayne vs Yunara)"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 880
+  patchEstimated: true
+  uploaded: 2026-07-31
+  format: stream
+- videoId: AGitgwyuViw
+  title: "Rank 1 Vayne : His TRUE DAMAGE with Kraken is so BROKEN - Engsub (Vayne vs Yunara)"
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 808
+  patchEstimated: true
+  uploaded: 2026-07-28
+  format: stream
 - videoId: bmN3BbgPLWA
   title: Vayne ADC vs Yunara - EUW Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1564
   region: EUW
+  uploaded: 2026-05-08
+  result: W
+  moments:
+    - at: 0:30
+      label: First Blood — Vayne kills Yunara
+      kind: kill
+    - at: 3:23
+      label: Vayne picks off Soraka
+    - at: 8:27
+      label: Vayne picks off Soraka
+    - at: 9:25
+      label: Vayne takes down Yunara
+    - at: 11:06
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:08
+      label: Singed eliminates Varus
+    - at: 14:53
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:15
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:40
+      label: Vayne picks off Varus
+    - at: 18:20
+      label: Braum eliminates Soraka
+    - at: 19:59
+      label: Vayne picks off Soraka
+    - at: 20:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:00
+      label: Kayn eliminates Yunara
+    - at: 21:34
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 22:07
+      label: Vayne picks off Varus
+    - at: 24:34
+      label: Vayne Double Kill
+      kind: kill
+    - at: 24:52
+      label: Mid Inhibitor falls (Red)
 - videoId: 9dW01GQMZ2c
   title: Vayne ADC vs Yunara - KR Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1484
   region: KR
+  uploaded: 2026-04-25
 - videoId: EYUd9LN9cVg
   title: Vayne ADC vs Yunara - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1470
   region: EUW
+  uploaded: 2026-01-31
 - videoId: T0W1USJk5ws
   title: Vayne vs Yunara [ ADC ] Lol Korea Master Patch 25.24 ✅
   rankClaim: Master
   patch: "25.24"
   durationSec: 1704
   region: KR
+  uploaded: 2025-12-24
 - videoId: sIkxd4jkXOw
   title: Vayne ADC vs Yunara - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 2025
   region: KR
+  uploaded: 2025-08-21
 - videoId: 5riZpJBXbQs
   title: Vayne vs Yunara [ ADC ] Lol Korea Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1624
   region: KR
+  uploaded: 2025-08-17

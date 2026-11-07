@@ -6,21 +6,80 @@
   durationSec: 1705
   region: KR
   player: Clozer
+  uploaded: 2026-07-19
 - videoId: 0Gmgis4S-Fc
   title: LeBlanc Mid vs Ryze - EUW Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1793
   region: EUW
+  uploaded: 2026-02-23
 - videoId: 38F4Fs8of-g
   title: LeBlanc Mid vs Ryze - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1598
   region: KR
+  uploaded: 2026-01-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Take down The Turret
+      kind: tower
+    - at: 17:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Take down The Turret
+      kind: tower
+    - at: 25:30
+      label: Take down The Inhibitor
+    - at: 25:42
+      label: Take down The Turret
+      kind: tower
+    - at: 26:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: End credit
 - videoId: mC3zxuAsKnU
   title: LeBlanc Mid vs Ryze - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1593
   region: KR
+  uploaded: 2025-07-21

@@ -57,14 +57,114 @@
   patch: "25.24"
   durationSec: 1567
   region: NA
+  uploaded: 2026-01-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Take down The Turret
+      kind: tower
+    - at: 15:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Hunt The Atakhan
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: End credit
 - videoId: suQ2jzr4HDA
   title: Zed Mid vs Corki - TW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1766
+  uploaded: 2025-08-03
 - videoId: Kq0SZ74lsKg
   title: Zed Mid vs Corki - NA Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 2120
   region: NA
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Take down The Turret
+      kind: tower
+    - at: 20:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:39
+      label: Take down The Turret
+      kind: tower
+    - at: 29:55
+      label: Take down The Inhibitor
+    - at: 30:55
+      label: Take down The Turret
+      kind: tower
+    - at: 31:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:07
+      label: Take down The Turret
+      kind: tower
+    - at: 33:23
+      label: Take down The Inhibitor
+    - at: 34:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:59
+      label: End credit

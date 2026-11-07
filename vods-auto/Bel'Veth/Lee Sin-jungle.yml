@@ -6,6 +6,7 @@
   durationSec: 1642
   region: KR
   player: Oner
+  uploaded: 2026-09-09
 - videoId: YSpXJWwAJM0
   title: (KC Yike) Bel'Veth Jungle vs Lee Sin (FNC Razork) - EUW Challenger Patch 26.15
   rankClaim: Challenger
@@ -14,12 +15,14 @@
   region: EUW
   player: Yike
   team: KC
+  uploaded: 2026-08-10
 - videoId: _B2avyyx-pQ
   title: Bel'Veth Jungle vs Lee Sin - KR Challenger Patch 26.14
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1611
   region: KR
+  uploaded: 2026-07-29
 - videoId: anz1qxqjPCY
   title: (T1 Oner) Bel'Veth Jungle vs Lee Sin (MVK Gury) - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -28,6 +31,7 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-07-06
 - videoId: 4bbkNZJkEu0
   title: (NS Carim) Bel'Veth Jungle vs Lee Sin - KR Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -36,12 +40,14 @@
   region: KR
   player: Carim
   team: NS
+  uploaded: 2026-06-24
 - videoId: bB5MaAW1pxc
   title: Bel'Veth Jungle vs Lee Sin (KRX Vincenzo) - KR Challenger Patch 26.12
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 1474
   region: KR
+  uploaded: 2026-06-15
 - videoId: DTtQEw6jV8A
   title: Bel'Veth vs Lee Sin Jungle - KR Master - Patch 16.06 Season 16
   rankClaim: Master
@@ -62,21 +68,25 @@
   patch: "26.3"
   durationSec: 1519
   region: NA
+  uploaded: 2026-02-08
 - videoId: CTsRWExLlP0
   title: Bel'Veth Jungle vs Lee Sin - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1584
   region: KR
+  uploaded: 2025-12-25
 - videoId: D5jkYqqnC4g
   title: Bel'Veth Jungle vs Lee Sin - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1775
   region: KR
+  uploaded: 2025-09-17
 - videoId: Dj5LCDoInFs
   title: Bel'Veth Jungle vs Lee Sin - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1689
   region: KR
+  uploaded: 2025-08-19

@@ -4,15 +4,121 @@
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1816
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: Take down The Turret
+      kind: tower
+    - at: 26:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:05
+      label: End credit
 - videoId: _oRTFgZXX48
   title: Katarina Mid vs Corki - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1556
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 7:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:05
+      label: Take down The Turret
+      kind: tower
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:32
+      label: Take down The Turret
+      kind: tower
+    - at: 23:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: End credit
 - videoId: CJtnmiYCbv0
   title: Katarina vs Corki Mid - KR Grandmaster - Patch 25.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1331
   region: KR
+  uploaded: 2025-03-05

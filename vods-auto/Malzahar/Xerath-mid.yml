@@ -5,15 +5,70 @@
   patch: "25.18"
   durationSec: 1898
   region: KR
+  uploaded: 2025-09-17
 - videoId: H950wQLWuAA
   title: Malzahar Mid vs Xerath - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1853
   region: KR
+  uploaded: 2025-07-03
 - videoId: iFnY-JZiMrw
   title: Malzahar Mid vs Xerath - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1807
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:52
+      label: Take down The Turret
+      kind: tower
+    - at: 22:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:52
+      label: Take down The Turret
+      kind: tower
+    - at: 26:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:16
+      label: Take down The Turret
+      kind: tower
+    - at: 27:41
+      label: Take down The Inhibitor
+    - at: 29:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:46
+      label: End credit

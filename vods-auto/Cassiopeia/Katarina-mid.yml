@@ -6,9 +6,55 @@
   durationSec: 1814
   region: EUW
   player: MagiFelix
+  uploaded: 2026-09-19
 - videoId: mVSUci7PgPU
   title: Cassiopeia Mid vs Katarina - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1676
   region: KR
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Take down The Turret
+      kind: tower
+    - at: 16:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:04
+      label: Take down The Turret
+      kind: tower
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:35
+      label: End credit

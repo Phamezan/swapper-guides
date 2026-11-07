@@ -6,15 +6,89 @@
   durationSec: 1508
   region: KR
   player: Racoon
+  uploaded: 2026-09-04
 - videoId: LKXAL3tth-g
   title: Zyra Jungle vs Kindred - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1855
   region: KR
+  uploaded: 2026-05-05
 - videoId: d8uRF-9tzJ8
   title: Zyra Jungle vs Kindred - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1705
   region: KR
+  uploaded: 2025-05-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:34
+      label: Take down The Turret
+      kind: tower
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Take down The Turret
+      kind: tower
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:04
+      label: End credit

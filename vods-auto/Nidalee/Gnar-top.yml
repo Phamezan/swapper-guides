@@ -5,9 +5,58 @@
   patch: "26.9"
   durationSec: 1867
   region: KR
+  uploaded: 2026-05-12
+  result: W
+  moments:
+    - at: 3:07
+      label: First Blood — Nidalee kills Gnar
+      kind: kill
+    - at: 5:58
+      label: Nidalee catches Gnar
+    - at: 7:34
+      label: Nidalee outduels Gnar again
+    - at: 10:42
+      label: Nidalee outplays Gnar (3rd time)
+    - at: 11:30
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 16:48
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 18:37
+      label: Zeri takes down Aphelios
+    - at: 19:15
+      label: Nidalee outduels Graves
+    - at: 19:53
+      label: Bard picks off Aphelios
+    - at: 21:55
+      label: Nidalee takes down Vladimir
+    - at: 22:10
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 23:28
+      label: Rek'Sai kills Janna
+      kind: kill
+    - at: 24:09
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:38
+      label: Nidalee Double Kill
+      kind: kill
+    - at: 26:10
+      label: Nidalee eliminates Gnar
+    - at: 27:48
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 29:46
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 30:10
+      label: Mid Inhibitor falls (Red)
 - videoId: 1XEwOfrVcCU
   title: Nidalee Top vs Gnar - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1881
   region: KR
+  uploaded: 2025-03-14

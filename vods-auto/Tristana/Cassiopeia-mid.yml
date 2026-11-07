@@ -6,3 +6,52 @@
   durationSec: 1816
   region: EUW
   player: FOXA Panda
+  uploaded: 2026-09-23
+  result: W
+  moments:
+    - at: 1:39
+      label: First Blood — Tristana kills Cassiopeia
+      kind: kill
+    - at: 3:13
+      label: Tristana takes down Cassiopeia
+    - at: 5:32
+      label: Tristana catches Cassiopeia again
+    - at: 8:07
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:08
+      label: Tristana outduels Cassiopeia (3rd time)
+    - at: 14:34
+      label: Tristana outplays Cassiopeia (4th time)
+    - at: 15:37
+      label: Tristana catches Jhin
+    - at: 15:56
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 21:37
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 22:08
+      label: Red takes Baron
+      kind: baron
+    - at: 24:32
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:54
+      label: Tristana solo kills Jayce
+      kind: kill
+    - at: 26:43
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 27:25
+      label: Kai'Sa takes down Jhin
+    - at: 28:22
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 29:07
+      label: Tristana Double Kill
+      kind: kill
+    - at: 29:17
+      label: Tristana Triple Kill
+      kind: kill
+    - at: 29:34
+      label: Mid Inhibitor falls (Blue)

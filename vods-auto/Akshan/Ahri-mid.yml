@@ -5,9 +5,93 @@
   patch: "26.3"
   durationSec: 1522
   region: KR
+  uploaded: 2026-02-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:40
+      label: Take down The Turret
+      kind: tower
+    - at: 17:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:38
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Take down The Turret
+      kind: tower
+    - at: 23:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: End credit
 - videoId: Ea0TdC0nzpQ
   title: Akshan Mid vs Ahri - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1915
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:02
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 16:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:06
+      label: Take down The Turret
+      kind: tower
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:34
+      label: End credit

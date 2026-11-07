@@ -14,9 +14,72 @@
   patch: "25.21"
   durationSec: 1988
   region: KR
+  uploaded: 2025-10-25
 - videoId: j0mtVZJt_Mo
   title: Ryze Mid vs Diana - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1616
   region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Take down The Turret
+      kind: tower
+    - at: 18:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:01
+      label: Take down The Turret
+      kind: tower
+    - at: 23:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:13
+      label: Take down The Turret
+      kind: tower
+    - at: 24:28
+      label: Take down The Inhibitor
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:18
+      label: Take down The Turret
+      kind: tower
+    - at: 26:35
+      label: End credit

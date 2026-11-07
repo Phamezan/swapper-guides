@@ -5,9 +5,65 @@
   patch: "26.14"
   durationSec: 1767
   region: KR
+  uploaded: 2026-07-24
 - videoId: bXB8zTbUUsA
   title: Sett Top vs Kennen - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1796
   region: KR
+  uploaded: 2025-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:14
+      label: Take down The Turret
+      kind: tower
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:48
+      label: Hunt The Atakhan
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:59
+      label: Take down The Turret
+      kind: tower
+    - at: 26:22
+      label: Take down The Inhibitor
+    - at: 27:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:15
+      label: Take down The Turret
+      kind: tower
+    - at: 29:35
+      label: End credit

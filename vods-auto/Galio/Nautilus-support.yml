@@ -5,21 +5,75 @@
   patch: "26.18"
   durationSec: 1626
   region: NA
+  uploaded: 2026-09-22
+  result: W
+  moments:
+    - at: 0:47
+      label: First Blood — Xin Zhao kills Nautilus
+      kind: kill
+    - at: 4:11
+      label: Ashe picks off Nautilus
+    - at: 4:54
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 5:10
+      label: Xin Zhao kills Nautilus
+      kind: kill
+    - at: 6:40
+      label: Lissandra Double Kill
+      kind: kill
+    - at: 7:44
+      label: Xin Zhao kills Fiora
+      kind: kill
+    - at: 9:40
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 10:43
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 15:18
+      label: Galio picks off Karthus
+    - at: 16:04
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:26
+      label: Galio picks off Karthus
+    - at: 17:47
+      label: Gangplank takes down Fizz
+    - at: 19:14
+      label: Xin Zhao kills Nautilus
+      kind: kill
+    - at: 20:30
+      label: Lissandra takes down Fiora
+    - at: 21:26
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:17
+      label: Ashe eliminates Rengar
+    - at: 25:31
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:14
+      label: Gangplank Double Kill
+      kind: kill
 - videoId: 2KHu4PjUjos
   title: Galio Support vs Nautilus - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1575
   region: KR
+  uploaded: 2025-11-01
 - videoId: XinLzkQBsDg
   title: Galio Support vs Nautilus - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1444
   region: KR
+  uploaded: 2025-08-23
 - videoId: F1PNl5c4yUw
   title: Galio Support vs Nautilus - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1871
   region: KR
+  uploaded: 2025-08-09

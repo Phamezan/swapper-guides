@@ -17,6 +17,16 @@
   player: Peyz
   team: T1
   uploaded: 2026-08-20
+- videoId: Q-ZocGVyS5U
+  title: 'Rank 1 Aphelios : His Mechanic is Phenomenal " Destroying VIPER Ezreal in KR Challenger " Engsub'
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 1465
+  region: KR
+  patchEstimated: true
+  player: Viper
+  uploaded: 2026-08-20
+  format: stream
 - videoId: 4ot9A0vGKIc
   title: (GLSH Dream) Aphelios ADC vs Ezreal - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -24,12 +34,7 @@
   durationSec: 1599
   region: EUW
   player: GLSH Dream
-- videoId: nhuz7PmP8hE
-  title: Aphelios ADC vs Ezreal - KR Grandmaster Patch 26.10
-  rankClaim: Grandmaster
-  patch: "26.10"
-  durationSec: 1830
-  region: KR
+  uploaded: 2026-07-31
 - videoId: CckB_4ZFJIk
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
@@ -37,6 +42,13 @@
   durationSec: 1816
   region: KR
   uploaded: 2026-05-19
+- videoId: nhuz7PmP8hE
+  title: Aphelios ADC vs Ezreal - KR Grandmaster Patch 26.10
+  rankClaim: Grandmaster
+  patch: "26.10"
+  durationSec: 1830
+  region: KR
+  uploaded: 2026-05-18
 - videoId: -cXYuB73FB4
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -59,6 +71,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-03-08
 - videoId: RUYkb5MPoXY
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
@@ -66,12 +79,6 @@
   durationSec: 1306
   region: KR
   uploaded: 2026-01-20
-- videoId: Dq4OqYZ3T2Q
-  title: Aphelios ADC vs Ezreal - KR Challenger Patch 25.24
-  rankClaim: Challenger
-  patch: "25.24"
-  durationSec: 1712
-  region: KR
 - videoId: DfL8sWIPQrM
   title: Aphelios vs Ezreal ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -80,30 +87,89 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2025-12-26
+- videoId: Dq4OqYZ3T2Q
+  title: Aphelios ADC vs Ezreal - KR Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1712
+  region: KR
+  uploaded: 2025-12-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:44
+      label: Take down The Turret
+      kind: tower
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Take down The Turret
+      kind: tower
+    - at: 18:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:43
+      label: Take down The Turret
+      kind: tower
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Get a Triple Kill
+      kind: kill
+    - at: 28:21
+      label: End credit
 - videoId: 30sA-xORjdM
   title: Aphelios vs Ezreal [ ADC ] Patch 25.23 Korea Challenger 1279 LP
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1106
   region: KR
+  uploaded: 2025-11-22
 - videoId: 14dch2DmjlM
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 2461
   region: KR
+  uploaded: 2025-06-25
 - videoId: 3E5JNdb-Clw
   title: Aphelios vs Ezreal ADC - KR Grandmaster - Patch 25.10 Season 15
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1871
   region: KR
+  uploaded: 2025-05-24
 - videoId: cVFQytFdbSs
   title: Aphelios ADC vs Ezreal - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1853
   region: KR
+  uploaded: 2025-05-06
 - videoId: BJFGwgOS0LA
   title: Aphelios vs Ezreal ADC [ Peyz ] Patch 25.9 Korea Challenger ✅
   rankClaim: Challenger
@@ -111,18 +177,21 @@
   durationSec: 1392
   region: KR
   player: Peyz
+  uploaded: 2025-05-05
 - videoId: jV_-vV1wQ1c
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1756
   region: KR
+  uploaded: 2025-04-16
 - videoId: iEZ6ODL4vkk
   title: Aphelios vs Ezreal ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1650
   region: KR
+  uploaded: 2025-03-07
 - videoId: APkBRpgjrY4
   title: Aphelios vs Ezreal ADC [ Peyz ] Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -130,3 +199,4 @@
   durationSec: 1557
   region: KR
   player: Peyz
+  uploaded: 2025-02-18

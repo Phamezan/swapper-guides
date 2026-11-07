@@ -17,21 +17,113 @@
   patch: "26.5"
   durationSec: 1771
   region: KR
+  uploaded: 2026-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:52
+      label: Take down The Turret
+      kind: tower
+    - at: 25:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:49
+      label: Take down The Turret
+      kind: tower
+    - at: 29:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:20
+      label: End credit
 - videoId: H1ZRZK1Y3oE
   title: Gangplank vs Ambessa [ TOP ] Lol Korea Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1881
   region: KR
+  uploaded: 2025-09-08
 - videoId: IvEDRRzsitc
   title: Gangplank Top vs Ambessa - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1875
   region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:12
+      label: Take down The Turret
+      kind: tower
+    - at: 15:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:49
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:21
+      label: Take down The Turret
+      kind: tower
+    - at: 27:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:54
+      label: End credit
 - videoId: hfH1HlcJmI8
   title: GangPlank vs Ambessa Top - KR Grandmaster - Patch 25.7 Season 15
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1991
   region: KR
+  uploaded: 2025-04-03

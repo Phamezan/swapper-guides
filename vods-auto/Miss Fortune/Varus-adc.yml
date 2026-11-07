@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1660
   region: KR
+  uploaded: 2026-08-31
 - videoId: tOmLo_Z8LgI
   title: DK Smash Miss Fortune vs Varus [ ADC ] Korea Challenger 2470 LP | Patch 26.9
   rankClaim: Challenger
@@ -22,12 +23,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-30
 - videoId: lO0onMLzq1o
   title: Miss Fortune vs Varus ADC - KR Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 2151
   region: KR
+  uploaded: 2026-02-02
 - videoId: tU1F-hEcAMI
   title: T1 Peyz Miss Fortune vs Varus [ ADC ] Korea Challenger 1569 LP | Patch 26.2
   rankClaim: Challenger
@@ -36,6 +39,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-30
 - videoId: lZfw-z40BdA
   title: HLE Gumayusi Miss Fortune vs Varus [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -44,18 +48,21 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2025-12-05
 - videoId: Afp_i9aYE7Y
   title: Miss Fortune ADC vs Varus - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1561
   region: KR
+  uploaded: 2025-08-19
 - videoId: iRC5cZL7uNI
   title: Miss Fortune ADC vs Varus - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1590
   region: KR
+  uploaded: 2025-07-17
 - videoId: l9ufE-VJHT4
   title: T1 Gumayusi Miss Fortune vs Varus [ ADC ] Patch 25.10 Korea Grandmaster
   rankClaim: Grandmaster
@@ -64,6 +71,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-16
 - videoId: R091PD1gpFs
   title: T1 Gumayusi Miss Fortune vs Varus [ ADC ] Korea Challenger Patch 25.7 ✅
   rankClaim: Challenger
@@ -72,6 +80,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-09
 - videoId: 74plYPYVgXA
   title: T1 Gumayusi Miss Fortune ADC vs Varus - Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -80,6 +89,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-04
 - videoId: TR5VsjRSVBo
   title: T1 Gumayusi Miss Fortune ADC vs Varus - Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -88,6 +98,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-21
 - videoId: DJH3R8EWAH4
   title: T1 Gumayusi Miss Fortune vs Varus [ ADC ] Patch 25.1 Ranked Korea ✅
   rankClaim: Master+
@@ -96,3 +107,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-11

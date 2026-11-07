@@ -6,21 +6,33 @@
   durationSec: 1691
   region: KR
   uploaded: 2026-10-14
+- videoId: 3v8BS4IBl1o
+  title: 🛑 XiaoMing Aatrox vs Pantheon - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.6"
+  durationSec: 907
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-03-30
+  format: stream
 - videoId: 9Wce82hHWcc
   title: "AATROX vs PANTHEON (TOP) | Good KDA: 17/1/8, 39K damage | KR Master | 25.24"
   rankClaim: Master
   patch: "25.24"
   durationSec: 1730
   region: KR
+  uploaded: 2025-12-24
 - videoId: S6wdlPDE7AA
   title: AATROX vs PANTHEON (TOP) | 10/3/5 | KR Master | 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1127
   region: KR
+  uploaded: 2025-08-25
 - videoId: fTacfGQwoPM
   title: AATROX vs PANTHEON (TOP) | 6 solo kills, 8/2/4 | KR Master | 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1326
   region: KR
+  uploaded: 2025-08-21

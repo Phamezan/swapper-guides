@@ -6,21 +6,95 @@
   durationSec: 1437
   region: KR
   player: Pullbae
+  uploaded: 2026-08-04
 - videoId: VyLGrEFkV4c
   title: Cho'Gath Top vs Jayce - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1562
   region: KR
+  uploaded: 2025-12-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:12
+      label: Take down The Turret
+      kind: tower
+    - at: 15:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Take down The Turret
+      kind: tower
+    - at: 19:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:15
+      label: Take down The Turret
+      kind: tower
+    - at: 24:38
+      label: Take down The Inhibitor
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Take down The Turret
+      kind: tower
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: End credit
 - videoId: GhbfBfUX5dE
   title: Cho'Gath Top vs Jayce - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1833
   region: KR
+  uploaded: 2025-06-19
 - videoId: 3_8rpUgrdVw
   title: Cho'Gath Top vs Jayce - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1847
   region: KR
+  uploaded: 2025-03-16

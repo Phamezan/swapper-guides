@@ -5,6 +5,74 @@
   patch: "26.2"
   durationSec: 1556
   region: KR
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:22
+      label: Take down The Turret
+      kind: tower
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Take down The Turret
+      kind: tower
+    - at: 18:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:28
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Take down The Turret
+      kind: tower
+    - at: 24:06
+      label: Take down The Inhibitor
+    - at: 25:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: End credit
 - videoId: gU0_pDv1Lc8
   title: Bel'Veth vs Viego Jungle - KR Grandmaster - Patch 26.01 Season 16
   rankClaim: Grandmaster
@@ -18,51 +86,60 @@
   patch: "25.24"
   durationSec: 1546
   region: KR
+  uploaded: 2025-12-25
 - videoId: GgpqGrD5P0Y
   title: Bel'Veth vs Viego Jungle - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1541
   region: KR
+  uploaded: 2025-12-18
 - videoId: 2Y15dNjtr1A
   title: Bel'Veth vs Viego [ Jungle ] Korea Challenger 1556 LP | Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1423
   region: KR
+  uploaded: 2025-11-02
 - videoId: Av6MO7pnQU0
   title: Bel'Veth Jungle vs Viego - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1661
   region: KR
+  uploaded: 2025-08-05
 - videoId: npoHoQvVK4o
   title: Bel'Veth vs Viego Jungle - EUW Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1621
   region: EUW
+  uploaded: 2025-07-18
 - videoId: GIODPsMY8K4
   title: Bel'Veth vs Viego Jungle - KR Grandmaster - Patch 25.13 Season 15
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1836
   region: KR
+  uploaded: 2025-07-02
 - videoId: B42GzN40dfQ
   title: Bel'Veth vs Viego Jungle - KR Master - Patch 25.12 Season 15
   rankClaim: Master
   patch: "25.12"
   durationSec: 1665
   region: KR
+  uploaded: 2025-06-16
 - videoId: 5Eh9qtCUt9s
   title: Bel'Veth vs Viego Jungle - KR Grandmaster - Patch 25.11 Season 15
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1681
   region: KR
+  uploaded: 2025-06-09
 - videoId: pW0BZLwdvT0
   title: Bel'Veth vs Viego Jungle - EUW Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1831
   region: EUW
+  uploaded: 2025-05-06

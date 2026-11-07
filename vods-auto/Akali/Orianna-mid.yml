@@ -19,33 +19,92 @@
   patch: "25.24"
   durationSec: 1487
   region: EUW
+  uploaded: 2026-01-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:24
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 18:07
+      label: Take down The Turret
+      kind: tower
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:25
+      label: Take down The Turret
+      kind: tower
+    - at: 24:36
+      label: End credit
 - videoId: Ae8CARa-6MQ
   title: Akali Mid vs Orianna - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1558
   region: KR
+  uploaded: 2025-09-15
 - videoId: Q0xsDUOApMo
   title: Akali Mid vs Orianna - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1493
   region: KR
+  uploaded: 2025-07-15
 - videoId: OdhH12mJ3rs
   title: Akali vs Orianna Mid - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1471
   region: KR
+  uploaded: 2025-07-10
 - videoId: hfhfxKaqjFI
   title: Akali vs Orianna Mid - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1966
   region: KR
+  uploaded: 2025-05-28
 - videoId: ECrr62bKg5A
   title: Akali vs Orianna Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1681
   region: KR
+  uploaded: 2025-04-24

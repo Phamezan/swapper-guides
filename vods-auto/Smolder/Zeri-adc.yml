@@ -5,36 +5,83 @@
   patch: "26.1"
   durationSec: 1576
   region: KR
+  uploaded: 2026-01-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:53
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Take down The Turret
+      kind: tower
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: End credit
 - videoId: R4Nw3YA0gpE
   title: Smolder ADC vs Zeri - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1613
   region: KR
+  uploaded: 2025-12-08
 - videoId: hIQZRsN5AXQ
   title: Smolder vs Zeri ADC - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1501
   region: KR
+  uploaded: 2025-10-17
 - videoId: a5pb0BwCL4Q
   title: Smolder ADC vs Zeri - KR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1909
   region: KR
+  uploaded: 2025-09-15
 - videoId: xEtXJOdx-Zk
   title: Smolder ADC vs Zeri - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1763
   region: KR
+  uploaded: 2025-08-19
 - videoId: u2B8UvexMaw
   title: Smolder vs Zeri ADC - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1921
   region: KR
+  uploaded: 2025-06-17
 - videoId: N04ci293VHc
   title: T1 Smash Smolder vs Zeri [ ADC ] Patch 25.12 Korea Challenger
   rankClaim: Challenger
@@ -43,3 +90,4 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-06-15

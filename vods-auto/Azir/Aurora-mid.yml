@@ -7,15 +7,64 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-07
 - videoId: LXvazIhzCvE
   title: Azir Mid vs Aurora - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1640
   region: KR
+  uploaded: 2025-09-03
 - videoId: TWITgLyB3Jo
   title: Azir Mid vs Aurora - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1790
   region: KR
+  uploaded: 2025-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 15:51
+      label: Take down The Turret
+      kind: tower
+    - at: 18:12
+      label: Take down The Turret
+      kind: tower
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Take down The Turret
+      kind: tower
+    - at: 24:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 28:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:31
+      label: Get a Triple Kill
+      kind: kill
+    - at: 28:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:57
+      label: Take down The Inhibitor
+    - at: 29:15
+      label: Take down The Turret
+      kind: tower
+    - at: 29:29
+      label: End credit

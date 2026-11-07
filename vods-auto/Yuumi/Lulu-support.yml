@@ -5,45 +5,189 @@
   patch: "26.13"
   durationSec: 1473
   region: KR
+  uploaded: 2026-07-16
 - videoId: h7T3nsgITrM
   title: Yuumi Support vs Lulu - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1559
   region: KR
+  uploaded: 2026-05-09
 - videoId: cTav8vBDst8
   title: Yuumi Support vs Lulu - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1526
   region: KR
+  uploaded: 2026-04-16
 - videoId: v3vN9wDOmi4
   title: Yuumi Support vs Lulu - EUW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1790
   region: EUW
+  uploaded: 2026-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Take down The Turret
+      kind: tower
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Take down The Turret
+      kind: tower
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:39
+      label: Take down The Turret
+      kind: tower
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:48
+      label: Take down The Inhibitor
+    - at: 28:04
+      label: Take down The Turret
+      kind: tower
+    - at: 28:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:39
+      label: End credit
 - videoId: VaKTLAYQGAA
   title: Yuumi Support vs Lulu - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1850
   region: KR
+  uploaded: 2026-02-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:52
+      label: Take down The Turret
+      kind: tower
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: Take down The Turret
+      kind: tower
+    - at: 26:37
+      label: Take down The Inhibitor
+    - at: 27:33
+      label: Take down The Turret
+      kind: tower
+    - at: 27:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:39
+      label: End credit
 - videoId: 47Nkpo3UEbw
   title: Yuumi Support vs Lulu - NA Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1623
   region: NA
+  uploaded: 2025-11-21
 - videoId: rAKiFAzbI1E
   title: Yuumi Support vs Lulu - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1711
   region: KR
+  uploaded: 2025-04-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Take down The Turret
+      kind: tower
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Take down The Turret
+      kind: tower
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:33
+      label: Take down The Turret
+      kind: tower
+    - at: 27:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:10
+      label: End credit
 - videoId: TIqPZDAZqD0
   title: Yuumi Support vs Lulu - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1780
   region: EUW
+  uploaded: 2025-04-01

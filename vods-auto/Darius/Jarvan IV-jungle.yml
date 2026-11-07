@@ -4,21 +4,25 @@
   rankClaim: Challenger
   patch: "26.14"
   durationSec: 1542
+  uploaded: 2026-07-26
 - videoId: Ng_d7c8Y6TM
   title: Darius Jungle vs Jarvan IV - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1784
   region: KR
+  uploaded: 2026-05-04
 - videoId: m2x9xJ6b3cE
   title: Darius Jungle vs Jarvan IV - EUW Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1560
   region: EUW
+  uploaded: 2026-03-31
 - videoId: bK_B3ss9swM
   title: Darius Jungle vs Jarvan IV - EUW Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1755
   region: EUW
+  uploaded: 2025-09-22

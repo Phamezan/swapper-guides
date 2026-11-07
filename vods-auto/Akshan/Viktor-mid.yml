@@ -5,15 +5,77 @@
   patch: "25.24"
   durationSec: 1532
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 10:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Get a Triple Kill
+      kind: kill
+    - at: 13:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:27
+      label: Get a Triple Kill
+      kind: kill
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:11
+      label: Take down The Turret
+      kind: tower
+    - at: 20:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Take down The Turret
+      kind: tower
+    - at: 25:21
+      label: End credit
 - videoId: LhdXAVKsdXk
   title: Akshan vs Viktor Mid - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1511
   region: KR
+  uploaded: 2025-12-07
 - videoId: G0i4rpGYnl8
   title: Akshan Mid vs Viktor - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1547
   region: KR
+  uploaded: 2025-05-21

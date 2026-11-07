@@ -62,157 +62,184 @@
   durationSec: 1653
   region: EUW
   player: ALMO Tochas
+  uploaded: 2026-07-10
 - videoId: W7pLxbCaYCI
   title: SAMIRA & Vel'Koz vs ASHE & Alistar (ADC) | 79K damage, 5k gold comeback | EUNE Challenger | 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 2120
   region: EUNE
+  uploaded: 2026-06-30
 - videoId: 06wuOJzG_Ho
   title: SAMIRA & Rell vs ASHE & Skarner (ADC) | 69K damage | NA Grandmaster | 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1734
   region: NA
+  uploaded: 2026-06-26
 - videoId: Q6OScypKycE
   title: SAMIRA & Nautilus vs ASHE & Brand (ADC) | NA Challenger | 26.12
   rankClaim: Challenger
   patch: "26.12"
   durationSec: 2002
   region: NA
+  uploaded: 2026-06-12
 - videoId: sxkGUsF3rdA
   title: SAMIRA & Nautilus vs ASHE & Alistar (ADC) | 73K damage | KR Master | 26.11
   rankClaim: Master
   patch: "26.11"
   durationSec: 1925
   region: KR
+  uploaded: 2026-06-11
 - videoId: 6NvlNmkzPKM
   title: "SAMIRA & Seraphine vs ASHE & Tahm Kench (ADC) | 129K damage, Good KDA: 35/4/3 | EUW Master | 26.11"
   rankClaim: Master
   patch: "26.11"
   durationSec: 1992
   region: EUW
+  uploaded: 2026-05-31
 - videoId: -lOiXvOS_Sw
   title: SAMIRA & Nautilus vs ASHE & Braum (ADC) | NA Grandmaster | 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1525
   region: NA
+  uploaded: 2026-05-14
 - videoId: 8GNGVGs61eA
   title: "SAMIRA & Renata Glasc vs ASHE & Seraphine (ADC) | Perfect KDA: 25/0/2 | EUW Master | 26.9"
   rankClaim: Master
   patch: "26.9"
   durationSec: 1379
   region: EUW
+  uploaded: 2026-05-10
 - videoId: Z5JYp-GTCUw
   title: "SAMIRA & Rell vs ASHE & Zilean (ADC) | Good KDA: 22/1/3 | EUW Master | 26.9"
   rankClaim: Master
   patch: "26.9"
   durationSec: 1531
   region: EUW
+  uploaded: 2026-05-03
+- videoId: kt_vcI9G0-I
+  title: Samira ADC vs Ashe - VN Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1567
+  uploaded: 2026-04-23
 - videoId: HAv4MK-duLE
   title: "SAMIRA & Nautilus vs ASHE & Taliyah (ADC) | Good KDA: 28/2/3 | KR Master | 26.8"
   rankClaim: Master
   patch: "26.8"
   durationSec: 1401
   region: KR
-- videoId: kt_vcI9G0-I
-  title: Samira ADC vs Ashe - VN Challenger Patch 26.08
-  rankClaim: Challenger
-  patch: "26.8"
-  durationSec: 1567
+  uploaded: 2026-04-21
 - videoId: EF5KSRmkAt0
   title: "SAMIRA & Nami vs ASHE & Pyke (ADC) | Good KDA: 20/1/9 | NA Master | 26.7"
   rankClaim: Master
   patch: "26.7"
   durationSec: 1371
   region: NA
+  uploaded: 2026-04-16
 - videoId: 83WkFc27OGs
   title: SAMIRA & Alistar vs ASHE & Braum (ADC) | 69K damage | EUNE Grandmaster | 26.7
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 2019
   region: EUNE
+  uploaded: 2026-04-03
 - videoId: AgLXXnFojyw
   title: SAMIRA & Blitzcrank vs ASHE & Morgana (ADC) | 89K damage | EUW Master | 26.5
   rankClaim: Master
   patch: "26.5"
   durationSec: 2090
   region: EUW
+  uploaded: 2026-03-11
 - videoId: -0y3Ei1CgYw
   title: "SAMIRA & Thresh vs ASHE & Lulu (ADC) | 54K damage, Good KDA: 32/4/5 | EUW Master | 25.24"
   rankClaim: Master
   patch: "25.24"
   durationSec: 1539
   region: EUW
+  uploaded: 2026-01-03
 - videoId: pjvqyuq5BHI
   title: "SAMIRA & Nautilus vs ASHE & Soraka (ADC) | Good KDA: 23/2/6 | EUW Master | 25.24"
   rankClaim: Master
   patch: "25.24"
   durationSec: 1690
   region: EUW
+  uploaded: 2026-01-01
 - videoId: -OwKc9zS0s0
   title: SAMIRA & Nautilus vs ASHE & Seraphine (ADC) | KR Master | 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 2211
   region: KR
+  uploaded: 2025-12-23
 - videoId: roYcMQ6CJPg
   title: SAMIRA & Blitzcrank vs ASHE & Braum (ADC) | Quadra, Legendary, 25/5/5 | EUW Master | 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1430
   region: EUW
+  uploaded: 2025-10-18
 - videoId: hN8sfZjDbn0
   title: SAMIRA & Tahm Kench vs ASHE & Braum (ADC) | Dominating | KR Master | 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1672
   region: KR
+  uploaded: 2025-08-06
 - videoId: 9hSQ45wE3Go
   title: SAMIRA & Rell vs ASHE & Alistar (ADC) | Quadra, Legendary, 17/3/4, 500+ games | KR Master | 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1462
   region: KR
+  uploaded: 2025-05-30
 - videoId: ekoqNenflhE
   title: SAMIRA & Pyke vs ASHE & Janna (ADC) | Quadra, Legendary, 800+ games | EUW Grandmaster | 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1570
   region: EUW
+  uploaded: 2025-05-25
 - videoId: nYHVNjlh1XE
   title: SAMIRA & Renata Glasc vs ASHE & Rell (ADC) | Legendary, 19/4/3 | EUW Master | 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1474
   region: EUW
+  uploaded: 2025-05-23
 - videoId: zEllAPmDCYw
   title: SAMIRA & Alistar vs ASHE & Rakan (ADC) | TR Grandmaster | 25.9
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2221
+  uploaded: 2025-05-05
 - videoId: T8H6GndkUpo
   title: SAMIRA & Rell vs ASHE & Mel (ADC) | Legendary | KR Master | 25.5
   rankClaim: Master
   patch: "25.5"
   durationSec: 1525
   region: KR
-- videoId: 1dqR0kEuMOM
-  title: SAMIRA & Leona vs ASHE & Alistar (ADC) | 1100+ games, Legendary, 12/4/10 | EUW Master | 25.4
-  rankClaim: Master
-  patch: "25.4"
-  durationSec: 1619
-  region: EUW
-- videoId: FX_veYDIhq0
-  title: SAMIRA & Leona vs ASHE & Camille (ADC) | 6 solo kills, Legendary, 1000+ games | EUW Master | 25.4
-  rankClaim: Master
-  patch: "25.4"
-  durationSec: 1940
-  region: EUW
+  uploaded: 2025-03-07
 - videoId: lvjitvUVfmw
   title: Samira ADC vs Ashe - EUW Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1598
   region: EUW
+  uploaded: 2025-03-06
+- videoId: 1dqR0kEuMOM
+  title: SAMIRA & Leona vs ASHE & Alistar (ADC) | 1100+ games, Legendary, 12/4/10 | EUW Master | 25.4
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1619
+  region: EUW
+  uploaded: 2025-03-05
+- videoId: FX_veYDIhq0
+  title: SAMIRA & Leona vs ASHE & Camille (ADC) | 6 solo kills, Legendary, 1000+ games | EUW Master | 25.4
+  rankClaim: Master
+  patch: "25.4"
+  durationSec: 1940
+  region: EUW
+  uploaded: 2025-02-25

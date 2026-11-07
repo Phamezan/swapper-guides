@@ -52,6 +52,7 @@
   patch: "26.10"
   durationSec: 1717
   region: KR
+  uploaded: 2026-05-17
 - videoId: wmAYPLKy4ic
   title: Darius vs K'Sante 12/1/1 (Top) | EUW Challenger | Darius OTP Replay
   rankClaim: Challenger
@@ -66,15 +67,65 @@
   patch: "25.24"
   durationSec: 1607
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:48
+      label: Take down The Turret
+      kind: tower
+    - at: 14:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Take down The Turret
+      kind: tower
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Take down The Turret
+      kind: tower
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:36
+      label: End credit
 - videoId: xJRxSEsbqCo
   title: Darius vs KSante Top - EUW Challenger - Patch 25.17 Season 15
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 2101
   region: EUW
+  uploaded: 2025-09-10
 - videoId: 3ifvJxrPj68
   title: Darius Top vs K'Sante - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1575
   region: KR
+  uploaded: 2025-06-19

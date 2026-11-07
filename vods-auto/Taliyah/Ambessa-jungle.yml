@@ -5,9 +5,75 @@
   patch: "26.5"
   durationSec: 1515
   region: EUW
+  uploaded: 2026-03-14
 - videoId: rHxRz9f1Lm0
   title: Taliyah Jungle vs Ambessa - KR Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1560
   region: KR
+  uploaded: 2026-01-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:32
+      label: Take down The Turret
+      kind: tower
+    - at: 22:46
+      label: Take down The Inhibitor
+    - at: 23:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: Take down The Turret
+      kind: tower
+    - at: 25:49
+      label: End credit

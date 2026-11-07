@@ -5,9 +5,74 @@
   patch: "25.24"
   durationSec: 1531
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:41
+      label: Hunt The Atakhan
+    - at: 21:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:41
+      label: Take down The Turret
+      kind: tower
+    - at: 23:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Take down The Inhibitor
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: End credit
 - videoId: CGm1hwQ_2u4
   title: Rengar Jungle vs Sylas - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1852
   region: KR
+  uploaded: 2025-10-13

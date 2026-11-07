@@ -5,15 +5,82 @@
   patch: "25.24"
   durationSec: 1540
   region: KR
+  uploaded: 2025-12-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Take down The Turret
+      kind: tower
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:24
+      label: Take down The Turret
+      kind: tower
+    - at: 20:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Take down The Turret
+      kind: tower
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:13
+      label: Take down The Inhibitor
+    - at: 25:29
+      label: End credit
 - videoId: Me2a9xghU9Y
   title: Rek'Sai vs Ornn Top - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1531
   region: KR
+  uploaded: 2025-12-08
 - videoId: 0xAQO4KmTa4
   title: Rek'Sai Top vs Ornn - NA Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1593
   region: NA
+  uploaded: 2025-08-10

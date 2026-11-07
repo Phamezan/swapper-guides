@@ -5,21 +5,63 @@
   patch: "26.1"
   durationSec: 1569
   region: EUW
+  uploaded: 2026-01-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:28
+      label: Take down The Turret
+      kind: tower
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Take down The Turret
+      kind: tower
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: End credit
 - videoId: UXhYFiilcU4
   title: Taric Support vs Leona - EUW Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1746
   region: EUW
+  uploaded: 2025-09-06
 - videoId: hYNSsIKImSI
   title: Taric Support vs Leona - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1814
   region: EUW
+  uploaded: 2025-05-15
 - videoId: LgsEKL3hTYo
   title: Taric Support vs Leona - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1579
   region: KR
+  uploaded: 2025-04-27

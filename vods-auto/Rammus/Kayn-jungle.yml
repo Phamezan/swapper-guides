@@ -5,3 +5,50 @@
   patch: "26.18"
   durationSec: 1415
   region: EUW
+  uploaded: 2026-09-16
+  result: W
+  moments:
+    - at: 1:45
+      label: First Blood — Rammus kills Gnar
+      kind: kill
+    - at: 6:33
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 7:27
+      label: Ryze eliminates Gnar
+    - at: 8:41
+      label: Ryze eliminates Gnar
+    - at: 9:20
+      label: Yone picks off Kayn
+    - at: 11:12
+      label: Yone kills Kai'Sa
+      kind: kill
+    - at: 12:05
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:20
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:43
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 16:50
+      label: Jinx takes down Kai'Sa
+    - at: 17:42
+      label: Ryze eliminates Leona
+    - at: 18:17
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:26
+      label: Jinx picks off Leona
+    - at: 21:22
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:36
+      label: Rammus Double Kill
+      kind: kill
+    - at: 22:46
+      label: Rammus Triple Kill
+      kind: kill
+    - at: 22:57
+      label: Mid Inhibitor falls (Red)

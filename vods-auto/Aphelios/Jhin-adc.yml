@@ -8,6 +8,14 @@
   player: Jz
   uploaded: 2026-11-01
   format: stream
+- videoId: ePCC0ZOezhc
+  title: '"003ad" Rank 1 Aphelios : His Combos is TOTAL DESTRUCTIONS - Engsub ( vs Jhin, Xayah )'
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1787
+  patchEstimated: true
+  uploaded: 2026-10-09
+  format: stream
 - videoId: JbqzC9ZykVo
   title: T1 Peyz Aphelios vs Jhin [ ADC ] Korea Challenger 2225 LP | Patch 26.19
   rankClaim: Challenger
@@ -17,6 +25,23 @@
   player: Peyz
   team: T1
   uploaded: 2026-10-06
+- videoId: vwiyI8l90fs
+  title: "SMASH : His Aphelios Combos is Devastating - Engsub ( vs Jhin )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1110
+  patchEstimated: true
+  player: Smash
+  uploaded: 2026-08-29
+  format: stream
+- videoId: V9dET0bshxA
+  title: "1300LP Aphelios : The Smoothest Aphelios Mechanics You’ll Ever See - Engsub ( vs MF, Jhin )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1254
+  patchEstimated: true
+  uploaded: 2026-08-22
+  format: stream
 - videoId: 034uTBilM2k
   title: (DK Smash) Aphelios ADC vs Jhin - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -25,6 +50,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-08-19
 - videoId: ZoQERsxsbYI
   title: DK Smash Aphelios vs Jhin [ ADC ] Korea Challenger 2255 LP | Patch 26.16
   rankClaim: Challenger
@@ -34,6 +60,14 @@
   player: Smash
   team: DK
   uploaded: 2026-08-17
+- videoId: exjMKxETmPs
+  title: "Rank 1 Aphelios : He Make Super Server Master Elo Look Like AI - Engsub (Aphe vs Jhin, Jinx)"
+  rankClaim: Master
+  patch: "26.13"
+  durationSec: 1314
+  patchEstimated: true
+  uploaded: 2026-06-28
+  format: stream
 - videoId: 5a0XUzxAAs4
   title: Aphelios vs Jhin ADC - EUW Challenger - Patch 16.04 Season 16
   rankClaim: Challenger
@@ -47,12 +81,78 @@
   patch: "26.2"
   durationSec: 1490
   region: EUW
+  uploaded: 2026-02-05
 - videoId: T_gtX3L_YKk
   title: Aphelios ADC vs Jhin - EUW Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1593
   region: EUW
+  uploaded: 2026-01-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Take down The Turret
+      kind: tower
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:57
+      label: Take down The Turret
+      kind: tower
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Take down The Turret
+      kind: tower
+    - at: 24:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Take down The Turret
+      kind: tower
+    - at: 25:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:46
+      label: Take down The Inhibitor
+    - at: 25:59
+      label: Take down The Turret
+      kind: tower
+    - at: 26:22
+      label: End credit
 - videoId: nEkwddB3ru4
   title: Aphelios vs Jhin ADC [ QuadraKill ] Korea Master Patch 25.21
   rankClaim: Master
@@ -60,27 +160,32 @@
   durationSec: 1903
   region: KR
   player: QuadraKill
+  uploaded: 2025-10-27
 - videoId: AsLd1ZFO_A0
   title: Aphelios ADC vs Jhin - EUW Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1661
   region: EUW
+  uploaded: 2025-09-24
 - videoId: S5ZpRHejuIA
   title: Aphelios vs Jhin ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1951
   region: KR
+  uploaded: 2025-07-01
 - videoId: FlHvAt5HgX0
   title: Aphelios vs Jhin ADC - KR CHallenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 2791
   region: KR
+  uploaded: 2025-04-14
 - videoId: 0xBQcXFhQPE
   title: Aphelios ADC vs Jhin - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1695
   region: EUW
+  uploaded: 2025-04-01

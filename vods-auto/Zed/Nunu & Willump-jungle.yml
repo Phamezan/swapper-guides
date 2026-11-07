@@ -5,6 +5,7 @@
   patch: "26.14"
   durationSec: 1673
   region: KR
+  uploaded: 2026-07-23
 - videoId: Il4QmlIHW1c
   title: Zed Jungle vs Nunu & Willump - EUW Master Patch 26.13
   rankClaim: Master
@@ -272,24 +273,143 @@
   patch: "26.3"
   durationSec: 1517
   region: NA
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:25
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Take down The Turret
+      kind: tower
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:39
+      label: Take down The Turret
+      kind: tower
+    - at: 24:49
+      label: Take down The Inhibitor
+    - at: 25:06
+      label: End credit
 - videoId: lwv5qDZ_utg
   title: Zed Jungle vs Nunu & Willump - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1984
   region: KR
+  uploaded: 2025-10-24
 - videoId: 2s_PQzbJXcA
   title: Zed Jungle vs Nunu & Willump - TW Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1622
+  uploaded: 2025-07-22
 - videoId: MOfWgy2r3Ng
   title: Zed Jungle vs Nunu & Willump - BR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1700
+  uploaded: 2025-05-30
 - videoId: M41SJZP95II
   title: Zed Jungle vs Nunu & Willump - BR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1613
+  uploaded: 2025-04-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:04
+      label: Take down The Turret
+      kind: tower
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Take down The Turret
+      kind: tower
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:32
+      label: End credit

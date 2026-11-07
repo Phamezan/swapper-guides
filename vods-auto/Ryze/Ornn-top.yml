@@ -6,9 +6,49 @@
   durationSec: 1468
   region: NA
   player: Strompest
+  uploaded: 2026-07-05
+  result: W
+  moments:
+    - at: 5:31
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:08
+      label: First Blood — Ryze kills Karthus
+      kind: kill
+    - at: 11:08
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:55
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:09
+      label: Ryze picks off Yone
+    - at: 16:45
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 17:19
+      label: Ryze eliminates Ornn
+    - at: 18:26
+      label: Ryze outplays Anivia
+    - at: 20:15
+      label: Ryze eliminates Senna
+    - at: 21:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:07
+      label: Blue takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 22:32
+      label: Hwei eliminates Anivia
+    - at: 22:45
+      label: Mid Inhibitor falls (Red)
+    - at: 23:12
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: Ieg1l90lnho
   title: Ryze Top vs Ornn - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1738
   region: KR
+  uploaded: 2026-03-13

@@ -13,21 +13,25 @@
   durationSec: 1498
   region: EUW
   player: MISA 113
+  uploaded: 2026-06-10
 - videoId: tu6e87oSCVY
   title: Viego vs Karthus Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1571
   region: KR
-- videoId: 2KjJnyRrTtA
-  title: Viego Jungle vs Karthus - KR Challenger Patch 25.05
-  rankClaim: Challenger
-  patch: "25.5"
-  durationSec: 1713
-  region: KR
+  uploaded: 2025-05-17
 - videoId: 4Yv4hrRCwIU
   title: Viego vs Karthus Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1801
   region: KR
+  uploaded: 2025-03-19
+- videoId: 2KjJnyRrTtA
+  title: Viego Jungle vs Karthus - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1713
+  region: KR
+  uploaded: 2025-03-08

@@ -6,9 +6,67 @@
   durationSec: 1426
   region: EUW
   player: tomomaso
+  uploaded: 2026-10-04
 - videoId: jyvVwPMimmA
   title: Vladimir Top vs Zaahen - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1449
   region: KR
+  uploaded: 2025-12-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:45
+      label: Take down The Turret
+      kind: tower
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:16
+      label: Take down The Turret
+      kind: tower
+    - at: 17:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Take down The Turret
+      kind: tower
+    - at: 20:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:57
+      label: Take down The Turret
+      kind: tower
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: End credit

@@ -5,3 +5,66 @@
   patch: "25.8"
   durationSec: 2015
   region: KR
+  uploaded: 2025-04-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:04
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Take down The Turret
+      kind: tower
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: Take down The Turret
+      kind: tower
+    - at: 25:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:59
+      label: Take down The Turret
+      kind: tower
+    - at: 30:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 32:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:14
+      label: End credit

@@ -6,6 +6,22 @@
   durationSec: 2047
   region: KR
   uploaded: 2026-06-19
+- videoId: aUvSkMLmrf0
+  title: "2255LP Ezreal : His Mechanic is UNSTOPPABLE in HighElo - Engsub ( Ez vs Senna, Jinx )"
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1474
+  patchEstimated: true
+  uploaded: 2026-05-30
+  format: stream
+- videoId: xA-MqFk2TvA
+  title: "Diable : His Ezreal Mechanic is EXTREMELY BROKEN - Engsub ( Ez vs Senna )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1349
+  patchEstimated: true
+  uploaded: 2026-05-02
+  format: stream
 - videoId: _rcda4AyOUQ
   title: Ezreal vs Senna ADC [ Gen.G Ruler ] Korea Grandmaster Patch 26.5 ✅
   rankClaim: Grandmaster
@@ -14,48 +30,42 @@
   region: KR
   player: Ruler
   team: Gen.G
-- videoId: iUNEd_0PivA
-  title: Ezreal ADC vs Senna - KR Challenger Patch 25.21
-  rankClaim: Challenger
-  patch: "25.21"
-  durationSec: 1764
-  region: KR
+  uploaded: 2026-03-09
 - videoId: Q4rj_g3ndq8
   title: Ezreal vs Senna ADC - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1771
   region: KR
+  uploaded: 2025-10-26
+- videoId: iUNEd_0PivA
+  title: Ezreal ADC vs Senna - KR Challenger Patch 25.21
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1764
+  region: KR
+  uploaded: 2025-10-25
 - videoId: crlazirozKo
   title: Ezreal vs Senna [ ADC ] Korea Challenger 1299 LP | Patch 25.21 ✅
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1487
   region: KR
+  uploaded: 2025-10-23
 - videoId: rDMrRQmjSE8
   title: Ezreal ADC vs Senna - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1693
   region: KR
-- videoId: ZOpmy25c6dg
-  title: Ezreal ADC vs Senna - KR Challenger Patch 25.11
-  rankClaim: Challenger
-  patch: "25.11"
-  durationSec: 1607
-  region: KR
+  uploaded: 2025-06-29
 - videoId: rv_UettOLzw
   title: Ezreal vs Senna ADC - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 2011
   region: KR
-- videoId: jKBIvUcAc5s
-  title: Ezreal vs Senna ADC - KR Challenger - Patch 25.11 Season 15
-  rankClaim: Challenger
-  patch: "25.11"
-  durationSec: 1571
-  region: KR
+  uploaded: 2025-06-02
 - videoId: -lR8HRWXR3o
   title: Ezreal vs Senna ADC [ Peyz ] Patch 25.11 Korea Challenger ✅
   rankClaim: Challenger
@@ -63,3 +73,18 @@
   durationSec: 1771
   region: KR
   player: Peyz
+  uploaded: 2025-06-01
+- videoId: ZOpmy25c6dg
+  title: Ezreal ADC vs Senna - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1607
+  region: KR
+  uploaded: 2025-06-01
+- videoId: jKBIvUcAc5s
+  title: Ezreal vs Senna ADC - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1571
+  region: KR
+  uploaded: 2025-05-30

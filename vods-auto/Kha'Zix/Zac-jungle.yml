@@ -7,9 +7,61 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-07-07
 - videoId: lS8x4PGi5C4
   title: Kha'Zix Jungle vs Zac - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1600
   region: KR
+  uploaded: 2026-01-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Take down The Turret
+      kind: tower
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: End credit

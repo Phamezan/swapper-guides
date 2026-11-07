@@ -62,6 +62,23 @@
   region: EUW
   player: Upset
   team: FNC
+  uploaded: 2026-08-16
+- videoId: rpJneXZroEk
+  title: When Rank 1 Ashe visit Fan Town Diamond Elo - Engsub ( Ashe vs Lucian )
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1142
+  patchEstimated: true
+  uploaded: 2026-06-21
+  format: stream
+- videoId: IU_gV-4Gw1g
+  title: "Teanyoon : His Ashe Spacing is on Another Level - Engsub ( Ashe vs Lucian )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1290
+  patchEstimated: true
+  uploaded: 2026-06-13
+  format: stream
 - videoId: hTTT8zW628w
   title: HLE Gumayusi Ashe vs Lucian [ ADC ] Korea Challenger 2585 LP | Patch 26.11
   rankClaim: Challenger
@@ -79,12 +96,14 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-27
 - videoId: YpECWO3ASI8
   title: Ashe vs Lucian ADC - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1261
   region: KR
+  uploaded: 2025-11-05
 - videoId: peKi-klcrDg
   title: Ashe vs Lucian ADC [ TripleKill ] Korea Master Patch 25.21 ✅
   rankClaim: Master
@@ -92,21 +111,25 @@
   durationSec: 1832
   region: KR
   player: TripleKill
+  uploaded: 2025-10-23
 - videoId: 44UxPQLbt5o
   title: Ashe vs Lucian [ ADC ] Lol Korea Master Patch 25.15 ✅
   rankClaim: Master
   patch: "25.15"
   durationSec: 1707
   region: KR
+  uploaded: 2025-08-07
 - videoId: ptu9PzjE_C0
   title: Ashe ADC vs Lucian - EUW Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1667
   region: EUW
+  uploaded: 2025-07-30
 - videoId: 5IBdWpIg7_M
   title: Ashe ADC vs Lucian - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1688
   region: KR
+  uploaded: 2025-06-30

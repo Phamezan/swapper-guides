@@ -5,6 +5,7 @@
   patch: "26.16"
   durationSec: 1604
   region: KR
+  uploaded: 2026-08-19
 - videoId: jZGVJRCt-UY
   title: Karthus vs Vi 8/1/6 (Jungle) | EUW Challenger | Karthus OTP Replay
   rankClaim: Challenger
@@ -19,33 +20,165 @@
   patch: "26.5"
   durationSec: 1890
   region: KR
+  uploaded: 2026-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:18
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:19
+      label: End credit
 - videoId: 4Sds8y58FpA
   title: Karthus Jungle vs Vi - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1602
   region: KR
+  uploaded: 2025-10-14
 - videoId: _8YRzhvmQeU
   title: Karthus Jungle vs Vi - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1787
   region: KR
+  uploaded: 2025-09-01
 - videoId: jOXXoHQ7a_s
   title: Karthus Jungle vs Vi - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 2017
   region: KR
+  uploaded: 2025-04-21
 - videoId: r_H8bcCRkkU
   title: Karthus vs Vi Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1500
   region: KR
+  uploaded: 2025-03-20
 - videoId: RkRoSjJQNOs
   title: Karthus Jungle vs Vi - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2086
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:56
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Take down The Turret
+      kind: tower
+    - at: 17:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Hunt The Atakhan
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:27
+      label: Take down The Turret
+      kind: tower
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:25
+      label: End credit

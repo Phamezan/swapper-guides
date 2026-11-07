@@ -5,15 +5,64 @@
   patch: "26.2"
   durationSec: 1596
   region: KR
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Take down The Turret
+      kind: tower
+    - at: 22:20
+      label: Take down The Inhibitor
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: End credit
 - videoId: 9D0Mab7MvwA
   title: Malzahar Mid vs Akshan - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1863
   region: KR
+  uploaded: 2025-11-25
 - videoId: NDZ3qLMMskw
   title: Malzahar Mid vs Akshan - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1971
   region: KR
+  uploaded: 2025-10-14

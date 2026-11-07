@@ -5,21 +5,71 @@
   patch: "25.24"
   durationSec: 1476
   region: KR
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:56
+      label: Take down The Turret
+      kind: tower
+    - at: 16:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 18:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Take down The Turret
+      kind: tower
+    - at: 22:44
+      label: Take down The Inhibitor
+    - at: 23:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Take down The Turret
+      kind: tower
+    - at: 24:25
+      label: End credit
 - videoId: t-BO_TbeQiQ
   title: Yorick Top vs Mordekaiser - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1762
   region: KR
+  uploaded: 2025-09-17
 - videoId: awIBW6aAzO0
   title: Yorick Top vs Mordekaiser - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1508
   region: KR
+  uploaded: 2025-04-08
 - videoId: CS8ZCykSPOg
   title: Yorick Top vs Mordekaiser - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1693
   region: KR
+  uploaded: 2025-04-02

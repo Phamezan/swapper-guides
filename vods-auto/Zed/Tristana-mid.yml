@@ -61,6 +61,54 @@
   patch: "26.3"
   durationSec: 1468
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Take down The Turret
+      kind: tower
+    - at: 24:17
+      label: End credit
 - videoId: fyRYL6sFl-g
   title: Faker Zed vs Tristana Mid - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
@@ -68,6 +116,7 @@
   durationSec: 1666
   region: KR
   player: Faker
+  uploaded: 2025-05-17
 - videoId: Aztl7mId-Us
   title: T1 Faker Zed vs Tristana [ MID ] Patch 25.10 Korea Grandmaster
   rankClaim: Grandmaster
@@ -76,3 +125,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-14

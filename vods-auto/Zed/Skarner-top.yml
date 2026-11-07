@@ -4,3 +4,53 @@
   rankClaim: Master
   patch: "25.5"
   durationSec: 1744
+  uploaded: 2025-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Take down The Turret
+      kind: tower
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Take down The Turret
+      kind: tower
+    - at: 23:57
+      label: Take down The Inhibitor
+    - at: 24:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:15
+      label: Take down The Turret
+      kind: tower
+    - at: 28:43
+      label: End credit

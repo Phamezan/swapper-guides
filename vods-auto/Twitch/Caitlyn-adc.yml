@@ -54,9 +54,28 @@
       kind: kill
     - at: 28:19
       label: Mid Inhibitor falls (Blue)
+- videoId: QfsHAESRRuY
+  title: "\"Jz\" 2000LP Twitch : Once He Gets Fed He Become UNSTOPPABLE MONSTER - Engsub ( vs Caitlyn, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1646
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-09-07
+  format: stream
+- videoId: tnKNDVcsOEM
+  title: '"Jz" 2000LP Twitch: This Dude is A SNEAKY RAT, So Annoying to Catch Him - Engsub (vs Caitlyn, Xayah)'
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1456
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-09-05
+  format: stream
 - videoId: V17n6PB9Bw0
   title: Twitch ADC vs Caitlyn - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1492
   region: KR
+  uploaded: 2025-11-01

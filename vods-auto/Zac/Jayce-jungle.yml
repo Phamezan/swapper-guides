@@ -5,9 +5,76 @@
   patch: "26.18"
   durationSec: 1847
   region: KR
+  uploaded: 2026-09-17
 - videoId: yjLzP6cBwkc
   title: Zac Jungle vs Jayce - EUW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1518
   region: EUW
+  uploaded: 2026-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:10
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:38
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:47
+      label: Take down The Turret
+      kind: tower
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: End credit

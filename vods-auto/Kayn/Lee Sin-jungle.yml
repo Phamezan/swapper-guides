@@ -5,33 +5,95 @@
   patch: "26.18"
   durationSec: 1692
   region: KR
+  uploaded: 2026-09-24
 - videoId: 4bTbo4wI_vA
   title: Kayn Jungle vs Lee Sin - KR Grandmaster Patch 26.13
   rankClaim: Grandmaster
   patch: "26.13"
   durationSec: 1528
   region: KR
+  uploaded: 2026-07-09
 - videoId: zsBzL14LN2A
   title: Kayn Jungle vs Lee Sin (HRTS Lurox) - EUW Challenger Patch 26.11
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1470
   region: EUW
+  uploaded: 2026-06-04
 - videoId: tpdO6t_FQRQ
   title: Kayn Jungle vs Lee Sin - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1859
   region: KR
+  uploaded: 2026-05-05
 - videoId: dlyWXWxMzcc
   title: Kayn Jungle vs Lee Sin - NA Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1469
   region: NA
+  uploaded: 2026-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Take down The Turret
+      kind: tower
+    - at: 22:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: End credit
 - videoId: hT1eCTFJQfU
   title: Kayn vs Lee Sin Jungle - EUW Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1816
   region: EUW
+  uploaded: 2025-05-03

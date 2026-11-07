@@ -5,9 +5,100 @@
   patch: "26.17"
   durationSec: 1640
   region: KR
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 4:06
+      label: First Blood — Varus kills Graves
+      kind: kill
+    - at: 7:14
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 7:55
+      label: Varus takes down Jhin
+    - at: 8:59
+      label: Varus takes down Jhin
+    - at: 12:25
+      label: Varus picks off Yone
+    - at: 13:10
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:08
+      label: LeBlanc kills Jhin
+      kind: kill
+    - at: 15:37
+      label: LeBlanc takes down Yone
+    - at: 18:12
+      label: LeBlanc picks off Graves
+    - at: 18:34
+      label: Blue takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 19:34
+      label: LeBlanc takes down Yone
+    - at: 20:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:41
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:29
+      label: Bot Inhibitor falls (Red)
+    - at: 24:12
+      label: Varus eliminates Graves
+    - at: 25:16
+      label: Mid Inhibitor falls (Red)
+    - at: 26:01
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 26:24
+      label: Rumble eliminates Yone
 - videoId: bEA0IAAW-bU
   title: Bard Support vs Seraphine - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1967
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:35
+      label: Take down The Inhibitor
+    - at: 31:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:04
+      label: Take down The Turret
+      kind: tower
+    - at: 32:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:26
+      label: End credit

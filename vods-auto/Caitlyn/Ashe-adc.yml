@@ -8,6 +8,23 @@
   player: Viper
   team: BLG
   uploaded: 2026-06-27
+- videoId: 0m0B9teT95I
+  title: "Uzi : His Caitlyn Mechanic is Just on Another Level - Engsub ( Caitlyn vs Ashe )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 943
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-20
+  format: stream
+- videoId: G4I4U4a_-PM
+  title: "1600LP Caitlyn : Clean 1v5 Perfomance, Saving The Game - Engsub ( Caitlyn vs Ashe )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 771
+  patchEstimated: true
+  uploaded: 2026-05-11
+  format: stream
 - videoId: p5_t2cEuY40
   title: HLE Gumayusi Caitlyn vs Ashe [ ADC ] Korea Challenger 2512 LP | Patch 26.7
   rankClaim: Challenger
@@ -48,18 +65,21 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-11-03
 - videoId: iIdSHr2_aSo
   title: Caitlyn vs Ashe ADC - KR Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 2236
   region: KR
+  uploaded: 2025-06-13
 - videoId: IeIPVJFek3g
   title: Caitlyn vs Ashe ADC - KR Grandmaster - Patch 25.10 Season 15
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1951
   region: KR
+  uploaded: 2025-05-21
 - videoId: 84sWkE249uA
   title: Caitlyn vs Ashe ADC [ DRX Teddy ] Korea Challenger Patch 25.8 ✅
   rankClaim: Challenger
@@ -68,6 +88,7 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-04-23
 - videoId: 08c1OnlNL6Y
   title: T1 Gumayusi Caitlyn vs Ashe [ ADC ] Korea Challenger Patch 25.4
   rankClaim: Challenger
@@ -76,6 +97,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-04
 - videoId: auGRBNnitTs
   title: T1 Gumayusi Caitlyn vs Ashe [ ADC ] Patch 25.1 Ranked Korea ✅
   rankClaim: Master+
@@ -84,3 +106,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-10

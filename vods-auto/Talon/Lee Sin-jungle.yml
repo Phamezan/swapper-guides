@@ -6,18 +6,103 @@
   durationSec: 1682
   region: EUW
   player: USE White
+  uploaded: 2026-07-30
 - videoId: l2zR7Ozacvs
   title: Talon vs Lee Sin JUngle - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1681
   region: KR
+  uploaded: 2025-06-04
 - videoId: aBRUAaGepkM
   title: Talon Jungle vs Lee Sin - EUW Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1698
   region: EUW
+  uploaded: 2025-03-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:51
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 16:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:19
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Take down The Turret
+      kind: tower
+    - at: 22:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:53
+      label: Take down The Turret
+      kind: tower
+    - at: 25:10
+      label: Take down The Inhibitor
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:07
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:57
+      label: End credit
 - videoId: v2WUkqaSStA
   title: T1 Oner Talon vs Lee Sin [ Jungle ] Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -26,3 +111,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-02-10

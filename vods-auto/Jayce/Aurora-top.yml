@@ -5,9 +5,60 @@
   patch: "26.7"
   durationSec: 1697
   region: EUW
+  uploaded: 2026-04-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Take down The Turret
+      kind: tower
+    - at: 20:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:25
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:54
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Take down The Inhibitor
+    - at: 26:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:40
+      label: Take down The Turret
+      kind: tower
+    - at: 27:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:06
+      label: End credit
 - videoId: bHs3nyp6uJA
   title: Jayce vs Aurora Top - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1801
   region: KR
+  uploaded: 2025-07-11

@@ -6,15 +6,121 @@
   durationSec: 1558
   region: EUW
   player: PXS Ruby
+  uploaded: 2026-05-28
+  result: L
+  moments:
+    - at: 0:59
+      label: First Blood — Hwei kills Jayce
+      kind: kill
+    - at: 4:50
+      label: Hwei takes down Jayce
+    - at: 5:59
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:20
+      label: Hwei catches Jayce again
+    - at: 9:03
+      label: Hwei kills Jinx
+      kind: kill
+    - at: 10:34
+      label: Hwei kills Jinx
+      kind: kill
+    - at: 11:35
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 13:39
+      label: Hwei outplays Lux
+    - at: 14:14
+      label: Talon picks off Jayce
+    - at: 14:54
+      label: Hwei takes down Lux
+    - at: 17:05
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:51
+      label: Hwei outduels Jayce (3rd time)
+    - at: 21:17
+      label: Red takes Baron
+      kind: baron
+    - at: 22:39
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 23:19
+      label: Hwei takes down Renata Glasc
+    - at: 24:47
+      label: Top Inhibitor falls (Blue)
+    - at: 25:00
+      label: Lucian Double Kill
+      kind: kill
 - videoId: bMxMEvqk3Lc
   title: Hwei vs Jayce Mid - KR Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 2236
   region: KR
+  uploaded: 2026-03-17
 - videoId: 7bOJu8WyMUc
   title: Hwei Mid vs Jayce - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1908
   region: KR
+  uploaded: 2026-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Take down The Turret
+      kind: tower
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Take down The Turret
+      kind: tower
+    - at: 26:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:49
+      label: Take down The Turret
+      kind: tower
+    - at: 30:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 31:12
+      label: Take down The Inhibitor
+    - at: 31:27
+      label: Take down The Turret
+      kind: tower
+    - at: 31:37
+      label: End credit

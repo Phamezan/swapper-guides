@@ -5,12 +5,69 @@
   patch: "26.5"
   durationSec: 1798
   region: EUW
+  uploaded: 2026-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:53
+      label: Take down The Turret
+      kind: tower
+    - at: 18:54
+      label: Take down The Turret
+      kind: tower
+    - at: 19:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Turret
+      kind: tower
+    - at: 25:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:15
+      label: Take down The Turret
+      kind: tower
+    - at: 27:29
+      label: Take down The Inhibitor
+    - at: 27:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:16
+      label: Take down The Turret
+      kind: tower
+    - at: 29:47
+      label: End credit
 - videoId: EAS87V-9PaM
   title: Azir Mid vs Galio - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1905
   region: KR
+  uploaded: 2025-11-06
 - videoId: tzZTi_q-_O0
   title: T1 Faker Azir vs Galio [ MID ] Patch 25.9 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -19,3 +76,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-06

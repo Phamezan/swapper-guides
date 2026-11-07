@@ -5,9 +5,87 @@
   patch: "26.2"
   durationSec: 1579
   region: KR
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:07
+      label: Take down The Turret
+      kind: tower
+    - at: 21:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Take down The Turret
+      kind: tower
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Take down The Turret
+      kind: tower
+    - at: 23:03
+      label: Take down The Inhibitor
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:55
+      label: Take down The Turret
+      kind: tower
+    - at: 26:08
+      label: End credit
 - videoId: cX_bTNb9-HY
   title: Rumble Mid vs Zoe - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1752
   region: KR
+  uploaded: 2025-07-28

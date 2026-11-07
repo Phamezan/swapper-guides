@@ -6,45 +6,113 @@
   durationSec: 1741
   region: KR
   uploaded: 2026-04-03
-- videoId: o3FfJkEBVvk
-  title: Talon Jungle vs Zed - KR Grandmaster Patch 25.22
-  rankClaim: Grandmaster
-  patch: "25.22"
-  durationSec: 1685
-  region: KR
 - videoId: DgnnPVph-Mo
   title: Talon vs Zed Jungle - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1691
   region: KR
+  uploaded: 2025-11-11
+- videoId: o3FfJkEBVvk
+  title: Talon Jungle vs Zed - KR Grandmaster Patch 25.22
+  rankClaim: Grandmaster
+  patch: "25.22"
+  durationSec: 1685
+  region: KR
+  uploaded: 2025-11-09
 - videoId: 4FViVHwsn0o
   title: Talon vs Zed [ Jungle ] Lol Korea Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1386
   region: KR
+  uploaded: 2025-10-18
 - videoId: 4InAWGiD2a4
   title: Talon Jungle vs Zed - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1893
   region: KR
+  uploaded: 2025-06-29
 - videoId: 5QoraIZ96lU
   title: Talon Jungle vs Zed - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1665
   region: KR
-- videoId: K8RP2ImxFfE
-  title: Talon Jungle vs Zed - KR Grandmaster Patch 25.10
-  rankClaim: Grandmaster
-  patch: "25.10"
-  durationSec: 1754
-  region: KR
+  uploaded: 2025-06-02
 - videoId: rMOFYMXINFU
   title: Talon vs Zed Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1981
   region: KR
+  uploaded: 2025-05-28
+- videoId: K8RP2ImxFfE
+  title: Talon Jungle vs Zed - KR Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1754
+  region: KR
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:58
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:11
+      label: Hunt The Atakhan
+    - at: 22:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:53
+      label: End credit

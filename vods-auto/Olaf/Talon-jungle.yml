@@ -5,3 +5,56 @@
   patch: "25.8"
   durationSec: 1748
   region: EUW
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:37
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 21:01
+      label: Hunt The Atakhan
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:47
+      label: End credit

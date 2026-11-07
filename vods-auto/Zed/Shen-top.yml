@@ -103,14 +103,67 @@
   patch: "25.24"
   durationSec: 1514
   region: NA
+  uploaded: 2025-12-23
 - videoId: imWlOVAWl3w
   title: Zed Top vs Shen - NA Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1683
   region: NA
+  uploaded: 2025-03-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Take down The Turret
+      kind: tower
+    - at: 17:02
+      label: Take down The Turret
+      kind: tower
+    - at: 17:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Take down The Turret
+      kind: tower
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Take down The Turret
+      kind: tower
+    - at: 23:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:42
+      label: End credit
 - videoId: ryspgaZLeXM
   title: Zed Top vs Shen - BR Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1825
+  uploaded: 2025-03-01

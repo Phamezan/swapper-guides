@@ -6,9 +6,61 @@
   durationSec: 1689
   region: KR
   player: TT Feather
+  uploaded: 2026-06-16
 - videoId: 7SwvQt08ag4
   title: Yasuo Mid vs Pantheon - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1739
   region: KR
+  uploaded: 2026-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Take down The Turret
+      kind: tower
+    - at: 18:52
+      label: Take down The Turret
+      kind: tower
+    - at: 20:47
+      label: Take down The Turret
+      kind: tower
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Take down The Turret
+      kind: tower
+    - at: 26:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:48
+      label: End credit

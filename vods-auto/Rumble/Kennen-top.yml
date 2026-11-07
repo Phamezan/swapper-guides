@@ -5,9 +5,67 @@
   patch: "26.6"
   durationSec: 1575
   region: KR
+  uploaded: 2026-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:43
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:33
+      label: Take down The Turret
+      kind: tower
+    - at: 12:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: Take down The Turret
+      kind: tower
+    - at: 26:04
+      label: End credit
 - videoId: FwMD6EDyJhA
   title: Rumble Top vs Kennen - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1633
   region: KR
+  uploaded: 2025-11-23

@@ -5,9 +5,70 @@
   patch: "26.9"
   durationSec: 1684
   region: KR
+  uploaded: 2026-05-05
 - videoId: rh0L6iC5-Ps
   title: Mel Mid vs LeBlanc - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1816
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Take down The Turret
+      kind: tower
+    - at: 15:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:55
+      label: End credit

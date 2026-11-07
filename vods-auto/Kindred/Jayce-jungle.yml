@@ -5,6 +5,7 @@
   patch: "26.10"
   durationSec: 1585
   region: KR
+  uploaded: 2026-05-22
 - videoId: OIu3CKCp2q8
   title: Kindred vs Jayce Jungle [ DNS Pyosik ] Korea Grandmaster Patch 26.5
   rankClaim: Grandmaster
@@ -12,9 +13,11 @@
   durationSec: 2495
   region: KR
   player: Pyosik
+  uploaded: 2026-03-10
 - videoId: DMC7D2HGurg
   title: Kindred Jungle vs Jayce - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1511
   region: KR
+  uploaded: 2025-12-25

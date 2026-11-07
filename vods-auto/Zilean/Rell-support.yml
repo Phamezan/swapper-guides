@@ -5,27 +5,75 @@
   patch: "26.19"
   durationSec: 1635
   region: EUW
+  uploaded: 2026-09-29
 - videoId: SrJm7shw7mM
   title: Zilean Support vs Rell - NA Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1598
   region: NA
+  uploaded: 2026-02-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Take down The Turret
+      kind: tower
+    - at: 22:34
+      label: Take down The Inhibitor
+    - at: 25:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: Take down The Turret
+      kind: tower
+    - at: 26:27
+      label: End credit
 - videoId: gL973ODQjXM
   title: Zilean Support vs Rell - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1513
   region: KR
+  uploaded: 2025-09-17
 - videoId: DVK455yymjI
   title: Zilean Support vs Rell - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1749
   region: KR
+  uploaded: 2025-07-22
 - videoId: veGTYwz5VUE
   title: Zilean Support vs Rell - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1777
   region: EUW
+  uploaded: 2025-06-09

@@ -5,18 +5,21 @@
   patch: "26.6"
   durationSec: 1785
   region: KR
+  uploaded: 2026-03-21
 - videoId: LwrHjbnbaR8
   title: Aurora vs Sylas Mid - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1801
   region: KR
+  uploaded: 2025-06-12
 - videoId: o93ZQElwIMo
   title: Aurora Mid vs Sylas - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1719
   region: KR
+  uploaded: 2025-06-03
 - videoId: JHLMlUFYhxk
   title: Faker Aurora vs Sylas Mid - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
@@ -24,6 +27,7 @@
   durationSec: 1391
   region: KR
   player: Faker
+  uploaded: 2025-05-12
 - videoId: 0H5mAUbcIy4
   title: T1 Faker Aurora vs Sylas [ MID ] Korea Grandmaster Patch 25.9 ✅
   rankClaim: Grandmaster
@@ -32,15 +36,18 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-12
 - videoId: jxWvscky5i0
   title: Aurora vs Sylas Mid - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1741
   region: KR
+  uploaded: 2025-04-15
 - videoId: osoOMcPmxh4
   title: Aurora Mid vs Sylas - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1586
   region: KR
+  uploaded: 2025-03-24

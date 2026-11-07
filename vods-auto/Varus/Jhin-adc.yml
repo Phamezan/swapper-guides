@@ -8,6 +8,15 @@
   player: Peyz
   team: T1
   uploaded: 2026-10-30
+- videoId: 3mlBKFW5T94
+  title: "T1 PEYZ : His Varus just Out Class RULER Jhin in KR Challenger"
+  rankClaim: Challenger
+  patch: "26.16"
+  durationSec: 856
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-08-17
+  format: stream
 - videoId: e_CvjGJwpmo
   title: T1 Peyz Varus vs Jhin [ ADC ] Korea Challenger 2459 LP | Patch 26.16
   rankClaim: Challenger
@@ -25,12 +34,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-16
 - videoId: hIvD4DdnT8o
   title: Varus vs Jhin ADC - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2111
   region: KR
+  uploaded: 2025-11-05
 - videoId: SpG4x7uYK6s
   title: T1 Smash Varus vs Jhin [ ADC ] Korea Challenger 1558 LP | Patch 25.21
   rankClaim: Challenger
@@ -39,6 +50,7 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-10-30
 - videoId: We5IFlVq9H8
   title: T1 Gumayusi Varus ADC vs Jhin - Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -47,6 +59,7 @@
   region: NA
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-04
 - videoId: 7TmjYOIWtUk
   title: T1 Gumayusi Varus vs Jhin [ ADC ] Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -55,6 +68,7 @@
   region: NA
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-03
 - videoId: pFrKafNrB1g
   title: T1 Faker Varus vs Jhin [ ADC ] Korea Challenger Patch 25.10
   rankClaim: Challenger
@@ -63,12 +77,14 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-21
 - videoId: lMDDWqCzwso
   title: Varus ADC vs Jhin - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1798
   region: KR
+  uploaded: 2025-05-03
 - videoId: ohnxE2BRreQ
   title: T1 Gumayusi Varus ADC vs Jhin - Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -77,9 +93,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-29
 - videoId: RA_S6MsiqaU
   title: Varus vs Jhin ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2401
   region: KR
+  uploaded: 2025-03-10

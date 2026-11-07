@@ -8,15 +8,25 @@
   player: HanQL
   uploaded: 2026-11-03
   format: stream
+- videoId: f18CZBRWnws
+  title: "Rank 1 Aphelios : How to Make Super Server Challenger FF at 20 Min - Engsub ( Aphe vs Corki, Ashe )"
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1190
+  patchEstimated: true
+  uploaded: 2026-06-16
+  format: stream
 - videoId: Qd5ZCnHpook
   title: Aphelios ADC vs Corki - EUW Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1520
   region: EUW
+  uploaded: 2025-11-06
 - videoId: vSiSq2RZL6U
   title: Aphelios vs Corki ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1680
   region: KR
+  uploaded: 2025-03-08

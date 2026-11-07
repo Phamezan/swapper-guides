@@ -14,6 +14,51 @@
   patch: "26.4"
   durationSec: 1600
   region: KR
+  uploaded: 2026-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:28
+      label: Take down The Turret
+      kind: tower
+    - at: 15:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Take down The Turret
+      kind: tower
+    - at: 22:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: End credit
 - videoId: Gv7Pu7EQRvc
   title: DK ShowMaker Ryze vs Orianna [ MID ] Korea Challenger 1834 LP | Patch 25.24
   rankClaim: Challenger
@@ -22,6 +67,7 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-12-29
 - videoId: JAv7tp3Qfks
   title: DK ShowMaker Ryze vs Orianna [ MID ] Patch 25.23 Korea Master
   rankClaim: Master
@@ -30,12 +76,14 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-11-26
 - videoId: 9VzSp_XXjJM
   title: Ryze Mid vs Orianna - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1599
   region: KR
+  uploaded: 2025-09-30
 - videoId: 1tsfXu3qmeU
   title: T1 Faker Ryze vs Orianna [ MID ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -44,3 +92,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-11

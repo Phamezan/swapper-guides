@@ -168,32 +168,155 @@
   patch: "25.22"
   durationSec: 1503
   region: KR
+  uploaded: 2025-11-08
 - videoId: xD6ZcsSmqJg
   title: Zed Mid vs Talon - NA Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 2108
   region: NA
+  uploaded: 2025-05-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:57
+      label: Take down The Inhibitor
+    - at: 34:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:34
+      label: Take down The Turret
+      kind: tower
+    - at: 34:47
+      label: End credit
 - videoId: 6Jtc34yZQ44
   title: Zed vs Talon Mid - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1931
   region: KR
+  uploaded: 2025-03-12
 - videoId: j0S2D5o8jSs
   title: Zed Mid vs Talon - VN Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2002
-- videoId: wOfnfJL5UcQ
-  title: Zed vs Talon Mid - KR Grandmaster - Patch 15.4 Season 15
-  rankClaim: Grandmaster
-  patch: "25.4"
-  durationSec: 1816
-  region: KR
+  uploaded: 2025-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:09
+      label: Take down The Turret
+      kind: tower
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:43
+      label: Take down The Turret
+      kind: tower
+    - at: 20:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:26
+      label: Take down The Turret
+      kind: tower
+    - at: 33:01
+      label: End credit
 - videoId: QeKxYTUIBmk
   title: Zed Mid vs Talon - NA Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1951
   region: NA
+  uploaded: 2025-03-02
+- videoId: wOfnfJL5UcQ
+  title: Zed vs Talon Mid - KR Grandmaster - Patch 15.4 Season 15
+  rankClaim: Grandmaster
+  patch: "25.4"
+  durationSec: 1816
+  region: KR
+  uploaded: 2025-02-24

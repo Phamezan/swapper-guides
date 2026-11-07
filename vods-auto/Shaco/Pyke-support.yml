@@ -4,3 +4,48 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1998
+  uploaded: 2026-02-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:07
+      label: End credit

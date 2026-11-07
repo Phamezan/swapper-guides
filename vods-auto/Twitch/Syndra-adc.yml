@@ -6,3 +6,50 @@
   durationSec: 1661
   region: EUW
   player: 1M Syzyfek
+  uploaded: 2026-07-26
+  result: W
+  moments:
+    - at: 1:04
+      label: First Blood — Twitch kills Sona
+      kind: kill
+    - at: 6:23
+      label: Twitch takes down Syndra
+    - at: 7:05
+      label: Twitch takes down Syndra
+    - at: 10:24
+      label: Twitch takes down Syndra
+    - at: 12:15
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:29
+      label: Twitch outduels Syndra
+    - at: 13:36
+      label: Twitch outplays Syndra again
+    - at: 14:42
+      label: Twitch kills Vex
+      kind: kill
+    - at: 16:06
+      label: Twitch takes down Syndra
+    - at: 16:33
+      label: Bel'Veth kills Sona
+      kind: kill
+    - at: 18:07
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:39
+      label: Twitch solo kills Syndra (3rd time)
+      kind: kill
+    - at: 19:55
+      label: Twitch picks off Sona
+    - at: 23:32
+      label: LeBlanc eliminates Vex
+    - at: 24:57
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 25:36
+      label: Twitch takes down Syndra (4th time)
+    - at: 26:00
+      label: Bel'Veth kills Aatrox
+      kind: kill
+    - at: 26:28
+      label: Mid Inhibitor falls (Red)

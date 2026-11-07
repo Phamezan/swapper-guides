@@ -60,8 +60,56 @@
   durationSec: 1802
   region: EUW
   player: ESB Bobsik
+  uploaded: 2026-07-04
 - videoId: I3-9Y-DTKRY
   title: Vladimir Top vs Yone - TW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1694
+  uploaded: 2026-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:38
+      label: Take down The Turret
+      kind: tower
+    - at: 15:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:40
+      label: Take down The Turret
+      kind: tower
+    - at: 25:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:35
+      label: Take down The Inhibitor
+    - at: 27:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:03
+      label: End credit

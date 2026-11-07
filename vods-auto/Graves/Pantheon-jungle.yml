@@ -6,18 +6,21 @@
   durationSec: 1580
   region: EUW
   player: SK Skeanz
+  uploaded: 2026-08-15
 - videoId: q3yBOL8kjhM
   title: Graves vs Pantheon Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1831
   region: KR
+  uploaded: 2026-03-08
 - videoId: 9C2nXdy9Q3I
   title: Graves vs Pantheon Jungle - KR Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1771
   region: KR
+  uploaded: 2025-06-17
 - videoId: A4P0ZC6OGws
   title: Graves vs Pantheon Jungle [ Quadra Kill ] Korea Master Patch 25.12 ✅
   rankClaim: Master
@@ -25,6 +28,7 @@
   durationSec: 1567
   region: KR
   player: Quadra Kill
+  uploaded: 2025-06-16
 - videoId: yEU7LRboM5Y
   title: Graves vs Pantheon Jungle [ Triple Kill ] Korea Master Patch 25.4 ✅
   rankClaim: Master
@@ -32,3 +36,4 @@
   durationSec: 1436
   region: KR
   player: Triple Kill
+  uploaded: 2025-02-22

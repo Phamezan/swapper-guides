@@ -5,3 +5,51 @@
   patch: "26.18"
   durationSec: 1836
   region: KR
+  uploaded: 2026-09-22
+  result: W
+  moments:
+    - at: 2:51
+      label: First Blood — Karthus kills Qiyana
+      kind: kill
+    - at: 6:45
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:28
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:23
+      label: Malphite picks off Qiyana
+    - at: 15:11
+      label: Lux eliminates Gwen
+    - at: 16:02
+      label: Malphite takes down Lulu
+    - at: 17:43
+      label: Caitlyn takes down Yunara
+    - at: 18:16
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:29
+      label: Malphite outduels Lulu
+    - at: 18:41
+      label: Lux takes down Master Yi
+    - at: 19:28
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:16
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:42
+      label: Mid Inhibitor falls (Red)
+    - at: 23:35
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 24:58
+      label: Renekton kills Qiyana
+      kind: kill
+    - at: 26:30
+      label: Karthus takes down Qiyana
+    - at: 26:57
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 29:29
+      label: Mid Inhibitor falls (Red)

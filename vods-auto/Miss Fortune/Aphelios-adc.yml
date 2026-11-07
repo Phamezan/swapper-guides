@@ -5,6 +5,7 @@
   patch: "26.5"
   durationSec: 1767
   region: KR
+  uploaded: 2026-03-10
 - videoId: 9Ybrmz_paoI
   title: T1 Peyz Miss Fortune vs Aphelios [ ADC ] Korea Challenger 2048 LP | Patch 26.5
   rankClaim: Challenger
@@ -13,12 +14,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: 27xjNVGWSb4
-  title: Miss Fortune ADC vs Aphelios - KR Grandmaster Patch 26.02
-  rankClaim: Grandmaster
-  patch: "26.2"
-  durationSec: 1477
-  region: KR
+  uploaded: 2026-03-06
 - videoId: rpdsZa_fFv8
   title: T1 Peyz Miss Fortune ADC vs Aphelios - Patch 26.2 Korea Challenger 1569 LP
   rankClaim: Challenger
@@ -27,6 +23,63 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-31
+- videoId: 27xjNVGWSb4
+  title: Miss Fortune ADC vs Aphelios - KR Grandmaster Patch 26.02
+  rankClaim: Grandmaster
+  patch: "26.2"
+  durationSec: 1477
+  region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:36
+      label: Take down The Turret
+      kind: tower
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:11
+      label: Take down The Turret
+      kind: tower
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Take down The Turret
+      kind: tower
+    - at: 22:52
+      label: Take down The Inhibitor
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: End credit
 - videoId: BfARHMxei74
   title: T1 Peyz Miss Fortune vs Aphelios [ ADC ] Korea Grandmaster 740 LP | Patch 26.1
   rankClaim: Grandmaster
@@ -35,6 +88,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-19
 - videoId: K6f2fRFyI5Y
   title: Miss Fortune vs Aphelios ADC [ Gen.G Ruler ] Patch 26.1 Ranked Korea ✅
   rankClaim: Master+
@@ -43,12 +97,72 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-01-11
 - videoId: DvHch17oai8
   title: Miss Fortune ADC vs Aphelios - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1459
   region: EUW
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:41
+      label: Take down The Turret
+      kind: tower
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Take down The Turret
+      kind: tower
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Take down The Turret
+      kind: tower
+    - at: 22:40
+      label: Take down The Inhibitor
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Take down The Turret
+      kind: tower
+    - at: 24:08
+      label: End credit
 - videoId: c-AvVvxpyLM
   title: T1 Smash Miss Fortune vs Aphelios [ ADC ] Patch 25.18 Korea Challenger
   rankClaim: Challenger
@@ -57,12 +171,7 @@
   region: KR
   player: Smash
   team: T1
-- videoId: o9wrctFg9QA
-  title: Miss Fortune vs Aphelios ADC - KR Grandmaster - Patch 25.13 Season 15
-  rankClaim: Grandmaster
-  patch: "25.13"
-  durationSec: 1381
-  region: KR
+  uploaded: 2025-09-21
 - videoId: 8WIcGZrPZz4
   title: Miss Fortune vs Aphelios ADC [ DRX Teddy ] Patch 25.13 Korea Challenger
   rankClaim: Challenger
@@ -71,3 +180,11 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-05
+- videoId: o9wrctFg9QA
+  title: Miss Fortune vs Aphelios ADC - KR Grandmaster - Patch 25.13 Season 15
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1381
+  region: KR
+  uploaded: 2025-07-03

@@ -5,12 +5,14 @@
   patch: "26.17"
   durationSec: 1492
   region: KR
+  uploaded: 2026-09-02
 - videoId: sJlgWHzA22c
   title: Ivern Jungle vs Lee Sin - KR Challenger Patch 26.15
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1495
   region: KR
+  uploaded: 2026-08-13
 - videoId: _nLGkE2JjGU
   title: Ivern Jungle vs Lee Sin (DNS Pyosik) - KR Challenger Patch 26.15
   rankClaim: Challenger
@@ -18,15 +20,50 @@
   durationSec: 1501
   region: KR
   player: Pyosik
+  uploaded: 2026-08-03
+  result: W
+  moments:
+    - at: 3:15
+      label: First Blood — Caitlyn kills Kai'Sa
+      kind: kill
+    - at: 6:16
+      label: Rell picks off Kai'Sa
+    - at: 7:30
+      label: Rell eliminates Nautilus
+    - at: 8:00
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:17
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 14:38
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:47
+      label: Caitlyn kills Ryze
+      kind: kill
+    - at: 19:14
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 21:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:54
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:34
+      label: Mid Inhibitor falls (Red)
 - videoId: _s1G4nfYZaI
   title: Ivern Jungle vs Lee Sin - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1482
   region: KR
+  uploaded: 2026-01-30
 - videoId: RBHL39lwD0k
   title: Ivern Jungle vs Lee Sin - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1427
   region: KR
+  uploaded: 2025-08-09

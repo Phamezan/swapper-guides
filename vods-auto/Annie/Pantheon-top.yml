@@ -5,9 +5,58 @@
   patch: "26.3"
   durationSec: 1917
   region: EUW
+  uploaded: 2026-02-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Take down The Turret
+      kind: tower
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: Take down The Turret
+      kind: tower
+    - at: 27:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:46
+      label: End credit
 - videoId: xun7xuVTKJ4
   title: Annie Top vs Pantheon - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1830
   region: KR
+  uploaded: 2025-05-12

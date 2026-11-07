@@ -5,15 +5,120 @@
   patch: "26.5"
   durationSec: 1506
   region: EUW
+  uploaded: 2026-03-19
 - videoId: KBZH0ggOY-c
   title: Singed Top vs Vayne - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1566
   region: KR
+  uploaded: 2026-02-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Take down The Turret
+      kind: tower
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Take down The Turret
+      kind: tower
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:16
+      label: Take down The Turret
+      kind: tower
+    - at: 25:55
+      label: End credit
 - videoId: DC2F6PjGmpg
   title: Singed Top vs Vayne - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1620
   region: KR
+  uploaded: 2025-12-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:08
+      label: Take down The Turret
+      kind: tower
+    - at: 16:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Take down The Turret
+      kind: tower
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Take down The Turret
+      kind: tower
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Take down The Turret
+      kind: tower
+    - at: 25:14
+      label: Take down The Inhibitor
+    - at: 25:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Take down The Turret
+      kind: tower
+    - at: 26:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:20
+      label: Take down The Turret
+      kind: tower
+    - at: 26:49
+      label: End credit

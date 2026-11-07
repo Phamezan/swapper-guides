@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1792
   region: KR
+  uploaded: 2026-09-15
 - videoId: FoY67IAf_SI
   title: Tristana vs Kai'Sa ADC [ PentaKill ] Korea Challenger 2023 LP | Patch 26.18
   rankClaim: Challenger
@@ -21,14 +22,7 @@
   region: KR
   player: Bdd
   team: KT
-- videoId: TtLXEqFQJVQ
-  title: (FNC Upset) Tristana ADC vs Kai'Sa (LR Crownie) - EUW Challenger Patch 26.13
-  rankClaim: Challenger
-  patch: "26.13"
-  durationSec: 1604
-  region: EUW
-  player: Upset
-  team: FNC
+  uploaded: 2026-08-23
 - videoId: jWFRrGxTk3g
   title: T1 Peyz Tristana vs Kai'Sa [ ADC ] Korea Challenger 2429 LP | Patch 26.13
   rankClaim: Challenger
@@ -38,36 +32,100 @@
   player: Peyz
   team: T1
   uploaded: 2026-07-01
+- videoId: TtLXEqFQJVQ
+  title: (FNC Upset) Tristana ADC vs Kai'Sa (LR Crownie) - EUW Challenger Patch 26.13
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1604
+  region: EUW
+  player: Upset
+  team: FNC
+  uploaded: 2026-06-27
+  result: W
+  moments:
+    - at: 5:06
+      label: First Blood — Tristana kills Rek'Sai
+      kind: kill
+    - at: 8:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:00
+      label: Tristana outduels Kai'Sa
+    - at: 9:54
+      label: Tristana kills Cassiopeia
+      kind: kill
+    - at: 10:44
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:21
+      label: Tristana Triple Kill
+      kind: kill
+    - at: 12:05
+      label: Tristana picks off Neeko
+    - at: 16:13
+      label: Tristana eliminates Rek'Sai
+    - at: 17:09
+      label: Tristana outplays Kai'Sa again
+    - at: 17:30
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 18:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:24
+      label: Tristana eliminates Rek'Sai
+    - at: 20:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:54
+      label: Sylas kills Kai'Sa
+      kind: kill
+    - at: 22:30
+      label: Tristana solo kills Illaoi
+      kind: kill
+    - at: 22:58
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 23:29
+      label: Mid Inhibitor falls (Red)
+    - at: 25:38
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: 2V1_m6bBWw4
   title: Tristana ADC vs Kai'Sa - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1833
   region: EUW
+  uploaded: 2026-03-11
 - videoId: cpIcYimj4-Y
   title: Tristana ADC vs Kai'Sa - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1690
   region: KR
+  uploaded: 2025-11-12
 - videoId: UoPwQ7b4ol0
   title: Tristana vs Kai'Sa [ ADC ] Patch 25.22 Korea Challenger 1578 LP
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1481
   region: KR
+  uploaded: 2025-11-10
 - videoId: dknEy2IFae8
   title: Tristana ADC vs Kai'Sa - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1642
   region: KR
+  uploaded: 2025-09-13
 - videoId: H8XEzwp3DUs
   title: Tristana ADC vs Kai'Sa - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1626
   region: KR
+  uploaded: 2025-05-17
 - videoId: Yy6khqUtUxo
   title: T1 Gumayusi Tristana vs Kaisa [ ADC ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -76,15 +134,18 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-15
 - videoId: Cugw7GMlh5o
   title: Tristana ADC vs Kai'Sa - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1624
   region: KR
+  uploaded: 2025-03-21
 - videoId: mr3l5H0JRdw
   title: Tristana ADC vs Kai'Sa - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1868
   region: KR
+  uploaded: 2025-02-23

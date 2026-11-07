@@ -5,9 +5,50 @@
   patch: "26.10"
   durationSec: 1623
   region: KR
+  uploaded: 2026-05-16
+  result: L
+  moments:
+    - at: 2:10
+      label: First Blood — Smolder kills Sylas
+      kind: kill
+    - at: 7:01
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:18
+      label: Smolder takes down Sylas
+    - at: 13:26
+      label: Smolder takes down Bard
+    - at: 14:21
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:33
+      label: Smolder solo kills Lee Sin
+      kind: kill
+    - at: 16:13
+      label: Smolder takes down Jayce
+    - at: 19:55
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:09
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 21:32
+      label: Smolder Double Kill
+      kind: kill
+    - at: 22:32
+      label: Smolder eliminates Sylas
+    - at: 24:01
+      label: Smolder Double Kill
+      kind: kill
+    - at: 24:44
+      label: Red takes Baron
+      kind: baron
+    - at: 26:04
+      label: Mid Inhibitor falls (Blue)
 - videoId: CKWzRC3yVKU
   title: Smolder Mid vs Sylas - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1608
   region: EUW
+  uploaded: 2025-04-03

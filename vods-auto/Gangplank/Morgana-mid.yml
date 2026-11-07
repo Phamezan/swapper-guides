@@ -5,3 +5,41 @@
   patch: "26.9"
   durationSec: 1696
   region: KR
+  uploaded: 2026-05-13
+  result: W
+  moments:
+    - at: 6:33
+      label: First Blood — Gangplank kills Nilah
+      kind: kill
+    - at: 8:55
+      label: Gangplank takes down Morgana
+    - at: 10:03
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:05
+      label: Gangplank kills Nilah
+      kind: kill
+    - at: 13:35
+      label: Gangplank takes down Jayce
+    - at: 16:05
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:17
+      label: Gangplank picks off Lee Sin
+    - at: 20:00
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:46
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 22:13
+      label: Gangplank eliminates Morgana
+    - at: 22:53
+      label: Mid Inhibitor falls (Red)
+    - at: 24:41
+      label: Gangplank picks off Lee Sin
+    - at: 27:13
+      label: Gangplank takes down Jayce

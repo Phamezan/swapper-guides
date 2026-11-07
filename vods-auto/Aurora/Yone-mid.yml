@@ -69,26 +69,78 @@
   patch: "26.5"
   durationSec: 1611
   region: KR
+  uploaded: 2026-03-15
 - videoId: fyqXC_053ko
   title: Aurora Mid vs Yone - VN Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1482
+  uploaded: 2026-01-12
 - videoId: gmjb0YjrmYs
   title: Aurora vs Yone Mid - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 3586
   region: KR
+  uploaded: 2025-11-13
 - videoId: JJNFg0cZlmM
   title: Aurora Mid vs Yone - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1749
   region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Take down The Turret
+      kind: tower
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Take down The Turret
+      kind: tower
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:05
+      label: Take down The Turret
+      kind: tower
+    - at: 28:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:48
+      label: End credit
 - videoId: tzfr2WAdqT4
   title: Aurora vs Yone Mid - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1860
   region: KR
+  uploaded: 2025-03-07

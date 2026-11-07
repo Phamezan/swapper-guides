@@ -4,3 +4,56 @@
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1790
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:03
+      label: Take down The Turret
+      kind: tower
+    - at: 15:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:09
+      label: Take down The Turret
+      kind: tower
+    - at: 20:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Take down The Inhibitor
+    - at: 26:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:54
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 29:29
+      label: End credit

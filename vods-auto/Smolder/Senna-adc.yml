@@ -5,42 +5,42 @@
   patch: "26.12"
   durationSec: 1457
   region: KR
+  uploaded: 2026-06-18
 - videoId: 0hicg1YPo7o
   title: Smolder vs Senna ADC - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 2651
   region: KR
+  uploaded: 2025-07-24
 - videoId: qXqf7waYSBw
   title: Smolder ADC vs Senna - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1816
   region: KR
+  uploaded: 2025-06-28
 - videoId: aCqO1zwQ1Z8
   title: Smolder vs Senna ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1816
   region: KR
+  uploaded: 2025-06-26
 - videoId: j912YCt86T8
   title: Smolder vs Senna ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1741
   region: KR
+  uploaded: 2025-06-24
 - videoId: DGYAGiAG4Us
   title: Smolder vs Senna ADC - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1546
   region: KR
-- videoId: gjOlgsRhWC4
-  title: Smolder vs Senna ADC - KR Challenger - Patch 25.11 Season 15
-  rankClaim: Challenger
-  patch: "25.11"
-  durationSec: 1841
-  region: KR
+  uploaded: 2025-06-04
 - videoId: s-dbeCZFtyc
   title: T1 Gumayusi Smolder vs Senna ADC [ QuadraKill ] Patch 25.11 Korea Challenger
   rankClaim: Challenger
@@ -49,6 +49,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-04
+- videoId: gjOlgsRhWC4
+  title: Smolder vs Senna ADC - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1841
+  region: KR
+  uploaded: 2025-06-01
 - videoId: zMBlSDJSfwE
   title: T1 Smash Smolder vs Senna [ ADC ] Patch 25.11 Korea Challenger ✅
   rankClaim: Challenger
@@ -57,6 +65,7 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-05-30
 - videoId: jBOopXcbboM
   title: T1 Gumayusi Smolder vs Senna [ ADC ] Patch 25.10 Korea Challenger
   rankClaim: Challenger
@@ -65,3 +74,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-21

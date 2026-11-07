@@ -5,36 +5,42 @@
   patch: "26.4"
   durationSec: 1667
   region: KR
+  uploaded: 2026-02-22
 - videoId: WC8_Xry-qZE
   title: Rumble Top vs Jayce - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1971
   region: KR
+  uploaded: 2025-08-05
 - videoId: jeEj0ms1GUU
   title: Rumble Top vs Jayce - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1780
   region: KR
+  uploaded: 2025-06-02
 - videoId: d9Gc5ol2MFs
   title: Rumble Top vs Jayce - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1520
   region: KR
+  uploaded: 2025-05-04
 - videoId: hz7Shlqvujw
   title: Rumble Top vs Jayce - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1633
   region: KR
+  uploaded: 2025-03-09
 - videoId: Ep7aI8AquoI
   title: Rumble Top vs Jayce - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1839
   region: KR
+  uploaded: 2025-02-25
 - videoId: Gfw2EoUZyL0
   title: T1 Doran Rumble vs Jayce [ TOP ] Korea Challenger Patch 25.2 ✅
   rankClaim: Challenger
@@ -43,3 +49,4 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2025-01-24

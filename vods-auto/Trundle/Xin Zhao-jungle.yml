@@ -5,12 +5,76 @@
   patch: "26.9"
   durationSec: 1592
   region: KR
+  uploaded: 2026-05-14
 - videoId: VtAUvo8JhnU
   title: Trundle Jungle vs Xin Zhao - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1469
   region: KR
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Take down The Turret
+      kind: tower
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Take down The Turret
+      kind: tower
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: End credit
 - videoId: eUIrLufQs-c
   title: Trundle vs Xin Zhao Jungle [ KT Cuzz ] Korea Challenger Patch 25.15 ✅
   rankClaim: Challenger
@@ -19,3 +83,4 @@
   region: KR
   player: Cuzz
   team: KT
+  uploaded: 2025-08-10

@@ -5,9 +5,58 @@
   patch: "26.17"
   durationSec: 1827
   region: KR
+  uploaded: 2026-09-11
+  result: W
+  moments:
+    - at: 1:19
+      label: First Blood — Mordekaiser kills Garen
+      kind: kill
+    - at: 2:57
+      label: Mordekaiser catches Garen
+    - at: 3:53
+      label: Mordekaiser outduels Garen again
+    - at: 5:10
+      label: Mordekaiser outplays Garen (3rd time)
+    - at: 8:28
+      label: Mordekaiser solo kills Garen (4th time)
+      kind: kill
+    - at: 10:03
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:35
+      label: Mordekaiser takes down Garen (5th time)
+    - at: 12:55
+      label: Mordekaiser outduels Talon
+    - at: 15:34
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:58
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 22:12
+      label: Mordekaiser picks off Yunara
+    - at: 22:41
+      label: Red takes Baron
+      kind: baron
+    - at: 24:11
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:47
+      label: Bot Inhibitor falls (Blue)
+    - at: 26:15
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 26:49
+      label: Mordekaiser catches Garen (6th time)
+    - at: 29:16
+      label: Mordekaiser Double Kill
+      kind: kill
+    - at: 29:36
+      label: Mordekaiser eliminates Garen
 - videoId: BZYFK08TU7I
   title: Mordekaiser Top vs Garen - NA Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1510
   region: NA
+  uploaded: 2026-02-11

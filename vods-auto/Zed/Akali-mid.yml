@@ -225,6 +225,7 @@
   patch: "26.1"
   durationSec: 1465
   region: EUW
+  uploaded: 2026-01-13
 - videoId: 1lAxy8mUXnw
   title: OTP Zed vs Akali [ MID ] Lol Korea Master Patch 25.18
   rankClaim: Master
@@ -232,12 +233,14 @@
   durationSec: 1366
   region: KR
   player: OTP
+  uploaded: 2025-09-22
 - videoId: ki_uTckn3fU
   title: Zed Mid vs Akali - NA Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1658
   region: NA
+  uploaded: 2025-06-16
 - videoId: KJvSxlxs7Ik
   title: Laceration Zed vs Akali Mid - NA Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
@@ -245,3 +248,4 @@
   durationSec: 2010
   region: NA
   player: Laceration
+  uploaded: 2025-03-25

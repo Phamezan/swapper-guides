@@ -5,3 +5,53 @@
   patch: "26.17"
   durationSec: 1557
   region: EUW
+  uploaded: 2026-09-04
+  result: W
+  moments:
+    - at: 1:36
+      label: First Blood — Vel'Koz kills Alistar
+      kind: kill
+    - at: 4:30
+      label: Vel'Koz solo kills Alistar
+      kind: kill
+    - at: 7:38
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:07
+      label: Yasuo picks off Alistar
+    - at: 11:27
+      label: Nasus kills Quinn
+      kind: kill
+    - at: 12:01
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 13:31
+      label: Vel'Koz eliminates Alistar
+    - at: 13:52
+      label: Vel'Koz picks off Vayne
+    - at: 14:22
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:23
+      label: Hecarim eliminates Vayne
+    - at: 16:52
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:59
+      label: Yasuo picks off Alistar
+    - at: 19:54
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:09
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 21:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:47
+      label: Bot Inhibitor falls (Red)
+    - at: 22:28
+      label: Vel'Koz kills Quinn
+      kind: kill
+    - at: 23:00
+      label: Vel'Koz eliminates Alistar

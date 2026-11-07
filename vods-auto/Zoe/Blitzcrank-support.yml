@@ -5,21 +5,116 @@
   patch: "26.3"
   durationSec: 1562
   region: KR
+  uploaded: 2026-02-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:41
+      label: Take down The Inhibitor
+    - at: 24:53
+      label: Take down The Turret
+      kind: tower
+    - at: 25:10
+      label: Take down The Inhibitor
+    - at: 25:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: End credit
 - videoId: VECrU4RvOcc
   title: Zoe Support vs Blitzcrank - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1596
   region: KR
+  uploaded: 2026-01-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Take down The Turret
+      kind: tower
+    - at: 24:39
+      label: Take down The Inhibitor
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: End credit
 - videoId: QlGav-MKGoQ
   title: Zoe Support vs Blitzcrank - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1698
   region: EUW
+  uploaded: 2025-11-01
 - videoId: H2RkNAeUm1s
   title: Zoe Support vs Blitzcrank - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1731
   region: KR
+  uploaded: 2025-10-19

@@ -5,15 +5,49 @@
   patch: "25.8"
   durationSec: 1941
   region: EUW
+  uploaded: 2025-04-25
 - videoId: Z65b-40zvDI
   title: Yone vs GangPlank Top - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1366
   region: KR
+  uploaded: 2025-04-20
 - videoId: XRvLASITy98
   title: Yone Top vs Gangplank - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1610
   region: KR
+  uploaded: 2025-04-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:25
+      label: Get a Triple Kill
+      kind: kill
+    - at: 12:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Take down The Turret
+      kind: tower
+    - at: 15:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Take down The Turret
+      kind: tower
+    - at: 20:08
+      label: Hunt The Atakhan
+    - at: 23:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: End credit

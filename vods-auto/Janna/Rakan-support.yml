@@ -5,21 +5,81 @@
   patch: "26.2"
   durationSec: 1590
   region: KR
+  uploaded: 2026-01-29
 - videoId: zp3BQwHnIt8
   title: Janna Support vs Rakan - EUW Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1594
   region: EUW
+  uploaded: 2026-01-22
 - videoId: gfPBHuFkTHM
   title: Janna Support vs Rakan - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1531
   region: KR
+  uploaded: 2025-07-27
 - videoId: bG47Xu4S2Dw
   title: Janna Support vs Rakan - EUW Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 2088
   region: EUW
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:42
+      label: Take down The Turret
+      kind: tower
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Take down The Turret
+      kind: tower
+    - at: 16:30
+      label: Take down The Turret
+      kind: tower
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:17
+      label: Take down The Turret
+      kind: tower
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:27
+      label: End credit

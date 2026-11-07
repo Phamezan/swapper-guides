@@ -5,21 +5,69 @@
   patch: "26.17"
   durationSec: 1698
   region: EUW
+  uploaded: 2026-09-12
 - videoId: jscprJNUbmQ
   title: Kassadin Mid vs Fizz - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1534
   region: KR
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Take down The Turret
+      kind: tower
+    - at: 15:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Take down The Turret
+      kind: tower
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:23
+      label: End credit
 - videoId: oVY7jMN29B0
   title: Kassadin Mid vs Fizz - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 2129
   region: KR
+  uploaded: 2025-09-17
 - videoId: vqPJYHGK3Aw
   title: Kassadin Mid vs Fizz - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1790
   region: KR
+  uploaded: 2025-04-06

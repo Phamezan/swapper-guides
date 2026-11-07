@@ -6,15 +6,92 @@
   durationSec: 1806
   region: KR
   player: Azhi
+  uploaded: 2026-06-30
 - videoId: mrg5I0KVm6s
   title: Lissandra Top vs Irelia - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1691
   region: KR
+  uploaded: 2026-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:00
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:08
+      label: Get a Triple Kill
+      kind: kill
+    - at: 13:38
+      label: Take down The Turret
+      kind: tower
+    - at: 14:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:55
+      label: Take down The Turret
+      kind: tower
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:00
+      label: Take down The Turret
+      kind: tower
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:34
+      label: Take down The Turret
+      kind: tower
+    - at: 19:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: End credit
 - videoId: nROjfxjU-MM
   title: Lissandra Top vs Irelia - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1743
   region: KR
+  uploaded: 2025-11-18

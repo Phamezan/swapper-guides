@@ -6,3 +6,49 @@
   durationSec: 1459
   region: EUW
   player: FK Adam
+  uploaded: 2026-05-31
+  result: W
+  moments:
+    - at: 0:18
+      label: First Blood — Camille kills Zeri
+      kind: kill
+    - at: 1:05
+      label: Camille catches Zeri
+    - at: 5:48
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 9:30
+      label: Camille outduels Zeri again
+    - at: 11:45
+      label: Camille outplays Zeri (3rd time)
+    - at: 12:25
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 12:53
+      label: Camille solo kills Zeri (4th time)
+      kind: kill
+    - at: 15:04
+      label: Camille takes down Zeri (5th time)
+    - at: 16:24
+      label: Camille takes down Senna
+    - at: 16:39
+      label: Camille takes down Akali
+    - at: 16:50
+      label: Camille solo kills Seraphine
+      kind: kill
+    - at: 17:06
+      label: Camille catches Zeri (6th time)
+    - at: 18:16
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 19:06
+      label: Shaco picks off Akali
+    - at: 19:30
+      label: Camille kills Wukong
+      kind: kill
+    - at: 21:16
+      label: Camille catches Senna again
+    - at: 22:58
+      label: Camille outduels Senna (3rd time)
+    - at: 23:18
+      label: Mid Inhibitor falls (Red)

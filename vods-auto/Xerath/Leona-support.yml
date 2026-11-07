@@ -5,15 +5,68 @@
   patch: "26.19"
   durationSec: 1731
   region: KR
+  uploaded: 2026-10-02
 - videoId: EQ4MX-fxLCY
   title: Xerath Support vs Leona - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1492
   region: KR
+  uploaded: 2026-01-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Take down The Turret
+      kind: tower
+    - at: 12:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Take down The Turret
+      kind: tower
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: End credit
 - videoId: WcAcnw9bvsc
   title: Xerath Support vs Leona - NA Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1773
   region: NA
+  uploaded: 2025-08-10

@@ -5,9 +5,76 @@
   patch: "26.8"
   durationSec: 1813
   region: KR
+  uploaded: 2026-04-27
 - videoId: 2AH1nWzBdBk
   title: Camille Support vs Senna - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1463
   region: KR
+  uploaded: 2025-12-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 1:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Take down The Turret
+      kind: tower
+    - at: 13:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:05
+      label: Take down The Turret
+      kind: tower
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Take down The Turret
+      kind: tower
+    - at: 19:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:56
+      label: Take down The Turret
+      kind: tower
+    - at: 24:12
+      label: End credit

@@ -11,3 +11,20 @@
   cam: true
   startSec: 0
   endSec: 1115
+- videoId: KycHFadQDJw
+  title: NEVER LOSE TO MALPHITE AGAIN AS GANGPLANK
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1831
+  patchEstimated: true
+  player: Solarbacca
+  uploaded: 2026-08-13
+  format: stream
+  cam: true
+  moments:
+    - at: 0:00
+      label: Game 1 (vs Malphite)
+    - at: 14:17
+      label: Game 2 (vs Akali)
+    - at: 23:49
+      label: Game 3 (vs Twisted Fate)

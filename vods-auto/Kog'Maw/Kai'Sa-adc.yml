@@ -5,62 +5,217 @@
   patch: "26.13"
   durationSec: 1632
   region: EUNE
+  uploaded: 2026-07-12
 - videoId: e8AEPKJOOM4
   title: Kog'Maw ADC vs Kai'Sa - EUW Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1771
   region: EUW
+  uploaded: 2026-04-24
 - videoId: L6glin9tLOk
   title: Kog'Maw ADC vs Kai'Sa - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1866
   region: KR
+  uploaded: 2026-03-13
 - videoId: c-VCxbAgG7c
   title: Kog'Maw ADC vs Kai'Sa - VN Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1501
+  uploaded: 2026-01-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Take down The Turret
+      kind: tower
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:18
+      label: Take down The Turret
+      kind: tower
+    - at: 23:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: End credit
 - videoId: 2roiNL1w_NA
   title: Kog'Maw vs Kai'Sa [ ADC ] Lol Korea Master Patch 25.20 ✅
   rankClaim: Master
   patch: "25.20"
   durationSec: 1767
   region: KR
+  uploaded: 2025-10-14
 - videoId: i7mByMAu_bA
   title: Kog'Maw ADC vs Kai'Sa - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1511
   region: KR
+  uploaded: 2025-09-19
 - videoId: hj7rdo-K_Mo
   title: KogMaw vs Kaisa [ ADC ] Lol Korea Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1797
   region: KR
+  uploaded: 2025-08-08
 - videoId: MZH8UspC06s
   title: KogMaw vs Kaisa [ ADC ] Lol Korea Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1918
   region: KR
+  uploaded: 2025-07-15
 - videoId: yKMAe5aGTUY
   title: Kog'Maw ADC vs Kai'Sa - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1701
   region: KR
+  uploaded: 2025-06-19
 - videoId: BQXtI8ZwXOw
   title: Kog'Maw ADC vs Kai'Sa - EUW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1477
   region: EUW
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:51
+      label: Take down The Turret
+      kind: tower
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:16
+      label: End credit
 - videoId: 3uYtczLKW50
   title: Kog'Maw ADC vs Kai'Sa - EUW Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1495
   region: EUW
+  uploaded: 2025-04-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Take down The Turret
+      kind: tower
+    - at: 14:38
+      label: Get a Triple Kill
+      kind: kill
+    - at: 16:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:34
+      label: End credit

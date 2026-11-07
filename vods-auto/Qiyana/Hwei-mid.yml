@@ -54,3 +54,22 @@
     - at: 29:00
       label: Varus Double Kill
       kind: kill
+- videoId: 199AAmySf_E
+  title: BeiFeng Qiyana vs Hwei — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.11"
+  durationSec: 1075
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-06-07
+  format: stream
+- videoId: PAk6jChLY2s
+  title: Beifeng Qiyana VS Hwei — Master KR Server
+  rankClaim: Master
+  patch: "26.5"
+  durationSec: 1875
+  region: KR
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-03-09
+  format: stream

@@ -5,9 +5,47 @@
   patch: "26.7"
   durationSec: 1538
   region: NA
+  uploaded: 2026-04-15
+  result: W
+  moments:
+    - at: 3:06
+      label: First Blood — Miss Fortune kills Nautilus
+      kind: kill
+    - at: 4:40
+      label: Urgot kills Kennen
+      kind: kill
+    - at: 8:17
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 9:19
+      label: Urgot kills Nautilus
+      kind: kill
+    - at: 14:26
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:38
+      label: Urgot eliminates Yunara
+    - at: 17:07
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 19:38
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 22:48
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:34
+      label: Mid Inhibitor falls (Red)
+    - at: 24:57
+      label: Urgot kills Nautilus
+      kind: kill
+    - at: 25:07
+      label: Urgot Triple Kill
+      kind: kill
 - videoId: AyI-hWEE9Q8
   title: Urgot Jungle vs Rek'Sai - NA Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1584
   region: NA
+  uploaded: 2026-02-19

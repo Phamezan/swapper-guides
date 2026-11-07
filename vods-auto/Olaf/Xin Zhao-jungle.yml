@@ -6,6 +6,7 @@
   durationSec: 1421
   region: EUW
   player: JL Shift
+  uploaded: 2026-07-24
 - videoId: 7rCSvbMeAsc
   title: (WBG Jiejie) Olaf Jungle vs Xin Zhao - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -14,20 +15,68 @@
   region: KR
   player: Jiejie
   team: WBG
+  uploaded: 2026-07-03
 - videoId: YwzQ_Z2lRR4
   title: Olaf Jungle vs Xin Zhao - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1832
   region: KR
+  uploaded: 2026-03-03
 - videoId: SMTT-Mp8gfQ
   title: Olaf Jungle vs Xin Zhao - TW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1700
+  uploaded: 2026-02-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 28:09
+      label: End credit
 - videoId: CNPAggVUtI0
   title: Olaf Jungle vs Xin Zhao - EUW Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1786
   region: EUW
+  uploaded: 2025-06-10

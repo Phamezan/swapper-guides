@@ -5,9 +5,111 @@
   patch: "26.6"
   durationSec: 1463
   region: EUW
+  uploaded: 2026-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:16
+      label: Take down The Turret
+      kind: tower
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:57
+      label: Take down The Turret
+      kind: tower
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: End credit
 - videoId: iWC8WSpq1FM
   title: Singed Top vs Jax - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1511
   region: KR
+  uploaded: 2025-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:49
+      label: Take down The Turret
+      kind: tower
+    - at: 16:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: End credit

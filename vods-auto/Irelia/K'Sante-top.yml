@@ -5,12 +5,7 @@
   patch: "26.1"
   durationSec: 1651
   region: KR
-- videoId: _mffvVrLICk
-  title: Irelia Top vs K'Sante - KR Master Patch 25.24
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1611
-  region: KR
+  uploaded: 2026-01-12
 - videoId: yGfsMRKE_Uo
   title: Irelking Irelia vs K'Sante Top - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
@@ -18,26 +13,102 @@
   durationSec: 1696
   region: KR
   player: Irelking
+  uploaded: 2025-12-22
+- videoId: _mffvVrLICk
+  title: Irelia Top vs K'Sante - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1611
+  region: KR
+  uploaded: 2025-12-06
 - videoId: H-XPOX8h_7A
   title: Irelia vs K'Sante Top - EUW Grandmaster - Patch 25.21 Season 15
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1561
   region: EUW
+  uploaded: 2025-11-04
 - videoId: 98fIEhe5X8g
   title: Irelia Top vs K'Sante - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1567
   region: KR
+  uploaded: 2025-09-14
 - videoId: bVi_mS7uit8
   title: Irelia Top vs K'Sante - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1633
   region: KR
+  uploaded: 2025-08-02
 - videoId: 5aPFb3D2g-0
   title: Irelia Top vs K'Sante - TW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1588
+  uploaded: 2025-03-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:24
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:31
+      label: Take down The Turret
+      kind: tower
+    - at: 14:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:49
+      label: Take down The Turret
+      kind: tower
+    - at: 16:13
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:28
+      label: Take down The Turret
+      kind: tower
+    - at: 21:51
+      label: Take down The Inhibitor
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Take down The Turret
+      kind: tower
+    - at: 25:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Take down The Turret
+      kind: tower
+    - at: 26:07
+      label: End credit

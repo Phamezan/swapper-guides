@@ -5,6 +5,7 @@
   patch: "26.16"
   durationSec: 1775
   region: EUW
+  uploaded: 2026-08-27
 - videoId: VSj9ujwo2ZA
   title: (TT Junhao) Skarner Jungle vs Nocturne - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -12,9 +13,11 @@
   durationSec: 1669
   region: KR
   player: TT Junhao
+  uploaded: 2026-05-21
 - videoId: 3StkacxJrZk
   title: Skarner Jungle vs Nocturne - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1839
   region: KR
+  uploaded: 2025-09-05

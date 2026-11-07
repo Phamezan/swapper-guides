@@ -5,9 +5,63 @@
   patch: "25.24"
   durationSec: 1563
   region: KR
+  uploaded: 2025-12-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Take down The Turret
+      kind: tower
+    - at: 17:01
+      label: Take down The Turret
+      kind: tower
+    - at: 17:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Take down The Turret
+      kind: tower
+    - at: 19:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 25:23
+      label: Take down The Turret
+      kind: tower
+    - at: 25:34
+      label: Take down The Inhibitor
+    - at: 25:52
+      label: End credit
 - videoId: pxuRIs1zuGY
   title: Olaf Top vs K'Sante - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1459
   region: KR
+  uploaded: 2025-11-26

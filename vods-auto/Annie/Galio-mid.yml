@@ -5,9 +5,147 @@
   patch: "26.3"
   durationSec: 1618
   region: KR
+  uploaded: 2026-02-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Take down The Turret
+      kind: tower
+    - at: 13:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Take down The Turret
+      kind: tower
+    - at: 16:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Take down The Turret
+      kind: tower
+    - at: 20:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Take down The Turret
+      kind: tower
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: End credit
 - videoId: 7E_Tju1H3WA
   title: Annie Mid vs Galio - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1954
   region: KR
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Take down The Turret
+      kind: tower
+    - at: 16:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Take down The Turret
+      kind: tower
+    - at: 20:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Turret
+      kind: tower
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:26
+      label: Take down The Turret
+      kind: tower
+    - at: 27:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 31:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:53
+      label: Take down The Turret
+      kind: tower
+    - at: 32:13
+      label: End credit

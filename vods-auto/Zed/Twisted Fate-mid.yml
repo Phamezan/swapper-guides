@@ -437,6 +437,7 @@
   patch: "25.19"
   durationSec: 2019
   region: NA
+  uploaded: 2025-10-09
 - videoId: sWBUVSwhKEw
   title: OnZed Zed vs Twisted Fate Mid - KR Grandmaster - Patch 25.18 Season 15
   rankClaim: Grandmaster
@@ -444,24 +445,29 @@
   durationSec: 1891
   region: KR
   player: OnZed
+  uploaded: 2025-09-19
 - videoId: whmVwa-k1cQ
   title: Zed Mid vs Twisted Fate - BR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1607
+  uploaded: 2025-08-10
 - videoId: docq02-ZQBA
   title: Zed Mid vs Twisted Fate - NA Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1623
   region: NA
+  uploaded: 2025-07-27
 - videoId: Ppo1KWTkXAA
   title: Zed Mid vs Twisted Fate - TW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1599
+  uploaded: 2025-07-01
 - videoId: peLP0UpPXic
   title: Zed Mid vs Twisted Fate - BR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1950
+  uploaded: 2025-04-27

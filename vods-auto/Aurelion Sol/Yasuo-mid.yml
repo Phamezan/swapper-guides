@@ -5,21 +5,73 @@
   patch: "26.17"
   durationSec: 1513
   region: KR
+  uploaded: 2026-09-03
+  result: W
+  moments:
+    - at: 0:29
+      label: First Blood — Aurelion Sol kills Yasuo
+      kind: kill
+    - at: 1:40
+      label: Aurelion Sol takes down Yasuo
+    - at: 2:42
+      label: Aurelion Sol catches Yasuo again
+    - at: 6:50
+      label: Aurelion Sol outduels Yasuo (3rd time)
+    - at: 7:13
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 8:20
+      label: Aurelion Sol picks off Lillia
+    - at: 10:05
+      label: Qiyana picks off Yasuo
+    - at: 10:51
+      label: Aurelion Sol picks off Lillia
+    - at: 12:30
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 13:41
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:02
+      label: Qiyana kills Kennen
+      kind: kill
+    - at: 17:52
+      label: Qiyana takes down Lillia
+    - at: 18:59
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 19:58
+      label: Red takes Baron
+      kind: baron
+    - at: 21:34
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 22:41
+      label: Xayah kills Yasuo
+      kind: kill
+    - at: 24:02
+      label: Aurelion Sol takes down Rell
+    - at: 24:21
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
 - videoId: RcZUpSpap-k
   title: Aurelion Sol Mid vs Yasuo - KR Master Patch 26.12
   rankClaim: Master
   patch: "26.12"
   durationSec: 1671
   region: KR
+  uploaded: 2026-06-23
 - videoId: qdwYnG7MBCk
   title: Aurelion Sol Mid vs Yasuo - EUW Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1777
   region: EUW
+  uploaded: 2026-04-21
 - videoId: KM0IVy187Po
   title: Aurelion Sol Mid vs Yasuo - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1823
   region: KR
+  uploaded: 2025-04-12

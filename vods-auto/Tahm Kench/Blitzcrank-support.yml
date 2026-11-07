@@ -5,15 +5,99 @@
   patch: "25.24"
   durationSec: 1461
   region: KR
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Take down The Turret
+      kind: tower
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: End credit
 - videoId: GlemuEm_TPA
   title: Tahm Kench Support vs Blitzcrank - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1434
   region: KR
+  uploaded: 2025-11-28
 - videoId: IemBAlTw4xo
   title: Tahm Kench Support vs Blitzcrank - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1907
   region: KR
+  uploaded: 2025-05-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:18
+      label: Take down The Turret
+      kind: tower
+    - at: 18:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Take down The Turret
+      kind: tower
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:57
+      label: Take down The Turret
+      kind: tower
+    - at: 31:07
+      label: Take down The Inhibitor
+    - at: 31:26
+      label: End credit

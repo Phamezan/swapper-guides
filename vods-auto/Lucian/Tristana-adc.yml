@@ -31,6 +31,7 @@
   patch: "26.18"
   durationSec: 1760
   region: KR
+  uploaded: 2026-09-25
 - videoId: 7wa6Ttsanyo
   title: T1 Peyz Lucian vs Tristana [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -39,12 +40,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2025-12-07
 - videoId: Q53-RvyxaxQ
   title: Lucian ADC vs Tristana - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1608
   region: KR
+  uploaded: 2025-10-10
 - videoId: 0olUxlaIK0o
   title: T1 Smash Lucian vs Tristana [ ADC ] Patch 25.16 Korea Challenger
   rankClaim: Challenger
@@ -53,6 +56,7 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-08-24
 - videoId: vRPzmo3gf14
   title: T1 Gumayusi Lucian ADC vs Tristana - Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -61,9 +65,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-29
 - videoId: Zt-VGnIXW8M
   title: Lucian ADC vs Tristana - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1459
   region: KR
+  uploaded: 2025-03-13

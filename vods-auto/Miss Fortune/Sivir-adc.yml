@@ -5,18 +5,74 @@
   patch: "26.16"
   durationSec: 1665
   region: KR
+  uploaded: 2026-08-26
 - videoId: MFZddXDCYHQ
   title: Miss Fortune ADC vs Sivir - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1504
   region: KR
+  uploaded: 2026-02-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:25
+      label: Take down The Turret
+      kind: tower
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Take down The Turret
+      kind: tower
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:52
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:34
+      label: Take down The Turret
+      kind: tower
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:53
+      label: End credit
 - videoId: Id6OrNWlanM
   title: Miss Fortune ADC vs Sivir - NA Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 2041
   region: NA
+  uploaded: 2025-08-12
 - videoId: P4z0LNdSN9k
   title: Miss Fortune vs Sivir ADC [ DRX Teddy ] Patch 25.14 Korea Challenger
   rankClaim: Challenger
@@ -25,3 +81,4 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-25

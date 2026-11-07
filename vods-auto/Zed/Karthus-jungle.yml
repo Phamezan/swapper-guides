@@ -279,8 +279,85 @@
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 2073
+  uploaded: 2025-07-20
 - videoId: YCzd7E7bsms
   title: Zed Jungle vs Karthus - BR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1969
+  uploaded: 2025-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:29
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Hunt The Atakhan
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:31
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:58
+      label: Take down The Inhibitor
+    - at: 30:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:28
+      label: End credit

@@ -5,15 +5,27 @@
   patch: "26.17"
   durationSec: 1884
   region: EUNE
+  uploaded: 2026-09-06
+- videoId: 83j-VhTjfuE
+  title: "Challenger Irelia : His INSANE WRECKING of Yone on CN Super Server MID"
+  rankClaim: Challenger
+  patch: "26.11"
+  durationSec: 1697
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-05-30
+  format: stream
 - videoId: ETaH7SmLTqo
   title: Irelia vs Yone MId - KR Master - Patch 25.11 Season 15
   rankClaim: Master
   patch: "25.11"
   durationSec: 1801
   region: KR
+  uploaded: 2025-06-10
 - videoId: EqirGOJH_lg
   title: Irelia vs Yone Mid - EUW Master - Patch 15.4 Season 15
   rankClaim: Master
   patch: "25.4"
   durationSec: 1620
   region: EUW
+  uploaded: 2025-02-23

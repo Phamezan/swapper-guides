@@ -220,6 +220,7 @@
   patch: "26.13"
   durationSec: 1842
   region: EUW
+  uploaded: 2026-07-13
 - videoId: nICzZ1H6XKA
   title: Zed Jungle vs Graves (GNG Shourdy) - EUW Master Patch 26.13
   rankClaim: Master
@@ -702,34 +703,281 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1506
+  uploaded: 2026-01-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:48
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Take down The Turret
+      kind: tower
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: End credit
 - videoId: 5f3ULyp5pAs
   title: Zed Jungle vs Graves - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1547
   region: NA
+  uploaded: 2025-12-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:01
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:05
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:41
+      label: Take down The Turret
+      kind: tower
+    - at: 16:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:51
+      label: Take down The Turret
+      kind: tower
+    - at: 18:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Hunt The Atakhan
+    - at: 21:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:36
+      label: End credit
 - videoId: TXjMBgm9aig
   title: Zed Jungle vs Graves - TW Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1904
+  uploaded: 2025-07-31
 - videoId: 4-ufU4UFSZY
   title: Zed Jungle vs Graves - VN Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1732
+  uploaded: 2025-05-20
 - videoId: -LhEF7J6X9c
   title: Zed Jungle vs Graves - TW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1679
+  uploaded: 2025-04-25
 - videoId: a3lnhraFxwM
   title: Zed Jungle vs Graves - VN Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1746
+  uploaded: 2025-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Take down The Turret
+      kind: tower
+    - at: 23:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:45
+      label: End credit
 - videoId: hlcAkpIZHTU
   title: Zed Jungle vs Graves - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1669
+  uploaded: 2025-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:01
+      label: Take down The Turret
+      kind: tower
+    - at: 18:10
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Hunt The Atakhan
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: End credit

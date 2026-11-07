@@ -6,12 +6,14 @@
   durationSec: 1668
   region: KR
   player: OnFleek
+  uploaded: 2026-08-18
 - videoId: Z7GTCBEJve4
   title: Talon Jungle vs Naafiri (Hummelu) - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1652
   region: EUW
+  uploaded: 2026-08-04
 - videoId: A_wIYNrDQdE
   title: Talon Jungle vs Naafiri (JDG Xiaoxu) - KR Master Patch 26.13
   rankClaim: Master
@@ -19,6 +21,7 @@
   durationSec: 1443
   region: KR
   player: Xiaoxu
+  uploaded: 2026-07-08
 - videoId: 1NRb45buUdU
   title: T1 Oner Talon vs Naafiri [ Jungle ] Korea Challenger 2271 LP | Patch 26.8
   rankClaim: Challenger
@@ -34,3 +37,4 @@
   patch: "25.10"
   durationSec: 1681
   region: KR
+  uploaded: 2025-05-22

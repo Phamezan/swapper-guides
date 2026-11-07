@@ -5,9 +5,54 @@
   patch: "26.8"
   durationSec: 1598
   region: KR
+  uploaded: 2026-04-18
 - videoId: uxeQi2pdMI8
   title: Vayne Top vs Darius - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1573
   region: KR
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:50
+      label: Take down The Turret
+      kind: tower
+    - at: 16:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Take down The Turret
+      kind: tower
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Take down The Inhibitor
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:52
+      label: End credit

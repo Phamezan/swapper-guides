@@ -7,6 +7,31 @@
   patchEstimated: true
   uploaded: 2026-10-29
   format: stream
+- videoId: w74hmoCD1Mo
+  title: "Rank 1 Kai'sa : His Mechanic is Phenomenal, God Level of Spacing - Engsub ( vs Caitlyn, Tris )"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1428
+  patchEstimated: true
+  uploaded: 2026-10-17
+  format: stream
+- videoId: yqU0gSCfzPs
+  title: "Rank 1 Kai'sa : This Guy is a FREAKING MONSTER in Master Elo - Engsub ( vs Caitlyn, Pantheon )"
+  rankClaim: Master
+  patch: "26.19"
+  durationSec: 1150
+  patchEstimated: true
+  uploaded: 2026-09-27
+  format: stream
+- videoId: RRkBUFHjY40
+  title: "Rank 1 Kai'sa : His Mechanic is on a GOD LEVEL, CRUSHING KR MASTER with this BUILD (vs Caitlyn, Ez )"
+  rankClaim: Master
+  patch: "26.18"
+  durationSec: 1636
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-09-22
+  format: stream
 - videoId: uNx5tNAXBao
   title: (MISA Ruep) Kai'Sa ADC vs Caitlyn - EUW Challenger Patch 26.14
   rankClaim: Challenger
@@ -14,6 +39,54 @@
   durationSec: 1624
   region: EUW
   player: MISA Ruep
+  uploaded: 2026-07-18
+  result: L
+  moments:
+    - at: 4:39
+      label: First Blood — Kai'Sa kills Caitlyn
+      kind: kill
+    - at: 6:54
+      label: Kai'Sa takes down Caitlyn
+    - at: 8:18
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:09
+      label: Kai'Sa takes down Caitlyn
+    - at: 11:37
+      label: Neeko picks off Caitlyn
+    - at: 13:33
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 13:56
+      label: Akshan kills Caitlyn
+      kind: kill
+    - at: 17:33
+      label: Kai'Sa eliminates Nocturne
+    - at: 18:48
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 20:55
+      label: Bel'Veth eliminates Caitlyn
+    - at: 22:27
+      label: Red takes Baron
+      kind: baron
+    - at: 23:29
+      label: Top Inhibitor falls (Blue)
+    - at: 23:39
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:50
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 25:44
+      label: Kai'Sa takes down Caitlyn
+- videoId: gddAys3IP-A
+  title: "Rank 1 Kai'sa : This is What Machine Gun Kai'sa Look Like - Engsub ( Kai'sa vs Caitlyn, Tris )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1178
+  patchEstimated: true
+  uploaded: 2026-06-20
+  format: stream
 - videoId: 9icHKZ0WzEs
   title: Kai'Sa vs Caitlyn ADC - EUW Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -27,9 +100,11 @@
   patch: "25.13"
   durationSec: 1486
   region: KR
+  uploaded: 2025-07-15
 - videoId: USi5x3aEJjU
   title: Kai'Sa vs Caitlyn ADC - EUW Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1380
   region: EUW
+  uploaded: 2025-03-27

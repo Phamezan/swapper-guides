@@ -5,3 +5,52 @@
   patch: "26.13"
   durationSec: 1641
   region: NA
+  uploaded: 2026-07-10
+  result: W
+  moments:
+    - at: 1:01
+      label: First Blood — Vayne kills Sylas
+      kind: kill
+    - at: 9:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:54
+      label: Vayne kills Camille
+      kind: kill
+    - at: 12:27
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:13
+      label: Vayne eliminates Mel
+    - at: 14:45
+      label: Janna eliminates Camille
+    - at: 15:20
+      label: Vayne picks off Ezreal
+    - at: 16:16
+      label: Seraphine picks off Jayce
+    - at: 16:39
+      label: Vayne takes down Sylas
+    - at: 17:59
+      label: Ornn kills Sylas
+      kind: kill
+    - at: 18:54
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:57
+      label: Vayne kills Camille
+      kind: kill
+    - at: 22:28
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:24
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:09
+      label: Mid Inhibitor falls (Red)
+    - at: 24:35
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 25:40
+      label: Vayne picks off Ezreal
+    - at: 26:19
+      label: Top Inhibitor falls (Red)

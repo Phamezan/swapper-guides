@@ -5,3 +5,54 @@
   patch: "26.7"
   durationSec: 1877
   region: EUW
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 12:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Take down The Turret
+      kind: tower
+    - at: 15:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:18
+      label: Take down The Turret
+      kind: tower
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: Take down The Turret
+      kind: tower
+    - at: 30:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:51
+      label: Take down The Turret
+      kind: tower
+    - at: 31:06
+      label: End credit

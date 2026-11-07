@@ -5,9 +5,77 @@
   patch: "25.16"
   durationSec: 2101
   region: KR
+  uploaded: 2025-08-21
 - videoId: UjjPsygCekA
   title: Garen Top vs Tryndamere - NA Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 2105
   region: NA
+  uploaded: 2025-05-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:09
+      label: Take down The Turret
+      kind: tower
+    - at: 15:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:35
+      label: Take down The Turret
+      kind: tower
+    - at: 22:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:45
+      label: Take down The Turret
+      kind: tower
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:15
+      label: Take down The Turret
+      kind: tower
+    - at: 27:33
+      label: Take down The Inhibitor
+    - at: 28:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:08
+      label: Take down The Turret
+      kind: tower
+    - at: 29:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:48
+      label: Take down The Inhibitor
+    - at: 33:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:44
+      label: End credit

@@ -157,36 +157,158 @@
   patch: "26.6"
   durationSec: 1917
   region: NA
+  uploaded: 2026-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:07
+      label: Take down The Turret
+      kind: tower
+    - at: 21:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Take down The Turret
+      kind: tower
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 31:46
+      label: End credit
 - videoId: 3kFXUXauACY
   title: Zed Top vs Yone - NA Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1550
   region: NA
+  uploaded: 2026-03-20
 - videoId: -hhK6d5yQDU
   title: Zed Top vs Yone - NA Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1533
   region: NA
+  uploaded: 2025-10-05
 - videoId: 2U_DWhi7vok
   title: Zed Top vs Yone - VN Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1718
+  uploaded: 2025-07-23
 - videoId: J11iJxU8-xA
   title: Zed Top vs Yone - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1814
   region: KR
+  uploaded: 2025-07-10
 - videoId: 7TiTOI4heEM
   title: Zed Top vs Yone - VN Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1600
+  uploaded: 2025-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:04
+      label: Take down The Turret
+      kind: tower
+    - at: 15:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:19
+      label: Take down The Turret
+      kind: tower
+    - at: 19:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Take down The Turret
+      kind: tower
+    - at: 22:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:08
+      label: Take down The Turret
+      kind: tower
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Take down The Turret
+      kind: tower
+    - at: 26:19
+      label: End credit
 - videoId: b4RdYQFLUBY
   title: Zed Top vs Yone - TW Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1718
+  uploaded: 2025-02-25

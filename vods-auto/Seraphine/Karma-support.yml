@@ -5,9 +5,67 @@
   patch: "25.24"
   durationSec: 1508
   region: EUW
+  uploaded: 2025-12-14
 - videoId: IVfC8hjFnD0
   title: Seraphine Support vs Karma - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1944
   region: KR
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:08
+      label: Take down The Turret
+      kind: tower
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:11
+      label: Take down The Turret
+      kind: tower
+    - at: 32:03
+      label: End credit

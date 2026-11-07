@@ -5,9 +5,75 @@
   patch: "26.15"
   durationSec: 1738
   region: KR
+  uploaded: 2026-08-06
 - videoId: o_eRdSJ0QpU
   title: Neeko Jungle vs Viego - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1706
   region: KR
+  uploaded: 2025-04-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:52
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:21
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Take down The Turret
+      kind: tower
+    - at: 20:35
+      label: Hunt The Atakhan
+    - at: 21:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:52
+      label: Take down The Turret
+      kind: tower
+    - at: 26:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:05
+      label: End credit

@@ -4,12 +4,63 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1481
+  uploaded: 2026-09-19
 - videoId: UU1PpdeP8iE
   title: Yasuo Mid vs Ryze - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1747
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 15:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:17
+      label: Take down The Turret
+      kind: tower
+    - at: 17:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:34
+      label: Take down The Turret
+      kind: tower
+    - at: 21:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:31
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Take down The Inhibitor
+    - at: 28:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:56
+      label: End credit
 - videoId: 5Qc7N0fYe4k
   title: Hansuo Yasuo vs Ryze Mid - EUW Grandmaster - Patch 25.19 Season 15
   rankClaim: Grandmaster
@@ -17,3 +68,4 @@
   durationSec: 1471
   region: EUW
   player: Hansuo
+  uploaded: 2025-09-25

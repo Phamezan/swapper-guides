@@ -4,9 +4,72 @@
   rankClaim: Master
   patch: "26.4"
   durationSec: 1527
+  uploaded: 2026-02-21
 - videoId: EUa8zlV8NJs
   title: Zed Support vs Janna - EUW Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1810
   region: EUW
+  uploaded: 2025-05-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:27
+      label: Take down The Turret
+      kind: tower
+    - at: 28:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:20
+      label: Take down The Inhibitor
+    - at: 29:49
+      label: End credit

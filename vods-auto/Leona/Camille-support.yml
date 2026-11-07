@@ -61,3 +61,49 @@
   patch: "26.17"
   durationSec: 1702
   region: KR
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 0:15
+      label: First Blood — Qiyana kills Yone
+      kind: kill
+    - at: 11:06
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:56
+      label: Leona eliminates Camille
+    - at: 12:25
+      label: Qiyana eliminates Yasuo
+    - at: 13:09
+      label: Orianna picks off Zyra
+    - at: 14:39
+      label: Qiyana kills Camille
+      kind: kill
+    - at: 15:27
+      label: Qiyana eliminates Yasuo
+    - at: 16:23
+      label: Ziggs eliminates Zyra
+    - at: 17:45
+      label: Ziggs takes down Yasuo
+    - at: 18:33
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:19
+      label: Pantheon eliminates Camille
+    - at: 21:42
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:16
+      label: Ziggs eliminates Zyra
+    - at: 23:49
+      label: Qiyana eliminates Yasuo
+    - at: 24:34
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:56
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 26:31
+      label: Ziggs eliminates Zyra
+    - at: 27:32
+      label: Qiyana Double Kill
+      kind: kill

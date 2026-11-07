@@ -5,6 +5,7 @@
   patch: "26.15"
   durationSec: 1671
   region: KR
+  uploaded: 2026-08-11
 - videoId: 3rGXtJmKSsI
   title: T1 Doran Gwen vs Ambessa [ TOP ] Korea Grandmaster Patch 26.3
   rankClaim: Grandmaster
@@ -13,12 +14,14 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2026-02-18
 - videoId: 10t79dCo_ww
   title: Gwen vs Ambessa Top - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1321
   region: KR
+  uploaded: 2025-06-30
 - videoId: AgntpoFEBB8
   title: T1 Doran Gwen vs Ambessa [ TOP ] Patch 25.8 Korea Challenger ✅
   rankClaim: Challenger
@@ -27,15 +30,53 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2025-04-19
 - videoId: Oug5kuoc9JU
   title: Gwen Top vs Ambessa - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1600
   region: KR
+  uploaded: 2025-04-05
 - videoId: kZdkAcnqC3o
   title: Gwen Top vs Ambessa - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1550
   region: KR
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:01
+      label: Take down The Turret
+      kind: tower
+    - at: 20:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:29
+      label: End credit

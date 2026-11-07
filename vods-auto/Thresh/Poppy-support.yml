@@ -5,9 +5,54 @@
   patch: "25.24"
   durationSec: 1583
   region: NA
+  uploaded: 2025-12-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Take down The Turret
+      kind: tower
+    - at: 16:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:35
+      label: Take down The Turret
+      kind: tower
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Take down The Inhibitor
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:12
+      label: End credit
 - videoId: 7CxpuQKUsZM
   title: Thresh Support vs Poppy - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1453
   region: KR
+  uploaded: 2025-05-18

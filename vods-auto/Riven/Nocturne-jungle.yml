@@ -5,3 +5,51 @@
   patch: "26.6"
   durationSec: 1777
   region: EUW
+  uploaded: 2026-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:36
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:26
+      label: End credit

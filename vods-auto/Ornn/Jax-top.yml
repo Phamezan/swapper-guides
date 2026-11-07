@@ -55,9 +55,45 @@
   patch: "26.2"
   durationSec: 1569
   region: EUW
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Take down The Turret
+      kind: tower
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Take down The Inhibitor
+    - at: 25:31
+      label: Take down The Turret
+      kind: tower
+    - at: 25:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: End credit
 - videoId: sa4ZuNYAu-Y
   title: Ornn Top vs Jax - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1552
   region: KR
+  uploaded: 2025-10-18

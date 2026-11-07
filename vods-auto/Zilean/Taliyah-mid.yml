@@ -5,15 +5,68 @@
   patch: "25.9"
   durationSec: 2159
   region: EUW
+  uploaded: 2025-05-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Take down The Turret
+      kind: tower
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Take down The Turret
+      kind: tower
+    - at: 28:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:28
+      label: Take down The Turret
+      kind: tower
+    - at: 34:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:38
+      label: End credit
 - videoId: WpDCjifd83o
   title: Zilean Mid vs Taliyah - NA Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1672
   region: NA
+  uploaded: 2025-03-16
 - videoId: t-Na4c6ndwE
   title: Zilean Mid vs Taliyah - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2025
   region: KR
+  uploaded: 2025-02-28

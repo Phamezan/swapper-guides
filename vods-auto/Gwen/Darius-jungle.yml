@@ -5,3 +5,74 @@
   patch: "25.5"
   durationSec: 1968
   region: NA
+  uploaded: 2025-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Take down The Turret
+      kind: tower
+    - at: 12:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Take down The Turret
+      kind: tower
+    - at: 19:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Hunt The Atakhan
+    - at: 22:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Get a Triple Kill
+      kind: kill
+    - at: 27:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:27
+      label: End credit

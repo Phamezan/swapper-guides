@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1551
   region: KR
+  uploaded: 2026-09-05
 - videoId: jG3nzo1NhHE
   title: (HLE Kanavi) Jayce Jungle vs Qiyana - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -13,15 +14,79 @@
   region: KR
   player: Kanavi
   team: HLE
+  uploaded: 2026-08-15
 - videoId: JuM2LRwZjI0
   title: Jayce vs Qiyana Jungle - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1576
   region: KR
+  uploaded: 2026-01-05
 - videoId: eRclRGhPUPM
   title: Jayce Jungle vs Qiyana - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1553
   region: EUW
+  uploaded: 2025-12-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:05
+      label: Take down The Turret
+      kind: tower
+    - at: 14:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Take down The Turret
+      kind: tower
+    - at: 15:27
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Take down The Turret
+      kind: tower
+    - at: 18:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:17
+      label: Hunt The Atakhan
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:42
+      label: End credit

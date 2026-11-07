@@ -5,6 +5,7 @@
   patch: "26.19"
   durationSec: 1876
   region: KR
+  uploaded: 2026-09-26
 - videoId: H4ysJjzo4qY
   title: K'Sante Top vs Jayce (DK Siwoo) - KR Challenger Patch 26.17
   rankClaim: Challenger
@@ -12,27 +13,116 @@
   durationSec: 1859
   region: KR
   player: Siwoo
+  uploaded: 2026-09-10
 - videoId: laF7osFaRq4
   title: K'Sante Top vs Jayce (DK Career) - KR Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1468
   region: KR
+  uploaded: 2026-08-30
 - videoId: AB9ufP3bA-E
   title: K'Sante Top vs Jayce - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1730
   region: KR
+  uploaded: 2025-12-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:01
+      label: Take down The Turret
+      kind: tower
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:32
+      label: Take down The Turret
+      kind: tower
+    - at: 18:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:04
+      label: Take down The Inhibitor
+    - at: 27:17
+      label: Take down The Turret
+      kind: tower
+    - at: 28:39
+      label: End credit
 - videoId: p8m2Zz3ffD4
   title: KSante vs Jayce Top - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1711
   region: KR
+  uploaded: 2025-12-04
 - videoId: fXpbF0o-0z4
   title: K'Sante Top vs Jayce - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1622
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Take down The Turret
+      kind: tower
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:41
+      label: End credit

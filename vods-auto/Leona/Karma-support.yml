@@ -5,15 +5,106 @@
   patch: "26.6"
   durationSec: 1783
   region: EUW
+  uploaded: 2026-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: Take down The Turret
+      kind: tower
+    - at: 29:32
+      label: End credit
 - videoId: b4IfSIqN3tI
   title: Leona Support vs Karma - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1542
   region: KR
+  uploaded: 2026-01-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: End credit
 - videoId: q5liKBWB0zA
   title: Leona Support vs Karma - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1901
   region: KR
+  uploaded: 2025-03-09

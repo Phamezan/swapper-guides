@@ -273,46 +273,121 @@
   patch: "26.7"
   durationSec: 1740
   region: KR
+  uploaded: 2026-04-10
 - videoId: 6SeMjh3XVl4
   title: Zed Jungle vs Nidalee - NA Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1523
   region: NA
+  uploaded: 2025-11-19
 - videoId: QoxsTDTNp7I
   title: Zed Jungle vs Nidalee - NA Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1601
   region: NA
+  uploaded: 2025-10-26
 - videoId: ZYlK4XNKpLg
   title: Zed vs Nidalee Jungle - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1471
   region: KR
+  uploaded: 2025-09-24
 - videoId: xdI-SAJR1Zs
   title: Zed Jungle vs Nidalee - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1846
   region: KR
+  uploaded: 2025-09-12
 - videoId: eoZE6ljTbDg
   title: Zed Jungle vs Nidalee - BR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1573
+  uploaded: 2025-08-23
 - videoId: uH2HyasZJyg
   title: Zed Jungle vs Nidalee - BR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1698
+  uploaded: 2025-07-28
 - videoId: C9wGmgscXKI
   title: Zed Jungle vs Nidalee - NA Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1750
   region: NA
+  uploaded: 2025-07-02
+- videoId: WEBtLnKoZJY
+  title: Zed Jungle vs Nidalee - VN Challenger Patch 25.08
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 1715
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:23
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:58
+      label: Take down The Turret
+      kind: tower
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:57
+      label: Hunt The Atakhan
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:14
+      label: End credit
 - videoId: nJp5tZbBwNI
   title: T1 Oner Zed vs Nidalee [ Jungle ] Patch 25.8 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -321,8 +396,4 @@
   region: KR
   player: Oner
   team: T1
-- videoId: WEBtLnKoZJY
-  title: Zed Jungle vs Nidalee - VN Challenger Patch 25.08
-  rankClaim: Challenger
-  patch: "25.8"
-  durationSec: 1715
+  uploaded: 2025-04-22

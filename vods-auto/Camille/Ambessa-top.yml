@@ -12,6 +12,7 @@
   patch: "26.13"
   durationSec: 1868
   region: KR
+  uploaded: 2026-07-11
 - videoId: KYk1IAsNrsM
   title: Camille vs Ambessa Top - EUW Grandmaster - Patch 16.08 Season 16
   rankClaim: Grandmaster
@@ -25,6 +26,7 @@
   patch: "26.2"
   durationSec: 1503
   region: KR
+  uploaded: 2026-01-27
 - videoId: Fm2j541JDuo
   title: Camille vs Ambessa TOp - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
@@ -38,69 +40,81 @@
   patch: "25.24"
   durationSec: 1621
   region: KR
+  uploaded: 2025-12-17
 - videoId: lsuEACfYwco
   title: Camille vs Ambessa Top - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1531
   region: KR
+  uploaded: 2025-11-13
 - videoId: o8VcbNEdAIM
   title: Camille vs Ambessa Top - EUW Grandmaster - Patch 15.20 Season 15
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1691
   region: EUW
+  uploaded: 2025-10-14
 - videoId: Sr9OHKwYDxw
   title: Camille Top vs Ambessa - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1677
   region: KR
-- videoId: hateTrFjWVA
-  title: Camille Top vs Ambessa - KR Challenger Patch 25.14
-  rankClaim: Challenger
-  patch: "25.14"
-  durationSec: 1682
-  region: KR
+  uploaded: 2025-09-29
 - videoId: 1NSFp3mcZxA
   title: Camille vs Ambessa Top - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1631
   region: KR
+  uploaded: 2025-07-29
+- videoId: hateTrFjWVA
+  title: Camille Top vs Ambessa - KR Challenger Patch 25.14
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1682
+  region: KR
+  uploaded: 2025-07-22
 - videoId: CnodGezA2Dw
   title: Camille vs Ambessa Top - EUW Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1591
   region: EUW
+  uploaded: 2025-06-20
 - videoId: U0xPqWZr4Io
   title: Camille Top vs Ambessa - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1892
   region: KR
+  uploaded: 2025-06-05
 - videoId: j34s4lVPagE
   title: Camille vs Ambessa Top - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1501
   region: KR
+  uploaded: 2025-05-12
 - videoId: R0lqjzLDZMU
   title: Camille vs Ambessa Top - EUW Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2040
   region: EUW
+  uploaded: 2025-03-18
 - videoId: h8-5i6z5skM
   title: Camille vs Ambessa Top - KR Master - Patch 25.5 Season 15
   rankClaim: Master
   patch: "25.5"
   durationSec: 1846
   region: KR
+  uploaded: 2025-03-10
 - videoId: -HdQ157mvFA
   title: Camille vs Ambessa Top - EUW Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2440
   region: EUW
+  uploaded: 2025-02-21

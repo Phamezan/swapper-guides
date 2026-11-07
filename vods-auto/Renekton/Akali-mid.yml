@@ -6,9 +6,56 @@
   durationSec: 1879
   region: EUW
   player: BIG Irrelevant
+  uploaded: 2026-06-09
 - videoId: M-8iy6oITI4
   title: Renekton Mid vs Akali - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1824
   region: KR
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:00
+      label: Take down The Turret
+      kind: tower
+    - at: 20:29
+      label: Take down The Inhibitor
+    - at: 21:33
+      label: Hunt The Atakhan
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:03
+      label: End credit

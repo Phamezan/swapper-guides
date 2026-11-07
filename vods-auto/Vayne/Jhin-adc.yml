@@ -12,15 +12,70 @@
   patch: "26.7"
   durationSec: 1706
   region: KR
+  uploaded: 2026-04-12
 - videoId: 8m9EGSwh5O4
   title: Vayne vs Jhin [ ADC ] Lol Korea Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1328
   region: KR
+  uploaded: 2025-06-29
 - videoId: aRCl4SjxRiY
   title: Vayne ADC vs Jhin - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1783
   region: KR
+  uploaded: 2025-04-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Take down The Turret
+      kind: tower
+    - at: 14:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:23
+      label: Take down The Turret
+      kind: tower
+    - at: 28:44
+      label: Take down The Inhibitor
+    - at: 28:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:22
+      label: End credit

@@ -5,15 +5,53 @@
   patch: "26.4"
   durationSec: 1836
   region: KR
+  uploaded: 2026-02-22
 - videoId: GYZtFghn0LU
   title: Twisted Fate Mid vs Galio - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1575
   region: KR
+  uploaded: 2026-02-08
 - videoId: TY7CLVQheTI
   title: Twisted Fate Mid vs Galio - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1479
   region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: End credit

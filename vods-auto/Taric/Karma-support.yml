@@ -5,15 +5,115 @@
   patch: "25.24"
   durationSec: 1476
   region: KR
+  uploaded: 2025-12-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Take down The Turret
+      kind: tower
+    - at: 18:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: End credit
 - videoId: a-UkLjhkRMo
   title: Taric Support vs Karma - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1651
   region: KR
+  uploaded: 2025-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:53
+      label: Take down The Turret
+      kind: tower
+    - at: 16:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Take down The Turret
+      kind: tower
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Take down The Turret
+      kind: tower
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:53
+      label: Take down The Turret
+      kind: tower
+    - at: 27:10
+      label: End credit
 - videoId: m950K9GeH3k
   title: Taric Support vs Karma - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1546
   region: KR
+  uploaded: 2025-03-19

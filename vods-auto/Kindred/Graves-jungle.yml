@@ -6,21 +6,95 @@
   durationSec: 1552
   region: EUW
   player: SC Spooky
+  uploaded: 2026-06-07
 - videoId: Y6q8cAZbNbw
   title: Kindred vs Graves Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1771
   region: KR
+  uploaded: 2026-03-15
 - videoId: JNwhX1oj0HU
   title: Kindred vs Graves [ Jungle ] Korea Grandmaster 845 LP | Patch 25.22 ✅
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1397
   region: KR
+  uploaded: 2025-11-08
 - videoId: YOB4uPAypJE
   title: Kindred Jungle vs Graves - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1589
   region: KR
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:04
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:00
+      label: Take down The Turret
+      kind: tower
+    - at: 19:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:37
+      label: Hunt The Atakhan
+    - at: 23:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:10
+      label: Take down The Turret
+      kind: tower
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: End credit

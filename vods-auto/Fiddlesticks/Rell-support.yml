@@ -5,21 +5,62 @@
   patch: "25.17"
   durationSec: 1437
   region: EUW
+  uploaded: 2025-09-08
 - videoId: yW2I83poDF8
   title: Fiddlesticks Support vs Rell - EUW Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1793
   region: EUW
+  uploaded: 2025-08-25
 - videoId: QAZMm-hdKkc
   title: Fiddlesticks Support vs Rell - EUW Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1728
   region: EUW
+  uploaded: 2025-05-25
 - videoId: iy06_hUSvuE
   title: Fiddlesticks Support vs Rell - EUW Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1784
   region: EUW
+  uploaded: 2025-05-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Take down The Inhibitor
+    - at: 25:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:23
+      label: End credit

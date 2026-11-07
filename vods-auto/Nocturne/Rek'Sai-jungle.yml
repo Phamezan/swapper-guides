@@ -7,6 +7,7 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-07-31
 - videoId: 522NFvNeh2o
   title: (KC Yike) Nocturne Jungle vs Rek'Sai - EUW Challenger Patch 26.10
   rankClaim: Challenger
@@ -15,15 +16,18 @@
   region: EUW
   player: Yike
   team: KC
+  uploaded: 2026-05-27
 - videoId: svYggzAnDfo
   title: Nocturne Jungle vs Rek'Sai - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1538
   region: EUW
+  uploaded: 2025-12-28
 - videoId: G1QFpd8rXhw
   title: Nocturne Jungle vs Rek'Sai - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1618
   region: KR
+  uploaded: 2025-08-04

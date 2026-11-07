@@ -7,3 +7,51 @@
   region: KR
   player: Rookie
   team: IG
+  uploaded: 2026-08-15
+  result: L
+  moments:
+    - at: 2:09
+      label: First Blood — Cassiopeia kills Zoe
+      kind: kill
+    - at: 8:23
+      label: Cassiopeia solo kills Qiyana
+      kind: kill
+    - at: 10:33
+      label: Cassiopeia takes down Zoe
+    - at: 11:14
+      label: Blitzcrank eliminates Pantheon
+    - at: 13:49
+      label: Lee Sin kills Pantheon
+      kind: kill
+    - at: 14:17
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:18
+      label: Cassiopeia picks off Qiyana
+    - at: 18:08
+      label: Cassiopeia catches Zoe again
+    - at: 19:15
+      label: Cassiopeia outduels Pantheon
+    - at: 19:26
+      label: Cassiopeia catches Ambessa
+    - at: 20:28
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 22:12
+      label: Yunara picks off Pantheon
+    - at: 22:53
+      label: Cassiopeia eliminates Zoe
+    - at: 25:35
+      label: Blue takes Baron
+      kind: baron
+    - at: 26:35
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 27:05
+      label: Yunara Double Kill
+      kind: kill
+    - at: 27:41
+      label: Mid Inhibitor falls (Blue)

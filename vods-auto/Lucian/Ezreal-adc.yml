@@ -6,6 +6,15 @@
   durationSec: 1835
   region: EUW
   player: VIT Carzzy
+  uploaded: 2026-07-21
+- videoId: k4whRuTa3b0
+  title: "Smash : His Lucian is Tearing Peyz Ezreal Apart - Engsub ( Ft.Showmaker, Gumayusi, Peyz, Lucid, )"
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1347
+  patchEstimated: true
+  uploaded: 2026-06-25
+  format: stream
 - videoId: E57M1bREVFw
   title: (TES Creme) Lucian ADC vs Ezreal - KR Challenger Patch 26.11
   rankClaim: Challenger
@@ -14,12 +23,14 @@
   region: KR
   player: Creme
   team: TES
+  uploaded: 2026-06-02
 - videoId: aTxs2iaPydI
   title: Lucian ADC vs Ezreal - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1482
   region: KR
+  uploaded: 2026-05-09
 - videoId: 58iOjk0ZKXA
   title: Lucian vs Ezreal ADC - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
@@ -42,18 +53,88 @@
   patch: "26.7"
   durationSec: 1459
   region: KR
+  uploaded: 2026-04-04
 - videoId: VtKlzT2DT5Q
   title: Lucian ADC vs Ezreal - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1572
   region: KR
+  uploaded: 2026-03-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Take down The Turret
+      kind: tower
+    - at: 14:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:15
+      label: Take down The Turret
+      kind: tower
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:13
+      label: Take down The Turret
+      kind: tower
+    - at: 19:42
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 21:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Take down The Turret
+      kind: tower
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:23
+      label: Take down The Inhibitor
+    - at: 25:34
+      label: Take down The Turret
+      kind: tower
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: End credit
 - videoId: hkfb3rnvB-Y
   title: Lucian ADC vs Ezreal - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1598
   region: KR
+  uploaded: 2026-03-05
 - videoId: qd6EG9lEIOU
   title: HLE Gumayusi Lucian vs Ezreal [ ADC ] Korea Challenger 1637 LP | Patch 26.4
   rankClaim: Challenger
@@ -62,6 +143,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-02-28
 - videoId: YAPUa_tY0gE
   title: T1 Peyz Lucian vs Ezreal [ ADC ] Korea Challenger 1755 LP | Patch 26.3
   rankClaim: Challenger
@@ -70,6 +152,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-07
 - videoId: erDRMubYPWE
   title: HLE Gumayusi Lucian vs Ezreal [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -78,6 +161,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2025-12-31
 - videoId: PZVl51wrmR8
   title: Lucian vs Ezreal ADC [ Gen.G Ruler ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -86,12 +170,14 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-12-30
 - videoId: lqRO8zmgnuQ
   title: Lucian ADC vs Ezreal - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1514
   region: KR
+  uploaded: 2025-11-23
 - videoId: kLqqrIW3Hgk
   title: T1 Smash Lucian vs Ezreal [ ADC ] Korea Challenger 1238 LP | Patch 25.19
   rankClaim: Challenger
@@ -100,24 +186,28 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-10-01
 - videoId: 42GbE-K3_WQ
   title: Lucian ADC vs Ezreal - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1457
   region: KR
+  uploaded: 2025-08-31
 - videoId: Z2J6z_adpQk
   title: Lucian vs Ezreal ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1531
   region: KR
+  uploaded: 2025-07-11
 - videoId: A3WLKEvm6os
   title: Lucian ADC vs Ezreal - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1606
   region: KR
+  uploaded: 2025-05-16
 - videoId: aF3dPlpJDaQ
   title: T1 Smash Lucian vs Ezreal [ ADC ] Korea Challenger Patch 25.8 ✅
   rankClaim: Challenger
@@ -126,6 +216,7 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-04-18
 - videoId: JOkTsTyLkEY
   title: Lucian vs Ezreal ADC [ Peyz ] Patch 25.8 Korea Challenger ✅
   rankClaim: Challenger
@@ -133,12 +224,14 @@
   durationSec: 935
   region: KR
   player: Peyz
+  uploaded: 2025-04-16
 - videoId: jdbkC_Fzzdw
   title: Lucian ADC vs Ezreal - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1704
   region: KR
+  uploaded: 2025-04-05
 - videoId: eoLyMWt-78Y
   title: T1 Gumayusi Lucian vs Ezreal [ ADC ] Korea Challenger Patch 25.6 ✅
   rankClaim: Challenger
@@ -147,6 +240,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-26
 - videoId: z3wkWcYpGy4
   title: T1 Gumayusi Lucian vs Ezreal [ ADC ] Korea Challenger Patch 25.5 ✅
   rankClaim: Challenger
@@ -155,12 +249,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-19
 - videoId: SNOtVVA24Ws
   title: Lucian ADC vs Ezreal - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1966
   region: EUW
+  uploaded: 2025-03-05
 - videoId: J1qSApAou14
   title: T1 Gumayusi Lucian ADC vs Ezreal - Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -169,3 +265,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-01-31

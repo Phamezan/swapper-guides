@@ -6,12 +6,14 @@
   durationSec: 1686
   region: KR
   player: Clozer
+  uploaded: 2026-08-06
 - videoId: sfgMfiwNxJk
   title: Yasuo Top vs Vayne - EUW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1961
   region: EUW
+  uploaded: 2025-10-18
 - videoId: __5ioBYo9yc
   title: Dzukill Yasuo vs Vayne Top - EUW Master - Patch 25.20 Season 15
   rankClaim: Master
@@ -19,3 +21,4 @@
   durationSec: 1531
   region: EUW
   player: Dzukill
+  uploaded: 2025-10-14

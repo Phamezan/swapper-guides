@@ -6,6 +6,7 @@
   durationSec: 1513
   region: EUW
   player: KHK Rabble
+  uploaded: 2026-09-13
 - videoId: Ggi5-GG1QWY
   title: (DNS Quantum ) Rell Support vs Nautilus - KR Challenger Patch 26.17
   rankClaim: Challenger
@@ -13,6 +14,7 @@
   durationSec: 1734
   region: KR
   player: DNS Quantum
+  uploaded: 2026-09-11
 - videoId: H3bSRDIb8xI
   title: (KC kyeahoo) Rell Support vs Nautilus - EUW Grandmaster Patch 26.16
   rankClaim: Grandmaster
@@ -21,6 +23,7 @@
   region: EUW
   player: kyeahoo
   team: KC
+  uploaded: 2026-08-17
 - videoId: tUAqON7umUU
   title: (DINO Elio) Rell Support vs Nautilus - KR Master Patch 26.12
   rankClaim: Master
@@ -28,69 +31,310 @@
   durationSec: 1587
   region: KR
   player: DINO Elio
+  uploaded: 2026-06-15
 - videoId: 34vg7UyToqg
   title: Rell Support vs Nautilus - KR Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1827
   region: KR
+  uploaded: 2026-04-21
 - videoId: A-Q-oowuCTM
   title: Rell Support vs Nautilus - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1524
   region: KR
+  uploaded: 2026-03-18
 - videoId: -oyEf7ACapg
   title: Rell Support vs Nautilus - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1541
   region: KR
+  uploaded: 2026-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Take down The Turret
+      kind: tower
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: Take down The Turret
+      kind: tower
+    - at: 24:33
+      label: Take down The Inhibitor
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:30
+      label: End credit
 - videoId: HvwsaeshSUw
   title: Rell Support vs Nautilus - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1578
   region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Take down The Turret
+      kind: tower
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Take down The Turret
+      kind: tower
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:07
+      label: End credit
 - videoId: oExNiKDgvQw
   title: Rell Support vs Nautilus - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1515
   region: EUW
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Take down The Turret
+      kind: tower
+    - at: 25:04
+      label: End credit
 - videoId: 6NImQKBW8kM
   title: Rell Support vs Nautilus - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1563
   region: KR
+  uploaded: 2025-12-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Take down The Turret
+      kind: tower
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:52
+      label: End credit
 - videoId: XyRLV9Pxz3o
   title: Rell Support vs Nautilus - EUW Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1607
   region: EUW
+  uploaded: 2025-11-20
 - videoId: RGWAlDBdGc8
   title: Rell Support vs Nautilus - EUW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1895
   region: EUW
+  uploaded: 2025-06-25
 - videoId: BBjpDeDeOe0
   title: Rell Support vs Nautilus - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1536
   region: KR
+  uploaded: 2025-06-02
 - videoId: 1H060piYASo
   title: Rell Support vs Nautilus - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1590
   region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:31
+      label: Take down The Turret
+      kind: tower
+    - at: 18:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:15
+      label: Take down The Turret
+      kind: tower
+    - at: 20:30
+      label: Take down The Inhibitor
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:33
+      label: Take down The Turret
+      kind: tower
+    - at: 24:06
+      label: Take down The Inhibitor
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: End credit
 - videoId: GdVyzXnXD1w
   title: Rell Support vs Nautilus - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1780
   region: EUW
+  uploaded: 2025-04-01

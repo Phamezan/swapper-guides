@@ -5,15 +5,62 @@
   patch: "26.13"
   durationSec: 1742
   region: NA
+  uploaded: 2026-07-05
 - videoId: yYc-n8bSxgY
   title: Kai'Sa Jungle vs Viego - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1478
   region: KR
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: End credit
 - videoId: XgLGxeqrOvw
   title: Kai'Sa Jungle vs Viego - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1664
   region: KR
+  uploaded: 2025-10-18

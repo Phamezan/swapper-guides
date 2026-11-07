@@ -60,9 +60,75 @@
   patch: "25.24"
   durationSec: 1609
   region: KR
+  uploaded: 2026-01-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:02
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:05
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:39
+      label: Hunt The Atakhan
+    - at: 25:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:38
+      label: End credit
 - videoId: Otw9wlCERoc
   title: Vi Jungle vs Talon - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1614
   region: KR
+  uploaded: 2025-11-10

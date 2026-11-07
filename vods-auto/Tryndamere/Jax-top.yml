@@ -29,24 +29,116 @@
   patch: "26.16"
   durationSec: 1622
   region: KR
+  uploaded: 2026-08-26
+- videoId: 6acCq0wEcEM
+  title: Nobody can escape this classic Jax build (40% CDR, PERMASLOWS)
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1840
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-07-27
+  format: stream
+  cam: true
 - videoId: KA50a2qf5K4
   title: Tryndamere Top vs Jax - KR Master Patch 26.14
   rankClaim: Master
   patch: "26.14"
   durationSec: 1704
   region: KR
+  uploaded: 2026-07-26
+- videoId: aLykf7l3fXQ
+  title: THIS IS HOW YOU TOP GAP JAX PLAYERS 100% GUARANTEED (RANK 1 TRYNDAMERE)
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1777
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-05-28
+  format: stream
+  cam: true
+- videoId: 9EIe4dzA0UY
+  title: This video shows you EXACTLY how to destroy Jax in the top lane | Rank 1 Tryndamere
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1372
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-05-08
+  format: stream
+  cam: true
 - videoId: 6YJbmcGUrV0
   title: Tryndamere Top vs Jax - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1685
   region: KR
+  uploaded: 2025-11-25
 - videoId: iU825DBigTQ
   title: Tryndamere Top vs Jax - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2062
   region: KR
+  uploaded: 2025-05-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:57
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:43
+      label: Take down The Turret
+      kind: tower
+    - at: 16:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:34
+      label: Take down The Turret
+      kind: tower
+    - at: 26:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:33
+      label: Take down The Turret
+      kind: tower
+    - at: 29:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:57
+      label: Take down The Turret
+      kind: tower
+    - at: 30:11
+      label: Take down The Inhibitor
+    - at: 30:21
+      label: Take down The Turret
+      kind: tower
+    - at: 33:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 34:01
+      label: End credit
 - videoId: o4Pm8dalKBY
   title: Tryndamere vs Jax TOP [ 58% Win Rate ] Lol Korea Master Patch 25.6 ✅
   rankClaim: Master
@@ -54,9 +146,11 @@
   durationSec: 1226
   region: KR
   player: 58% Win Rate
+  uploaded: 2025-03-27
 - videoId: 0alnT_d5TyU
   title: Tryndamere Top vs Jax - KR Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1754
   region: KR
+  uploaded: 2025-03-06

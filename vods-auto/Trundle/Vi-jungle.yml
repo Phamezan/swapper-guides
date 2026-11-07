@@ -6,9 +6,87 @@
   durationSec: 1649
   region: KR
   player: TT Junhao
+  uploaded: 2026-08-01
 - videoId: PkZivwaQREA
   title: Trundle Jungle vs Vi - EUW Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1808
   region: EUW
+  uploaded: 2026-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Take down The Turret
+      kind: tower
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Take down The Turret
+      kind: tower
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:20
+      label: Take down The Inhibitor
+    - at: 27:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:57
+      label: End credit

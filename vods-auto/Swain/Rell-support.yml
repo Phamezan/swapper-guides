@@ -5,9 +5,75 @@
   patch: "25.11"
   durationSec: 1504
   region: KR
+  uploaded: 2025-06-05
 - videoId: dEcfrMJ0aEs
   title: Swain Support vs Rell - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 2112
   region: KR
+  uploaded: 2025-04-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:10
+      label: Take down The Turret
+      kind: tower
+    - at: 12:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Take down The Turret
+      kind: tower
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Take down The Turret
+      kind: tower
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:03
+      label: Take down The Turret
+      kind: tower
+    - at: 33:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:15
+      label: Take down The Inhibitor
+    - at: 34:35
+      label: Take down The Turret
+      kind: tower
+    - at: 34:51
+      label: End credit

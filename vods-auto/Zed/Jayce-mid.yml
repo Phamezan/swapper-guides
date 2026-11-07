@@ -209,9 +209,52 @@
   patch: "25.21"
   durationSec: 1453
   region: EUW
+  uploaded: 2025-10-25
 - videoId: fs9J3ZfBDSk
   title: Zed Mid vs Jayce - NA Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1844
   region: NA
+  uploaded: 2025-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Take down The Turret
+      kind: tower
+    - at: 27:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:46
+      label: Take down The Turret
+      kind: tower
+    - at: 30:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:23
+      label: End credit

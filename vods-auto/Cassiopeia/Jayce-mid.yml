@@ -63,3 +63,52 @@
   region: EUW
   player: Vladi
   team: FNC
+  uploaded: 2026-07-26
+  result: W
+  moments:
+    - at: 2:46
+      label: First Blood — Jarvan IV kills Jayce
+      kind: kill
+    - at: 6:05
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:01
+      label: Cassiopeia eliminates Jayce
+    - at: 10:43
+      label: Cassiopeia takes down Sylas
+    - at: 11:44
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:00
+      label: Cassiopeia takes down Sylas
+    - at: 13:01
+      label: Cassiopeia takes down Mordekaiser
+    - at: 15:18
+      label: Cassiopeia Double Kill
+      kind: kill
+    - at: 16:23
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 17:09
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 17:48
+      label: Cassiopeia takes down Sylas
+    - at: 19:10
+      label: Ziggs Double Kill
+      kind: kill
+    - at: 19:59
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:40
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:47
+      label: Cassiopeia takes down Mordekaiser
+    - at: 26:32
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 27:15
+      label: Cassiopeia picks off Pantheon
+    - at: 27:47
+      label: Mid Inhibitor falls (Red)

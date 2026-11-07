@@ -5,6 +5,15 @@
   patch: "26.16"
   durationSec: 1606
   region: NA
+  uploaded: 2026-08-27
+- videoId: d0iuE-tbPxs
+  title: "Doggo : This is What Super Machine Gun Kog'maw Look Like - Engsub ( vs Yunara )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 953
+  patchEstimated: true
+  uploaded: 2026-08-25
+  format: stream
 - videoId: dl8YZ5Ow9bM
   title: (HLE Gumayusi) Kog'Maw ADC vs Yunara - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -13,6 +22,16 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-05-22
+- videoId: BoSIaiR_juU
+  title: "Gumayusi : This is What Machine Gun Kog'maw Look Like - Engsub ( Kog'maw vs Yunara )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1252
+  patchEstimated: true
+  player: Gumayusi
+  uploaded: 2026-05-17
+  format: stream
 - videoId: qLbSbx_hP18
   title: HLE Gumayusi Kog'Maw vs Yunara [ ADC ] Patch 26.10 Korea Challenger 2569 LP
   rankClaim: Challenger
@@ -37,15 +56,18 @@
   patch: "25.22"
   durationSec: 1761
   region: KR
+  uploaded: 2025-11-15
 - videoId: AKx4kM-zrnM
   title: Kog'Maw vs Yunara [ ADC ] Lol Korea Master Patch 25.21 ✅
   rankClaim: Master
   patch: "25.21"
   durationSec: 1199
   region: KR
+  uploaded: 2025-10-28
 - videoId: 2DbfQNgZ73U
   title: Kog'Maw ADC vs Yunara - EUW Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 2010
   region: EUW
+  uploaded: 2025-08-20

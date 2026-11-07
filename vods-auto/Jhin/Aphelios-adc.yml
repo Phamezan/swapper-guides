@@ -55,6 +55,14 @@
     - at: 29:24
       label: Pantheon Triple Kill
       kind: kill
+- videoId: WMSpg_9yA-c
+  title: "Rank 1 Jhin : ONE BULLET - ONE SHOT - ONE KILL / Engsub ( vs Aphelios, Yunara )"
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1829
+  patchEstimated: true
+  uploaded: 2026-10-02
+  format: stream
 - videoId: JbNNeYcjOrE
   title: BLG Viper Jhin vs Aphelios [ ADC ] Korea Challenger 2072 LP | Patch 26.11
   rankClaim: Challenger
@@ -79,3 +87,4 @@
   patch: "25.12"
   durationSec: 2041
   region: KR
+  uploaded: 2025-06-23

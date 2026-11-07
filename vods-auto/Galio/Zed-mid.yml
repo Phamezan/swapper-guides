@@ -5,26 +5,185 @@
   patch: "26.19"
   durationSec: 1620
   region: KR
+  uploaded: 2026-09-30
+  result: W
+  moments:
+    - at: 2:43
+      label: First Blood — Kha'Zix kills Zed
+      kind: kill
+    - at: 6:15
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:01
+      label: Vel'Koz Double Kill
+      kind: kill
+    - at: 12:37
+      label: Galio takes down Rumble
+    - at: 13:35
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:24
+      label: Ambessa kills Cho'Gath
+      kind: kill
+    - at: 18:51
+      label: Vel'Koz Double Kill
+      kind: kill
+    - at: 19:57
+      label: Vel'Koz eliminates Cho'Gath
+    - at: 21:43
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 22:05
+      label: Galio takes down Zed
+    - at: 22:49
+      label: Galio kills Zeri
+      kind: kill
+    - at: 23:55
+      label: Vel'Koz eliminates Cho'Gath
+    - at: 24:15
+      label: Vel'Koz kills Zed
+      kind: kill
+    - at: 24:47
+      label: Red takes Baron
+      kind: baron
+    - at: 26:07
+      label: Ambessa Double Kill
+      kind: kill
 - videoId: X2tcBlTdZjU
   title: Galio Mid vs Zed - TW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1882
+  uploaded: 2026-03-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Take down The Turret
+      kind: tower
+    - at: 19:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Take down The Turret
+      kind: tower
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Take down The Turret
+      kind: tower
+    - at: 26:32
+      label: Take down The Inhibitor
+    - at: 26:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:11
+      label: End credit
 - videoId: bC7u1SfCPas
   title: Galio Mid vs Zed - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1833
   region: KR
+  uploaded: 2026-02-21
 - videoId: KErB5T0p2EE
   title: Galio Mid vs Zed - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1694
   region: KR
+  uploaded: 2025-09-15
 - videoId: UD5Ka_b0iHk
   title: Galio Mid vs Zed - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1787
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:38
+      label: Take down The Turret
+      kind: tower
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:14
+      label: Take down The Turret
+      kind: tower
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Take down The Turret
+      kind: tower
+    - at: 25:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:08
+      label: Take down The Turret
+      kind: tower
+    - at: 29:26
+      label: End credit

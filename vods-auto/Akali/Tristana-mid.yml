@@ -5,9 +5,58 @@
   patch: "26.5"
   durationSec: 1476
   region: EUW
+  uploaded: 2026-03-16
 - videoId: NUMoix609v0
   title: Akali Mid vs Tristana - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1542
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Take down The Turret
+      kind: tower
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: End credit

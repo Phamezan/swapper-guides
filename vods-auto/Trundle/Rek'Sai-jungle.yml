@@ -5,15 +5,86 @@
   patch: "26.7"
   durationSec: 1617
   region: KR
+  uploaded: 2026-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:43
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:06
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:50
+      label: Take down The Turret
+      kind: tower
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:46
+      label: End credit
 - videoId: Yg6RM4yAkmQ
   title: Trundle Jungle vs Rek'Sai - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1532
   region: NA
+  uploaded: 2025-12-31
 - videoId: FW1XKSnE91Q
   title: Trundle Jungle vs Rek'Sai - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1597
   region: KR
+  uploaded: 2025-09-17

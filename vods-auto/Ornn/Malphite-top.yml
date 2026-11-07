@@ -5,9 +5,43 @@
   patch: "26.1"
   durationSec: 1548
   region: KR
+  uploaded: 2026-01-21
 - videoId: c9tgDnfd0wc
   title: Ornn Top vs Malphite - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1457
   region: NA
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Take down The Turret
+      kind: tower
+    - at: 20:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: End credit

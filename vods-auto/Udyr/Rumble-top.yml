@@ -52,9 +52,64 @@
   patch: "25.24"
   durationSec: 1601
   region: KR
+  uploaded: 2025-12-24
 - videoId: 8r5M95gsnH4
   title: Udyr Top vs Rumble - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1597
   region: KR
+  uploaded: 2025-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:45
+      label: Take down The Turret
+      kind: tower
+    - at: 13:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Take down The Turret
+      kind: tower
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Take down The Turret
+      kind: tower
+    - at: 20:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:23
+      label: Take down The Turret
+      kind: tower
+    - at: 23:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:16
+      label: End credit

@@ -6,15 +6,77 @@
   durationSec: 1407
   region: EUW
   player: VIT Fleshy
+  uploaded: 2026-08-04
 - videoId: OKe4H4_kWxU
   title: Blitzcrank Support vs Nautilus - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1566
   region: KR
+  uploaded: 2025-09-15
 - videoId: Lo0YOFGlv0Q
   title: Blitzcrank Support vs Nautilus - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1962
   region: KR
+  uploaded: 2025-04-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Take down The Turret
+      kind: tower
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 21:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:21
+      label: End credit

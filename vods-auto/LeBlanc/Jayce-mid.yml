@@ -5,9 +5,55 @@
   patch: "25.22"
   durationSec: 1241
   region: KR
+  uploaded: 2025-11-13
 - videoId: ahT3Mv29kzQ
   title: LeBlanc Mid vs Jayce - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1477
   region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: End credit

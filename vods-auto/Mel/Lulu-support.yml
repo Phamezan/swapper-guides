@@ -5,15 +5,71 @@
   patch: "26.6"
   durationSec: 1745
   region: NA
+  uploaded: 2026-03-28
 - videoId: RmIcBAFEhDI
   title: Mel Support vs Lulu - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1714
   region: KR
+  uploaded: 2025-04-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:41
+      label: Take down The Turret
+      kind: tower
+    - at: 14:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Take down The Turret
+      kind: tower
+    - at: 20:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:13
+      label: End credit
 - videoId: I6OhevdcOzE
   title: Mel Support vs Lulu - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1867
   region: KR
+  uploaded: 2025-03-30

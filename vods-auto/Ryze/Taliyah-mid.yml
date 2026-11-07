@@ -7,6 +7,7 @@
   region: EUW
   player: Upset
   team: FNC
+  uploaded: 2026-06-01
 - videoId: DTpNChCULgQ
   title: Ryze vs Taliyah MID [ Gen.G Chovy ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -15,18 +16,21 @@
   region: KR
   player: Chovy
   team: Gen.G
+  uploaded: 2025-12-31
 - videoId: kKQgoVfU-L4
   title: Ryze vs Taliyah [ MID ] Korea Challenger 1152 LP | Patch 25.21 ✅
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1399
   region: KR
+  uploaded: 2025-10-31
 - videoId: r0EDno1jvn4
   title: Ryze Mid vs Taliyah - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1975
   region: KR
+  uploaded: 2025-09-01
 - videoId: vD1jmEGPX28
   title: Ryze vs Taliyah MID [ Doinb ] Patch 25.13 Korea Challenger ✅
   rankClaim: Challenger
@@ -34,3 +38,4 @@
   durationSec: 1396
   region: KR
   player: Doinb
+  uploaded: 2025-07-04

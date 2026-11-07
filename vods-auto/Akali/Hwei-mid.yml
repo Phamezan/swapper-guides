@@ -5,9 +5,76 @@
   patch: "25.9"
   durationSec: 2160
   region: KR
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:40
+      label: Take down The Turret
+      kind: tower
+    - at: 18:34
+      label: Take down The Turret
+      kind: tower
+    - at: 19:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 34:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:28
+      label: Take down The Turret
+      kind: tower
+    - at: 35:39
+      label: End credit
 - videoId: k4Vdui_Z6BI
   title: Akali vs Hwei Mid - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2130
   region: KR
+  uploaded: 2025-05-01

@@ -5,3 +5,52 @@
   patch: "26.8"
   durationSec: 1879
   region: KR
+  uploaded: 2026-04-21
+  result: L
+  moments:
+    - at: 1:09
+      label: First Blood — Gangplank kills Shen
+      kind: kill
+    - at: 2:59
+      label: Gangplank catches Shen
+    - at: 10:23
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:56
+      label: Pantheon picks off Senna
+    - at: 13:51
+      label: Vex eliminates Hwei
+    - at: 15:03
+      label: Gangplank takes down Hwei
+    - at: 16:36
+      label: Gangplank Double Kill
+      kind: kill
+    - at: 17:57
+      label: Vex Double Kill
+      kind: kill
+    - at: 18:36
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:54
+      label: Xerath takes down Senna
+    - at: 22:22
+      label: Red takes Baron
+      kind: baron
+    - at: 23:51
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 24:34
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:49
+      label: Gangplank picks off Senna
+    - at: 28:16
+      label: Gangplank kills Rek'Sai
+      kind: kill
+    - at: 29:00
+      label: Gangplank takes down Rengar
+    - at: 29:16
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 30:12
+      label: Mid Inhibitor falls (Blue)

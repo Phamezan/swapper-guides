@@ -6,6 +6,7 @@
   durationSec: 1756
   region: EUW
   player: ANB Theocacs
+  uploaded: 2026-09-01
 - videoId: A7QFddvXRUM
   title: (DK Lucid) Xin Zhao Jungle vs Naafiri (EDG Xiaohao) - KR Challenger Patch 26.15
   rankClaim: Challenger
@@ -14,6 +15,7 @@
   region: KR
   player: Lucid
   team: DK
+  uploaded: 2026-08-13
 - videoId: yEU0ewfKbzE
   title: (USE White) Xin Zhao Jungle vs Naafiri - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
@@ -21,9 +23,11 @@
   durationSec: 1453
   region: EUW
   player: USE White
+  uploaded: 2026-08-01
 - videoId: oSBdEPCcY_Q
   title: XinZhao vs Naafiri Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1500
   region: KR
+  uploaded: 2025-05-01

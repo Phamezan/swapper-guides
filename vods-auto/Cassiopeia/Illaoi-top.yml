@@ -5,3 +5,77 @@
   patch: "26.1"
   durationSec: 1601
   region: EUW
+  uploaded: 2026-01-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Take down The Turret
+      kind: tower
+    - at: 14:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Take down The Turret
+      kind: tower
+    - at: 19:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:32
+      label: Take down The Turret
+      kind: tower
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: Take down The Turret
+      kind: tower
+    - at: 24:55
+      label: Take down The Inhibitor
+    - at: 25:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:44
+      label: Take down The Turret
+      kind: tower
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:09
+      label: Take down The Turret
+      kind: tower
+    - at: 26:30
+      label: End credit

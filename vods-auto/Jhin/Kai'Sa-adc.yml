@@ -129,6 +129,15 @@
       kind: kill
     - at: 29:08
       label: Mid Inhibitor falls (Blue)
+- videoId: ZJzVf_Us7cE
+  title: "Rank 1 Jhin : His Aiming Skill Shot is LEGIT INSANE - Engsub ( vs Aphe, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1786
+  patchEstimated: true
+  player: Aiming
+  uploaded: 2026-10-07
+  format: stream
 - videoId: 8T9g790OdGQ
   title: (Angel) Jhin ADC vs Kai'Sa (NIP Guwon) - KR Challenger Patch 26.19
   rankClaim: Challenger
@@ -182,6 +191,30 @@
     - at: 24:21
       label: Jhin Triple Kill
       kind: kill
+- videoId: yHl9pKNDYEk
+  title: "Rank 1 Jhin : This JHIN BUILD is BREAKING HighElo - Engsub ( vs Kai'sa, Yunara )"
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1710
+  patchEstimated: true
+  uploaded: 2026-09-22
+  format: stream
+- videoId: ln2W_xjxfYU
+  title: "Rank 1 Jhin : Dark Harvest Jhin is Slaughtering Everyone - Engsub ( vs Kai'sa, Yunara )"
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1191
+  patchEstimated: true
+  uploaded: 2026-09-21
+  format: stream
+- videoId: 7FgLRuNAKgo
+  title: "Doggo : His Jhin Had Only Mission, STUN and POKING From A Mile Aways - Engsub ( vs Kai'sa )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 822
+  patchEstimated: true
+  uploaded: 2026-08-28
+  format: stream
 - videoId: byT2iAhDmLg
   title: (JDG GALA) Jhin ADC vs Kai'Sa - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -190,6 +223,15 @@
   region: KR
   player: GALA
   team: JDG
+  uploaded: 2026-08-22
+- videoId: dfYx1vbL8q4
+  title: "HuanFeng : His Jhin Become a MONSTER with this NEW BUILD - Engsub ( Jhin vs Kai'sa, Caitlyn )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1702
+  patchEstimated: true
+  uploaded: 2026-05-21
+  format: stream
 - videoId: MNj_vqrW4Vs
   title: HLE Gumayusi Jhin vs T1 Peyz Kai'Sa [ ADC ] Korea Challenger 2350 LP | Patch 26.7
   rankClaim: Challenger
@@ -212,30 +254,76 @@
   patch: "26.5"
   durationSec: 1830
   region: KR
+  uploaded: 2026-03-08
 - videoId: H-zedSyWUwA
   title: Jhin ADC vs Kai'Sa - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1510
   region: KR
+  uploaded: 2026-01-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Take down The Turret
+      kind: tower
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: End credit
 - videoId: H4oYjMimXVM
   title: Jhin vs Kai'Sa ADC - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 2161
   region: KR
+  uploaded: 2025-11-12
 - videoId: l1MR3qPhHaA
   title: Jhin vs Kai'Sa ADC - KR Challenger - Patch 25.15 Season 15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1876
   region: KR
+  uploaded: 2025-08-04
 - videoId: VFOe-xhRBNk
   title: Jhin vs Kai'Sa ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1606
   region: KR
+  uploaded: 2025-07-11
 - videoId: WYHn3en-Jwk
   title: Jhin vs Kaisa ADC [ JDG Peyz ] Patch 25.13 Korea Challenger ✅
   rankClaim: Challenger
@@ -244,6 +332,7 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-07-11
 - videoId: mrKoYu32R6I
   title: T1 Gumayusi Jhin ADC vs Kaisa - Patch 25.9 Korea Master
   rankClaim: Master
@@ -252,12 +341,67 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-04
 - videoId: BWHEU_U4CG8
   title: Jhin ADC vs Kai'Sa - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1698
   region: KR
+  uploaded: 2025-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:13
+      label: Take down The Turret
+      kind: tower
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Take down The Turret
+      kind: tower
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Take down The Turret
+      kind: tower
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Take down The Turret
+      kind: tower
+    - at: 27:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:57
+      label: End credit
 - videoId: pOb7B7j-9m4
   title: T1 Gumayusi Jhin ADC vs Kaisa - Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -266,3 +410,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-30

@@ -7,6 +7,7 @@
   region: KR
   player: BuLLDoG
   team: EDG
+  uploaded: 2026-08-15
 - videoId: wVfgsDZ40Dg
   title: Ryze vs Vladimir Mid - KR Grandmaster - Patch 16.11 Season 16
   rankClaim: Grandmaster
@@ -20,9 +21,61 @@
   patch: "25.10"
   durationSec: 1713
   region: KR
+  uploaded: 2025-05-20
 - videoId: pTr-4L_Qa_Q
   title: Ryze Mid vs Vladimir - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1798
   region: KR
+  uploaded: 2025-05-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Take down The Turret
+      kind: tower
+    - at: 15:27
+      label: Take down The Turret
+      kind: tower
+    - at: 17:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:09
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:37
+      label: End credit

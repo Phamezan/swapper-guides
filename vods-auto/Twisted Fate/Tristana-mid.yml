@@ -5,8 +5,70 @@
   patch: "26.2"
   durationSec: 1553
   region: KR
+  uploaded: 2026-01-25
 - videoId: JGVMSYWEWek
   title: Twisted Fate Mid vs Tristana - TW Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1846
+  uploaded: 2025-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Take down The Turret
+      kind: tower
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Take down The Turret
+      kind: tower
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Hunt The Atakhan
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Take down The Turret
+      kind: tower
+    - at: 24:24
+      label: Take down The Inhibitor
+    - at: 25:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:00
+      label: Take down The Turret
+      kind: tower
+    - at: 30:25
+      label: End credit

@@ -5,9 +5,64 @@
   patch: "26.5"
   durationSec: 1764
   region: EUW
+  uploaded: 2026-03-19
 - videoId: Nm9Fo-Txu8Q
   title: Sejuani Jungle vs Jarvan IV - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1770
   region: KR
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:08
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:10
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:29
+      label: Take down The Turret
+      kind: tower
+    - at: 27:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:19
+      label: End credit

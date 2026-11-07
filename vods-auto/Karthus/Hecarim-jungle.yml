@@ -5,9 +5,57 @@
   patch: "26.16"
   durationSec: 1611
   region: KR
+  uploaded: 2026-08-28
 - videoId: jGw_HFxVAI0
   title: Karthus Jungle vs Hecarim - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1456
   region: KR
+  uploaded: 2025-12-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:09
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:59
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:31
+      label: Take down The Turret
+      kind: tower
+    - at: 17:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Hunt The Atakhan
+    - at: 23:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: End credit

@@ -7,21 +7,25 @@
   region: KR
   player: Doran
   team: T1
-- videoId: o5V2CCEwv0k
-  title: Zaahen vs Darius Top - KR Challenger - Patch 25.24 Season 15
-  rankClaim: Challenger
-  patch: "25.24"
-  durationSec: 1381
-  region: KR
+  uploaded: 2026-01-09
 - videoId: 8egkBH51H_k
   title: Zaahen vs Darius [ TOP ] Korea Grandmaster 1074 LP | Patch 25.24 ✅
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1731
   region: KR
+  uploaded: 2025-12-24
+- videoId: o5V2CCEwv0k
+  title: Zaahen vs Darius Top - KR Challenger - Patch 25.24 Season 15
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1381
+  region: KR
+  uploaded: 2025-12-17
 - videoId: SDf7FUQH7Vg
   title: Zaahen vs Darius Top - KR Grandmaster - Patch 25.23 Season 15
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1591
   region: KR
+  uploaded: 2025-11-28

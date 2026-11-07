@@ -5,6 +5,63 @@
   patch: "26.3"
   durationSec: 1542
   region: EUW
+  uploaded: 2026-02-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:20
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Take down The Turret
+      kind: tower
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Take down The Turret
+      kind: tower
+    - at: 25:31
+      label: End credit
 - videoId: Rp5JYnIrhU8
   title: T1 Faker Renekton vs Zaahen [ TOP ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -13,9 +70,11 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-04
 - videoId: uXPsCNAqsGY
   title: Renekton vs Zaahen [ TOP ] Lol Korea Master Patch 25.23 ✅
   rankClaim: Master
   patch: "25.23"
   durationSec: 1562
   region: KR
+  uploaded: 2025-11-30

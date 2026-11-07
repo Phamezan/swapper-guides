@@ -5,27 +5,32 @@
   patch: "25.22"
   durationSec: 2011
   region: KR
+  uploaded: 2025-11-13
 - videoId: cztE7ueU50E
   title: Pantheon vs Vi [ Jungle ] Patch 25.22 Korea Challenger 1526 LP
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1435
   region: KR
-- videoId: 7fPRauFVw_I
-  title: Pantheon Jungle vs Vi - KR Challenger Patch 25.09
-  rankClaim: Challenger
-  patch: "25.9"
-  durationSec: 1581
-  region: KR
+  uploaded: 2025-11-12
 - videoId: m8K14-4xqYY
   title: Pantheon vs Vi Jungle - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1456
   region: KR
+  uploaded: 2025-05-09
+- videoId: 7fPRauFVw_I
+  title: Pantheon Jungle vs Vi - KR Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1581
+  region: KR
+  uploaded: 2025-05-03
 - videoId: jyTPxq1mQCc
   title: Pantheon Jungle vs Vi - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1599
   region: KR
+  uploaded: 2025-03-07

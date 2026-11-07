@@ -5,12 +5,72 @@
   patch: "26.13"
   durationSec: 1816
   region: KR
+  uploaded: 2026-07-04
 - videoId: 8Esb-4Ju_WA
   title: Darius Jungle vs Lee Sin - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1613
   region: KR
+  uploaded: 2025-12-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:46
+      label: Take down The Turret
+      kind: tower
+    - at: 15:08
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:31
+      label: Take down The Turret
+      kind: tower
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Take down The Inhibitor
+    - at: 26:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: End credit
 - videoId: 2ASO_lCDBWA
   title: Darius vs Lee Sin Jungle [ KT Cuzz ] Korea Grandmaster Patch 25.5 ✅
   rankClaim: Grandmaster
@@ -19,9 +79,11 @@
   region: KR
   player: Cuzz
   team: KT
+  uploaded: 2025-03-12
 - videoId: M23DtOrhLJw
   title: Darius Jungle vs Lee Sin - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2152
   region: KR
+  uploaded: 2025-02-27

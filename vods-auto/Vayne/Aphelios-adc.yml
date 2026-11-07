@@ -5,12 +5,14 @@
   patch: "25.18"
   durationSec: 1179
   region: KR
+  uploaded: 2025-09-15
 - videoId: auC6CIsab5o
   title: Vayne ADC vs Aphelios - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1421
   region: KR
+  uploaded: 2025-06-17
 - videoId: d1x96AbtNn4
   title: T1 Gumayusi Vayne vs Aphelios [ ADC ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -19,3 +21,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-03

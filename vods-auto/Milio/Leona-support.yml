@@ -5,15 +5,64 @@
   patch: "26.4"
   durationSec: 1557
   region: KR
+  uploaded: 2026-03-05
 - videoId: Gul9pC5CrUI
   title: Milio Support vs Leona - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1583
   region: NA
+  uploaded: 2026-01-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:24
+      label: Take down The Turret
+      kind: tower
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Take down The Turret
+      kind: tower
+    - at: 18:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Take down The Turret
+      kind: tower
+    - at: 24:47
+      label: Take down The Inhibitor
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:00
+      label: Take down The Turret
+      kind: tower
+    - at: 26:12
+      label: End credit
 - videoId: VmrxoCKF0bI
   title: Milio Support vs Leona - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1809
   region: KR
+  uploaded: 2025-06-16

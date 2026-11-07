@@ -5,9 +5,127 @@
   patch: "25.8"
   durationSec: 1688
   region: NA
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:09
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Hunt The Atakhan
+    - at: 26:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:21
+      label: Take down The Turret
+      kind: tower
+    - at: 27:32
+      label: Take down The Inhibitor
+    - at: 27:47
+      label: End credit
 - videoId: 6lSAjeMfoYE
   title: Rammus Jungle vs Viego - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1792
   region: KR
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:32
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Take down The Turret
+      kind: tower
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Take down The Inhibitor
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Hunt The Atakhan
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Take down The Turret
+      kind: tower
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:11
+      label: Take down The Inhibitor
+    - at: 29:31
+      label: End credit

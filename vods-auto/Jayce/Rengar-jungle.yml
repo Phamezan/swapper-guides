@@ -5,3 +5,77 @@
   patch: "26.1"
   durationSec: 1485
   region: KR
+  uploaded: 2026-01-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:04
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:20
+      label: Take down The Turret
+      kind: tower
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Take down The Turret
+      kind: tower
+    - at: 22:36
+      label: Take down The Inhibitor
+    - at: 23:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: Take down The Turret
+      kind: tower
+    - at: 24:34
+      label: End credit

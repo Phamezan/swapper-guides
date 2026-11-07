@@ -5,15 +5,148 @@
   patch: "26.7"
   durationSec: 1489
   region: KR
+  uploaded: 2026-04-16
+  result: L
+  moments:
+    - at: 2:15
+      label: First Blood — Ashe kills Pantheon
+      kind: kill
+    - at: 4:04
+      label: Pyke eliminates Bard
+    - at: 5:06
+      label: Xin Zhao picks off Ryze
+    - at: 6:52
+      label: Orianna eliminates Ryze
+    - at: 7:22
+      label: Quinn eliminates Gnar
+    - at: 8:47
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:35
+      label: Ashe picks off Bard
+    - at: 11:27
+      label: Pyke kills Pantheon
+      kind: kill
+    - at: 12:47
+      label: Xin Zhao kills Bard
+      kind: kill
+    - at: 15:58
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 16:43
+      label: Pyke eliminates Bard
+    - at: 18:02
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:43
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:15
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:18
+      label: Orianna takes down Gnar
+    - at: 23:07
+      label: Orianna picks off Pantheon
+    - at: 23:23
+      label: Red takes Baron
+      kind: baron
 - videoId: 1AJm23_4tVI
   title: Pyke Support vs Bard - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1516
   region: EUW
+  uploaded: 2026-01-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:05
+      label: End credit
 - videoId: szmqaOm-gyg
   title: Pyke Support vs Bard - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1561
   region: KR
+  uploaded: 2025-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Take down The Turret
+      kind: tower
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:40
+      label: End credit

@@ -5,3 +5,86 @@
   patch: "25.5"
   durationSec: 1802
   region: EUW
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:41
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:08
+      label: Take down The Turret
+      kind: tower
+    - at: 17:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Take down The Turret
+      kind: tower
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:29
+      label: Hunt The Atakhan
+    - at: 20:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:03
+      label: Get a Triple Kill
+      kind: kill
+    - at: 29:41
+      label: End credit

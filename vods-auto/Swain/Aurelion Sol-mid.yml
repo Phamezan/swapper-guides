@@ -4,8 +4,66 @@
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1698
+  uploaded: 2025-06-27
 - videoId: I5NSt7scB9k
   title: Swain Mid vs Aurelion Sol - VN Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1521
+  uploaded: 2025-04-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:00
+      label: Take down The Turret
+      kind: tower
+    - at: 17:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:57
+      label: Take down The Turret
+      kind: tower
+    - at: 19:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Take down The Turret
+      kind: tower
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: End credit

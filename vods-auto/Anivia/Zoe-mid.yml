@@ -5,9 +5,59 @@
   patch: "26.19"
   durationSec: 1892
   region: NA
+  uploaded: 2026-10-02
+  result: W
+  moments:
+    - at: 3:07
+      label: First Blood — Singed kills Zoe
+      kind: kill
+    - at: 6:06
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:45
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 12:51
+      label: Anivia picks off Lee Sin
+    - at: 14:28
+      label: Anivia Double Kill
+      kind: kill
+    - at: 16:17
+      label: Blitzcrank eliminates Neeko
+    - at: 16:58
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 18:14
+      label: Anivia takes down Garen
+    - at: 18:38
+      label: Anivia eliminates Zoe
+    - at: 20:22
+      label: Anivia kills Viktor
+      kind: kill
+    - at: 21:54
+      label: Jhin takes down Viktor
+    - at: 22:57
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:18
+      label: Jhin eliminates Lee Sin
+    - at: 26:53
+      label: Red takes Baron
+      kind: baron
+    - at: 27:06
+      label: Anivia takes down Zoe
+    - at: 28:40
+      label: Red takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 29:48
+      label: Mid Inhibitor falls (Blue)
+    - at: 30:33
+      label: Jhin kills Zoe
+      kind: kill
 - videoId: TcoP3lYAp_c
   title: Anivia Mid vs Zoe - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1731
   region: KR
+  uploaded: 2026-03-17

@@ -7,15 +7,17 @@
   region: KR
   player: QuadraKill
   uploaded: 2026-08-22
-- videoId: KH6bcX9hd8k
-  title: Viego vs Jax Jungle - KR Challenger - Patch 16.03 Season 16
-  rankClaim: Challenger
-  patch: "26.3"
-  durationSec: 2206
-  region: KR
 - videoId: 4samOrIj8v0
   title: Viego vs Jax [ Jungle ] Korea Challenger 1707 LP | Patch 26.3
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 2076
   region: KR
+  uploaded: 2026-02-16
+- videoId: KH6bcX9hd8k
+  title: Viego vs Jax Jungle - KR Challenger - Patch 16.03 Season 16
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 2206
+  region: KR
+  uploaded: 2026-02-12

@@ -5,9 +5,78 @@
   patch: "25.6"
   durationSec: 1993
   region: NA
+  uploaded: 2025-04-02
 - videoId: HaoR8snB9GA
   title: Rengar Jungle vs Briar - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1842
   region: KR
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Take down The Turret
+      kind: tower
+    - at: 13:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:34
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 18:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:38
+      label: Take down The Inhibitor
+    - at: 30:21
+      label: End credit

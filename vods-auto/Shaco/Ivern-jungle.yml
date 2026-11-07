@@ -6,6 +6,7 @@
   durationSec: 1752
   region: EUW
   player: FSK Syzyfek
+  uploaded: 2026-08-16
 - videoId: 0HGgK8PIS0c
   title: Shaco vs Ivern 7/0/20 (Jungle) | EUW Master | Shaco OTP Replay
   rankClaim: Master
@@ -20,21 +21,86 @@
   patch: "26.9"
   durationSec: 1801
   region: EUW
+  uploaded: 2026-05-11
 - videoId: kp9pGKywqs4
   title: Shaco Jungle vs Ivern - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1442
   region: KR
+  uploaded: 2025-12-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:53
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Take down The Turret
+      kind: tower
+    - at: 15:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:42
+      label: Hunt The Atakhan
+    - at: 21:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:51
+      label: End credit
 - videoId: aZb5af7SUA0
   title: Shaco Jungle vs Ivern - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 2022
   region: KR
+  uploaded: 2025-08-19
 - videoId: UgZWQCwimSE
   title: Shaco Jungle vs Ivern - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1734
   region: KR
+  uploaded: 2025-07-03

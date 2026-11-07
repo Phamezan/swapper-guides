@@ -5,15 +5,73 @@
   patch: "25.24"
   durationSec: 1495
   region: EUW
+  uploaded: 2026-01-01
 - videoId: lbbdkXuewkI
   title: Teemo Jungle vs Zed - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1775
   region: KR
+  uploaded: 2025-04-28
 - videoId: ZCi1cNUWWsY
   title: Teemo Jungle vs Zed - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1591
   region: NA
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:59
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:00
+      label: Hunt The Atakhan
+    - at: 22:32
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Take down The Turret
+      kind: tower
+    - at: 25:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:10
+      label: End credit

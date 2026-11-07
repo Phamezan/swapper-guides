@@ -5,27 +5,76 @@
   patch: "26.16"
   durationSec: 1657
   region: KR
+  uploaded: 2026-08-27
 - videoId: 0op1FowFtq4
   title: Urgot Top vs Ambessa - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1549
   region: KR
+  uploaded: 2026-01-30
 - videoId: xJNd3K2PrN8
   title: Urgot Top vs Ambessa - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1452
   region: NA
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:20
+      label: Take down The Turret
+      kind: tower
+    - at: 15:00
+      label: Take down The Turret
+      kind: tower
+    - at: 16:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: End credit
 - videoId: xkUP6rSpP5I
   title: Urgot Top vs Ambessa - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1956
   region: KR
+  uploaded: 2025-08-21
 - videoId: FpbENpzvbus
   title: Urgot vs Ambessa Top - EUW Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1716
   region: EUW
+  uploaded: 2025-08-16

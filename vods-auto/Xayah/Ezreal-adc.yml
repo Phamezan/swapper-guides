@@ -16,6 +16,7 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2026-06-26
 - videoId: c0-7p3Orf70
   title: Xayah vs Ezreal ADC [ NS Diable ] Korea Master 745 | Patch 26.11
   rankClaim: Master
@@ -42,6 +43,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-03-24
 - videoId: 8aKn729KArs
   title: HLE Gumayusi Xayah vs Ezreal [ ADC ] Korea Challenger 1910 LP | Patch 26.5
   rankClaim: Challenger
@@ -50,12 +52,14 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-03-14
 - videoId: 9jRRT_LCfko
   title: Xayah ADC vs Ezreal - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1616
   region: KR
+  uploaded: 2026-02-20
 - videoId: sD8IlA2wbKw
   title: T1 Smash Xayah vs Ezreal [ ADC ] Korea Challenger 1491 LP | Patch 25.20
   rankClaim: Challenger
@@ -64,18 +68,21 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-10-09
 - videoId: A-b1GE5jzR0
   title: Xayah ADC vs Ezreal - EUW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1483
   region: EUW
+  uploaded: 2025-08-14
 - videoId: azwYPQMzBr8
   title: Xayah ADC vs Ezreal - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 2098
   region: KR
+  uploaded: 2025-07-16
 - videoId: 5c7DN6W541k
   title: T1 Gumayusi Xayah vs Ezreal [ ADC ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -84,9 +91,58 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-04
 - videoId: EwIN-TQvK3A
   title: Xayah ADC vs Ezreal - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1804
   region: KR
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Get a Triple Kill
+      kind: kill
+    - at: 15:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Take down The Turret
+      kind: tower
+    - at: 22:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:44
+      label: Take down The Turret
+      kind: tower
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:57
+      label: Take down The Turret
+      kind: tower
+    - at: 28:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:43
+      label: End credit

@@ -5,3 +5,42 @@
   patch: "25.24"
   durationSec: 1584
   region: KR
+  uploaded: 2025-12-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: End credit

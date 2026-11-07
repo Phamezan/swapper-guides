@@ -60,8 +60,62 @@
   patch: "25.20"
   durationSec: 1861
   region: EUW
+  uploaded: 2025-10-11
 - videoId: UO4Yh6KSJ9s
   title: Zed Mid vs Kayle - BR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1887
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:47
+      label: Take down The Turret
+      kind: tower
+    - at: 18:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 25:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: Take down The Turret
+      kind: tower
+    - at: 27:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: Take down The Inhibitor
+    - at: 30:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:49
+      label: Take down The Turret
+      kind: tower
+    - at: 31:06
+      label: End credit

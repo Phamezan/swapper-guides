@@ -5,6 +5,7 @@
   patch: "26.15"
   durationSec: 1582
   region: KR
+  uploaded: 2026-08-12
 - videoId: N505H0xMoKM
   title: (Aeon) Smolder ADC vs Ezreal (GLSH Dream) - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -12,12 +13,14 @@
   durationSec: 1568
   region: EUW
   player: Aeon
+  uploaded: 2026-07-22
 - videoId: 2CLIHJTLxu4
   title: Smolder ADC vs Ezreal (OLE Flakked) - EUW Challenger Patch 26.13
   rankClaim: Challenger
   patch: "26.13"
   durationSec: 1878
   region: EUW
+  uploaded: 2026-07-02
 - videoId: JHRiJOU934U
   title: Smolder vs Ezreal ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
@@ -31,6 +34,7 @@
   patch: "25.23"
   durationSec: 1951
   region: KR
+  uploaded: 2025-11-28
 - videoId: PRg68IiPAYY
   title: DK Smash Smolder vs Ezreal [ ADC ] Korea Challenger 1895 LP | Patch 25.23
   rankClaim: Challenger
@@ -39,9 +43,11 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2025-11-26
 - videoId: nTSoktgw0nc
   title: Smolder vs Ezreal ADC - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1531
   region: KR
+  uploaded: 2025-06-10

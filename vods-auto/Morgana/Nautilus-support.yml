@@ -5,15 +5,93 @@
   patch: "26.1"
   durationSec: 1499
   region: KR
+  uploaded: 2026-01-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:53
+      label: Take down The Turret
+      kind: tower
+    - at: 21:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Take down The Inhibitor
+    - at: 24:48
+      label: End credit
 - videoId: CptfVBuSVJI
   title: Morgana Support vs Nautilus - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1648
   region: KR
+  uploaded: 2025-10-26
 - videoId: GKTcih1oQek
   title: Morgana Support vs Nautilus - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1772
   region: KR
+  uploaded: 2025-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:11
+      label: End credit

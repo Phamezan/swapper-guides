@@ -5,3 +5,59 @@
   patch: "25.6"
   durationSec: 1528
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Take down The Turret
+      kind: tower
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 18:27
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Take down The Turret
+      kind: tower
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:04
+      label: Take down The Turret
+      kind: tower
+    - at: 23:15
+      label: Take down The Inhibitor
+    - at: 23:25
+      label: Take down The Turret
+      kind: tower
+    - at: 24:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: End credit

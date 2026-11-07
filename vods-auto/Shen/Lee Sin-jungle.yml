@@ -5,9 +5,72 @@
   patch: "26.7"
   durationSec: 1554
   region: KR
+  uploaded: 2026-04-13
 - videoId: tz84tbs4gK8
   title: Shen Jungle vs Lee Sin - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1770
   region: KR
+  uploaded: 2025-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:01
+      label: Take down The Turret
+      kind: tower
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:29
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:08
+      label: Take down The Turret
+      kind: tower
+    - at: 27:19
+      label: Take down The Inhibitor
+    - at: 27:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: End credit

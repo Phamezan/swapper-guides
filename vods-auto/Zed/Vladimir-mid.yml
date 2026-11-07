@@ -165,6 +165,7 @@
   patch: "26.18"
   durationSec: 1772
   region: KR
+  uploaded: 2026-09-17
 - videoId: Uwqi073Cx3I
   title: Zed Mid vs Vladimir - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
@@ -395,20 +396,71 @@
   durationSec: 1786
   region: KR
   player: OnZed
+  uploaded: 2025-06-01
 - videoId: 4_q8oqvzpVo
   title: Zed Mid vs Vladimir - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1488
   region: KR
+  uploaded: 2025-05-25
 - videoId: zsWYNQXL5mU
   title: Zed Mid vs Vladimir - TW Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1967
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Take down The Turret
+      kind: tower
+    - at: 17:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:26
+      label: End credit
 - videoId: S85M2rBUn1A
   title: Zed vs Vladimir Mid - KR Grandmaster - Patch 15.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 2401
   region: KR
+  uploaded: 2025-02-26

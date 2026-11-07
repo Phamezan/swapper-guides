@@ -5,21 +5,80 @@
   patch: "26.5"
   durationSec: 1510
   region: KR
+  uploaded: 2026-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:24
+      label: Take down The Turret
+      kind: tower
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Take down The Turret
+      kind: tower
+    - at: 19:39
+      label: Take down The Turret
+      kind: tower
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Take down The Turret
+      kind: tower
+    - at: 23:12
+      label: Take down The Inhibitor
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: Take down The Turret
+      kind: tower
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: End credit
 - videoId: HgMQExS5Rew
   title: Smolder vs Ashe [ ADC ] Lol Korea Master Patch 25.22 ✅
   rankClaim: Master
   patch: "25.22"
   durationSec: 1423
   region: KR
+  uploaded: 2025-11-12
 - videoId: cm2LjnBbhvs
   title: Smolder ADC vs Ashe - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1908
   region: KR
+  uploaded: 2025-10-15
 - videoId: Y1wRKiyJMqw
   title: Smolder ADC vs Ashe - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1700
   region: KR
+  uploaded: 2025-10-01

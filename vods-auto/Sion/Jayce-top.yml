@@ -5,33 +5,152 @@
   patch: "26.5"
   durationSec: 1653
   region: KR
+  uploaded: 2026-03-17
 - videoId: 6pwVpfEjLjY
   title: Sion Top vs Jayce - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1693
   region: KR
+  uploaded: 2026-03-08
 - videoId: DtAHNfBSTNw
   title: Sion Top vs Jayce - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1606
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Take down The Turret
+      kind: tower
+    - at: 15:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:42
+      label: Take down The Turret
+      kind: tower
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:33
+      label: Take down The Turret
+      kind: tower
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:16
+      label: Take down The Inhibitor
+    - at: 26:35
+      label: End credit
 - videoId: V_zIZTrfEDo
   title: Sion Top vs Jayce - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1688
   region: KR
+  uploaded: 2025-08-03
 - videoId: nmpoZjF5Uw0
   title: Sion Top vs Jayce - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1594
   region: KR
+  uploaded: 2025-07-20
 - videoId: vh6MHCxfWi4
   title: Sion Top vs Jayce - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1705
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 15:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:06
+      label: Take down The Turret
+      kind: tower
+    - at: 17:56
+      label: Take down The Turret
+      kind: tower
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Take down The Turret
+      kind: tower
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Take down The Turret
+      kind: tower
+    - at: 24:23
+      label: Take down The Inhibitor
+    - at: 26:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:04
+      label: End credit

@@ -6,12 +6,6 @@
   durationSec: 1351
   region: KR
   uploaded: 2026-04-02
-- videoId: ToBPH4Srj44
-  title: Varus ADC vs Draven - KR Challenger Patch 25.05
-  rankClaim: Challenger
-  patch: "25.5"
-  durationSec: 1776
-  region: KR
 - videoId: gbpFKNhUIDY
   title: Varus vs Draven ADC [ JDG Peyz ] Patch 25.5 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -20,3 +14,63 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-03-10
+- videoId: ToBPH4Srj44
+  title: Varus ADC vs Draven - KR Challenger Patch 25.05
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 1776
+  region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:50
+      label: Take down The Turret
+      kind: tower
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:41
+      label: Take down The Inhibitor
+    - at: 29:15
+      label: End credit

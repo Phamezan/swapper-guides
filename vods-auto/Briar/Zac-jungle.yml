@@ -5,12 +5,74 @@
   patch: "25.24"
   durationSec: 1610
   region: KR
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:00
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:29
+      label: Hunt The Atakhan
+    - at: 20:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Take down The Turret
+      kind: tower
+    - at: 23:03
+      label: Take down The Inhibitor
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:57
+      label: Take down The Turret
+      kind: tower
+    - at: 26:39
+      label: End credit
 - videoId: ogW723yeEnQ
   title: Briar Jungle vs Zac - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1708
   region: KR
+  uploaded: 2025-11-13
 - videoId: GoAValRT1Rc
   title: Briar vs Zac Jungle [ 56% Win Rate ] Patch 25.12 Korea Master ✅
   rankClaim: Master
@@ -18,3 +80,4 @@
   durationSec: 1469
   region: KR
   player: 56% Win Rate
+  uploaded: 2025-06-17

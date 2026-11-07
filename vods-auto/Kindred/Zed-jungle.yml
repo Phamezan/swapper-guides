@@ -5,15 +5,68 @@
   patch: "26.17"
   durationSec: 1531
   region: KR
+  uploaded: 2026-08-29
+  result: W
+  moments:
+    - at: 2:31
+      label: First Blood — Kindred kills Yunara
+      kind: kill
+    - at: 8:56
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 10:43
+      label: Jhin picks off Shen
+    - at: 11:27
+      label: Kindred eliminates Yunara
+    - at: 13:11
+      label: Kindred kills Jayce
+      kind: kill
+    - at: 13:53
+      label: Kindred picks off Hwei
+    - at: 14:20
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 15:53
+      label: Malphite kills Zed
+      kind: kill
+    - at: 17:46
+      label: Kindred eliminates Yunara
+    - at: 18:47
+      label: Kindred kills Jayce
+      kind: kill
+    - at: 19:50
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 20:23
+      label: Kindred kills Shen
+      kind: kill
+    - at: 20:50
+      label: Kindred kills Jayce
+      kind: kill
+    - at: 21:09
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:19
+      label: Kindred eliminates Yunara
+    - at: 22:40
+      label: Kindred kills Jayce
+      kind: kill
+    - at: 23:06
+      label: Jhin picks off Shen
+    - at: 24:37
+      label: Kindred Double Kill
+      kind: kill
 - videoId: r_u1rPzMEuE
   title: Kindred Jungle vs Zed - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1804
   region: KR
+  uploaded: 2025-11-22
 - videoId: vGELNqkVkVg
   title: Kindred Jungle vs Zed - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1899
   region: KR
+  uploaded: 2025-09-04

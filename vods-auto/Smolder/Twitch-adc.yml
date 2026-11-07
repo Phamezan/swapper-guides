@@ -5,15 +5,18 @@
   patch: "25.23"
   durationSec: 1679
   region: KR
-- videoId: qrT8soSEfvk
-  title: Smolder ADC vs Twitch - KR Challenger Patch 25.11
-  rankClaim: Challenger
-  patch: "25.11"
-  durationSec: 1503
-  region: KR
+  uploaded: 2025-11-25
 - videoId: CORuf0_JLPM
   title: Smolder vs Twitch ADC - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1921
   region: KR
+  uploaded: 2025-06-09
+- videoId: qrT8soSEfvk
+  title: Smolder ADC vs Twitch - KR Challenger Patch 25.11
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1503
+  region: KR
+  uploaded: 2025-06-01

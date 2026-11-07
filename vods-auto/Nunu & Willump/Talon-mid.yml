@@ -5,3 +5,53 @@
   patch: "26.7"
   durationSec: 1547
   region: KR
+  uploaded: 2026-04-17
+  result: L
+  moments:
+    - at: 2:21
+      label: First Blood — Nunu & Willump kills Talon
+      kind: kill
+    - at: 5:36
+      label: Lee Sin picks off Talon
+    - at: 7:08
+      label: Lee Sin takes down Evelynn
+    - at: 8:16
+      label: Lee Sin kills Irelia
+      kind: kill
+    - at: 11:10
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:41
+      label: Nunu & Willump eliminates Talon
+    - at: 15:21
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:32
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:31
+      label: Jinx picks off Rakan
+    - at: 19:25
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:12
+      label: Nunu & Willump kills Xayah
+      kind: kill
+    - at: 20:58
+      label: Red takes Baron
+      kind: baron
+    - at: 21:54
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 22:10
+      label: Nunu & Willump eliminates Talon
+    - at: 22:27
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:52
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:07
+      label: Lee Sin Double Kill
+      kind: kill
+    - at: 24:24
+      label: Team fight (3 kills)
+      kind: teamfight

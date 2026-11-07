@@ -58,21 +58,140 @@
   patch: "26.8"
   durationSec: 1465
   region: EUW
+  uploaded: 2026-04-20
+  result: L
+  moments:
+    - at: 9:39
+      label: First Blood — Nocturne kills Seraphine
+      kind: kill
+    - at: 9:54
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:16
+      label: Pyke kills Lee Sin
+      kind: kill
+    - at: 12:39
+      label: Nocturne eliminates Senna
+    - at: 14:12
+      label: Nocturne takes down Lee Sin
+    - at: 14:42
+      label: Nocturne kills Seraphine
+      kind: kill
+    - at: 15:24
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 15:53
+      label: Nocturne takes down Lee Sin
+    - at: 17:10
+      label: Nocturne Double Kill
+      kind: kill
+    - at: 17:47
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:44
+      label: Yunara eliminates Lee Sin
+    - at: 19:51
+      label: Nocturne solo kills Ahri
+      kind: kill
+    - at: 20:27
+      label: Red takes Baron
+      kind: baron
+    - at: 21:56
+      label: Pyke eliminates Shen
+    - at: 22:26
+      label: Bot Inhibitor falls (Blue)
+    - at: 22:40
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:15
+      label: Yunara picks off Seraphine
+    - at: 23:34
+      label: Top Inhibitor falls (Blue)
 - videoId: yVdJlAFaXtg
   title: Nocturne Jungle vs Lee Sin - EUW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1754
   region: EUW
+  uploaded: 2026-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Take down The Turret
+      kind: tower
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Take down The Turret
+      kind: tower
+    - at: 25:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:33
+      label: Take down The Inhibitor
+    - at: 26:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:14
+      label: Take down The Turret
+      kind: tower
+    - at: 29:03
+      label: End credit
 - videoId: yRnJrFTT8ns
   title: Nocturne Jungle vs Lee Sin - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1617
   region: KR
+  uploaded: 2025-12-10
 - videoId: K5JiQu5XBaI
   title: Nocturne Jungle vs Lee Sin - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1658
   region: KR
+  uploaded: 2025-07-01

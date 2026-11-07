@@ -5,21 +5,93 @@
   patch: "26.9"
   durationSec: 1840
   region: KR
+  uploaded: 2026-05-09
 - videoId: SRmK_F9gfes
   title: Talon Jungle vs Karthus - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1545
   region: KR
+  uploaded: 2026-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:20
+      label: Take down The Turret
+      kind: tower
+    - at: 16:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:17
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:34
+      label: End credit
 - videoId: 4uH4mQ4_Gg0
   title: Talon vs Karthus Jungle - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2250
   region: KR
+  uploaded: 2025-11-03
 - videoId: laLpn-2vL2Q
   title: Talon vs Karthus Jungle - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1681
   region: KR
+  uploaded: 2025-10-13

@@ -6,6 +6,33 @@
   durationSec: 1649
   region: KR
   uploaded: 2026-09-29
+- videoId: SNv8uI_FxlY
+  title: 🛑 XiaoMing Aatrox vs Jayce (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1903
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-07-09
+  format: stream
+- videoId: vBxgjQphBQI
+  title: 🛑 XiaoMing Aatrox vs Jayce (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1739
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-07-08
+  format: stream
+- videoId: ZBWV6_XIFw8
+  title: 🛑 XiaoMing Aatrox vs Jayce - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1634
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-07-06
+  format: stream
 - videoId: vCaJct2e1Jk
   title: (CFO Rest) Aatrox Top vs Jayce - KR Master Patch 26.12
   rankClaim: Master
@@ -13,50 +40,95 @@
   durationSec: 1662
   region: KR
   player: CFO Rest
+  uploaded: 2026-06-26
+- videoId: hIUk-k_Ag14
+  title: 🛑 XiaoMing Aatrox vs Jayce - Carried by Team - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1076
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-06-02
+  format: stream
+- videoId: Ze-3JmWmN50
+  title: 🛑 XiaoMing Aatrox vs Jayce - PERFECT LANING GUIDE - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1372
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-05-17
+  format: stream
+- videoId: IdM0KNME7Po
+  title: 🛑 XiaoMing Aatrox vs Jayce (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.2"
+  durationSec: 1001
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-02-01
+  format: stream
+- videoId: Bg4h4zVyLlI
+  title: 🛑 XiaoMing Aatrox vs Jayce (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.2"
+  durationSec: 1057
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-01-30
+  format: stream
 - videoId: geS7cnvI2Ac
   title: AATROX vs JAYCE (TOP) | 6/0/0, Dominating | EUW Grandmaster | 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 842
   region: EUW
+  uploaded: 2025-07-19
 - videoId: sV4wtugmP98
   title: AATROX vs JAYCE (TOP) | 13/0/2, Quadra, Legendary | KR Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1301
   region: KR
+  uploaded: 2025-07-17
 - videoId: AGn_vknepQE
   title: AATROX vs JAYCE (TOP) | Rank 7 Aatrox, 6 solo kills, 15/3/7, Dominating | EUW Challenger | 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 2276
   region: EUW
+  uploaded: 2025-07-10
 - videoId: A1OhC58DIsU
   title: AATROX vs JAYCE (TOP) | 9 solo kills, Dominating, 41k DMG, Rank 11 Aatrox | JP Challenger | 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1905
+  uploaded: 2025-06-26
 - videoId: IJ4woXZUwpg
   title: Aatrox Top vs Jayce - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1499
   region: KR
+  uploaded: 2025-06-16
 - videoId: kG44EbshyNo
   title: AATROX vs JAYCE (TOP) | 9/0/0, 6 solo kills, Legendary | EUW Master | 25.9
   rankClaim: Master
   patch: "25.9"
   durationSec: 875
   region: EUW
+  uploaded: 2025-05-15
 - videoId: GZg6Xqa38W4
   title: AATROX vs JAYCE (TOP) | Legendary, 40k DMG | EUW Master | 25.8
   rankClaim: Master
   patch: "25.8"
   durationSec: 1703
   region: EUW
+  uploaded: 2025-04-24
 - videoId: rc5CfKxBD7A
   title: AATROX vs JAYCE (TOP) | Legendary, 4k comeback | EUW Master | 25.8
   rankClaim: Master
   patch: "25.8"
   durationSec: 1740
   region: EUW
+  uploaded: 2025-04-21

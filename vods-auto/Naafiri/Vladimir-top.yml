@@ -5,9 +5,119 @@
   patch: "25.9"
   durationSec: 1623
   region: KR
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Take down The Turret
+      kind: tower
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Take down The Turret
+      kind: tower
+    - at: 23:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Take down The Turret
+      kind: tower
+    - at: 25:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Take down The Turret
+      kind: tower
+    - at: 26:42
+      label: End credit
 - videoId: 4p-HWAuBems
   title: Naafiri Top vs Vladimir - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1634
   region: NA
+  uploaded: 2025-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:16
+      label: Take down The Turret
+      kind: tower
+    - at: 15:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Take down The Turret
+      kind: tower
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Take down The Turret
+      kind: tower
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:41
+      label: Take down The Turret
+      kind: tower
+    - at: 22:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Take down The Turret
+      kind: tower
+    - at: 25:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:12
+      label: Take down The Inhibitor
+    - at: 26:39
+      label: Take down The Turret
+      kind: tower
+    - at: 26:53
+      label: End credit

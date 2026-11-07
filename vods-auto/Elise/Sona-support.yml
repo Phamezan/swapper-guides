@@ -5,9 +5,75 @@
   patch: "26.6"
   durationSec: 1746
   region: EUW
+  uploaded: 2026-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Take down The Turret
+      kind: tower
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:07
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Take down The Turret
+      kind: tower
+    - at: 23:58
+      label: Take down The Inhibitor
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: Take down The Turret
+      kind: tower
+    - at: 26:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:55
+      label: End credit
 - videoId: hO4DkD4Q7q0
   title: Elise Support vs Sona - EUW Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1685
   region: EUW
+  uploaded: 2025-05-23

@@ -5,21 +5,60 @@
   patch: "26.17"
   durationSec: 1534
   region: KR
+  uploaded: 2026-09-04
+  result: W
+  moments:
+    - at: 5:02
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 7:19
+      label: First Blood — Talon kills Jayce
+      kind: kill
+    - at: 10:45
+      label: Yasuo outduels Braum
+    - at: 10:59
+      label: Yasuo takes down Orianna
+    - at: 11:28
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 11:46
+      label: Kennen Double Kill
+      kind: kill
+    - at: 14:54
+      label: Yasuo picks off Jayce
+    - at: 16:05
+      label: Yasuo picks off Jayce
+    - at: 18:38
+      label: Yasuo picks off Jayce
+    - at: 19:04
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 21:13
+      label: Kennen eliminates Braum
+    - at: 23:05
+      label: Talon Double Kill
+      kind: kill
+    - at: 24:17
+      label: Team fight (3 kills)
+      kind: teamfight
 - videoId: gG9DU6P-V1o
   title: Yasuo vs Orianna Mid - KR Grandmaster - Patch 25.22 Season 15
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1931
   region: KR
+  uploaded: 2025-11-07
 - videoId: 9oy5AZQS51s
   title: Yasuo vs Orianna [ MID ] Lol Korea Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1559
   region: KR
+  uploaded: 2025-06-18
 - videoId: v3hjhDCv7F8
   title: Yasuo vs Orianna Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1501
   region: KR
+  uploaded: 2025-04-30

@@ -6,6 +6,7 @@
   durationSec: 1546
   region: EUW
   player: FK Adam
+  uploaded: 2026-08-17
 - videoId: BZXoblBHFmc
   title: Camille vs Jayce Top - KR Master - Patch 16.11 Season 16
   rankClaim: Master
@@ -19,24 +20,21 @@
   patch: "25.12"
   durationSec: 1831
   region: KR
+  uploaded: 2025-06-24
 - videoId: uHzcJ6fcTyc
   title: Camille vs Jayce Top - KR Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 2311
   region: KR
+  uploaded: 2025-06-13
 - videoId: _peINx4GXxY
   title: Camille vs Jayce Top - KR Grandmaster - Patch 25.7 Season 15
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1351
   region: KR
-- videoId: GI5YqO64vis
-  title: Camille Top vs Jayce - KR Master Patch 25.06
-  rankClaim: Master
-  patch: "25.6"
-  durationSec: 1555
-  region: KR
+  uploaded: 2025-04-16
 - videoId: IzchALyeZE0
   title: Camille vs Jayce TOP [ Triple Kill ] Lol Korea Grandmaster Patch 25.6 ✅
   rankClaim: Grandmaster
@@ -44,3 +42,11 @@
   durationSec: 1224
   region: KR
   player: Triple Kill
+  uploaded: 2025-03-30
+- videoId: GI5YqO64vis
+  title: Camille Top vs Jayce - KR Master Patch 25.06
+  rankClaim: Master
+  patch: "25.6"
+  durationSec: 1555
+  region: KR
+  uploaded: 2025-03-25

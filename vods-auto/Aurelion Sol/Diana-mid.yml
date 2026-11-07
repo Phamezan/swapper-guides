@@ -13,9 +13,61 @@
   patch: "26.1"
   durationSec: 1605
   region: EUW
+  uploaded: 2026-01-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Take down The Turret
+      kind: tower
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:34
+      label: End credit
 - videoId: CDWccEUac7o
   title: Aurelion Sol vs Diana Mid - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 2146
   region: KR
+  uploaded: 2025-04-11

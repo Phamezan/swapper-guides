@@ -5,15 +5,89 @@
   patch: "26.7"
   durationSec: 1836
   region: KR
+  uploaded: 2026-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Take down The Turret
+      kind: tower
+    - at: 23:38
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:25
+      label: End credit
 - videoId: t3SGhhO7uE4
   title: Naafiri Jungle vs Nidalee - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1916
   region: KR
+  uploaded: 2025-08-02
 - videoId: -ywEuaJM1KA
   title: Naafiri vs Nidalee Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1931
   region: KR
+  uploaded: 2025-04-23

@@ -5,9 +5,87 @@
   patch: "25.22"
   durationSec: 1714
   region: KR
+  uploaded: 2025-11-15
 - videoId: lsVq9AQrMmw
   title: Sejuani Jungle vs Kha'Zix - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1825
   region: KR
+  uploaded: 2025-03-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Take down The Turret
+      kind: tower
+    - at: 20:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:16
+      label: Take down The Turret
+      kind: tower
+    - at: 29:44
+      label: Take down The Inhibitor
+    - at: 30:04
+      label: End credit

@@ -6,39 +6,93 @@
   durationSec: 1647
   region: EUW
   player: Mega
+  uploaded: 2026-08-21
 - videoId: haqOxXyEyW0
   title: Janna Support vs Nautilus (JL HungryPanda) - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1682
   region: EUW
+  uploaded: 2026-08-09
 - videoId: mjx7KVOyqoM
   title: Janna Support vs Nautilus - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1666
   region: KR
+  uploaded: 2026-03-20
 - videoId: iZ4XilgQiPE
   title: Janna Support vs Nautilus - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1563
   region: KR
+  uploaded: 2026-02-12
 - videoId: ukx1kCZ0sNU
   title: Janna Support vs Nautilus - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1515
   region: EUW
+  uploaded: 2026-01-01
 - videoId: fCBqiFRQY3g
   title: Janna Support vs Nautilus - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1958
   region: KR
+  uploaded: 2025-09-06
 - videoId: pvqde7uyLrY
   title: Janna Support vs Nautilus - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 2137
   region: KR
+  uploaded: 2025-04-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:49
+      label: Take down The Turret
+      kind: tower
+    - at: 31:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:50
+      label: Take down The Turret
+      kind: tower
+    - at: 35:16
+      label: End credit

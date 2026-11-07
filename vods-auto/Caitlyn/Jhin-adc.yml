@@ -8,6 +8,14 @@
   player: Viper
   team: BLG
   uploaded: 2026-10-27
+- videoId: izkTld48Cwg
+  title: "Deokdam : His Caitlyn Spacing is so Dam Good in TeamFight - Engsub ( vs Jhin )"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 701
+  patchEstimated: true
+  uploaded: 2026-10-18
+  format: stream
 - videoId: ze2xLiYBhAs
   title: HLE Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger 2480 LP | Patch 26.17
   rankClaim: Challenger
@@ -17,6 +25,14 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-08-29
+- videoId: lngW7C1E00E
+  title: "Teayoon Caitlyn : INSANE BARON STEEL, SAVING THE GAME ( vs Jhin )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 973
+  patchEstimated: true
+  uploaded: 2026-08-24
+  format: stream
 - videoId: lEUGRsIB-T0
   title: DK Smash Caitlyn vs Jhin [ ADC ] Korea Challenger 2255 LP | Patch 26.16
   rankClaim: Challenger
@@ -33,6 +49,15 @@
   durationSec: 1873
   region: KR
   uploaded: 2026-07-15
+- videoId: Xso_XOvqU0A
+  title: "Uzi : His Caitlyn Mechanic is so DAM GOOD - Engsub ( Caitlyn vs Jhin )"
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1102
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-28
+  format: stream
 - videoId: CVNB8twO6Wg
   title: (GEN Ruler) Caitlyn ADC vs Jhin (DK Smash) - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -41,6 +66,7 @@
   region: KR
   player: Ruler
   team: GEN
+  uploaded: 2026-05-21
 - videoId: LwbODBypa5Y
   title: HLE Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger 2665 LP | Patch 26.10
   rankClaim: Challenger
@@ -50,6 +76,15 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-05-20
+- videoId: OYJwxL9t830
+  title: "Diable Caitlyn : Tearing KR HighElo Apart in just 15 Min - Engsub ( Caitlyn vs Jhin )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 713
+  region: KR
+  patchEstimated: true
+  uploaded: 2026-05-14
+  format: stream
 - videoId: avL12atsEog
   title: HLE Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger 2467 LP | Patch 26.9
   rankClaim: Challenger
@@ -65,6 +100,7 @@
   patch: "26.8"
   durationSec: 1837
   region: EUW
+  uploaded: 2026-04-17
 - videoId: 3jcltVUA6mw
   title: Caitlyn vs Jhin ADC - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -94,24 +130,21 @@
   patch: "25.22"
   durationSec: 1956
   region: KR
+  uploaded: 2025-11-08
 - videoId: 8HsfWe3_4xs
   title: Caitlyn vs Jhin [ ADC ] Korea Challenger 1227 LP | Patch 25.21 ✅
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1499
   region: KR
+  uploaded: 2025-10-31
 - videoId: f2tNdJHUd3E
   title: Caitlyn vs Jhin ADC - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1561
   region: KR
-- videoId: eFfivPOtW8w
-  title: Caitlyn vs Jhin ADC - KR Challenger - Patch 25.19 Season 15
-  rankClaim: Challenger
-  patch: "25.19"
-  durationSec: 1751
-  region: KR
+  uploaded: 2025-10-08
 - videoId: IuaA_2eTE68
   title: Caitlyn vs Jhin ADC [ HLE Viper ] Korea Challenger Patch 25.19
   rankClaim: Challenger
@@ -120,12 +153,21 @@
   region: KR
   player: Viper
   team: HLE
+  uploaded: 2025-10-07
+- videoId: eFfivPOtW8w
+  title: Caitlyn vs Jhin ADC - KR Challenger - Patch 25.19 Season 15
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1751
+  region: KR
+  uploaded: 2025-09-30
 - videoId: ye95BTZFmXE
   title: Caitlyn ADC vs Jhin - EUW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1642
   region: EUW
+  uploaded: 2025-08-14
 - videoId: BHiyjWWPa1c
   title: T1 Gumayusi Caitlyn ADC vs Jhin - Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -134,6 +176,7 @@
   region: NA
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-09
 - videoId: o1wkrw35KFs
   title: T1 Gumayusi Caitlyn vs Jhin [ ADC ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -142,18 +185,21 @@
   region: KR
   player: Gumayusi
   team: T1
-- videoId: NP6MfvzY73c
-  title: Caitlyn ADC vs Jhin - KR Master Patch 25.09
-  rankClaim: Master
-  patch: "25.9"
-  durationSec: 1938
-  region: KR
+  uploaded: 2025-06-04
 - videoId: Pcy4hw7W26U
   title: Caitlyn vs Jhin ADC - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1801
   region: KR
+  uploaded: 2025-05-10
+- videoId: NP6MfvzY73c
+  title: Caitlyn ADC vs Jhin - KR Master Patch 25.09
+  rankClaim: Master
+  patch: "25.9"
+  durationSec: 1938
+  region: KR
+  uploaded: 2025-05-04
 - videoId: EcaLpbrMp1I
   title: T1 Gumayusi Caitlyn ADC vs Jhin - Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -162,12 +208,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-14
 - videoId: jLx7Gq-jXVw
   title: Caitlyn vs Jhin ADC - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1871
   region: KR
+  uploaded: 2025-03-10
 - videoId: MeZzVHfXWkI
   title: Deft Caitlyn ADC vs Jhin - Patch 25.3 Korea Master ✅
   rankClaim: Master
@@ -175,3 +223,4 @@
   durationSec: 1612
   region: KR
   player: Deft
+  uploaded: 2025-02-14

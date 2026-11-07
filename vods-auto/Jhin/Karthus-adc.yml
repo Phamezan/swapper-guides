@@ -5,9 +5,52 @@
   patch: "26.2"
   durationSec: 1536
   region: EUW
+  uploaded: 2026-02-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:54
+      label: Take down The Turret
+      kind: tower
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Take down The Turret
+      kind: tower
+    - at: 25:25
+      label: End credit
 - videoId: YP29sQfIoa8
   title: Jhin vs Karthus ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1606
   region: KR
+  uploaded: 2025-11-25

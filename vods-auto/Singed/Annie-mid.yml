@@ -5,3 +5,47 @@
   patch: "25.9"
   durationSec: 1687
   region: KR
+  uploaded: 2025-05-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Take down The Inhibitor
+    - at: 27:46
+      label: End credit

@@ -7,6 +7,7 @@
   region: EUW
   player: SkewMond
   team: G2
+  uploaded: 2026-08-30
 - videoId: mTqaCKSEk3k
   title: (DNS Pyosik) Vi Jungle vs Naafiri - KR Challenger Patch 26.14
   rankClaim: Challenger
@@ -14,21 +15,83 @@
   durationSec: 1776
   region: KR
   player: Pyosik
+  uploaded: 2026-07-17
 - videoId: HQFc814ow-s
   title: Vi Jungle vs Naafiri - KR Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1761
   region: KR
+  uploaded: 2026-05-19
 - videoId: pU1Ciy1s7_4
   title: Vi Jungle vs Naafiri - EUW Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1633
   region: EUW
+  uploaded: 2025-10-24
 - videoId: gDpxqy0HjmA
   title: Vi Jungle vs Naafiri - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1869
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:25
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:03
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:26
+      label: Take down The Turret
+      kind: tower
+    - at: 29:39
+      label: Take down The Inhibitor
+    - at: 30:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:48
+      label: End credit

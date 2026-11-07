@@ -5,9 +5,63 @@
   patch: "25.8"
   durationSec: 1523
   region: NA
+  uploaded: 2025-04-27
 - videoId: tRb7k3X03lc
   title: Neeko Mid vs Ekko - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1454
   region: EUW
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:09
+      label: Take down The Turret
+      kind: tower
+    - at: 16:13
+      label: Take down The Turret
+      kind: tower
+    - at: 17:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Take down The Turret
+      kind: tower
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Take down The Inhibitor
+    - at: 23:23
+      label: Take down The Turret
+      kind: tower
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: End credit

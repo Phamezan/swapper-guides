@@ -5,15 +5,56 @@
   patch: "25.23"
   durationSec: 1640
   region: NA
+  uploaded: 2025-11-24
 - videoId: XPeL9hEaXuU
   title: Sejuani Top vs Sett - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 2091
   region: KR
+  uploaded: 2025-05-13
 - videoId: t7_K3zKlq7o
   title: Sejuani Top vs Sett - NA Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1473
   region: NA
+  uploaded: 2025-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Take down The Turret
+      kind: tower
+    - at: 17:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Take down The Turret
+      kind: tower
+    - at: 19:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: End credit

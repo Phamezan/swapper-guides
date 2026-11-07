@@ -5,9 +5,61 @@
   patch: "25.17"
   durationSec: 2113
   region: EUW
+  uploaded: 2025-09-09
 - videoId: 19uTTAOLXJI
   title: Udyr Jungle vs Pantheon - NA Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1607
   region: NA
+  uploaded: 2025-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:00
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: End credit

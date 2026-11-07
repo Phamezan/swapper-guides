@@ -5,9 +5,99 @@
   patch: "26.4"
   durationSec: 1742
   region: EUW
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:51
+      label: End credit
 - videoId: ToENJd1TNbU
   title: Twisted Fate Support vs Nami - EUW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1651
   region: EUW
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:19
+      label: Take down The Turret
+      kind: tower
+    - at: 14:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:10
+      label: End credit

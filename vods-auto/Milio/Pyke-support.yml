@@ -5,6 +5,7 @@
   patch: "26.15"
   durationSec: 1838
   region: KR
+  uploaded: 2026-08-08
 - videoId: PY1qc5wJAS0
   title: (AL Kael) Milio Support vs Pyke - KR Grandmaster Patch 26.13
   rankClaim: Grandmaster
@@ -13,26 +14,105 @@
   region: KR
   player: Kael
   team: AL
+  uploaded: 2026-07-10
 - videoId: E92KsU337Rk
   title: Milio Support vs Pyke - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1581
   region: EUW
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Take down The Turret
+      kind: tower
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:55
+      label: Take down The Inhibitor
+    - at: 26:10
+      label: End credit
 - videoId: kdI9DEzj5_U
   title: Milio Support vs Pyke - NA Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1671
   region: NA
+  uploaded: 2025-07-18
 - videoId: 5CbMPCb3rXQ
   title: Milio Support vs Pyke - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1609
   region: EUW
+  uploaded: 2025-05-01
 - videoId: Xf522ljJfxs
   title: Milio Support vs Pyke - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1743
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Take down The Turret
+      kind: tower
+    - at: 27:29
+      label: Take down The Turret
+      kind: tower
+    - at: 27:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:12
+      label: Take down The Inhibitor
+    - at: 28:23
+      label: Take down The Turret
+      kind: tower
+    - at: 28:42
+      label: End credit

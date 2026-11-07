@@ -6,9 +6,42 @@
   durationSec: 1640
   region: KR
   player: TheShy
+  uploaded: 2026-07-20
+  result: L
+  moments:
+    - at: 5:31
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 11:02
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 11:30
+      label: First Blood — Sion kills Urgot
+      kind: kill
+    - at: 14:59
+      label: Karma eliminates Rakan
+    - at: 16:19
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:31
+      label: Qiyana picks off Yasuo
+    - at: 21:25
+      label: Zoe Double Kill
+      kind: kill
+    - at: 23:42
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:49
+      label: Sivir picks off Urgot
+    - at: 25:11
+      label: Qiyana picks off Yasuo
+    - at: 26:13
+      label: Zoe kills Syndra
+      kind: kill
 - videoId: BwBEdppyX08
   title: Sion Top vs Urgot - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1756
   region: KR
+  uploaded: 2025-11-09

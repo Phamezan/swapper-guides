@@ -9,3 +9,108 @@
   uploaded: 2026-11-02
   format: stream
   cam: true
+- videoId: y32r8bOteq4
+  title: AD Shaco Cannot Be Balanced..
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1320
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-09-10
+  format: stream
+  cam: true
+- videoId: R7aDHVmuCFs
+  title: I ASKED RANK 1 AP SHACO FOR A COACHING SESSION!?
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 2278
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-09-02
+  format: stream
+  cam: true
+  moments:
+    - at: 3:00
+      label: Game 1
+    - at: 18:00
+      label: Game 2
+- videoId: gr1Gs8gZgJc
+  title: AD SHACO JUNGLE IS ACTUALLY BROKEN...
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 2303
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-29
+  format: stream
+  cam: true
+- videoId: bU9sQsGVHfQ
+  title: I Finally Mastered BOTH AP & AD Shaco
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 2058
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-22
+  format: stream
+  cam: true
+- videoId: eEMl40vQ9_8
+  title: Broxah Officially Becomes A Shaco Jungle Main
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 2053
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-15
+  format: stream
+  cam: true
+- videoId: Sz1Y7ag1-ao
+  title: Broxah Discovers The Struggles of Playing AP Shaco
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 2269
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-12
+  format: stream
+  cam: true
+- videoId: PVvc9rd6OS4
+  title: I Turned Shaco Into an LP STEALING Machine!?
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1961
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-09
+  format: stream
+  cam: true
+- videoId: kDO2H8XKxqU
+  title: Becoming a Complete Shaco Player (AP & AD)
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 2179
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-06
+  format: stream
+  cam: true
+- videoId: E9LRNVjgv5g
+  title: The Cleanest AP SHACO Game I Ever Played
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1003
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-08-01
+  format: stream
+  cam: true
+- videoId: YnDWTm8Euis
+  title: The difference between AP and AD Shaco
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 2402
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2026-07-26
+  format: stream
+  cam: true

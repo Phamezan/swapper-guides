@@ -5,15 +5,58 @@
   patch: "25.22"
   durationSec: 1460
   region: KR
+  uploaded: 2025-11-11
 - videoId: LRJyY9qxhkU
   title: Morgana Support vs Braum - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1452
   region: KR
+  uploaded: 2025-05-21
 - videoId: 4HhTB4-5Lk4
   title: Morgana Support vs Braum - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1771
   region: KR
+  uploaded: 2025-05-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Take down The Turret
+      kind: tower
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:52
+      label: Take down The Inhibitor
+    - at: 29:10
+      label: End credit

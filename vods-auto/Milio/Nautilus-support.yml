@@ -5,9 +5,66 @@
   patch: "25.15"
   durationSec: 1706
   region: KR
+  uploaded: 2025-08-09
 - videoId: 1J6IumicIxw
   title: Milio Support vs Nautilus - NA Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1794
   region: NA
+  uploaded: 2025-05-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Take down The Turret
+      kind: tower
+    - at: 14:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Take down The Turret
+      kind: tower
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:28
+      label: Take down The Turret
+      kind: tower
+    - at: 28:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:05
+      label: Take down The Inhibitor
+    - at: 29:33
+      label: End credit

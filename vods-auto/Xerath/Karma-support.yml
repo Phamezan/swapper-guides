@@ -5,9 +5,55 @@
   patch: "25.10"
   durationSec: 1901
   region: KR
+  uploaded: 2025-05-31
 - videoId: 61uAywkq6B0
   title: Xerath Support vs Karma - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1811
   region: EUW
+  uploaded: 2025-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:24
+      label: Take down The Turret
+      kind: tower
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:50
+      label: End credit

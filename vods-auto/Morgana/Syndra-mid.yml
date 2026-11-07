@@ -5,21 +5,63 @@
   patch: "26.1"
   durationSec: 1618
   region: EUW
+  uploaded: 2026-01-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Take down The Turret
+      kind: tower
+    - at: 25:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: Take down The Turret
+      kind: tower
+    - at: 26:47
+      label: End credit
 - videoId: 26__0cn4TPg
   title: Morgana Mid vs Syndra - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1888
   region: EUW
+  uploaded: 2025-11-03
 - videoId: OD3MHgt5z3Y
   title: Morgana Mid vs Syndra - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1731
   region: KR
+  uploaded: 2025-10-13
 - videoId: gRDDKOg8z8Y
   title: Morgana Mid vs Syndra - EUW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 2093
   region: EUW
+  uploaded: 2025-08-14

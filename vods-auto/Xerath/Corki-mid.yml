@@ -5,9 +5,56 @@
   patch: "26.7"
   durationSec: 1558
   region: KR
+  uploaded: 2026-04-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:16
+      label: Take down The Turret
+      kind: tower
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Take down The Turret
+      kind: tower
+    - at: 22:31
+      label: Take down The Inhibitor
+    - at: 23:08
+      label: Take down The Inhibitor
+    - at: 23:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:47
+      label: End credit
 - videoId: sIVwBW6WCX0
   title: Xerath Mid vs Corki - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1657
   region: KR
+  uploaded: 2025-03-10

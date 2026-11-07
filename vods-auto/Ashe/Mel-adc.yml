@@ -7,6 +7,49 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-06-14
+  result: W
+  moments:
+    - at: 0:52
+      label: First Blood — Ashe kills Mel
+      kind: kill
+    - at: 2:39
+      label: Leona kills Kindred
+      kind: kill
+    - at: 4:26
+      label: Leona picks off Mel
+    - at: 7:26
+      label: Galio picks off Kindred
+    - at: 10:55
+      label: Ashe picks off Jax
+    - at: 13:06
+      label: Ashe takes down Kindred
+    - at: 13:18
+      label: Ashe takes down Mel
+    - at: 17:14
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 17:45
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 19:25
+      label: Ashe picks off Jax
+    - at: 21:28
+      label: Ashe picks off Jax
+    - at: 22:14
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:04
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 23:35
+      label: Ashe kills Anivia
+      kind: kill
+    - at: 24:33
+      label: Leona kills Kindred
+      kind: kill
+    - at: 25:01
+      label: Mid Inhibitor falls (Red)
 - videoId: PhJfkQc2B_U
   title: BLG Viper Ashe vs Mel [ ADC ] Korea Challenger 2215 LP | Patch 26.12
   rankClaim: Challenger
@@ -24,13 +67,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: HOwydY9nM-U
-  title: Viper Ashe vs Mel ADC - KR Challenger - Patch 25.9 Season 15
-  rankClaim: Challenger
-  patch: "25.9"
-  durationSec: 1770
-  region: KR
-  player: Viper
+  uploaded: 2026-01-05
 - videoId: 1X2PmILBH6g
   title: T1 Gumayusi Ashe vs Mel [ ADC ] Korea Grandmaster Patch 25.9
   rankClaim: Grandmaster
@@ -39,3 +76,12 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-12
+- videoId: HOwydY9nM-U
+  title: Viper Ashe vs Mel ADC - KR Challenger - Patch 25.9 Season 15
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1770
+  region: KR
+  player: Viper
+  uploaded: 2025-05-09

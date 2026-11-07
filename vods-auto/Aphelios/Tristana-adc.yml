@@ -6,6 +6,44 @@
   durationSec: 1509
   region: EUW
   player: WLG Unkn0wn
+  uploaded: 2026-08-03
+  result: L
+  moments:
+    - at: 1:27
+      label: First Blood — Aphelios kills Tristana
+      kind: kill
+    - at: 4:08
+      label: Aphelios picks off Bard
+    - at: 6:07
+      label: Aphelios picks off Bard
+    - at: 10:02
+      label: Aphelios eliminates Aatrox
+    - at: 10:31
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:45
+      label: Syndra takes down Bard
+    - at: 14:16
+      label: Aphelios picks off Bard
+    - at: 15:59
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 17:36
+      label: Aphelios eliminates Aatrox
+    - at: 19:54
+      label: Red takes Baron
+      kind: baron
+    - at: 20:58
+      label: Aphelios picks off Bard
+    - at: 21:29
+      label: Mid Inhibitor falls (Blue)
+    - at: 21:57
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 24:05
+      label: Aphelios eliminates Aatrox
+    - at: 24:24
+      label: Bot Inhibitor falls (Blue)
 - videoId: I_uDRzIBvIc
   title: (NS Diable) Aphelios ADC vs Tristana - KR Master Patch 26.11
   rankClaim: Master
@@ -14,6 +52,7 @@
   region: KR
   player: Diable
   team: NS
+  uploaded: 2026-06-04
 - videoId: 5dEBHySyTmg
   title: Aphelios vs Tristana [ ADC ] Korea Grandmaster 1495 LP | Patch 26.11
   rankClaim: Grandmaster
@@ -27,21 +66,25 @@
   patch: "26.10"
   durationSec: 1557
   region: KR
+  uploaded: 2026-05-29
 - videoId: GwYM4dM6LKw
   title: Aphelios vs Tristana ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1531
   region: KR
+  uploaded: 2025-12-09
 - videoId: VTwRUdX_yCQ
   title: Aphelios vs Tristana ADC - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1710
   region: KR
+  uploaded: 2025-04-30
 - videoId: rzlTj2s1BD0
   title: Aphelios vs Tristana ADC - KR Challenger - Patch 15.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1661
   region: KR
+  uploaded: 2025-04-10

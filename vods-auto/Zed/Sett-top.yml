@@ -58,25 +58,79 @@
   patch: "26.5"
   durationSec: 1765
   region: EUW
+  uploaded: 2026-03-10
 - videoId: 91Bp9_ynxxI
   title: Zed Top vs Sett - EUW Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1609
   region: EUW
+  uploaded: 2026-01-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:03
+      label: Take down The Turret
+      kind: tower
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:50
+      label: Take down The Inhibitor
+    - at: 26:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:38
+      label: End credit
 - videoId: E-eBvNU7QPo
   title: Zed Top vs Sett - BR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1810
+  uploaded: 2025-09-07
 - videoId: Mhem6qi8eAE
   title: Zed Top vs Sett - VN Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1632
+  uploaded: 2025-05-24
 - videoId: wAmqMNWABGQ
   title: Zed Top vs Sett - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1694
   region: NA
+  uploaded: 2025-03-05

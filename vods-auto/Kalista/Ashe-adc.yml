@@ -6,23 +6,27 @@
   durationSec: 1401
   region: EUW
   player: OLE Flakked
+  uploaded: 2026-05-20
 - videoId: J4EG27i4YVg
   title: Kalista ADC vs Ashe - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1465
   region: KR
+  uploaded: 2026-05-06
 - videoId: -lmwdDf-klc
   title: Kalista ADC vs Ashe - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1580
   region: KR
+  uploaded: 2025-10-31
 - videoId: NNw5Ptz19eQ
   title: Kalista ADC vs Ashe - VN Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1890
+  uploaded: 2025-07-18
 - videoId: kpoHZVLU6F4
   title: T1 Gumayusi Kalista vs Ashe [ ADC ] Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -31,15 +35,73 @@
   region: NA
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-02
 - videoId: EqLClkv2sKY
   title: Kalista vs Ashe ADC - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1381
   region: KR
+  uploaded: 2025-04-11
 - videoId: hYMsbPh9xgg
   title: Kalista ADC vs Ashe - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1969
   region: EUW
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:03
+      label: Take down The Turret
+      kind: tower
+    - at: 16:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Take down The Turret
+      kind: tower
+    - at: 20:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:44
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:04
+      label: Take down The Turret
+      kind: tower
+    - at: 30:24
+      label: Take down The Inhibitor
+    - at: 31:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:15
+      label: Take down The Turret
+      kind: tower
+    - at: 32:28
+      label: End credit

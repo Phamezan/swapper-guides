@@ -5,27 +5,32 @@
   patch: "26.19"
   durationSec: 1756
   region: KR
+  uploaded: 2026-09-30
 - videoId: xDZOG80UZIY
   title: Zac Jungle vs Viego - KR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1618
   region: KR
-- videoId: RTzPpmW0xRY
-  title: Zac Jungle vs Viego - KR Challenger Patch 25.12
-  rankClaim: Challenger
-  patch: "25.12"
-  durationSec: 1831
-  region: KR
+  uploaded: 2025-10-14
 - videoId: K1tVvV1w-fw
   title: Zac vs Viego Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1831
   region: KR
+  uploaded: 2025-06-17
+- videoId: RTzPpmW0xRY
+  title: Zac Jungle vs Viego - KR Challenger Patch 25.12
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1831
+  region: KR
+  uploaded: 2025-06-17
 - videoId: 72kE_r3A3aE
   title: Zac Jungle vs Viego - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1762
   region: KR
+  uploaded: 2025-03-11

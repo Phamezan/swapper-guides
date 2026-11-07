@@ -8,6 +8,15 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-06-20
+- videoId: 9-jnvrBq0YE
+  title: "Gumayusi : His Corki is Taking Over Leave Tristana in Laning Phase - Engsub"
+  rankClaim: Master+
+  patch: "26.5"
+  durationSec: 1000
+  patchEstimated: true
+  player: Gumayusi
+  uploaded: 2026-03-05
+  format: stream
 - videoId: T4wyPISdAoc
   title: HLE Gumayusi Corki vs Tristana [ ADC ] Korea Challenger 1487 LP | Patch 26.4
   rankClaim: Challenger
@@ -16,6 +25,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-02-26
 - videoId: YxULOu2eaW8
   title: T1 Gumayusi Corki vs Tristana [ ADC ] Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -24,15 +34,71 @@
   region: NA
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-02
 - videoId: 2W0UfOYy6Ec
   title: Corki ADC vs Tristana - NA Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1657
   region: NA
+  uploaded: 2025-06-19
 - videoId: PMuD-MMbZMU
   title: Corki ADC vs Tristana - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1798
   region: KR
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:48
+      label: Take down The Turret
+      kind: tower
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Take down The Turret
+      kind: tower
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:37
+      label: End credit

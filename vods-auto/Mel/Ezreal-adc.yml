@@ -5,6 +5,55 @@
   patch: "26.17"
   durationSec: 1815
   region: KR
+  uploaded: 2026-09-03
+  result: W
+  moments:
+    - at: 0:11
+      label: First Blood — Rell kills Ezreal
+      kind: kill
+    - at: 6:44
+      label: Mel takes down Ezreal
+    - at: 7:37
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:59
+      label: Mel takes down Ezreal
+    - at: 13:32
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 13:57
+      label: Mel kills Cassiopeia
+      kind: kill
+    - at: 15:23
+      label: Mel eliminates Viego
+    - at: 19:06
+      label: Mel eliminates Viego
+    - at: 19:31
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:22
+      label: Mel takes down Ezreal
+    - at: 21:04
+      label: Katarina eliminates Cassiopeia
+    - at: 21:29
+      label: Red takes Baron
+      kind: baron
+    - at: 22:35
+      label: Katarina Double Kill
+      kind: kill
+    - at: 23:02
+      label: Katarina takes down Nasus
+    - at: 24:16
+      label: Mel Double Kill
+      kind: kill
+    - at: 24:58
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 26:03
+      label: Mel eliminates Viego
+    - at: 29:14
+      label: Team fight (4 kills)
+      kind: teamfight
 - videoId: POL7A9Qyd6M
   title: Mel vs Ezreal ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -32,3 +81,4 @@
   patch: "25.23"
   durationSec: 1981
   region: KR
+  uploaded: 2025-12-03

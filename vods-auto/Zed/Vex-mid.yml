@@ -103,13 +103,6 @@
       kind: baron
     - at: 29:43
       label: Zed catches Kai'Sa
-- videoId: b6q04b9V5Ww
-  title: OnZed Zed vs Vex Mid - KR Challenger - Patcj 16.18 Season 16
-  rankClaim: Challenger
-  patch: "26.18"
-  durationSec: 1951
-  region: KR
-  player: OnZed
 - videoId: z379yuI9vwM
   title: Zed Mid vs Vex - KR Master Patch 26.18
   rankClaim: Master
@@ -166,3 +159,11 @@
     - at: 31:19
       label: Zed Double Kill
       kind: kill
+- videoId: b6q04b9V5Ww
+  title: OnZed Zed vs Vex Mid - KR Challenger - Patcj 16.18 Season 16
+  rankClaim: Challenger
+  patch: "26.18"
+  durationSec: 1951
+  region: KR
+  player: OnZed
+  uploaded: 2026-09-14

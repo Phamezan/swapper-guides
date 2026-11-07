@@ -5,9 +5,82 @@
   patch: "25.11"
   durationSec: 1516
   region: KR
+  uploaded: 2025-05-31
 - videoId: 99kdzROwAQc
   title: Ekko Jungle vs Pantheon - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1646
   region: KR
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Take down The Turret
+      kind: tower
+    - at: 19:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: End credit

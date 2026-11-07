@@ -5,9 +5,67 @@
   patch: "25.18"
   durationSec: 1648
   region: KR
+  uploaded: 2025-09-19
 - videoId: 6FlfFXbutME
   title: Tahm Kench Support vs Maokai - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1758
   region: KR
+  uploaded: 2025-03-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:35
+      label: Take down The Turret
+      kind: tower
+    - at: 12:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Take down The Turret
+      kind: tower
+    - at: 15:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: Take down The Turret
+      kind: tower
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:46
+      label: Take down The Turret
+      kind: tower
+    - at: 28:57
+      label: End credit

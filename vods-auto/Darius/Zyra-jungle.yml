@@ -5,9 +5,69 @@
   patch: "25.12"
   durationSec: 1999
   region: KR
+  uploaded: 2025-06-22
 - videoId: UHULTvdMd6k
   title: Darius Jungle vs Zyra - EUW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1782
   region: EUW
+  uploaded: 2025-04-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:24
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:21
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Take down The Turret
+      kind: tower
+    - at: 15:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Take down The Turret
+      kind: tower
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Hunt The Atakhan
+    - at: 22:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:41
+      label: Take down The Turret
+      kind: tower
+    - at: 29:21
+      label: End credit

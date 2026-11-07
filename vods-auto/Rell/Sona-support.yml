@@ -5,9 +5,112 @@
   patch: "26.2"
   durationSec: 1548
   region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Take down The Turret
+      kind: tower
+    - at: 19:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:22
+      label: Take down The Turret
+      kind: tower
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: Take down The Turret
+      kind: tower
+    - at: 24:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Take down The Turret
+      kind: tower
+    - at: 25:10
+      label: Take down The Inhibitor
+    - at: 25:26
+      label: Take down The Turret
+      kind: tower
+    - at: 25:37
+      label: End credit
 - videoId: KzuMkgQ5vk8
   title: Rell Support vs Sona - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1468
   region: KR
+  uploaded: 2026-01-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:45
+      label: Take down The Turret
+      kind: tower
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Take down The Turret
+      kind: tower
+    - at: 22:36
+      label: Take down The Inhibitor
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:17
+      label: End credit

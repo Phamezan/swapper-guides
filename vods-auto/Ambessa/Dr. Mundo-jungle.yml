@@ -5,9 +5,85 @@
   patch: "26.3"
   durationSec: 1590
   region: EUW
+  uploaded: 2026-02-14
 - videoId: 9zUzDBtGyh4
   title: Ambessa Jungle vs Dr. Mundo - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1974
   region: EUW
+  uploaded: 2025-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:48
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:30
+      label: Take down The Turret
+      kind: tower
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:42
+      label: Hunt The Atakhan
+    - at: 22:37
+      label: Take down The Turret
+      kind: tower
+    - at: 23:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:43
+      label: Take down The Inhibitor
+    - at: 25:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:36
+      label: Take down The Turret
+      kind: tower
+    - at: 28:57
+      label: Take down The Inhibitor
+    - at: 31:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 31:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:33
+      label: End credit

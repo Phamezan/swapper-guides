@@ -5,15 +5,73 @@
   patch: "26.7"
   durationSec: 1891
   region: KR
+  uploaded: 2026-04-09
 - videoId: A9K7XfY8q-E
   title: Sett Top vs Aatrox - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1546
   region: KR
+  uploaded: 2025-10-01
 - videoId: WE590oVAdqU
   title: Sett Top vs Aatrox - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1987
   region: KR
+  uploaded: 2025-05-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:33
+      label: Take down The Turret
+      kind: tower
+    - at: 12:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:26
+      label: Take down The Turret
+      kind: tower
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Take down The Turret
+      kind: tower
+    - at: 22:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:25
+      label: Take down The Inhibitor
+    - at: 28:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:46
+      label: End credit

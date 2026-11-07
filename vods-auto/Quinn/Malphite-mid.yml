@@ -5,3 +5,66 @@
   patch: "25.5"
   durationSec: 1983
   region: NA
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 32:42
+      label: End credit

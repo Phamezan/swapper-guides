@@ -5,9 +5,77 @@
   patch: "26.12"
   durationSec: 1499
   region: KR
+  uploaded: 2026-06-19
 - videoId: kk5QLIK1USQ
   title: Warwick Jungle vs Jayce - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1595
   region: EUW
+  uploaded: 2026-01-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:51
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:26
+      label: Take down The Turret
+      kind: tower
+    - at: 17:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:31
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 20:18
+      label: Take down The Turret
+      kind: tower
+    - at: 20:35
+      label: Hunt The Atakhan
+    - at: 21:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:38
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:19
+      label: Take down The Inhibitor
+    - at: 26:24
+      label: End credit

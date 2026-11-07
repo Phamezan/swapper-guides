@@ -5,6 +5,7 @@
   patch: "26.10"
   durationSec: 1590
   region: EUW
+  uploaded: 2026-05-21
 - videoId: 1LQqDeFrrTA
   title: Briar vs Graves Jungle - KR Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
@@ -18,3 +19,65 @@
   patch: "25.5"
   durationSec: 1598
   region: NA
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:08
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:30
+      label: Take down The Turret
+      kind: tower
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:59
+      label: Hunt The Atakhan
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:17
+      label: End credit

@@ -4,9 +4,75 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1451
+  uploaded: 2025-12-25
 - videoId: Dn6OEbCVVMY
   title: Xayah ADC vs Aphelios - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1686
   region: EUW
+  uploaded: 2025-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Take down The Turret
+      kind: tower
+    - at: 15:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Take down The Turret
+      kind: tower
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Take down The Turret
+      kind: tower
+    - at: 26:08
+      label: Take down The Inhibitor
+    - at: 26:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Take down The Turret
+      kind: tower
+    - at: 27:45
+      label: End credit

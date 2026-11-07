@@ -5,6 +5,7 @@
   patch: "26.16"
   durationSec: 1707
   region: EUW
+  uploaded: 2026-08-19
 - videoId: bIb6rdSeYDo
   title: Katarina vs Akshan Mid - KR Challenger - Patch 16.15 Season 16
   rankClaim: Challenger
@@ -24,21 +25,84 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1682
+  uploaded: 2026-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Take down The Turret
+      kind: tower
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:56
+      label: Take down The Turret
+      kind: tower
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:51
+      label: End credit
 - videoId: _nu5Rmm_hAE
   title: Katarina vs Akshan Mid - EUW Grandmaster - Patch 25.17 Season 15
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1651
   region: EUW
+  uploaded: 2025-08-29
 - videoId: s4Bkxqw2sDM
   title: Katarina vs Akshan Mid - EUW Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1591
   region: EUW
+  uploaded: 2025-05-03
 - videoId: sHkG2N-fhXI
   title: Katarina vs Akshan Mid - KR Grandmaster - Patch 25.7 Season 15
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1626
   region: KR
+  uploaded: 2025-04-09

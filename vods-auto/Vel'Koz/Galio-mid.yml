@@ -4,3 +4,62 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1711
+  uploaded: 2026-04-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Take down The Turret
+      kind: tower
+    - at: 18:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:45
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Take down The Turret
+      kind: tower
+    - at: 25:00
+      label: Take down The Inhibitor
+    - at: 25:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:06
+      label: Take down The Turret
+      kind: tower
+    - at: 28:20
+      label: End credit

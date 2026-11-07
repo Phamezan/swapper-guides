@@ -161,15 +161,18 @@
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1603
+  uploaded: 2026-05-15
 - videoId: ZXenSo3SBNA
   title: Ahri Top vs Malphite - EUW Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 2110
   region: EUW
+  uploaded: 2025-11-07
 - videoId: rwCgDCv5gI0
   title: Ahri Top vs Malphite - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1935
   region: KR
+  uploaded: 2025-09-11

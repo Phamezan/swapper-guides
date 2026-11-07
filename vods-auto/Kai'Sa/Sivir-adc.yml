@@ -63,6 +63,24 @@
       kind: dragon
     - at: 26:55
       label: Mid Inhibitor falls (Red)
+- videoId: 569kVUVJ2CM
+  title: "\"HanQL\" 2255LP Kai'sa : Nobody Can SURVIVE His Damage - Engsub ( vs Sivir, Aphe )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 1836
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-08-29
+  format: stream
+- videoId: -xKeI8-qWzw
+  title: "\"Jz\" 2000LP Kai'sa : Insane 1v5 Unstoppable Performance - Engsub (Kai'sa vs Sivir)"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 918
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-08-04
+  format: stream
 - videoId: 9XYET1V8sk8
   title: T1 Peyz Kai'Sa vs Sivir [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -71,12 +89,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2025-12-11
 - videoId: iM45DsWR0Vw
   title: Kai'Sa vs Sivir ADC - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1501
   region: KR
+  uploaded: 2025-11-17
 - videoId: 09KNQy8M8Iw
   title: Kai'Sa vs Sivir ADC [ Triplekill ] Korea Challenger 1547 LP | Patch 25.22 ✅
   rankClaim: Challenger
@@ -84,6 +104,7 @@
   durationSec: 1815
   region: KR
   player: Triplekill
+  uploaded: 2025-11-13
 - videoId: kK75Hi9xK2s
   title: T1 Gumayusi Kaisa vs Sivir [ ADC ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -92,12 +113,7 @@
   region: KR
   player: Gumayusi
   team: T1
-- videoId: 3lZdNBM5NCg
-  title: Kai'Sa vs Sivir ADC - KR Challenger - Patch 25.14 Season 15
-  rankClaim: Challenger
-  patch: "25.14"
-  durationSec: 1636
-  region: KR
+  uploaded: 2025-08-01
 - videoId: X2yuXlddQUk
   title: JDG Peyz Kaisa vs Sivir ADC [ Quadrakill ] Patch 25.14 Korea Challenger
   rankClaim: Challenger
@@ -106,3 +122,11 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-07-26
+- videoId: 3lZdNBM5NCg
+  title: Kai'Sa vs Sivir ADC - KR Challenger - Patch 25.14 Season 15
+  rankClaim: Challenger
+  patch: "25.14"
+  durationSec: 1636
+  region: KR
+  uploaded: 2025-07-17

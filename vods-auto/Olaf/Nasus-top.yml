@@ -12,9 +12,58 @@
   patch: "26.3"
   durationSec: 1501
   region: KR
+  uploaded: 2026-02-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:09
+      label: Take down The Turret
+      kind: tower
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:54
+      label: Take down The Turret
+      kind: tower
+    - at: 20:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: End credit
 - videoId: fiRf9Jx0pvc
   title: Olaf Top vs Nasus - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1673
   region: KR
+  uploaded: 2025-07-04

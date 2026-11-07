@@ -5,9 +5,65 @@
   patch: "25.13"
   durationSec: 1580
   region: KR
+  uploaded: 2025-07-07
 - videoId: Uz64h2muY1c
   title: Nocturne Top vs Jayce - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 2058
   region: KR
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Take down The Turret
+      kind: tower
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:54
+      label: Take down The Turret
+      kind: tower
+    - at: 29:14
+      label: Take down The Inhibitor
+    - at: 29:25
+      label: Take down The Turret
+      kind: tower
+    - at: 29:35
+      label: Take down The Inhibitor
+    - at: 30:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:15
+      label: Take down The Turret
+      kind: tower
+    - at: 33:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:57
+      label: End credit

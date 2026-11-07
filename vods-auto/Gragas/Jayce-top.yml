@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1602
   region: KR
+  uploaded: 2026-09-03
 - videoId: TGWFTiGllt4
   title: (LNG sheer) Gragas Top vs Jayce (GZ 1Jiang) - KR Challenger Patch 26.14
   rankClaim: Challenger
@@ -13,9 +14,58 @@
   region: KR
   player: sheer
   team: LNG
+  uploaded: 2026-07-19
 - videoId: 2FDd-66RGHU
   title: Gragas Top vs Jayce - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1891
   region: KR
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Take down The Turret
+      kind: tower
+    - at: 16:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:48
+      label: Take down The Turret
+      kind: tower
+    - at: 31:10
+      label: End credit

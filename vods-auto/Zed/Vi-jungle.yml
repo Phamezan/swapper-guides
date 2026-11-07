@@ -316,42 +316,226 @@
   patch: "26.2"
   durationSec: 1531
   region: NA
+  uploaded: 2026-02-02
 - videoId: rDQCb954qHQ
   title: Zed Jungle vs Vi - BR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1472
+  uploaded: 2025-10-23
 - videoId: gOHHV3BXcZs
   title: Zed Jungle vs Vi - EUW Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 2135
   region: EUW
+  uploaded: 2025-09-26
 - videoId: rqEVR3UwIKY
   title: Zed Jungle vs Vi - BR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1904
+  uploaded: 2025-07-09
 - videoId: T9l_bkddk9w
   title: Zed vs Vi Jungle - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1546
   region: KR
+  uploaded: 2025-05-14
 - videoId: jNhbH6oS5wc
   title: Zed Jungle vs Vi - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1632
   region: KR
+  uploaded: 2025-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Take down The Turret
+      kind: tower
+    - at: 15:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Hunt The Atakhan
+    - at: 23:13
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:51
+      label: End credit
 - videoId: 8UW1fvB6H8I
   title: Zed Jungle vs Vi - BR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1835
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:20
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:27
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:51
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Take down The Turret
+      kind: tower
+    - at: 19:04
+      label: Take down The Inhibitor
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Hunt The Atakhan
+    - at: 23:53
+      label: Take down The Inhibitor
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:54
+      label: Take down The Turret
+      kind: tower
+    - at: 28:11
+      label: Take down The Inhibitor
+    - at: 29:02
+      label: Take down The Inhibitor
+    - at: 29:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:14
+      label: End credit
 - videoId: xt3C0DWYYmc
   title: Zed Jungle vs Vi - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1523
   region: EUW
+  uploaded: 2025-03-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:19
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:26
+      label: Take down The Turret
+      kind: tower
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Hunt The Atakhan
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: End credit

@@ -5,9 +5,103 @@
   patch: "26.6"
   durationSec: 1736
   region: EUW
+  uploaded: 2026-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:03
+      label: Take down The Turret
+      kind: tower
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Take down The Turret
+      kind: tower
+    - at: 18:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Take down The Turret
+      kind: tower
+    - at: 21:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:28
+      label: Take down The Turret
+      kind: tower
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:24
+      label: Take down The Turret
+      kind: tower
+    - at: 28:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:45
+      label: End credit
 - videoId: R9r3OfnqA3s
   title: Yasuo Top vs Warwick - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1766
   region: KR
+  uploaded: 2025-04-26

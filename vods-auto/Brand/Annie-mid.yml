@@ -5,3 +5,62 @@
   patch: "26.6"
   durationSec: 1455
   region: KR
+  uploaded: 2026-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:31
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:41
+      label: Take down The Turret
+      kind: tower
+    - at: 14:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Take down The Turret
+      kind: tower
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:53
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:13
+      label: Take down The Turret
+      kind: tower
+    - at: 21:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Take down The Turret
+      kind: tower
+    - at: 23:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Take down The Inhibitor
+    - at: 24:04
+      label: End credit

@@ -5,9 +5,97 @@
   patch: "25.8"
   durationSec: 2115
   region: KR
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:54
+      label: Take down The Turret
+      kind: tower
+    - at: 34:12
+      label: Take down The Inhibitor
+    - at: 34:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:54
+      label: End credit
 - videoId: a_cj7LTkGGA
   title: Morgana Support vs Rell - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1929
   region: KR
+  uploaded: 2025-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Take down The Turret
+      kind: tower
+    - at: 18:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:13
+      label: Take down The Inhibitor
+    - at: 31:29
+      label: Take down The Turret
+      kind: tower
+    - at: 31:48
+      label: End credit

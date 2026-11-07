@@ -5,3 +5,52 @@
   patch: "26.19"
   durationSec: 1749
   region: KR
+  uploaded: 2026-10-02
+  result: W
+  moments:
+    - at: 1:26
+      label: First Blood — Xin Zhao kills Anivia
+      kind: kill
+    - at: 5:08
+      label: Pantheon catches Anivia
+    - at: 5:37
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 6:08
+      label: Pantheon kills Talon
+      kind: kill
+    - at: 8:52
+      label: Pantheon eliminates Anivia
+    - at: 11:12
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 12:26
+      label: Xin Zhao picks off Karthus
+    - at: 16:27
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 18:27
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 19:23
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 21:34
+      label: Pantheon kills Talon
+      kind: kill
+    - at: 21:52
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 22:38
+      label: Xin Zhao kills Janna
+      kind: kill
+    - at: 25:11
+      label: Xin Zhao Double Kill
+      kind: kill
+    - at: 25:35
+      label: Red takes Baron
+      kind: baron
+    - at: 26:41
+      label: Pantheon eliminates Anivia
+    - at: 26:56
+      label: Mid Inhibitor falls (Blue)

@@ -7,9 +7,47 @@
   region: KR
   player: BuLLDoG
   team: LNG
+  uploaded: 2026-06-06
+  result: L
+  moments:
+    - at: 5:31
+      label: First Blood — Rengar kills Lee Sin
+      kind: kill
+    - at: 7:13
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:13
+      label: Rengar picks off Aurora
+    - at: 10:55
+      label: Rengar picks off Aurora
+    - at: 12:47
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:04
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 18:17
+      label: Taliyah kills Mel
+      kind: kill
+    - at: 22:17
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:22
+      label: Varus Double Kill
+      kind: kill
+    - at: 23:45
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 25:35
+      label: Red takes Baron
+      kind: baron
+    - at: 26:18
+      label: Varus eliminates Lee Sin
+    - at: 27:42
+      label: Taliyah picks off Lee Sin
 - videoId: h0-qDn1x_sQ
   title: Taliyah Mid vs Aurora - EUW Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1552
   region: EUW
+  uploaded: 2025-12-01

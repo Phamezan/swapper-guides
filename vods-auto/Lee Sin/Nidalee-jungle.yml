@@ -7,6 +7,7 @@
   region: KR
   player: Lucid
   team: DK
+  uploaded: 2026-06-27
 - videoId: 4NHDpyMhaak
   title: Lee Sin vs Nidalee Jungle [ Gen.G Canyon ] Korea Challengerr 2185 LP | Patch 26.12
   rankClaim: Challenger
@@ -45,36 +46,35 @@
   patch: "25.24"
   durationSec: 1921
   region: KR
+  uploaded: 2025-12-26
 - videoId: LMbHx7LDNCY
   title: Lee Sin vs Nidalee Jungle - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1516
   region: KR
+  uploaded: 2025-11-18
 - videoId: K1cuAmxrtcM
   title: Lee Sin Jungle vs Nidalee - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1671
   region: KR
+  uploaded: 2025-08-03
 - videoId: QizYNE6YAbE
   title: Lee Sin vs Nidalee Jungle - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1591
   region: KR
+  uploaded: 2025-07-10
 - videoId: 9uhCDdkczTU
   title: Lee Sin vs Nidalee Jungle - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1711
   region: KR
-- videoId: 9vTbcpM3pxY
-  title: Lee Sin Jungle vs Nidalee - KR Challenger Patch 25.05
-  rankClaim: Challenger
-  patch: "25.5"
-  durationSec: 1590
-  region: KR
+  uploaded: 2025-06-26
 - videoId: dBYUeNdWlaY
   title: Kanavi Lee Sin vs Nidalee Jungle - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
@@ -82,21 +82,84 @@
   durationSec: 1681
   region: KR
   player: Kanavi
-- videoId: pnKhK0vfa_Y
-  title: Lee Sin Jungle vs Nidalee - KR Challenger Patch 25.04
+  uploaded: 2025-03-12
+- videoId: 9vTbcpM3pxY
+  title: Lee Sin Jungle vs Nidalee - KR Challenger Patch 25.05
   rankClaim: Challenger
-  patch: "25.4"
-  durationSec: 1562
+  patch: "25.5"
+  durationSec: 1590
   region: KR
+  uploaded: 2025-03-08
 - videoId: HHOD1oGb_Ls
   title: Lee Sin vs Nidalee Jungle - KR Grandmaster - Patch 25.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1830
   region: KR
+  uploaded: 2025-03-01
+- videoId: pnKhK0vfa_Y
+  title: Lee Sin Jungle vs Nidalee - KR Challenger Patch 25.04
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 1562
+  region: KR
+  uploaded: 2025-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:15
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:46
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Hunt The Atakhan
+    - at: 22:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:41
+      label: End credit
 - videoId: Qb_FBSYaJOs
   title: Lee Sin vs Nidalee Jungle - KR Grandmaster - Patch 15.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1621
   region: KR
+  uploaded: 2025-02-21

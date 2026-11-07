@@ -6,9 +6,70 @@
   durationSec: 1670
   region: EUW
   player: SC Nafkelah
+  uploaded: 2026-07-06
 - videoId: KE2Ryqt6nTY
   title: Anivia Mid vs Mel - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1538
   region: EUW
+  uploaded: 2026-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Take down The Turret
+      kind: tower
+    - at: 20:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Take down The Turret
+      kind: tower
+    - at: 24:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: End credit

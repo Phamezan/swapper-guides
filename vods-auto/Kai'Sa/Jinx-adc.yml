@@ -63,12 +63,98 @@
     - at: 26:05
       label: Kai'Sa Triple Kill
       kind: kill
+- videoId: awutrSyhZLo
+  title: "Rank 1 Kai'sa : When His Team is Lossing, He Always Find Away to Win - Engsub ( vs Jinx, Caitlyn )"
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1308
+  patchEstimated: true
+  uploaded: 2026-10-01
+  format: stream
+- videoId: DzZNTAo-lZs
+  title: "Rank 1 Kai'sa : His Mechanic is Gonna Blow You Mind - Engsub ( vs Jinx, Xayah )"
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 1846
+  patchEstimated: true
+  uploaded: 2026-09-11
+  format: stream
+- videoId: u7k8CWCa5WA
+  title: "HuanFeng Kai'sa : Insane 1v5 HardCarrying in HighElo \" 27 Kills in a Match \" Engsub ( vs Jinx )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 959
+  patchEstimated: true
+  uploaded: 2026-08-22
+  format: stream
+- videoId: hhF6YH48f1Q
+  title: "1600LP Kai'sa : Try This Kai'sa Build It's so DAM GOOD - Engsub ( Kai'sa vs Jinx, Samira )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1551
+  patchEstimated: true
+  uploaded: 2026-05-07
+  format: stream
 - videoId: yzUSAn0Z0eY
   title: Kai'Sa ADC vs Jinx - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1509
   region: KR
+  uploaded: 2026-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Take down The Turret
+      kind: tower
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: End credit
 - videoId: r3ZU8M1EvEs
   title: T1 Smash Kai'Sa vs Jinx ADC [ PentaKill ] Korea Challenger 1575 LP | Patch 25.20
   rankClaim: Challenger
@@ -77,12 +163,14 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-10-16
 - videoId: wX3wwGYJMGo
   title: Kai'Sa vs Jinx ADC - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1531
   region: KR
+  uploaded: 2025-09-28
 - videoId: el-xPTM_X38
   title: T1 Smash Kaisa vs Jinx [ ADC ] Korea Challenger 1446 LP | Patch 25.19
   rankClaim: Challenger
@@ -91,18 +179,21 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-09-26
 - videoId: d6uVDoawjJs
   title: Kai'Sa ADC vs Jinx - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1862
   region: KR
+  uploaded: 2025-03-08
 - videoId: aIkE4mWQrJQ
   title: Kai'Sa vs Jinx ADC - KR Grandmaster - Patch 25.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1741
   region: KR
+  uploaded: 2025-03-01
 - videoId: PDMd51ljhoE
   title: Kaisa vs Jinx ADC [ Gen.G Ruler ] Korea Challenger Patch 25.3 ✅
   rankClaim: Challenger
@@ -111,3 +202,4 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-02-19

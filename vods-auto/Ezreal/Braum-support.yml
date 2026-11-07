@@ -5,3 +5,59 @@
   patch: "26.6"
   durationSec: 1913
   region: KR
+  uploaded: 2026-03-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Take down The Turret
+      kind: tower
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:57
+      label: Take down The Turret
+      kind: tower
+    - at: 28:17
+      label: Take down The Inhibitor
+    - at: 30:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:24
+      label: Take down The Turret
+      kind: tower
+    - at: 31:42
+      label: End credit

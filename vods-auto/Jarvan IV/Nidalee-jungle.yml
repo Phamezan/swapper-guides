@@ -5,33 +5,110 @@
   patch: "26.6"
   durationSec: 1694
   region: KR
+  uploaded: 2026-03-23
 - videoId: OkZ1RTD13e4
   title: Jarvan IV Jungle vs Nidalee - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1447
   region: KR
+  uploaded: 2026-02-09
 - videoId: TaM6_hcef6E
   title: Jarvan IV Jungle vs Nidalee - NA Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1467
   region: NA
+  uploaded: 2026-01-12
 - videoId: pTL1mKDT8N8
   title: Jarvan IV Jungle vs Nidalee - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1730
   region: KR
+  uploaded: 2025-08-06
 - videoId: fveXBoFRbag
   title: Jarvan IV Jungle vs Nidalee - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1928
   region: KR
+  uploaded: 2025-06-05
 - videoId: Enfo6KYZnRk
   title: Jarvan IV Jungle vs Nidalee - KR Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1879
   region: KR
+  uploaded: 2025-03-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:10
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Take down The Turret
+      kind: tower
+    - at: 24:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:06
+      label: Take down The Turret
+      kind: tower
+    - at: 29:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:58
+      label: End credit

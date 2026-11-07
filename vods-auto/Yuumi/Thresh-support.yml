@@ -61,21 +61,69 @@
   patch: "26.1"
   durationSec: 1526
   region: EUW
+  uploaded: 2026-01-22
 - videoId: 9dbqCeql17o
   title: Yuumi Support vs Thresh - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1469
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Take down The Turret
+      kind: tower
+    - at: 12:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Take down The Turret
+      kind: tower
+    - at: 15:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:14
+      label: Take down The Turret
+      kind: tower
+    - at: 22:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: End credit
 - videoId: 4zFX-DHTAvs
   title: Yuumi Support vs Thresh - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1481
   region: EUW
+  uploaded: 2025-11-06
 - videoId: 5DGG2wUdbMg
   title: Yuumi Support vs Thresh - NA Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1513
   region: NA
+  uploaded: 2025-07-17

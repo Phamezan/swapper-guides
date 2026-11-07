@@ -59,15 +59,53 @@
   patch: "26.2"
   durationSec: 1445
   region: EUW
+  uploaded: 2026-02-05
 - videoId: kBSewFOwxok
   title: Janna Support vs Nami - EUW Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1481
   region: EUW
+  uploaded: 2025-09-12
 - videoId: v4izwYT1oe4
   title: Janna Support vs Nami - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1701
   region: KR
+  uploaded: 2025-05-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:58
+      label: Take down The Turret
+      kind: tower
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Take down The Turret
+      kind: tower
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Take down The Turret
+      kind: tower
+    - at: 27:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: End credit

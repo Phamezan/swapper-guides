@@ -5,21 +5,95 @@
   patch: "26.13"
   durationSec: 1597
   region: KR
+  uploaded: 2026-07-16
 - videoId: xqXivt0IKKg
   title: Evelynn Jungle vs Pantheon - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1601
   region: KR
+  uploaded: 2025-06-19
 - videoId: 7twgvVlAFQ0
   title: Evelynn vs Pantheon Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1711
   region: KR
+  uploaded: 2025-05-25
 - videoId: nszW_dMY85k
   title: Evelynn Jungle vs Pantheon - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 2031
   region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:44
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:36
+      label: Take down The Turret
+      kind: tower
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Take down The Turret
+      kind: tower
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:00
+      label: Take down The Turret
+      kind: tower
+    - at: 33:11
+      label: Take down The Inhibitor
+    - at: 33:30
+      label: End credit

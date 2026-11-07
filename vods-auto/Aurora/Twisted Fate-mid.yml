@@ -5,6 +5,7 @@
   patch: "26.9"
   durationSec: 1672
   region: KR
+  uploaded: 2026-05-11
 - videoId: CmVZ4vxU6o4
   title: T1 Faker Aurora vs Twisted Fate [ MID ] Patch 26.8 Korea Challenger 1852 LP
   rankClaim: Challenger
@@ -20,9 +21,58 @@
   patch: "25.17"
   durationSec: 1620
   region: KR
+  uploaded: 2025-08-30
 - videoId: Q5CcVwzXIvs
   title: Aurora Mid vs Twisted Fate - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1725
   region: KR
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Take down The Turret
+      kind: tower
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Take down The Turret
+      kind: tower
+    - at: 20:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:24
+      label: End credit

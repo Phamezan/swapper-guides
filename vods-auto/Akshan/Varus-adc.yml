@@ -5,21 +5,132 @@
   patch: "26.13"
   durationSec: 1902
   region: KR
+  uploaded: 2026-07-05
 - videoId: nUk-eRjQ-VQ
   title: Akshan ADC vs Varus (NIP Hoya) - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1594
   region: KR
+  uploaded: 2026-05-26
+  result: W
+  moments:
+    - at: 0:38
+      label: First Blood — Bard kills Varus
+      kind: kill
+    - at: 6:43
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 8:06
+      label: Akshan catches Aurora
+    - at: 12:50
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:21
+      label: Kindred picks off Aurora
+    - at: 16:12
+      label: Akshan eliminates Talon
+    - at: 17:14
+      label: Akshan picks off Gnar
+    - at: 17:58
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:08
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:07
+      label: Akshan outduels Aurora again
+    - at: 20:22
+      label: Akshan outduels Varus
+    - at: 21:03
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:25
+      label: Akshan outplays Varus again
+    - at: 23:18
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:45
+      label: Akshan picks off Camille
+    - at: 23:56
+      label: Akshan outplays Aurora (3rd time)
+    - at: 25:18
+      label: Mid Inhibitor falls (Red)
+    - at: 25:29
+      label: Kindred Double Kill
+      kind: kill
 - videoId: MgXqZBhAlX4
   title: Akshan ADC vs Varus - KR Challenger Patch 26.09
   rankClaim: Challenger
   patch: "26.9"
   durationSec: 1568
   region: KR
+  uploaded: 2026-05-12
 - videoId: NC3JjyDk0JU
   title: Akshan ADC vs Varus - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1493
   region: KR
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 3:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:46
+      label: Take down The Turret
+      kind: tower
+    - at: 13:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:14
+      label: Take down The Turret
+      kind: tower
+    - at: 21:43
+      label: Take down The Inhibitor
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:42
+      label: End credit

@@ -7,6 +7,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-06-29
 - videoId: 8vseDd4dMPg
   title: Zed Jungle vs Diana - EUW Master Patch 26.10
   rankClaim: Master
@@ -123,31 +124,107 @@
   patch: "25.23"
   durationSec: 1622
   region: EUW
+  uploaded: 2025-11-28
 - videoId: 0Cw1cejmeno
   title: Zed Jungle vs Diana - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1715
   region: EUW
+  uploaded: 2025-11-16
 - videoId: bT49ORAd3Xs
   title: Zed Jungle vs Diana - BR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1454
+  uploaded: 2025-10-14
 - videoId: VmjdAAWNlHQ
   title: Zed Jungle vs Diana - VN Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1753
+  uploaded: 2025-10-07
 - videoId: Q5MtM-s1pAM
   title: Zed Jungle vs Diana - EUW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1695
   region: EUW
+  uploaded: 2025-06-25
 - videoId: vpCBW0hN3Uw
   title: Zed Jungle vs Diana - EUW Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1910
   region: EUW
+  uploaded: 2025-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:15
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Take down The Turret
+      kind: tower
+    - at: 27:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:09
+      label: Take down The Turret
+      kind: tower
+    - at: 28:38
+      label: Take down The Inhibitor
+    - at: 30:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:29
+      label: End credit

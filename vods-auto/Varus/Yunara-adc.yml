@@ -46,6 +46,59 @@
   patch: "26.2"
   durationSec: 1619
   region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:52
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Take down The Turret
+      kind: tower
+    - at: 24:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:29
+      label: Take down The Turret
+      kind: tower
+    - at: 24:47
+      label: Take down The Inhibitor
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: End credit
 - videoId: 3POyj_mc_jE
   title: T1 Peyz Varus vs Yunara [ ADC ] Korea Challenger 1372 LP | Patch 25.24
   rankClaim: Challenger
@@ -54,6 +107,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-02
 - videoId: VN4se75Pnm4
   title: T1 Peyz Varus vs Yunara [ ADC ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -62,12 +116,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2025-12-07
 - videoId: NAYGoPQSSF8
   title: Varus ADC vs Yunara - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1665
   region: KR
+  uploaded: 2025-11-22
 - videoId: IAOWGzQxkRs
   title: T1 Gumayusi Varus vs Yunara [ ADC ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -76,3 +132,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-05

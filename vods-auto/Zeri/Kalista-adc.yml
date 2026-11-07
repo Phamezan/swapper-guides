@@ -5,9 +5,19 @@
   patch: "26.18"
   durationSec: 1461
   region: EUW
+  uploaded: 2026-09-23
 - videoId: zxppEkxOnKs
   title: Zeri ADC vs Kalista (DNS deokdam) - KR Challenger Patch 26.18
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1736
   region: KR
+  uploaded: 2026-09-14
+- videoId: aALZTfPrC2g
+  title: "Rank 1 Zeri : This Guy is a Freaky Animal, Amazing Kiting Skill - Engsub (Zeri vs MF, Kalista)"
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1407
+  patchEstimated: true
+  uploaded: 2026-07-19
+  format: stream

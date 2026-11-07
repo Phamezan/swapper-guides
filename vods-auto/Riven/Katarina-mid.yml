@@ -29,9 +29,58 @@
   patch: "25.16"
   durationSec: 1697
   region: NA
+  uploaded: 2025-08-27
 - videoId: 4A49ECQwvdg
   title: Riven Mid vs Katarina - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1688
   region: KR
+  uploaded: 2025-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:25
+      label: Take down The Turret
+      kind: tower
+    - at: 17:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Take down The Turret
+      kind: tower
+    - at: 27:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:47
+      label: End credit

@@ -115,6 +115,7 @@
   patch: "26.1"
   durationSec: 1535
   region: EUW
+  uploaded: 2026-01-20
 - videoId: 78RtESy2JHw
   title: Ahri Top vs Aatrox - NA Grandmaster Patch 26.01
   rankClaim: Grandmaster
@@ -173,8 +174,10 @@
   rankClaim: Master
   patch: "25.19"
   durationSec: 1796
+  uploaded: 2025-09-29
 - videoId: pZ_rXgNcMjI
   title: Ahri Top vs Aatrox - TW Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1695
+  uploaded: 2025-09-19

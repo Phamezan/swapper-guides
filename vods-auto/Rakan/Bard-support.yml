@@ -7,15 +7,70 @@
   region: KR
   player: Delight
   team: HLE
+  uploaded: 2026-05-28
+  result: L
+  moments:
+    - at: 1:52
+      label: First Blood — Yunara kills Bard
+      kind: kill
+    - at: 7:55
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:23
+      label: Aurora Triple Kill
+      kind: kill
+    - at: 12:18
+      label: Wukong kills Bard
+      kind: kill
+    - at: 13:23
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:58
+      label: Wukong kills Bard
+      kind: kill
+    - at: 14:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:03
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:27
+      label: Yunara picks off Jayce
+    - at: 19:21
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:49
+      label: Red takes Baron
+      kind: baron
+    - at: 23:33
+      label: Rakan eliminates Jayce
+    - at: 24:23
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:03
+      label: Wukong kills Jayce
+      kind: kill
+    - at: 26:27
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 28:08
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:53
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 29:30
+      label: Mid Inhibitor falls (Blue)
 - videoId: sQ3amWVyZOg
   title: Rakan Support vs Bard - EUW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1673
   region: EUW
+  uploaded: 2026-02-22
 - videoId: V1o5apForHM
   title: Rakan Support vs Bard - EUW Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 2127
   region: EUW
+  uploaded: 2025-09-24

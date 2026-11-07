@@ -5,3 +5,53 @@
   patch: "26.10"
   durationSec: 1891
   region: KR
+  uploaded: 2026-05-16
+  result: L
+  moments:
+    - at: 2:57
+      label: First Blood — Viktor kills Heimerdinger
+      kind: kill
+    - at: 4:40
+      label: Viktor catches Heimerdinger
+    - at: 6:24
+      label: Viktor outduels Heimerdinger again
+    - at: 6:42
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 10:44
+      label: Viktor outplays Kassadin
+    - at: 11:10
+      label: Viktor outplays Heimerdinger (3rd time)
+    - at: 12:16
+      label: Viktor solo kills Heimerdinger (4th time)
+      kind: kill
+    - at: 12:49
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 16:56
+      label: Viktor solo kills Kassadin again
+      kind: kill
+    - at: 18:10
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 23:40
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 24:03
+      label: Aurora eliminates Kassadin
+    - at: 24:33
+      label: Red takes Baron
+      kind: baron
+    - at: 25:01
+      label: Viktor eliminates Heimerdinger
+    - at: 26:02
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:02
+      label: Mid Inhibitor falls (Blue)
+    - at: 29:03
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 30:07
+      label: Draven Double Kill
+      kind: kill

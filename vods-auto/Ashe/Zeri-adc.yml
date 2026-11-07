@@ -113,6 +113,14 @@
     - at: 30:24
       label: Ashe Double Kill
       kind: kill
+- videoId: KnlZdX8vnq0
+  title: "Rank 1 Ashe : His Mechanic is a Master Piece - Engsub ( vs Zeri, Jhin )"
+  rankClaim: Master
+  patch: "26.19"
+  durationSec: 1497
+  patchEstimated: true
+  uploaded: 2026-10-05
+  format: stream
 - videoId: quUPTSa9bUE
   title: (DV1 Faetski) Ashe ADC vs Zeri - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
@@ -120,6 +128,23 @@
   durationSec: 1636
   region: EUW
   player: DV1 Faetski
+  uploaded: 2026-07-10
+- videoId: lclJ1NyvlB4
+  title: 'Rank 1 Ashe : Insane 1v9 HardCarrying " He is The Last Man Standing " Engsub ( Ashe vs Zeri )'
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1413
+  patchEstimated: true
+  uploaded: 2026-06-25
+  format: stream
+- videoId: L0zA7BydvbE
+  title: "Rank 1 Ashe : This is What Machine Gun Ashe Look Like - Engsub ( Ashe vs Zeri )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 708
+  patchEstimated: true
+  uploaded: 2026-05-20
+  format: stream
 - videoId: iZ0xSuqSBA8
   title: T1 Peyz Ashe vs Zeri [ ADC ] Korea Challenger 1968 LP | Patch 26.6
   rankClaim: Challenger
@@ -128,11 +153,7 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: Ev_ece8-oUM
-  title: Ashe ADC vs Zeri - TW Challenger Patch 25.24
-  rankClaim: Challenger
-  patch: "25.24"
-  durationSec: 1490
+  uploaded: 2026-03-23
 - videoId: GdLZpDJwSDo
   title: DK Smash Ashe vs Zeri [ ADC ] Korea Challenger 1725 LP | Patch 25.24
   rankClaim: Challenger
@@ -141,15 +162,65 @@
   region: KR
   player: Smash
   team: DK
+  uploaded: 2025-12-22
+- videoId: Ev_ece8-oUM
+  title: Ashe ADC vs Zeri - TW Challenger Patch 25.24
+  rankClaim: Challenger
+  patch: "25.24"
+  durationSec: 1490
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:45
+      label: Take down The Turret
+      kind: tower
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Take down The Turret
+      kind: tower
+    - at: 24:39
+      label: End credit
 - videoId: qfJZZ10YErk
   title: Ashe ADC vs Zeri - EUW Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1689
   region: EUW
+  uploaded: 2025-10-09
 - videoId: EnLnp1rsSmk
   title: Ashe vs Zeri [ ADC ] Lol Korea Master Patch 25.16 ✅
   rankClaim: Master
   patch: "25.16"
   durationSec: 1824
   region: KR
+  uploaded: 2025-08-25

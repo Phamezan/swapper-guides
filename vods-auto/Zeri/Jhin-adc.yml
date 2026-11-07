@@ -12,6 +12,7 @@
   patch: "26.19"
   durationSec: 1793
   region: KR
+  uploaded: 2026-09-26
 - videoId: doVNYDhaeak
   title: T1 Peyz Zeri vs Jhin [ ADC ] Patch 26.10 Korea Challenger 2486 LP
   rankClaim: Challenger
@@ -21,12 +22,29 @@
   player: Peyz
   team: T1
   uploaded: 2026-05-20
+- videoId: 3vEzyfo3pLU
+  title: "Rank 1 Zeri : DOMINATING Master Elo with Perfect KDA - Engsub ( Zeri vs Jhin, Lucian )"
+  rankClaim: Master
+  patch: "26.10"
+  durationSec: 1108
+  patchEstimated: true
+  uploaded: 2026-05-16
+  format: stream
+- videoId: 7P6SqeVeOWc
+  title: "1600LP Zeri : His Mechanic is INCREDIBLE INSANE - Engsub ( Zeri vs Jhin )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1085
+  patchEstimated: true
+  uploaded: 2026-05-10
+  format: stream
 - videoId: n6kJWZfrj-8
   title: Zeri ADC vs Jhin - KR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1787
   region: KR
+  uploaded: 2025-06-14
 - videoId: RK_zMvHmFlA
   title: Zeri vs Jhin ADC [ Peyz ] Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -34,3 +52,4 @@
   durationSec: 1413
   region: KR
   player: Peyz
+  uploaded: 2025-02-16

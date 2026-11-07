@@ -6,15 +6,85 @@
   durationSec: 1568
   region: KR
   player: Clozer
+  uploaded: 2026-09-12
 - videoId: zE3ZZnsxXys
   title: Camille Top vs Shen - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1547
   region: KR
+  uploaded: 2025-07-02
 - videoId: XPcmLUtEkuU
   title: Camille Top vs Shen - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1695
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:04
+      label: Take down The Turret
+      kind: tower
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Take down The Turret
+      kind: tower
+    - at: 22:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 26:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:24
+      label: Take down The Turret
+      kind: tower
+    - at: 26:38
+      label: Take down The Inhibitor
+    - at: 26:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:22
+      label: Take down The Turret
+      kind: tower
+    - at: 27:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:54
+      label: End credit

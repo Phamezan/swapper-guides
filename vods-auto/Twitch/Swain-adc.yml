@@ -5,3 +5,45 @@
   patch: "26.9"
   durationSec: 1491
   region: KR
+  uploaded: 2026-05-04
+  result: L
+  moments:
+    - at: 1:39
+      label: First Blood — Twitch kills Swain
+      kind: kill
+    - at: 1:54
+      label: Twitch eliminates Master Yi
+    - at: 3:51
+      label: Twitch picks off Leona
+    - at: 9:07
+      label: Twitch kills Ryze
+      kind: kill
+    - at: 12:08
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:41
+      label: Graves kills Leona
+      kind: kill
+    - at: 13:46
+      label: Twitch Double Kill
+      kind: kill
+    - at: 15:08
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:27
+      label: Twitch picks off Leona
+    - at: 17:25
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:36
+      label: Twitch eliminates Master Yi
+    - at: 19:19
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:19
+      label: Red takes Baron
+      kind: baron
+    - at: 23:07
+      label: Twitch picks off Leona
+    - at: 23:30
+      label: Mid Inhibitor falls (Blue)

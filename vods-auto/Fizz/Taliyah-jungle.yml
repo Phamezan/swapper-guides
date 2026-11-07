@@ -7,9 +7,66 @@
   region: KR
   player: Canyon
   team: Gen.G
+  uploaded: 2026-02-23
 - videoId: 6iiydHT9iRI
   title: Fizz Jungle vs Taliyah - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1593
   region: KR
+  uploaded: 2026-02-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Take down The Turret
+      kind: tower
+    - at: 23:56
+      label: Take down The Inhibitor
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:22
+      label: End credit

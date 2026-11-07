@@ -5,3 +5,42 @@
   patch: "25.7"
   durationSec: 1697
   region: KR
+  uploaded: 2025-04-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Get a Triple Kill
+      kind: kill
+    - at: 27:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:56
+      label: End credit

@@ -5,12 +5,14 @@
   patch: "26.10"
   durationSec: 1825
   region: KR
+  uploaded: 2026-05-17
 - videoId: X6YOrLUi5E8
   title: Wukong Jungle vs Master Yi - KR Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1581
   region: KR
+  uploaded: 2026-04-20
 - videoId: wkGUAcLqLOE
   title: Faker Wukong vs Master Yi Jungle - KR Master - Patch 25.24 Season 15
   rankClaim: Master
@@ -18,6 +20,7 @@
   durationSec: 1601
   region: KR
   player: Faker
+  uploaded: 2025-12-12
 - videoId: Nhpj_f1A-bg
   title: T1 Faker Wukong vs Master Yi [ Jungle ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -26,9 +29,11 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-12-08
 - videoId: I1PBWnXreVg
   title: Wukong Jungle vs Master Yi - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1583
   region: KR
+  uploaded: 2025-10-28

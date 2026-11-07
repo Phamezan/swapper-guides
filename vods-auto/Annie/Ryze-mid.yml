@@ -5,27 +5,82 @@
   patch: "26.5"
   durationSec: 1609
   region: KR
+  uploaded: 2026-03-18
 - videoId: VbmFCiaKGDk
   title: Annie Mid vs Ryze - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1598
   region: KR
+  uploaded: 2026-01-09
 - videoId: _Ern4SzkfI8
   title: Annie Mid vs Ryze - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1642
   region: KR
+  uploaded: 2025-09-19
 - videoId: 5ONOn1QvUyQ
   title: Annie Mid vs Ryze - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1637
   region: KR
+  uploaded: 2025-06-19
 - videoId: MeCvQAyUrNM
   title: Annie Mid vs Ryze - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1977
   region: KR
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Take down The Turret
+      kind: tower
+    - at: 17:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:36
+      label: End credit

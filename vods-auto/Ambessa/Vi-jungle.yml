@@ -12,6 +12,60 @@
   patch: "26.5"
   durationSec: 1498
   region: KR
+  uploaded: 2026-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Get a Triple Kill
+      kind: kill
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Take down The Turret
+      kind: tower
+    - at: 15:08
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:47
+      label: End credit
 - videoId: nYHbH2ZL0I0
   title: Ambessa vs Vi Jungle - KR Challenger - Patch 16.03 Season 16
   rankClaim: Challenger

@@ -198,9 +198,51 @@
   patch: "25.24"
   durationSec: 1569
   region: NA
+  uploaded: 2025-12-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Take down The Turret
+      kind: tower
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Take down The Turret
+      kind: tower
+    - at: 20:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:14
+      label: Take down The Turret
+      kind: tower
+    - at: 24:25
+      label: Take down The Inhibitor
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: End credit
 - videoId: KNVnLvVvmvs
   title: Ahri Top vs Jayce - NA Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1690
   region: NA
+  uploaded: 2025-10-16

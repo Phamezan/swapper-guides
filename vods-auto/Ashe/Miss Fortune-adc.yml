@@ -5,18 +5,146 @@
   patch: "26.7"
   durationSec: 1447
   region: EUW
+  uploaded: 2026-04-04
 - videoId: magAwP0JWF8
   title: Ashe ADC vs Miss Fortune - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1785
   region: KR
+  uploaded: 2026-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 26:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:07
+      label: Get a Triple Kill
+      kind: kill
+    - at: 27:29
+      label: Take down The Turret
+      kind: tower
+    - at: 28:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:01
+      label: Take down The Inhibitor
+    - at: 29:13
+      label: Take down The Turret
+      kind: tower
+    - at: 29:34
+      label: End credit
 - videoId: QigOzzKpEgY
   title: Ashe ADC vs Miss Fortune - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1451
   region: EUW
+  uploaded: 2026-01-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:05
+      label: Take down The Turret
+      kind: tower
+    - at: 14:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Take down The Turret
+      kind: tower
+    - at: 15:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Take down The Turret
+      kind: tower
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Take down The Turret
+      kind: tower
+    - at: 22:09
+      label: Take down The Inhibitor
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: End credit
 - videoId: WP65rR2VfaE
   title: T1 Gumayusi Ashe vs Miss Fortune [ ADC ] Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -25,3 +153,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-05

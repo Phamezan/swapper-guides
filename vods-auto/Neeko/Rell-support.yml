@@ -57,21 +57,112 @@
   patch: "26.18"
   durationSec: 1812
   region: KR
+  uploaded: 2026-09-23
 - videoId: -HQ6QX4_kK4
   title: Neeko Support vs Rell - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1598
   region: KR
+  uploaded: 2025-09-03
 - videoId: sEph6uw6kGY
   title: Neeko Support vs Rell - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1599
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Take down The Turret
+      kind: tower
+    - at: 22:44
+      label: Take down The Inhibitor
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: End credit
 - videoId: swRc18AOTII
   title: Neeko Support vs Rell - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1659
   region: KR
+  uploaded: 2025-05-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:18
+      label: End credit

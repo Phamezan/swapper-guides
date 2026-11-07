@@ -5,15 +5,102 @@
   patch: "26.17"
   durationSec: 1510
   region: KR
+  uploaded: 2026-08-28
 - videoId: Lz885tmXreE
   title: Syndra Mid vs Aurora - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1686
   region: KR
+  uploaded: 2026-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 23:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Take down The Turret
+      kind: tower
+    - at: 25:28
+      label: Take down The Inhibitor
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:55
+      label: End credit
 - videoId: wA-4xQ2jRE4
   title: Syndra Mid vs Aurora - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1762
   region: KR
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:27
+      label: Take down The Turret
+      kind: tower
+    - at: 27:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:01
+      label: End credit

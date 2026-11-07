@@ -12,27 +12,90 @@
   patch: "25.13"
   durationSec: 1986
   region: EUW
+  uploaded: 2025-07-17
 - videoId: jwdrkjR_r5Q
   title: Bel'Veth vs Vi Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1431
   region: KR
+  uploaded: 2025-06-18
 - videoId: 4-abkAuyy_E
   title: Bel'Veth Jungle vs Vi - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1871
   region: KR
+  uploaded: 2025-05-07
 - videoId: mmlZHWWXkHU
   title: Bel'Veth Jungle vs Vi - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1559
   region: KR
+  uploaded: 2025-04-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:16
+      label: Take down The Turret
+      kind: tower
+    - at: 14:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Take down The Turret
+      kind: tower
+    - at: 20:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Take down The Turret
+      kind: tower
+    - at: 22:27
+      label: Take down The Inhibitor
+    - at: 23:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: End credit
 - videoId: UX1f440Y2zQ
   title: Bel'Veth vs Vi Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1650
   region: KR
+  uploaded: 2025-03-19

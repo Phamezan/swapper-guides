@@ -6,12 +6,67 @@
   durationSec: 1534
   region: EUW
   player: IJC Soldier
+  uploaded: 2026-08-02
 - videoId: PA9ivn8Po2g
   title: Kai'Sa ADC vs Aphelios - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1506
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:54
+      label: Take down The Turret
+      kind: tower
+    - at: 19:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:59
+      label: Take down The Turret
+      kind: tower
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Take down The Turret
+      kind: tower
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: End credit
 - videoId: VWGiR28EmvQ
   title: Kai'Sa vs Aphelios ADC [ Gen.G Ruler ] Korea Master Patch 26.2 ✅
   rankClaim: Master
@@ -20,6 +75,7 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2026-01-27
 - videoId: JeijCJecv3k
   title: Kai'Sa vs Aphelios ADC [ BLG Viper ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -28,6 +84,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2025-12-25
 - videoId: _VnI2h8fo-o
   title: Kai'Sa vs Aphelios ADC [ Gen.G Ruler ] Patch 25.24 Ranked Korea ✅
   rankClaim: Master+
@@ -36,18 +93,21 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-12-21
 - videoId: 2_RisPeZ98c
   title: Kai'Sa vs Aphelios [ ADC ] Korea Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1648
   region: KR
+  uploaded: 2025-11-26
 - videoId: ZAUMFtR9sUY
   title: Kai'Sa vs Aphelios ADC - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 2021
   region: KR
+  uploaded: 2025-09-27
 - videoId: Mm1dlL50V1g
   title: T1 Gumayusi Kaisa vs Aphelios [ ADC ] Korea Challenger Patch 25.17
   rankClaim: Challenger
@@ -56,6 +116,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-09-07
 - videoId: wjPkGcq0-SU
   title: Gumayusi Kaisa vs Aphelios [ ADC ] Patch 25.16 Korea Master - T1 Gumayusi Kaisa
   rankClaim: Master
@@ -63,6 +124,7 @@
   durationSec: 1297
   region: KR
   player: Gumayusi
+  uploaded: 2025-08-25
 - videoId: Ej_bwSkOerI
   title: Kaisa vs Aphelios ADC [ DRX Teddy ] Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -71,3 +133,4 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-03-19

@@ -7,12 +7,53 @@
   patchEstimated: true
   uploaded: 2026-11-01
   format: stream
+- videoId: G2ac9ZTtNes
+  title: "Rank 1 Draven : This Dude is 1v5 Unstoppable SAVAGE ( vs Jinx, Jhin )"
+  rankClaim: Master+
+  patch: "26.21"
+  durationSec: 1458
+  patchEstimated: true
+  uploaded: 2026-10-21
+  format: stream
+- videoId: lNVNgue6JQw
+  title: 'Rank 1 Draven : This Dude is a FREAKING SAVAGE " So BRUTAL " Engsub ( vs Jinx, Ez )'
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1340
+  patchEstimated: true
+  uploaded: 2026-08-06
+  format: stream
+- videoId: rTsBZJi6FdI
+  title: "Rank 1 Draven : His Mechanic is so AGGRESSIVE in Early Game - Engsub ( Draven vs Jinx, Varus )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1024
+  patchEstimated: true
+  uploaded: 2026-06-22
+  format: stream
+- videoId: 6IQGYpthxMg
+  title: When Challenger Draven SMURFING on FAN TOWN PLATINUM - Engsub ( Draven vs Jinx, Jhin )
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1306
+  patchEstimated: true
+  uploaded: 2026-05-20
+  format: stream
+- videoId: uRy7Cx5OUHE
+  title: "Rank 1 Draven : This Dude is a F*CKING MONSTER - Engsub ( Draven vs Jinx, Aphe )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1296
+  patchEstimated: true
+  uploaded: 2026-05-14
+  format: stream
 - videoId: n0uIjqEJbdI
   title: Draven ADC vs Jinx - KR Grandmaster Patch 26.07
   rankClaim: Grandmaster
   patch: "26.7"
   durationSec: 1894
   region: KR
+  uploaded: 2026-04-17
 - videoId: zhyovYXKmP4
   title: Draven vs Jinx ADC [ TripleKill ] Korea Master Patch 25.22
   rankClaim: Master
@@ -20,24 +61,14 @@
   durationSec: 1616
   region: KR
   player: TripleKill
+  uploaded: 2025-11-12
 - videoId: pekbIHgqnEM
   title: Draven ADC vs Jinx - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1473
   region: KR
-- videoId: OWO598tRaR4
-  title: Draven ADC vs Jinx - KR Challenger Patch 25.19
-  rankClaim: Challenger
-  patch: "25.19"
-  durationSec: 1653
-  region: KR
-- videoId: 3ggOSa4wE74
-  title: Draven vs Jinx ADC - KR Challenger - Patch 25.19 Season 15
-  rankClaim: Challenger
-  patch: "25.19"
-  durationSec: 1651
-  region: KR
+  uploaded: 2025-10-28
 - videoId: 3XBSaq0J0Xk
   title: T1 Gumayusi Draven vs Jinx [ ADC ] Patch 25.19 Korea Challenger 1299 LP
   rankClaim: Challenger
@@ -46,3 +77,18 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-10-03
+- videoId: 3ggOSa4wE74
+  title: Draven vs Jinx ADC - KR Challenger - Patch 25.19 Season 15
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1651
+  region: KR
+  uploaded: 2025-10-02
+- videoId: OWO598tRaR4
+  title: Draven ADC vs Jinx - KR Challenger Patch 25.19
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1653
+  region: KR
+  uploaded: 2025-09-30

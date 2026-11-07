@@ -5,9 +5,58 @@
   patch: "25.20"
   durationSec: 1740
   region: KR
+  uploaded: 2025-10-12
 - videoId: 56oeraAf0j8
   title: Pyke Support vs Janna - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1576
   region: KR
+  uploaded: 2025-05-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:55
+      label: End credit

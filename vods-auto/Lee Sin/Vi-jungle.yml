@@ -12,13 +12,7 @@
   patch: "26.19"
   durationSec: 1771
   region: KR
-- videoId: iC5ovv2HI4I
-  title: Lee Sin Jungle vs Vi (IG Wei) - KR Challenger Patch 26.17
-  rankClaim: Challenger
-  patch: "26.17"
-  durationSec: 1836
-  region: KR
-  player: Wei
+  uploaded: 2026-09-25
 - videoId: -WC2brbWdDs
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 16.17 Season 16
   rankClaim: Challenger
@@ -26,6 +20,14 @@
   durationSec: 1771
   region: KR
   uploaded: 2026-09-03
+- videoId: iC5ovv2HI4I
+  title: Lee Sin Jungle vs Vi (IG Wei) - KR Challenger Patch 26.17
+  rankClaim: Challenger
+  patch: "26.17"
+  durationSec: 1836
+  region: KR
+  player: Wei
+  uploaded: 2026-08-29
 - videoId: RJJ-Dcg7dEE
   title: (AL Shanks) Lee Sin Jungle vs Vi (DK Smash) - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -34,6 +36,7 @@
   region: KR
   player: Shanks
   team: AL
+  uploaded: 2026-07-07
 - videoId: wg5v2HZabOc
   title: T1 Oner Lee Sin vs Vi [ Jungle ] Korea Challenger 2312 LP | Patch 26.10
   rankClaim: Challenger
@@ -50,12 +53,6 @@
   durationSec: 1801
   region: KR
   uploaded: 2026-03-30
-- videoId: 1fd_osvPyh0
-  title: Lee Sin vs Vi Jungle - KR Challenger - Patch 16.03 Season 16
-  rankClaim: Challenger
-  patch: "26.3"
-  durationSec: 1996
-  region: KR
 - videoId: 3XK-CXYReOk
   title: T1 Oner Lee Sin vs Vi [ Jungle ] Korea Grandmaster Patch 26.3
   rankClaim: Grandmaster
@@ -64,57 +61,74 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-02-17
+- videoId: 1fd_osvPyh0
+  title: Lee Sin vs Vi Jungle - KR Challenger - Patch 16.03 Season 16
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1996
+  region: KR
+  uploaded: 2026-02-16
 - videoId: MBRVpVJEzNc
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1621
   region: KR
+  uploaded: 2026-01-07
 - videoId: A8kskWuGNUE
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1750
   region: KR
+  uploaded: 2025-12-31
 - videoId: -EW5zM0TT3Q
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1661
   region: KR
+  uploaded: 2025-10-02
 - videoId: XuE_nCBl-F0
   title: Lee Sin Jungle vs Vi - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1494
   region: KR
+  uploaded: 2025-06-29
 - videoId: Bk0zYaaOds4
   title: Lee Sin vs Vi Jungle - KR Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1451
   region: KR
+  uploaded: 2025-06-24
 - videoId: 63zUYtKAXPQ
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1741
   region: KR
+  uploaded: 2025-06-18
 - videoId: kOzBvf0PRP0
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1651
   region: KR
+  uploaded: 2025-06-17
 - videoId: P2e9h1uxs8s
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1380
   region: KR
+  uploaded: 2025-03-21
 - videoId: bZPgn3B4ErY
   title: Lee Sin vs Vi Jungle - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1410
   region: KR
+  uploaded: 2025-02-25

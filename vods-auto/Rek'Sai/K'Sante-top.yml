@@ -5,9 +5,61 @@
   patch: "26.4"
   durationSec: 1815
   region: KR
+  uploaded: 2026-03-01
 - videoId: Z2BEQrvQpvE
   title: Rek'Sai Top vs K'Sante - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 2006
   region: KR
+  uploaded: 2025-05-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Take down The Turret
+      kind: tower
+    - at: 15:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Take down The Turret
+      kind: tower
+    - at: 26:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:54
+      label: Take down The Turret
+      kind: tower
+    - at: 29:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:11
+      label: Take down The Turret
+      kind: tower
+    - at: 32:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:05
+      label: End credit

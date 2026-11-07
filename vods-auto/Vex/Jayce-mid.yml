@@ -5,3 +5,62 @@
   patch: "25.24"
   durationSec: 1570
   region: EUW
+  uploaded: 2026-01-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Take down The Turret
+      kind: tower
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:14
+      label: Take down The Turret
+      kind: tower
+    - at: 23:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Take down The Turret
+      kind: tower
+    - at: 25:06
+      label: Take down The Inhibitor
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: Take down The Turret
+      kind: tower
+    - at: 25:59
+      label: End credit

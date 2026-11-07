@@ -5,14 +5,101 @@
   patch: "26.2"
   durationSec: 1511
   region: KR
+  uploaded: 2026-02-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:49
+      label: Take down The Inhibitor
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: End credit
 - videoId: 105BkuWn9hM
   title: Shaco Support vs Nautilus - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 2139
   region: EUW
+  uploaded: 2025-06-12
 - videoId: 7rj2aIZKVM0
   title: Shaco Support vs Nautilus - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1714
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Take down The Turret
+      kind: tower
+    - at: 15:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:13
+      label: End credit

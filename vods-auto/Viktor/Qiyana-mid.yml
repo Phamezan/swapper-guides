@@ -5,9 +5,73 @@
   patch: "25.24"
   durationSec: 1589
   region: KR
+  uploaded: 2025-12-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:48
+      label: Take down The Turret
+      kind: tower
+    - at: 13:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Take down The Turret
+      kind: tower
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:59
+      label: Take down The Turret
+      kind: tower
+    - at: 20:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:27
+      label: Take down The Turret
+      kind: tower
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: End credit
 - videoId: iZs0jwqdMww
   title: Viktor Mid vs Qiyana - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 2135
   region: KR
+  uploaded: 2025-10-01

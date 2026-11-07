@@ -5,6 +5,45 @@
   patch: "25.24"
   durationSec: 1578
   region: EUW
+  uploaded: 2025-12-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:40
+      label: Take down The Turret
+      kind: tower
+    - at: 15:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:33
+      label: Take down The Turret
+      kind: tower
+    - at: 18:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:48
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:07
+      label: End credit
 - videoId: FXmxAtRIJJw
   title: OTP Vladimir vs Jayce [ TOP ] Patch 25.10 Korea Master ✅
   rankClaim: Master
@@ -12,6 +51,7 @@
   durationSec: 1246
   region: KR
   player: OTP
+  uploaded: 2025-05-20
 - videoId: hnCt6WY9Ego
   title: OTP Vladimir vs Jayce [ TOP ] Patch 25.5 Korea Master ✅
   rankClaim: Master
@@ -19,3 +59,4 @@
   durationSec: 1576
   region: KR
   player: OTP
+  uploaded: 2025-03-17

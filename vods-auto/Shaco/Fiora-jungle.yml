@@ -5,3 +5,52 @@
   patch: "26.12"
   durationSec: 1630
   region: EUW
+  uploaded: 2026-06-25
+  result: L
+  moments:
+    - at: 3:30
+      label: First Blood — Shaco kills Fiora
+      kind: kill
+    - at: 6:17
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 7:41
+      label: Shaco kills Galio
+      kind: kill
+    - at: 8:37
+      label: Shaco kills Blitzcrank
+      kind: kill
+    - at: 10:07
+      label: Shaco takes down Fiora
+    - at: 11:02
+      label: Shaco picks off Jayce
+    - at: 11:44
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:04
+      label: Aurelion Sol picks off Fiora
+    - at: 15:37
+      label: Shaco takes down Hwei
+    - at: 15:57
+      label: Aurelion Sol eliminates Jayce
+    - at: 17:13
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:05
+      label: Rumble kills Fiora
+      kind: kill
+    - at: 20:55
+      label: Red takes Baron
+      kind: baron
+    - at: 22:02
+      label: Shaco outplays Fiora
+    - at: 22:33
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 23:37
+      label: Shaco picks off Jayce
+    - at: 24:01
+      label: Bot Inhibitor falls (Blue)
+    - at: 24:47
+      label: Shaco solo kills Fiora again
+      kind: kill

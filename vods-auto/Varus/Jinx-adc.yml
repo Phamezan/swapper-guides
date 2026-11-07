@@ -14,12 +14,7 @@
   patch: "26.17"
   durationSec: 1580
   region: KR
-- videoId: M2_1ANzg4RM
-  title: Varus vs Jinx ADC - KR Challenger - Patch 25.5 Season 15
-  rankClaim: Challenger
-  patch: "25.5"
-  durationSec: 2071
-  region: KR
+  uploaded: 2026-09-01
 - videoId: LAhKCv5SxdQ
   title: T1 Gumayusi Varus vs Jinx [ ADC ] Patch 25.5 Korea Challenger
   rankClaim: Challenger
@@ -28,3 +23,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-16
+- videoId: M2_1ANzg4RM
+  title: Varus vs Jinx ADC - KR Challenger - Patch 25.5 Season 15
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 2071
+  region: KR
+  uploaded: 2025-03-13

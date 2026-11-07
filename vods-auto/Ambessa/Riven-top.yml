@@ -5,6 +5,45 @@
   patch: "26.18"
   durationSec: 1453
   region: KR
+  uploaded: 2026-09-17
+  result: W
+  moments:
+    - at: 3:30
+      label: First Blood — Ambessa kills Riven
+      kind: kill
+    - at: 7:07
+      label: Ambessa catches Riven
+    - at: 8:24
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 9:58
+      label: Cho'Gath kills Riven
+      kind: kill
+    - at: 10:21
+      label: Ambessa outduels Kha'Zix
+    - at: 12:20
+      label: Ambessa outduels Riven again
+    - at: 13:42
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 14:58
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:52
+      label: Ambessa eliminates Riven
+    - at: 19:16
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:29
+      label: Jhin takes down Tristana
+    - at: 21:29
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:51
+      label: Mid Inhibitor falls (Red)
+    - at: 23:03
+      label: Jhin Double Kill
+      kind: kill
 - videoId: YdxKzGkWnoM
   title: Ambessa vs Riven Top - EUW Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
@@ -12,15 +51,17 @@
   durationSec: 1696
   region: EUW
   uploaded: 2026-05-10
-- videoId: cUubBWsNkOA
-  title: Ambessa Top vs Riven - KR Challenger Patch 25.20
-  rankClaim: Challenger
-  patch: "25.20"
-  durationSec: 1967
-  region: KR
 - videoId: Rxr1UzVemKw
   title: Ambessa vs Riven Top - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1981
   region: KR
+  uploaded: 2025-10-13
+- videoId: cUubBWsNkOA
+  title: Ambessa Top vs Riven - KR Challenger Patch 25.20
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1967
+  region: KR
+  uploaded: 2025-10-10

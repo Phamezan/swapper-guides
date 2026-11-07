@@ -5,9 +5,58 @@
   patch: "26.6"
   durationSec: 1463
   region: KR
+  uploaded: 2026-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Take down The Turret
+      kind: tower
+    - at: 13:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Take down The Turret
+      kind: tower
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: End credit
 - videoId: BvY5Z-qxZ5I
   title: Neeko Mid vs Talon - KR Grandmaster Patch 26.05
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1563
   region: KR
+  uploaded: 2026-03-14

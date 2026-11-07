@@ -5,9 +5,59 @@
   patch: "26.13"
   durationSec: 1455
   region: KR
+  uploaded: 2026-07-14
+  result: L
+  moments:
+    - at: 1:25
+      label: First Blood — Kayn kills Gwen
+      kind: kill
+    - at: 2:46
+      label: Kayn catches Gwen
+    - at: 4:04
+      label: Kayn outduels Gwen again
+    - at: 5:22
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:08
+      label: Kayn outplays Gwen (3rd time)
+    - at: 8:06
+      label: Kayn outduels Qiyana
+    - at: 9:43
+      label: Kayn solo kills Gwen (4th time)
+      kind: kill
+    - at: 10:50
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 11:21
+      label: Kayn takes down Gwen (5th time)
+    - at: 12:58
+      label: Kayn solo kills Jhin
+      kind: kill
+    - at: 16:03
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 16:56
+      label: Kayn catches Gwen (6th time)
+    - at: 17:54
+      label: Kayn outduels Gwen (7th time)
+    - at: 19:43
+      label: Kayn outplays Qiyana again
+    - at: 20:15
+      label: Red takes Baron
+      kind: baron
+    - at: 21:36
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 22:53
+      label: Kayn kills Qiyana
+      kind: kill
+    - at: 23:19
+      label: Udyr kills Rell
+      kind: kill
 - videoId: xGIU_NVzxDE
   title: Kayn Top vs Gwen - NA Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 2037
   region: NA
+  uploaded: 2025-05-29

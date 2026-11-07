@@ -5,27 +5,105 @@
   patch: "25.24"
   durationSec: 1321
   region: KR
+  uploaded: 2025-12-18
 - videoId: UWKs4O5VXro
   title: Akali vs Ryze Mid - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1221
   region: KR
+  uploaded: 2025-10-30
 - videoId: Wzvm6FfgSJQ
   title: Akali Mid vs Ryze - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1820
   region: KR
+  uploaded: 2025-08-18
 - videoId: icXQ6-X5w28
   title: Akali Mid vs Ryze - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1661
   region: KR
+  uploaded: 2025-07-21
 - videoId: _dxu__Lt2Ts
   title: Akali Mid vs Ryze - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1936
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:08
+      label: Take down The Turret
+      kind: tower
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Take down The Turret
+      kind: tower
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Take down The Turret
+      kind: tower
+    - at: 22:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:42
+      label: Take down The Turret
+      kind: tower
+    - at: 25:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:13
+      label: Take down The Inhibitor
+    - at: 29:32
+      label: Take down The Turret
+      kind: tower
+    - at: 31:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:55
+      label: End credit

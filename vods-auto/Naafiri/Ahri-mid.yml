@@ -5,15 +5,71 @@
   patch: "26.19"
   durationSec: 1879
   region: NA
+  uploaded: 2026-10-05
 - videoId: 0BVap1etHUk
   title: Naafiri Mid vs Ahri - NA Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1726
   region: NA
+  uploaded: 2025-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:35
+      label: Take down The Turret
+      kind: tower
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:37
+      label: Take down The Turret
+      kind: tower
+    - at: 21:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:25
+      label: End credit
 - videoId: C3PZ6zfidKo
   title: Naafiri Mid vs Ahri - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1693
   region: KR
+  uploaded: 2025-03-13

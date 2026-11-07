@@ -5,9 +5,64 @@
   patch: "26.4"
   durationSec: 1694
   region: KR
+  uploaded: 2026-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Take down The Turret
+      kind: tower
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:03
+      label: End credit
 - videoId: V46FvaFBWHU
   title: Kled Mid vs Jayce - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1470
   region: KR
+  uploaded: 2026-01-04

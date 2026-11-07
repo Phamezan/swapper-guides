@@ -5,15 +5,59 @@
   patch: "26.2"
   durationSec: 1616
   region: KR
+  uploaded: 2026-02-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:50
+      label: Take down The Turret
+      kind: tower
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: Take down The Turret
+      kind: tower
+    - at: 26:45
+      label: End credit
 - videoId: OwAx_rWyX-4
   title: Skarner Support vs Braum - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1626
   region: KR
+  uploaded: 2025-06-11
 - videoId: TKlttGBUAgk
   title: Skarner Support vs Braum - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1694
   region: KR
+  uploaded: 2025-04-30

@@ -5,3 +5,49 @@
   patch: "26.11"
   durationSec: 1602
   region: NA
+  uploaded: 2026-06-12
+  result: W
+  moments:
+    - at: 5:52
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:02
+      label: First Blood — Shyvana kills Zed
+      kind: kill
+    - at: 13:38
+      label: Azir catches Zed
+    - at: 14:13
+      label: Azir takes down Galio
+    - at: 14:54
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:12
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 16:23
+      label: Azir picks off Caitlyn
+    - at: 18:23
+      label: Azir picks off Caitlyn
+    - at: 19:42
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:10
+      label: Azir outduels Zed again
+    - at: 22:09
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 22:41
+      label: Azir outplays Zed (3rd time)
+    - at: 23:22
+      label: Bot Inhibitor falls (Red)
+    - at: 24:05
+      label: Mid Inhibitor falls (Red)
+    - at: 24:15
+      label: Azir eliminates Zed
+    - at: 25:00
+      label: Azir solo kills Caitlyn
+      kind: kill
+    - at: 25:14
+      label: Top Inhibitor falls (Red)
+    - at: 25:26
+      label: Vladimir picks off Kindred

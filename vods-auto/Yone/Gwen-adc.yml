@@ -5,3 +5,49 @@
   patch: "26.13"
   durationSec: 1616
   region: EUW
+  uploaded: 2026-07-14
+  result: L
+  moments:
+    - at: 0:11
+      label: First Blood — Yone kills Gwen
+      kind: kill
+    - at: 8:44
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 10:45
+      label: Yone eliminates Nunu & Willump
+    - at: 13:04
+      label: Yone outplays Pyke
+    - at: 14:32
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 14:42
+      label: Yone takes down Gwen
+    - at: 14:55
+      label: Yone Triple Kill
+      kind: kill
+    - at: 17:03
+      label: Yone catches Jayce
+    - at: 18:30
+      label: Yone picks off Pyke
+    - at: 19:42
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 20:01
+      label: Red takes 3rd Dragon (Mountain)
+      kind: dragon
+    - at: 21:22
+      label: Yone picks off Pyke
+    - at: 23:29
+      label: Sion eliminates Gragas
+    - at: 23:56
+      label: Red takes Baron
+      kind: baron
+    - at: 25:19
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:33
+      label: Red takes 4th Dragon (Mountain)
+      kind: dragon
+    - at: 25:55
+      label: Mid Inhibitor falls (Blue)

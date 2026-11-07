@@ -6,15 +6,71 @@
   durationSec: 1486
   region: KR
   player: SSG Tianzhen
+  uploaded: 2026-05-20
 - videoId: vmtOjQ0KcNY
   title: Nilah ADC vs Varus - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1739
   region: KR
+  uploaded: 2026-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Take down The Turret
+      kind: tower
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Take down The Turret
+      kind: tower
+    - at: 18:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Take down The Turret
+      kind: tower
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: Take down The Turret
+      kind: tower
+    - at: 27:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:48
+      label: End credit
 - videoId: fOSgcctGnuo
   title: Nilah ADC vs Varus - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1537
   region: KR
+  uploaded: 2025-06-08

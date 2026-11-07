@@ -5,15 +5,67 @@
   patch: "25.22"
   durationSec: 1693
   region: KR
+  uploaded: 2025-11-08
 - videoId: E_9-7tQfOkw
   title: Lillia Jungle vs Xin Zhao - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1807
   region: KR
+  uploaded: 2025-06-04
 - videoId: clBAvl54zpc
   title: Lillia Jungle vs Xin Zhao - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1457
   region: EUW
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:29
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Take down The Turret
+      kind: tower
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Take down The Turret
+      kind: tower
+    - at: 20:55
+      label: Hunt The Atakhan
+    - at: 22:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:56
+      label: End credit

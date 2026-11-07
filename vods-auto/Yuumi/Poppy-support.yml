@@ -5,6 +5,56 @@
   patch: "26.18"
   durationSec: 1809
   region: KR
+  uploaded: 2026-09-24
+  result: W
+  moments:
+    - at: 3:20
+      label: First Blood — Lucian kills Jinx
+      kind: kill
+    - at: 4:58
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 10:26
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:19
+      label: Lucian picks off Poppy
+    - at: 12:21
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 16:11
+      label: Lucian picks off Poppy
+    - at: 16:41
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 17:02
+      label: Lucian kills Galio
+      kind: kill
+    - at: 19:15
+      label: Lucian takes down Jinx
+    - at: 20:36
+      label: Lucian takes down Jinx
+    - at: 21:43
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:29
+      label: Blue takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 24:47
+      label: Lucian picks off Poppy
+    - at: 26:09
+      label: Lucian Double Kill
+      kind: kill
+    - at: 26:57
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:27
+      label: Tristana takes down Poppy
+    - at: 27:51
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 29:06
+      label: Lucian Double Kill
+      kind: kill
 - videoId: 7BN7YJJ05nM
   title: (TT Feather) Yuumi Support vs Poppy - KR Master Patch 26.13
   rankClaim: Master
@@ -12,9 +62,11 @@
   durationSec: 1518
   region: KR
   player: TT Feather
+  uploaded: 2026-07-05
 - videoId: io4TxfXp8Wc
   title: Yuumi Support vs Poppy - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1660
   region: KR
+  uploaded: 2025-04-06

@@ -5,21 +5,25 @@
   patch: "25.22"
   durationSec: 1606
   region: KR
+  uploaded: 2025-11-18
 - videoId: oGVaPK6L05g
   title: Kha'Zix vs Ekko Jungle - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1516
   region: KR
-- videoId: YU29waHBbvw
-  title: Kha'Zix Jungle vs Ekko - KR Master Patch 25.12
-  rankClaim: Master
-  patch: "25.12"
-  durationSec: 1540
-  region: KR
+  uploaded: 2025-11-05
 - videoId: DVSFAn5Yo5g
   title: Kha'Zix vs Ekko Jungle - KR Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 2101
   region: KR
+  uploaded: 2025-06-20
+- videoId: YU29waHBbvw
+  title: Kha'Zix Jungle vs Ekko - KR Master Patch 25.12
+  rankClaim: Master
+  patch: "25.12"
+  durationSec: 1540
+  region: KR
+  uploaded: 2025-06-17

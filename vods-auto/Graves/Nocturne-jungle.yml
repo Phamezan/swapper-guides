@@ -4,9 +4,81 @@
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1801
+  uploaded: 2025-05-02
 - videoId: XmxnPTYWF3k
   title: Graves Jungle vs Nocturne - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1910
   region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:28
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Take down The Turret
+      kind: tower
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:51
+      label: Hunt The Atakhan
+    - at: 22:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 26:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 31:29
+      label: End credit

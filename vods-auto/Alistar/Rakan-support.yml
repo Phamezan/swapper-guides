@@ -5,21 +5,63 @@
   patch: "26.2"
   durationSec: 1450
   region: EUW
+  uploaded: 2026-02-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Take down The Turret
+      kind: tower
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: End credit
 - videoId: 3sxvsP0hRog
   title: Alistar Support vs Rakan - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1554
   region: KR
+  uploaded: 2025-09-26
 - videoId: eMFM_zlcLOw
   title: Alistar Support vs Rakan - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1490
   region: KR
+  uploaded: 2025-08-03
 - videoId: LuqRe_adKlA
   title: Alistar Support vs Rakan - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1617
   region: KR
+  uploaded: 2025-07-18

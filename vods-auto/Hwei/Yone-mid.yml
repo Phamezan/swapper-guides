@@ -6,3 +6,51 @@
   durationSec: 1717
   region: EUW
   player: Nemesis
+  uploaded: 2026-08-18
+  result: W
+  moments:
+    - at: 5:21
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:04
+      label: First Blood — Tryndamere kills Jarvan IV
+      kind: kill
+    - at: 10:59
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:02
+      label: Hwei eliminates Yone
+    - at: 14:09
+      label: Karma takes down Yone
+    - at: 16:13
+      label: Hwei takes down Yone
+    - at: 16:30
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 17:25
+      label: Hwei catches Yone again
+    - at: 18:11
+      label: Jhin eliminates Jarvan IV
+    - at: 19:32
+      label: Hwei outduels Yone (3rd time)
+    - at: 21:58
+      label: Red takes Baron
+      kind: baron
+    - at: 22:17
+      label: Jhin picks off Draven
+    - at: 23:05
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:47
+      label: Hwei kills Gwen
+      kind: kill
+    - at: 25:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:03
+      label: Jhin picks off Draven
+    - at: 27:20
+      label: Mid Inhibitor falls (Red)
+    - at: 27:37
+      label: Hwei kills Gwen
+      kind: kill

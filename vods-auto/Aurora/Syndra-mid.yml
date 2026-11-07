@@ -6,12 +6,7 @@
   durationSec: 1510
   region: EUW
   player: BDG Ronaldo
-- videoId: DZVNXItQrpc
-  title: Aurora Mid vs Syndra - KR Grandmaster Patch 26.03
-  rankClaim: Grandmaster
-  patch: "26.3"
-  durationSec: 1484
-  region: KR
+  uploaded: 2026-07-05
 - videoId: t21Lk1F_AAk
   title: Aurora vs Syndra Mid - EUW Challenger - Patch 16.03 Season 16
   rankClaim: Challenger
@@ -19,9 +14,64 @@
   durationSec: 2146
   region: EUW
   uploaded: 2026-02-10
+- videoId: DZVNXItQrpc
+  title: Aurora Mid vs Syndra - KR Grandmaster Patch 26.03
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1484
+  region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:15
+      label: Take down The Turret
+      kind: tower
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:24
+      label: Take down The Turret
+      kind: tower
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: End credit
 - videoId: NlAO_qUnsL0
   title: Aurora Mid vs Syndra - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1471
   region: EUW
+  uploaded: 2025-12-23

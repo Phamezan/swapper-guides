@@ -7,6 +7,7 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-08-07
 - videoId: ZEQsLFf1OnY
   title: T1 Faker Aurora vs Ryze [ MID ] Korea Grandmaster 1636 LP | Patch 26.15
   rankClaim: Grandmaster
@@ -36,30 +37,35 @@
   patch: "25.22"
   durationSec: 1726
   region: KR
+  uploaded: 2025-11-15
 - videoId: by4UFoGZsGw
   title: Aurora Mid vs Ryze - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1426
   region: KR
+  uploaded: 2025-10-13
 - videoId: aYExK_jT614
   title: Aurora Mid vs Ryze - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1649
   region: KR
+  uploaded: 2025-09-29
 - videoId: evUwobKAreM
   title: Aurora Mid vs Ryze - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1556
   region: KR
+  uploaded: 2025-08-16
 - videoId: N1XngfiIbfQ
   title: Aurora vs Ryze Mid - KR Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1560
   region: KR
+  uploaded: 2025-08-15
 - videoId: 5XMvRu_VCmA
   title: Faker Aurora vs Ryze Mid - KR Grandmaster - Patch 25.7 Season 15
   rankClaim: Grandmaster
@@ -67,6 +73,7 @@
   durationSec: 1801
   region: KR
   player: Faker
+  uploaded: 2025-04-03
 - videoId: ihP5AV-tBms
   title: Faker Aurora vs Ryze Mid - KR Grandmaster - Patch 25.6 Season 15
   rankClaim: Grandmaster
@@ -74,6 +81,7 @@
   durationSec: 1831
   region: KR
   player: Faker
+  uploaded: 2025-03-27
 - videoId: Cns6n2AaJVM
   title: T1 Faker Aurora vs Ryze [ MID ] Patch 25.6 Korea Master ✅
   rankClaim: Master
@@ -82,3 +90,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-03-26

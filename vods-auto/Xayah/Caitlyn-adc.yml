@@ -5,9 +5,66 @@
   patch: "26.4"
   durationSec: 1577
   region: KR
+  uploaded: 2026-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:10
+      label: Take down The Turret
+      kind: tower
+    - at: 14:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Take down The Turret
+      kind: tower
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Take down The Inhibitor
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: End credit
 - videoId: YXzhAbHOi9s
   title: Xayah ADC vs Caitlyn - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1718
   region: EUW
+  uploaded: 2025-05-13

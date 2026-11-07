@@ -16,6 +16,55 @@
   region: KR
   player: Taeyoon
   team: BFX
+  uploaded: 2026-08-15
+  result: L
+  moments:
+    - at: 3:40
+      label: First Blood — Varus kills Caitlyn
+      kind: kill
+    - at: 6:27
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 6:45
+      label: Varus outduels Caitlyn
+    - at: 8:56
+      label: Varus outplays Bard
+    - at: 9:08
+      label: Varus outplays Caitlyn again
+    - at: 10:51
+      label: Varus takes down Caitlyn
+    - at: 11:59
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 13:37
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:18
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 17:24
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:30
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:39
+      label: Varus kills Talon
+      kind: kill
+    - at: 22:10
+      label: Varus takes down Caitlyn
+    - at: 22:37
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 23:55
+      label: Varus eliminates Sylas
+    - at: 25:31
+      label: Camille eliminates Bard
+    - at: 26:14
+      label: Varus kills Talon
+      kind: kill
+    - at: 26:49
+      label: Mid Inhibitor falls (Blue)
 - videoId: VmiQj13vNuk
   title: (BFX Taeyoon) Varus ADC vs Caitlyn - KR Master Patch 26.13
   rankClaim: Master
@@ -24,12 +73,14 @@
   region: KR
   player: Taeyoon
   team: BFX
+  uploaded: 2026-07-11
 - videoId: dmx7B4xkEzQ
   title: Varus ADC vs Caitlyn - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1628
   region: KR
+  uploaded: 2025-09-29
 - videoId: cEm5FYkHs7Q
   title: T1 Gumayusi Varus ADC vs Caitlyn - Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -38,3 +89,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-06

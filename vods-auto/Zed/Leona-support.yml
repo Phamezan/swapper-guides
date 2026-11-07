@@ -53,9 +53,63 @@
   patch: "25.17"
   durationSec: 1731
   region: KR
+  uploaded: 2025-09-08
 - videoId: wZtGKgYK9C8
   title: Zed Support vs Leona - EUW Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1803
   region: EUW
+  uploaded: 2025-04-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:42
+      label: Take down The Turret
+      kind: tower
+    - at: 29:00
+      label: Take down The Inhibitor
+    - at: 29:42
+      label: End credit

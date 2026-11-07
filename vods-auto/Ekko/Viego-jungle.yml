@@ -5,33 +5,104 @@
   patch: "25.21"
   durationSec: 1664
   region: KR
+  uploaded: 2025-10-26
 - videoId: 4Y_sSKNmRlo
   title: Ekko Jungle vs Viego - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 2109
   region: KR
-- videoId: JyWDSr7VkoA
-  title: Ekko Jungle vs Viego - KR Grandmaster Patch 25.10
-  rankClaim: Grandmaster
-  patch: "25.10"
-  durationSec: 1931
-  region: KR
+  uploaded: 2025-06-13
 - videoId: GqE4Ly7xX0I
   title: Ekko vs Viego Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1861
   region: KR
+  uploaded: 2025-05-19
 - videoId: Ht8q_aq5Q2U
   title: Ekko vs Viego Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1571
   region: KR
+  uploaded: 2025-05-17
+- videoId: JyWDSr7VkoA
+  title: Ekko Jungle vs Viego - KR Grandmaster Patch 25.10
+  rankClaim: Grandmaster
+  patch: "25.10"
+  durationSec: 1931
+  region: KR
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Take down The Turret
+      kind: tower
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Take down The Turret
+      kind: tower
+    - at: 25:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:50
+      label: End credit
 - videoId: VfYQkNvV-gY
   title: Ekko Jungle vs Viego - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1847
   region: KR
+  uploaded: 2025-05-04

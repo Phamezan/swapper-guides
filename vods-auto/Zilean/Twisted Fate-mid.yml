@@ -60,9 +60,55 @@
   patch: "25.24"
   durationSec: 1550
   region: KR
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Take down The Turret
+      kind: tower
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:39
+      label: End credit
 - videoId: YDflrlZXVY8
   title: Zilean Mid vs Twisted Fate - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1625
   region: EUW
+  uploaded: 2025-11-18

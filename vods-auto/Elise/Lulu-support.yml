@@ -5,9 +5,60 @@
   patch: "26.17"
   durationSec: 1811
   region: KR
+  uploaded: 2026-09-08
+  result: W
+  moments:
+    - at: 1:49
+      label: First Blood — Jhin kills Lulu
+      kind: kill
+    - at: 6:28
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:56
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 12:51
+      label: Elise eliminates Olaf
+    - at: 14:38
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:15
+      label: Lee Sin eliminates Yunara
+    - at: 15:34
+      label: Elise solo kills Lulu
+      kind: kill
+    - at: 15:48
+      label: Elise kills Taliyah
+      kind: kill
+    - at: 17:37
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 22:34
+      label: Elise takes down Yone
+    - at: 22:44
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 23:29
+      label: Elise eliminates Olaf
+    - at: 24:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 25:36
+      label: Mid Inhibitor falls (Red)
+    - at: 26:52
+      label: Trundle picks off Yunara
+    - at: 28:11
+      label: Blue takes 4th Dragon (Ocean)
+      kind: dragon
+    - at: 28:29
+      label: Elise catches Taliyah
 - videoId: fyEyqFEE22U
   title: Elise Support vs Lulu - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1569
   region: KR
+  uploaded: 2026-04-06

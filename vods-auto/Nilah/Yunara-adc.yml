@@ -68,33 +68,39 @@
   patch: "26.8"
   durationSec: 1818
   region: KR
+  uploaded: 2026-04-24
 - videoId: KLLG32Rdbgg
   title: Nilah ADC vs Yunara - KR Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1621
   region: KR
-- videoId: dZdHIq3DseE
-  title: Nilah ADC vs Yunara - KR Master Patch 25.24
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1453
-  region: KR
+  uploaded: 2026-01-15
 - videoId: p7bjgWUCJSE
   title: Nilah vs Yunara [ ADC ] Lol Korea Master Patch 25.24 ✅
   rankClaim: Master
   patch: "25.24"
   durationSec: 1296
   region: KR
+  uploaded: 2025-12-19
+- videoId: dZdHIq3DseE
+  title: Nilah ADC vs Yunara - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1453
+  region: KR
+  uploaded: 2025-12-12
 - videoId: vMeQnGFVhyQ
   title: Nilah ADC vs Yunara - EUW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1541
   region: EUW
+  uploaded: 2025-08-14
 - videoId: RIbKo43w3cc
   title: Nilah ADC vs Yunara - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1571
   region: KR
+  uploaded: 2025-07-25

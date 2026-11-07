@@ -275,27 +275,129 @@
   patch: "26.6"
   durationSec: 1521
   region: KR
+  uploaded: 2026-03-25
 - videoId: ggRXHe2b3_4
   title: Zed ADC vs Ezreal - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1789
   region: KR
+  uploaded: 2026-03-03
 - videoId: VC5GlZrJJH4
   title: Zed ADC vs Ezreal - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1593
   region: KR
+  uploaded: 2026-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Take down The Turret
+      kind: tower
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:22
+      label: End credit
 - videoId: -KCn7-tfNII
   title: Zed ADC vs Ezreal - EUW Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1731
   region: EUW
+  uploaded: 2025-07-14
 - videoId: GT5XahwvTcA
   title: Zed ADC vs Ezreal - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1939
   region: EUW
+  uploaded: 2025-05-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:06
+      label: Take down The Turret
+      kind: tower
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Take down The Turret
+      kind: tower
+    - at: 21:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:31
+      label: Take down The Turret
+      kind: tower
+    - at: 28:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:33
+      label: Take down The Turret
+      kind: tower
+    - at: 31:58
+      label: End credit

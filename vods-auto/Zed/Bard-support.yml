@@ -61,14 +61,66 @@
   patch: "26.5"
   durationSec: 1867
   region: EUW
+  uploaded: 2026-03-10
 - videoId: LFPSlG8BjSQ
   title: Zed Support vs Bard - KR Master Patch 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1649
   region: KR
+  uploaded: 2025-11-17
 - videoId: 3TKnOzzW1E8
   title: Zed Support vs Bard - TW Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1864
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:12
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:32
+      label: Take down The Turret
+      kind: tower
+    - at: 26:53
+      label: Take down The Inhibitor
+    - at: 27:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:43
+      label: End credit

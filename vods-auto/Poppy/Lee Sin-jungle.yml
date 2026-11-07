@@ -6,6 +6,56 @@
   durationSec: 1642
   region: KR
   player: MVK Gury
+  uploaded: 2026-06-03
+  result: L
+  moments:
+    - at: 2:49
+      label: First Blood — Poppy kills Lulu
+      kind: kill
+    - at: 4:59
+      label: Poppy kills Yone
+      kind: kill
+    - at: 6:27
+      label: Poppy eliminates Aphelios
+    - at: 8:11
+      label: Poppy takes down Lee Sin
+    - at: 10:00
+      label: Caitlyn eliminates Lee Sin
+    - at: 10:40
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:50
+      label: Poppy kills Yone
+      kind: kill
+    - at: 12:35
+      label: Poppy kills Yone
+      kind: kill
+    - at: 15:04
+      label: Poppy takes down Lee Sin
+    - at: 15:40
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 16:50
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 18:08
+      label: Caitlyn Double Kill
+      kind: kill
+    - at: 19:55
+      label: Caitlyn picks off Yone
+    - at: 20:53
+      label: Red takes Baron
+      kind: baron
+    - at: 22:14
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:06
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:12
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:58
+      label: Top Inhibitor falls (Blue)
 - videoId: Gg8rn2OGl4g
   title: (WBG Jiejie) Poppy Jungle vs Lee Sin - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -14,9 +64,57 @@
   region: KR
   player: Jiejie
   team: WBG
+  uploaded: 2026-05-21
+  result: W
+  moments:
+    - at: 2:18
+      label: First Blood — Jhin kills Nautilus
+      kind: kill
+    - at: 4:02
+      label: Poppy picks off Galio
+    - at: 6:58
+      label: Ahri eliminates Galio
+    - at: 7:49
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:09
+      label: Illaoi eliminates Smolder
+    - at: 9:43
+      label: Ahri eliminates Galio
+    - at: 13:39
+      label: Bard takes down Galio
+    - at: 14:11
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:04
+      label: Poppy eliminates Lucian
+    - at: 15:49
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 19:25
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 20:23
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:37
+      label: Ahri Triple Kill
+      kind: kill
+    - at: 21:05
+      label: Bot Inhibitor falls (Red)
+    - at: 22:33
+      label: Ahri Double Kill
+      kind: kill
+    - at: 23:24
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:58
+      label: Bard kills Lee Sin
+      kind: kill
 - videoId: dNKlU70kzKg
   title: Poppy Jungle vs Lee Sin - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1859
   region: KR
+  uploaded: 2026-05-06

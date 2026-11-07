@@ -6,6 +6,7 @@
   durationSec: 1813
   region: EUW
   player: MagiFelix
+  uploaded: 2026-09-16
 - videoId: sJpkU2LZkck
   title: (IG Rookie) Twisted Fate Mid vs Sylas - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
@@ -14,12 +15,14 @@
   region: KR
   player: Rookie
   team: IG
+  uploaded: 2026-08-17
 - videoId: 1KnQ5Z0OcGw
   title: Twisted Fate Mid vs Sylas - KR Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1499
   region: KR
+  uploaded: 2025-11-10
 - videoId: KRSyftuT3ug
   title: T1 Faker Twisted Fate MID vs Sylas - Patch 25.15 Korea Master
   rankClaim: Master
@@ -28,6 +31,7 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-12
 - videoId: HvOI-G2YPfU
   title: T1 Faker Twisted Fate vs Sylas [ MID ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -36,3 +40,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-05

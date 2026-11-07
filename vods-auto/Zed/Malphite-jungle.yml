@@ -53,15 +53,86 @@
       label: Ryze eliminates Vladimir
     - at: 29:53
       label: Mid Inhibitor falls (Red)
-- videoId: HiInTeeEioY
-  title: Zed vs Malphite [ Jungle ] Lol Korea Master Patch 25.24 ✅
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1486
-  region: KR
 - videoId: bvUKeLmQLuM
   title: Zed Jungle vs Malphite - NA Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1567
   region: NA
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Take down The Turret
+      kind: tower
+    - at: 18:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Hunt The Atakhan
+    - at: 20:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Take down The Inhibitor
+    - at: 25:42
+      label: Take down The Turret
+      kind: tower
+    - at: 25:56
+      label: End credit
+- videoId: HiInTeeEioY
+  title: Zed vs Malphite [ Jungle ] Lol Korea Master Patch 25.24 ✅
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1486
+  region: KR
+  uploaded: 2025-12-06

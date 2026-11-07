@@ -5,21 +5,75 @@
   patch: "26.5"
   durationSec: 1550
   region: NA
+  uploaded: 2026-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:15
+      label: Take down The Turret
+      kind: tower
+    - at: 14:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Take down The Turret
+      kind: tower
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Take down The Turret
+      kind: tower
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:39
+      label: End credit
 - videoId: kUypZXr8Irs
   title: Yuumi Support vs Nami - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1561
   region: KR
+  uploaded: 2026-02-24
 - videoId: ZmZTb1w6cO8
   title: Yuumi Support vs Nami - EUW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 2034
   region: EUW
+  uploaded: 2025-10-23
 - videoId: Onl4EsiKXcQ
   title: Yuumi Support vs Nami - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 2021
   region: KR
+  uploaded: 2025-03-10

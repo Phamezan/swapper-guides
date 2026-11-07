@@ -4,9 +4,52 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1619
+  uploaded: 2025-12-19
 - videoId: ywzdzQ1_1Mg
   title: Aatrox Mid vs Taliyah - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1685
   region: KR
+  uploaded: 2025-03-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:08
+      label: Take down The Turret
+      kind: tower
+    - at: 22:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Get a Triple Kill
+      kind: kill
+    - at: 26:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:44
+      label: End credit

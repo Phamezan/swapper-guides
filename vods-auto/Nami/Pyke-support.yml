@@ -4,21 +4,62 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1569
+  uploaded: 2026-01-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Take down The Turret
+      kind: tower
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:56
+      label: Take down The Turret
+      kind: tower
+    - at: 23:16
+      label: Take down The Inhibitor
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: End credit
 - videoId: geMKqMtZIwQ
   title: Nami Support vs Pyke - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1579
   region: EUW
+  uploaded: 2025-11-20
 - videoId: Ynj-EMKboT0
   title: Nami Support vs Pyke - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1516
   region: KR
+  uploaded: 2025-06-02
 - videoId: 8Gzw56HLfes
   title: Nami Support vs Pyke - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1835
   region: EUW
+  uploaded: 2025-05-14

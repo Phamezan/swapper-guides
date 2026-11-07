@@ -5,9 +5,81 @@
   patch: "25.9"
   durationSec: 1921
   region: KR
+  uploaded: 2025-05-03
 - videoId: sc6LUrQtD4Q
   title: Vi Jungle vs Dr. Mundo - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1954
   region: EUW
+  uploaded: 2025-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:16
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:49
+      label: Take down The Turret
+      kind: tower
+    - at: 31:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:21
+      label: Take down The Turret
+      kind: tower
+    - at: 31:33
+      label: Take down The Inhibitor
+    - at: 31:44
+      label: Take down The Turret
+      kind: tower
+    - at: 31:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:13
+      label: End credit

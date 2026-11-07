@@ -5,15 +5,64 @@
   patch: "26.8"
   durationSec: 1748
   region: KR
+  uploaded: 2026-04-22
 - videoId: b9iAGzLEco0
   title: Brand Support vs Senna - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1565
   region: KR
+  uploaded: 2026-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Take down The Turret
+      kind: tower
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Take down The Inhibitor
+    - at: 25:14
+      label: Take down The Turret
+      kind: tower
+    - at: 25:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: End credit
 - videoId: dWhqLLWjr1o
   title: Brand Support vs Senna - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1665
   region: KR
+  uploaded: 2025-10-06

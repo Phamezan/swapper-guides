@@ -5,9 +5,69 @@
   patch: "26.8"
   durationSec: 1696
   region: KR
+  uploaded: 2026-04-30
 - videoId: YNzL6bAvlwM
   title: Zeri Mid vs Aurora - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2073
   region: KR
+  uploaded: 2025-03-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Take down The Turret
+      kind: tower
+    - at: 17:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:56
+      label: Take down The Turret
+      kind: tower
+    - at: 21:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:11
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 27:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 33:17
+      label: Get a Triple Kill
+      kind: kill
+    - at: 33:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:50
+      label: Take down The Inhibitor
+    - at: 34:01
+      label: Take down The Turret
+      kind: tower
+    - at: 34:12
+      label: End credit

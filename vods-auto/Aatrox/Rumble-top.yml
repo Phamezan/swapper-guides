@@ -18,38 +18,136 @@
   player: XiaoMing
   uploaded: 2026-10-14
   format: stream
+- videoId: 9vvQ2iV82y4
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1369
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-06-22
+  format: stream
 - videoId: 2kuE02iIHok
   title: "AATROX vs RUMBLE (TOP) | Perfect KDA: 24/0/2 | KR Master | 26.11"
   rankClaim: Master
   patch: "26.11"
   durationSec: 1481
   region: KR
+  uploaded: 2026-06-06
+- videoId: WWQs6_1750U
+  title: 🛑 XiaoMing Aatrox vs Rumble - Nice Comeback - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1476
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-05-27
+  format: stream
+- videoId: KlAQyLJbzIs
+  title: 🛑 XiaoMing Aatrox vs Rumble - Carry to Comebackl - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1696
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-05-25
+  format: stream
+- videoId: zBdkwLCM-UQ
+  title: 🛑 XiaoMing Aatrox vs Rumble - FIRST BLOOD → HARD CARRY - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1561
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-05-12
+  format: stream
+- videoId: KnzzfVZNiRU
+  title: 🛑 XiaoMing Aatrox vs Rumble - IQ 300 Tips at Level 1 - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1401
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-04-30
+  format: stream
 - videoId: EZGnZN_YmGw
   title: Aatrox vs Rumble Top - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1876
   region: KR
+  uploaded: 2025-08-22
 - videoId: REaIwgzmm1k
   title: AATROX vs RUMBLE (TOP) | 6 solo kills | KR Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1793
   region: KR
+  uploaded: 2025-07-18
 - videoId: rAOrd55BvI8
   title: AATROX vs RUMBLE (TOP) | BR Grandmaster | 25.9
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2121
+  uploaded: 2025-05-13
 - videoId: 9wwMQ-pB4cQ
   title: Aatrox Top vs Rumble - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1950
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:34
+      label: Take down The Turret
+      kind: tower
+    - at: 16:38
+      label: Take down The Turret
+      kind: tower
+    - at: 18:51
+      label: Take down The Turret
+      kind: tower
+    - at: 21:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:58
+      label: Take down The Turret
+      kind: tower
+    - at: 24:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:09
+      label: End credit
 - videoId: WGyTBw6unx8
   title: Aatrox vs Rumble Top - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1440
   region: KR
+  uploaded: 2025-03-09

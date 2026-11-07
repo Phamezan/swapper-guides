@@ -5,3 +5,65 @@
   patch: "26.7"
   durationSec: 1596
   region: KR
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Take down The Turret
+      kind: tower
+    - at: 15:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Take down The Turret
+      kind: tower
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Take down The Turret
+      kind: tower
+    - at: 21:44
+      label: Take down The Turret
+      kind: tower
+    - at: 22:19
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:00
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:27
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 24:12
+      label: Take down The Turret
+      kind: tower
+    - at: 25:22
+      label: Take down The Turret
+      kind: tower
+    - at: 25:38
+      label: Take down The Inhibitor
+    - at: 25:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: End credit

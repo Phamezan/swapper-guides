@@ -5,3 +5,62 @@
   patch: "25.4"
   durationSec: 1547
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:35
+      label: Hunt The Atakhan
+    - at: 23:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: End credit

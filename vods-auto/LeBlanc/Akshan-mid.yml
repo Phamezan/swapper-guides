@@ -5,9 +5,73 @@
   patch: "26.7"
   durationSec: 1489
   region: EUW
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Take down The Turret
+      kind: tower
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:54
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Take down The Turret
+      kind: tower
+    - at: 22:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Take down The Turret
+      kind: tower
+    - at: 24:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: End credit
 - videoId: rs0tNKQuzL4
   title: LeBlanc Mid vs Akshan - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1812
   region: KR
+  uploaded: 2025-09-14

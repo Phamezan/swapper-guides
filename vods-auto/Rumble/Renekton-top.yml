@@ -5,9 +5,64 @@
   patch: "26.1"
   durationSec: 1522
   region: KR
+  uploaded: 2026-01-12
 - videoId: mae-BfVB69Q
   title: Rumble Top vs Renekton - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1757
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Take down The Turret
+      kind: tower
+    - at: 16:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Take down The Turret
+      kind: tower
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:25
+      label: Take down The Turret
+      kind: tower
+    - at: 28:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:06
+      label: End credit

@@ -62,6 +62,51 @@
   patch: "26.18"
   durationSec: 1697
   region: KR
+  uploaded: 2026-09-13
+  result: W
+  moments:
+    - at: 3:32
+      label: First Blood — Yunara kills Graves
+      kind: kill
+    - at: 6:42
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:36
+      label: Zoe eliminates Anivia
+    - at: 11:42
+      label: Yunara takes down Vayne
+    - at: 12:27
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 15:09
+      label: Yunara eliminates Graves
+    - at: 17:37
+      label: Yunara eliminates Graves
+    - at: 18:08
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 19:45
+      label: Zoe picks off Graves
+    - at: 20:26
+      label: Red takes Baron
+      kind: baron
+    - at: 20:42
+      label: Sylas takes down Anivia
+    - at: 21:22
+      label: Xin Zhao takes down Graves
+    - at: 22:56
+      label: Yunara eliminates Graves
+    - at: 24:22
+      label: Red takes 4th Dragon (Cloud)
+      kind: dragon
+    - at: 24:37
+      label: Zoe eliminates Anivia
+    - at: 25:00
+      label: Bot Inhibitor falls (Blue)
+    - at: 25:21
+      label: Mid Inhibitor falls (Blue)
+    - at: 26:36
+      label: Yunara takes down Vayne
 - videoId: XcTgv2whAdg
   title: (DK Career) Bard Support vs Lulu (OMG Juhan) - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -70,27 +115,32 @@
   region: KR
   player: Career
   team: DK
+  uploaded: 2026-08-23
 - videoId: KeLi2SQJz98
   title: Bard Support vs Lulu - KR Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1678
   region: KR
+  uploaded: 2026-05-19
 - videoId: Oj0xGyGEbHM
   title: Bard Support vs Lulu - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1655
   region: KR
+  uploaded: 2026-04-17
 - videoId: bEeLHUF9aX4
   title: Bard Support vs Lulu - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1569
   region: KR
+  uploaded: 2026-03-06
 - videoId: 6OVtGW9eujE
   title: Bard Support vs Lulu - EUW Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 2082
   region: EUW
+  uploaded: 2025-07-08

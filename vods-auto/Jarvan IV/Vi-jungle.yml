@@ -70,9 +70,79 @@
   patch: "25.9"
   durationSec: 1916
   region: KR
+  uploaded: 2025-05-09
 - videoId: LzhLXzY2GGA
   title: Jarvan IV Jungle vs Vi - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1637
   region: EUW
+  uploaded: 2025-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:50
+      label: Take down The Turret
+      kind: tower
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:59
+      label: Take down The Turret
+      kind: tower
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:56
+      label: End credit

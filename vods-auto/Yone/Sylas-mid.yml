@@ -24,6 +24,7 @@
   durationSec: 1601
   region: EUW
   player: FXF Creal
+  uploaded: 2026-06-15
 - videoId: 8IXZBzsyInU
   title: (JDG Xiaoxu) Yone Mid vs Sylas - KR Master Patch 26.11
   rankClaim: Master
@@ -32,18 +33,21 @@
   region: KR
   player: Xiaoxu
   team: JDG
+  uploaded: 2026-06-01
 - videoId: QbwpSZqTRMs
   title: Yone vs Sylas Mid - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1171
   region: KR
+  uploaded: 2025-11-10
 - videoId: 6-MDQhOt2zg
   title: Yone Mid vs Sylas - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1588
   region: KR
+  uploaded: 2025-08-17
 - videoId: QS3cm-O7PPA
   title: T1 Faker Yone MID vs Sylas - Patch 25.1 Korea Master ✅
   rankClaim: Master
@@ -52,3 +56,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-01-21

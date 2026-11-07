@@ -5,6 +5,7 @@
   patch: "25.21"
   durationSec: 1931
   region: EUW
+  uploaded: 2025-11-01
 - videoId: VbsqXNfy2tA
   title: T1 Gumayusi Smolder vs Sivir [ ADC ] Korea Challenger 1309 LP | Patch 25.18
   rankClaim: Challenger
@@ -13,9 +14,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-09-16
 - videoId: IRrqe59GxCg
   title: Smolder ADC vs Sivir - KR Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1604
   region: KR
+  uploaded: 2025-09-02

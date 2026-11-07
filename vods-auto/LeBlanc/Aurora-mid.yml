@@ -5,12 +5,69 @@
   patch: "25.24"
   durationSec: 1550
   region: EUW
+  uploaded: 2025-12-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Take down The Turret
+      kind: tower
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:48
+      label: Take down The Turret
+      kind: tower
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Take down The Turret
+      kind: tower
+    - at: 24:09
+      label: Take down The Inhibitor
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Take down The Turret
+      kind: tower
+    - at: 25:39
+      label: End credit
 - videoId: nSkALNGE6yE
   title: LeBlanc Mid vs Aurora - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1474
   region: KR
+  uploaded: 2025-11-11
 - videoId: tJlPCsTjaaw
   title: Showmaker LeBlanc vs Aurora Mid - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
@@ -18,6 +75,7 @@
   durationSec: 1756
   region: KR
   player: ShowMaker
+  uploaded: 2025-09-18
 - videoId: iJVKztUHG0o
   title: DK ShowMaker Leblanc vs Aurora [ MID ] Korea Challenger Patch 25.18
   rankClaim: Challenger
@@ -26,21 +84,25 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-09-15
 - videoId: Sb97ePR42aQ
   title: LeBlanc Mid vs Aurora - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1604
   region: KR
+  uploaded: 2025-09-01
 - videoId: FUA4rkEdOdI
   title: LeBLanc vs Aurora Mid - KR Master - Patch 25.7 Season 15
   rankClaim: Master
   patch: "25.7"
   durationSec: 1511
   region: KR
+  uploaded: 2025-04-02
 - videoId: FbIOHifvTyU
   title: LeBlanc vs Aurora Mid - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1815
   region: KR
+  uploaded: 2025-02-27

@@ -53,9 +53,19 @@
     - at: 30:29
       label: Graves Double Kill
       kind: kill
+- videoId: l4-vNYPadUo
+  title: "MID.GG: [ Stunt ] Ahri SUPP vs Sona | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.7"
+  durationSec: 897
+  region: NA
+  patchEstimated: true
+  player: Stunt
+  uploaded: 2026-04-11
 - videoId: -irfBFzrx_o
   title: Ahri Support vs Sona - EUW Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1703
   region: EUW
+  uploaded: 2025-08-16

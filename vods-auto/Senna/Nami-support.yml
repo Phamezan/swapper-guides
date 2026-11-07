@@ -5,3 +5,77 @@
   patch: "25.10"
   durationSec: 1787
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Take down The Turret
+      kind: tower
+    - at: 13:51
+      label: Take down The Turret
+      kind: tower
+    - at: 15:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Take down The Turret
+      kind: tower
+    - at: 17:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Take down The Inhibitor
+    - at: 25:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:26
+      label: End credit

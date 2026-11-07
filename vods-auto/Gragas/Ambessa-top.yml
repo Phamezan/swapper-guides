@@ -5,15 +5,52 @@
   patch: "26.3"
   durationSec: 1571
   region: KR
+  uploaded: 2026-02-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Take down The Turret
+      kind: tower
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Take down The Inhibitor
+    - at: 25:45
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: End credit
 - videoId: vGJ1VZjG-Iw
   title: Gragas Top vs Ambessa - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1912
   region: KR
+  uploaded: 2025-09-01
 - videoId: F60fJ3dRwxs
   title: Gragas Top vs Ambessa - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2151
   region: KR
+  uploaded: 2025-03-09

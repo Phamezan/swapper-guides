@@ -65,6 +65,52 @@
   region: KR
   player: Vampire
   team: JDG
+  uploaded: 2026-06-29
+  result: W
+  moments:
+    - at: 1:25
+      label: First Blood — Nidalee kills Draven
+      kind: kill
+    - at: 1:39
+      label: Miss Fortune picks off Alistar
+    - at: 2:06
+      label: Rell picks off Draven
+    - at: 3:17
+      label: Miss Fortune picks off Alistar
+    - at: 3:53
+      label: Nidalee kills Alistar
+      kind: kill
+    - at: 5:05
+      label: Akshan takes down Alistar
+    - at: 6:23
+      label: Nidalee kills Alistar
+      kind: kill
+    - at: 7:07
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:05
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 10:38
+      label: Miss Fortune takes down Draven
+    - at: 12:28
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 13:45
+      label: Rell eliminates Alistar
+    - at: 17:42
+      label: Blue takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:15
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:32
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 25:47
+      label: Nidalee eliminates Draven
+    - at: 26:23
+      label: Top Inhibitor falls (Red)
 - videoId: A1BjxC47A6c
   title: (TJ Lekcycc) Rell Support vs Alistar - EUW Challenger Patch 26.11
   rankClaim: Challenger
@@ -72,6 +118,7 @@
   durationSec: 1425
   region: EUW
   player: TJ Lekcycc
+  uploaded: 2026-06-04
 - videoId: FJExeOdelF0
   title: (GEN Duro) Rell Support vs Alistar - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -80,27 +127,32 @@
   region: KR
   player: Duro
   team: GEN
+  uploaded: 2026-05-30
 - videoId: qwsSNZcnOWI
   title: Rell Support vs Alistar - EUW Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1445
   region: EUW
+  uploaded: 2025-12-03
 - videoId: oJmVpwI0Tqc
   title: Rell Support vs Alistar - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1687
   region: KR
+  uploaded: 2025-10-27
 - videoId: birDZysMED4
   title: Rell Support vs Alistar - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1542
   region: KR
+  uploaded: 2025-06-27
 - videoId: 1vHeSB171q8
   title: Rell Support vs Alistar - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1874
   region: EUW
+  uploaded: 2025-03-20

@@ -5,3 +5,50 @@
   patch: "26.5"
   durationSec: 1826
   region: NA
+  uploaded: 2026-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:05
+      label: Take down The Turret
+      kind: tower
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:18
+      label: Take down The Turret
+      kind: tower
+    - at: 27:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:47
+      label: Take down The Turret
+      kind: tower
+    - at: 29:16
+      label: Take down The Inhibitor
+    - at: 29:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:15
+      label: End credit

@@ -5,6 +5,7 @@
   patch: "25.11"
   durationSec: 1632
   region: KR
+  uploaded: 2025-06-06
 - videoId: YoP7nDxtqN0
   title: Lee Sin vs Teemo TOP [ HLE Zeus ] Korea Challenger Patch 25.11 ✅
   rankClaim: Challenger
@@ -13,9 +14,70 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2025-06-01
 - videoId: 9cj9N99JV0k
   title: Lee Sin Top vs Teemo - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1626
   region: KR
+  uploaded: 2025-05-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:43
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Take down The Turret
+      kind: tower
+    - at: 13:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Take down The Turret
+      kind: tower
+    - at: 20:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Take down The Turret
+      kind: tower
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:45
+      label: End credit

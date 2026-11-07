@@ -221,8 +221,118 @@
   patch: "26.5"
   durationSec: 1749
   region: NA
+  uploaded: 2026-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:17
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:43
+      label: Take down The Turret
+      kind: tower
+    - at: 28:58
+      label: End credit
 - videoId: n6w-0FvQo0I
   title: Zed Jungle vs Kindred - VN Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1446
+  uploaded: 2026-02-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Take down The Turret
+      kind: tower
+    - at: 22:17
+      label: Take down The Inhibitor
+    - at: 23:55
+      label: End credit

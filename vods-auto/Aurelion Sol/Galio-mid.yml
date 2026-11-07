@@ -5,9 +5,40 @@
   patch: "25.24"
   durationSec: 1545
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 13:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:29
+      label: Take down The Turret
+      kind: tower
+    - at: 24:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: End credit
 - videoId: I2ggLUilLzM
   title: Aurelion Sol Mid vs Galio - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1858
   region: KR
+  uploaded: 2025-08-20

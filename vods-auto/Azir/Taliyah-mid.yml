@@ -6,6 +6,7 @@
   durationSec: 1768
   region: KR
   player: ShowMaker
+  uploaded: 2026-08-08
 - videoId: GIhtshbCFTE
   title: (DNS Clozer) Azir Mid vs Taliyah - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -13,12 +14,63 @@
   durationSec: 1418
   region: KR
   player: Clozer
+  uploaded: 2026-05-24
 - videoId: MCccrQuI_xY
   title: Azir Mid vs Taliyah - KR Grandmaster Patch 26.05
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1519
   region: KR
+  uploaded: 2026-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Take down The Turret
+      kind: tower
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: Take down The Inhibitor
+    - at: 24:57
+      label: Take down The Turret
+      kind: tower
+    - at: 25:08
+      label: End credit
 - videoId: GjHSLfbGD8c
   title: T1 Faker Azir vs Taliyah [ MID ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -27,12 +79,14 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-01-21
 - videoId: rylAm2bTdNs
   title: Azir Mid vs Taliyah - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1781
   region: KR
+  uploaded: 2025-07-02
 - videoId: a5khyRLGpmI
   title: T1 Faker Azir vs Taliyah [ MID ] Patch 25.7 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -41,3 +95,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-04-06

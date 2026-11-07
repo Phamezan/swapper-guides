@@ -7,8 +7,57 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2026-06-09
 - videoId: p6mz0Ienj0w
   title: Zaahen Top vs K'Sante - VN Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1516
+  uploaded: 2026-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Take down The Turret
+      kind: tower
+    - at: 21:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:44
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Take down The Turret
+      kind: tower
+    - at: 24:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:52
+      label: Take down The Turret
+      kind: tower
+    - at: 25:05
+      label: End credit

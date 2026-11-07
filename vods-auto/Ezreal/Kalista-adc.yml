@@ -55,6 +55,15 @@
       label: Graves picks off Locke
     - at: 28:51
       label: Mid Inhibitor falls (Red)
+- videoId: Qxk3H3fsVAg
+  title: '"HanQL" 2255LP Ezreal : He is a MONSTER in TeamFight - Engsub ( vs Kalista, Smolder )'
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1407
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-10-05
+  format: stream
 - videoId: YrCTYCEmHh0
   title: Ezreal vs Kalista ADC - EUW Challenger - Patch 16.14 Season 16
   rankClaim: Challenger
@@ -62,3 +71,21 @@
   durationSec: 1471
   region: EUW
   uploaded: 2026-07-21
+- videoId: LgiV9dw_NjE
+  title: "2255LP Ezreal : Insane Mechanic 1v5 Tearing Challenger Elo - Engsub (Ez vs Kalista, Aurelion)"
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 1460
+  patchEstimated: true
+  uploaded: 2026-06-24
+  format: stream
+- videoId: bQ53UwTPmS0
+  title: "Uzi : His Ezreal is BREAKING KR HighElo Apart - Engsub ( Ez vs Kalista )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 919
+  region: KR
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-25
+  format: stream

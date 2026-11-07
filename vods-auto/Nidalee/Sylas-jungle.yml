@@ -59,18 +59,89 @@
   durationSec: 1496
   region: KR
   player: Karsa
+  uploaded: 2026-07-28
 - videoId: 7ciQ_UrFYdU
   title: Nidalee Jungle vs Sylas - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1577
   region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:33
+      label: Take down The Turret
+      kind: tower
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: Take down The Turret
+      kind: tower
+    - at: 25:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: Take down The Turret
+      kind: tower
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: End credit
 - videoId: wuD-pN-oGGo
   title: Nidalee Jungle vs Sylas - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1443
   region: KR
+  uploaded: 2026-01-11
 - videoId: CM30L3enHXw
   title: Nidalee vs Sylas Jungle [ TripleKill ] Korea Master Patch 25.20 ✅
   rankClaim: Master
@@ -78,15 +149,18 @@
   durationSec: 1768
   region: KR
   player: TripleKill
+  uploaded: 2025-10-16
 - videoId: t73Nv0eFOes
   title: Nidalee Jungle vs Sylas - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1652
   region: KR
+  uploaded: 2025-09-27
 - videoId: jTpWaE7iYP4
   title: Nidalee vs Sylas Jungle - KR Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 2161
   region: KR
+  uploaded: 2025-08-16

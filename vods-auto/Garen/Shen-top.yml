@@ -5,6 +5,7 @@
   patch: "26.19"
   durationSec: 1631
   region: EUW
+  uploaded: 2026-10-03
 - videoId: B3sCbh1oUh4
   title: LEARNING HOW TO PLAY NAAFIRI DRUTUTT EDITION
   rankClaim: Master+
@@ -23,3 +24,45 @@
   patch: "26.2"
   durationSec: 1496
   region: KR
+  uploaded: 2026-01-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:47
+      label: Take down The Turret
+      kind: tower
+    - at: 16:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:53
+      label: Take down The Turret
+      kind: tower
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:31
+      label: Take down The Turret
+      kind: tower
+    - at: 19:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:57
+      label: Take down The Turret
+      kind: tower
+    - at: 24:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:45
+      label: End credit

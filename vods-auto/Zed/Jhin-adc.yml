@@ -426,21 +426,133 @@
   patch: "26.6"
   durationSec: 1719
   region: KR
+  uploaded: 2026-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:10
+      label: Take down The Turret
+      kind: tower
+    - at: 16:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Take down The Turret
+      kind: tower
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:01
+      label: Take down The Turret
+      kind: tower
+    - at: 27:17
+      label: Take down The Inhibitor
+    - at: 27:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:28
+      label: End credit
 - videoId: Rek0wJgcNLw
   title: Zed ADC vs Jhin - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1838
   region: KR
+  uploaded: 2026-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:20
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:27
+      label: End credit
 - videoId: cFkMXUgNlc0
   title: Zed ADC vs Jhin - EUW Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1658
   region: EUW
+  uploaded: 2026-02-24
 - videoId: bsilf2pL2zs
   title: Zed ADC vs Jhin - EUW Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1651
   region: EUW
+  uploaded: 2025-05-22

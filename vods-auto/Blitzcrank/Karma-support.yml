@@ -5,27 +5,189 @@
   patch: "26.7"
   durationSec: 1713
   region: KR
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:23
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:40
+      label: Take down The Turret
+      kind: tower
+    - at: 26:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:22
+      label: End credit
 - videoId: 5SRmIBzJSFA
   title: Blitzcrank Support vs Karma - KR Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1790
   region: KR
+  uploaded: 2026-03-22
 - videoId: qZo0ElZ2M9w
   title: Blitzcrank Support vs Karma - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1617
   region: KR
+  uploaded: 2025-08-17
 - videoId: qqSAxRe22yE
   title: Blitzcrank Support vs Karma - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1730
   region: KR
+  uploaded: 2025-05-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Take down The Inhibitor
+    - at: 27:40
+      label: Take down The Turret
+      kind: tower
+    - at: 27:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:29
+      label: End credit
 - videoId: IV3dtRZtg8Y
   title: Blitzcrank Support vs Karma - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1783
   region: EUW
+  uploaded: 2025-05-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Take down The Turret
+      kind: tower
+    - at: 17:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:11
+      label: Take down The Turret
+      kind: tower
+    - at: 26:23
+      label: Take down The Inhibitor
+    - at: 28:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:22
+      label: End credit

@@ -5,9 +5,64 @@
   patch: "26.3"
   durationSec: 1577
   region: KR
+  uploaded: 2026-02-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Take down The Turret
+      kind: tower
+    - at: 14:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Take down The Turret
+      kind: tower
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:02
+      label: Take down The Turret
+      kind: tower
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Take down The Turret
+      kind: tower
+    - at: 25:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: End credit
 - videoId: C0LIv8wh06s
   title: Bel'Veth Top vs Aatrox - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1674
   region: KR
+  uploaded: 2025-10-07

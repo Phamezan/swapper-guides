@@ -5,8 +5,51 @@
   patch: "26.6"
   durationSec: 1641
   region: EUW
+  uploaded: 2026-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:41
+      label: Take down The Turret
+      kind: tower
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:10
+      label: End credit
 - videoId: qyZ6nQLfGXY
   title: Nautilus Support vs Nami - VN Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1650
+  uploaded: 2026-02-20

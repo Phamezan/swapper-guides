@@ -7,15 +7,86 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2026-05-22
 - videoId: td4yVXnO99Q
   title: Lee Sin Top vs Jayce - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1802
   region: KR
+  uploaded: 2025-10-03
 - videoId: QU30trMVYak
   title: Lee Sin Top vs Jayce - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1721
   region: KR
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:28
+      label: Take down The Turret
+      kind: tower
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:02
+      label: Take down The Turret
+      kind: tower
+    - at: 15:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:50
+      label: Take down The Turret
+      kind: tower
+    - at: 18:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:23
+      label: Take down The Turret
+      kind: tower
+    - at: 23:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:11
+      label: Take down The Turret
+      kind: tower
+    - at: 27:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:59
+      label: Take down The Turret
+      kind: tower
+    - at: 28:20
+      label: End credit

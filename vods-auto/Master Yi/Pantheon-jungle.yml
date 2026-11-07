@@ -5,18 +5,21 @@
   patch: "26.7"
   durationSec: 1818
   region: KR
+  uploaded: 2026-04-07
 - videoId: NOcf0MJxEBs
   title: Master Yi Jungle vs Pantheon - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 2129
   region: KR
+  uploaded: 2025-07-03
 - videoId: FYBotZKHt68
   title: Master Yi Jungle vs Pantheon - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1557
   region: KR
+  uploaded: 2025-06-18
 - videoId: liBCZbjU5cs
   title: Master Yi vs Pantheon Jungle [ QuadraKill ] Korea Master Patch 25.10 ✅
   rankClaim: Master
@@ -24,15 +27,59 @@
   durationSec: 1226
   region: KR
   player: QuadraKill
+  uploaded: 2025-05-21
 - videoId: nANPh85TAmY
   title: Master Yi Jungle vs Pantheon - NA Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1522
   region: NA
+  uploaded: 2025-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 25:01
+      label: End credit
 - videoId: MoHCXxyTq_Y
   title: Master Yi Jungle vs Pantheon - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2131
   region: KR
+  uploaded: 2025-02-25

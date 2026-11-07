@@ -5,3 +5,33 @@
   patch: "26.2"
   durationSec: 1610
   region: EUW
+  uploaded: 2026-02-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:39
+      label: End credit

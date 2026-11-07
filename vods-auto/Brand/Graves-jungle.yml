@@ -7,6 +7,7 @@
   region: EUW
   player: SkewMond
   team: G2
+  uploaded: 2026-07-24
 - videoId: T6q8xQqw2uk
   title: (SGE Zanzarah) Brand Jungle vs Graves - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -14,9 +15,77 @@
   durationSec: 1690
   region: EUW
   player: SGE Zanzarah
+  uploaded: 2026-06-20
 - videoId: m6VdJFpTr5I
   title: Brand Jungle vs Graves - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1849
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:54
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:15
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Hunt The Atakhan
+    - at: 21:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:45
+      label: Take down The Turret
+      kind: tower
+    - at: 27:13
+      label: Take down The Inhibitor
+    - at: 27:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:28
+      label: End credit

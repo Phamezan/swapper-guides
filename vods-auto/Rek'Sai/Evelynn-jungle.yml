@@ -6,9 +6,92 @@
   durationSec: 1728
   region: KR
   player: VNR Listo
+  uploaded: 2026-08-27
 - videoId: RSRBPIzseio
   title: Rek'Sai Jungle vs Evelynn - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1575
   region: KR
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:45
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:01
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:22
+      label: Take down The Turret
+      kind: tower
+    - at: 16:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Take down The Turret
+      kind: tower
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Take down The Turret
+      kind: tower
+    - at: 21:09
+      label: Hunt The Atakhan
+    - at: 22:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:36
+      label: Take down The Inhibitor
+    - at: 25:50
+      label: Take down The Turret
+      kind: tower
+    - at: 26:04
+      label: End credit

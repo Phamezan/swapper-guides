@@ -5,15 +5,61 @@
   patch: "26.2"
   durationSec: 1594
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Take down The Turret
+      kind: tower
+    - at: 19:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Take down The Inhibitor
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: End credit
 - videoId: MuVDnry3PEw
   title: Darius vs Gwen Top - EUW Master - Patch 25.16 Season 15
   rankClaim: Master
   patch: "25.16"
   durationSec: 2471
   region: EUW
+  uploaded: 2025-08-22
 - videoId: I-fD-aZ_7ug
   title: Darius vs Gwen Top - KR Master - Patch 25.7 Season 15
   rankClaim: Master
   patch: "25.7"
   durationSec: 1606
   region: KR
+  uploaded: 2025-04-07

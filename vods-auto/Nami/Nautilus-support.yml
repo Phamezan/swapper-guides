@@ -5,39 +5,192 @@
   patch: "26.13"
   durationSec: 1532
   region: EUW
+  uploaded: 2026-07-15
 - videoId: pE02CdLZnjg
   title: Nami Support vs Nautilus - KR Master Patch 26.10
   rankClaim: Master
   patch: "26.10"
   durationSec: 1540
   region: KR
+  uploaded: 2026-05-16
+  result: L
+  moments:
+    - at: 0:56
+      label: First Blood — Lucian kills Nautilus
+      kind: kill
+    - at: 2:48
+      label: Lucian takes down Smolder
+    - at: 4:35
+      label: Lucian picks off Nautilus
+    - at: 7:11
+      label: Wukong Double Kill
+      kind: kill
+    - at: 7:33
+      label: Galio kills Smolder
+      kind: kill
+    - at: 8:02
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:31
+      label: Wukong kills Nautilus
+      kind: kill
+    - at: 13:24
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 15:04
+      label: Lucian kills Sylas
+      kind: kill
+    - at: 16:10
+      label: Lucian Double Kill
+      kind: kill
+    - at: 16:33
+      label: Red takes Rift Herald
+      kind: herald
+    - at: 18:23
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 19:10
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 21:01
+      label: Red takes Baron
+      kind: baron
+    - at: 23:02
+      label: Mid Inhibitor falls (Blue)
+    - at: 23:58
+      label: Camille kills Rek'Sai
+      kind: kill
+    - at: 24:32
+      label: Camille eliminates Nautilus
+    - at: 24:49
+      label: Red takes 4th Dragon (Infernal)
+      kind: dragon
 - videoId: R0dAdnbApN4
   title: Nami Support vs Nautilus - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1444
   region: KR
+  uploaded: 2026-02-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Take down The Turret
+      kind: tower
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: End credit
 - videoId: -yDtGs2K6Js
   title: Nami Support vs Nautilus - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1443
   region: KR
+  uploaded: 2026-01-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Take down The Turret
+      kind: tower
+    - at: 12:32
+      label: Take down The Turret
+      kind: tower
+    - at: 12:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:33
+      label: Take down The Turret
+      kind: tower
+    - at: 18:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: End credit
 - videoId: om7pqAd8PqA
   title: Nami Support vs Nautilus - EUW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1464
   region: EUW
+  uploaded: 2025-10-23
 - videoId: jaIi_kF9-Zk
   title: Nami Support vs Nautilus - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 2021
   region: KR
+  uploaded: 2025-07-23
 - videoId: aKKd1aVLJn0
   title: Nami Support vs Nautilus - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1580
   region: KR
+  uploaded: 2025-04-17

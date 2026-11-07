@@ -40,9 +40,61 @@
     - at: 25:22
       label: Team fight (3 kills)
       kind: teamfight
+- videoId: v029jTbHeVs
+  title: When Lazyfeel Corki meet Smash Zeri in KR Challenger Match - Engsub
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1090
+  region: KR
+  patchEstimated: true
+  player: Smash
+  uploaded: 2026-02-13
+  format: stream
 - videoId: g6_YiLq2rNE
   title: Corki ADC vs Zeri - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1505
   region: KR
+  uploaded: 2026-02-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:00
+      label: Take down The Turret
+      kind: tower
+    - at: 13:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:54
+      label: Take down The Turret
+      kind: tower
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Take down The Turret
+      kind: tower
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: End credit

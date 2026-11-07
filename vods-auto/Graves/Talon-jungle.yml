@@ -6,12 +6,6 @@
   durationSec: 1961
   region: KR
   uploaded: 2026-08-23
-- videoId: 6lFP8f41ArU
-  title: Graves Jungle vs Talon - KR Challenger Patch 26.07
-  rankClaim: Challenger
-  patch: "26.7"
-  durationSec: 1859
-  region: KR
 - videoId: bxSQAHRNkPA
   title: Graves vs Talon Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -19,6 +13,13 @@
   durationSec: 1846
   region: KR
   uploaded: 2026-04-05
+- videoId: 6lFP8f41ArU
+  title: Graves Jungle vs Talon - KR Challenger Patch 26.07
+  rankClaim: Challenger
+  patch: "26.7"
+  durationSec: 1859
+  region: KR
+  uploaded: 2026-04-04
 - videoId: Dd2SRsT44LA
   title: Graves vs Talon Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -31,44 +32,99 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1491
-- videoId: IH-5P3hF0FU
-  title: Graves Jungle vs Talon - KR Grandmaster Patch 25.23
-  rankClaim: Grandmaster
-  patch: "25.23"
-  durationSec: 1670
-  region: KR
+  uploaded: 2026-01-08
 - videoId: XcB4jLFI-CE
   title: Graves vs Talon [ Jungle ] Lol Korea Master Patch 25.23 ✅
   rankClaim: Master
   patch: "25.23"
   durationSec: 1522
   region: KR
+  uploaded: 2025-12-01
+- videoId: IH-5P3hF0FU
+  title: Graves Jungle vs Talon - KR Grandmaster Patch 25.23
+  rankClaim: Grandmaster
+  patch: "25.23"
+  durationSec: 1670
+  region: KR
+  uploaded: 2025-11-25
 - videoId: I9m9rc4iQl4
   title: Graves Jungle vs Talon - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1603
   region: KR
+  uploaded: 2025-09-01
 - videoId: CRDofeZShJY
   title: Graves Jungle vs Talon - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1615
   region: KR
+  uploaded: 2025-08-06
 - videoId: mPdJ8U9UMj0
   title: Graves Jungle vs Talon - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1462
   region: KR
+  uploaded: 2025-05-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:02
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Take down The Turret
+      kind: tower
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Take down The Turret
+      kind: tower
+    - at: 19:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:52
+      label: Take down The Turret
+      kind: tower
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: End credit
 - videoId: bkopJqMnN8M
   title: Graves vs Talon Jungle - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1631
   region: KR
+  uploaded: 2025-05-13
 - videoId: uGeJlnzXoHk
   title: Graves vs Talon Jungle - UW Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1831
+  uploaded: 2025-03-06

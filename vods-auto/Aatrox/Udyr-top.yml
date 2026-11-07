@@ -19,9 +19,19 @@
       kind: trade
     - at: 14:45
       label: Late game siege and closure
+- videoId: tI6oXQ50OPg
+  title: 🛑 XiaoMing Aatrox vs Udyr - 1v9 Comeback - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 2096
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-05-26
+  format: stream
 - videoId: Kjz84b6HjjA
   title: AATROX vs UDYR (TOP) | 7/0/0, 6 solo kills, Godlike | KR Master | 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 838
   region: KR
+  uploaded: 2025-08-26

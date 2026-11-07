@@ -319,6 +319,14 @@
   patch: "26.5"
   durationSec: 1604
   region: KR
+  uploaded: 2026-03-08
+- videoId: _1HYrxEj4GU
+  title: Zed vs Irelia [ MID ] Lol Korea Challenger Patch 25.12 ✅
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 1531
+  region: KR
+  uploaded: 2025-06-25
 - videoId: O6buEieuMe0
   title: OnZed Zed vs Irelia Mid - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
@@ -326,9 +334,4 @@
   durationSec: 1801
   region: KR
   player: OnZed
-- videoId: _1HYrxEj4GU
-  title: Zed vs Irelia [ MID ] Lol Korea Challenger Patch 25.12 ✅
-  rankClaim: Challenger
-  patch: "25.12"
-  durationSec: 1531
-  region: KR
+  uploaded: 2025-06-24

@@ -7,9 +7,55 @@
   region: KR
   player: Creme
   team: TES
+  uploaded: 2026-06-14
 - videoId: xiODju8OjUk
   title: Vayne Top vs Renekton - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1446
   region: KR
+  uploaded: 2026-02-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:12
+      label: Take down The Turret
+      kind: tower
+    - at: 17:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:20
+      label: Take down The Turret
+      kind: tower
+    - at: 19:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: End credit

@@ -7,33 +7,94 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-05
 - videoId: Bm4exBK338s
   title: Aphelios ADC vs Miss Fortune - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1608
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:50
+      label: Take down The Turret
+      kind: tower
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Take down The Turret
+      kind: tower
+    - at: 20:46
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: Take down The Inhibitor
+    - at: 26:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: End credit
 - videoId: cSl_2uLM_Nk
   title: Aphelios ADC vs Miss Fortune - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1567
   region: NA
+  uploaded: 2025-12-31
 - videoId: AnQZaUwQrMQ
   title: Aphelios vs Miss Fortune ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1816
   region: KR
+  uploaded: 2025-12-26
 - videoId: zDjOxi4TaBI
   title: Aphelios ADC vs Miss Fortune - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1552
   region: KR
+  uploaded: 2025-09-13
 - videoId: h_r0tC8i2mo
   title: Aphelios ADC vs Miss Fortune - EUW Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1697
   region: EUW
+  uploaded: 2025-06-26

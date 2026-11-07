@@ -5,21 +5,126 @@
   patch: "26.8"
   durationSec: 1748
   region: KR
+  uploaded: 2026-04-19
+  result: L
+  moments:
+    - at: 2:27
+      label: First Blood — Pantheon kills Pyke
+      kind: kill
+    - at: 7:45
+      label: Hwei picks off Pyke
+    - at: 8:08
+      label: Hwei takes down Jhin
+    - at: 9:00
+      label: Hwei picks off Pyke
+    - at: 9:41
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 10:03
+      label: Pantheon picks off Jhin
+    - at: 11:45
+      label: Hwei Double Kill
+      kind: kill
+    - at: 12:26
+      label: Aatrox eliminates Jhin
+    - at: 14:36
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 15:55
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 16:43
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:53
+      label: Pantheon solo kills Pyke
+      kind: kill
+    - at: 20:08
+      label: Aatrox takes down Lee Sin
+    - at: 22:14
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 23:28
+      label: Pantheon eliminates Pyke
+    - at: 27:27
+      label: Aatrox kills Jayce
+      kind: kill
+    - at: 27:41
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 28:00
+      label: Mid Inhibitor falls (Blue)
 - videoId: ZaIKCBlqn2Q
   title: Pantheon Support vs Pyke - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1671
   region: KR
+  uploaded: 2026-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Take down The Turret
+      kind: tower
+    - at: 16:23
+      label: Take down The Turret
+      kind: tower
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:16
+      label: Take down The Turret
+      kind: tower
+    - at: 27:40
+      label: End credit
 - videoId: xRtqdmbCf98
   title: Pantheon Support vs Pyke - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1577
   region: KR
+  uploaded: 2026-01-25
 - videoId: 8iM7TGq-ddo
   title: Pantheon Support vs Pyke - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1844
   region: EUW
+  uploaded: 2025-06-11

@@ -22,9 +22,49 @@
   patch: "26.3"
   durationSec: 1620
   region: KR
+  uploaded: 2026-02-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Take down The Turret
+      kind: tower
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: End credit
 - videoId: uh3eNScFhuM
   title: Anivia Mid vs Viktor - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1849
   region: KR
+  uploaded: 2025-08-22

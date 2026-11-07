@@ -5,9 +5,66 @@
   patch: "25.21"
   durationSec: 1544
   region: KR
+  uploaded: 2025-11-03
 - videoId: dfow90o0IF8
   title: Hwei Support vs Alistar - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 2047
   region: KR
+  uploaded: 2025-04-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:09
+      label: Take down The Turret
+      kind: tower
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:57
+      label: Take down The Turret
+      kind: tower
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:20
+      label: Take down The Turret
+      kind: tower
+    - at: 32:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:10
+      label: Take down The Inhibitor
+    - at: 33:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:31
+      label: Take down The Turret
+      kind: tower
+    - at: 33:46
+      label: End credit

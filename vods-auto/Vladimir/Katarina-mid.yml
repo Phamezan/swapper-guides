@@ -5,9 +5,52 @@
   patch: "26.3"
   durationSec: 1455
   region: EUW
+  uploaded: 2026-02-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:43
+      label: Take down The Turret
+      kind: tower
+    - at: 17:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:15
+      label: Take down The Turret
+      kind: tower
+    - at: 19:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:04
+      label: End credit
 - videoId: EPI3nNQ1ris
   title: Vladimir vs Katarina [ MID ] Patch 25.24 Korea Grandmaster 890 LP
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1394
   region: KR
+  uploaded: 2025-12-18

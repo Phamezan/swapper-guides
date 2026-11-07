@@ -12,12 +12,14 @@
   patch: "25.24"
   durationSec: 1471
   region: KR
+  uploaded: 2025-12-18
 - videoId: AuQ7EoqLn6Y
   title: Tristana ADC vs Jhin - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1556
   region: KR
+  uploaded: 2025-10-11
 - videoId: G_lsCqy8kEY
   title: T1 Gumayusi Tristana vs Jhin [ ADC ] Patch 25.10 Korea Challenger
   rankClaim: Challenger
@@ -26,15 +28,73 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-24
 - videoId: oDDPMQfLPYY
   title: Tristana ADC vs Jhin - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1744
   region: KR
+  uploaded: 2025-04-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:05
+      label: Take down The Turret
+      kind: tower
+    - at: 14:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:00
+      label: Take down The Turret
+      kind: tower
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:50
+      label: Take down The Turret
+      kind: tower
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:12
+      label: Take down The Turret
+      kind: tower
+    - at: 27:52
+      label: Take down The Inhibitor
+    - at: 28:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:23
+      label: Take down The Turret
+      kind: tower
+    - at: 28:43
+      label: End credit
 - videoId: xGr8u6qXNDQ
   title: Tristana ADC vs Jhin - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1639
   region: KR
+  uploaded: 2025-04-05

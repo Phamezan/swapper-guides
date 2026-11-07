@@ -67,6 +67,24 @@
   durationSec: 1921
   region: EUW
   uploaded: 2026-06-11
+- videoId: m7-on5K1mRo
+  title: "Uzi : His Caitlyn Laning Phase is so CLEAN - Engsub ( Caitlyn vs Aphelios )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 812
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-11
+  format: stream
+- videoId: cDEUOiyYWT8
+  title: "Uzi Caitlyn : DOMINATING Super Server in Just 20 Min - Engsub ( Caitlyn vs Aphelios )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 902
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-08
+  format: stream
 - videoId: kgR_j1C1bjo
   title: BLG Viper Caitlyn vs Aphelios [ ADC ] Korea Grandmaster Patch 26.2 ✅
   rankClaim: Grandmaster
@@ -75,12 +93,14 @@
   region: KR
   player: Viper
   team: BLG
-- videoId: KgMRsJQOODk
-  title: Caitlyn ADC vs Aphelios - KR Master Patch 26.01
-  rankClaim: Master
+  uploaded: 2026-02-02
+- videoId: JQkq5HltLcs
+  title: Caitlyn vs Aphelios ADC - EUW Grandmaster - Patch 26.01 Season 16
+  rankClaim: Grandmaster
   patch: "26.1"
-  durationSec: 1459
-  region: KR
+  durationSec: 1681
+  region: EUW
+  uploaded: 2026-01-13
 - videoId: L41FvEHsrJM
   title: T1 Peyz Caitlyn vs Aphelios [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -89,13 +109,14 @@
   region: KR
   player: Peyz
   team: T1
-- videoId: JQkq5HltLcs
-  title: Caitlyn vs Aphelios ADC - EUW Grandmaster - Patch 26.01 Season 16
-  rankClaim: Grandmaster
+  uploaded: 2026-01-12
+- videoId: KgMRsJQOODk
+  title: Caitlyn ADC vs Aphelios - KR Master Patch 26.01
+  rankClaim: Master
   patch: "26.1"
-  durationSec: 1681
-  region: EUW
-  uploaded: 2026-01-13
+  durationSec: 1459
+  region: KR
+  uploaded: 2026-01-11
 - videoId: WFbKSBZ8j2M
   title: Deft Caitlyn vs Aphelios ADC [ TripleKill ] Korea Master Patch 25.24 ✅
   rankClaim: Master
@@ -103,12 +124,14 @@
   durationSec: 1713
   region: KR
   player: Deft
+  uploaded: 2025-12-28
 - videoId: STqrqTJ7OWE
   title: Caitlyn vs Aphelios [ ADC ] Lol Korea Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1171
   region: KR
+  uploaded: 2025-07-26
 - videoId: qLOFxaaKvVQ
   title: T1 Gumayusi Caitlyn vs Aphelios [ ADC ] Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -117,9 +140,11 @@
   region: NA
   player: Gumayusi
   team: T1
+  uploaded: 2025-07-06
 - videoId: KQLRW2XrBeQ
   title: Caitlyn ADC vs Aphelios - EUW Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1734
   region: EUW
+  uploaded: 2025-04-18

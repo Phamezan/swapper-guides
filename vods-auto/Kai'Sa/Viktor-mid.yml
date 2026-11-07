@@ -4,9 +4,49 @@
   rankClaim: Challenger
   patch: "26.11"
   durationSec: 1616
+  uploaded: 2026-06-12
 - videoId: 6_plEJrbGCA
   title: Kai'Sa Mid vs Viktor - EUW Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 2080
   region: EUW
+  uploaded: 2025-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:19
+      label: Take down The Turret
+      kind: tower
+    - at: 19:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 33:21
+      label: Get a Triple Kill
+      kind: kill
+    - at: 33:50
+      label: Take down The Turret
+      kind: tower
+    - at: 34:19
+      label: End credit

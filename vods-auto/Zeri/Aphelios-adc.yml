@@ -5,27 +5,84 @@
   patch: "26.17"
   durationSec: 1856
   region: KR
+  uploaded: 2026-09-09
+- videoId: AlN9flcc-Dk
+  title: "Rank 1 Zeri : Taking Over Super Server at 1500LP Match - Engsub ( Zeri vs Aphelios, Ashe )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1418
+  patchEstimated: true
+  uploaded: 2026-05-02
+  format: stream
 - videoId: BBYUUQqtxws
   title: Zeri ADC vs Aphelios - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1552
   region: KR
+  uploaded: 2026-01-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 12:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:12
+      label: Take down The Turret
+      kind: tower
+    - at: 17:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Take down The Turret
+      kind: tower
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:13
+      label: Take down The Turret
+      kind: tower
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:41
+      label: End credit
 - videoId: c4Yho7WWDXw
   title: Zeri ADC vs Aphelios - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1571
   region: EUW
+  uploaded: 2025-12-24
 - videoId: MkEZphFBQhw
   title: Zeri vs Aphelios ADC - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1921
   region: KR
+  uploaded: 2025-12-15
 - videoId: uKDq1UEJ9jA
   title: Zeri ADC vs Aphelios - KR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1934
   region: KR
+  uploaded: 2025-10-14

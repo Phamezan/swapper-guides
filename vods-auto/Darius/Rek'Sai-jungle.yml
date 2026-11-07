@@ -65,9 +65,84 @@
   patch: "26.11"
   durationSec: 1742
   region: KR
+  uploaded: 2026-06-07
 - videoId: fI6lXth20XU
   title: Darius Jungle vs Rek'Sai - EUW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1835
   region: EUW
+  uploaded: 2026-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:52
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:31
+      label: Take down The Inhibitor
+    - at: 30:06
+      label: Take down The Turret
+      kind: tower
+    - at: 30:24
+      label: End credit

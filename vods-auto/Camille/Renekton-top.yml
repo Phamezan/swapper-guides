@@ -54,24 +54,28 @@
   patch: "25.24"
   durationSec: 1511
   region: KR
+  uploaded: 2025-12-10
 - videoId: FNp2pSXrnsY
   title: Camille Top vs Renekton - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1471
   region: KR
+  uploaded: 2025-09-18
 - videoId: QHJNAb100LM
   title: Camille vs Renekton Top - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1531
   region: KR
+  uploaded: 2025-08-19
 - videoId: IO4WQ0DkehM
   title: Camille vs Renekton Top - KR Grandmaster - Patch 25.15 Season 15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1391
   region: KR
+  uploaded: 2025-08-07
 - videoId: jfs1NvjpJv4
   title: T1 Doran Camille vs Renekton [ TOP ] Korea Grandmaster Patch 25.11
   rankClaim: Grandmaster
@@ -80,6 +84,7 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2025-06-10
 - videoId: ghEN8ZCvC4E
   title: T1 Doran Camille vs Renekton [ TOP ] Patch 25.3 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -88,3 +93,4 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2025-02-08

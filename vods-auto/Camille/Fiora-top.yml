@@ -17,3 +17,78 @@
   patch: "26.1"
   durationSec: 1509
   region: KR
+  uploaded: 2026-01-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:17
+      label: Take down The Turret
+      kind: tower
+    - at: 12:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:25
+      label: Take down The Turret
+      kind: tower
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:39
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: End credit

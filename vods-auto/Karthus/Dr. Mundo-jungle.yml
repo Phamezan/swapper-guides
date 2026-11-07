@@ -13,3 +13,44 @@
   patch: "25.24"
   durationSec: 1509
   region: EUW
+  uploaded: 2026-01-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Hunt The Atakhan
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: End credit

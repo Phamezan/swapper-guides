@@ -5,9 +5,67 @@
   patch: "25.23"
   durationSec: 1565
   region: EUW
+  uploaded: 2025-11-29
 - videoId: Y3AIolgLhmU
   title: Talon Mid vs Syndra - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1641
   region: EUW
+  uploaded: 2025-04-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:09
+      label: Take down The Turret
+      kind: tower
+    - at: 15:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:16
+      label: Take down The Turret
+      kind: tower
+    - at: 19:09
+      label: Take down The Turret
+      kind: tower
+    - at: 20:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:07
+      label: Take down The Turret
+      kind: tower
+    - at: 23:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:07
+      label: Take down The Turret
+      kind: tower
+    - at: 25:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:00
+      label: End credit

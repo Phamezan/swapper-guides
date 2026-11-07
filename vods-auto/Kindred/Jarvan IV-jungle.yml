@@ -71,33 +71,150 @@
   patch: "26.8"
   durationSec: 1866
   region: KR
+  uploaded: 2026-04-20
+  result: W
+  moments:
+    - at: 3:17
+      label: First Blood — Kindred kills Cassiopeia
+      kind: kill
+    - at: 6:36
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:12
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:29
+      label: Kindred eliminates Jhin
+    - at: 14:05
+      label: Gragas kills Jarvan IV
+      kind: kill
+    - at: 14:56
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:50
+      label: Karthus eliminates Jarvan IV
+    - at: 17:52
+      label: Kindred kills Pantheon
+      kind: kill
+    - at: 19:11
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 20:17
+      label: Red takes Baron
+      kind: baron
+    - at: 20:52
+      label: Kindred kills Pantheon
+      kind: kill
+    - at: 23:43
+      label: Kindred kills Cassiopeia
+      kind: kill
+    - at: 24:27
+      label: Kindred picks off Ryze
+    - at: 24:38
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 26:11
+      label: Team fight (4 kills)
+      kind: teamfight
+    - at: 26:46
+      label: Blue takes Baron
+      kind: baron
+    - at: 28:28
+      label: Kindred kills Cassiopeia
+      kind: kill
+    - at: 29:46
+      label: Kindred kills Cassiopeia
+      kind: kill
 - videoId: QUO3IXiPgAU
   title: Kindred Jungle vs Jarvan IV - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1474
   region: NA
+  uploaded: 2025-12-19
 - videoId: Z1uV9Xa2rRI
   title: Kindred vs Jarvan IV Jungle - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2176
   region: KR
+  uploaded: 2025-10-27
 - videoId: 4IT_84GIWeI
   title: Kindred Jungle vs Jarvan IV - KR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1480
   region: KR
+  uploaded: 2025-09-17
 - videoId: xHfZ2gKqlVM
   title: Kindred Jungle vs Jarvan IV - EUW Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1917
   region: EUW
+  uploaded: 2025-08-13
 - videoId: _CewnI2J50k
   title: Kindred Jungle vs Jarvan IV - EUW Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1968
   region: EUW
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:44
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:53
+      label: Take down The Turret
+      kind: tower
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Hunt The Atakhan
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 25:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:27
+      label: End credit

@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1829
   region: KR
+  uploaded: 2026-09-19
 - videoId: 80WvvDgt-HI
   title: T1 Faker Anivia vs Ryze MID [ Perfect KDA ] Korea Challenger 1723 LP | Patch 26.7
   rankClaim: Challenger
@@ -22,6 +23,7 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-03-24
 - videoId: H0A7tEpda6M
   title: "DK ShowMaker Anivia vs Ryze [ MID ] Rank #1 Korea Challenger Patch 26.2"
   rankClaim: Challenger
@@ -30,9 +32,49 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2026-02-04
 - videoId: 7wZHk2hFAeI
   title: Anivia Mid vs Ryze - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1510
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Take down The Turret
+      kind: tower
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: End credit

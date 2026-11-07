@@ -5,21 +5,153 @@
   patch: "26.1"
   durationSec: 1478
   region: EUW
-- videoId: ow0W_HUJKHI
-  title: Hecarim Jungle vs Qiyana - EUW Grandmaster Patch 25.24
-  rankClaim: Grandmaster
-  patch: "25.24"
-  durationSec: 1458
-  region: EUW
+  uploaded: 2026-01-22
 - videoId: JkoILpcHTeI
   title: Hecarim Jungle vs Qiyana - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1458
   region: EUW
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Take down The Turret
+      kind: tower
+    - at: 14:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Hunt The Atakhan
+    - at: 20:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:07
+      label: End credit
+- videoId: ow0W_HUJKHI
+  title: Hecarim Jungle vs Qiyana - EUW Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1458
+  region: EUW
+  uploaded: 2025-12-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Take down The Turret
+      kind: tower
+    - at: 14:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:26
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Hunt The Atakhan
+    - at: 20:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:07
+      label: End credit
 - videoId: _YPaQjzhz08
   title: Hecarim Jungle vs Qiyana - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1809
   region: EUW
+  uploaded: 2025-11-06

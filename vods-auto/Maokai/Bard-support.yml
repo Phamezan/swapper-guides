@@ -5,9 +5,113 @@
   patch: "26.6"
   durationSec: 1531
   region: KR
+  uploaded: 2026-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: End credit
 - videoId: 1uTgeaPXSHI
   title: Maokai Support vs Bard - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1537
   region: KR
+  uploaded: 2025-05-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Take down The Turret
+      kind: tower
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Take down The Turret
+      kind: tower
+    - at: 18:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Take down The Turret
+      kind: tower
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Hunt The Atakhan
+    - at: 20:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Take down The Turret
+      kind: tower
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: End credit

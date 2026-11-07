@@ -5,15 +5,138 @@
   patch: "26.5"
   durationSec: 1678
   region: KR
+  uploaded: 2026-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:08
+      label: Take down The Turret
+      kind: tower
+    - at: 15:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:22
+      label: Take down The Turret
+      kind: tower
+    - at: 16:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:45
+      label: Take down The Turret
+      kind: tower
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:16
+      label: Take down The Turret
+      kind: tower
+    - at: 27:47
+      label: End credit
 - videoId: wlt8GucvLGE
   title: Gwen Top vs Zaahen - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1526
   region: KR
+  uploaded: 2026-01-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:59
+      label: Take down The Turret
+      kind: tower
+    - at: 14:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Take down The Turret
+      kind: tower
+    - at: 18:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:37
+      label: Take down The Turret
+      kind: tower
+    - at: 22:50
+      label: Take down The Inhibitor
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:57
+      label: Take down The Turret
+      kind: tower
+    - at: 25:15
+      label: End credit
 - videoId: uHu793FjsDI
   title: Gwen Top vs Zaahen - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1559
   region: KR
+  uploaded: 2025-12-09

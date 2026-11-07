@@ -221,6 +221,7 @@
   patch: "26.18"
   durationSec: 1764
   region: EUW
+  uploaded: 2026-09-24
 - videoId: lkddKl0HsWs
   title: Ahri Mid vs Twisted Fate - EUW Challenger Patch 26.17
   rankClaim: Challenger
@@ -355,14 +356,25 @@
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-04-05
+- videoId: H_EkEbYK5FM
+  title: "MID.GG: [ dunlol ] Ahri MID vs Twisted Fate | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.5"
+  durationSec: 1941
+  region: NA
+  patchEstimated: true
+  player: dunlol
+  uploaded: 2026-03-15
 - videoId: 2JTvVjULtvE
   title: Ahri Mid vs Twisted Fate - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1549
   region: KR
+  uploaded: 2025-09-15
 - videoId: eeqHA_HD8rs
   title: Ahri Mid vs Twisted Fate - BR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1912
+  uploaded: 2025-07-24

@@ -109,9 +109,67 @@
   patch: "26.1"
   durationSec: 1615
   region: EUW
+  uploaded: 2026-01-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:45
+      label: Take down The Turret
+      kind: tower
+    - at: 11:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:41
+      label: Take down The Turret
+      kind: tower
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:36
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:08
+      label: Take down The Turret
+      kind: tower
+    - at: 26:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:44
+      label: End credit
 - videoId: jq_jBnjehUo
   title: Zed Support vs Yuumi - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1780
   region: KR
+  uploaded: 2025-02-28

@@ -8,9 +8,19 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-10-25
+- videoId: uV37uzCLOUw
+  title: '"Jz" 2000LP Tristana : This Dude is a RECKLESS SAVAGE - Engsub (Tris vs Sivir, Twitch)'
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1334
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-07-29
+  format: stream
 - videoId: xtFZ7-hlJi0
   title: Tristana ADC vs Sivir - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1488
   region: NA
+  uploaded: 2025-12-22

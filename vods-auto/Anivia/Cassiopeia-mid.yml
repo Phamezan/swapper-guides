@@ -5,12 +5,50 @@
   patch: "26.17"
   durationSec: 1558
   region: KR
+  uploaded: 2026-09-04
 - videoId: ivo2ky0JVXk
   title: Anivia Mid vs Cassiopeia - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
   patch: "26.16"
   durationSec: 1662
   region: KR
+  uploaded: 2026-08-27
+  result: W
+  moments:
+    - at: 6:05
+      label: First Blood — Lee Sin kills Cassiopeia
+      kind: kill
+    - at: 6:22
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 14:48
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 17:36
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:19
+      label: Pantheon Double Kill
+      kind: kill
+    - at: 21:06
+      label: Lee Sin kills Shen
+      kind: kill
+    - at: 21:49
+      label: Anivia picks off Jarvan IV
+    - at: 22:14
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:22
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:05
+      label: Red takes Baron
+      kind: baron
+    - at: 26:18
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 26:34
+      label: Bot Inhibitor falls (Blue)
 - videoId: gHOlB4dNwFk
   title: (GEN Chovy) Anivia Mid vs Cassiopeia (KT Hwichan) - KR Grandmaster Patch 26.15
   rankClaim: Grandmaster
@@ -19,6 +57,7 @@
   region: KR
   player: Chovy
   team: GEN
+  uploaded: 2026-08-08
 - videoId: xLAfRvNEvSo
   title: (FNC Vladi) Anivia Mid vs Cassiopeia - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -27,6 +66,7 @@
   region: EUW
   player: Vladi
   team: FNC
+  uploaded: 2026-06-14
 - videoId: BKVB7kGhdpE
   title: (GEN Chovy) Anivia Mid vs Cassiopeia (GAM Aress) - KR Challenger Patch 26.10
   rankClaim: Challenger
@@ -35,6 +75,7 @@
   region: KR
   player: Chovy
   team: GEN
+  uploaded: 2026-05-22
 - videoId: KPd0rSNcA04
   title: T1 Faker Anivia vs Cassiopeia [ MID ] Korea Challenger 1932 LP | Patch 26.10
   rankClaim: Challenger
@@ -50,3 +91,4 @@
   patch: "25.24"
   durationSec: 1517
   region: EUW
+  uploaded: 2026-01-04

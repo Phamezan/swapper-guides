@@ -4,9 +4,63 @@
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1580
+  uploaded: 2025-07-07
 - videoId: 5Ec_fva5dEY
   title: Amumu Support vs Nami - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1912
   region: NA
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:39
+      label: Take down The Turret
+      kind: tower
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Take down The Turret
+      kind: tower
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Take down The Turret
+      kind: tower
+    - at: 25:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:04
+      label: Take down The Inhibitor
+    - at: 31:31
+      label: End credit

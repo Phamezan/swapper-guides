@@ -30,18 +30,71 @@
   patch: "26.6"
   durationSec: 1750
   region: KR
+  uploaded: 2026-03-21
 - videoId: Pet8FmHcwlQ
   title: Jhin ADC vs Varus - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1681
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Take down The Turret
+      kind: tower
+    - at: 18:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:25
+      label: Take down The Turret
+      kind: tower
+    - at: 19:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:44
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:50
+      label: End credit
 - videoId: loUFpuKC_7M
   title: Jhin ADC vs Varus - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1539
   region: KR
+  uploaded: 2026-02-07
 - videoId: mO-W0YpRv6g
   title: HLE Gumayusi Jhin vs Varus [ ADC ] Korea Challenger 1517 LP | Patch 26.2
   rankClaim: Challenger
@@ -50,24 +103,21 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-02-04
 - videoId: KLZbXgsyTLc
   title: Jhin vs Varus [ ADC ] Korea Challenger 1660 LP | Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1359
   region: KR
-- videoId: r3jSMlJR558
-  title: Jhin ADC vs Varus - KR Grandmaster Patch 25.11
-  rankClaim: Grandmaster
-  patch: "25.11"
-  durationSec: 1839
-  region: KR
+  uploaded: 2025-12-17
 - videoId: HuXGteG-yS0
   title: Jhin vs Varus ADC - KR Challenger - Patch 15.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1681
   region: KR
+  uploaded: 2025-06-05
 - videoId: dwfsaMeoD4I
   title: T1 Gumayusi Jhin vs Varus [ ADC ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -76,6 +126,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-05
+- videoId: r3jSMlJR558
+  title: Jhin ADC vs Varus - KR Grandmaster Patch 25.11
+  rankClaim: Grandmaster
+  patch: "25.11"
+  durationSec: 1839
+  region: KR
+  uploaded: 2025-05-31
 - videoId: MgR-EKOsd8k
   title: T1 Faker Jhin vs Varus [ ADC ] Patch 25.10 Korea Grandmaster
   rankClaim: Grandmaster
@@ -84,6 +142,7 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-15
 - videoId: Vxx0xG_78M0
   title: T1 Gumayusi Jhin vs Varus [ ADC ] Korea Master Patch 25.9
   rankClaim: Master
@@ -92,24 +151,28 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-05
 - videoId: k0SLIMjGUz0
   title: Jhin vs Varus ADC - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 2171
   region: KR
+  uploaded: 2025-04-22
 - videoId: y1h4rhrLBng
   title: Jhin vs Varus ADC - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1621
   region: KR
+  uploaded: 2025-04-03
 - videoId: nj1xAkyWl6M
   title: Jhin ADC vs Varus - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 2120
   region: KR
+  uploaded: 2025-03-22
 - videoId: Ba7UicFGNIE
   title: T1 Gumayusi Jhin vs Varus [ ADC ] Patch 25.5 Korea Challenger
   rankClaim: Challenger
@@ -118,3 +181,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-14

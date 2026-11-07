@@ -5,3 +5,54 @@
   patch: "26.6"
   durationSec: 1542
   region: EUW
+  uploaded: 2026-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Take down The Turret
+      kind: tower
+    - at: 15:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:34
+      label: Take down The Turret
+      kind: tower
+    - at: 19:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Take down The Turret
+      kind: tower
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: End credit

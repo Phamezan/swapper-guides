@@ -63,57 +63,108 @@
   durationSec: 1708
   region: EUW
   player: SK LIDER
+  uploaded: 2026-05-26
 - videoId: -25bq0sFymg
   title: Renekton Mid vs Yasuo - KR Master Patch 26.08
   rankClaim: Master
   patch: "26.8"
   durationSec: 1719
   region: KR
+  uploaded: 2026-04-25
 - videoId: GW584OEWz48
   title: Renekton Mid vs Yasuo - EUW Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1503
   region: EUW
+  uploaded: 2026-02-28
 - videoId: 0XuGLCWyhVk
   title: Renekton Mid vs Yasuo - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1555
   region: KR
+  uploaded: 2026-01-21
 - videoId: nQSWf--TZX8
   title: Renekton Mid vs Yasuo - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1454
   region: KR
+  uploaded: 2025-12-14
 - videoId: 05Vfxo9J9zk
   title: Renekton Mid vs Yasuo - EUW Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 2087
   region: EUW
+  uploaded: 2025-10-19
 - videoId: Gb6e98fhju4
   title: Renekton Mid vs Yasuo - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1819
   region: KR
+  uploaded: 2025-08-09
 - videoId: lJgrcb9H_SQ
   title: Renekton Mid vs Yasuo - EUW Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1486
   region: EUW
+  uploaded: 2025-07-28
 - videoId: xZ_d6msTHFM
   title: Renekton Mid vs Yasuo - NA Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1572
   region: NA
+  uploaded: 2025-06-09
 - videoId: Bpw3T6qUloI
   title: Renekton Mid vs Yasuo - EUW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1572
   region: EUW
+  uploaded: 2025-04-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:23
+      label: Take down The Turret
+      kind: tower
+    - at: 17:05
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:51
+      label: End credit

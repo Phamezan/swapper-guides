@@ -165,33 +165,88 @@
   patch: "26.6"
   durationSec: 1606
   region: EUW
+  uploaded: 2026-03-27
 - videoId: RLCPL7nSrHo
   title: Zed Support vs Karma - EUW Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1569
   region: EUW
+  uploaded: 2026-03-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Take down The Turret
+      kind: tower
+    - at: 23:47
+      label: Take down The Inhibitor
+    - at: 25:58
+      label: End credit
 - videoId: 9p0ydn9X0CA
   title: Zed Support vs Karma - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1522
   region: KR
+  uploaded: 2026-02-01
 - videoId: CI8WEe77H7I
   title: Zed Support vs Karma - EUW Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1561
   region: EUW
+  uploaded: 2026-01-25
 - videoId: uNgk0EF4j1s
   title: Zed Support vs Karma - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1505
   region: KR
+  uploaded: 2025-07-28
 - videoId: DM5k_0a1Vwc
   title: Zed Support vs Karma - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1940
   region: KR
+  uploaded: 2025-06-16

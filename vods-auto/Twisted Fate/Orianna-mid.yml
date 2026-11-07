@@ -7,6 +7,57 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-06-06
+  result: W
+  moments:
+    - at: 2:24
+      label: First Blood — Rek'Sai kills Orianna
+      kind: kill
+    - at: 9:23
+      label: Twisted Fate eliminates Orianna
+    - at: 10:30
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:54
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:45
+      label: Twisted Fate kills Varus
+      kind: kill
+    - at: 15:55
+      label: Twisted Fate Triple Kill
+      kind: kill
+    - at: 18:34
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:46
+      label: Miss Fortune picks off Gnar
+    - at: 21:34
+      label: Rek'Sai picks off Orianna
+    - at: 22:10
+      label: Twisted Fate kills Varus
+      kind: kill
+    - at: 23:46
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 24:51
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:19
+      label: Twisted Fate kills Varus
+      kind: kill
+    - at: 26:03
+      label: Rek'Sai kills Gnar
+      kind: kill
+    - at: 27:14
+      label: Miss Fortune picks off Rell
+    - at: 29:02
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 30:13
+      label: Miss Fortune picks off Gnar
+    - at: 30:25
+      label: Mid Inhibitor falls (Red)
 - videoId: 8wCvlQ6LU1w
   title: T1 Faker Twisted Fate vs Orianna [ MID ] Korea Challenger 1908 LP | Patch 26.11
   rankClaim: Challenger
@@ -22,9 +73,11 @@
   patch: "26.1"
   durationSec: 1452
   region: KR
+  uploaded: 2026-01-11
 - videoId: jsBY80jSCbM
   title: Twisted Fate Mid vs Orianna - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1965
   region: KR
+  uploaded: 2025-05-06

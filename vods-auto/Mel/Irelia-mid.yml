@@ -50,15 +50,17 @@
       label: Mid Inhibitor falls (Blue)
     - at: 27:38
       label: Mel eliminates Irelia
-- videoId: DzCNOHU3FaM
-  title: Mel Mid vs Irelia - KR Master Patch 25.24
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1494
-  region: KR
 - videoId: MK19K-I7DSY
   title: Mel vs Irelia Mid - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1696
   region: KR
+  uploaded: 2025-12-19
+- videoId: DzCNOHU3FaM
+  title: Mel Mid vs Irelia - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1494
+  region: KR
+  uploaded: 2025-12-05

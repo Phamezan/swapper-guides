@@ -5,21 +5,80 @@
   patch: "26.7"
   durationSec: 1700
   region: KR
+  uploaded: 2026-04-12
 - videoId: eZxmMWvnfyg
   title: Renekton Mid vs Yone - EUW Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1597
   region: EUW
+  uploaded: 2026-02-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:09
+      label: Take down The Turret
+      kind: tower
+    - at: 14:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:10
+      label: Take down The Turret
+      kind: tower
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Take down The Turret
+      kind: tower
+    - at: 25:46
+      label: Take down The Inhibitor
+    - at: 26:26
+      label: End credit
 - videoId: EqUrp43UjD0
   title: Renekton Mid vs Yone - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 2023
   region: KR
+  uploaded: 2025-09-09
 - videoId: xp-7JRz4gY4
   title: Renekton Mid vs Yone - NA Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1901
   region: NA
+  uploaded: 2025-05-28

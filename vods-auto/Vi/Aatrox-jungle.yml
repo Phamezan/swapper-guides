@@ -5,9 +5,88 @@
   patch: "26.8"
   durationSec: 1644
   region: KR
+  uploaded: 2026-04-21
 - videoId: JZNkL-LoU5k
   title: Vi Jungle vs Aatrox - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1456
   region: EUW
+  uploaded: 2026-04-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:47
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:15
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 16:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:41
+      label: Take down The Turret
+      kind: tower
+    - at: 19:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Take down The Turret
+      kind: tower
+    - at: 24:05
+      label: End credit

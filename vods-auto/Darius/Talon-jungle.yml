@@ -5,3 +5,66 @@
   patch: "25.9"
   durationSec: 1689
   region: EUW
+  uploaded: 2025-05-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:40
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Take down The Turret
+      kind: tower
+    - at: 21:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:38
+      label: Take down The Turret
+      kind: tower
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:48
+      label: End credit

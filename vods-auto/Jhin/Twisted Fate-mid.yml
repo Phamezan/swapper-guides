@@ -5,3 +5,50 @@
   patch: "26.8"
   durationSec: 1764
   region: KR
+  uploaded: 2026-04-24
+  result: L
+  moments:
+    - at: 0:57
+      label: First Blood — Jhin kills Twisted Fate
+      kind: kill
+    - at: 4:57
+      label: Jhin outduels Blitzcrank
+    - at: 6:46
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 6:58
+      label: Nidalee takes down Zac
+    - at: 7:42
+      label: Jhin takes down Blitzcrank
+    - at: 8:55
+      label: Jhin eliminates Twisted Fate
+    - at: 12:35
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:31
+      label: Jhin kills Caitlyn
+      kind: kill
+    - at: 15:18
+      label: Jhin eliminates Twisted Fate
+    - at: 15:43
+      label: Pyke eliminates Blitzcrank
+    - at: 17:46
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 22:05
+      label: Kai'Sa picks off Blitzcrank
+    - at: 22:45
+      label: Red takes Baron
+      kind: baron
+    - at: 23:13
+      label: Red takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 25:27
+      label: Jhin outplays Vi
+    - at: 25:57
+      label: Nidalee eliminates Caitlyn
+    - at: 27:57
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 28:20
+      label: Mid Inhibitor falls (Blue)

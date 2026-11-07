@@ -481,6 +481,7 @@
   region: KR
   player: Karis
   team: WE
+  uploaded: 2026-05-25
 - videoId: VRfQEODpQoI
   title: OnZed Zed vs Ahri Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
@@ -488,16 +489,19 @@
   durationSec: 1786
   region: KR
   player: OnZed
+  uploaded: 2026-03-18
 - videoId: 6fGATZEU-w4
   title: Zed Mid vs Ahri - TW Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1845
+  uploaded: 2026-03-17
 - videoId: q1QYmn3FHy8
   title: Zed Mid vs Ahri - BR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 2051
+  uploaded: 2025-10-07
 - videoId: nPVsIFBjeDI
   title: OnZed Zed vs Ahri MId - KR Grandmaster - Patch 25.15 Season 15
   rankClaim: Grandmaster
@@ -505,17 +509,70 @@
   durationSec: 1580
   region: KR
   player: OnZed
+  uploaded: 2025-08-01
 - videoId: Q39NxpJjh8k
   title: Zed vs Ahri [ MID ] Lol Korea Challenger Patch 25.14 ✅
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1341
   region: KR
+  uploaded: 2025-07-20
 - videoId: WLz-SKw-eiI
   title: Zed Mid vs Ahri - BR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1890
+  uploaded: 2025-06-20
+- videoId: rE0ppGY_mUo
+  title: Zed Mid vs Ahri - EUW Master Patch 25.08
+  rankClaim: Master
+  patch: "25.8"
+  durationSec: 2072
+  region: EUW
+  uploaded: 2025-04-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Take down The Turret
+      kind: tower
+    - at: 22:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Take down The Turret
+      kind: tower
+    - at: 26:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:30
+      label: Take down The Turret
+      kind: tower
+    - at: 33:44
+      label: Take down The Inhibitor
+    - at: 34:11
+      label: End credit
 - videoId: xk2fnpiX19k
   title: OnZed Zed vs Ahri Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
@@ -523,20 +580,55 @@
   durationSec: 1801
   region: KR
   player: OnZed
-- videoId: rE0ppGY_mUo
-  title: Zed Mid vs Ahri - EUW Master Patch 25.08
-  rankClaim: Master
-  patch: "25.8"
-  durationSec: 2072
-  region: EUW
+  uploaded: 2025-04-25
 - videoId: 6i97x1DPj-U
   title: Zed Mid vs Ahri - VN Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2064
+  uploaded: 2025-04-02
 - videoId: Tz4ZtJpbY88
   title: Zed Mid vs Ahri - NA Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1697
   region: NA
+  uploaded: 2025-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:29
+      label: Take down The Turret
+      kind: tower
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Take down The Turret
+      kind: tower
+    - at: 24:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:56
+      label: End credit

@@ -5,3 +5,74 @@
   patch: "25.7"
   durationSec: 1736
   region: KR
+  uploaded: 2025-04-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:51
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Take down The Turret
+      kind: tower
+    - at: 11:29
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 15:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:58
+      label: Take down The Turret
+      kind: tower
+    - at: 28:14
+      label: Take down The Inhibitor
+    - at: 28:35
+      label: End credit

@@ -5,21 +5,82 @@
   patch: "25.19"
   durationSec: 2014
   region: KR
+  uploaded: 2025-09-30
 - videoId: _hCczIcDhH0
   title: Anivia Mid vs Aurora - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1708
   region: KR
+  uploaded: 2025-09-15
 - videoId: NCZqjl2Yyqc
   title: Anivia Mid vs Aurora - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1701
   region: KR
+  uploaded: 2025-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:26
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Take down The Turret
+      kind: tower
+    - at: 23:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Take down The Turret
+      kind: tower
+    - at: 24:27
+      label: Take down The Inhibitor
+    - at: 25:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:08
+      label: Take down The Turret
+      kind: tower
+    - at: 26:23
+      label: Take down The Inhibitor
+    - at: 27:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:00
+      label: End credit
 - videoId: fV3uHEAg2hQ
   title: Anivia Mid vs Aurora - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1744
   region: KR
+  uploaded: 2025-02-22

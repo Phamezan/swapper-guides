@@ -8,12 +8,46 @@
   player: Viper
   team: BLG
   uploaded: 2026-10-09
+- videoId: cFrPYCLrS5A
+  title: "Gumayusi : His Jinx just Playing Survival Mode in Teamfighting - Engsub ( vs Caitlyn )"
+  rankClaim: Master+
+  patch: "26.18"
+  durationSec: 838
+  patchEstimated: true
+  player: Gumayusi
+  uploaded: 2026-09-11
+  format: stream
+- videoId: J23ur7M_R0s
+  title: "Rank 1 Jinx : This Guy is Absolutely a MONSTER - Engsub ( vs MF, Caitlyn )"
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1204
+  patchEstimated: true
+  uploaded: 2026-08-11
+  format: stream
+- videoId: J6UEtwUG54Q
+  title: "Rank 1 Jinx : This Dude is BLOWING UP Super Server Master Elo - Engsub (Jinx vs Caitlyn, Xayah)"
+  rankClaim: Master
+  patch: "26.15"
+  durationSec: 1229
+  patchEstimated: true
+  uploaded: 2026-07-29
+  format: stream
 - videoId: Ewl35HBhFxQ
   title: Jinx ADC vs Caitlyn - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
   patch: "26.10"
   durationSec: 1717
   region: KR
+  uploaded: 2026-05-18
+- videoId: 92z83qaL_04
+  title: "Rank 1 Jinx : Crushing Super Server HighElo - Engsub ( Jinx vs Caitlyn, Varus )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1317
+  patchEstimated: true
+  uploaded: 2026-05-05
+  format: stream
 - videoId: JddGZBrnJlM
   title: T1 Peyz Jinx vs Caitlyn [ ADC ] Korea Challenger 2489 LP | Patch 26.8
   rankClaim: Challenger
@@ -29,12 +63,14 @@
   patch: "26.5"
   durationSec: 1756
   region: KR
+  uploaded: 2026-03-19
 - videoId: xElZLAtxAMk
   title: Jinx ADC vs Caitlyn - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1451
   region: EUW
+  uploaded: 2025-12-04
 - videoId: AJ3nFyz8Dzo
   title: Jinx vs Caitlyn ADC [ TripleKill ] Korea Master Patch 25.22 ✅
   rankClaim: Master
@@ -42,3 +78,4 @@
   durationSec: 1447
   region: KR
   player: TripleKill
+  uploaded: 2025-11-09

@@ -5,20 +5,77 @@
   patch: "25.24"
   durationSec: 1523
   region: KR
+  uploaded: 2026-01-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:34
+      label: Take down The Turret
+      kind: tower
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:39
+      label: Take down The Turret
+      kind: tower
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Take down The Turret
+      kind: tower
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: End credit
 - videoId: fIUUXn2uU8w
   title: Wukong Top vs Ambessa - NA Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1974
   region: NA
+  uploaded: 2025-10-06
 - videoId: EBMNyFYghKk
   title: Wukong Top vs Ambessa - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 2107
   region: KR
+  uploaded: 2025-05-28
 - videoId: Z1tpdKAsLU0
   title: Wukong Top vs Ambessa - VN Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1638
+  uploaded: 2025-04-03

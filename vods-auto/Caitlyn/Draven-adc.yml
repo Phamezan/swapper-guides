@@ -14,6 +14,7 @@
   durationSec: 1450
   region: EUW
   player: LR Crownie
+  uploaded: 2026-08-14
 - videoId: IkyRzakp6xU
   title: (APM Eune) Caitlyn ADC vs Draven - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
@@ -21,12 +22,14 @@
   durationSec: 1845
   region: EUNE
   player: APM Eune
+  uploaded: 2026-07-09
 - videoId: jxwQclFkXuo
   title: Caitlyn ADC vs Draven - KR Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1683
   region: KR
+  uploaded: 2025-11-26
 - videoId: YOYInnT1xyw
   title: Caitlyn vs Draven ADC [ Quadrakill ] Patch 25.23 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -34,15 +37,18 @@
   durationSec: 1435
   region: KR
   player: Quadrakill
+  uploaded: 2025-11-23
 - videoId: BPKG_eGYV6Y
   title: Caitlyn ADC vs Draven - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1520
   region: KR
+  uploaded: 2025-07-22
 - videoId: g5FSlEIhgss
   title: Caitlyn ADC vs Draven - EUW Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1731
   region: EUW
+  uploaded: 2025-06-26

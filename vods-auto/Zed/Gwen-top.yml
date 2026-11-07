@@ -4,15 +4,59 @@
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1641
+  uploaded: 2025-06-22
 - videoId: OgkaO52jQBE
   title: Zed Top vs Gwen - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1749
   region: KR
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:48
+      label: End credit
 - videoId: 654nWekaKQw
   title: Zed Top vs Gwen - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1718
   region: KR
+  uploaded: 2025-03-29

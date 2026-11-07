@@ -57,12 +57,14 @@
   region: KR
   player: Cracker
   team: HLE
+  uploaded: 2026-08-22
 - videoId: bTdchOY89Ik
   title: Sylas Mid vs Yone - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1460
   region: EUW
+  uploaded: 2025-11-01
 - videoId: adf5915OF8I
   title: T1 Faker Sylas vs Yone [ MID ] Patch 25.1 Ranked Korea ✅
   rankClaim: Master+
@@ -71,3 +73,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-01-12

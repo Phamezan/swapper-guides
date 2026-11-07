@@ -12,9 +12,61 @@
   patch: "25.13"
   durationSec: 1706
   region: KR
+  uploaded: 2025-06-28
 - videoId: QrriBCNLCbo
   title: Pantheon Jungle vs Xin Zhao - NA Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1722
   region: NA
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:02
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:31
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:15
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:16
+      label: Take down The Turret
+      kind: tower
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:21
+      label: End credit

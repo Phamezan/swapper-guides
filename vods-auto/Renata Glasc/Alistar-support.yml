@@ -5,51 +5,161 @@
   patch: "26.18"
   durationSec: 1748
   region: KR
+  uploaded: 2026-09-13
 - videoId: RYmhe9QWEbU
   title: Renata Glasc Support vs Alistar - EUW Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1527
   region: EUW
+  uploaded: 2026-02-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Take down The Turret
+      kind: tower
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:53
+      label: Take down The Turret
+      kind: tower
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Take down The Turret
+      kind: tower
+    - at: 19:16
+      label: Take down The Inhibitor
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Take down The Turret
+      kind: tower
+    - at: 21:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Take down The Inhibitor
+    - at: 25:16
+      label: End credit
 - videoId: VPksM7iUI3o
   title: Renata Glasc Support vs Alistar - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1571
   region: KR
+  uploaded: 2025-12-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:49
+      label: Take down The Turret
+      kind: tower
+    - at: 16:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Take down The Turret
+      kind: tower
+    - at: 17:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:00
+      label: End credit
 - videoId: kUMhqFWmNO0
   title: Renata Glasc Support vs Alistar - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1465
   region: EUW
+  uploaded: 2025-12-04
 - videoId: F2wi_U2P8Vk
   title: Renata Glasc Support vs Alistar - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1567
   region: KR
+  uploaded: 2025-11-13
 - videoId: NjUkY1pi8BM
   title: Renata Glasc Support vs Alistar - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1461
   region: KR
+  uploaded: 2025-07-24
 - videoId: m8XNhSO2p-8
   title: Renata Glasc Support vs Alistar - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 2083
   region: KR
+  uploaded: 2025-06-26
 - videoId: bKmlL-8eHQs
   title: Renata Glasc Support vs Alistar - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1616
   region: EUW
+  uploaded: 2025-05-16
 - videoId: u1DOuo8mm9I
   title: Renata Glasc Support vs Alistar - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1666
   region: KR
+  uploaded: 2025-04-24

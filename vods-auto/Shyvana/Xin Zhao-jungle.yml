@@ -5,21 +5,86 @@
   patch: "25.24"
   durationSec: 1528
   region: NA
+  uploaded: 2026-01-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Take down The Turret
+      kind: tower
+    - at: 17:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Hunt The Atakhan
+    - at: 21:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:17
+      label: End credit
 - videoId: 6FzZ47OIhE4
   title: Shyvana Jungle vs Xin Zhao - NA Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1579
   region: NA
+  uploaded: 2025-08-01
 - videoId: S6D5IR2G5vM
   title: Shyvana Jungle vs Xin Zhao - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1576
   region: KR
+  uploaded: 2025-07-06
 - videoId: 7Yaw7Q8B0gs
   title: Shyvana Jungle vs Xin Zhao - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1958
   region: KR
+  uploaded: 2025-06-19

@@ -35,6 +35,7 @@
   patch: "26.18"
   durationSec: 1730
   region: KR
+  uploaded: 2026-09-23
 - videoId: ZM6PAmbhpow
   title: HLE Gumayusi Jhin vs Ezreal [ ADC ] Korea Challenger 2423 LP | Patch 26.17
   rankClaim: Challenger
@@ -60,13 +61,6 @@
   player: Peyz
   team: T1
   uploaded: 2026-08-23
-- videoId: gToazdW8gGM
-  title: (RNG Tangyuan) Jhin ADC vs Ezreal - KR Grandmaster Patch 26.14
-  rankClaim: Grandmaster
-  patch: "26.14"
-  durationSec: 1843
-  region: KR
-  player: Tangyuan
 - videoId: J7GRzBxBYyU
   title: Jhin vs Ezreal [ ADC ] Korea Challenger 2112 LP | Patch 26.14
   rankClaim: Challenger
@@ -74,6 +68,14 @@
   durationSec: 1675
   region: KR
   uploaded: 2026-07-22
+- videoId: gToazdW8gGM
+  title: (RNG Tangyuan) Jhin ADC vs Ezreal - KR Grandmaster Patch 26.14
+  rankClaim: Grandmaster
+  patch: "26.14"
+  durationSec: 1843
+  region: KR
+  player: Tangyuan
+  uploaded: 2026-07-19
 - videoId: n1xnwJKDTxg
   title: (MKOI Supa) Jhin ADC vs Ezreal - EUW Grandmaster Patch 26.11
   rankClaim: Grandmaster
@@ -81,6 +83,7 @@
   durationSec: 1532
   region: EUW
   player: MKOI Supa
+  uploaded: 2026-05-31
 - videoId: iBs1NO7pxb4
   title: Jhin vs Ezreal ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
@@ -122,12 +125,6 @@
       label: Objective control and sieging
     - at: 15:50
       label: Final push and victory
-- videoId: 4onqxtmb4yY
-  title: Jhin ADC vs Ezreal - EUW Challenger Patch 26.08
-  rankClaim: Challenger
-  patch: "26.8"
-  durationSec: 1501
-  region: EUW
 - videoId: EpR_3ArAixQ
   title: Jhin vs Ezreal ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -170,6 +167,13 @@
   durationSec: 2056
   region: EUW
   uploaded: 2026-04-25
+- videoId: 4onqxtmb4yY
+  title: Jhin ADC vs Ezreal - EUW Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1501
+  region: EUW
+  uploaded: 2026-04-18
 - videoId: K-QiBWFiKjM
   title: HLE Gumayusi Jhin vs Ezreal [ ADC ] Korea Challenger 2412 LP | Patch 26.6
   rankClaim: Challenger
@@ -185,6 +189,7 @@
   patch: "26.5"
   durationSec: 1876
   region: KR
+  uploaded: 2026-03-17
 - videoId: NKvDsH7i828
   title: HLE Gumayusi Jhin vs Ezreal [ ADC ] Korea Challenger 1913 LP | Patch 26.5
   rankClaim: Challenger
@@ -193,18 +198,80 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-03-13
 - videoId: rkRGN0md-Do
   title: Jhin ADC vs Ezreal - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1885
   region: KR
+  uploaded: 2026-02-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Take down The Turret
+      kind: tower
+    - at: 18:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 30:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 31:14
+      label: End credit
 - videoId: 2ADF7IDgA1s
   title: Jhin vs Ezreal ADC - KR Challenger - Patch 16.3 Season 16
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1921
   region: KR
+  uploaded: 2026-02-11
 - videoId: sB7rJ6AkTL4
   title: T1 Peyz Jhin vs Ezreal [ ADC ] Korea Challenger 1995 LP | Patch 26.3
   rankClaim: Challenger
@@ -213,6 +280,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-10
 - videoId: KOud2EOYIKg
   title: HLE Gumayusi Jhin vs Ezreal [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -221,12 +289,14 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-10
 - videoId: qmCyjeiadlc
   title: Jhin vs Ezreal ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 2141
   region: KR
+  uploaded: 2025-11-29
 - videoId: fjj0ColTENE
   title: Jhin vs Ezreal ADC [ TripleKill ] Korea Master Patch 25.22 ✅
   rankClaim: Master
@@ -234,6 +304,7 @@
   durationSec: 1635
   region: KR
   player: TripleKill
+  uploaded: 2025-11-15
 - videoId: Xp5gLwLXa6M
   title: Jhin vs Ezreal ADC [ DRX Teddy ] Patch 25.18 Korea Challenger
   rankClaim: Challenger
@@ -242,33 +313,39 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-09-10
 - videoId: mCk2iBCsBF4
   title: Jhin ADC vs Ezreal - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1969
   region: KR
+  uploaded: 2025-07-19
 - videoId: dkUTKtooksA
   title: Jhin ADC vs Ezreal - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1747
   region: KR
+  uploaded: 2025-06-15
 - videoId: mw6LOIFgyJY
   title: Jhin vs Ezreal ADC - KR Grandmaster - Patch 25.11 Season 15
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1636
   region: KR
+  uploaded: 2025-06-02
 - videoId: aMIqAZMK03E
   title: Jhin ADC vs Ezreal - EUW Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1813
   region: EUW
+  uploaded: 2025-05-27
 - videoId: EFmyxIU8Iu8
   title: Jhin ADC vs Ezreal - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1818
   region: KR
+  uploaded: 2025-05-03

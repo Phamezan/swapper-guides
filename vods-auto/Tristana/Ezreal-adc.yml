@@ -7,6 +7,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-21
 - videoId: fcCgvo_DUh0
   title: T1 Smash Tristana vs Ezreal [ ADC ] Korea Challenger 1526 LP | Patch 25.19
   rankClaim: Challenger
@@ -15,24 +16,28 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-09-28
 - videoId: pYlYn2gK0lY
   title: Tristana ADC vs Ezreal - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1697
   region: KR
+  uploaded: 2025-06-30
 - videoId: X5m2jto2exc
   title: Tristana vs Ezreal ADC - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1811
   region: KR
+  uploaded: 2025-03-06
 - videoId: 8rU_H7y8uXE
   title: Tristana vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1681
   region: KR
+  uploaded: 2025-02-27
 - videoId: nhUxqoCAK8M
   title: T1 Gumayusi Tristana ADC vs Ezreal - Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -41,3 +46,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-10

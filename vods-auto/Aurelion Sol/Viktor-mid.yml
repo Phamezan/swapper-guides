@@ -5,21 +5,57 @@
   patch: "26.18"
   durationSec: 1630
   region: EUW
+  uploaded: 2026-09-19
 - videoId: UYipzplStmU
   title: Aurelion Sol Mid vs Viktor - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1534
   region: KR
+  uploaded: 2026-01-28
 - videoId: CPTmMcsV9go
   title: Aurelion Sol Mid vs Viktor - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1503
   region: KR
+  uploaded: 2025-12-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: End credit
 - videoId: JoNR_CoAF58
   title: Aurelion Sol Mid vs Viktor - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 2019
   region: KR
+  uploaded: 2025-09-04

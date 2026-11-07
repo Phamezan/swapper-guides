@@ -5,9 +5,61 @@
   patch: "26.18"
   durationSec: 1867
   region: KR
+  uploaded: 2026-09-18
 - videoId: k8xY5XFHQn8
   title: Vel'Koz Support vs Lulu - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1509
   region: KR
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:20
+      label: Take down The Turret
+      kind: tower
+    - at: 12:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Take down The Turret
+      kind: tower
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: End credit

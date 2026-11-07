@@ -160,15 +160,18 @@
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1752
+  uploaded: 2025-09-22
 - videoId: EmJfcZMjDMs
   title: Zed Jungle vs Naafiri - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1473
   region: KR
+  uploaded: 2025-05-03
 - videoId: BLGJwAhdbrE
   title: Zed Jungle vs Naafiri - EUW Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1625
   region: EUW
+  uploaded: 2025-04-26

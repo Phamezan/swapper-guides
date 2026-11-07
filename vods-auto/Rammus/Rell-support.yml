@@ -5,3 +5,56 @@
   patch: "26.2"
   durationSec: 1596
   region: KR
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Take down The Turret
+      kind: tower
+    - at: 12:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Take down The Inhibitor
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Take down The Turret
+      kind: tower
+    - at: 26:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: End credit

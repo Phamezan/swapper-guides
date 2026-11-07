@@ -5,9 +5,85 @@
   patch: "26.10"
   durationSec: 1544
   region: KR
+  uploaded: 2026-05-21
 - videoId: cDQM4oPdCCQ
   title: Fizz Jungle vs Ambessa - EUW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1908
   region: EUW
+  uploaded: 2026-02-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:21
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Take down The Turret
+      kind: tower
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:59
+      label: Take down The Turret
+      kind: tower
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:24
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:35
+      label: Take down The Turret
+      kind: tower
+    - at: 28:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:37
+      label: End credit

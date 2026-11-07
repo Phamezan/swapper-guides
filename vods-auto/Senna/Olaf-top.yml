@@ -5,3 +5,44 @@
   patch: "26.10"
   durationSec: 1511
   region: KR
+  uploaded: 2026-05-18
+  result: L
+  moments:
+    - at: 4:43
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 5:25
+      label: First Blood — Gangplank kills Ashe
+      kind: kill
+    - at: 6:29
+      label: Senna catches Olaf
+    - at: 10:07
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:37
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 13:27
+      label: Senna eliminates Blitzcrank
+    - at: 15:00
+      label: Senna eliminates Blitzcrank
+    - at: 16:51
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:50
+      label: Senna picks off Ashe
+    - at: 19:20
+      label: Nidalee picks off Katarina
+    - at: 19:47
+      label: Red takes Baron
+      kind: baron
+    - at: 21:12
+      label: Senna eliminates Blitzcrank
+    - at: 22:08
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 23:48
+      label: Ezreal kills Katarina
+      kind: kill
+    - at: 24:09
+      label: Bot Inhibitor falls (Blue)

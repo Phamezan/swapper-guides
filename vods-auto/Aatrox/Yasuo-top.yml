@@ -9,6 +9,16 @@
   player: XiaoMing
   uploaded: 2026-11-04
   format: stream
+- videoId: 9MJRXcQHZyE
+  title: 🛑 XiaoMing 600 LP KR Conqueror + TP Aatrox vs. Yasuo — No-Ignite Playstyle?
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1517
+  region: KR
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-09-29
+  format: stream
 - videoId: mqyp1j8tkBc
   title: HLE Zeus Aatrox vs Yasuo [ TOP ] Korea Challenger 1934 LP | Patch 26.14
   rankClaim: Challenger
@@ -24,116 +34,163 @@
   patch: "26.13"
   durationSec: 1628
   region: KR
+  uploaded: 2026-06-30
 - videoId: v-nt07O_XWo
   title: "AATROX vs YASUO (TOP) | Stormraider's Surge, Good KDA: 18/1/2 | EUNE Master | 26.13"
   rankClaim: Master
   patch: "26.13"
   durationSec: 1195
   region: EUNE
+  uploaded: 2026-06-27
+- videoId: qg-0sX-m16Q
+  title: 🛑 XiaoMing Aatrox vs Yasuo (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 962
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-06-24
+  format: stream
 - videoId: L1GnpUpNYi8
   title: "AATROX vs YASUO (TOP) | Good KDA: 21/1/2 | KR Grandmaster | 26.11"
   rankClaim: Grandmaster
   patch: "26.11"
   durationSec: 1183
   region: KR
+  uploaded: 2026-06-06
+- videoId: HkT1sQ-u4Hw
+  title: 🛑 XiaoMing Aatrox vs Yasuo (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.7"
+  durationSec: 1344
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-04-07
+  format: stream
+- videoId: s0aXF0X5eYM
+  title: 🛑 XiaoMing Aatrox vs Yasuo (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.7"
+  durationSec: 1418
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-04-01
+  format: stream
 - videoId: dJq44hn5iAU
   title: "AATROX vs YASUO (TOP) | Good KDA: 16/1/7 | NA Master | 25.24"
   rankClaim: Master
   patch: "25.24"
   durationSec: 1519
   region: NA
+  uploaded: 2026-01-08
 - videoId: UdY_Y8ce_sg
   title: AATROX vs YASUO (TOP) | 20/1/6, 15 solo kills, Legendary, 47k DMG | KR Master | 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1415
   region: KR
+  uploaded: 2025-11-27
 - videoId: 4y1ylfggFFE
   title: AATROX vs YASUO (TOP) | Legendary, 16/3/7 | NA Master | 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1615
   region: NA
+  uploaded: 2025-11-16
 - videoId: 5zdv6uWzQow
   title: AATROX vs YASUO (TOP) | KR Master | 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1914
   region: KR
+  uploaded: 2025-10-30
 - videoId: fAnpDnkVaX8
   title: AATROX vs YASUO (TOP) | VN Challenger | 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1985
+  uploaded: 2025-10-21
 - videoId: 7gxzwmEudmg
   title: AATROX vs YASUO (TOP) | Legendary | KR Master | 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1554
   region: KR
+  uploaded: 2025-09-08
 - videoId: Y0ujkDaFQwM
   title: AATROX vs YASUO (TOP) | 12 solo kills, 1400+ games, Dominating, 14/4/6 | KR Master | 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1646
   region: KR
+  uploaded: 2025-08-30
 - videoId: -MMkHiQNcq8
   title: AATROX vs YASUO (TOP) | 47k DMG, Dominating | KR Master | 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 2344
   region: KR
+  uploaded: 2025-08-17
 - videoId: Zd6MZfWDfrA
   title: AATROX vs YASUO (TOP) | 12/3/12, Godlike | EUW Master | 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1603
   region: EUW
+  uploaded: 2025-08-13
 - videoId: W4X3VevZbG8
   title: AATROX vs YASUO (TOP) | 12/0/4, Legendary, 6 solo kills | EUW Master | 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1377
   region: EUW
+  uploaded: 2025-07-27
 - videoId: Vaz43mfk8lA
   title: AATROX vs YASUO (TOP) | 11/1/5, 8 solo kills, Dominating | KR Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1090
   region: KR
+  uploaded: 2025-07-16
 - videoId: murBh6-bVY4
   title: AATROX vs YASUO (TOP) | 10/3/9, 600+ games | EUW Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1579
   region: EUW
+  uploaded: 2025-07-07
 - videoId: 6tE2bOaErmU
   title: AATROX vs YASUO (TOP) | 11 solo kills, Legendary | EUNE Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1371
   region: EUNE
+  uploaded: 2025-07-02
 - videoId: qHN7o1MDtuk
   title: AATROX vs YASUO (TOP) | NA Grandmaster | 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1637
   region: NA
+  uploaded: 2025-06-01
 - videoId: 4UcQD9Mhrz0
   title: AATROX vs YASUO (TOP) | KR Grandmaster | 25.4
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1563
   region: KR
+  uploaded: 2025-03-01
 - videoId: yKMDw7pmaqU
   title: AATROX vs YASUO (TOP) | 14/2/11, Legendary, 40k DMG | NA Challenger | 25.4
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1583
   region: NA
+  uploaded: 2025-02-28
 - videoId: tYFLnxffFwk
   title: AATROX vs YASUO (TOP) | 500+ games | KR Grandmaster | 25.4
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 2193
   region: KR
+  uploaded: 2025-02-22

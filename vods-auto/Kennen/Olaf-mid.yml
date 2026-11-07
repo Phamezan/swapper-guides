@@ -4,3 +4,58 @@
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1845
+  uploaded: 2025-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:07
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 14:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Take down The Turret
+      kind: tower
+    - at: 19:14
+      label: Take down The Inhibitor
+    - at: 19:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: Take down The Inhibitor
+    - at: 26:41
+      label: Take down The Turret
+      kind: tower
+    - at: 28:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:09
+      label: Take down The Turret
+      kind: tower
+    - at: 30:24
+      label: End credit

@@ -5,9 +5,96 @@
   patch: "25.24"
   durationSec: 1614
   region: KR
+  uploaded: 2025-12-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 9:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:33
+      label: Take down The Turret
+      kind: tower
+    - at: 19:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Take down The Turret
+      kind: tower
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Take down The Turret
+      kind: tower
+    - at: 26:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: End credit
 - videoId: wMPu-q1j-dQ
   title: Jax Top vs Shen - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1640
   region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:03
+      label: Take down The Turret
+      kind: tower
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Take down The Turret
+      kind: tower
+    - at: 17:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:59
+      label: End credit

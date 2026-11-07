@@ -5,6 +5,7 @@
   patch: "26.15"
   durationSec: 1682
   region: KR
+  uploaded: 2026-08-05
 - videoId: fUx8ztHcpsY
   title: (LNG sheer) Tryndamere Top vs Jayce - KR Master Patch 26.13
   rankClaim: Master
@@ -13,27 +14,42 @@
   region: KR
   player: sheer
   team: LNG
+  uploaded: 2026-06-27
 - videoId: MxQMYGgxgJ8
   title: Tryndamere Top vs Jayce - NA Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1808
   region: NA
+  uploaded: 2026-04-23
+- videoId: oqorpBaOqQA
+  title: JAYCE KEPT FIGHTING ME… THAT WAS THE MISTAKE
+  rankClaim: Master+
+  patch: "26.7"
+  durationSec: 2077
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-04-11
+  format: stream
+  cam: true
 - videoId: RFrUNDAcTaw
   title: Tryndamere Top vs Jayce - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1569
   region: KR
+  uploaded: 2025-12-23
 - videoId: WIfTe57npRM
   title: Tryndamere vs Jayce Top - KR Grandmaster - Patch 25.11 Season 15
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1591
   region: KR
+  uploaded: 2025-06-09
 - videoId: 19q2peuVEqc
   title: Tryndamere Top vs Jayce - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1498
   region: KR
+  uploaded: 2025-03-26

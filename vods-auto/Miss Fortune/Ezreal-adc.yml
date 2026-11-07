@@ -11,6 +11,7 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1697
+  uploaded: 2026-04-17
 - videoId: NDGYqpOCPig
   title: HLE Gumayusi Miss Fortune vs Ezreal [ ADC ] Korea Challenger 2426 LP | Patch 26.7
   rankClaim: Challenger
@@ -28,6 +29,7 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-02-23
 - videoId: FsNfVups-8M
   title: T1 Peyz Miss Fortune vs Ezreal [ ADC ] Korea Challenger 2183 LP | Patch 26.4
   rankClaim: Challenger
@@ -36,12 +38,63 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-20
 - videoId: RRSqFG2NaPg
   title: Miss Fortune ADC vs Ezreal - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1827
   region: KR
+  uploaded: 2026-02-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:14
+      label: Take down The Turret
+      kind: tower
+    - at: 15:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Take down The Turret
+      kind: tower
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:52
+      label: Take down The Turret
+      kind: tower
+    - at: 29:28
+      label: Take down The Inhibitor
+    - at: 29:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:16
+      label: End credit
 - videoId: nJl4bnxUjqA
   title: T1 Peyz Miss Fortune vs Ezreal [ ADC ] Korea Challenger 1808 LP | Patch 26.3
   rankClaim: Challenger
@@ -50,36 +103,123 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-09
 - videoId: Ye5eONmTs80
   title: Miss Fortune vs Ezreal [ ADC ] Korea Challenger 1262 LP | Patch 25.23 ✅
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1374
   region: KR
+  uploaded: 2025-12-01
 - videoId: vER5UDb57Os
   title: Miss Fortune vs Ezreal ADC - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1711
   region: KR
+  uploaded: 2025-11-06
 - videoId: cUxnSuprZZM
   title: Miss Fortune ADC vs Ezreal - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1651
   region: KR
+  uploaded: 2025-05-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Take down The Turret
+      kind: tower
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: Take down The Turret
+      kind: tower
+    - at: 24:36
+      label: Take down The Inhibitor
+    - at: 26:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:10
+      label: End credit
 - videoId: XRKhT7n7s7Y
   title: Miss Fortune ADC vs Ezreal - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1667
   region: KR
+  uploaded: 2025-05-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:11
+      label: Take down The Turret
+      kind: tower
+    - at: 16:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Take down The Turret
+      kind: tower
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Take down The Turret
+      kind: tower
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Take down The Turret
+      kind: tower
+    - at: 26:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:26
+      label: End credit
 - videoId: m9_O1lZtDfE
   title: Miss Fortune ADC vs Ezreal - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1700
   region: KR
+  uploaded: 2025-04-19
 - videoId: M7pMsQYiY3M
   title: T1 Gumayusi Miss Fortune vs Ezreal [ ADC ] Patch 25.6 Korea Challenger ✅
   rankClaim: Challenger
@@ -88,18 +228,65 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-28
 - videoId: sOKIYEYPci8
   title: Miss Fortune ADC vs Ezreal - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1586
   region: EUW
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Take down The Turret
+      kind: tower
+    - at: 16:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:27
+      label: Take down The Turret
+      kind: tower
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: End credit
 - videoId: _gKfVdNkOtM
   title: Miss Fortune ADC vs Ezreal - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1521
   region: EUW
+  uploaded: 2025-03-07
 - videoId: ELy03e2Wivk
   title: T1 Gumayusi Miss Fortune vs Ezreal [ ADC ] Patch 25.2 Korea Challenger ✅
   rankClaim: Challenger
@@ -108,6 +295,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-04
 - videoId: Yv5yGs-jSww
   title: Miss Fortune vs Ezreal ADC [ Viper + QuadraKill ] Korea Challenger Patch 25.2 ✅
   rankClaim: Challenger
@@ -115,6 +303,7 @@
   durationSec: 2685
   region: KR
   player: Viper
+  uploaded: 2025-01-29
 - videoId: Z54V7uAqVlE
   title: Miss Fortune vs Ezreal ADC [ Peyz ] Korea Grandmaster Patch 25.1 ✅
   rankClaim: Grandmaster
@@ -122,3 +311,4 @@
   durationSec: 1543
   region: KR
   player: Peyz
+  uploaded: 2025-01-19

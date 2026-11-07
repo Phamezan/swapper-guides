@@ -5,26 +5,78 @@
   patch: "26.19"
   durationSec: 1800
   region: EUW
+  uploaded: 2026-09-27
 - videoId: SkRkoOkPxP4
   title: Sona Support vs Lulu - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1576
   region: KR
+  uploaded: 2026-02-24
 - videoId: 5jcEjQV07Cw
   title: Sona Support vs Lulu - BR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1597
+  uploaded: 2026-01-12
 - videoId: R5VDPTkCO08
   title: Sona Support vs Lulu - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1576
   region: KR
+  uploaded: 2025-12-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:06
+      label: Take down The Turret
+      kind: tower
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Take down The Turret
+      kind: tower
+    - at: 17:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Take down The Turret
+      kind: tower
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: End credit
 - videoId: qYvb6gNZoZQ
   title: Sona Support vs Lulu - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1703
   region: KR
+  uploaded: 2025-06-19

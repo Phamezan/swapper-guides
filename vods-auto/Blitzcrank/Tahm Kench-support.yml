@@ -7,15 +7,46 @@
   region: KR
   player: Hwichan
   team: KT
+  uploaded: 2026-08-23
+  result: W
+  moments:
+    - at: 2:13
+      label: First Blood — Graves kills Hecarim
+      kind: kill
+    - at: 5:18
+      label: Kai'Sa picks off Tahm Kench
+    - at: 8:06
+      label: Blitzcrank picks off Ezreal
+    - at: 11:40
+      label: Aurelion Sol eliminates Sylas
+    - at: 14:30
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:39
+      label: Jax kills Hecarim
+      kind: kill
+    - at: 16:17
+      label: Blitzcrank eliminates Ornn
+    - at: 20:12
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 22:20
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:47
+      label: Kai'Sa Triple Kill
+      kind: kill
 - videoId: mYNhdPF9p-w
   title: Blitzcrank Support vs Tahm Kench - KR Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1842
   region: KR
+  uploaded: 2026-04-21
 - videoId: 3Dr6ufRPtR4
   title: Blitzcrank Support vs Tahm Kench - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1975
   region: KR
+  uploaded: 2025-03-23

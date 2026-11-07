@@ -5,3 +5,30 @@
   patch: "26.13"
   durationSec: 1436
   region: EUW
+  uploaded: 2026-07-11
+  result: L
+  moments:
+    - at: 5:44
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:01
+      label: First Blood — Nilah kills Senna
+      kind: kill
+    - at: 10:44
+      label: Nidalee takes down Skarner
+    - at: 11:23
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 12:22
+      label: Nilah picks off Senna
+    - at: 13:33
+      label: Nilah picks off Senna
+    - at: 14:22
+      label: Nilah outplays Senna
+    - at: 20:02
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 22:41
+      label: Nilah takes down Tahm Kench
+    - at: 22:53
+      label: Bot Inhibitor falls (Blue)

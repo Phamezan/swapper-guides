@@ -5,12 +5,14 @@
   patch: "26.16"
   durationSec: 1684
   region: NA
+  uploaded: 2026-08-26
 - videoId: nVj3emNmQ0g
   title: Kassadin Mid vs Vladimir - EUW Grandmaster Patch 26.15
   rankClaim: Grandmaster
   patch: "26.15"
   durationSec: 1715
   region: EUW
+  uploaded: 2026-08-14
 - videoId: 3_8x5AXaI_k
   title: Kassadin vs Vladimir MID [ QuadraKill ] Lol Korea Master Patch 25.16 ✅
   rankClaim: Master
@@ -18,3 +20,4 @@
   durationSec: 1431
   region: KR
   player: QuadraKill
+  uploaded: 2025-08-17

@@ -588,37 +588,105 @@
   patch: "26.6"
   durationSec: 1595
   region: EUW
+  uploaded: 2026-03-26
 - videoId: PEM79orNdfo
   title: Zed Jungle vs Qiyana - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1482
   region: KR
+  uploaded: 2025-12-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Hunt The Atakhan
+    - at: 20:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:05
+      label: Take down The Turret
+      kind: tower
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:31
+      label: End credit
 - videoId: 0zjfZQmXo8U
   title: Zed Jungle vs Qiyana - NA Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1858
   region: NA
+  uploaded: 2025-11-03
 - videoId: BMSt82xkQ5s
   title: Zed Jungle vs Qiyana - VN Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 2102
+  uploaded: 2025-10-17
 - videoId: q6tutD7bS08
   title: Zed Jungle vs Qiyana - EUW Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1611
   region: EUW
+  uploaded: 2025-09-05
 - videoId: ZVJ0zE9_JAg
   title: Zed Jungle vs Qiyana - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1680
   region: KR
+  uploaded: 2025-08-16
 - videoId: xHeLFZO9vPQ
   title: Zed Jungle vs Qiyana - VN Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1804
+  uploaded: 2025-04-16

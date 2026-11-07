@@ -5,12 +5,14 @@
   patch: "26.17"
   durationSec: 1746
   region: KR
+  uploaded: 2026-09-04
 - videoId: zLRGjAL1kMY
   title: Taliyah Mid vs Zed - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1907
   region: EUW
+  uploaded: 2026-04-07
 - videoId: gVDDbD-FmpI
   title: T1 Faker Taliyah vs Zed [ MID ] Patch 25.7 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -19,3 +21,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-04-09

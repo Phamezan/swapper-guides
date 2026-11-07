@@ -5,15 +5,73 @@
   patch: "26.6"
   durationSec: 1551
   region: KR
+  uploaded: 2026-03-23
 - videoId: 7TUDNEz1YPw
   title: Xerath Mid vs Viktor - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1816
   region: KR
+  uploaded: 2025-06-06
 - videoId: 1YwRO_pmiqM
   title: Xerath Mid vs Viktor - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1752
   region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Take down The Turret
+      kind: tower
+    - at: 19:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:03
+      label: Take down The Turret
+      kind: tower
+    - at: 20:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:47
+      label: Take down The Inhibitor
+    - at: 28:16
+      label: Take down The Turret
+      kind: tower
+    - at: 28:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:51
+      label: End credit

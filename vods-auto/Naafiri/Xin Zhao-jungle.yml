@@ -5,45 +5,128 @@
   patch: "25.20"
   durationSec: 1799
   region: KR
-- videoId: dm1FaU4VpLs
-  title: Naafiri Jungle vs Xin Zhao - KR Challenger Patch 25.09
-  rankClaim: Challenger
-  patch: "25.9"
-  durationSec: 1824
-  region: KR
+  uploaded: 2025-10-16
 - videoId: XftAGm_2x5g
   title: Naafiri vs XinZhao Jungle - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1590
   region: KR
+  uploaded: 2025-05-11
+- videoId: dm1FaU4VpLs
+  title: Naafiri Jungle vs Xin Zhao - KR Challenger Patch 25.09
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 1824
+  region: KR
+  uploaded: 2025-05-04
 - videoId: WI4LdE2_Yp0
   title: Naafiri vs XinZhao Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1990
   region: KR
+  uploaded: 2025-04-24
 - videoId: ailT9kTngPM
   title: Naafiri vs XinZhao Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 2086
   region: KR
-- videoId: Gh3c6XwXojU
-  title: Naafiri Jungle vs Xin Zhao - KR Challenger Patch 25.06
-  rankClaim: Challenger
-  patch: "25.6"
-  durationSec: 1746
-  region: KR
+  uploaded: 2025-04-21
 - videoId: hv9VzxGTUVw
   title: Naafiri vs XinZhao Jungle - EUW Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1661
   region: EUW
+  uploaded: 2025-03-27
+- videoId: Gh3c6XwXojU
+  title: Naafiri Jungle vs Xin Zhao - KR Challenger Patch 25.06
+  rankClaim: Challenger
+  patch: "25.6"
+  durationSec: 1746
+  region: KR
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:43
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:31
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Take down The Turret
+      kind: tower
+    - at: 22:43
+      label: Take down The Inhibitor
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:37
+      label: Hunt The Atakhan
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:45
+      label: End credit
 - videoId: epXbUKKK9w4
   title: Naafiri vs XinZhao Jungle - EUW Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1831
   region: EUW
+  uploaded: 2025-03-20

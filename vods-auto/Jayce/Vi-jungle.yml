@@ -14,12 +14,14 @@
   patch: "26.5"
   durationSec: 1591
   region: KR
+  uploaded: 2026-03-06
 - videoId: 1-H1G4wDXtU
   title: Jayce vs Vi Jungle - KR Challenger - Patch 26.02 Season 16
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1786
   region: KR
+  uploaded: 2026-02-02
 - videoId: cy9ZHA6PVQk
   title: T1 Oner Jayce vs Vi [ Jungle ] Korea Master Patch 26.2
   rankClaim: Master
@@ -28,9 +30,11 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-01-25
 - videoId: vwre3YvZhHA
   title: Jayce vs Vi Jungle - KR Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1621
   region: KR
+  uploaded: 2025-12-24

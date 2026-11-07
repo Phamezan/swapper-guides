@@ -5,33 +5,213 @@
   patch: "26.2"
   durationSec: 1608
   region: KR
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:41
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:39
+      label: Take down The Turret
+      kind: tower
+    - at: 25:06
+      label: Take down The Inhibitor
+    - at: 25:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: End credit
 - videoId: oJS79WwFGUw
   title: Lillia Jungle vs Viego - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1492
   region: NA
+  uploaded: 2026-01-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:04
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:48
+      label: Take down The Turret
+      kind: tower
+    - at: 18:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Hunt The Atakhan
+    - at: 20:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:41
+      label: End credit
 - videoId: i6G9MQ3P6A0
   title: Lillia Jungle vs Viego - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 2018
   region: KR
+  uploaded: 2025-07-20
 - videoId: uoWCet77Ygw
   title: Lillia Jungle vs Viego - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 2125
   region: KR
-- videoId: WRgYvdytLCk
-  title: Lillia Jungle vs Viego - KR Challenger Patch 25.07
-  rankClaim: Challenger
-  patch: "25.7"
-  durationSec: 1683
-  region: KR
+  uploaded: 2025-06-30
 - videoId: 2GLH0OmQUy4
   title: Lillia vs Viego Jungle - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 2190
   region: KR
+  uploaded: 2025-04-12
+- videoId: WRgYvdytLCk
+  title: Lillia Jungle vs Viego - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1683
+  region: KR
+  uploaded: 2025-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:18
+      label: Hunt The Atakhan
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:42
+      label: End credit

@@ -5,8 +5,56 @@
   patch: "26.5"
   durationSec: 1463
   region: KR
+  uploaded: 2026-03-07
 - videoId: gMiGqx5cyEs
   title: Thresh Support vs Janna - VN Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1704
+  uploaded: 2026-02-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Take down The Turret
+      kind: tower
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: Take down The Turret
+      kind: tower
+    - at: 27:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:45
+      label: Take down The Turret
+      kind: tower
+    - at: 27:58
+      label: Take down The Inhibitor
+    - at: 28:13
+      label: End credit

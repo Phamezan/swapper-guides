@@ -59,21 +59,109 @@
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1595
+  uploaded: 2025-11-21
 - videoId: kbtK7wEzL9k
   title: Renata Glasc Support vs Rell - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1986
   region: KR
+  uploaded: 2025-05-29
 - videoId: GyzQ8iU2AMQ
   title: Renata Glasc Support vs Rell - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1573
   region: KR
+  uploaded: 2025-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:50
+      label: Take down The Turret
+      kind: tower
+    - at: 17:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:52
+      label: End credit
 - videoId: VPco590_kpo
   title: Renata Glasc Support vs Rell - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2023
   region: EUW
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 11:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:03
+      label: Take down The Turret
+      kind: tower
+    - at: 16:00
+      label: Take down The Turret
+      kind: tower
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Take down The Turret
+      kind: tower
+    - at: 20:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:26
+      label: Take down The Turret
+      kind: tower
+    - at: 28:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:24
+      label: Take down The Inhibitor
+    - at: 29:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:22
+      label: End credit

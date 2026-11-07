@@ -5,9 +5,81 @@
   patch: "25.16"
   durationSec: 1486
   region: KR
+  uploaded: 2025-08-23
 - videoId: ldOgQ_wTls8
   title: Xin Zhao Top vs Aatrox - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1703
   region: KR
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:25
+      label: Take down The Turret
+      kind: tower
+    - at: 14:22
+      label: Take down The Turret
+      kind: tower
+    - at: 16:32
+      label: Take down The Turret
+      kind: tower
+    - at: 17:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:34
+      label: Take down The Turret
+      kind: tower
+    - at: 17:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:47
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:49
+      label: Hunt The Atakhan
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:31
+      label: Take down The Turret
+      kind: tower
+    - at: 27:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:02
+      label: End credit

@@ -229,9 +229,131 @@
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1816
+  uploaded: 2026-03-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:41
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:20
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 29:54
+      label: Take down The Turret
+      kind: tower
+    - at: 30:05
+      label: End credit
 - videoId: nkSzKnlKyv0
   title: Zed Jungle vs Ambessa - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1597
   region: EUW
+  uploaded: 2025-12-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:03
+      label: Hunt The Atakhan
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:26
+      label: End credit

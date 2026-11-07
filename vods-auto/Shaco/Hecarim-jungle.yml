@@ -5,15 +5,86 @@
   patch: "26.14"
   durationSec: 1868
   region: KR
+  uploaded: 2026-07-23
 - videoId: OG26Z6coNtc
   title: Shaco Jungle vs Hecarim - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1613
   region: KR
+  uploaded: 2025-11-11
 - videoId: mTAG6xXbyjs
   title: Shaco Jungle vs Hecarim - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 2084
   region: KR
+  uploaded: 2025-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:51
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 32:25
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 33:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:13
+      label: Take down The Turret
+      kind: tower
+    - at: 34:23
+      label: End credit

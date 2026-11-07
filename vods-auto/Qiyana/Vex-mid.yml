@@ -54,3 +54,58 @@
       kind: kill
     - at: 28:03
       label: Mid Inhibitor falls (Red)
+- videoId: F9Tx5TWOJsg
+  title: BeiFeng Qiyana vs Vex — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.13"
+  durationSec: 901
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-07-10
+  format: stream
+- videoId: nIKFUrmarCw
+  title: BeiFeng Qiyana vs Vex — Challenger CN Super Server — Engsub
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 2375
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-06-11
+  format: stream
+- videoId: XYmtl6w3YEA
+  title: BeiFeng Qiyana vs Vex — CN Super Server — Engsub
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 926
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-04-30
+  format: stream
+- videoId: l-OxcRO5MQw
+  title: BeiFeng Qiyana vs Vex — Challenger CN Super Server—Losing Lane Game
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1685
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-04-28
+  format: stream
+- videoId: TzCIILk6ONc
+  title: Super carry！ Beifeng Qiyana VS Vex — Master KR Server
+  rankClaim: Master
+  patch: "26.5"
+  durationSec: 1729
+  region: KR
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-03-06
+  format: stream
+- videoId: 03iVCfX0On0
+  title: Beifeng Qiyana VS Vex — Challenger CN Super Server
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1968
+  patchEstimated: true
+  player: Beifeng
+  uploaded: 2026-02-15
+  format: stream

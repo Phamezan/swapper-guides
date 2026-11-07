@@ -5,9 +5,64 @@
   patch: "25.22"
   durationSec: 1681
   region: KR
+  uploaded: 2025-11-14
 - videoId: WPcZLTEPVlk
   title: Malzahar Mid vs Orianna - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 2131
   region: KR
+  uploaded: 2025-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Take down The Turret
+      kind: tower
+    - at: 25:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:42
+      label: Take down The Turret
+      kind: tower
+    - at: 35:10
+      label: End credit

@@ -5,9 +5,113 @@
   patch: "26.8"
   durationSec: 1679
   region: KR
+  uploaded: 2026-04-24
+  result: W
+  moments:
+    - at: 1:15
+      label: First Blood — Vex kills Aurora
+      kind: kill
+    - at: 7:55
+      label: Vex takes down Gwen
+    - at: 8:42
+      label: Vex eliminates Aurora
+    - at: 11:40
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 12:03
+      label: Vex takes down Gwen
+    - at: 13:28
+      label: Vex eliminates Aurora
+    - at: 15:37
+      label: Corki picks off Bard
+    - at: 17:27
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:54
+      label: Nunu & Willump kills Bard
+      kind: kill
+    - at: 20:03
+      label: Vex takes down Gwen
+    - at: 21:28
+      label: Vex catches Jhin
+    - at: 21:55
+      label: Blue takes Baron
+      kind: baron
+    - at: 22:53
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 24:39
+      label: Vex Double Kill
+      kind: kill
+    - at: 25:23
+      label: Vex eliminates Aurora
+    - at: 26:14
+      label: Vex Double Kill
+      kind: kill
+    - at: 26:43
+      label: Mid Inhibitor falls (Red)
+    - at: 27:06
+      label: Vex kills Jhin
+      kind: kill
 - videoId: plGOG9bP1uE
   title: Vex Mid vs Aurora - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 2093
   region: NA
+  uploaded: 2025-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:57
+      label: Take down The Turret
+      kind: tower
+    - at: 34:18
+      label: Take down The Inhibitor
+    - at: 34:32
+      label: End credit

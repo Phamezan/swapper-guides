@@ -5,12 +5,70 @@
   patch: "26.1"
   durationSec: 1614
   region: KR
+  uploaded: 2026-01-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:14
+      label: Take down The Turret
+      kind: tower
+    - at: 17:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:11
+      label: Take down The Turret
+      kind: tower
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:24
+      label: Take down The Turret
+      kind: tower
+    - at: 23:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:20
+      label: Take down The Turret
+      kind: tower
+    - at: 26:43
+      label: End credit
 - videoId: PxjJ3RUjV7c
   title: Azir Mid vs Sylas - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1555
   region: KR
+  uploaded: 2025-12-18
 - videoId: m8cFUpD-1Oc
   title: T1 Faker Azir vs Sylas [ MID ] Korea Grandmaster Patch 25.9 ✅
   rankClaim: Grandmaster
@@ -19,3 +77,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-13

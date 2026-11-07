@@ -61,9 +61,62 @@
   patch: "26.17"
   durationSec: 1887
   region: KR
+  uploaded: 2026-09-04
+  result: W
+  moments:
+    - at: 0:24
+      label: First Blood — Taliyah kills Vi
+      kind: kill
+    - at: 10:53
+      label: Taliyah solo kills Twisted Fate
+      kind: kill
+    - at: 11:56
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:56
+      label: Taliyah kills Renata Glasc
+      kind: kill
+    - at: 13:43
+      label: Taliyah takes down Vi
+    - at: 16:24
+      label: Taliyah kills Renata Glasc
+      kind: kill
+    - at: 17:16
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 18:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:52
+      label: Taliyah takes down Vi
+    - at: 21:45
+      label: Riven Double Kill
+      kind: kill
+    - at: 22:40
+      label: Red takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:06
+      label: Taliyah takes down Twisted Fate again
+    - at: 26:32
+      label: Red takes Baron
+      kind: baron
+    - at: 28:27
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 29:47
+      label: Ashe eliminates Vi
+    - at: 30:10
+      label: Taliyah kills Gnar
+      kind: kill
+    - at: 30:26
+      label: Mid Inhibitor falls (Blue)
 - videoId: DpIzUU9PTEU
   title: Taliyah Jungle vs Vi - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1516
   region: EUW
+  uploaded: 2025-05-01

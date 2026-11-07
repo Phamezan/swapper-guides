@@ -6,6 +6,14 @@
   durationSec: 1544
   region: KR
   uploaded: 2026-07-16
+- videoId: QEy1JyhbNzI
+  title: "Rank 1 Sivir : 1v5 Taking Over Super Server HighElo - Engsub ( Sivir vs Zeri )"
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1183
+  patchEstimated: true
+  uploaded: 2026-05-29
+  format: stream
 - videoId: lKteTRRPYQY
   title: T1 Gumayusi Sivir vs Zeri [ ADC ] Patch 25.17 Korea Grandmaster
   rankClaim: Grandmaster
@@ -14,11 +22,13 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-29
 - videoId: qaotkdWQ_vY
   title: Sivir ADC vs Zeri - TW Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1812
+  uploaded: 2025-06-27
 - videoId: sqK6qedFN-k
   title: Sivir vs Zeri ADC [ QuadraKill ] Lol Korea Master Patch 25.11 ✅
   rankClaim: Master
@@ -26,3 +36,4 @@
   durationSec: 1456
   region: KR
   player: QuadraKill
+  uploaded: 2025-06-01

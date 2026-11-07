@@ -5,15 +5,67 @@
   patch: "26.1"
   durationSec: 1618
   region: EUW
+  uploaded: 2026-01-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:43
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:52
+      label: Take down The Turret
+      kind: tower
+    - at: 25:19
+      label: Take down The Inhibitor
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Take down The Turret
+      kind: tower
+    - at: 26:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: End credit
 - videoId: oYLYL38U87g
   title: Swain Support vs Milio - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1621
   region: KR
+  uploaded: 2025-09-30
 - videoId: B9nJ34mzVgU
   title: Swain Support vs Milio - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1520
   region: KR
+  uploaded: 2025-07-01

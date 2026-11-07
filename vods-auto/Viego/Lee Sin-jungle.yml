@@ -57,13 +57,6 @@
       label: Viego takes down Orianna again
     - at: 30:20
       label: Aphelios picks off Pantheon
-- videoId: IStCyBnZmAw
-  title: Viego Jungle vs Lee Sin (DNS Pyosik) - KR Challenger Patch 26.18
-  rankClaim: Challenger
-  patch: "26.18"
-  durationSec: 1779
-  region: KR
-  player: Pyosik
 - videoId: _O0ZoEEVMPg
   title: T1 Oner Viego vs Lee Sin [ Jungle ] Korea Challenger 2230 LP | Patch 26.18
   rankClaim: Challenger
@@ -73,6 +66,14 @@
   player: Oner
   team: T1
   uploaded: 2026-09-22
+- videoId: IStCyBnZmAw
+  title: Viego Jungle vs Lee Sin (DNS Pyosik) - KR Challenger Patch 26.18
+  rankClaim: Challenger
+  patch: "26.18"
+  durationSec: 1779
+  region: KR
+  player: Pyosik
+  uploaded: 2026-09-13
 - videoId: bsrBTS0_zog
   title: (KRX Vincenzo) Viego Jungle vs Lee Sin - KR Challenger Patch 26.11
   rankClaim: Challenger
@@ -80,6 +81,7 @@
   durationSec: 1530
   region: KR
   player: KRX Vincenzo
+  uploaded: 2026-05-31
 - videoId: NsqiOHo1V-o
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -100,30 +102,93 @@
   patch: "26.5"
   durationSec: 2896
   region: KR
+  uploaded: 2026-03-05
 - videoId: WuH0UXfD8K0
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 16.04 Season 16
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1561
   region: KR
+  uploaded: 2026-02-27
 - videoId: -QbM1L-lVWs
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 16.04 Season 16
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1576
   region: KR
+  uploaded: 2026-02-25
 - videoId: Tfe_Plb4CoA
   title: Viego Jungle vs Lee Sin - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1537
   region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:22
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Take down The Turret
+      kind: tower
+    - at: 18:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:45
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:09
+      label: Take down The Turret
+      kind: tower
+    - at: 24:28
+      label: Take down The Inhibitor
+    - at: 24:48
+      label: Take down The Turret
+      kind: tower
+    - at: 25:26
+      label: End credit
 - videoId: Q1fECR1uOXU
   title: Viego vs Lee Sin Jungle - KR Grandmaster - Patch 26.01 Season 16
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1701
   region: KR
+  uploaded: 2026-01-13
 - videoId: 4K8hUP440fg
   title: Viego vs Lee Sin Jungle [ Pentakill ] Lol Korea Master Patch 25.20 ✅
   rankClaim: Master
@@ -131,18 +196,21 @@
   durationSec: 1129
   region: KR
   player: Pentakill
+  uploaded: 2025-10-21
 - videoId: A_V38BPttZ4
   title: Viego Jungle vs Lee Sin - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1496
   region: KR
+  uploaded: 2025-09-28
 - videoId: pgnNGaCouhU
   title: Viego vs Lee Sin JUngle - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1981
   region: KR
+  uploaded: 2025-08-20
 - videoId: uKO4zvBPoAU
   title: Viego vs Lee Sin Jungle [ Quadrakill ] Lol Korea Master Patch 25.14
   rankClaim: Master
@@ -150,90 +218,105 @@
   durationSec: 1779
   region: KR
   player: Quadrakill
+  uploaded: 2025-07-26
 - videoId: yR3ImhvsPEQ
   title: Viego vs Lee Sin Jungle - KR Grandmaster - Patch 25.13 Season 15
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 2221
   region: KR
+  uploaded: 2025-07-16
 - videoId: SRD3_dio_mI
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 2160
   region: KR
+  uploaded: 2025-07-15
 - videoId: mN73pRFnLY0
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1531
   region: KR
-- videoId: SHqKq8cRqbE
-  title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.13 Season 15
-  rankClaim: Challenger
-  patch: "25.13"
-  durationSec: 2521
-  region: KR
-- videoId: SZpGM3G1rpA
-  title: Viego vs Lee Sin Jungle - KR Grandmaster - Patch 25.13 Season 15
-  rankClaim: Grandmaster
-  patch: "25.13"
-  durationSec: 1531
-  region: KR
+  uploaded: 2025-07-14
 - videoId: 25G8vzj5ik8
   title: Viego vs Lee Sin [ Jungle ] Lol Korea Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1556
   region: KR
+  uploaded: 2025-07-09
+- videoId: SHqKq8cRqbE
+  title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.13 Season 15
+  rankClaim: Challenger
+  patch: "25.13"
+  durationSec: 2521
+  region: KR
+  uploaded: 2025-07-03
+- videoId: SZpGM3G1rpA
+  title: Viego vs Lee Sin Jungle - KR Grandmaster - Patch 25.13 Season 15
+  rankClaim: Grandmaster
+  patch: "25.13"
+  durationSec: 1531
+  region: KR
+  uploaded: 2025-06-27
 - videoId: QETBs4tECPU
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1350
   region: KR
+  uploaded: 2025-06-12
 - videoId: PZ7s26G4Fs4
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 15.11 Season 15
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1816
   region: KR
+  uploaded: 2025-06-06
 - videoId: usuOJLC5NHw
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1410
   region: KR
+  uploaded: 2025-04-25
 - videoId: Fu61-ivaOns
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1906
   region: KR
+  uploaded: 2025-04-18
 - videoId: MMKcwH_nl8Q
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1321
   region: KR
+  uploaded: 2025-03-22
 - videoId: 5HoNrYxvXYI
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 2026
   region: KR
+  uploaded: 2025-03-20
 - videoId: 9KYgoD1_JpM
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2220
   region: KR
+  uploaded: 2025-03-07
 - videoId: ql7AX7jNuqY
   title: Viego vs Lee Sin Jungle - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2051
   region: KR
+  uploaded: 2025-02-27
 - videoId: Lc-nWctYf7I
   title: T1 Oner Viego vs Lee Sin [ Jungle ] Patch 25.1 Korea Master ✅
   rankClaim: Master
@@ -242,3 +325,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-01-15

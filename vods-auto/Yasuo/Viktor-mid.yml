@@ -5,15 +5,87 @@
   patch: "26.7"
   durationSec: 1516
   region: EUW
+  uploaded: 2026-04-05
 - videoId: t0DdxBHyiBc
   title: Yasuo vs Viktor Mid - KR Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1591
   region: KR
+  uploaded: 2026-03-13
 - videoId: Kqqa0DajIQY
   title: Yasuo Mid vs Viktor - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1568
   region: KR
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:01
+      label: Take down The Turret
+      kind: tower
+    - at: 17:18
+      label: Take down The Turret
+      kind: tower
+    - at: 17:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:56
+      label: Take down The Turret
+      kind: tower
+    - at: 18:57
+      label: Get a Triple Kill
+      kind: kill
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 19:50
+      label: Take down The Inhibitor
+    - at: 20:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Take down The Turret
+      kind: tower
+    - at: 24:00
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:48
+      label: Take down The Inhibitor
+    - at: 25:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:18
+      label: Take down The Turret
+      kind: tower
+    - at: 25:47
+      label: End credit

@@ -6,6 +6,7 @@
   durationSec: 1721
   region: KR
   player: TSW Dire
+  uploaded: 2026-09-27
 - videoId: dZ6Y0tVjnQY
   title: (LGD Heng) Jarvan IV Jungle vs Lee Sin - KR Master Patch 26.15
   rankClaim: Master
@@ -13,6 +14,7 @@
   durationSec: 1714
   region: KR
   player: LGD Heng
+  uploaded: 2026-07-31
 - videoId: Nu-nMEiFmIk
   title: (IG Wei) Jarvan IV Jungle vs Lee Sin - KR Challenger Patch 26.14
   rankClaim: Challenger
@@ -21,6 +23,7 @@
   region: KR
   player: Wei
   team: IG
+  uploaded: 2026-07-28
 - videoId: mU8oUNOlHUc
   title: (TT Junhao) Jarvan IV Jungle vs Lee Sin (DK Sharvel) - KR Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -28,6 +31,7 @@
   durationSec: 1421
   region: KR
   player: TT Junhao
+  uploaded: 2026-05-26
 - videoId: GZrlfwojdIg
   title: Jarvan IV vs Lee Sin Jungle [ DNS Pyosik ] Korea Grandmaster Patch 26.5
   rankClaim: Grandmaster
@@ -35,21 +39,74 @@
   durationSec: 1622
   region: KR
   player: Pyosik
+  uploaded: 2026-03-12
 - videoId: DPDkeRNmQMc
   title: Jarvan IV Jungle vs Lee Sin - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1522
   region: KR
+  uploaded: 2025-12-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:02
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Hunt The Atakhan
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: End credit
 - videoId: qcq2uTUROtM
   title: Jarvan IV Jungle vs Lee Sin - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1438
   region: KR
+  uploaded: 2025-11-24
 - videoId: -s-7TQn4EUQ
   title: Jarvan IV Jungle vs Lee Sin - KR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 2076
   region: KR
+  uploaded: 2025-10-13

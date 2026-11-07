@@ -5,9 +5,70 @@
   patch: "26.6"
   durationSec: 1771
   region: KR
+  uploaded: 2026-03-21
 - videoId: 0uvntoC5tbQ
   title: Shyvana Jungle vs Jayce - EUW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1538
   region: EUW
+  uploaded: 2026-02-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:01
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:08
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: End credit

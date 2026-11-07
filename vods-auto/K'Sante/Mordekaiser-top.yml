@@ -4,15 +4,74 @@
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1741
+  uploaded: 2026-03-22
 - videoId: 2e6leOhafyU
   title: K'Sante Top vs Mordekaiser - KR Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1632
   region: KR
+  uploaded: 2026-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:32
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:34
+      label: Take down The Turret
+      kind: tower
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: Take down The Turret
+      kind: tower
+    - at: 26:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:01
+      label: End credit
 - videoId: 6vuh1XnCTnI
   title: K'Sante Top vs Mordekaiser - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1539
   region: KR
+  uploaded: 2025-06-28

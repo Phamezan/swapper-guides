@@ -6,6 +6,7 @@
   durationSec: 1606
   region: EUW
   player: DV1 Faetski
+  uploaded: 2026-05-26
 - videoId: -FFxRV2ALfc
   title: KOREA IS NOT READY FOR ME THIS TIME
   rankClaim: Master+
@@ -24,3 +25,51 @@
   patch: "26.5"
   durationSec: 1892
   region: KR
+  uploaded: 2026-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:21
+      label: Take down The Turret
+      kind: tower
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:21
+      label: Take down The Turret
+      kind: tower
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:46
+      label: Take down The Turret
+      kind: tower
+    - at: 30:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:34
+      label: Take down The Turret
+      kind: tower
+    - at: 30:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:21
+      label: End credit

@@ -6,6 +6,7 @@
   durationSec: 1674
   region: EUW
   player: ANB Theocacs
+  uploaded: 2026-08-02
 - videoId: tqXW2QVNa5g
   title: (VIT Lyncas) Wukong Jungle vs Graves - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -13,14 +14,55 @@
   durationSec: 1829
   region: EUW
   player: VIT Lyncas
+  uploaded: 2026-06-22
 - videoId: 32KICtgVxmM
   title: Wukong Jungle vs Graves - EUW Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1453
   region: EUW
+  uploaded: 2026-03-26
 - videoId: DKEfLx3tTIg
   title: Wukong Jungle vs Graves - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1596
+  uploaded: 2025-02-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:19
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:17
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:15
+      label: End credit

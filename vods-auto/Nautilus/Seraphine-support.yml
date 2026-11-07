@@ -7,3 +7,32 @@
   region: KR
   player: MISSING
   team: LNG
+  uploaded: 2026-06-27
+  result: L
+  moments:
+    - at: 7:03
+      label: First Blood — Taliyah kills Jayce
+      kind: kill
+    - at: 11:26
+      label: Taliyah takes down Jayce
+    - at: 12:07
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 18:08
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 19:15
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:39
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 23:47
+      label: Red takes 3rd Dragon (Cloud)
+      kind: dragon
+    - at: 24:39
+      label: Red takes Baron
+      kind: baron
+    - at: 25:00
+      label: Ashe Double Kill
+      kind: kill

@@ -5,15 +5,59 @@
   patch: "25.24"
   durationSec: 1454
   region: KR
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Take down The Turret
+      kind: tower
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:07
+      label: Take down The Turret
+      kind: tower
+    - at: 18:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Take down The Turret
+      kind: tower
+    - at: 21:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: End credit
 - videoId: sALsbC1_y8w
   title: Veigar Mid vs Taliyah - KR Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1483
   region: KR
+  uploaded: 2025-10-31
 - videoId: 2SZXH5tnnkk
   title: Veigar Mid vs Taliyah - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1843
   region: KR
+  uploaded: 2025-09-03

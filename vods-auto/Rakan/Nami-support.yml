@@ -5,14 +5,72 @@
   patch: "26.8"
   durationSec: 1623
   region: KR
+  uploaded: 2026-04-19
 - videoId: 4Ws692BBtbQ
   title: Rakan Support vs Nami - VN Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1489
+  uploaded: 2026-04-05
 - videoId: MqVj37qg6DU
   title: Rakan Support vs Nami - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1614
   region: NA
+  uploaded: 2026-01-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:33
+      label: Take down The Turret
+      kind: tower
+    - at: 23:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Take down The Turret
+      kind: tower
+    - at: 25:13
+      label: Take down The Inhibitor
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: End credit

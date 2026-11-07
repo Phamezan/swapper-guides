@@ -12,26 +12,107 @@
   patch: "25.22"
   durationSec: 1901
   region: KR
+  uploaded: 2025-11-21
 - videoId: 2Ffgm9k9ioI
   title: Shyvana Jungle vs Viego - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1943
   region: KR
+  uploaded: 2025-08-15
 - videoId: CLfZSYxRyGY
   title: Shyvana Jungle vs Viego - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1863
   region: KR
+  uploaded: 2025-06-08
 - videoId: 6qY_4TLWTko
   title: Shyvana Jungle vs Viego - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1748
   region: KR
+  uploaded: 2025-03-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:43
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:36
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Take down The Turret
+      kind: tower
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:08
+      label: Take down The Turret
+      kind: tower
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:10
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:53
+      label: Take down The Turret
+      kind: tower
+    - at: 28:03
+      label: Take down The Inhibitor
+    - at: 28:20
+      label: Take down The Turret
+      kind: tower
+    - at: 28:47
+      label: End credit
 - videoId: Q2NCcfSSgFw
   title: Shyvana Jungle vs Viego - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1902
+  uploaded: 2025-03-01

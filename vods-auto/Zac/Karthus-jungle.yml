@@ -62,15 +62,65 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1508
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:21
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:57
+      label: End credit
 - videoId: fo0Nz44I6jA
   title: Zac Jungle vs Karthus - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1816
   region: KR
+  uploaded: 2025-08-18
 - videoId: wu8LcfxZzsw
   title: Zac Jungle vs Karthus - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1729
   region: KR
+  uploaded: 2025-06-02

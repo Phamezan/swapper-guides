@@ -5,9 +5,49 @@
   patch: "26.5"
   durationSec: 1798
   region: KR
+  uploaded: 2026-03-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Get a Triple Kill
+      kind: kill
+    - at: 28:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:47
+      label: End credit
 - videoId: smkQ60i6_V8
   title: Rumble Mid vs Hwei - NA Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1910
   region: NA
+  uploaded: 2026-03-01

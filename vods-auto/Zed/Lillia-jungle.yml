@@ -219,13 +219,65 @@
   patch: "25.24"
   durationSec: 1610
   region: NA
+  uploaded: 2025-12-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Hunt The Atakhan
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:39
+      label: End credit
 - videoId: iZunA-e4I1Q
   title: Zed Jungle vs Lillia - BR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1754
+  uploaded: 2025-03-29
 - videoId: VFVjj111mDc
   title: Zed Jungle vs Lillia - BR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1482
+  uploaded: 2025-03-12

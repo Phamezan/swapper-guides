@@ -60,3 +60,51 @@
   patch: "25.9"
   durationSec: 1803
   region: NA
+  uploaded: 2025-05-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:29
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:42
+      label: End credit

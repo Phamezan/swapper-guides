@@ -5,9 +5,65 @@
   patch: "25.11"
   durationSec: 1578
   region: KR
+  uploaded: 2025-06-04
 - videoId: doAtE9XsLXg
   title: Neeko Support vs Lulu - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1959
   region: KR
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:02
+      label: Take down The Inhibitor
+    - at: 30:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:00
+      label: Take down The Turret
+      kind: tower
+    - at: 31:12
+      label: Take down The Inhibitor
+    - at: 31:23
+      label: Take down The Turret
+      kind: tower
+    - at: 32:18
+      label: End credit

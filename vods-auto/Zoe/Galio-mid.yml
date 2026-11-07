@@ -5,33 +5,182 @@
   patch: "26.17"
   durationSec: 1635
   region: KR
+  uploaded: 2026-09-02
+  result: W
+  moments:
+    - at: 1:23
+      label: First Blood — Zoe kills Galio
+      kind: kill
+    - at: 2:52
+      label: Nidalee picks off Galio
+    - at: 4:19
+      label: Zoe kills Caitlyn
+      kind: kill
+    - at: 9:09
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 9:21
+      label: Zoe takes down Galio
+    - at: 15:22
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 16:48
+      label: Zoe takes down Ambessa
+    - at: 18:59
+      label: Zoe outplays Ambessa
+    - at: 20:35
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 21:43
+      label: Red takes Baron
+      kind: baron
+    - at: 22:51
+      label: Nidalee kills Ambessa
+      kind: kill
+    - at: 23:05
+      label: Zoe solo kills Lee Sin
+      kind: kill
+    - at: 26:06
+      label: Zoe kills Caitlyn
+      kind: kill
+    - at: 26:16
+      label: Mid Inhibitor falls (Blue)
 - videoId: fCJ545dNjO8
   title: Zoe Mid vs Galio (Starlit) - KR Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1547
   region: KR
+  uploaded: 2026-08-25
 - videoId: OirL2MtcZxg
   title: Zoe Mid vs Galio - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1837
   region: KR
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Take down The Turret
+      kind: tower
+    - at: 27:16
+      label: Take down The Inhibitor
+    - at: 29:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:26
+      label: End credit
 - videoId: eGJqucvuF8E
   title: Zoe Mid vs Galio - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1684
   region: KR
+  uploaded: 2026-03-09
 - videoId: Mr1wgmt_dF0
   title: Zoe Mid vs Galio - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1714
   region: KR
+  uploaded: 2025-05-05
 - videoId: Ai0ErnUuFYs
   title: Zoe Mid vs Galio - KR Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1986
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Take down The Turret
+      kind: tower
+    - at: 23:12
+      label: Take down The Inhibitor
+    - at: 24:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:04
+      label: Take down The Turret
+      kind: tower
+    - at: 27:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:45
+      label: End credit

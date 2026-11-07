@@ -52,15 +52,37 @@
       kind: kill
     - at: 27:31
       label: Tryndamere takes down Thresh
+- videoId: N0LfeHZdy4I
+  title: I bullied this Yasuo one trick so hard he had to find a new main (RANK 1 TRYNDAMERE)
+  rankClaim: Master+
+  patch: "26.8"
+  durationSec: 2881
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-04-23
+  format: stream
+  cam: true
+- videoId: Sc5QwGQ5NNc
+  title: THE MOST AGGRESSIVE YASUO PLAYER I'VE EVER SEEN GETS TAUGHT A LESSON! - RANK 1 TRYNDAMERE
+  rankClaim: Master+
+  patch: "26.1"
+  durationSec: 2061
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2026-01-15
+  format: stream
+  cam: true
 - videoId: GWyNYtS7hCI
   title: Tryndamere Top vs Yasuo - KR Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1671
   region: KR
+  uploaded: 2025-10-31
 - videoId: PO8FPaF_Jd0
   title: Tryndamere Top vs Yasuo - NA Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1823
   region: NA
+  uploaded: 2025-07-16

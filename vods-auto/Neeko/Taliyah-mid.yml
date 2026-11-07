@@ -5,9 +5,79 @@
   patch: "25.14"
   durationSec: 1924
   region: NA
+  uploaded: 2025-07-28
 - videoId: fKE2RzBausA
   title: Neeko Mid vs Taliyah - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2081
   region: KR
+  uploaded: 2025-05-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Take down The Turret
+      kind: tower
+    - at: 17:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:41
+      label: Take down The Turret
+      kind: tower
+    - at: 28:04
+      label: Take down The Inhibitor
+    - at: 28:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:35
+      label: Get a Triple Kill
+      kind: kill
+    - at: 30:46
+      label: Take down The Turret
+      kind: tower
+    - at: 31:02
+      label: Take down The Inhibitor
+    - at: 32:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:18
+      label: Take down The Inhibitor
+    - at: 33:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:20
+      label: End credit

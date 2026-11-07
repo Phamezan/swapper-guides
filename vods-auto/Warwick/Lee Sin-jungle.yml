@@ -5,27 +5,85 @@
   patch: "26.11"
   durationSec: 1718
   region: KR
+  uploaded: 2026-06-05
 - videoId: pV8b7ng9g6Q
   title: Warwick Jungle vs Lee Sin - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1706
   region: KR
+  uploaded: 2026-04-10
 - videoId: 4IuXayhtRBs
   title: Warwick Jungle vs Lee Sin - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1448
   region: KR
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:29
+      label: Take down The Turret
+      kind: tower
+    - at: 16:02
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:58
+      label: Take down The Turret
+      kind: tower
+    - at: 20:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:57
+      label: End credit
 - videoId: cJlagaQwkcs
   title: Warwick Jungle vs Lee Sin - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1431
   region: KR
+  uploaded: 2025-07-27
 - videoId: PDLLtAo-Fak
   title: Warwick Jungle vs Lee Sin - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1765
   region: KR
+  uploaded: 2025-04-14

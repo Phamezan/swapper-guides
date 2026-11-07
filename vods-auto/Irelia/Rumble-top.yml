@@ -14,9 +14,72 @@
   patch: "26.10"
   durationSec: 1773
   region: KR
+  uploaded: 2026-05-18
+- videoId: UyQqav5d35I
+  title: "Baicaiovo Irelia : CN Super Server Top 1 CRUSHING Rumble with DEVASTATING Mechanics"
+  rankClaim: Master+
+  patch: "26.7"
+  durationSec: 1629
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-04-11
+  format: stream
 - videoId: TMj-nPDouKs
   title: Irelia Top vs Rumble - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1565
   region: KR
+  uploaded: 2025-05-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:26
+      label: Take down The Turret
+      kind: tower
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Take down The Turret
+      kind: tower
+    - at: 15:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:46
+      label: Take down The Turret
+      kind: tower
+    - at: 22:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:45
+      label: Take down The Turret
+      kind: tower
+    - at: 24:05
+      label: Take down The Inhibitor
+    - at: 25:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:44
+      label: End credit

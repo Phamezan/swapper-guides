@@ -5,9 +5,61 @@
   patch: "26.11"
   durationSec: 1463
   region: KR
+  uploaded: 2026-06-10
 - videoId: KPhJOTIWP9Y
   title: Akshan ADC vs Tristana - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1609
   region: KR
+  uploaded: 2025-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:34
+      label: Take down The Turret
+      kind: tower
+    - at: 21:54
+      label: Take down The Turret
+      kind: tower
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:30
+      label: Take down The Turret
+      kind: tower
+    - at: 25:55
+      label: Get a Triple Kill
+      kind: kill
+    - at: 26:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:28
+      label: End credit

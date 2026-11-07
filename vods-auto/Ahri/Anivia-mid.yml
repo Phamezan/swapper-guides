@@ -172,20 +172,42 @@
   durationSec: 1830
   region: EUW
   player: VIT Humanoid
+  uploaded: 2026-05-25
+- videoId: 8jpdtYHKeV4
+  title: "MID.GG: [ Nisqy ] Ahri MID vs Anivia | EUW MASTER | LOL Season 2026"
+  rankClaim: Master
+  patch: "26.6"
+  durationSec: 920
+  region: EUW
+  patchEstimated: true
+  player: Nisqy
+  uploaded: 2026-03-19
 - videoId: LjB5jfYqNuQ
   title: Ahri Mid vs Anivia - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1615
   region: KR
+  uploaded: 2026-02-20
+- videoId: -npmf9jlBjU
+  title: "MID.GG: [ Pobelter ] Ahri MID vs Anivia | NA GRANDMASTER | LOL Season 2026"
+  rankClaim: Grandmaster
+  patch: "26.3"
+  durationSec: 1099
+  region: NA
+  patchEstimated: true
+  player: Pobelter
+  uploaded: 2026-02-12
 - videoId: 4DWr57MkWFs
   title: Ahri Mid vs Anivia - TW Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1701
+  uploaded: 2025-08-11
 - videoId: tCAfNBCjNPA
   title: Ahri Mid vs Anivia - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1754
   region: KR
+  uploaded: 2025-05-31

@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1532
   region: KR
+  uploaded: 2026-09-17
 - videoId: OjTmCF1sWuE
   title: T1 Peyz Corki vs Aphelios [ ADC ] Korea Challenger 2119 LP | Patch 26.3
   rankClaim: Challenger
@@ -13,6 +14,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-02-14
 - videoId: zzu_4Hmgl_M
   title: HLE Gumayusi Corki vs Aphelios [ ADC ] Korea Master Patch 26.2
   rankClaim: Master
@@ -21,6 +23,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-29
 - videoId: zTKGJc2iAhA
   title: HLE Gumayusi Corki vs Aphelios [ ADC ] Korea Master Patch 26.1
   rankClaim: Master
@@ -29,6 +32,7 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-16
 - videoId: VduSiWxxrog
   title: Corki vs Aphelios ADC [ Gen.G Ruler + PentaKill ] Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -37,3 +41,4 @@
   region: NA
   player: Ruler
   team: Gen.G
+  uploaded: 2025-07-10

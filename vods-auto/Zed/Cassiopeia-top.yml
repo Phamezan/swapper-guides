@@ -221,9 +221,51 @@
   patch: "26.6"
   durationSec: 1504
   region: EUW
+  uploaded: 2026-03-22
 - videoId: qO1UHLN0QOY
   title: Zed Top vs Cassiopeia - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1697
   region: KR
+  uploaded: 2025-05-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:59
+      label: Take down The Turret
+      kind: tower
+    - at: 18:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:31
+      label: Take down The Inhibitor
+    - at: 27:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:56
+      label: End credit

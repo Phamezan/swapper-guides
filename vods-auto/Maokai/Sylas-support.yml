@@ -5,9 +5,56 @@
   patch: "26.16"
   durationSec: 1588
   region: KR
+  uploaded: 2026-08-28
+  result: W
+  moments:
+    - at: 2:57
+      label: First Blood — Maokai kills Zed
+      kind: kill
+    - at: 3:46
+      label: Maokai eliminates Sylas
+    - at: 4:58
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 6:55
+      label: Lee Sin eliminates Caitlyn
+    - at: 10:23
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 11:28
+      label: Hwei picks off Sylas
+    - at: 13:55
+      label: Xerath takes down Fiora
+    - at: 15:09
+      label: Hwei eliminates Nunu & Willump
+    - at: 15:47
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 17:29
+      label: Xerath eliminates Zed
+    - at: 18:40
+      label: Lee Sin takes down Nunu & Willump
+    - at: 19:58
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:24
+      label: Maokai takes down Zed
+    - at: 22:07
+      label: Blue takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 22:47
+      label: Sett eliminates Fiora
+    - at: 23:12
+      label: Sett kills Nunu & Willump
+      kind: kill
+    - at: 23:43
+      label: Bot Inhibitor falls (Red)
+    - at: 25:27
+      label: Mid Inhibitor falls (Red)
 - videoId: twa0Vpg6-co
   title: Maokai Support vs Sylas - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1748
   region: KR
+  uploaded: 2025-11-26

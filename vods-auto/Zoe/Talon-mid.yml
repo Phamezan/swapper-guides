@@ -5,15 +5,73 @@
   patch: "25.21"
   durationSec: 1904
   region: KR
+  uploaded: 2025-10-25
 - videoId: GiELPlFgonk
   title: Zoe Mid vs Talon - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1457
   region: KR
+  uploaded: 2025-09-13
 - videoId: aUbv9ryEHwk
   title: Zoe Mid vs Talon - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1610
   region: KR
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Take down The Turret
+      kind: tower
+    - at: 20:52
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:32
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:53
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: Take down The Inhibitor
+    - at: 24:37
+      label: Take down The Turret
+      kind: tower
+    - at: 25:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: End credit

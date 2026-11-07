@@ -5,9 +5,61 @@
   patch: "25.24"
   durationSec: 1515
   region: NA
+  uploaded: 2025-12-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Take down The Turret
+      kind: tower
+    - at: 11:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:52
+      label: Take down The Turret
+      kind: tower
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:20
+      label: Take down The Turret
+      kind: tower
+    - at: 23:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:04
+      label: End credit
 - videoId: TPFiPSmBB6Q
   title: Zed Top vs Mordekaiser - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1518
   region: KR
+  uploaded: 2025-09-16

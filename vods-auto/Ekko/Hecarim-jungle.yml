@@ -5,9 +5,75 @@
   patch: "26.6"
   durationSec: 1858
   region: NA
+  uploaded: 2026-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:23
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:44
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:35
+      label: Take down The Inhibitor
+    - at: 30:47
+      label: End credit
 - videoId: v5qV2Xuq7Pc
   title: Ekko Jungle vs Hecarim - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1541
   region: KR
+  uploaded: 2025-12-08

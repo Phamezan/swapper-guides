@@ -5,9 +5,101 @@
   patch: "25.23"
   durationSec: 1756
   region: KR
+  uploaded: 2025-12-01
 - videoId: QyvU8Yldo9s
   title: Master Yi Jungle vs Rengar - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 2086
   region: KR
+  uploaded: 2025-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:09
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:18
+      label: Hunt The Atakhan
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 28:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 31:38
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 32:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 32:50
+      label: Take down The Turret
+      kind: tower
+    - at: 33:03
+      label: Take down The Inhibitor
+    - at: 33:24
+      label: Take down The Turret
+      kind: tower
+    - at: 33:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 34:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:25
+      label: End credit

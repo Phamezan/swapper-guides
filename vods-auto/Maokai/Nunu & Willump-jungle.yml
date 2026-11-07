@@ -5,3 +5,65 @@
   patch: "25.5"
   durationSec: 2023
   region: KR
+  uploaded: 2025-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:02
+      label: Take down The Turret
+      kind: tower
+    - at: 28:17
+      label: Take down The Inhibitor
+    - at: 28:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:22
+      label: End credit

@@ -4,6 +4,7 @@
   rankClaim: Master
   patch: "26.18"
   durationSec: 1689
+  uploaded: 2026-09-14
 - videoId: 98N8feYoTqw
   title: (ULF Kaori) Senna Support vs Nautilus - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -11,6 +12,7 @@
   durationSec: 1556
   region: EUW
   player: ULF Kaori
+  uploaded: 2026-06-23
 - videoId: VZTugxf2Yqo
   title: (G2 Labrov) Senna Support vs Nautilus - EUW Challenger Patch 26.11
   rankClaim: Challenger
@@ -19,33 +21,39 @@
   region: EUW
   player: Labrov
   team: G2
+  uploaded: 2026-06-10
 - videoId: 5KPwsBD27EU
   title: Senna Support vs Nautilus - EUW Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1574
   region: EUW
+  uploaded: 2026-02-23
 - videoId: loLpCcaN_h8
   title: Senna Support vs Nautilus - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1620
   region: KR
+  uploaded: 2025-11-11
 - videoId: RKcaz5ZK_Kc
   title: Senna Support vs Nautilus - EUW Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1667
   region: EUW
+  uploaded: 2025-09-07
 - videoId: hSBjjasXc-U
   title: Senna Support vs Nautilus - EUW Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1496
   region: EUW
+  uploaded: 2025-07-04
 - videoId: CsMPVszKka4
   title: Senna Support vs Nautilus - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1787
   region: KR
+  uploaded: 2025-05-05

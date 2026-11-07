@@ -14,9 +14,73 @@
   region: KR
   player: Sylvie
   team: KT
+  uploaded: 2026-08-24
 - videoId: wbdvmSVA-ao
   title: Qiyana Jungle vs Skarner - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1729
   region: KR
+  uploaded: 2026-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:38
+      label: End credit

@@ -13,15 +13,83 @@
   patch: "25.16"
   durationSec: 1554
   region: KR
+  uploaded: 2025-08-20
 - videoId: 0UjiRpglhcs
   title: Lillia vs Talon Jungle - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 2550
   region: KR
+  uploaded: 2025-05-15
 - videoId: auNtkxLJRFA
   title: Lillia Jungle vs Talon - EUW Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1876
   region: EUW
+  uploaded: 2025-04-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:54
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:30
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:23
+      label: Take down The Turret
+      kind: tower
+    - at: 18:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:33
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:55
+      label: End credit

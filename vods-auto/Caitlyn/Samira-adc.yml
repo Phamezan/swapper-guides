@@ -5,6 +5,50 @@
   patch: "26.4"
   durationSec: 1486
   region: KR
+  uploaded: 2026-02-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:31
+      label: Take down The Turret
+      kind: tower
+    - at: 13:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Take down The Turret
+      kind: tower
+    - at: 16:48
+      label: Take down The Turret
+      kind: tower
+    - at: 17:05
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 17:30
+      label: Take down The Turret
+      kind: tower
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:47
+      label: Take down The Inhibitor
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: End credit
 - videoId: _ro_btxIJAY
   title: Caitlyn vs Samira ADC - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger

@@ -5,9 +5,66 @@
   patch: "26.19"
   durationSec: 1742
   region: KR
+  uploaded: 2026-10-02
 - videoId: IyPfkEWDvck
   title: Diana Mid vs Zoe - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1774
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:48
+      label: Take down The Turret
+      kind: tower
+    - at: 14:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:29
+      label: Take down The Turret
+      kind: tower
+    - at: 16:52
+      label: Take down The Turret
+      kind: tower
+    - at: 17:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:28
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Take down The Turret
+      kind: tower
+    - at: 28:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:45
+      label: Take down The Inhibitor
+    - at: 29:01
+      label: Take down The Turret
+      kind: tower
+    - at: 29:13
+      label: End credit

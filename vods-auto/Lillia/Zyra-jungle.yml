@@ -5,9 +5,87 @@
   patch: "25.16"
   durationSec: 1671
   region: NA
+  uploaded: 2025-08-29
 - videoId: Vqsxi2T9kPc
   title: Lillia Jungle vs Zyra - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1858
   region: KR
+  uploaded: 2025-04-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:01
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:39
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:55
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:20
+      label: Take down The Turret
+      kind: tower
+    - at: 29:48
+      label: Take down The Inhibitor
+    - at: 29:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:26
+      label: Take down The Turret
+      kind: tower
+    - at: 30:37
+      label: End credit

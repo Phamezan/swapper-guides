@@ -5,9 +5,46 @@
   patch: "26.18"
   durationSec: 1568
   region: KR
+  uploaded: 2026-09-25
 - videoId: jnm85U7kzbA
   title: Blitzcrank Support vs Senna - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1764
   region: KR
+  uploaded: 2025-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:03
+      label: End credit

@@ -7,9 +7,52 @@
   region: KR
   player: Kingen
   team: NS
+  uploaded: 2026-08-11
 - videoId: cgE9gOZ_x90
   title: Xerath Mid vs Yone - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1863
   region: KR
+  uploaded: 2025-03-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:50
+      label: Take down The Turret
+      kind: tower
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:42
+      label: End credit

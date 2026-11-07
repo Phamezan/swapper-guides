@@ -758,6 +758,7 @@
   patch: "26.12"
   durationSec: 1466
   region: KR
+  uploaded: 2026-06-20
 - videoId: hEaMHxwXvnQ
   title: Zed Jungle vs Lee Sin - EUW Challenger Patch 26.12
   rankClaim: Challenger
@@ -1034,6 +1035,7 @@
   patch: "26.9"
   durationSec: 1547
   region: KR
+  uploaded: 2026-05-15
 - videoId: x4fqleBfb_I
   title: Zed Jungle vs Lee Sin - KR Master Patch 26.09
   rankClaim: Master
@@ -1222,78 +1224,362 @@
   patch: "26.2"
   durationSec: 1510
   region: EUW
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:29
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:37
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:36
+      label: Take down The Inhibitor
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: End credit
 - videoId: L8_bRr0SucA
   title: Zed Jungle vs Lee Sin - VN Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1516
+  uploaded: 2025-12-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:40
+      label: Take down The Turret
+      kind: tower
+    - at: 18:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:02
+      label: Take down The Turret
+      kind: tower
+    - at: 20:48
+      label: Hunt The Atakhan
+    - at: 22:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:05
+      label: End credit
 - videoId: e9mWusDZ5K4
   title: Zed Jungle vs Lee Sin - TW Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1607
+  uploaded: 2025-09-29
 - videoId: 739IaDRQCGE
   title: Zed Jungle vs Lee Sin - TW Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1656
+  uploaded: 2025-09-14
 - videoId: XRpVg0eF488
   title: Zed Jungle vs Lee Sin - BR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1812
+  uploaded: 2025-09-01
 - videoId: 2ZpS955GOXU
   title: Zed Jungle vs Lee Sin - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 2003
   region: KR
+  uploaded: 2025-07-19
 - videoId: _nPzelso5ww
   title: Zed Jungle vs Lee Sin - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1574
   region: KR
+  uploaded: 2025-06-28
 - videoId: I5G1IdFg7y4
   title: Zed Jungle vs Lee Sin - VN Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1874
+  uploaded: 2025-06-23
 - videoId: Y6Q5JL4SfS0
   title: Zed Jungle vs Lee Sin - TW Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1914
+  uploaded: 2025-06-15
 - videoId: c0mZIIdL_1Y
   title: Zed Jungle vs Lee Sin - BR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1427
+  uploaded: 2025-06-07
+- videoId: JxsxRmCQhy4
+  title: Zed Jungle vs Lee Sin - VN Grandmaster Patch 25.07
+  rankClaim: Grandmaster
+  patch: "25.7"
+  durationSec: 2123
+  uploaded: 2025-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Hunt The Atakhan
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 28:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:02
+      label: End credit
 - videoId: yLivUm0UWRk
   title: Zed Jungle vs Lee Sin - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1617
   region: KR
-- videoId: JxsxRmCQhy4
-  title: Zed Jungle vs Lee Sin - VN Grandmaster Patch 25.07
-  rankClaim: Grandmaster
-  patch: "25.7"
-  durationSec: 2123
+  uploaded: 2025-04-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:54
+      label: Hunt The Atakhan
+    - at: 21:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:17
+      label: Take down The Turret
+      kind: tower
+    - at: 26:36
+      label: End credit
 - videoId: G0s9M1arb6M
   title: Zed Jungle vs Lee Sin - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1675
   region: EUW
+  uploaded: 2025-03-29
 - videoId: 4vfJy6RF5N8
   title: Zed vs Lee Sin Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1671
   region: KR
+  uploaded: 2025-03-08
 - videoId: kohdREQ7lSw
   title: Zed Jungle vs Lee Sin - VN Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1518
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:47
+      label: Take down The Turret
+      kind: tower
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Hunt The Atakhan
+    - at: 23:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:57
+      label: End credit

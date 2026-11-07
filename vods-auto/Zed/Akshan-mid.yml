@@ -270,6 +270,7 @@
   patch: "26.8"
   durationSec: 1790
   region: EUNE
+  uploaded: 2026-04-19
 - videoId: f5O8WLEgJ3w
   title: Zed Mid vs Akshan - KR Challenger Patch 26.07
   rankClaim: Challenger
@@ -341,14 +342,67 @@
   patch: "26.3"
   durationSec: 1559
   region: NA
+  uploaded: 2026-02-10
 - videoId: 0OE11YMpKTU
   title: Zed Mid vs Akshan - TW Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 2072
+  uploaded: 2025-06-02
 - videoId: pFbinber8sg
   title: Zed Mid vs Akshan - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1810
   region: NA
+  uploaded: 2025-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:48
+      label: Take down The Turret
+      kind: tower
+    - at: 14:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Take down The Turret
+      kind: tower
+    - at: 16:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 24:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:49
+      label: End credit

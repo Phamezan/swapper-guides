@@ -67,6 +67,7 @@
   patch: "26.17"
   durationSec: 1654
   region: KR
+  uploaded: 2026-08-29
 - videoId: GJ92lxHi9uo
   title: Twitch vs Jhin [ ADC ] Lol Korea Master Patch 26.9 ✅
   rankClaim: Master
@@ -80,27 +81,32 @@
   patch: "26.2"
   durationSec: 2140
   region: KR
+  uploaded: 2026-01-26
 - videoId: AJaY2F3er9Q
   title: Twitch vs Jhin [ ADC ] Lol Korea Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1336
   region: KR
+  uploaded: 2025-11-29
 - videoId: rXXKCPNnkZI
   title: Twitch ADC vs Jhin - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1574
   region: KR
+  uploaded: 2025-09-19
 - videoId: 2RIvY2Y23WM
   title: Twitch ADC vs Jhin - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1873
   region: KR
+  uploaded: 2025-05-09
 - videoId: qHGomH31whw
   title: Twitch ADC vs Jhin - EUW Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1798
   region: EUW
+  uploaded: 2025-02-27

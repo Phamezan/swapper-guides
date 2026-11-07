@@ -5,9 +5,128 @@
   patch: "25.9"
   durationSec: 1658
   region: KR
+  uploaded: 2025-05-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:17
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:25
+      label: Take down The Turret
+      kind: tower
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:02
+      label: Hunt The Atakhan
+    - at: 21:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: Take down The Turret
+      kind: tower
+    - at: 26:02
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:17
+      label: End credit
 - videoId: 97K3XSyTfqs
   title: Nunu & Willump Jungle vs Zyra - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1451
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:22
+      label: Take down The Turret
+      kind: tower
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:18
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:24
+      label: Take down The Turret
+      kind: tower
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:50
+      label: End credit

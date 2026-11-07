@@ -5,9 +5,64 @@
   patch: "26.7"
   durationSec: 1581
   region: KR
+  uploaded: 2026-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 2:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:10
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:37
+      label: Take down The Turret
+      kind: tower
+    - at: 25:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:10
+      label: End credit
 - videoId: Hy_zX7yQRBc
   title: Vex Mid vs Zoe - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1494
   region: KR
+  uploaded: 2025-12-10

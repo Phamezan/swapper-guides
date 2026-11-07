@@ -13,6 +13,7 @@
   durationSec: 1508
   region: EUW
   player: CF Danilo
+  uploaded: 2026-06-30
 - videoId: lRl_t3z2dmw
   title: Fiora vs Yone Top - KR Grandmaster - Patch 16.07 Season 16
   rankClaim: Grandmaster
@@ -33,27 +34,83 @@
   patch: "26.5"
   durationSec: 1546
   region: KR
+  uploaded: 2026-03-10
 - videoId: t76gTrn6LaY
   title: Fiora vs Yone Top - EUW Grandmaster - Patch 26.01 Season 16
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1861
   region: EUW
+  uploaded: 2026-01-13
 - videoId: jqsoIvgnxaM
   title: Fiora Top vs Yone - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1578
   region: KR
+  uploaded: 2025-09-13
 - videoId: LrsI2Dx5byU
   title: Fiora Top vs Yone - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1749
   region: KR
+  uploaded: 2025-05-20
 - videoId: 1X5lSZfOCHU
   title: Fiora Top vs Yone - NA Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1595
   region: NA
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:07
+      label: Take down The Turret
+      kind: tower
+    - at: 12:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:01
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:41
+      label: Take down The Turret
+      kind: tower
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:51
+      label: Take down The Turret
+      kind: tower
+    - at: 21:01
+      label: Take down The Inhibitor
+    - at: 21:22
+      label: Take down The Turret
+      kind: tower
+    - at: 23:14
+      label: Take down The Turret
+      kind: tower
+    - at: 23:32
+      label: Take down The Inhibitor
+    - at: 24:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:14
+      label: End credit

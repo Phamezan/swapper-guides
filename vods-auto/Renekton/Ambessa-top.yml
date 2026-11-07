@@ -7,6 +7,7 @@
   region: EUW
   player: BrokenBlade
   team: G2
+  uploaded: 2026-08-01
 - videoId: Zmb65Du1VGM
   title: (NS Kingen) Renekton Top vs Ambessa - KR Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -15,6 +16,7 @@
   region: KR
   player: Kingen
   team: NS
+  uploaded: 2026-06-25
 - videoId: IuttzPJ5ID8
   title: HLE Zeus Renekton vs Ambessa [ TOP ] Patch 26.2 Ranked Korea
   rankClaim: Master+
@@ -23,51 +25,98 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2026-01-30
 - videoId: Jz1xWoPe3fo
   title: Renekton Top vs Ambessa - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1551
   region: KR
+  uploaded: 2025-12-08
 - videoId: 8FBdrA8QXq4
   title: Renekton Top vs Ambessa - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1489
   region: KR
+  uploaded: 2025-09-14
 - videoId: ph8lIANWjr4
   title: Renekton Top vs Ambessa - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1576
   region: KR
+  uploaded: 2025-08-17
 - videoId: 5cQJkcJffgA
   title: Renekton Top vs Ambessa - KR Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1827
   region: KR
+  uploaded: 2025-07-19
 - videoId: GiRImiVORDw
   title: Renekton Top vs Ambessa - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1505
   region: KR
+  uploaded: 2025-06-02
 - videoId: FW_caVPBGFU
   title: Renekton Top vs Ambessa - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1484
   region: KR
+  uploaded: 2025-04-22
 - videoId: J6ASJuf6JxU
   title: Renekton Top vs Ambessa - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1745
   region: KR
+  uploaded: 2025-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Get a Triple Kill
+      kind: kill
+    - at: 27:57
+      label: Take down The Turret
+      kind: tower
+    - at: 28:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:44
+      label: End credit
 - videoId: 8yswNW9slBs
   title: Renekton Top vs Ambessa - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1829
   region: KR
+  uploaded: 2025-03-01

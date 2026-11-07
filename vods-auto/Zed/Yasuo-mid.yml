@@ -518,13 +518,6 @@
       kind: baron
     - at: 27:45
       label: Mid Inhibitor falls (Blue)
-- videoId: JuX3WjI6DJU
-  title: (IN5 Alix) Zed Mid vs Yasuo - EUW Challenger Patch 26.12
-  rankClaim: Challenger
-  patch: "26.12"
-  durationSec: 1787
-  region: EUW
-  player: IN5 Alix
 - videoId: vhvIGkWqBKI
   title: Zed vs Yasuo [ MID ] Korea Grandmaster 1442 LP | Patch 26.12
   rankClaim: Grandmaster
@@ -532,6 +525,14 @@
   durationSec: 1736
   region: KR
   uploaded: 2026-06-22
+- videoId: JuX3WjI6DJU
+  title: (IN5 Alix) Zed Mid vs Yasuo - EUW Challenger Patch 26.12
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1787
+  region: EUW
+  player: IN5 Alix
+  uploaded: 2026-06-16
 - videoId: NHvYcBBDkUM
   title: OnZed Zed vs Yasuo Mid - KR Challenger - Patch 16.09 Season 16
   rankClaim: Challenger
@@ -545,27 +546,82 @@
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1497
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:04
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:23
+      label: Take down The Turret
+      kind: tower
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: End credit
 - videoId: Uwh_MrsdOkw
   title: Zed Mid vs Yasuo - NA Challenger Patch 26.01
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1526
   region: NA
+  uploaded: 2026-01-23
 - videoId: wOcvj-TJloY
   title: Zed Mid vs Yasuo - TW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1571
+  uploaded: 2025-10-17
 - videoId: p_CkZLWqTxU
   title: Zed Mid vs Yasuo - TW Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1571
+  uploaded: 2025-10-17
 - videoId: dGJfXqOjWkk
   title: Zed Mid vs Yasuo - VN Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1933
+  uploaded: 2025-09-14
 - videoId: 3b85-kEfu_A
   title: Faker Zed vs Yasuo Mid - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
@@ -573,6 +629,7 @@
   durationSec: 1841
   region: KR
   player: Faker
+  uploaded: 2025-05-21
 - videoId: oOYe2qxkwmk
   title: T1 Faker Zed vs Yasuo [ MID ] Korea Grandmaster Patch 25.10
   rankClaim: Grandmaster
@@ -581,6 +638,7 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-05-19
 - videoId: IOKWgjkU1Fg
   title: OnZed Zed vs Yasuo Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
@@ -588,8 +646,54 @@
   durationSec: 1861
   region: KR
   player: OnZed
+  uploaded: 2025-04-23
 - videoId: 93UYemkdMA4
   title: Zed Mid vs Yasuo - BR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1656
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:16
+      label: Take down The Turret
+      kind: tower
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:53
+      label: Take down The Turret
+      kind: tower
+    - at: 26:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:15
+      label: End credit

@@ -4,9 +4,51 @@
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1609
+  uploaded: 2026-01-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:52
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:45
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:41
+      label: Hunt The Atakhan
+    - at: 22:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Take down The Turret
+      kind: tower
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:38
+      label: End credit
 - videoId: b71O4mtJ_68
   title: Hecarim Jungle vs Vi - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1625
   region: KR
+  uploaded: 2025-07-18

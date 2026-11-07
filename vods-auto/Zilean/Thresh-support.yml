@@ -5,15 +5,59 @@
   patch: "26.1"
   durationSec: 1531
   region: KR
+  uploaded: 2026-01-16
 - videoId: R5u8q1SrjFg
   title: Zilean Support vs Thresh - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1583
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:49
+      label: Take down The Turret
+      kind: tower
+    - at: 15:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Take down The Turret
+      kind: tower
+    - at: 26:12
+      label: End credit
 - videoId: 47DbuYm9rbU
   title: Zilean Support vs Thresh - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 2028
   region: KR
+  uploaded: 2025-03-27

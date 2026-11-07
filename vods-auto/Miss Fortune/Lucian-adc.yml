@@ -48,6 +48,16 @@
   patch: "26.15"
   durationSec: 1698
   region: KR
+  uploaded: 2026-08-05
+- videoId: l7J_MtODxlA
+  title: '"Jz" 2000LP MissFortune : His MF DAMAGE is so BROKEN - Engsub (MF vs Lucian)'
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 899
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-07-21
+  format: stream
 - videoId: TjrtcSV0cpA
   title: "T1 Peyz Miss Fortune vs Lucian [ ADC ] Rank #2 Korea Challenger Patch 26.7"
   rankClaim: Challenger
@@ -63,24 +73,28 @@
   patch: "25.18"
   durationSec: 1477
   region: KR
+  uploaded: 2025-09-14
 - videoId: hSMCkybuhEI
   title: Miss Fortune ADC vs Lucian - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 2019
   region: KR
+  uploaded: 2025-08-30
 - videoId: ZGT77TnTKeQ
   title: Miss Fortune vs Lucian ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1751
   region: KR
+  uploaded: 2025-07-15
 - videoId: bScDrpDP30U
   title: Miss Fortune vs Lucian ADC - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1441
   region: KR
+  uploaded: 2025-05-13
 - videoId: F_Hn6UAQl5c
   title: T1 Gumayusi Miss Fortune ADC vs Lucian - Patch 25.9 Korea Challenger
   rankClaim: Challenger
@@ -89,3 +103,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-09

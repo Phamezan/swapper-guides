@@ -5,6 +5,7 @@
   patch: "26.17"
   durationSec: 1666
   region: KR
+  uploaded: 2026-08-29
 - videoId: suKFrnpmY7w
   title: Jinx vs Ezreal ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
@@ -27,36 +28,89 @@
   patch: "25.24"
   durationSec: 1636
   region: KR
+  uploaded: 2025-12-23
 - videoId: MGoLYvUpz6Y
   title: Jinx ADC vs Ezreal - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1554
   region: KR
+  uploaded: 2025-11-09
 - videoId: d-kBQ3KLfqE
   title: Jinx ADC vs Ezreal - EUW Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1750
   region: EUW
+  uploaded: 2025-10-08
 - videoId: grKGlX1TvJE
   title: Jinx ADC vs Ezreal - KR Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1426
   region: KR
+  uploaded: 2025-06-16
 - videoId: Ab0CB99Vras
   title: Jinx ADC vs Ezreal - KR Challenger Patch 25.09
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1519
   region: KR
+  uploaded: 2025-05-07
 - videoId: F1Iegjqc6iw
   title: Jinx ADC vs Ezreal - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1749
   region: KR
+  uploaded: 2025-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Take down The Turret
+      kind: tower
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:52
+      label: Take down The Turret
+      kind: tower
+    - at: 24:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:48
+      label: End credit
 - videoId: iokuoKclAus
   title: T1 Gumayusi Jinx vs Ezreal [ ADC ] Korea Challenger Patch 25.4
   rankClaim: Challenger
@@ -65,3 +119,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-28

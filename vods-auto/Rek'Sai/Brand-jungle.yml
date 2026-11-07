@@ -7,9 +7,66 @@
   region: EUW
   player: SkewMond
   team: G2
+  uploaded: 2026-05-27
 - videoId: eSr5e0OF2lA
   title: Rek'Sai Jungle vs Brand - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1712
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:19
+      label: Take down The Turret
+      kind: tower
+    - at: 13:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:57
+      label: Hunt The Atakhan
+    - at: 26:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:48
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:11
+      label: End credit

@@ -6,9 +6,63 @@
   durationSec: 1564
   region: EUW
   player: VIT Fleshy
+  uploaded: 2026-07-27
 - videoId: lzfbmqD4KGY
   title: LeBlanc Support vs Leona - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1462
   region: KR
+  uploaded: 2026-02-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Take down The Inhibitor
+    - at: 23:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Take down The Turret
+      kind: tower
+    - at: 24:11
+      label: End credit

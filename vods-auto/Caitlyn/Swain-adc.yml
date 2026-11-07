@@ -56,9 +56,20 @@
   durationSec: 1600
   region: KR
   player: LOUD Bull
+  uploaded: 2026-09-24
+- videoId: f074XjLLsBw
+  title: '"Jz" 2000LP Caitlyn : He is The Only Man Who Could Save This Game - Engsub (Caitlyn vs Swain)'
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 862
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-07-27
+  format: stream
 - videoId: ccxqBKTQUMg
   title: Caitlyn ADC vs Swain - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1576
   region: EUW
+  uploaded: 2025-12-17

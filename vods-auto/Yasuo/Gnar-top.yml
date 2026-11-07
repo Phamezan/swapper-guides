@@ -5,6 +5,7 @@
   patch: "26.8"
   durationSec: 1588
   region: KR
+  uploaded: 2026-04-24
 - videoId: Mhn5rzQWLZk
   title: Yasuo vs Gnar Top - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -18,3 +19,53 @@
   patch: "25.7"
   durationSec: 1693
   region: EUW
+  uploaded: 2025-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:03
+      label: Take down The Turret
+      kind: tower
+    - at: 15:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Take down The Turret
+      kind: tower
+    - at: 18:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:47
+      label: Take down The Turret
+      kind: tower
+    - at: 27:12
+      label: Take down The Inhibitor
+    - at: 27:23
+      label: Take down The Turret
+      kind: tower
+    - at: 27:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:52
+      label: End credit

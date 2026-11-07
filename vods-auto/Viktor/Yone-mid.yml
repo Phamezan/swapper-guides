@@ -50,9 +50,55 @@
   patch: "26.5"
   durationSec: 1542
   region: NA
+  uploaded: 2026-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:32
+      label: Take down The Turret
+      kind: tower
+    - at: 19:48
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: End credit
 - videoId: QOye27eb40U
   title: Viktor Mid vs Yone - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1665
   region: KR
+  uploaded: 2025-03-08

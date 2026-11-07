@@ -5,9 +5,51 @@
   patch: "26.8"
   durationSec: 1419
   region: EUW
+  uploaded: 2026-04-28
 - videoId: mIJqrXyoGas
   title: Ornn Support vs Nautilus - KR Master Patch 26.04
   rankClaim: Master
   patch: "26.4"
   durationSec: 1826
   region: KR
+  uploaded: 2026-03-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:22
+      label: Take down The Inhibitor
+    - at: 27:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:11
+      label: Take down The Turret
+      kind: tower
+    - at: 29:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:04
+      label: Take down The Turret
+      kind: tower
+    - at: 30:15
+      label: End credit

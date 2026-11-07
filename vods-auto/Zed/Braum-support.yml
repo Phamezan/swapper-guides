@@ -5,14 +5,72 @@
   patch: "26.6"
   durationSec: 1718
   region: EUW
+  uploaded: 2026-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Take down The Turret
+      kind: tower
+    - at: 17:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:42
+      label: Take down The Turret
+      kind: tower
+    - at: 17:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:52
+      label: Take down The Turret
+      kind: tower
+    - at: 28:02
+      label: Take down The Inhibitor
+    - at: 28:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:27
+      label: End credit
 - videoId: zTLdxa1-za4
   title: Zed Support vs Braum - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1567
   region: KR
+  uploaded: 2026-01-31
 - videoId: nM5sbu8xrKM
   title: Zed Support vs Braum - VN Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 2139
+  uploaded: 2025-06-19

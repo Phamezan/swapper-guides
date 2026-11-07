@@ -177,3 +177,54 @@
   patch: "25.6"
   durationSec: 1693
   region: KR
+  uploaded: 2025-03-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Take down The Turret
+      kind: tower
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:52
+      label: End credit

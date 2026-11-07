@@ -5,15 +5,61 @@
   patch: "26.3"
   durationSec: 1608
   region: KR
+  uploaded: 2026-02-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: Take down The Turret
+      kind: tower
+    - at: 25:39
+      label: Take down The Inhibitor
+    - at: 25:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:21
+      label: Take down The Turret
+      kind: tower
+    - at: 26:37
+      label: End credit
 - videoId: p5Pw9AooqLI
   title: Galio Support vs Bard - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1511
   region: EUW
+  uploaded: 2025-11-16
 - videoId: xXZX1b59LG4
   title: Galio Support vs Bard - EUW Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1492
   region: EUW
+  uploaded: 2025-03-15

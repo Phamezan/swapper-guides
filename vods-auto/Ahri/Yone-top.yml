@@ -79,12 +79,6 @@
     - at: 27:09
       label: Katarina Triple Kill
       kind: kill
-- videoId: ICcrIt5Qij8
-  title: Ahri Top vs Yone - EUW Grandmaster Patch 26.11
-  rankClaim: Grandmaster
-  patch: "26.11"
-  durationSec: 1799
-  region: EUW
 - videoId: kbL3sGmbB8w
   title: Ahri Top vs Yone - EUW Master Patch 26.11
   rankClaim: Master
@@ -134,6 +128,62 @@
       kind: kill
     - at: 30:47
       label: Mid Inhibitor falls (Red)
+- videoId: ICcrIt5Qij8
+  title: Ahri Top vs Yone - EUW Grandmaster Patch 26.11
+  rankClaim: Grandmaster
+  patch: "26.11"
+  durationSec: 1799
+  region: EUW
+  uploaded: 2026-06-09
+  result: L
+  moments:
+    - at: 3:09
+      label: First Blood — Ahri kills Yone
+      kind: kill
+    - at: 6:02
+      label: Ahri catches Yone
+    - at: 12:35
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 13:30
+      label: Ahri Double Kill
+      kind: kill
+    - at: 14:22
+      label: Senna eliminates Yone
+    - at: 15:23
+      label: Ahri takes down Zed
+    - at: 17:56
+      label: Red takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:24
+      label: Ahri picks off Ezreal
+    - at: 20:10
+      label: Bel'Veth kills Yone
+      kind: kill
+    - at: 20:58
+      label: Red takes Baron
+      kind: baron
+    - at: 21:58
+      label: Bel'Veth kills Sona
+      kind: kill
+    - at: 23:11
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 24:50
+      label: Ahri takes down Zed
+    - at: 26:27
+      label: Ahri picks off Ezreal
+    - at: 27:12
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 27:46
+      label: Ahri kills Sylas
+      kind: kill
+    - at: 28:33
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 28:43
+      label: Bot Inhibitor falls (Blue)
 - videoId: QekiWPd-8AU
   title: Ahri Top vs Yone - KR Master Patch 26.09
   rankClaim: Master
@@ -250,3 +300,4 @@
   patch: "25.18"
   durationSec: 1485
   region: EUW
+  uploaded: 2025-09-23

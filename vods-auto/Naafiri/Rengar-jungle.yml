@@ -5,9 +5,77 @@
   patch: "25.24"
   durationSec: 1492
   region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:26
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:25
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:14
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Take down The Turret
+      kind: tower
+    - at: 21:57
+      label: Take down The Inhibitor
+    - at: 23:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Take down The Inhibitor
+    - at: 24:41
+      label: End credit
 - videoId: e5w5DNSyhJM
   title: Naafiri vs Rengar Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1441
   region: KR
+  uploaded: 2025-03-25

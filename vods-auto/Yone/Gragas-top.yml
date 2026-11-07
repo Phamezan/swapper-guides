@@ -5,15 +5,56 @@
   patch: "26.10"
   durationSec: 1620
   region: KR
+  uploaded: 2026-05-15
 - videoId: yNmCt-tf4U0
   title: Yone Top vs Gragas - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1581
   region: KR
+  uploaded: 2026-01-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Take down The Turret
+      kind: tower
+    - at: 16:53
+      label: Get a Triple Kill
+      kind: kill
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:54
+      label: Take down The Turret
+      kind: tower
+    - at: 19:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:10
+      label: End credit
 - videoId: gohBDlwcLck
   title: Yone Top vs Gragas - EUW Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1635
   region: EUW
+  uploaded: 2025-09-20

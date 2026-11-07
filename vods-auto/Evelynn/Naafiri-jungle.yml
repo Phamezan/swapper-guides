@@ -5,9 +5,75 @@
   patch: "26.14"
   durationSec: 1663
   region: KR
+  uploaded: 2026-07-31
 - videoId: LFjfQWojRuI
   title: Evelynn Jungle vs Naafiri - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1780
   region: KR
+  uploaded: 2025-04-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:29
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 15:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Hunt The Atakhan
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:19
+      label: End credit

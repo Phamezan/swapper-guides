@@ -5,15 +5,82 @@
   patch: "25.24"
   durationSec: 1541
   region: KR
+  uploaded: 2025-12-07
 - videoId: 3pIxK6_TNCA
   title: Bard Support vs Pantheon - KR Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1789
   region: KR
+  uploaded: 2025-11-09
 - videoId: VZqyOKbaqGI
   title: Bard Support vs Pantheon - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1909
   region: KR
+  uploaded: 2025-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Take down The Turret
+      kind: tower
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:59
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:36
+      label: Take down The Turret
+      kind: tower
+    - at: 28:48
+      label: Take down The Inhibitor
+    - at: 29:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:12
+      label: Take down The Turret
+      kind: tower
+    - at: 31:28
+      label: End credit

@@ -5,3 +5,66 @@
   patch: "25.8"
   durationSec: 1542
   region: EUW
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:49
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:15
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 20:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:04
+      label: Take down The Turret
+      kind: tower
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: End credit

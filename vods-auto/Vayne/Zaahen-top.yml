@@ -57,6 +57,7 @@
   patch: "26.5"
   durationSec: 1711
   region: KR
+  uploaded: 2026-03-18
 - videoId: rTFuNhCXhQ0
   title: HLE Zeus Vayne vs Zaahen [ TOP ] Korea Grandmaster 1140 LP | Patch 26.4
   rankClaim: Grandmaster
@@ -65,15 +66,18 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2026-02-25
 - videoId: U7VLLnGLzh8
   title: Vayne Top vs Zaahen - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1507
   region: KR
+  uploaded: 2025-12-31
 - videoId: Y_kMndpcJ8E
   title: Vayne vs Zaahen Top - NA Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 2051
   region: NA
+  uploaded: 2025-12-24

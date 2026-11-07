@@ -5,9 +5,64 @@
   patch: "26.2"
   durationSec: 1589
   region: EUW
+  uploaded: 2026-02-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:39
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: End credit
 - videoId: oPYXrfIkUlY
   title: Twitch Jungle vs Viego - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1997
   region: KR
+  uploaded: 2025-07-13

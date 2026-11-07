@@ -21,6 +21,7 @@
   patch: "26.18"
   durationSec: 1570
   region: KR
+  uploaded: 2026-09-14
 - videoId: tNMuXcM4aFk
   title: HLE Gumayusi Ezreal vs Tristana [ ADC ] Korea Challenger 2570 LP | Patch 26.12
   rankClaim: Challenger
@@ -50,12 +51,66 @@
   patch: "26.1"
   durationSec: 1562
   region: EUW
+  uploaded: 2026-01-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:40
+      label: Take down The Turret
+      kind: tower
+    - at: 11:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:18
+      label: Take down The Turret
+      kind: tower
+    - at: 18:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:55
+      label: Take down The Turret
+      kind: tower
+    - at: 19:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Take down The Turret
+      kind: tower
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:03
+      label: Take down The Turret
+      kind: tower
+    - at: 25:17
+      label: Take down The Inhibitor
+    - at: 25:51
+      label: End credit
 - videoId: gQVLhFslS8Q
   title: Ezreal vs Tristana ADC - KR Challenger - Patch 25.23 Season 15
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1786
   region: KR
+  uploaded: 2025-12-02
 - videoId: Z1fVoWyGKss
   title: T1 Gumayusi Ezreal vs Tristana [ ADC ] Patch 25.16 Korea Master
   rankClaim: Master
@@ -64,12 +119,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-20
 - videoId: Tsbojo89xXU
   title: Ezreal vs Tristana ADC - KR Challenger - Patch 25.14 Season 15
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1681
   region: KR
+  uploaded: 2025-07-24
 - videoId: gE3cs-xlyP8
   title: Ezreal vs Tristana ADC [ Gen.G Ruler ] Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -78,12 +135,7 @@
   region: NA
   player: Ruler
   team: Gen.G
-- videoId: UsfYLPC9rbw
-  title: Ezreal ADC vs Tristana - KR Challenger Patch 25.07
-  rankClaim: Challenger
-  patch: "25.7"
-  durationSec: 1730
-  region: KR
+  uploaded: 2025-07-07
 - videoId: I0hmKQVvx_M
   title: T1 Gumayusi Ezreal ADC vs Tristana - Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -92,9 +144,18 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-06
+- videoId: UsfYLPC9rbw
+  title: Ezreal ADC vs Tristana - KR Challenger Patch 25.07
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 1730
+  region: KR
+  uploaded: 2025-04-05
 - videoId: hVAoZP-3Ozs
   title: Ezreal ADC vs Tristana - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 2170
   region: KR
+  uploaded: 2025-03-22

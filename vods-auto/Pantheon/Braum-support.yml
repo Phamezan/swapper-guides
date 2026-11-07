@@ -5,9 +5,54 @@
   patch: "26.17"
   durationSec: 1584
   region: EUW
+  uploaded: 2026-09-12
 - videoId: AADFRn8OQyA
   title: Pantheon Support vs Braum - NA Grandmaster Patch 26.05
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 1634
   region: NA
+  uploaded: 2026-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:52
+      label: Take down The Turret
+      kind: tower
+    - at: 26:20
+      label: Take down The Inhibitor
+    - at: 26:32
+      label: Take down The Turret
+      kind: tower
+    - at: 26:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:03
+      label: End credit

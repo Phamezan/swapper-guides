@@ -5,9 +5,81 @@
   patch: "25.6"
   durationSec: 1661
   region: KR
+  uploaded: 2025-03-27
 - videoId: Qxi0kb-cKUs
   title: Gwen Jungle vs Karthus - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1631
   region: KR
+  uploaded: 2025-02-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 6:46
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:52
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:04
+      label: Take down The Turret
+      kind: tower
+    - at: 14:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:50
+      label: Take down The Turret
+      kind: tower
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:56
+      label: Take down The Turret
+      kind: tower
+    - at: 24:23
+      label: Take down The Inhibitor
+    - at: 24:34
+      label: Take down The Turret
+      kind: tower
+    - at: 25:03
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: End credit

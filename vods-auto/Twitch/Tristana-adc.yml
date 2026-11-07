@@ -5,24 +5,81 @@
   patch: "26.16"
   durationSec: 1585
   region: KR
+  uploaded: 2026-08-24
 - videoId: ALCm4l2ctw8
   title: Twitch vs Tristana [ ADC ] Korea Grandmaster 1313 LP | Patch 26.6 ✅
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1518
   region: KR
+  uploaded: 2026-03-24
 - videoId: -t3MetBUXY8
   title: Twitch ADC vs Tristana - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1513
   region: KR
+  uploaded: 2026-02-12
 - videoId: cJPAIT216MM
   title: Twitch ADC vs Tristana - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1539
   region: EUW
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:36
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:33
+      label: Take down The Turret
+      kind: tower
+    - at: 15:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:08
+      label: Take down The Turret
+      kind: tower
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Take down The Turret
+      kind: tower
+    - at: 22:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:28
+      label: End credit
 - videoId: 3cZGiLFBqJ8
   title: Twitch vs Tristana ADC [ TripleKill ] Korea Master Patch 25.19
   rankClaim: Master
@@ -30,15 +87,71 @@
   durationSec: 1572
   region: KR
   player: TripleKill
+  uploaded: 2025-09-26
 - videoId: rF3tBvvl_Xs
   title: Twitch ADC vs Tristana - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1633
   region: KR
+  uploaded: 2025-04-24
 - videoId: SMehh4Vp1lE
   title: Twitch ADC vs Tristana - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 2073
   region: KR
+  uploaded: 2025-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Take down The Turret
+      kind: tower
+    - at: 15:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 18:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 33:21
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 33:59
+      label: Take down The Turret
+      kind: tower
+    - at: 34:12
+      label: End credit

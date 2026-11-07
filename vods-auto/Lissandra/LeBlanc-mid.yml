@@ -5,9 +5,70 @@
   patch: "25.24"
   durationSec: 1576
   region: EUW
+  uploaded: 2025-12-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Take down The Turret
+      kind: tower
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Take down The Turret
+      kind: tower
+    - at: 19:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:17
+      label: Take down The Turret
+      kind: tower
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: Take down The Turret
+      kind: tower
+    - at: 24:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:42
+      label: Take down The Turret
+      kind: tower
+    - at: 26:05
+      label: End credit
 - videoId: s9xqLzrx_iE
   title: Lissandra Mid vs LeBlanc - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1637
   region: KR
+  uploaded: 2025-07-01

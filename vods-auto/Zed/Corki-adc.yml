@@ -55,9 +55,52 @@
   patch: "26.5"
   durationSec: 1534
   region: NA
+  uploaded: 2026-03-12
 - videoId: KzqENiX1l-o
   title: Zed ADC vs Corki - NA Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1830
   region: NA
+  uploaded: 2025-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:59
+      label: Take down The Turret
+      kind: tower
+    - at: 17:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:48
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:09
+      label: End credit

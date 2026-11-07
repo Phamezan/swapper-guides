@@ -5,3 +5,22 @@
   patch: "26.19"
   durationSec: 1758
   region: EUW
+  uploaded: 2026-10-03
+- videoId: jtTK8znVLcs
+  title: "Rank 1 Irelia : CRUSHING Qiyana in CN Super Server - Engsub"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1517
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-14
+  format: stream
+- videoId: a71qrLP8NiA
+  title: "Challenger Irelia : His WRECKING Qiyana on CN Super Server"
+  rankClaim: Challenger
+  patch: "26.10"
+  durationSec: 1514
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-05-21
+  format: stream

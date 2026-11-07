@@ -5,3 +5,52 @@
   patch: "26.10"
   durationSec: 1490
   region: KR
+  uploaded: 2026-05-20
+  result: W
+  moments:
+    - at: 0:15
+      label: First Blood — Quinn kills Singed
+      kind: kill
+    - at: 3:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 7:13
+      label: Quinn picks off Briar
+    - at: 7:39
+      label: Quinn eliminates Singed
+    - at: 9:44
+      label: Elise takes down Briar
+    - at: 10:34
+      label: Elise kills Malphite
+      kind: kill
+    - at: 11:24
+      label: Elise takes down Briar
+    - at: 11:44
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 14:14
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 15:08
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:31
+      label: Jayce kills Briar
+      kind: kill
+    - at: 17:13
+      label: Elise kills Malphite
+      kind: kill
+    - at: 19:00
+      label: Ashe Double Kill
+      kind: kill
+    - at: 19:28
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 20:23
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:00
+      label: Mid Inhibitor falls (Red)
+    - at: 23:54
+      label: Elise Double Kill
+      kind: kill

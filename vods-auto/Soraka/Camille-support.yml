@@ -58,9 +58,43 @@
   patch: "26.17"
   durationSec: 1782
   region: KR
+  uploaded: 2026-09-11
 - videoId: 95GAExTekd4
   title: Soraka Support vs Camille - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1555
   region: KR
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:44
+      label: End credit

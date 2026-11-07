@@ -6,3 +6,39 @@
   durationSec: 1452
   region: KR
   player: Pyosik
+  uploaded: 2026-08-16
+  result: W
+  moments:
+    - at: 4:30
+      label: First Blood — Xayah kills Kai'Sa
+      kind: kill
+    - at: 4:44
+      label: Aurora takes down Rakan
+    - at: 6:38
+      label: Nautilus takes down Twisted Fate
+    - at: 7:56
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 9:37
+      label: Skarner takes down Kindred
+    - at: 11:52
+      label: Aurora Double Kill
+      kind: kill
+    - at: 13:27
+      label: Xayah picks off Vayne
+    - at: 14:12
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 15:53
+      label: Xayah eliminates Kindred
+    - at: 16:26
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 18:02
+      label: Aurora picks off Kindred
+    - at: 19:42
+      label: Blue takes 2nd Dragon (Chemtech)
+      kind: dragon
+    - at: 23:09
+      label: Blue takes Baron
+      kind: baron

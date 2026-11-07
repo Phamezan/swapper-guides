@@ -4,15 +4,65 @@
   rankClaim: Challenger
   patch: "26.18"
   durationSec: 1633
+  uploaded: 2026-09-24
 - videoId: EDwQi73n4nc
   title: Tahm Kench Support vs Rell - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1608
   region: KR
+  uploaded: 2026-01-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Take down The Turret
+      kind: tower
+    - at: 17:16
+      label: Take down The Turret
+      kind: tower
+    - at: 18:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:55
+      label: Take down The Turret
+      kind: tower
+    - at: 26:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:37
+      label: End credit
 - videoId: b-szX1ZLHWg
   title: Tahm Kench Support vs Rell - NA Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1876
   region: NA
+  uploaded: 2025-06-11

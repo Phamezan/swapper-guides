@@ -5,9 +5,68 @@
   patch: "26.18"
   durationSec: 1845
   region: KR
+  uploaded: 2026-09-16
 - videoId: YgXBycUHyw8
   title: Sion Top vs Gwen - EUW Grandmaster Patch 26.06
   rankClaim: Grandmaster
   patch: "26.6"
   durationSec: 1857
   region: EUW
+  uploaded: 2026-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:13
+      label: Take down The Turret
+      kind: tower
+    - at: 15:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:31
+      label: Take down The Turret
+      kind: tower
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:35
+      label: Take down The Turret
+      kind: tower
+    - at: 25:57
+      label: Take down The Inhibitor
+    - at: 26:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:47
+      label: Take down The Inhibitor
+    - at: 30:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:46
+      label: End credit

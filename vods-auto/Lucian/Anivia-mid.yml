@@ -5,15 +5,65 @@
   patch: "25.22"
   durationSec: 1790
   region: KR
+  uploaded: 2025-11-16
 - videoId: 5TukexTbvLs
   title: Lucian Mid vs Anivia - NA Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1754
   region: NA
+  uploaded: 2025-10-18
 - videoId: XLYiaehckPk
   title: Lucian Mid vs Anivia - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1658
   region: KR
+  uploaded: 2025-04-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Take down The Turret
+      kind: tower
+    - at: 16:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:06
+      label: Take down The Turret
+      kind: tower
+    - at: 27:17
+      label: End credit

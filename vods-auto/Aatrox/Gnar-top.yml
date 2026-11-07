@@ -22,15 +22,53 @@
       label: Equipment and upgrades
     - at: 13:30
       label: Closing the game
+- videoId: lre7BrkD_wM
+  title: 🛑 XiaoMing Aatrox vs Gnar (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1232
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-09-26
+  format: stream
+- videoId: w4ykRtJppTU
+  title: 🛑 XiaoMing Aatrox vs Gnar (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1389
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-07-08
+  format: stream
+- videoId: 8Lg-EBlXeaU
+  title: 🛑 XiaoMing Aatrox vs Gnar (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.3"
+  durationSec: 908
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-02-08
+  format: stream
+- videoId: -5ya5dpdl-M
+  title: 🛑 XiaoMing Aatrox vs Gnar (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.2"
+  durationSec: 1274
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-02-02
+  format: stream
 - videoId: ws9ajRrDuZw
   title: AATROX vs GNAR (TOP) | Legendary, 11/3/6 | EUW Master | 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 2083
   region: EUW
+  uploaded: 2025-06-26
 - videoId: 4TVHLudK4Cw
   title: AATROX vs GNAR (TOP) | 8/3/9 | EUNE Master | 25.9
   rankClaim: Master
   patch: "25.9"
   durationSec: 1816
   region: EUNE
+  uploaded: 2025-05-12

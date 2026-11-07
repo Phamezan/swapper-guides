@@ -5,9 +5,72 @@
   patch: "25.14"
   durationSec: 2126
   region: KR
+  uploaded: 2025-07-29
 - videoId: m1tvm9sklLA
   title: Garen Mid vs Orianna - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1804
   region: KR
+  uploaded: 2025-05-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:05
+      label: Take down The Turret
+      kind: tower
+    - at: 17:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:51
+      label: Take down The Turret
+      kind: tower
+    - at: 21:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:53
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:45
+      label: Take down The Inhibitor
+    - at: 29:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:29
+      label: Take down The Turret
+      kind: tower
+    - at: 29:43
+      label: End credit

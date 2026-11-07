@@ -6,3 +6,55 @@
   durationSec: 1914
   region: KR
   player: Hailstone
+  uploaded: 2026-10-01
+  result: L
+  moments:
+    - at: 1:58
+      label: First Blood — Zac kills Cho'Gath
+      kind: kill
+    - at: 7:39
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 8:09
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 9:42
+      label: Kalista takes down Draven
+    - at: 11:13
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 12:28
+      label: Zac kills Renata Glasc
+      kind: kill
+    - at: 13:04
+      label: Blue takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 13:59
+      label: Kalista eliminates Cho'Gath
+    - at: 17:10
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 17:57
+      label: Zac takes down Cho'Gath
+    - at: 18:48
+      label: Blue takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 21:12
+      label: Red takes Baron
+      kind: baron
+    - at: 24:14
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 24:36
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:54
+      label: Pyke Double Kill
+      kind: kill
+    - at: 26:47
+      label: Twisted Fate kills Draven
+      kind: kill
+    - at: 29:26
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 30:43
+      label: Mid Inhibitor falls (Blue)

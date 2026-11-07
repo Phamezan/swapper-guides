@@ -7,15 +7,62 @@
   region: KR
   player: BuLLDoG
   team: LNG
+  uploaded: 2026-05-30
 - videoId: a1qjiTwPRlI
   title: Cassiopeia Mid vs Twisted Fate - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1883
   region: KR
+  uploaded: 2026-04-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:34
+      label: Take down The Turret
+      kind: tower
+    - at: 18:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:10
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:29
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:12
+      label: End credit
 - videoId: w22g13q0SkA
   title: Cassiopeia Mid vs Twisted Fate - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1533
   region: KR
+  uploaded: 2025-08-31

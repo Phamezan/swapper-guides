@@ -5,6 +5,7 @@
   patch: "26.19"
   durationSec: 1793
   region: KR
+  uploaded: 2026-09-29
 - videoId: jtblATuRWxE
   title: (HLE Panther) Dr. Mundo Top vs Jayce - KR Grandmaster Patch 26.16
   rankClaim: Grandmaster
@@ -13,6 +14,7 @@
   region: KR
   player: Panther
   team: HLE
+  uploaded: 2026-08-18
 - videoId: p9ycwWJEnS0
   title: CAN'T END TODAY ON A NEGATIVE WINRATE  |  KOREA DAY 14
   rankClaim: Master+
@@ -67,9 +69,11 @@
   patch: "25.19"
   durationSec: 1806
   region: KR
+  uploaded: 2025-10-01
 - videoId: aTfGhqnLhx8
   title: Dr. Mundo Top vs Jayce - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1662
   region: KR
+  uploaded: 2025-02-24

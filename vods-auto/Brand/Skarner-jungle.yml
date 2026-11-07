@@ -6,3 +6,55 @@
   durationSec: 1807
   region: EUW
   player: SGE Zanzarah
+  uploaded: 2026-07-01
+  result: W
+  moments:
+    - at: 1:25
+      label: First Blood — Brand kills Camille
+      kind: kill
+    - at: 5:22
+      label: Lux eliminates Kassadin
+    - at: 5:32
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 7:02
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 9:49
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 11:38
+      label: Brand picks off Kassadin
+    - at: 12:18
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 12:56
+      label: Brand picks off Kassadin
+    - at: 16:29
+      label: Ezreal Double Kill
+      kind: kill
+    - at: 17:36
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 20:05
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 21:06
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:38
+      label: Brand kills Camille
+      kind: kill
+    - at: 21:54
+      label: Brand Triple Kill
+      kind: kill
+    - at: 23:00
+      label: Blue takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 26:16
+      label: Bot Inhibitor falls (Blue)
+    - at: 27:22
+      label: Blue takes 2nd Baron
+      kind: baron
+    - at: 28:33
+      label: Mid Inhibitor falls (Red)

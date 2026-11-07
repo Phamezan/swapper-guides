@@ -5,9 +5,60 @@
   patch: "25.24"
   durationSec: 1498
   region: KR
+  uploaded: 2025-12-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:54
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Take down The Turret
+      kind: tower
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Take down The Turret
+      kind: tower
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Hunt The Atakhan
+    - at: 24:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:47
+      label: End credit
 - videoId: i38OsYkYtec
   title: Brand Mid vs Corki - NA Grandmaster Patch 25.22
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1901
   region: NA
+  uploaded: 2025-11-16

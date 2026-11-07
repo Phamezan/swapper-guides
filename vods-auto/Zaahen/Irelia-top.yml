@@ -12,12 +12,14 @@
   patch: "26.3"
   durationSec: 1455
   region: KR
+  uploaded: 2026-02-07
 - videoId: zINysV_PykI
   title: Zaahen vs Irelia Top - KR Grandmaster - Patch 25.24 Season 15
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1531
   region: KR
+  uploaded: 2025-12-30
 - videoId: aKQ-Se3PxfE
   title: HLE Zeus Zaahen vs Irelia [ TOP ] Patch 25.24 Ranked Korea
   rankClaim: Master+
@@ -26,24 +28,28 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2025-12-27
 - videoId: IpNLWtPLdQs
   title: Zaahen vs Irelia Top - KR Master - Patch 25.23 Season 15
   rankClaim: Master
   patch: "25.23"
   durationSec: 1651
   region: KR
+  uploaded: 2025-12-01
 - videoId: aN6CGx4kxO0
   title: Zaahen vs Irelia Top - KR Master - Patch 25.23 Season 15
   rankClaim: Master
   patch: "25.23"
   durationSec: 1561
   region: KR
+  uploaded: 2025-11-21
 - videoId: NND3q27n0Jg
   title: Zaahen vs Irelia Top - KR Master - Patch 25.23 Season 15
   rankClaim: Master
   patch: "25.23"
   durationSec: 1830
   region: KR
+  uploaded: 2025-11-20
 - videoId: izDjWLDi6dE
   title: Zaahen vs Irelia TOP [ TripleKill ] Patch 25.23 Korea Master ✅
   rankClaim: Master
@@ -51,3 +57,4 @@
   durationSec: 1363
   region: KR
   player: TripleKill
+  uploaded: 2025-11-20

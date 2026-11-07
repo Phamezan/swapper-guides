@@ -5,3 +5,46 @@
   patch: "26.9"
   durationSec: 1655
   region: KR
+  uploaded: 2026-05-10
+  result: L
+  moments:
+    - at: 2:05
+      label: First Blood — Senna kills Aurelion Sol
+      kind: kill
+    - at: 5:20
+      label: Seraphine eliminates Bard
+    - at: 9:43
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 11:58
+      label: Senna takes down Aurelion Sol
+    - at: 13:59
+      label: Senna outplays Gwen
+    - at: 15:10
+      label: Senna outduels Bard
+    - at: 15:22
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:43
+      label: Senna picks off Ambessa
+    - at: 16:11
+      label: Naafiri eliminates Jhin
+    - at: 20:34
+      label: Ashe kills Aurelion Sol
+      kind: kill
+    - at: 20:56
+      label: Red takes Baron
+      kind: baron
+    - at: 21:47
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 22:23
+      label: Ashe takes down Jhin
+    - at: 24:28
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:44
+      label: Naafiri kills Bard
+      kind: kill
+    - at: 26:44
+      label: Senna Double Kill
+      kind: kill

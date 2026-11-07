@@ -5,9 +5,76 @@
   patch: "26.3"
   durationSec: 1621
   region: KR
+  uploaded: 2026-02-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:27
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:10
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:57
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: End credit
 - videoId: LLXqb4qsb4Y
   title: Nocturne vs Vi Jungle - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1981
   region: KR
+  uploaded: 2025-04-10

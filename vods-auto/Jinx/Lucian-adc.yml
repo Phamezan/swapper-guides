@@ -7,12 +7,78 @@
   patchEstimated: true
   uploaded: 2026-10-23
   format: stream
+- videoId: fUIRkZj00xI
+  title: 'Rank 1 Jinx : This Dude is a KILLING MACHINE " One Kills Per Min " Engsub ( vs Lucian, Viktor )'
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1211
+  patchEstimated: true
+  uploaded: 2026-10-11
+  format: stream
+- videoId: fsar3_IqeWY
+  title: "Rank 1 Jinx : His Mechanic is Phenomenal - Engsub ( vs Lucian, Yunara )"
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1218
+  patchEstimated: true
+  uploaded: 2026-10-06
+  format: stream
+- videoId: HyxYuygqWJM
+  title: "Rank 1 Jinx : This Machine Gun Jinx is UNSTOPPABLE - Engsub ( vs Vlad, Lucian )"
+  rankClaim: Master+
+  patch: "26.19"
+  durationSec: 1470
+  patchEstimated: true
+  uploaded: 2026-09-30
+  format: stream
+- videoId: zAgmKO7PoPo
+  title: "Rank 1 Jinx : His Kiting Movements is Look Like SCRIPTING ? Engsub (Jinx vs Lucian, Aphe)"
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 901
+  patchEstimated: true
+  uploaded: 2026-07-25
+  format: stream
+- videoId: iL6DuziOAb4
+  title: 2255LP JINX "HanQL" He is The SAVIOR We Need - Engsub (Jinx vs Lucian)
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 695
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2026-07-05
+  format: stream
+- videoId: P-kfyyjqN6g
+  title: "Rank 1 Jinx : Hubris is Best S+ TIER ITEM - Engsub ( Jinx vs Aphe, Lucian )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1295
+  patchEstimated: true
+  uploaded: 2026-05-22
+  format: stream
+- videoId: -PHdauQSdXY
+  title: 'Rank 1 Jinx : BLOWING UP GrandMaster " 24 Kills at 21 Min " Engsub ( Jinx vs Aphe, Lucian )'
+  rankClaim: Grandmaster
+  patch: "26.10"
+  durationSec: 1012
+  patchEstimated: true
+  uploaded: 2026-05-19
+  format: stream
+- videoId: AVdUCJdAgiM
+  title: "2255LP JINX : He is a FREAKING BEAST in TEAMFIGHT - Engsub ( Jinx vs Lucian )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1048
+  patchEstimated: true
+  uploaded: 2026-04-30
+  format: stream
 - videoId: -t1gfPLhBZE
   title: Jinx vs Lucian ADC - KR Challenger - Patch 26.01 Season 16
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1651
   region: KR
+  uploaded: 2026-01-18
 - videoId: iTct09nll5k
   title: Jinx vs Lucian ADC [ TripleKill ] Korea Challenger 1191 LP | Patch 25.22 ✅
   rankClaim: Challenger
@@ -20,9 +86,11 @@
   durationSec: 1474
   region: KR
   player: TripleKill
+  uploaded: 2025-11-17
 - videoId: Ie330SUXW_M
   title: Jinx ADC vs Lucian - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1674
   region: KR
+  uploaded: 2025-06-03

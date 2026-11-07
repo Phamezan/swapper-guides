@@ -5,15 +5,77 @@
   patch: "26.9"
   durationSec: 1444
   region: KR
+  uploaded: 2026-05-04
 - videoId: tc2r_HgMryM
   title: Braum Support vs Neeko - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1838
   region: KR
+  uploaded: 2026-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:55
+      label: Take down The Turret
+      kind: tower
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:06
+      label: Take down The Turret
+      kind: tower
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Take down The Turret
+      kind: tower
+    - at: 25:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:30
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 29:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:50
+      label: Take down The Turret
+      kind: tower
+    - at: 30:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:27
+      label: End credit
 - videoId: FtvEygmSQOw
   title: Braum Support vs Neeko - EUW Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1786
   region: EUW
+  uploaded: 2025-08-13

@@ -5,9 +5,60 @@
   patch: "25.11"
   durationSec: 1615
   region: KR
+  uploaded: 2025-06-10
 - videoId: 2J2ZJ97nifQ
   title: Kennen Mid vs Orianna - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1879
   region: KR
+  uploaded: 2025-05-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:12
+      label: Take down The Turret
+      kind: tower
+    - at: 30:23
+      label: Take down The Inhibitor
+    - at: 30:37
+      label: Take down The Turret
+      kind: tower
+    - at: 30:58
+      label: End credit

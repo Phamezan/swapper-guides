@@ -5,12 +5,14 @@
   patch: "26.17"
   durationSec: 1634
   region: KR
+  uploaded: 2026-09-10
 - videoId: HlJhIGf_xB0
   title: Azir Mid vs Yone - KR Challenger Patch 26.16
   rankClaim: Challenger
   patch: "26.16"
   durationSec: 1867
   region: KR
+  uploaded: 2026-08-27
 - videoId: 9ocziTdIVSY
   title: (VIT Humanoid) Azir Mid vs Yone - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
@@ -18,6 +20,7 @@
   durationSec: 1704
   region: EUW
   player: VIT Humanoid
+  uploaded: 2026-07-20
 - videoId: h7FrZZm2XMQ
   title: Azir vs Yone Mid - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -31,18 +34,68 @@
   patch: "25.24"
   durationSec: 1564
   region: KR
+  uploaded: 2025-12-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Take down The Turret
+      kind: tower
+    - at: 14:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Take down The Turret
+      kind: tower
+    - at: 20:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:26
+      label: Take down The Turret
+      kind: tower
+    - at: 20:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: End credit
 - videoId: qD_o_yQ5MoE
   title: Azir Mid vs Yone - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1810
   region: KR
+  uploaded: 2025-11-26
 - videoId: yEcN76K-KtA
   title: Azir Mid vs Yone - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1809
   region: KR
+  uploaded: 2025-09-17
 - videoId: xqnYHKEQroY
   title: T1 Faker Azir vs Yone [ MID ] Patch 25.17 Korea Grandmaster
   rankClaim: Grandmaster
@@ -51,21 +104,25 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-08-29
 - videoId: g8D7fsYSm2s
   title: Azir Mid vs Yone - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1537
   region: EUW
+  uploaded: 2025-07-10
 - videoId: NjR9E4lm5pk
   title: Azir Mid vs Yone - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1747
   region: KR
+  uploaded: 2025-04-21
 - videoId: lfwchC0N7Ac
   title: Azir vs Yone Mid - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1906
   region: KR
+  uploaded: 2025-03-28

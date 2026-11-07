@@ -8,18 +8,29 @@
   player: Baicaiovo
   uploaded: 2026-06-28
   format: stream
+- videoId: zfQP4Y6Lp1M
+  title: "Baicaiovo Irelia : WRECKING Orianna on the CN Super Server - Engsub"
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1862
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-02
+  format: stream
 - videoId: fgagPgU4gpU
   title: Irelia Mid vs Orianna - EUNE Challenger Patch 26.08
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1465
   region: EUNE
+  uploaded: 2026-04-26
 - videoId: 0KWfs1meosc
   title: Irelia Mid vs Orianna - KR Master Patch 26.07
   rankClaim: Master
   patch: "26.7"
   durationSec: 1614
   region: KR
+  uploaded: 2026-04-12
 - videoId: 9IRtVzrCv14
   title: Irelia vs Orianna Mid - KR Grandmaster - Patch 16.07 Season 16
   rankClaim: Grandmaster
@@ -33,21 +44,25 @@
   patch: "26.5"
   durationSec: 1788
   region: KR
+  uploaded: 2026-03-15
 - videoId: PADmEj3mEjo
   title: Irelia vs Orianna Mid - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1786
   region: KR
+  uploaded: 2026-03-12
 - videoId: DaldTvlXRkY
   title: Irelia Mid vs Orianna - KR Master Patch 26.03
   rankClaim: Master
   patch: "26.3"
   durationSec: 1490
   region: KR
+  uploaded: 2026-02-15
 - videoId: K6ii2EX3nmg
   title: Irelia Mid vs Orianna - EUW Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1501
   region: EUW
+  uploaded: 2026-01-18

@@ -5,9 +5,60 @@
   patch: "26.8"
   durationSec: 1868
   region: NA
+  uploaded: 2026-04-30
 - videoId: N1NqkAmd19U
   title: Kled Mid vs Sylas - NA Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1595
   region: NA
+  uploaded: 2025-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: Take down The Turret
+      kind: tower
+    - at: 26:01
+      label: Take down The Inhibitor
+    - at: 26:14
+      label: End credit

@@ -6,12 +6,6 @@
   durationSec: 2341
   region: KR
   uploaded: 2026-04-08
-- videoId: eGp9iiGYNN0
-  title: Kindred Jungle vs Aatrox - KR Grandmaster Patch 25.24
-  rankClaim: Grandmaster
-  patch: "25.24"
-  durationSec: 1545
-  region: KR
 - videoId: bj4BOKRaixk
   title: Kindred vs Aatrox Jungle [ Quadra Kill ] Korea Master Patch 25.24 ✅
   rankClaim: Master
@@ -19,3 +13,11 @@
   durationSec: 1594
   region: KR
   player: Quadra Kill
+  uploaded: 2025-12-19
+- videoId: eGp9iiGYNN0
+  title: Kindred Jungle vs Aatrox - KR Grandmaster Patch 25.24
+  rankClaim: Grandmaster
+  patch: "25.24"
+  durationSec: 1545
+  region: KR
+  uploaded: 2025-12-10

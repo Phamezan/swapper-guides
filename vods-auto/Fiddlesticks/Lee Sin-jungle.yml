@@ -5,12 +5,14 @@
   patch: "26.14"
   durationSec: 1702
   region: KR
+  uploaded: 2026-07-21
 - videoId: -QHTb9YrLFg
   title: Fiddlesticks Jungle vs Lee Sin - KR Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1488
   region: KR
+  uploaded: 2026-05-22
 - videoId: 1TtuVw7S3tQ
   title: FiddleSticks vs Lee Sin 8/1/4 (Jungle) | EUW Grandmaster | FiddleSticks OTP Replay
   rankClaim: Grandmaster
@@ -25,39 +27,170 @@
   patch: "26.5"
   durationSec: 1486
   region: KR
+  uploaded: 2026-03-17
 - videoId: mteEw1lpsNU
   title: Fiddlesticks Jungle vs Lee Sin - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1635
   region: KR
+  uploaded: 2026-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:32
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:48
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:28
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:35
+      label: Take down The Turret
+      kind: tower
+    - at: 26:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:04
+      label: End credit
 - videoId: xsuCpS2gYBI
   title: Fiddlesticks Jungle vs Lee Sin - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1570
   region: KR
+  uploaded: 2026-01-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:08
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:16
+      label: Take down The Turret
+      kind: tower
+    - at: 14:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:53
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:59
+      label: End credit
 - videoId: iM85c3SdV3k
   title: Fiddlesticks Jungle vs Lee Sin - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1825
   region: KR
+  uploaded: 2025-10-03
 - videoId: a0YfvQR2SOs
   title: Fiddlesticks Jungle vs Lee Sin - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1904
   region: KR
+  uploaded: 2025-06-30
 - videoId: qyxsTi-aNkg
   title: Fiddlesticks Jungle vs Lee Sin - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1676
   region: KR
+  uploaded: 2025-06-04
 - videoId: SLvz28eAQs8
   title: Fiddlesticks vs Lee Sin [ Jungle ] Lol Korea Master Patch 25.5 ✅
   rankClaim: Master
   patch: "25.5"
   durationSec: 1729
   region: KR
+  uploaded: 2025-03-11

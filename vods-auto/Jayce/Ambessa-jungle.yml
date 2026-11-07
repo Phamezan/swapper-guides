@@ -14,6 +14,69 @@
   patch: "26.2"
   durationSec: 1565
   region: KR
+  uploaded: 2026-01-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:50
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:35
+      label: Take down The Turret
+      kind: tower
+    - at: 20:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:54
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:27
+      label: Take down The Turret
+      kind: tower
+    - at: 25:54
+      label: End credit
 - videoId: ug3Q8r6YPgc
   title: T1 Oner Jayce vs Ambessa [ Jungle ] Korea Master Patch 26.1
   rankClaim: Master
@@ -22,3 +85,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2026-01-16

@@ -5,9 +5,55 @@
   patch: "25.24"
   durationSec: 1464
   region: NA
+  uploaded: 2026-01-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:54
+      label: Take down The Turret
+      kind: tower
+    - at: 15:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:39
+      label: Take down The Turret
+      kind: tower
+    - at: 16:56
+      label: Take down The Turret
+      kind: tower
+    - at: 18:47
+      label: Take down The Turret
+      kind: tower
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:13
+      label: End credit
 - videoId: rGRWQCsOkKQ
   title: Sivir ADC vs Tristana - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2056
   region: KR
+  uploaded: 2025-03-01

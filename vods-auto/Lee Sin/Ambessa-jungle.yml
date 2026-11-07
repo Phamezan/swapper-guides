@@ -13,6 +13,7 @@
   durationSec: 1732
   region: KR
   player: Pyosik
+  uploaded: 2026-08-02
 - videoId: dfpOm3onbVk
   title: Lee Sin vs Ambessa Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -26,15 +27,85 @@
   patch: "26.1"
   durationSec: 1771
   region: KR
+  uploaded: 2026-01-14
 - videoId: 32xqdV0Etvs
   title: Lee Sin Jungle vs Ambessa - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1561
   region: KR
+  uploaded: 2025-12-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 8:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:13
+      label: Hunt The Atakhan
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:08
+      label: Take down The Turret
+      kind: tower
+    - at: 22:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:50
+      label: End credit
 - videoId: 7V2Qo4FJeZQ
   title: Lee Sin vs Ambessa JUngle - EUW CHallenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1711
   region: EUW
+  uploaded: 2025-09-11

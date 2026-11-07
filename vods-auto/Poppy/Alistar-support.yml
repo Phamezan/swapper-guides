@@ -5,15 +5,70 @@
   patch: "26.6"
   durationSec: 1623
   region: KR
+  uploaded: 2026-03-24
 - videoId: l57G6rPi4mA
   title: Poppy Support vs Alistar - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1506
   region: KR
+  uploaded: 2026-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Take down The Turret
+      kind: tower
+    - at: 19:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:57
+      label: Take down The Turret
+      kind: tower
+    - at: 23:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:30
+      label: Take down The Inhibitor
+    - at: 24:55
+      label: End credit
 - videoId: kTHRBakaZlM
   title: Poppy Support vs Alistar - KR Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1522
   region: KR
+  uploaded: 2025-06-29

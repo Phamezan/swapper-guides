@@ -20,24 +20,21 @@
   durationSec: 1617
   region: KR
   player: Smash
+  uploaded: 2026-06-30
 - videoId: 54K15r9vmCg
   title: Rengar Jungle vs Lee Sin - EUW Challenger Patch 26.10
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1421
   region: EUW
+  uploaded: 2026-05-19
 - videoId: TNKf3GFfp4s
   title: Rengar Jungle vs Lee Sin - KR Grandmaster Patch 26.09
   rankClaim: Grandmaster
   patch: "26.9"
   durationSec: 1795
   region: KR
-- videoId: xxqAefcNYk4
-  title: Rengar Jungle vs Lee Sin - EUW Challenger Patch 26.08
-  rankClaim: Challenger
-  patch: "26.8"
-  durationSec: 1555
-  region: EUW
+  uploaded: 2026-05-05
 - videoId: up_srKA1k4Q
   title: Rengar vs Lee Sin Jungle - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -45,6 +42,13 @@
   durationSec: 1771
   region: KR
   uploaded: 2026-04-23
+- videoId: xxqAefcNYk4
+  title: Rengar Jungle vs Lee Sin - EUW Challenger Patch 26.08
+  rankClaim: Challenger
+  patch: "26.8"
+  durationSec: 1555
+  region: EUW
+  uploaded: 2026-04-22
 - videoId: VkA_Pwx3l40
   title: Rengar vs Lee Sin Jungle - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -58,21 +62,86 @@
   patch: "26.5"
   durationSec: 1798
   region: KR
+  uploaded: 2026-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Take down The Turret
+      kind: tower
+    - at: 16:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:16
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:09
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:44
+      label: Take down The Turret
+      kind: tower
+    - at: 27:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:24
+      label: Take down The Turret
+      kind: tower
+    - at: 27:47
+      label: Take down The Inhibitor
+    - at: 29:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:47
+      label: End credit
 - videoId: sSAx7T9Vy7I
   title: Rengar vs Lee Sin Jungle - EUW Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1801
   region: EUW
+  uploaded: 2025-09-23
 - videoId: k8p1tOidHfc
   title: Rengar vs Lee Sin Jungle - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1621
   region: KR
+  uploaded: 2025-09-17
 - videoId: YAtfjwT0LqY
   title: Rengar Jungle vs Lee Sin - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1791
   region: KR
+  uploaded: 2025-04-09

@@ -5,9 +5,61 @@
   patch: "26.7"
   durationSec: 1750
   region: NA
+  uploaded: 2026-04-15
 - videoId: xUiAQlkrkIY
   title: Ivern Support vs Thresh - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1499
   region: KR
+  uploaded: 2026-03-31
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Take down The Turret
+      kind: tower
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:25
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:48
+      label: End credit

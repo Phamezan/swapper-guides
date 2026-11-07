@@ -4,9 +4,73 @@
   rankClaim: Challenger
   patch: "26.1"
   durationSec: 1565
+  uploaded: 2026-01-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:38
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:49
+      label: Take down The Turret
+      kind: tower
+    - at: 18:06
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:38
+      label: Take down The Turret
+      kind: tower
+    - at: 25:54
+      label: End credit
 - videoId: HldCSXz2FyI
   title: Rammus Jungle vs Ekko - NA Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1883
   region: NA
+  uploaded: 2025-10-29

@@ -5,9 +5,59 @@
   patch: "26.9"
   durationSec: 1631
   region: KR
+  uploaded: 2026-05-05
+  result: L
+  moments:
+    - at: 3:24
+      label: First Blood — Rumble kills Fiddlesticks
+      kind: kill
+    - at: 6:06
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 8:19
+      label: Rumble eliminates Gwen
+    - at: 11:49
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 12:01
+      label: Rumble picks off Fiddlesticks
+    - at: 14:48
+      label: Rumble eliminates Gwen
+    - at: 16:55
+      label: Sona takes down Gwen
+    - at: 17:58
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 18:28
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 19:46
+      label: Shen kills Fiddlesticks
+      kind: kill
+    - at: 20:09
+      label: Varus Double Kill
+      kind: kill
+    - at: 20:58
+      label: Red takes Baron
+      kind: baron
+    - at: 22:09
+      label: Shen kills Fiddlesticks
+      kind: kill
+    - at: 23:03
+      label: Rumble eliminates Gwen
+    - at: 23:40
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 24:28
+      label: Rumble picks off Fiddlesticks
+    - at: 25:17
+      label: Mid Inhibitor falls (Blue)
+    - at: 25:38
+      label: Top Inhibitor falls (Blue)
 - videoId: vy6bzx6DfGY
   title: Rumble Mid vs Gwen - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1482
   region: KR
+  uploaded: 2025-05-10

@@ -57,8 +57,75 @@
   patch: "25.5"
   durationSec: 1972
   region: EUW
+  uploaded: 2025-03-18
 - videoId: zk1nKpOpjM8
   title: Zed Jungle vs Darius - BR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 2151
+  uploaded: 2025-03-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:55
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 12:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:51
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 30:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:30
+      label: End credit

@@ -58,27 +58,67 @@
   patch: "25.24"
   durationSec: 1559
   region: NA
+  uploaded: 2025-12-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:57
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:08
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:48
+      label: End credit
 - videoId: MtwucOzZfJA
   title: Fizz Mid vs Syndra - EUW Challenger Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2057
   region: EUW
+  uploaded: 2025-11-06
 - videoId: FPriviWNCJA
   title: Fizz vs Syndra Mid - EUW Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2071
   region: EUW
+  uploaded: 2025-10-30
 - videoId: fq2D8lXvAmM
   title: Fizz Mid vs Syndra - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 2047
   region: KR
+  uploaded: 2025-09-16
 - videoId: IUslmCVM260
   title: Fizz Mid vs Syndra - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1607
   region: KR
+  uploaded: 2025-07-12

@@ -5,9 +5,55 @@
   patch: "25.8"
   durationSec: 1732
   region: KR
+  uploaded: 2025-05-02
 - videoId: 6ageG_txU-Q
   title: Xin Zhao Mid vs Qiyana - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1598
   region: KR
+  uploaded: 2025-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Take down The Turret
+      kind: tower
+    - at: 16:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Take down The Turret
+      kind: tower
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:12
+      label: Take down The Turret
+      kind: tower
+    - at: 25:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:17
+      label: End credit

@@ -55,6 +55,7 @@
   patch: "26.10"
   durationSec: 1842
   region: KR
+  uploaded: 2026-05-16
 - videoId: t9pnRh3ourA
   title: Ahri Top vs Irelia - EUW Master Patch 26.09
   rankClaim: Master
@@ -111,9 +112,11 @@
   patch: "25.18"
   durationSec: 1935
   region: KR
+  uploaded: 2025-09-16
 - videoId: wNI3oVksr54
   title: Ahri vs Irelia Top - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1831
   region: KR
+  uploaded: 2025-03-28

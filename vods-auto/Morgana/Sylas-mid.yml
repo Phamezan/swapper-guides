@@ -5,3 +5,46 @@
   patch: "26.10"
   durationSec: 1636
   region: KR
+  uploaded: 2026-05-21
+  result: L
+  moments:
+    - at: 3:08
+      label: First Blood — Lee Sin kills Sylas
+      kind: kill
+    - at: 7:01
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 9:01
+      label: Lee Sin picks off Sylas
+    - at: 12:38
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 13:07
+      label: Morgana eliminates Sylas
+    - at: 13:45
+      label: Morgana kills Teemo
+      kind: kill
+    - at: 15:30
+      label: Smolder kills Sylas
+      kind: kill
+    - at: 18:38
+      label: Red takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 18:58
+      label: Smolder picks off Neeko
+    - at: 20:24
+      label: Morgana eliminates Sylas
+    - at: 23:52
+      label: Red takes 4th Dragon (Chemtech)
+      kind: dragon
+    - at: 24:14
+      label: Smolder kills Sylas
+      kind: kill
+    - at: 24:25
+      label: Red takes Baron
+      kind: baron
+    - at: 24:49
+      label: Lee Sin eliminates Teemo
+    - at: 26:21
+      label: Smolder Double Kill
+      kind: kill

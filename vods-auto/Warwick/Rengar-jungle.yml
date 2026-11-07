@@ -5,21 +5,95 @@
   patch: "25.21"
   durationSec: 1551
   region: KR
+  uploaded: 2025-11-05
 - videoId: 9rzGtpL09Pk
   title: Warwick Jungle vs Rengar - NA Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1969
   region: NA
+  uploaded: 2025-10-07
 - videoId: riGnZV4aVEE
   title: Warwick Jungle vs Rengar - NA Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1819
   region: NA
+  uploaded: 2025-09-23
 - videoId: bBaQ3Ep1zEA
   title: Warwick Jungle vs Rengar - NA Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1591
   region: NA
+  uploaded: 2025-04-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:25
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Take down The Turret
+      kind: tower
+    - at: 18:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:47
+      label: Hunt The Atakhan
+    - at: 21:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:10
+      label: End credit

@@ -5,15 +5,125 @@
   patch: "26.9"
   durationSec: 1626
   region: KR
+  uploaded: 2026-05-05
 - videoId: WHm6YKgyMgY
   title: Pyke Support vs Anivia - EUW Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1532
   region: EUW
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Take down The Turret
+      kind: tower
+    - at: 20:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Take down The Turret
+      kind: tower
+    - at: 23:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:04
+      label: Take down The Inhibitor
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:21
+      label: End credit
 - videoId: TqMJlC6LixU
   title: Pyke Support vs Anivia - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1715
   region: KR
+  uploaded: 2025-03-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:27
+      label: Take down The Turret
+      kind: tower
+    - at: 16:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: Take down The Turret
+      kind: tower
+    - at: 26:35
+      label: Take down The Inhibitor
+    - at: 26:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:14
+      label: End credit

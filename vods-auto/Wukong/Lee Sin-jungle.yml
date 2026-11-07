@@ -6,6 +6,7 @@
   durationSec: 1538
   region: EUW
   player: TLNP Spooder
+  uploaded: 2026-07-20
 - videoId: z_BYg0f6Qs4
   title: (T1 Peyz) Wukong Jungle vs Lee Sin - KR Challenger Patch 26.12
   rankClaim: Challenger
@@ -14,6 +15,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-06-13
 - videoId: YGhBNnPGffU
   title: (BLG Viper) Wukong Jungle vs Lee Sin - KR Challenger Patch 26.11
   rankClaim: Challenger
@@ -22,36 +24,155 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-06-11
 - videoId: sopQWa-8OwI
   title: Wukong Jungle vs Lee Sin - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1561
   region: KR
+  uploaded: 2026-05-08
 - videoId: 0hv26VWJFME
   title: Wukong Jungle vs Lee Sin - NA Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1711
   region: NA
+  uploaded: 2026-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:29
+      label: Take down The Turret
+      kind: tower
+    - at: 22:54
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:40
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 26:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:52
+      label: Take down The Turret
+      kind: tower
+    - at: 27:13
+      label: Take down The Inhibitor
+    - at: 27:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:18
+      label: End credit
 - videoId: 4vGW4C2PPoQ
   title: Wukong Jungle vs Lee Sin - KR Master Patch 26.05
   rankClaim: Master
   patch: "26.5"
   durationSec: 1912
   region: KR
+  uploaded: 2026-03-10
 - videoId: dn-naDhCpjM
   title: Wukong Jungle vs Lee Sin - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1613
   region: KR
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:36
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:13
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Take down The Turret
+      kind: tower
+    - at: 23:59
+      label: Take down The Inhibitor
+    - at: 24:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: End credit
 - videoId: UZTiWd3GzO4
   title: Wukong Jungle vs Lee Sin - KR Challenger Patch 25.20
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1435
   region: KR
+  uploaded: 2025-10-13
 - videoId: bwWAdkGjCFk
   title: Wukong vs Lee Sin Jungle [ HLE Peanut ] Patch 25.18 Korea Grandmaster
   rankClaim: Grandmaster
@@ -60,6 +181,7 @@
   region: KR
   player: Peanut
   team: HLE
+  uploaded: 2025-09-18
 - videoId: aSG3HqtWQUY
   title: T1 Oner Wukong vs Lee Sin [ Jungle ] Korea Challenger Patch 25.1 ✅
   rankClaim: Challenger
@@ -68,3 +190,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-01-23

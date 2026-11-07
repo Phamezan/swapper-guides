@@ -6,3 +6,46 @@
   durationSec: 1770
   region: EUW
   player: BDG Ronaldo
+  uploaded: 2026-07-26
+  result: L
+  moments:
+    - at: 4:48
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 5:05
+      label: First Blood — Zilean kills Kai'Sa
+      kind: kill
+    - at: 9:31
+      label: Hecarim picks off Qiyana
+    - at: 10:17
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 10:58
+      label: Hecarim kills Twisted Fate
+      kind: kill
+    - at: 11:24
+      label: Zilean eliminates Qiyana
+    - at: 15:08
+      label: Hecarim picks off Qiyana
+    - at: 15:48
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 17:35
+      label: Zilean picks off Taliyah
+    - at: 19:33
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:01
+      label: Janna kills Taliyah
+      kind: kill
+    - at: 20:59
+      label: Red takes 4th Dragon (Hextech)
+      kind: dragon
+    - at: 21:18
+      label: Vayne picks off Twisted Fate
+    - at: 22:11
+      label: Zilean picks off Taliyah
+    - at: 26:17
+      label: Mid Inhibitor falls (Blue)
+    - at: 27:16
+      label: Vayne picks off Twisted Fate

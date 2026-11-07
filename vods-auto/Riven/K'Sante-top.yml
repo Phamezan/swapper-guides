@@ -119,15 +119,67 @@
   cam: true
   startSec: 22215
   endSec: 24432
-- videoId: YIp2EulV1Dc
-  title: Riven Top vs K'Sante - KR Master Patch 25.24
-  rankClaim: Master
-  patch: "25.24"
-  durationSec: 1608
-  region: KR
 - videoId: -ecRXfiOZEs
   title: Riven vs KSante Top - NA Challenger - Patch 25.24 Season 15
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1876
   region: NA
+  uploaded: 2025-12-26
+- videoId: YIp2EulV1Dc
+  title: Riven Top vs K'Sante - KR Master Patch 25.24
+  rankClaim: Master
+  patch: "25.24"
+  durationSec: 1608
+  region: KR
+  uploaded: 2025-12-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:34
+      label: Take down The Turret
+      kind: tower
+    - at: 19:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:23
+      label: Take down The Turret
+      kind: tower
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:13
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:49
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:37
+      label: End credit

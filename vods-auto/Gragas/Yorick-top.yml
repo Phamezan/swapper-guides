@@ -5,3 +5,54 @@
   patch: "25.24"
   durationSec: 1537
   region: EUW
+  uploaded: 2025-12-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:44
+      label: Take down The Turret
+      kind: tower
+    - at: 15:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:14
+      label: Take down The Turret
+      kind: tower
+    - at: 18:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Take down The Turret
+      kind: tower
+    - at: 25:26
+      label: End credit

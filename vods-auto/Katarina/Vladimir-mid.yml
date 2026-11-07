@@ -13,27 +13,32 @@
   patch: "26.5"
   durationSec: 1561
   region: EUW
-- videoId: skTLdha_1rU
-  title: Katarina Mid vs Vladimir - KR Grandmaster Patch 25.14
-  rankClaim: Grandmaster
-  patch: "25.14"
-  durationSec: 2000
-  region: KR
+  uploaded: 2026-03-10
 - videoId: BYrJnt0Krsk
   title: Katarina vs Vladimir Mid - KR Grandmaster - Patch 25.14 Season 15
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1996
   region: KR
+  uploaded: 2025-07-24
+- videoId: skTLdha_1rU
+  title: Katarina Mid vs Vladimir - KR Grandmaster Patch 25.14
+  rankClaim: Grandmaster
+  patch: "25.14"
+  durationSec: 2000
+  region: KR
+  uploaded: 2025-07-24
 - videoId: bpwxoIx_2PQ
   title: Katarina vs Vladimir Mid - KR Master - Patch 25.13 Season 15
   rankClaim: Master
   patch: "25.13"
   durationSec: 1691
   region: KR
+  uploaded: 2025-06-28
 - videoId: TEy4qlv0HfE
   title: Katarina vs Vladimir Mid - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1626
   region: KR
+  uploaded: 2025-03-13

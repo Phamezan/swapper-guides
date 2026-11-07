@@ -4,33 +4,103 @@
   rankClaim: Challenger
   patch: "26.8"
   durationSec: 1747
+  uploaded: 2026-04-24
 - videoId: Tko1UBS7oUk
   title: Teemo vs Aatrox [ TOP ] Lol Korea Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1830
   region: KR
+  uploaded: 2025-08-17
 - videoId: QxvkPRcL8Ok
   title: Teemo vs Aatrox [ TOP ] Lol Korea Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1502
   region: KR
+  uploaded: 2025-06-22
 - videoId: qybh88NEmEI
   title: Teemo Top vs Aatrox - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1877
   region: KR
+  uploaded: 2025-05-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:42
+      label: Take down The Turret
+      kind: tower
+    - at: 14:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:48
+      label: Take down The Turret
+      kind: tower
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:44
+      label: Take down The Turret
+      kind: tower
+    - at: 27:02
+      label: Take down The Inhibitor
+    - at: 27:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:56
+      label: End credit
 - videoId: rV3qK3szE3o
   title: Teemo Top vs Aatrox - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1958
   region: KR
+  uploaded: 2025-04-10
 - videoId: BjT82Q9jh4U
   title: Teemo vs Aatrox [ TOP ] Patch 25.2 Korea Grandmaster ✅
   rankClaim: Grandmaster
   patch: "25.2"
   durationSec: 1784
   region: KR
+  uploaded: 2025-01-29

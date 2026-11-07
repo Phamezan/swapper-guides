@@ -58,9 +58,75 @@
   patch: "26.1"
   durationSec: 1475
   region: KR
+  uploaded: 2026-01-16
 - videoId: W5kajPK2ids
   title: Mordekaiser Top vs Malphite - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 2047
   region: KR
+  uploaded: 2025-04-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:38
+      label: Take down The Turret
+      kind: tower
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:29
+      label: Take down The Turret
+      kind: tower
+    - at: 18:25
+      label: Take down The Turret
+      kind: tower
+    - at: 22:05
+      label: Take down The Inhibitor
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:40
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:42
+      label: Get a Triple Kill
+      kind: kill
+    - at: 31:03
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 31:35
+      label: Take down The Turret
+      kind: tower
+    - at: 33:46
+      label: End credit

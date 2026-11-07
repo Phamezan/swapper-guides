@@ -16,49 +16,89 @@
   region: KR
   player: Doran
   team: T1
+  uploaded: 2026-08-18
 - videoId: 64kxC2FCHMs
   title: Jax Top vs Ambessa - NA Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1885
   region: NA
+  uploaded: 2026-02-22
 - videoId: fXVJdfN6fRU
   title: Jax Top vs Ambessa - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1469
   region: KR
-- videoId: hy52kfXZ7CI
-  title: Jax Top vs Ambessa - KR Challenger Patch 25.21
-  rankClaim: Challenger
-  patch: "25.21"
-  durationSec: 1450
-  region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Take down The Turret
+      kind: tower
+    - at: 14:17
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:15
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 21:53
+      label: Take down The Turret
+      kind: tower
+    - at: 22:49
+      label: Take down The Turret
+      kind: tower
+    - at: 23:05
+      label: Take down The Inhibitor
+    - at: 23:15
+      label: Take down The Turret
+      kind: tower
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: End credit
 - videoId: DQvPSWZtcUQ
   title: Jax vs Ambessa [ TOP ] Korea Challenger 1630 LP | Patch 25.21
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1604
   region: KR
+  uploaded: 2025-10-27
+- videoId: hy52kfXZ7CI
+  title: Jax Top vs Ambessa - KR Challenger Patch 25.21
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1450
+  region: KR
+  uploaded: 2025-10-24
 - videoId: mWZuquGjyDA
   title: Jax vs Ambessa Top - KR Challenger - Patch 25.19 Season 15
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 2236
   region: KR
+  uploaded: 2025-09-27
 - videoId: R2hoPZdtzKo
   title: Jax Top vs Ambessa - KR Challenger Patch 25.14
   rankClaim: Challenger
   patch: "25.14"
   durationSec: 1573
   region: KR
-- videoId: 3X6JZK_UCd8
-  title: Zeus Jax vs Ambessa Top - KR Challenger - Patch 25.11 Season 15
-  rankClaim: Challenger
-  patch: "25.11"
-  durationSec: 1561
-  region: KR
-  player: Zeus
+  uploaded: 2025-07-18
 - videoId: ApG2EsWCPTQ
   title: HLE Zeus Jax vs Ambessa TOP [ Quadra Kill ] Korea Challenger Patch 25.11
   rankClaim: Challenger
@@ -67,3 +107,12 @@
   region: KR
   player: Zeus
   team: HLE
+  uploaded: 2025-06-11
+- videoId: 3X6JZK_UCd8
+  title: Zeus Jax vs Ambessa Top - KR Challenger - Patch 25.11 Season 15
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 1561
+  region: KR
+  player: Zeus
+  uploaded: 2025-06-10

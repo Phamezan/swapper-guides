@@ -5,9 +5,78 @@
   patch: "26.1"
   durationSec: 1771
   region: KR
+  uploaded: 2026-01-10
 - videoId: vObxHFnn3sw
   title: Rek'Sai Jungle vs Vi - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1871
   region: KR
+  uploaded: 2025-03-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:11
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:54
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:50
+      label: Take down The Turret
+      kind: tower
+    - at: 29:16
+      label: Take down The Inhibitor
+    - at: 29:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:50
+      label: End credit

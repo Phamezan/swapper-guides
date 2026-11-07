@@ -5,3 +5,49 @@
   patch: "26.13"
   durationSec: 1549
   region: KR
+  uploaded: 2026-07-12
+  result: L
+  moments:
+    - at: 1:39
+      label: First Blood — Nidalee kills Renekton
+      kind: kill
+    - at: 7:24
+      label: Nidalee catches Renekton
+    - at: 9:46
+      label: Nidalee outduels Renekton again
+    - at: 11:18
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:08
+      label: Nidalee outduels Diana
+    - at: 12:20
+      label: Locke eliminates Galio
+    - at: 13:19
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 14:06
+      label: Qiyana picks off Galio
+    - at: 14:27
+      label: Nidalee picks off Yasuo
+    - at: 14:52
+      label: Morgana eliminates Yuumi
+    - at: 16:28
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 18:10
+      label: Qiyana takes down Diana
+    - at: 21:18
+      label: Red takes Baron
+      kind: baron
+    - at: 22:00
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:49
+      label: Bot Inhibitor falls (Blue)
+    - at: 23:25
+      label: Qiyana takes down Diana
+    - at: 24:11
+      label: Mid Inhibitor falls (Blue)
+    - at: 24:36
+      label: Locke Double Kill
+      kind: kill

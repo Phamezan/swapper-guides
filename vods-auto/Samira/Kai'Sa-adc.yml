@@ -5,52 +5,68 @@
   patch: "26.18"
   durationSec: 1462
   region: EUW
+  uploaded: 2026-09-16
 - videoId: pvTZ-MukTRw
   title: Samira ADC vs Kai'Sa - NA Master Patch 26.17
   rankClaim: Master
   patch: "26.17"
   durationSec: 1453
   region: NA
+  uploaded: 2026-09-01
+- videoId: rWLplIM0QoM
+  title: "Rank 1 Samira : His DAMAGE is Total Destruction - Engsub ( vs Tris, Kai'sa )"
+  rankClaim: Master+
+  patch: "26.16"
+  durationSec: 1494
+  patchEstimated: true
+  uploaded: 2026-08-21
+  format: stream
 - videoId: q1sIj72zgbI
   title: Samira ADC vs Kai'Sa - EUW Grandmaster Patch 26.14
   rankClaim: Grandmaster
   patch: "26.14"
   durationSec: 1868
   region: EUW
+  uploaded: 2026-07-24
 - videoId: j5QmGgz2ouY
   title: "SAMIRA & Rell vs KAI'SA & Seraphine (ADC) | Perfect KDA: 25/0/4 | EUW Master | 26.13"
   rankClaim: Master
   patch: "26.13"
   durationSec: 1326
   region: EUW
+  uploaded: 2026-06-27
 - videoId: 63PzvLkYHZk
   title: "SAMIRA & Braum vs KAI'SA & Soraka (ADC) | Perfect KDA: 21/0/3 | EUW Master | 26.12"
   rankClaim: Master
   patch: "26.12"
   durationSec: 1599
   region: EUW
+  uploaded: 2026-06-13
 - videoId: _SHEWmz0Tfk
   title: "SAMIRA & Leona vs KAI'SA & Nautilus (ADC) | Good KDA: 31/4/6, 53K damage | EUW Master | 26.11"
   rankClaim: Master
   patch: "26.11"
   durationSec: 1441
   region: EUW
+  uploaded: 2026-06-10
 - videoId: g9TPgGEkIfQ
   title: "SAMIRA & Pyke vs KAI'SA & Milio (ADC) | Perfect KDA: 26/0/3 | TR Challenger | 26.10"
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1580
-- videoId: g4-x0oE3bgw
-  title: Samira ADC vs Kai'Sa - KR Grandmaster Patch 26.10
-  rankClaim: Grandmaster
-  patch: "26.10"
-  durationSec: 1628
-  region: KR
+  uploaded: 2026-05-28
 - videoId: fit7x6Nm1xU
   title: Samira vs Kai'Sa ADC - KR Challenger - Patch 16.10 Season 16
   rankClaim: Challenger
   patch: "26.10"
   durationSec: 1621
+  region: KR
+  uploaded: 2026-05-20
+- videoId: g4-x0oE3bgw
+  title: Samira ADC vs Kai'Sa - KR Grandmaster Patch 26.10
+  rankClaim: Grandmaster
+  patch: "26.10"
+  durationSec: 1628
   region: KR
   uploaded: 2026-05-20
 - videoId: wwJLMsWZ83g
@@ -59,12 +75,14 @@
   patch: "26.9"
   durationSec: 1555
   region: EUW
+  uploaded: 2026-05-14
 - videoId: Wc74i_jiA-8
   title: "SAMIRA & Thresh vs KAI'SA & Nautilus (ADC) | Good KDA: 25/1/8 | EUW Master | 26.8"
   rankClaim: Master
   patch: "26.8"
   durationSec: 1194
   region: EUW
+  uploaded: 2026-04-25
 - videoId: GWSGD_mcDJ0
   title: Samira vs Kai'Sa ADC - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -78,230 +96,269 @@
   patch: "26.7"
   durationSec: 2148
   region: EUW
+  uploaded: 2026-04-09
 - videoId: 3q3HVtJz0Do
   title: SAMIRA & Poppy vs KAI'SA & Pyke (ADC) | 97K damage, 5k gold comeback | EUW Master | 26.6
   rankClaim: Master
   patch: "26.6"
   durationSec: 2183
   region: EUW
+  uploaded: 2026-04-01
 - videoId: pLusu09tUTs
   title: SAMIRA & Alistar vs KAI'SA & Morgana (ADC) | 63K damage, 6k gold comeback | EUNE Master | 26.2
   rankClaim: Master
   patch: "26.2"
   durationSec: 2410
   region: EUNE
+  uploaded: 2026-01-28
 - videoId: zfTEss8DAAc
   title: "SAMIRA & Nautilus vs KAI'SA & Pyke (ADC) | 72K damage, Good KDA: 34/5/10 | EUW Grandmaster | 26.2"
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1960
   region: EUW
+  uploaded: 2026-01-24
 - videoId: mMUPIAN5bHs
   title: Samira ADC vs Kai'Sa - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1476
   region: NA
+  uploaded: 2026-01-08
 - videoId: e3Hxcu1swIw
   title: "SAMIRA & Nautilus vs KAI'SA & Rakan (ADC) | Good KDA: 29/1/6, 81K damage | EUW Master | 25.24"
   rankClaim: Master
   patch: "25.24"
   durationSec: 1731
   region: EUW
+  uploaded: 2025-12-26
 - videoId: skOG5bXXnK0
   title: "SAMIRA & Nautilus vs KAI'SA & Morgana (ADC) | Good KDA: 27/1/1 | KR Master | 25.24"
   rankClaim: Master
   patch: "25.24"
   durationSec: 1232
   region: KR
+  uploaded: 2025-12-16
 - videoId: 8PDrCoXWqt4
   title: SAMIRA & Thresh vs KAI'SA & Leona (ADC) | 36/1/4, 78K damage | EUW Master | 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1433
   region: EUW
+  uploaded: 2025-12-12
 - videoId: xqbAzzbvlu0
   title: SAMIRA & Blitzcrank vs KAI'SA & Pyke (ADC) | 8k comeback | KR Master | 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 2386
   region: KR
+  uploaded: 2025-12-04
 - videoId: KpX7GdiXHME
   title: SAMIRA & Bel'Veth vs KAI'SA & Nautilus (ADC) | 12/2/5 | KR Master | 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 863
   region: KR
+  uploaded: 2025-11-30
 - videoId: YjJxViljXIg
   title: Samira ADC vs Kai'Sa - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1643
   region: KR
+  uploaded: 2025-11-27
 - videoId: -EJsTWKWaeg
   title: SAMIRA & Elise vs KAI'SA & Rakan (ADC) | 12/2/2 | KR Challenger | 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1248
   region: KR
+  uploaded: 2025-11-17
 - videoId: MNtb5n8nSBI
   title: SAMIRA & Janna vs KAI'SA & Braum (ADC) | 16/1/4, Quadra, Legendary | EUW Master | 25.22
   rankClaim: Master
   patch: "25.22"
   durationSec: 1583
   region: EUW
+  uploaded: 2025-11-15
 - videoId: FckjmaCn9D4
   title: Samira vs Kai'Sa ADC - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1321
   region: KR
+  uploaded: 2025-11-04
 - videoId: T56OARTKlWI
   title: SAMIRA & Thresh vs KAI'SA & Blitzcrank (ADC) | 18/5/8, Dominating | KR Master | 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1484
   region: KR
+  uploaded: 2025-11-03
 - videoId: 7NPNZYWeeuA
   title: SAMIRA & Galio vs KAI'SA & Neeko (ADC) | Legendary, 16/2/2 | KR Master | 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1384
   region: KR
+  uploaded: 2025-09-24
 - videoId: Giqipy-NV94
   title: SAMIRA & Poppy vs KAI'SA & Alistar (ADC) | Dominating | EUW Master | 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1874
   region: EUW
+  uploaded: 2025-09-22
 - videoId: ApFLk5z-lIQ
   title: SAMIRA & Pantheon vs KAI'SA & Elise (ADC) | 15/1/9, Legendary | BR Grandmaster | 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1336
+  uploaded: 2025-09-16
 - videoId: 9HxxX7q4Sp4
   title: Samira ADC vs Kai'Sa - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1713
   region: KR
+  uploaded: 2025-09-06
 - videoId: AU24gCzCJjc
   title: Samira ADC vs Kai'Sa - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1651
   region: KR
+  uploaded: 2025-08-21
 - videoId: Ua6D-cAf8Kk
   title: SAMIRA & Alistar vs KAI'SA & Poppy (ADC) | KR Master | 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1796
   region: KR
+  uploaded: 2025-08-04
 - videoId: IMV2ptOXSjQ
   title: SAMIRA & Poppy vs KAI'SA & Alistar (ADC) | NA Grandmaster | 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 2107
   region: NA
+  uploaded: 2025-07-14
 - videoId: GAwUS3NAXk4
   title: SAMIRA & Nautilus vs KAI'SA & Sona (ADC) | EUW Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1634
   region: EUW
+  uploaded: 2025-07-03
 - videoId: g3QIGLAk8RQ
   title: SAMIRA & Thresh vs KAI'SA & Rell (ADC) | Legendary | EUW Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 2094
   region: EUW
+  uploaded: 2025-07-01
 - videoId: v08GAeeYut4
   title: SAMIRA & Rell vs KAI'SA & Pyke (ADC) | Quadra, 19/3/10, Godlike | EUW Master | 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1688
   region: EUW
+  uploaded: 2025-06-21
 - videoId: Kb_Md4u08Ks
   title: SAMIRA & Nautilus vs KAI'SA & Braum (ADC) | Quadra, 24/3/8, Legendary | KR Master | 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1650
   region: KR
+  uploaded: 2025-06-20
 - videoId: fbqu_oVss3k
   title: SAMIRA & Rakan vs KAI'SA & Sett (ADC) | Legendary, 500+ games | KR Grandmaster | 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1438
   region: KR
+  uploaded: 2025-06-17
 - videoId: s16WOdh57TM
   title: SAMIRA & Nautilus vs KAI'SA & Braum (ADC) | Dominating | KR Master | 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1979
   region: KR
+  uploaded: 2025-06-12
 - videoId: 8n3psfpyVvU
   title: SAMIRA & Nautilus vs KAI'SA & Rakan (ADC) | Legendary | EUW Master | 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1439
   region: EUW
-- videoId: wIKfXDS1UKo
-  title: SAMIRA & Rell vs KAI'SA & Braum (ADC) | Penta, Legendary | EUW Master | 25.10
-  rankClaim: Master
-  patch: "25.10"
-  durationSec: 1181
-  region: EUW
+  uploaded: 2025-05-28
 - videoId: BBFVHlyfKlA
   title: Samira ADC vs Kai'Sa - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1603
   region: KR
+  uploaded: 2025-05-21
+- videoId: wIKfXDS1UKo
+  title: SAMIRA & Rell vs KAI'SA & Braum (ADC) | Penta, Legendary | EUW Master | 25.10
+  rankClaim: Master
+  patch: "25.10"
+  durationSec: 1181
+  region: EUW
+  uploaded: 2025-05-18
 - videoId: M2WSYdtc1-I
   title: Samira ADC vs Kai'Sa - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1853
   region: KR
+  uploaded: 2025-05-09
 - videoId: NL14WT19Zl8
   title: SAMIRA & Alistar vs KAI'SA & Lulu (ADC) | EUNE Grandmaster | 25.8
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1329
   region: EUNE
+  uploaded: 2025-04-29
 - videoId: xxpHLdye2Nc
   title: SAMIRA & Rell vs KAI'SA & Leona (ADC) | 12/2/2, Legendary | KR Master | 25.8
   rankClaim: Master
   patch: "25.8"
   durationSec: 877
   region: KR
+  uploaded: 2025-04-19
 - videoId: RODuChvmyXQ
   title: SAMIRA & Nautilus vs KAI'SA & Rakan (ADC) | Legendary | KR Master | 25.6
   rankClaim: Master
   patch: "25.6"
   durationSec: 1856
   region: KR
+  uploaded: 2025-03-22
 - videoId: 0Z4L1OQ6ww0
   title: SAMIRA & Elise vs KAI'SA & Pyke (ADC) | 800+ games | KR Master | 25.5
   rankClaim: Master
   patch: "25.5"
   durationSec: 1175
   region: KR
+  uploaded: 2025-03-20
 - videoId: JUmo1KrBkXU
   title: SAMIRA & Neeko vs KAI'SA & Rell (ADC) | Quadra, 21/3/7, Legendary | KR Master | 25.5
   rankClaim: Master
   patch: "25.5"
   durationSec: 1631
   region: KR
+  uploaded: 2025-03-19
 - videoId: bgv_3ngFoRQ
   title: Samira ADC vs Kai'Sa - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1565
   region: KR
+  uploaded: 2025-03-13
 - videoId: v3gIpROYjLA
   title: SAMIRA & Thresh vs KAI'SA & Janna (ADC) | Godlike | EUNE Master | 25.4
   rankClaim: Master
   patch: "25.4"
   durationSec: 1896
   region: EUNE
+  uploaded: 2025-03-03

@@ -5,9 +5,62 @@
   patch: "26.12"
   durationSec: 1656
   region: KR
+  uploaded: 2026-06-19
 - videoId: Z9Lq4xaAvP8
   title: Amumu Jungle vs Sejuani - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1527
   region: KR
+  uploaded: 2025-12-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:01
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:22
+      label: Hunt The Atakhan
+    - at: 22:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:48
+      label: Take down The Inhibitor
+    - at: 25:16
+      label: End credit

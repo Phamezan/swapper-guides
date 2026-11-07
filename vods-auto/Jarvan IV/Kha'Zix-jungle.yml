@@ -6,6 +6,7 @@
   durationSec: 1738
   region: KR
   player: TSW Hizto
+  uploaded: 2026-09-10
 - videoId: h9eF7G_r_2k
   title: (MKOI Elyoya) Jarvan IV Jungle vs Kha'Zix - EUW Master Patch 26.14
   rankClaim: Master
@@ -13,15 +14,68 @@
   durationSec: 1616
   region: EUW
   player: MKOI Elyoya
+  uploaded: 2026-07-19
 - videoId: KBMxdRNPn0k
   title: Jarvan IV Jungle vs Kha'Zix - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1777
   region: KR
+  uploaded: 2026-03-09
 - videoId: AW8mPPybiZo
   title: Jarvan IV Jungle vs Kha'Zix - KR Master Patch 26.02
   rankClaim: Master
   patch: "26.2"
   durationSec: 1449
   region: KR
+  uploaded: 2026-01-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:16
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:50
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Take down The Turret
+      kind: tower
+    - at: 16:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:58
+      label: End credit

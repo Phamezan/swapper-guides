@@ -5,18 +5,21 @@
   patch: "26.1"
   durationSec: 1576
   region: EUW
+  uploaded: 2026-01-23
 - videoId: k5rxQO6nSAY
   title: Xayah ADC vs Smolder - EUW Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1547
   region: EUW
+  uploaded: 2025-11-07
 - videoId: UTg3a7Fu45Y
   title: Xayah ADC vs Smolder - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 2033
   region: KR
+  uploaded: 2025-10-15
 - videoId: ATm5mZo-9-4
   title: Xayah vs Smolder ADC [ DRX Teddy ] Patch 25.14 Korea Challenger
   rankClaim: Challenger
@@ -25,6 +28,7 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-07-17
 - videoId: 0EdgSHilbPA
   title: "T1 Gumayusi Xayah vs Smolder [ ADC ] Rank #8 Korea Challenger Patch 25.13"
   rankClaim: Challenger
@@ -33,21 +37,25 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-06-25
 - videoId: oCduKZY6c6g
   title: Xayah ADC vs Smolder - KR Challenger Patch 25.12
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1554
   region: KR
+  uploaded: 2025-06-17
 - videoId: 7XksiPaDVgc
   title: Xayah vs Smolder ADC - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1561
   region: KR
+  uploaded: 2025-06-13
 - videoId: 3oWflh_KVxk
   title: Xayah ADC vs Smolder - KR Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1851
   region: KR
+  uploaded: 2025-06-04

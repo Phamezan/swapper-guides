@@ -5,26 +5,74 @@
   patch: "26.8"
   durationSec: 1578
   region: KR
+  uploaded: 2026-04-18
 - videoId: xZiXTf69CYw
   title: Mel Mid vs Sylas - VN Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1472
+  uploaded: 2026-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Take down The Turret
+      kind: tower
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:24
+      label: Take down The Turret
+      kind: tower
+    - at: 23:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:00
+      label: Take down The Inhibitor
+    - at: 24:21
+      label: End credit
 - videoId: dILTgfJQGMI
   title: Mel vs Sylas Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1931
   region: KR
+  uploaded: 2025-04-24
 - videoId: zfY6Vqvm46A
   title: Mel vs Sylas Mid - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1596
   region: KR
+  uploaded: 2025-03-17
 - videoId: tJd8uHHRwyc
   title: Mel vs Sylas Mid - KR Grandmaster - Patch 25.4 Season 15
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1476
   region: KR
+  uploaded: 2025-03-05

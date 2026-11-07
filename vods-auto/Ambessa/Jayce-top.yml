@@ -5,15 +5,127 @@
   patch: "26.8"
   durationSec: 1732
   region: KR
+  uploaded: 2026-04-25
 - videoId: 6NCREsQyc4A
   title: Ambessa Top vs Jayce - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 2050
   region: KR
+  uploaded: 2025-05-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:29
+      label: Take down The Turret
+      kind: tower
+    - at: 16:46
+      label: Take down The Turret
+      kind: tower
+    - at: 19:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Hunt The Atakhan
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:49
+      label: Take down The Turret
+      kind: tower
+    - at: 29:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:55
+      label: Take down The Inhibitor
+    - at: 30:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:38
+      label: Get a Triple Kill
+      kind: kill
+    - at: 32:23
+      label: Take down The Turret
+      kind: tower
+    - at: 33:49
+      label: End credit
 - videoId: p-u1ZtAalTM
   title: Ambessa Top vs Jayce - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1545
   region: KR
+  uploaded: 2025-03-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:28
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Take down The Turret
+      kind: tower
+    - at: 17:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Take down The Turret
+      kind: tower
+    - at: 24:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: Take down The Inhibitor
+    - at: 25:02
+      label: Take down The Turret
+      kind: tower
+    - at: 25:24
+      label: End credit

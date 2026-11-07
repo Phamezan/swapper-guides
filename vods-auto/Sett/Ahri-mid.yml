@@ -5,15 +5,58 @@
   patch: "26.7"
   durationSec: 1875
   region: KR
+  uploaded: 2026-04-14
 - videoId: GmW-7d6QBCc
   title: Sett Mid vs Ahri - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1728
   region: KR
+  uploaded: 2025-10-20
 - videoId: Cqg1TNc-cbI
   title: Sett Mid vs Ahri - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1665
   region: KR
+  uploaded: 2025-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: Take down The Turret
+      kind: tower
+    - at: 26:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:55
+      label: Take down The Inhibitor
+    - at: 27:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:24
+      label: End credit

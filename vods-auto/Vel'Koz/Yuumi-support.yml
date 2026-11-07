@@ -4,3 +4,45 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1789
+  uploaded: 2026-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:27
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:19
+      label: Take down The Turret
+      kind: tower
+    - at: 26:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 28:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:38
+      label: End credit

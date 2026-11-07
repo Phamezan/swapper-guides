@@ -84,13 +84,68 @@
   patch: "25.24"
   durationSec: 1563
   region: NA
+  uploaded: 2025-12-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:29
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:51
+      label: Take down The Turret
+      kind: tower
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:19
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Take down The Turret
+      kind: tower
+    - at: 22:16
+      label: Take down The Inhibitor
+    - at: 22:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:52
+      label: End credit
 - videoId: bM7cvleuOa8
   title: Zed Support vs Soraka - BR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1628
+  uploaded: 2025-10-18
 - videoId: FFAZtNZ7Wn8
   title: Zed Support vs Soraka - VN Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1870
+  uploaded: 2025-06-11

@@ -5,24 +5,28 @@
   patch: "26.18"
   durationSec: 1642
   region: KR
+  uploaded: 2026-09-18
 - videoId: SUI-LtyhaLc
   title: Zoe Mid vs Yone - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1958
   region: KR
+  uploaded: 2025-10-11
 - videoId: bZKMVOdBBcE
   title: Zoe Mid vs Yone - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1844
   region: KR
+  uploaded: 2025-06-28
 - videoId: rxeAYzNC9jc
   title: Zoe vs Yone Mid - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 2566
   region: KR
+  uploaded: 2025-04-26
 - videoId: u4jsL6y7-jQ
   title: ShowMaker Zoe vs Yone Mid - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
@@ -30,6 +34,7 @@
   durationSec: 1621
   region: KR
   player: ShowMaker
+  uploaded: 2025-04-14
 - videoId: USXnUtk0bDs
   title: DK ShowMaker Zoe vs Yone [ MID ] Korea Grandmaster Patch 25.7 ✅
   rankClaim: Grandmaster
@@ -38,9 +43,11 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-04-13
 - videoId: Kp_m9Tql2C0
   title: Zoe Mid vs Yone - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1937
   region: KR
+  uploaded: 2025-03-12

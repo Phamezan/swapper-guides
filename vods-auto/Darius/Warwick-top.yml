@@ -5,21 +5,68 @@
   patch: "26.19"
   durationSec: 1815
   region: KR
+  uploaded: 2026-09-29
+  result: W
+  moments:
+    - at: 0:13
+      label: First Blood — Darius kills Cho'Gath
+      kind: kill
+    - at: 3:11
+      label: Pantheon takes down Cho'Gath
+    - at: 5:02
+      label: Darius catches Warwick
+    - at: 8:08
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 8:27
+      label: Darius outduels Warwick again
+    - at: 13:39
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:21
+      label: Darius outplays Warwick (3rd time)
+    - at: 16:11
+      label: Darius Double Kill
+      kind: kill
+    - at: 18:59
+      label: Red takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 19:30
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:01
+      label: Darius eliminates Blitzcrank
+    - at: 22:44
+      label: Darius picks off Xayah
+    - at: 24:23
+      label: Red takes 3rd Dragon (Hextech)
+      kind: dragon
+    - at: 27:10
+      label: Red takes Baron
+      kind: baron
+    - at: 27:26
+      label: Kai'Sa Double Kill
+      kind: kill
+    - at: 29:22
+      label: Darius picks off Xayah
 - videoId: jTEMmOpZrDM
   title: Darius vs Warwick Top - KR Master - Patch 25.14 Season 15
   rankClaim: Master
   patch: "25.14"
   durationSec: 1666
   region: KR
+  uploaded: 2025-07-28
 - videoId: IDJrobzUteg
   title: Darius Top vs Warwick - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1987
   region: KR
+  uploaded: 2025-06-29
 - videoId: PF61ym40diQ
   title: Darius vs Warwick Top - KR Master - Patch 25.5 Season 15
   rankClaim: Master
   patch: "25.5"
   durationSec: 1690
   region: KR
+  uploaded: 2025-03-18

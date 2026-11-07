@@ -56,9 +56,55 @@
   patch: "26.4"
   durationSec: 1591
   region: EUW
+  uploaded: 2026-02-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:16
+      label: Take down The Turret
+      kind: tower
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:49
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:20
+      label: End credit
 - videoId: 9Cg1gbt_QsY
   title: Malzahar vs Akali [ MID ] Lol Korea Master Patch 25.24 ✅
   rankClaim: Master
   patch: "25.24"
   durationSec: 1537
   region: KR
+  uploaded: 2025-12-15

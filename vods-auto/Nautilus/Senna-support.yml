@@ -6,21 +6,132 @@
   durationSec: 1815
   region: EUW
   player: ROSS Smarty
+  uploaded: 2026-06-16
 - videoId: cKajY-lb7IY
   title: Nautilus Support vs Senna - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1909
   region: KR
+  uploaded: 2026-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:08
+      label: Take down The Turret
+      kind: tower
+    - at: 24:23
+      label: Take down The Inhibitor
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:38
+      label: End credit
 - videoId: 8Es3mJslgsk
   title: Nautilus Support vs Senna - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1548
   region: NA
+  uploaded: 2025-12-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:29
+      label: Take down The Turret
+      kind: tower
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Take down The Turret
+      kind: tower
+    - at: 20:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 20:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Take down The Turret
+      kind: tower
+    - at: 23:54
+      label: Take down The Inhibitor
+    - at: 24:06
+      label: Take down The Turret
+      kind: tower
+    - at: 25:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:37
+      label: End credit
 - videoId: i2UAyc60D5M
   title: Nautilus Support vs Senna - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1604
   region: KR
+  uploaded: 2025-05-17

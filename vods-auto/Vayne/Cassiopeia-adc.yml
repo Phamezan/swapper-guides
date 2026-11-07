@@ -5,6 +5,59 @@
   patch: "25.24"
   durationSec: 1443
   region: KR
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:01
+      label: Take down The Turret
+      kind: tower
+    - at: 16:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Take down The Turret
+      kind: tower
+    - at: 18:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:04
+      label: Take down The Turret
+      kind: tower
+    - at: 19:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:40
+      label: Take down The Turret
+      kind: tower
+    - at: 22:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Take down The Inhibitor
+    - at: 23:52
+      label: End credit
 - videoId: 35dt_325lLI
   title: Vayne vs Cassiopeia ADC [ HLE Viper ] Korea Challenger Patch 25.13
   rankClaim: Challenger
@@ -13,3 +66,4 @@
   region: KR
   player: Viper
   team: HLE
+  uploaded: 2025-07-04

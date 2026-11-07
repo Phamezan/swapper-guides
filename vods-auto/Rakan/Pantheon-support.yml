@@ -5,9 +5,61 @@
   patch: "26.5"
   durationSec: 1602
   region: KR
+  uploaded: 2026-03-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:18
+      label: Take down The Turret
+      kind: tower
+    - at: 26:31
+      label: End credit
 - videoId: Tt5f4vm5Oms
   title: Rakan Support vs Pantheon - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1796
   region: KR
+  uploaded: 2025-10-27

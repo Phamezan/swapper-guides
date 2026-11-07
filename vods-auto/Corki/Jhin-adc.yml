@@ -14,18 +14,21 @@
   patch: "26.8"
   durationSec: 1588
   region: KR
+  uploaded: 2026-04-21
 - videoId: bOBB1pqlCO0
   title: Corki ADC vs Jhin - KR Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1734
   region: KR
+  uploaded: 2026-04-06
 - videoId: 3T7QLkekhiI
   title: Corki ADC vs Jhin - KR Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1529
   region: KR
+  uploaded: 2025-12-08
 - videoId: fS5EgVVXv3w
   title: T1 Gumayusi Corki vs Jhin [ ADC ] Korea Grandmaster Patch 25.19
   rankClaim: Grandmaster
@@ -34,9 +37,75 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-10-08
 - videoId: YM7m2fef1-8
   title: Corki ADC vs Jhin - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1701
   region: KR
+  uploaded: 2025-04-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:54
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Take down The Turret
+      kind: tower
+    - at: 17:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:19
+      label: Take down The Turret
+      kind: tower
+    - at: 22:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:10
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:58
+      label: Take down The Turret
+      kind: tower
+    - at: 26:13
+      label: Take down The Inhibitor
+    - at: 26:31
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:50
+      label: Take down The Turret
+      kind: tower
+    - at: 28:00
+      label: End credit

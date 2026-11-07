@@ -5,21 +5,138 @@
   patch: "26.17"
   durationSec: 1819
   region: KR
+  uploaded: 2026-08-31
 - videoId: wpeWtV6JB3Q
   title: Rammus Jungle vs Lee Sin - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1528
   region: KR
+  uploaded: 2026-05-14
 - videoId: vBd1PS_veDM
   title: Rammus Jungle vs Lee Sin - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1778
   region: KR
+  uploaded: 2025-05-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:14
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:07
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:17
+      label: Take down The Turret
+      kind: tower
+    - at: 18:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 21:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:02
+      label: Hunt The Atakhan
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:06
+      label: Take down The Turret
+      kind: tower
+    - at: 24:26
+      label: Take down The Inhibitor
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:17
+      label: End credit
 - videoId: Cjj93qNGpyY
   title: Rammus Jungle vs Lee Sin - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1595
   region: KR
+  uploaded: 2025-03-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:19
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:14
+      label: End credit

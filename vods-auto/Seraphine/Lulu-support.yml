@@ -113,27 +113,79 @@
   patch: "26.5"
   durationSec: 1718
   region: KR
+  uploaded: 2026-03-18
 - videoId: mN5Us9qy1KQ
   title: Seraphine Support vs Lulu - KR Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1441
   region: KR
+  uploaded: 2026-03-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:52
+      label: Take down The Turret
+      kind: tower
+    - at: 14:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:16
+      label: Take down The Turret
+      kind: tower
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:33
+      label: Take down The Turret
+      kind: tower
+    - at: 23:50
+      label: End credit
 - videoId: 3EtqnF16l8s
   title: Seraphine Support vs Lulu - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1576
   region: KR
+  uploaded: 2026-01-19
 - videoId: 5PSvCsR31Dg
   title: Seraphine Support vs Lulu - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1539
   region: KR
+  uploaded: 2025-09-12
 - videoId: Oxxm9LZijzo
   title: Seraphine Support vs Lulu - KR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1868
   region: KR
+  uploaded: 2025-03-11

@@ -6,3 +6,44 @@
   durationSec: 1701
   region: KR
   player: SSG Tianzhen
+  uploaded: 2026-06-23
+  result: W
+  moments:
+    - at: 1:34
+      label: First Blood — Lux kills Elise
+      kind: kill
+    - at: 1:46
+      label: Jarvan IV catches Camille
+    - at: 4:36
+      label: Galio picks off Elise
+    - at: 10:11
+      label: Caitlyn eliminates Elise
+    - at: 12:15
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 14:53
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 15:46
+      label: Jarvan IV picks off Yone
+    - at: 17:57
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 18:55
+      label: Tryndamere eliminates Camille
+    - at: 21:27
+      label: Mid Inhibitor falls (Red)
+    - at: 22:19
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:33
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 25:06
+      label: Jarvan IV takes down Elise
+    - at: 25:18
+      label: Bot Inhibitor falls (Red)
+    - at: 26:54
+      label: Caitlyn eliminates Elise
+    - at: 27:10
+      label: Top Inhibitor falls (Red)

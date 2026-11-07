@@ -59,26 +59,133 @@
   patch: "26.6"
   durationSec: 1833
   region: NA
+  uploaded: 2026-04-01
 - videoId: u-KY1-JW3Uo
   title: Zed Top vs Kennen - NA Grandmaster Patch 26.04
   rankClaim: Grandmaster
   patch: "26.4"
   durationSec: 1500
   region: NA
+  uploaded: 2026-02-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:26
+      label: Take down The Turret
+      kind: tower
+    - at: 15:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:53
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:26
+      label: Take down The Turret
+      kind: tower
+    - at: 19:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:09
+      label: Take down The Turret
+      kind: tower
+    - at: 22:41
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:49
+      label: End credit
 - videoId: 631qDjYXeUk
   title: Zed Top vs Kennen - KR Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1596
   region: KR
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:50
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:48
+      label: Take down The Turret
+      kind: tower
+    - at: 12:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:47
+      label: Take down The Turret
+      kind: tower
+    - at: 20:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Take down The Turret
+      kind: tower
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:31
+      label: Take down The Turret
+      kind: tower
+    - at: 22:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:51
+      label: Take down The Turret
+      kind: tower
+    - at: 23:23
+      label: Take down The Inhibitor
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: End credit
 - videoId: yKkw8Ek9AiA
   title: Zed Top vs Kennen - NA Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1457
   region: NA
+  uploaded: 2026-02-05
 - videoId: lW1-3vwU7yI
   title: Zed Top vs Kennen - VN Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1678
+  uploaded: 2025-10-02

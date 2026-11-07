@@ -6,21 +6,159 @@
   durationSec: 1756
   region: KR
   player: OMG Moham
+  uploaded: 2026-07-02
 - videoId: 6Op84Dl4RZ4
   title: Rakan Support vs Neeko - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1831
   region: KR
+  uploaded: 2026-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:41
+      label: Take down The Turret
+      kind: tower
+    - at: 12:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:03
+      label: Take down The Turret
+      kind: tower
+    - at: 21:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:41
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:54
+      label: Take down The Turret
+      kind: tower
+    - at: 28:19
+      label: Take down The Inhibitor
+    - at: 28:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:08
+      label: Take down The Turret
+      kind: tower
+    - at: 30:20
+      label: End credit
 - videoId: WXM9meT5gdI
   title: Rakan Support vs Neeko - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1550
   region: KR
+  uploaded: 2025-12-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:17
+      label: Take down The Turret
+      kind: tower
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:39
+      label: End credit
 - videoId: UpsaCAuGxj4
   title: Rakan Support vs Neeko - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1487
   region: KR
+  uploaded: 2025-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Take down The Turret
+      kind: tower
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: End credit

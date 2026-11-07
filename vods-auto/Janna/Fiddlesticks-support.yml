@@ -5,9 +5,63 @@
   patch: "26.1"
   durationSec: 1558
   region: KR
+  uploaded: 2026-01-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:15
+      label: Take down The Turret
+      kind: tower
+    - at: 17:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Take down The Turret
+      kind: tower
+    - at: 22:16
+      label: Take down The Inhibitor
+    - at: 23:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Take down The Turret
+      kind: tower
+    - at: 24:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: End credit
 - videoId: YNZlqOmw6u4
   title: Janna Support vs Fiddlesticks - EUW Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1495
   region: EUW
+  uploaded: 2025-08-15

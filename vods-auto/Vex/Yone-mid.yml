@@ -5,6 +5,7 @@
   patch: "26.18"
   durationSec: 1718
   region: KR
+  uploaded: 2026-09-15
 - videoId: fkYkzAMuRF0
   title: T1 Faker Vex vs Yone [ MID ] Korea Grandmaster 1788 LP | Patch 26.16
   rankClaim: Grandmaster
@@ -22,27 +23,147 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2026-02-19
 - videoId: BtwhsLp2FfU
   title: Vex vs Yone Mid - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1831
   region: KR
+  uploaded: 2025-11-18
 - videoId: 6VBuY2qRMYs
   title: Vex Mid vs Yone - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1753
   region: EUW
+  uploaded: 2025-05-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:47
+      label: Get a Triple Kill
+      kind: kill
+    - at: 12:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Take down The Turret
+      kind: tower
+    - at: 19:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:26
+      label: Take down The Turret
+      kind: tower
+    - at: 20:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:58
+      label: Take down The Turret
+      kind: tower
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:24
+      label: Take down The Turret
+      kind: tower
+    - at: 28:52
+      label: End credit
 - videoId: QlnL34a2vQ8
   title: Vex Mid vs Yone - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1630
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Take down The Turret
+      kind: tower
+    - at: 21:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Take down The Turret
+      kind: tower
+    - at: 26:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:49
+      label: End credit
 - videoId: bmw8-61IWa0
   title: Vex Mid vs Yone - KR Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1686
   region: KR
+  uploaded: 2025-03-26

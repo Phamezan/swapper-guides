@@ -8,3 +8,12 @@
   player: Faker
   team: T1
   uploaded: 2026-10-02
+- videoId: VoZP1GVKf0w
+  title: "Rank 1 Cassiopeia : This Dude is CRUSHING Super Server Ekko"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1397
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-23
+  format: stream

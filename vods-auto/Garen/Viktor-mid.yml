@@ -5,9 +5,60 @@
   patch: "26.11"
   durationSec: 1790
   region: KR
+  uploaded: 2026-06-11
+  result: W
+  moments:
+    - at: 3:11
+      label: First Blood — Garen kills Viktor
+      kind: kill
+    - at: 5:29
+      label: Red takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 11:01
+      label: Garen Triple Kill
+      kind: kill
+    - at: 12:25
+      label: Garen takes down Lulu
+    - at: 14:34
+      label: Jhin Double Kill
+      kind: kill
+    - at: 14:55
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 15:54
+      label: Garen outplays Ornn
+    - at: 18:09
+      label: Jhin Double Kill
+      kind: kill
+    - at: 20:16
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 22:08
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:40
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:25
+      label: Garen takes down Viktor
+    - at: 23:55
+      label: Bot Inhibitor falls (Red)
+    - at: 24:40
+      label: Garen catches Viktor again
+    - at: 25:13
+      label: Jhin eliminates Xin Zhao
+    - at: 25:29
+      label: Blue takes 3rd Dragon (Ocean)
+      kind: dragon
+    - at: 27:04
+      label: Mid Inhibitor falls (Red)
+    - at: 28:42
+      label: Garen kills Zeri
+      kind: kill
 - videoId: D5GldyQvsvI
   title: Garen Mid vs Viktor - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1884
   region: KR
+  uploaded: 2025-08-27

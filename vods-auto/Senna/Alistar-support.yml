@@ -5,3 +5,85 @@
   patch: "25.4"
   durationSec: 1927
   region: KR
+  uploaded: 2025-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Take down The Turret
+      kind: tower
+    - at: 15:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:03
+      label: Take down The Turret
+      kind: tower
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:48
+      label: Hunt The Atakhan
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Take down The Turret
+      kind: tower
+    - at: 22:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:54
+      label: Take down The Turret
+      kind: tower
+    - at: 30:10
+      label: Take down The Inhibitor
+    - at: 30:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:20
+      label: Take down The Turret
+      kind: tower
+    - at: 31:46
+      label: End credit

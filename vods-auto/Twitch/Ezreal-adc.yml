@@ -6,6 +6,7 @@
   durationSec: 1781
   region: EUW
   player: DYN bakisa
+  uploaded: 2026-08-06
 - videoId: BZA2xHt8BVE
   title: (ZZG bakisa) Twitch ADC vs Ezreal - EUW Challenger Patch 26.13
   rankClaim: Challenger
@@ -13,18 +14,21 @@
   durationSec: 1785
   region: EUW
   player: ZZG bakisa
+  uploaded: 2026-07-07
 - videoId: 9HljTh8kJlo
   title: Twitch vs Ezreal [ ADC ] Korea Grandmaster 1347 LP | Patch 26.5 ✅
   rankClaim: Grandmaster
   patch: "26.5"
   durationSec: 2150
   region: KR
+  uploaded: 2026-03-11
 - videoId: UGZoGPKYr1w
   title: Twitch vs Ezreal [ ADC ] Lol Korea Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1533
   region: KR
+  uploaded: 2025-12-20
 - videoId: NybT7IMkIdc
   title: Twitch vs Ezreal ADC [ QuadraKill ] Lol Korea Master Patch 25.13
   rankClaim: Master
@@ -32,12 +36,14 @@
   durationSec: 1346
   region: KR
   player: QuadraKill
+  uploaded: 2025-06-28
 - videoId: muP92jCOIC4
   title: Twitch ADC vs Ezreal - KR Master Patch 25.11
   rankClaim: Master
   patch: "25.11"
   durationSec: 1713
   region: KR
+  uploaded: 2025-06-06
 - videoId: _XqoQMWDHcU
   title: Twitch vs Ezreal ADC [ Perfect KDA ] Korea Grandmaster Patch 25.2 ✅
   rankClaim: Grandmaster
@@ -45,3 +51,4 @@
   durationSec: 1068
   region: KR
   player: Perfect KDA
+  uploaded: 2025-01-28

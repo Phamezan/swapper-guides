@@ -5,20 +5,230 @@
   patch: "26.7"
   durationSec: 1868
   region: KR
+  uploaded: 2026-04-13
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Take down The Turret
+      kind: tower
+    - at: 17:40
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 18:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:05
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:08
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:44
+      label: Take down The Turret
+      kind: tower
+    - at: 26:52
+      label: Take down The Inhibitor
+    - at: 27:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:57
+      label: End credit
 - videoId: 940U6bwgqjI
   title: Zoe Support vs Rell - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1449
   region: EUW
+  uploaded: 2025-06-08
 - videoId: CGfF-OFZj9I
   title: Zoe Support vs Rell - VN Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1608
+  uploaded: 2025-04-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:10
+      label: Take down The Turret
+      kind: tower
+    - at: 15:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:23
+      label: Take down The Turret
+      kind: tower
+    - at: 19:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Take down The Turret
+      kind: tower
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:57
+      label: Get a Triple Kill
+      kind: kill
+    - at: 25:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:27
+      label: End credit
 - videoId: 0Tz-dwqSkXY
   title: Zoe Support vs Rell - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1696
   region: KR
+  uploaded: 2025-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:34
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:49
+      label: Take down The Turret
+      kind: tower
+    - at: 15:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:08
+      label: Take down The Turret
+      kind: tower
+    - at: 16:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:00
+      label: Take down The Turret
+      kind: tower
+    - at: 17:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:39
+      label: Take down The Turret
+      kind: tower
+    - at: 27:55
+      label: End credit

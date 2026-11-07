@@ -5,3 +5,49 @@
   patch: "26.12"
   durationSec: 1613
   region: KR
+  uploaded: 2026-06-23
+  result: W
+  moments:
+    - at: 2:48
+      label: First Blood — Nidalee kills Yone
+      kind: kill
+    - at: 4:14
+      label: Nidalee catches Yone
+    - at: 4:50
+      label: Nidalee eliminates Yone
+    - at: 6:53
+      label: Nidalee outduels Yone again
+    - at: 8:28
+      label: Nidalee eliminates Yone
+    - at: 8:53
+      label: Twisted Fate eliminates Briar
+    - at: 11:26
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 14:01
+      label: Talon kills Yone
+      kind: kill
+    - at: 16:58
+      label: Blue takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 19:32
+      label: Nidalee kills Kha'Zix
+      kind: kill
+    - at: 20:50
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 22:30
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 23:15
+      label: Talon kills Yone
+      kind: kill
+    - at: 24:14
+      label: Yunara takes down Varus
+    - at: 24:41
+      label: Blue takes Baron
+      kind: baron
+    - at: 25:30
+      label: Mid Inhibitor falls (Red)
+    - at: 25:46
+      label: Yunara picks off Yone

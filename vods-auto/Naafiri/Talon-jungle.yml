@@ -7,6 +7,7 @@
   region: KR
   player: GIDEON
   team: BRO
+  uploaded: 2026-06-26
 - videoId: 5hypWZC67Js
   title: Naafiri vs Talon Jungle - KR Challenger - Patch 16.07 Season 16
   rankClaim: Challenger
@@ -20,27 +21,81 @@
   patch: "25.13"
   durationSec: 2371
   region: KR
+  uploaded: 2025-06-28
 - videoId: 1mc9Dk2j1H8
   title: Naafiri Jungle vs Talon - KR Challenger Patch 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1682
   region: KR
+  uploaded: 2025-05-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:50
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:17
+      label: Hunt The Atakhan
+    - at: 20:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:41
+      label: End credit
 - videoId: 1sT_9KsO7Bo
   title: Naafiri vs Talon Jungle - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1591
   region: KR
+  uploaded: 2025-04-09
 - videoId: dy3vs-2OI4k
   title: Naafiri vs Talon Jungle - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1440
   region: KR
+  uploaded: 2025-04-03
 - videoId: lX8NMHzE5xg
   title: Naafiri vs Talon Jungle - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1711
   region: KR
+  uploaded: 2025-03-31

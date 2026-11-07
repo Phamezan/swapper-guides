@@ -5,15 +5,83 @@
   patch: "25.24"
   durationSec: 1519
   region: KR
+  uploaded: 2025-12-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:53
+      label: Take down The Turret
+      kind: tower
+    - at: 13:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:40
+      label: Get a Triple Kill
+      kind: kill
+    - at: 18:07
+      label: Take down The Turret
+      kind: tower
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:33
+      label: Get a Triple Kill
+      kind: kill
+    - at: 21:55
+      label: Take down The Turret
+      kind: tower
+    - at: 22:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:08
+      label: End credit
 - videoId: 3j7ijNQj6Xc
   title: Elise Support vs Braum - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1437
   region: KR
+  uploaded: 2025-09-14
 - videoId: YSRP6jeR1cE
   title: Elise Support vs Braum - EUW Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1586
   region: EUW
+  uploaded: 2025-07-28

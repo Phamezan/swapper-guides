@@ -13,12 +13,14 @@
   patch: "25.19"
   durationSec: 2071
   region: KR
+  uploaded: 2025-09-25
 - videoId: SQTlmUNVFfo
   title: Kai'Sa vs Miss Fortune ADC - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1801
   region: KR
+  uploaded: 2025-09-23
 - videoId: GX_dX9Ag9F8
   title: Kaisa vs Miss Fortune ADC [ DRX Teddy ] Patch 25.18 Korea Challenger
   rankClaim: Challenger
@@ -27,24 +29,77 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-09-11
 - videoId: 0cm0BfabpT4
   title: Kai'Sa vs Miss Fortune ADC - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1456
   region: KR
+  uploaded: 2025-08-20
 - videoId: oS-DYtzVKtI
   title: Kaisa vs Miss Fortune [ ADC ] Lol Korea Master Patch 25.14
   rankClaim: Master
   patch: "25.14"
   durationSec: 1318
   region: KR
+  uploaded: 2025-07-20
 - videoId: pZIDR16fyYA
   title: Kai'Sa ADC vs Miss Fortune - KR Challenger Patch 25.08
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1564
   region: KR
+  uploaded: 2025-04-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Take down The Turret
+      kind: tower
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:20
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 20:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Take down The Turret
+      kind: tower
+    - at: 24:09
+      label: Take down The Turret
+      kind: tower
+    - at: 24:36
+      label: Take down The Inhibitor
+    - at: 25:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: End credit
 - videoId: gBXLCa-Z14I
   title: T1 Gumayusi Kaisa ADC vs Miss Fortune - Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -53,12 +108,64 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-08
 - videoId: -JU0G398DvU
   title: Kai'Sa ADC vs Miss Fortune - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1562
   region: KR
+  uploaded: 2025-03-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:53
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:22
+      label: Take down The Turret
+      kind: tower
+    - at: 21:12
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:41
+      label: End credit
 - videoId: BUHTKfhfQz8
   title: T1 Gumayusi Kaisa vs Miss Fortune [ ADC ] Korea Challenger Patch 25.4
   rankClaim: Challenger
@@ -67,3 +174,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-27

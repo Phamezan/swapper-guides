@@ -108,9 +108,46 @@
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1451
+  uploaded: 2026-01-10
 - videoId: 1pGh6rbKqtI
   title: Zed Jungle vs Elise - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1568
   region: KR
+  uploaded: 2025-02-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:38
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:47
+      label: End credit

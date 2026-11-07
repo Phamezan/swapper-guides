@@ -5,9 +5,57 @@
   patch: "25.24"
   durationSec: 1598
   region: KR
+  uploaded: 2025-12-18
 - videoId: U0efYCzrU-g
   title: Evelynn Jungle vs Master Yi - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1613
   region: KR
+  uploaded: 2025-04-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:45
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Hunt The Atakhan
+    - at: 21:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:32
+      label: End credit

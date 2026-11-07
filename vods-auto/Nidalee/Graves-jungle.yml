@@ -6,24 +6,27 @@
   durationSec: 1666
   region: KR
   uploaded: 2026-09-16
-- videoId: D7R5JjF3wV0
-  title: Nidalee Jungle vs Graves - KR Challenger Patch 26.05
-  rankClaim: Challenger
-  patch: "26.5"
-  durationSec: 1847
-  region: KR
 - videoId: remx4qBpR8U
   title: Nidalee vs Graves Jungle - KR Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1681
   region: KR
+  uploaded: 2026-03-13
+- videoId: D7R5JjF3wV0
+  title: Nidalee Jungle vs Graves - KR Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1847
+  region: KR
+  uploaded: 2026-03-07
 - videoId: HCcRHXooXdc
   title: Nidalee vs Graves JUngle - KR Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 1351
   region: KR
+  uploaded: 2025-10-29
 - videoId: dlL3F0sB5jc
   title: T1 Oner Nidalee vs Graves [ Jungle ] Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -32,3 +35,4 @@
   region: KR
   player: Oner
   team: T1
+  uploaded: 2025-02-17

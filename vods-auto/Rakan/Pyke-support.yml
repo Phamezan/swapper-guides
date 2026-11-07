@@ -62,6 +62,7 @@
   region: KR
   player: Delight
   team: HLE
+  uploaded: 2026-08-06
 - videoId: FWR3SArezX4
   title: (VITB Czajek) Rakan Support vs Pyke - EUW Grandmaster Patch 26.13
   rankClaim: Grandmaster
@@ -69,6 +70,7 @@
   durationSec: 1654
   region: EUW
   player: VITB Czajek
+  uploaded: 2026-07-12
 - videoId: f_7kCmHzZs0
   title: (Hood) Rakan Support vs Pyke - KR Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -76,21 +78,25 @@
   durationSec: 1598
   region: KR
   player: Hood
+  uploaded: 2026-06-20
 - videoId: c3KG6ARGQJc
   title: Rakan Support vs Pyke - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1540
   region: EUW
+  uploaded: 2026-01-10
 - videoId: y3_LAjxrxy0
   title: Rakan Support vs Pyke - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 1595
   region: KR
+  uploaded: 2025-08-02
 - videoId: c7RJLofzc5E
   title: Rakan Support vs Pyke - EUW Challenger Patch 25.11
   rankClaim: Challenger
   patch: "25.11"
   durationSec: 1638
   region: EUW
+  uploaded: 2025-06-12

@@ -14,9 +14,60 @@
   patch: "25.24"
   durationSec: 1620
   region: EUW
+  uploaded: 2026-01-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:05
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:18
+      label: Take down The Turret
+      kind: tower
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Take down The Turret
+      kind: tower
+    - at: 21:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Take down The Turret
+      kind: tower
+    - at: 25:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:25
+      label: Take down The Inhibitor
+    - at: 26:49
+      label: End credit
 - videoId: ienptAKwqEM
   title: Lissandra Mid vs Aurora - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1672
   region: KR
+  uploaded: 2025-11-27

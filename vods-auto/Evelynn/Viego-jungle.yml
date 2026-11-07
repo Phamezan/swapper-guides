@@ -4,9 +4,61 @@
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1499
+  uploaded: 2026-02-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:17
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:13
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:48
+      label: End credit
 - videoId: ONubf7rVt6w
   title: Evelynn Jungle vs Viego - KR Grandmaster Patch 25.15
   rankClaim: Grandmaster
   patch: "25.15"
   durationSec: 1668
   region: KR
+  uploaded: 2025-08-06

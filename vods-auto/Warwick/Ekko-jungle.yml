@@ -5,9 +5,58 @@
   patch: "26.2"
   durationSec: 1465
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:23
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:32
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:14
+      label: End credit
 - videoId: ghorYcroP8k
   title: Warwick Jungle vs Ekko - KR Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1931
   region: KR
+  uploaded: 2025-07-07

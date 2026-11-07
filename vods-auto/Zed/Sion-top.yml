@@ -315,25 +315,167 @@
   patch: "25.24"
   durationSec: 1666
   region: KR
+  uploaded: 2025-12-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:08
+      label: Take down The Turret
+      kind: tower
+    - at: 16:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Take down The Turret
+      kind: tower
+    - at: 24:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:27
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:35
+      label: End credit
 - videoId: 86RfTlT8k2c
   title: Zed Top vs Sion - EUW Master Patch 25.21
   rankClaim: Master
   patch: "25.21"
   durationSec: 1698
   region: EUW
+  uploaded: 2025-10-26
 - videoId: 3zNjjE2rwh8
   title: Zed Top vs Sion - VN Grandmaster Patch 25.18
   rankClaim: Grandmaster
   patch: "25.18"
   durationSec: 1663
+  uploaded: 2025-09-23
 - videoId: HjTY6d0LtE0
   title: Zed Top vs Sion - EUW Grandmaster Patch 25.10
   rankClaim: Grandmaster
   patch: "25.10"
   durationSec: 1714
   region: EUW
+  uploaded: 2025-05-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:28
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 27:26
+      label: Take down The Inhibitor
+    - at: 27:43
+      label: Take down The Turret
+      kind: tower
+    - at: 28:13
+      label: End credit
 - videoId: tPrEotOMqU4
   title: Zed Top vs Sion - TW Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1676
+  uploaded: 2025-03-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:16
+      label: Take down The Turret
+      kind: tower
+    - at: 18:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 25:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:35
+      label: End credit

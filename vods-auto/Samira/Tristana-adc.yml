@@ -5,65 +5,138 @@
   patch: "26.13"
   durationSec: 1351
   region: KR
+  uploaded: 2026-06-30
 - videoId: UHjA2-i5rBY
   title: SAMIRA & Rell vs TRISTANA & Leona (ADC) | EUW Master | 26.2
   rankClaim: Master
   patch: "26.2"
   durationSec: 2100
   region: EUW
+  uploaded: 2026-02-05
 - videoId: GzjEJinim7w
   title: Samira ADC vs Tristana - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1535
   region: EUW
+  uploaded: 2025-12-19
 - videoId: 2aD-I50jMfQ
   title: SAMIRA & Rakan vs TRISTANA & Rell (ADC) | Penta | NA Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 2226
   region: NA
+  uploaded: 2025-07-11
 - videoId: k4ky17NkV1A
   title: SAMIRA & Nautilus vs TRISTANA & Janna (ADC) | Legendary, 20/5/7 | EUW Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1612
   region: EUW
+  uploaded: 2025-07-03
 - videoId: cqeRFv88YPM
   title: SAMIRA & Blitzcrank vs TRISTANA & Neeko (ADC) | Godlike | EUW Master | 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 2271
   region: EUW
+  uploaded: 2025-06-29
 - videoId: Bd_IBVv8aO0
   title: SAMIRA & Rell vs TRISTANA & Lulu (ADC) | Rank 1 Samira, Rank 9, Legendary | TR Challenger | 25.10
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 1636
+  uploaded: 2025-05-19
 - videoId: N6r-WzwwvWQ
   title: SAMIRA & Alistar vs TRISTANA & Fiddlesticks (ADC) | 7/1/1 | EUW Master | 25.8
   rankClaim: Master
   patch: "25.8"
   durationSec: 837
   region: EUW
-- videoId: 54moCZIeHxc
-  title: SAMIRA & Nautilus vs TRISTANA & Rakan (ADC) | Rank 9 Samira, Godlike | NA Grandmaster | 25.6
-  rankClaim: Grandmaster
-  patch: "25.6"
-  durationSec: 869
-  region: NA
+  uploaded: 2025-04-20
 - videoId: vU0pl7IPX-8
   title: Samira ADC vs Tristana - NA Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 2001
   region: NA
+  uploaded: 2025-03-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:14
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:11
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:06
+      label: Take down The Turret
+      kind: tower
+    - at: 17:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:52
+      label: Take down The Turret
+      kind: tower
+    - at: 18:08
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:01
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:18
+      label: Take down The Turret
+      kind: tower
+    - at: 28:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:52
+      label: Take down The Turret
+      kind: tower
+    - at: 32:05
+      label: Get a Quadra Kill
+      kind: kill
+    - at: 33:00
+      label: End credit
+- videoId: 54moCZIeHxc
+  title: SAMIRA & Nautilus vs TRISTANA & Rakan (ADC) | Rank 9 Samira, Godlike | NA Grandmaster | 25.6
+  rankClaim: Grandmaster
+  patch: "25.6"
+  durationSec: 869
+  region: NA
+  uploaded: 2025-03-27
 - videoId: r-IDErQVNTQ
   title: SAMIRA & Leona vs TRISTANA & Renata Glasc (ADC) | Penta, 74% winrate, 51k DMG | KR Master | 25.5
   rankClaim: Master
   patch: "25.5"
   durationSec: 1661
   region: KR
+  uploaded: 2025-03-16
 - videoId: qHm8dakmFqE
   title: T1 Gumayusi Samira ADC vs Tristana - Patch 25.3 Korea Challenger ✅
   rankClaim: Challenger
@@ -72,3 +145,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-02-12

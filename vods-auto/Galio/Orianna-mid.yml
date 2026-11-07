@@ -5,9 +5,58 @@
   patch: "26.7"
   durationSec: 1849
   region: EUW
+  uploaded: 2026-04-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:09
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 19:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:36
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:31
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 26:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:38
+      label: End credit
 - videoId: ZFGyXiQ-ndo
   title: Galio Mid vs Orianna - KR Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1780
   region: KR
+  uploaded: 2025-11-24

@@ -5,14 +5,87 @@
   patch: "26.12"
   durationSec: 1736
   region: KR
+  uploaded: 2026-06-21
 - videoId: 20O5dZpGKxc
   title: Malphite Jungle vs Jarvan IV - VN Challenger Patch 26.07
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1631
+  uploaded: 2026-04-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:26
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:56
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:30
+      label: Take down The Turret
+      kind: tower
+    - at: 23:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:22
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:02
+      label: Take down The Inhibitor
+    - at: 26:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:00
+      label: End credit
 - videoId: J6MYE0qtCrc
   title: Malphite Jungle vs Jarvan IV - KR Grandmaster Patch 26.01
   rankClaim: Grandmaster
   patch: "26.1"
   durationSec: 1463
   region: KR
+  uploaded: 2026-01-12

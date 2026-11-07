@@ -5,18 +5,21 @@
   patch: "26.19"
   durationSec: 1561
   region: KR
+  uploaded: 2026-09-26
 - videoId: t-R5Mzi0QMY
   title: Thresh Support vs Nautilus - KR Master Patch 26.18
   rankClaim: Master
   patch: "26.18"
   durationSec: 1489
   region: KR
+  uploaded: 2026-09-15
 - videoId: yTRei8HURYU
   title: Thresh Support vs Nautilus - EUW Challenger Patch 26.17
   rankClaim: Challenger
   patch: "26.17"
   durationSec: 1556
   region: EUW
+  uploaded: 2026-09-10
 - videoId: wyhy8ZOIxOc
   title: (LNG MISSING) Thresh Support vs Nautilus - KR Challenger Patch 26.13
   rankClaim: Challenger
@@ -25,27 +28,32 @@
   region: KR
   player: MISSING
   team: LNG
+  uploaded: 2026-07-01
 - videoId: Dy24ayNZhVE
   title: Thresh Support vs Nautilus - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1750
   region: KR
+  uploaded: 2026-05-03
 - videoId: 1K1BPIIBEDs
   title: Thresh Support vs Nautilus - KR Grandmaster Patch 26.08
   rankClaim: Grandmaster
   patch: "26.8"
   durationSec: 1769
   region: KR
+  uploaded: 2026-04-29
 - videoId: 3zvd_fdIqxg
   title: Thresh Support vs Nautilus - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1479
   region: KR
+  uploaded: 2025-09-27
 - videoId: sErUqK4imXU
   title: Thresh Support vs Nautilus - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1540
   region: EUW
+  uploaded: 2025-04-01

@@ -5,9 +5,72 @@
   patch: "25.7"
   durationSec: 1702
   region: KR
+  uploaded: 2025-04-15
 - videoId: 3o-RdKfrrbU
   title: Tahm Kench Top vs Fiora - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 2165
   region: KR
+  uploaded: 2025-03-05
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:59
+      label: Take down The Turret
+      kind: tower
+    - at: 16:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Take down The Turret
+      kind: tower
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:29
+      label: Take down The Turret
+      kind: tower
+    - at: 25:07
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:46
+      label: Take down The Inhibitor
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:07
+      label: Take down The Turret
+      kind: tower
+    - at: 28:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 35:44
+      label: End credit

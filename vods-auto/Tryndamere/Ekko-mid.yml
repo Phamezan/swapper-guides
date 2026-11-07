@@ -5,15 +5,88 @@
   patch: "26.3"
   durationSec: 1719
   region: NA
+  uploaded: 2026-02-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:48
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:16
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Take down The Turret
+      kind: tower
+    - at: 15:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:32
+      label: Take down The Turret
+      kind: tower
+    - at: 19:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:05
+      label: Take down The Turret
+      kind: tower
+    - at: 25:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:16
+      label: Take down The Turret
+      kind: tower
+    - at: 27:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:39
+      label: Take down The Inhibitor
+    - at: 27:49
+      label: Take down The Turret
+      kind: tower
+    - at: 28:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:28
+      label: End credit
 - videoId: dYLrrSiqCxk
   title: Tryndamere Mid vs Ekko - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1607
   region: KR
+  uploaded: 2025-11-04
 - videoId: l0mg-SjwPuY
   title: Tryndamere Mid vs Ekko - NA Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1675
   region: NA
+  uploaded: 2025-09-06

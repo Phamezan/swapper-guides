@@ -5,9 +5,56 @@
   patch: "26.13"
   durationSec: 1599
   region: KR
+  uploaded: 2026-07-13
+  result: W
+  moments:
+    - at: 0:59
+      label: First Blood — Twisted Fate kills Leona
+      kind: kill
+    - at: 3:06
+      label: Locke eliminates Jhin
+    - at: 4:01
+      label: Braum eliminates Leona
+    - at: 5:14
+      label: Locke Double Kill
+      kind: kill
+    - at: 8:12
+      label: Twisted Fate picks off Leona
+    - at: 9:25
+      label: Twisted Fate picks off Leona
+    - at: 10:12
+      label: Blue takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 11:28
+      label: Twisted Fate takes down Jhin
+    - at: 13:42
+      label: Twisted Fate picks off Fiora
+    - at: 15:41
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 17:32
+      label: Twisted Fate picks off Leona
+    - at: 20:15
+      label: Blue takes Baron
+      kind: baron
+    - at: 20:58
+      label: Blue takes 3rd Dragon (Chemtech)
+      kind: dragon
+    - at: 21:47
+      label: Locke kills Fiora
+      kind: kill
+    - at: 24:08
+      label: Bot Inhibitor falls (Red)
+    - at: 24:18
+      label: Mid Inhibitor falls (Red)
+    - at: 25:09
+      label: Malzahar takes down Fiora
+    - at: 25:48
+      label: Top Inhibitor falls (Red)
 - videoId: 0_Nkko-Fw2I
   title: Twisted Fate ADC vs Jhin - KR Master Patch 25.19
   rankClaim: Master
   patch: "25.19"
   durationSec: 1730
   region: KR
+  uploaded: 2025-10-08

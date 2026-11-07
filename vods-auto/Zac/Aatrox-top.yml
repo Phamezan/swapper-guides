@@ -4,9 +4,74 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1674
+  uploaded: 2026-04-15
 - videoId: Q5vNrTh07Wg
   title: Zac Top vs Aatrox - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1598
   region: EUW
+  uploaded: 2025-04-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:29
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:30
+      label: Take down The Turret
+      kind: tower
+    - at: 13:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:10
+      label: Take down The Turret
+      kind: tower
+    - at: 19:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Take down The Turret
+      kind: tower
+    - at: 21:13
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Take down The Turret
+      kind: tower
+    - at: 24:01
+      label: Take down The Inhibitor
+    - at: 25:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:34
+      label: Take down The Inhibitor
+    - at: 25:46
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:17
+      label: End credit

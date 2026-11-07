@@ -50,6 +50,15 @@
   durationSec: 1836
   region: KR
   uploaded: 2026-10-19
+- videoId: 1WAR0FkOGNo
+  title: "Gumayusi : This JHIN Build is LEGIT INSANE From ZERO to HERO - Engsub ( Jhin vs Sivir )"
+  rankClaim: Master+
+  patch: "26.8"
+  durationSec: 1272
+  patchEstimated: true
+  player: Gumayusi
+  uploaded: 2026-04-28
+  format: stream
 - videoId: gHHiSghjZ_4
   title: HLE Gumayusi Jhin vs Sivir [ ADC ] Korea Challenger 2463 LP | Patch 26.8
   rankClaim: Challenger
@@ -67,12 +76,14 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-03-16
 - videoId: x1T7qEKPZQU
   title: Jhin ADC vs Sivir - EUW Grandmaster Patch 25.23
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1470
   region: EUW
+  uploaded: 2025-12-04
 - videoId: UIJAJSqe_EM
   title: T1 Gumayusi Jhin vs Sivir [ ADC ] Patch 25.17 Korea Master
   rankClaim: Master
@@ -81,6 +92,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-29
 - videoId: JofrX3mZbnk
   title: T1 Gumayusi Jhin vs Sivir [ ADC ] Patch 25.15 Korea Master
   rankClaim: Master
@@ -89,3 +101,4 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-08-06

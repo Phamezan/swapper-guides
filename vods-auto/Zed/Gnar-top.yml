@@ -5,9 +5,64 @@
   patch: "25.23"
   durationSec: 1781
   region: EUW
+  uploaded: 2025-11-25
 - videoId: _Eg49qSC0jA
   title: Zed Top vs Gnar - EUW Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1673
   region: EUW
+  uploaded: 2025-03-17
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:37
+      label: Take down The Turret
+      kind: tower
+    - at: 14:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Take down The Turret
+      kind: tower
+    - at: 24:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:21
+      label: Take down The Turret
+      kind: tower
+    - at: 27:32
+      label: End credit

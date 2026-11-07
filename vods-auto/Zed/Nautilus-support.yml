@@ -106,14 +106,81 @@
   patch: "26.3"
   durationSec: 1852
   region: EUW
+  uploaded: 2026-02-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:53
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:17
+      label: Take down The Turret
+      kind: tower
+    - at: 23:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:26
+      label: Take down The Turret
+      kind: tower
+    - at: 24:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:07
+      label: Take down The Turret
+      kind: tower
+    - at: 28:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:07
+      label: Take down The Turret
+      kind: tower
+    - at: 30:24
+      label: Take down The Inhibitor
+    - at: 30:41
+      label: End credit
 - videoId: IBFhwHo_bhY
   title: Zed Support vs Nautilus - VN Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1609
+  uploaded: 2025-08-05
 - videoId: dU1E8wt_zrs
   title: Zed Support vs Nautilus - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1973
   region: KR
+  uploaded: 2025-07-01

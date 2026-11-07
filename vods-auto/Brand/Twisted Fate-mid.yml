@@ -5,21 +5,77 @@
   patch: "26.17"
   durationSec: 1844
   region: EUW
+  uploaded: 2026-09-05
 - videoId: 0QEkqsCIpSQ
   title: Brand Mid vs Twisted Fate - EUW Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1483
   region: EUW
+  uploaded: 2026-02-03
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:01
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:31
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Take down The Turret
+      kind: tower
+    - at: 17:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:15
+      label: Take down The Turret
+      kind: tower
+    - at: 20:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Take down The Inhibitor
+    - at: 23:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:32
+      label: End credit
 - videoId: 8VsJ0x6THFY
   title: Brand Mid vs Twisted Fate - KR Master Patch 25.13
   rankClaim: Master
   patch: "25.13"
   durationSec: 1632
   region: KR
+  uploaded: 2025-07-07
 - videoId: fUzTrigArco
   title: Brand Mid vs Twisted Fate - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1721
   region: KR
+  uploaded: 2025-04-01

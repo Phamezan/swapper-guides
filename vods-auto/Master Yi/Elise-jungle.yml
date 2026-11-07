@@ -12,9 +12,67 @@
   patch: "26.4"
   durationSec: 1531
   region: EUW
+  uploaded: 2026-02-26
 - videoId: XwClGHwNcuo
   title: Master Yi Jungle vs Elise - KR Master Patch 25.09
   rankClaim: Master
   patch: "25.9"
   durationSec: 1482
   region: KR
+  uploaded: 2025-05-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:19
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 13:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:32
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:55
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:21
+      label: Take down The Turret
+      kind: tower
+    - at: 21:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:21
+      label: End credit

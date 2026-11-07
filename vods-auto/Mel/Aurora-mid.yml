@@ -17,15 +17,35 @@
   player: Chovy
   team: Gen.G
   uploaded: 2026-04-03
+- videoId: QzoBxmR45hI
+  title: "Baicaiovo Mel : CN Super Server Rank 1 is DEVASTATING Aurora with INSANE Mechanics"
+  rankClaim: Master+
+  patch: "26.6"
+  durationSec: 1110
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-03-31
+  format: stream
+- videoId: 5zaSeIFSaYs
+  title: "Challenger Mel : This CN Super Server Legend is DEVASTATING Aurora With UNREAL Mechanics - Engsub"
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1476
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-03-13
+  format: stream
 - videoId: H8Olszim-tI
   title: Mel Mid vs Aurora - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1688
   region: KR
+  uploaded: 2025-09-16
 - videoId: SxHW31TTKB8
   title: Mel vs Aurora Mid - EUW Challenger - Patch 25.13 Seaosn 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1591
   region: EUW
+  uploaded: 2025-07-16

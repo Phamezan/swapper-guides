@@ -228,20 +228,77 @@
   patch: "26.6"
   durationSec: 1552
   region: KR
+  uploaded: 2026-03-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 5:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:54
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:12
+      label: Take down The Turret
+      kind: tower
+    - at: 18:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:41
+      label: End credit
 - videoId: EYYMih1rOpQ
   title: Zed vs Skarner Jungle - EUW Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1341
   region: EUW
+  uploaded: 2025-09-11
 - videoId: 8BovOBnFlow
   title: Zed Jungle vs Skarner - BR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1776
+  uploaded: 2025-07-25
 - videoId: 6Xr7GPkLvaw
   title: Zed vs Skarner Jungle - KR Challenger - Patch 25.10 Season 15
   rankClaim: Challenger
   patch: "25.10"
   durationSec: 2111
   region: KR
+  uploaded: 2025-05-28

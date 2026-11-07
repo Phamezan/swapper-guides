@@ -5,3 +5,52 @@
   patch: "26.19"
   durationSec: 1713
   region: EUW
+  uploaded: 2026-10-05
+  result: W
+  moments:
+    - at: 2:14
+      label: First Blood — Cho'Gath kills Jhin
+      kind: kill
+    - at: 8:22
+      label: Red takes 1st Dragon (Chemtech)
+      kind: dragon
+    - at: 13:20
+      label: Seraphine eliminates Udyr
+    - at: 13:37
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:42
+      label: Seraphine picks off Pyke
+    - at: 19:00
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 20:14
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 20:38
+      label: Seraphine Triple Kill
+      kind: kill
+    - at: 20:55
+      label: Seraphine picks off Pyke
+    - at: 22:07
+      label: Seraphine picks off Pyke
+    - at: 23:02
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:05
+      label: Seraphine takes down Jhin
+    - at: 24:54
+      label: Cho'Gath kills Pyke
+      kind: kill
+    - at: 25:34
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 25:57
+      label: Seraphine takes down Jhin
+    - at: 26:45
+      label: Team fight (5 kills)
+      kind: teamfight
+    - at: 27:21
+      label: Mid Inhibitor falls (Red)
+    - at: 27:43
+      label: Wukong takes down Pyke

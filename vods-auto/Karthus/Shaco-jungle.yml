@@ -13,3 +13,85 @@
   patch: "25.7"
   durationSec: 2100
   region: KR
+  uploaded: 2025-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:05
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 7:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 7:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:02
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 16:05
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:12
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 18:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:13
+      label: Hunt The Atakhan
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:21
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 31:18
+      label: Take down The Turret
+      kind: tower
+    - at: 31:47
+      label: Take down The Inhibitor
+    - at: 32:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 33:36
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 33:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 34:39
+      label: End credit

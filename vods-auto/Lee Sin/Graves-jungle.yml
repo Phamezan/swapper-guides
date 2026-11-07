@@ -7,36 +7,224 @@
   region: KR
   player: JackeyLove
   team: TES
+  uploaded: 2026-06-12
+  result: W
+  moments:
+    - at: 1:20
+      label: First Blood — Lee Sin kills Karthus
+      kind: kill
+    - at: 8:02
+      label: Lee Sin takes down Graves
+    - at: 9:46
+      label: Blue takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 13:05
+      label: Jayce kills Graves
+      kind: kill
+    - at: 13:51
+      label: Lee Sin takes down Karthus
+    - at: 15:33
+      label: Blue takes Rift Herald
+      kind: herald
+    - at: 16:53
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 17:30
+      label: Orianna takes down Pantheon
+    - at: 17:58
+      label: Lee Sin picks off Zilean
+    - at: 18:53
+      label: Lee Sin takes down Graves
+    - at: 21:15
+      label: Orianna kills Karthus
+      kind: kill
+    - at: 22:11
+      label: Blue takes 2nd Dragon (Hextech)
+      kind: dragon
+    - at: 23:38
+      label: Jayce eliminates Pantheon
 - videoId: yBn8M5aSTsA
   title: Lee Sin Jungle vs Graves - KR Challenger Patch 26.06
   rankClaim: Challenger
   patch: "26.6"
   durationSec: 1880
   region: KR
+  uploaded: 2026-04-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:32
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 7:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:11
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:01
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:57
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:59
+      label: Take down The Turret
+      kind: tower
+    - at: 18:30
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:37
+      label: Get a Triple Kill
+      kind: kill
+    - at: 24:59
+      label: Take down The Turret
+      kind: tower
+    - at: 25:18
+      label: Take down The Inhibitor
+    - at: 26:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:10
+      label: Take down The Turret
+      kind: tower
+    - at: 30:40
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 30:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 31:09
+      label: End credit
 - videoId: znb-M1Ql85E
   title: Lee Sin Jungle vs Graves - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1715
   region: KR
+  uploaded: 2026-02-21
 - videoId: LMdlANRSkbc
   title: Lee Sin vs Graves [ Jungle ] Korea Challenger 1143 LP | Patch 26.2
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1569
   region: KR
+  uploaded: 2026-02-02
 - videoId: JsUFELOYAI0
   title: Lee Sin Jungle vs Graves - KR Master Patch 26.01
   rankClaim: Master
   patch: "26.1"
   durationSec: 1489
   region: KR
+  uploaded: 2026-01-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:09
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:04
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 13:03
+      label: Get a Double Kill
+      kind: kill
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:33
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 15:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:38
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:34
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:07
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:38
+      label: End credit
 - videoId: OWbzLcmdyA8
   title: Lee Sin vs Graves Jungle - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1831
   region: KR
+  uploaded: 2025-10-12
 - videoId: hCXvTvBLdKo
   title: T1 Faker Lee Sin Jungle vs Graves - Patch 25.13 Ranked NA
   rankClaim: Master+
@@ -45,15 +233,18 @@
   region: NA
   player: Faker
   team: T1
+  uploaded: 2025-07-11
 - videoId: djkn62MY3Hk
   title: Lee Sin vs Graves Jungle - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 2011
   region: KR
+  uploaded: 2025-05-14
 - videoId: G9bTE_jKLbw
   title: Lee Sin vs Graves Jungle - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 2116
   region: KR
+  uploaded: 2025-02-26

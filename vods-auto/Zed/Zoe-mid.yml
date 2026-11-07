@@ -317,6 +317,7 @@
   rankClaim: Grandmaster
   patch: "25.22"
   durationSec: 1550
+  uploaded: 2025-11-16
 - videoId: Nrtq_ue0UPo
   title: Zeka Zed vs Zoe Mid - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
@@ -324,26 +325,31 @@
   durationSec: 1871
   region: KR
   player: Zeka
+  uploaded: 2025-09-18
 - videoId: iyuUIVt8WqQ
   title: Zed Mid vs Zoe - TW Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1793
+  uploaded: 2025-09-09
 - videoId: KpdvAY5Zo6g
   title: Zed vs Zoe [ MID ] Lol Korea Challenger Patch 25.16 ✅
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1476
   region: KR
+  uploaded: 2025-08-16
 - videoId: tEA5ss0trM4
   title: Zed Mid vs Zoe - EUW Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1568
   region: EUW
+  uploaded: 2025-03-22
 - videoId: Oh08DV7yEOw
   title: Zed vs Zoe [ MID ] Korea Grandmaster Patch 25.4 ✅
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1091
   region: KR
+  uploaded: 2025-02-21

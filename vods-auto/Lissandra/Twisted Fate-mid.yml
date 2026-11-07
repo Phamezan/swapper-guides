@@ -5,9 +5,59 @@
   patch: "26.8"
   durationSec: 1550
   region: KR
+  uploaded: 2026-04-28
 - videoId: 4NShhoMZvqY
   title: Lissandra Mid vs Twisted Fate - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1820
   region: KR
+  uploaded: 2025-04-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:58
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:52
+      label: Get a Double Kill
+      kind: kill
+    - at: 12:56
+      label: Take down The Turret
+      kind: tower
+    - at: 15:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:48
+      label: Take down The Turret
+      kind: tower
+    - at: 19:05
+      label: Take down The Inhibitor
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:39
+      label: Take down The Inhibitor
+    - at: 29:59
+      label: End credit

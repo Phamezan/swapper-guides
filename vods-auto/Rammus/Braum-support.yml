@@ -5,3 +5,53 @@
   patch: "25.24"
   durationSec: 1450
   region: KR
+  uploaded: 2025-12-15
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:06
+      label: Take down The Inhibitor
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: End credit

@@ -8,6 +8,14 @@
   player: Gumayusi
   team: HLE
   uploaded: 2026-09-03
+- videoId: Ynj3E5JBxBs
+  title: "Rank 1 Zeri : His Spacing is on Another Level - Engsub ( Zeri vs Varus )"
+  rankClaim: Master+
+  patch: "26.11"
+  durationSec: 1144
+  patchEstimated: true
+  uploaded: 2026-05-31
+  format: stream
 - videoId: RFabgG_O_2k
   title: (VIT Carzzy) Zeri ADC vs Varus - EUW Grandmaster Patch 26.10
   rankClaim: Grandmaster
@@ -15,6 +23,15 @@
   durationSec: 1567
   region: EUW
   player: VIT Carzzy
+  uploaded: 2026-05-23
+- videoId: 7-jQl-vpNH4
+  title: "Rank 1 Zeri : He is Absolutely DOMINATING CN HighElo - Engsub ( Zeri vs Varus, Aphelios )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1323
+  patchEstimated: true
+  uploaded: 2026-04-30
+  format: stream
 - videoId: feHngndGQA8
   title: Zeri vs Varus ADC [ TripleKill ] Patch 25.23 Korea Challenger 1484 LP
   rankClaim: Challenger
@@ -22,12 +39,14 @@
   durationSec: 1513
   region: KR
   player: TripleKill
+  uploaded: 2025-11-24
 - videoId: 5rn8LJy6JbY
   title: Zeri ADC vs Varus - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1489
   region: KR
+  uploaded: 2025-05-05
 - videoId: BGfotHFHw5U
   title: T1 Gumayusi Zeri vs Varus [ ADC ] Patch 25.5 Korea Challenger
   rankClaim: Challenger
@@ -36,9 +55,11 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-05
 - videoId: 05sEuc7Lqik
   title: Zeri vs Varus ADC - KR Challenger - Patch 25.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1511
   region: KR
+  uploaded: 2025-03-05

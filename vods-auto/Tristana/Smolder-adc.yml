@@ -5,9 +5,74 @@
   patch: "26.10"
   durationSec: 1459
   region: KR
+  uploaded: 2026-05-19
 - videoId: 13KsfmeE87s
   title: Tristana ADC vs Smolder - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1516
   region: KR
+  uploaded: 2026-01-27
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:39
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:46
+      label: Take down The Turret
+      kind: tower
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:41
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:32
+      label: Take down The Turret
+      kind: tower
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 20:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:02
+      label: Take down The Turret
+      kind: tower
+    - at: 23:25
+      label: Take down The Inhibitor
+    - at: 24:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:35
+      label: Take down The Inhibitor
+    - at: 24:55
+      label: Take down The Turret
+      kind: tower
+    - at: 25:05
+      label: End credit

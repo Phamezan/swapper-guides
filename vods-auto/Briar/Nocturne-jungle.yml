@@ -5,3 +5,59 @@
   patch: "25.7"
   durationSec: 1481
   region: KR
+  uploaded: 2025-04-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:33
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:49
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 14:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 15:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:21
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 19:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:10
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:21
+      label: Take down The Turret
+      kind: tower
+    - at: 21:35
+      label: Hunt The Atakhan
+    - at: 22:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:51
+      label: Take down The Turret
+      kind: tower
+    - at: 24:20
+      label: End credit

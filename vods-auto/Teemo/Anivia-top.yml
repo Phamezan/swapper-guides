@@ -5,9 +5,110 @@
   patch: "26.14"
   durationSec: 1514
   region: KR
+  uploaded: 2026-07-21
+  result: W
+  moments:
+    - at: 1:09
+      label: First Blood — Teemo kills Anivia
+      kind: kill
+    - at: 3:59
+      label: Camille eliminates Anivia
+    - at: 6:48
+      label: Teemo takes down Poppy
+    - at: 7:01
+      label: Teemo catches Anivia
+    - at: 9:59
+      label: Blue takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 11:11
+      label: Bel'Veth kills Anivia
+      kind: kill
+    - at: 12:40
+      label: Bel'Veth kills Anivia
+      kind: kill
+    - at: 14:45
+      label: Teemo eliminates Poppy
+    - at: 15:58
+      label: Red takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 17:55
+      label: Bel'Veth kills Anivia
+      kind: kill
+    - at: 21:02
+      label: Blue takes Baron
+      kind: baron
+    - at: 21:47
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 22:15
+      label: Teemo takes down Cassiopeia
+    - at: 22:50
+      label: Mid Inhibitor falls (Red)
+    - at: 23:38
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 24:20
+      label: Teemo kills Qiyana
+      kind: kill
 - videoId: dJmtr_U_-wg
   title: Teemo Top vs Anivia - KR Master Patch 25.10
   rankClaim: Master
   patch: "25.10"
   durationSec: 1582
   region: KR
+  uploaded: 2025-05-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:43
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:42
+      label: Get a Double Kill
+      kind: kill
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:25
+      label: Take down The Turret
+      kind: tower
+    - at: 16:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:06
+      label: Take down The Turret
+      kind: tower
+    - at: 18:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Take down The Turret
+      kind: tower
+    - at: 22:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:13
+      label: Take down The Turret
+      kind: tower
+    - at: 23:27
+      label: Take down The Inhibitor
+    - at: 24:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Get a Double Kill
+      kind: kill
+    - at: 26:01
+      label: End credit

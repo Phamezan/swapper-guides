@@ -60,9 +60,70 @@
   patch: "26.17"
   durationSec: 1516
   region: KR
+  uploaded: 2026-09-04
 - videoId: jPO2F4MX3xY
   title: Sylas Jungle vs Xin Zhao - EUW Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1443
   region: EUW
+  uploaded: 2026-02-14
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 9:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:35
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:07
+      label: Take down The Turret
+      kind: tower
+    - at: 13:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:44
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:03
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:28
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 22:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:52
+      label: End credit

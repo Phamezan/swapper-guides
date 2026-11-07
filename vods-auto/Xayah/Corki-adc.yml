@@ -64,6 +64,7 @@
   durationSec: 1840
   region: KR
   player: LOUD Bull
+  uploaded: 2026-09-12
 - videoId: REQkPecJEko
   title: HLE Gumayusi Xayah vs Corki [ ADC ] Korea Master Patch 26.1
   rankClaim: Master
@@ -72,21 +73,95 @@
   region: KR
   player: Gumayusi
   team: HLE
+  uploaded: 2026-01-18
 - videoId: xmoDN9_BoLs
   title: Xayah ADC vs Corki - EUW Challenger Patch 25.23
   rankClaim: Challenger
   patch: "25.23"
   durationSec: 1520
   region: EUW
+  uploaded: 2025-12-05
 - videoId: YnfBTq-bJNc
   title: Xayah ADC vs Corki - KR Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 2138
   region: KR
+  uploaded: 2025-04-01
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:30
+      label: Take down The Turret
+      kind: tower
+    - at: 17:12
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:26
+      label: Take down The Turret
+      kind: tower
+    - at: 24:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 28:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:07
+      label: Take down The Turret
+      kind: tower
+    - at: 30:18
+      label: Take down The Inhibitor
+    - at: 30:29
+      label: Take down The Turret
+      kind: tower
+    - at: 30:46
+      label: Get a Double Kill
+      kind: kill
+    - at: 32:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:54
+      label: Take down The Turret
+      kind: tower
+    - at: 35:17
+      label: End credit
 - videoId: l1lklaBO170
   title: Xayah ADC vs Corki - KR Challenger Patch 25.05
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1839
   region: KR
+  uploaded: 2025-03-12

@@ -7,9 +7,75 @@
   region: EUW
   player: Busio
   team: KC
+  uploaded: 2026-08-02
 - videoId: pjsmGeAsD4o
   title: LeBlanc Support vs Pyke - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 2110
   region: KR
+  uploaded: 2026-02-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:47
+      label: Take down The Turret
+      kind: tower
+    - at: 23:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:06
+      label: Take down The Inhibitor
+    - at: 29:19
+      label: Take down The Turret
+      kind: tower
+    - at: 29:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 34:59
+      label: End credit

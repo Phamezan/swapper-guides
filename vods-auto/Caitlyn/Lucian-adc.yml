@@ -6,6 +6,77 @@
   durationSec: 1747
   region: KR
   player: GAM Artemis
+  uploaded: 2026-08-17
+  result: L
+  moments:
+    - at: 2:37
+      label: First Blood — Caitlyn kills Shen
+      kind: kill
+    - at: 5:41
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 11:20
+      label: Caitlyn picks off Shen
+    - at: 12:08
+      label: Red takes 2nd Dragon (Infernal)
+      kind: dragon
+    - at: 12:49
+      label: Caitlyn takes down Lucian
+    - at: 17:21
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 20:20
+      label: Caitlyn picks off Shen
+    - at: 22:47
+      label: Blue takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 23:48
+      label: Blue takes Baron
+      kind: baron
+    - at: 24:47
+      label: Team fight (3 kills)
+      kind: teamfight
+    - at: 27:42
+      label: Caitlyn Double Kill
+      kind: kill
+    - at: 28:09
+      label: Mid Inhibitor falls (Blue)
+- videoId: WeAXw86-xBQ
+  title: '"Jz" 2000LP Caitlyn : ONE BULLET - ONE SHOT - ONE KILL / Engsub ( vs Lucian)'
+  rankClaim: Master+
+  patch: "26.15"
+  durationSec: 1553
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-08-05
+  format: stream
+- videoId: F0S5hx6OgrM
+  title: 2000LP Caitlyn "Jz" ONE BULLET - ONE SHOT - ONE KILL / Engsub (Caitlyn vs Lucian, Twitch)
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1616
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-06-30
+  format: stream
+- videoId: aXDWAQH6Z80
+  title: 1600LP Caitlyn "Jz adc" His Mechanic is a LEGIT A REAL DEAL - Engsub (Caitlyn vs Lucian, Xayah)
+  rankClaim: Master+
+  patch: "26.13"
+  durationSec: 1574
+  patchEstimated: true
+  player: Jz
+  uploaded: 2026-06-27
+  format: stream
+- videoId: GHi2A5gqrkE
+  title: 'Smash : His Caitlyn Mechanic is GOD LIKE " 22Kills in Challenger" Engsub (Caitlyn vs Ez, Lucian)'
+  rankClaim: Challenger
+  patch: "26.12"
+  durationSec: 1449
+  patchEstimated: true
+  player: Smash
+  uploaded: 2026-06-13
+  format: stream
 - videoId: MjYrztjs-ak
   title: Caitlyn vs Lucian ADC [ Gen.G Ruler ] Patch 26.11 Korea Challenger 2130 LP
   rankClaim: Challenger
@@ -15,6 +86,15 @@
   player: Ruler
   team: Gen.G
   uploaded: 2026-06-08
+- videoId: 8aRmWNt2Kwk
+  title: "Uzi : His Caitlyn Mechanic is a REAL DEAL - Engsub ( Caitlyn vs Lucian )"
+  rankClaim: Master+
+  patch: "26.10"
+  durationSec: 1207
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-18
+  format: stream
 - videoId: ssd4b5vUieY
   title: BLG Viper Caitlyn vs Lucian [ ADC ] Patch 26.10 Korea Challenger 2163 LP
   rankClaim: Challenger
@@ -38,6 +118,15 @@
   durationSec: 1606
   region: KR
   uploaded: 2026-05-07
+- videoId: Y1s2FQ1SxYY
+  title: "Uzi : His Caitlyn is About Going to WAR - Engsub ( Caitlyn vs Lucian )"
+  rankClaim: Master+
+  patch: "26.9"
+  durationSec: 1057
+  patchEstimated: true
+  player: Uzi
+  uploaded: 2026-05-06
+  format: stream
 - videoId: jxzWFpvdJhc
   title: Caitlyn vs Lucian ADC - KR Grandmaster - Patch 16.05 Season 16
   rankClaim: Grandmaster
@@ -53,54 +142,63 @@
   region: KR
   player: Viper
   team: BLG
+  uploaded: 2026-01-10
 - videoId: -FMC342ZAqY
   title: Caitlyn ADC vs Lucian - KR Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1509
   region: KR
+  uploaded: 2025-12-27
 - videoId: RNRcUUUdFds
   title: Caitlyn ADC vs Lucian - KR Master Patch 25.20
   rankClaim: Master
   patch: "25.20"
   durationSec: 1470
   region: KR
+  uploaded: 2025-10-11
 - videoId: XFQZYrKpzWU
   title: Caitlyn ADC vs Lucian - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1628
   region: KR
+  uploaded: 2025-09-27
 - videoId: Oy6nAsEHL00
   title: Caitlyn vs Lucian [ ADC ] Lol Korea Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 2178
   region: KR
+  uploaded: 2025-09-15
 - videoId: c1l8a9MwqrI
   title: Caitlyn ADC vs Lucian - KR Grandmaster Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1577
   region: KR
+  uploaded: 2025-08-18
 - videoId: zvWZUslfDA4
   title: Caitlyn vs Lucian ADC - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1771
   region: KR
+  uploaded: 2025-08-15
 - videoId: W0TrSRI1NxU
   title: Caitlyn vs Lucian ADC - KR Challenger - Patch 25.12 Season 15
   rankClaim: Challenger
   patch: "25.12"
   durationSec: 1426
   region: KR
+  uploaded: 2025-06-23
 - videoId: Mo4h1NFdfHA
   title: Caitlyn vs Lucian [ ADC ] Lol Korea Master Patch 25.12
   rankClaim: Master
   patch: "25.12"
   durationSec: 1449
   region: KR
+  uploaded: 2025-06-20
 - videoId: 4Yo6ljWCigI
   title: T1 Gumayusi Caitlyn vs Lucian [ ADC ] Patch 25.10 Korea Grandmaster
   rankClaim: Grandmaster
@@ -109,6 +207,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-18
 - videoId: shuHoo0AsIw
   title: Viper Caitlyn vs Lucian ADC - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
@@ -116,3 +215,4 @@
   durationSec: 1620
   region: KR
   player: Viper
+  uploaded: 2025-05-12

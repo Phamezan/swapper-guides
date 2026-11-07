@@ -153,35 +153,186 @@
   patch: "26.5"
   durationSec: 1571
   region: KR
+  uploaded: 2026-03-19
 - videoId: 6Or2tPwowY4
   title: Zed Mid vs Azir - NA Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1485
   region: NA
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:59
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:34
+      label: End credit
 - videoId: 1uxVAQrPU10
   title: Zed Mid vs Azir - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1488
   region: NA
+  uploaded: 2025-12-23
 - videoId: CuV9JXEE7hs
   title: Zed Mid vs Azir - VN Challenger Patch 25.17
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1811
+  uploaded: 2025-09-04
 - videoId: cXMJE3QvDYA
   title: Zed Mid vs Azir - BR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1811
+  uploaded: 2025-08-01
 - videoId: 5DJQVhvzKnk
   title: Zed Mid vs Azir - VN Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1869
+  uploaded: 2025-04-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 7:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:25
+      label: Take down The Turret
+      kind: tower
+    - at: 29:59
+      label: Take down The Turret
+      kind: tower
+    - at: 30:48
+      label: End credit
 - videoId: 7jM_QfxPC94
   title: Zed Mid vs Azir - BR Grandmaster Patch 25.05
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1875
+  uploaded: 2025-03-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:20
+      label: Get a Double Kill
+      kind: kill
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:24
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:23
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:28
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:24
+      label: Take down The Turret
+      kind: tower
+    - at: 16:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 23:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:54
+      label: End credit

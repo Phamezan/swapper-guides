@@ -6,6 +6,7 @@
   durationSec: 1547
   region: EUW
   player: UCAM bluerzor
+  uploaded: 2026-07-15
 - videoId: KCLDD4t1PpU
   title: Hercarim vs Nidalee Jungle - KR Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -19,21 +20,87 @@
   patch: "26.5"
   durationSec: 1760
   region: KR
+  uploaded: 2026-03-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Get a Double Kill
+      kind: kill
+    - at: 2:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:58
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:38
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:15
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:39
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:01
+      label: Take down The Turret
+      kind: tower
+    - at: 25:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: End credit
 - videoId: 87VSvomw-6A
   title: Hecarim Jungle vs Nidalee - KR Challenger Patch 26.04
   rankClaim: Challenger
   patch: "26.4"
   durationSec: 1916
   region: KR
+  uploaded: 2026-03-06
 - videoId: Kd9y7tHV6-g
   title: Hecarim Jungle vs Nidalee - KR Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1486
   region: KR
+  uploaded: 2026-02-10
 - videoId: l3cF6wbSWyg
   title: Hecarim Jungle vs Nidalee - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1645
   region: KR
+  uploaded: 2025-12-07

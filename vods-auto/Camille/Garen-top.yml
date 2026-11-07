@@ -11,17 +11,18 @@
   cam: true
   startSec: 9738
   endSec: 11203
-- videoId: 7ALTcf08AuY
-  title: Camille Top vs Garen - EUW Challenger Patch 26.05
-  rankClaim: Challenger
-  patch: "26.5"
-  durationSec: 1508
-  region: EUW
 - videoId: gLA-xfmk3hA
   title: Camille vs Garen Top - EUW Challenger - Patch 16.05 Season 16
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1501
+  region: EUW
+  uploaded: 2026-03-10
+- videoId: 7ALTcf08AuY
+  title: Camille Top vs Garen - EUW Challenger Patch 26.05
+  rankClaim: Challenger
+  patch: "26.5"
+  durationSec: 1508
   region: EUW
   uploaded: 2026-03-10
 - videoId: e50G3z5R6Bc
@@ -30,3 +31,4 @@
   patch: "25.7"
   durationSec: 1656
   region: KR
+  uploaded: 2025-04-08

@@ -5,15 +5,91 @@
   patch: "26.7"
   durationSec: 1852
   region: EUW
+  uploaded: 2026-04-06
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:57
+      label: Get a Double Kill
+      kind: kill
+    - at: 5:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 10:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:36
+      label: Take down The Turret
+      kind: tower
+    - at: 26:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:29
+      label: Take down The Turret
+      kind: tower
+    - at: 26:55
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 27:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:42
+      label: Take down The Turret
+      kind: tower
+    - at: 28:04
+      label: Take down The Inhibitor
+    - at: 28:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:09
+      label: Take down The Turret
+      kind: tower
+    - at: 29:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:31
+      label: Take down The Turret
+      kind: tower
+    - at: 30:41
+      label: End credit
 - videoId: BS8ukh3bRQU
   title: Senna Support vs Karma - KR Grandmaster Patch 25.20
   rankClaim: Grandmaster
   patch: "25.20"
   durationSec: 1602
   region: KR
+  uploaded: 2025-10-15
 - videoId: RJZj_D91Zyk
   title: Senna Support vs Karma - KR Challenger Patch 25.06
   rankClaim: Challenger
   patch: "25.6"
   durationSec: 1657
   region: KR
+  uploaded: 2025-03-24

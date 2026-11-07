@@ -15,6 +15,7 @@
   durationSec: 1674
   region: EUW
   player: S04E Zwyroo
+  uploaded: 2026-09-29
 - videoId: qzyxF5M9IbU
   title: (KT Bdd) Syndra Mid vs Viktor - KR Challenger Patch 26.16
   rankClaim: Challenger
@@ -23,3 +24,13 @@
   region: KR
   player: Bdd
   team: KT
+  uploaded: 2026-08-15
+- videoId: rQMAA_PBs9U
+  title: "Rank 1 Syndra : His DEVASTATING Mechanic WRECKED Viktor - CN Super Server"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 1380
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2026-06-10
+  format: stream

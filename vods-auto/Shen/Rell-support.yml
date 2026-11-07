@@ -5,15 +5,62 @@
   patch: "26.17"
   durationSec: 1873
   region: KR
+  uploaded: 2026-09-04
 - videoId: tD7_VQ01XU8
   title: Shen Support vs Rell - KR Master Patch 25.08
   rankClaim: Master
   patch: "25.8"
   durationSec: 1494
   region: KR
+  uploaded: 2025-04-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 4:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:47
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:06
+      label: Take down The Turret
+      kind: tower
+    - at: 23:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: End credit
 - videoId: X7dw5Zt5tHM
   title: Shen Support vs Rell - KR Master Patch 25.05
   rankClaim: Master
   patch: "25.5"
   durationSec: 1685
   region: KR
+  uploaded: 2025-03-17

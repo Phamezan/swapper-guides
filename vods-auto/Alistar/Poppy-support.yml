@@ -5,27 +5,120 @@
   patch: "26.6"
   durationSec: 1572
   region: KR
+  uploaded: 2026-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:14
+      label: Take down The Turret
+      kind: tower
+    - at: 20:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:22
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 25:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:01
+      label: End credit
 - videoId: xHT96h-kKZQ
   title: Alistar Support vs Poppy - KR Challenger Patch 26.02
   rankClaim: Challenger
   patch: "26.2"
   durationSec: 1577
   region: KR
+  uploaded: 2026-01-25
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:17
+      label: Take down The Turret
+      kind: tower
+    - at: 16:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:40
+      label: Take down The Turret
+      kind: tower
+    - at: 20:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:54
+      label: Take down The Turret
+      kind: tower
+    - at: 26:06
+      label: End credit
 - videoId: Sg-Jr55EUus
   title: Alistar Support vs Poppy - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1445
   region: NA
+  uploaded: 2025-12-25
 - videoId: ANMcGXFAC0w
   title: Alistar Support vs Poppy - KR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1542
   region: KR
+  uploaded: 2025-09-13
 - videoId: Hq0HXg2H8A0
   title: Alistar Support vs Poppy - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1516
   region: EUW
+  uploaded: 2025-07-09

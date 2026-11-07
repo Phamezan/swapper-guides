@@ -5,6 +5,7 @@
   patch: "25.24"
   durationSec: 1616
   region: EUW
+  uploaded: 2025-12-29
 - videoId: CwDj4QU2TYw
   title: Yasuo vs Sylas MID [ QuadraKill ] Lol Korea Grandmaster Patch 25.18
   rankClaim: Grandmaster
@@ -12,6 +13,7 @@
   durationSec: 1327
   region: KR
   player: QuadraKill
+  uploaded: 2025-09-22
 - videoId: 88ptHb6K2b4
   title: Yasuo vs Sylas MID [ Quadrakill ] Lol Korea Master Patch 25.14
   rankClaim: Master
@@ -19,12 +21,14 @@
   durationSec: 1116
   region: KR
   player: Quadrakill
+  uploaded: 2025-07-23
 - videoId: UrgXlMnr9x0
   title: Yasuo vs Sylas Mid - EUW Grandmaster - Patch 25.13 Season 15
   rankClaim: Grandmaster
   patch: "25.13"
   durationSec: 1461
   region: EUW
+  uploaded: 2025-07-02
 - videoId: Y_ohQyrASTI
   title: Faker Yasuo vs Sylas Mid - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
@@ -32,6 +36,7 @@
   durationSec: 1721
   region: KR
   player: Faker
+  uploaded: 2025-06-04
 - videoId: 3RuY8tLcgGE
   title: T1 Faker Yasuo vs Sylas [ MID ] Patch 25.11 Korea Challenger
   rankClaim: Challenger
@@ -40,6 +45,7 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-06-03
 - videoId: sBt9m9ouru0
   title: PzZZang Yasuo vs Sylas Mid - KR Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster
@@ -47,21 +53,25 @@
   durationSec: 1530
   region: KR
   player: PzZZang
+  uploaded: 2025-05-10
 - videoId: pjgtb6nu-Ug
   title: Yasuo vs Sylas Mid - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1781
   region: KR
-- videoId: ZKLiPpQhKXU
-  title: Yasuo Mid vs Sylas - KR Master Patch 25.05
-  rankClaim: Master
-  patch: "25.5"
-  durationSec: 1720
-  region: KR
+  uploaded: 2025-04-30
 - videoId: KYCUm7wb588
   title: Yasuo vs Sylas Mid - KR Grandmaster - Patch 25.5 Season 15
   rankClaim: Grandmaster
   patch: "25.5"
   durationSec: 1540
   region: KR
+  uploaded: 2025-03-19
+- videoId: ZKLiPpQhKXU
+  title: Yasuo Mid vs Sylas - KR Master Patch 25.05
+  rankClaim: Master
+  patch: "25.5"
+  durationSec: 1720
+  region: KR
+  uploaded: 2025-03-09

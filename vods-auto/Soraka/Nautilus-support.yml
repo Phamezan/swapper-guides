@@ -55,33 +55,97 @@
   patch: "26.19"
   durationSec: 1578
   region: KR
+  uploaded: 2026-09-27
 - videoId: mj4_p7cn-MI
   title: Soraka Support vs Nautilus - NA Challenger Patch 26.05
   rankClaim: Challenger
   patch: "26.5"
   durationSec: 1656
   region: NA
+  uploaded: 2026-03-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 0:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:38
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:36
+      label: Take down The Turret
+      kind: tower
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Take down The Turret
+      kind: tower
+    - at: 25:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:40
+      label: Take down The Turret
+      kind: tower
+    - at: 26:50
+      label: Take down The Inhibitor
+    - at: 27:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:11
+      label: Take down The Turret
+      kind: tower
+    - at: 27:25
+      label: End credit
 - videoId: fK2uI-ql-2A
   title: Soraka Support vs Nautilus - KR Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1537
   region: KR
+  uploaded: 2025-11-28
 - videoId: 8fsjifTBm7Y
   title: Soraka Support vs Nautilus - KR Master Patch 25.18
   rankClaim: Master
   patch: "25.18"
   durationSec: 1664
   region: KR
+  uploaded: 2025-09-17
 - videoId: XXh-sPkYDJ4
   title: Soraka Support vs Nautilus - KR Master Patch 25.15
   rankClaim: Master
   patch: "25.15"
   durationSec: 1956
   region: KR
+  uploaded: 2025-08-07
 - videoId: wF4U6nOoot8
   title: Soraka Support vs Nautilus - NA Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1884
   region: NA
+  uploaded: 2025-07-27

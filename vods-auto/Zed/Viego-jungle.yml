@@ -759,70 +759,307 @@
   rankClaim: Master
   patch: "26.5"
   durationSec: 1883
+  uploaded: 2026-03-06
 - videoId: wLSkn6nOYJc
   title: Zed Jungle vs Viego - VN Challenger Patch 26.03
   rankClaim: Challenger
   patch: "26.3"
   durationSec: 1520
+  uploaded: 2026-02-07
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:42
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 5:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:24
+      label: Get a Double Kill
+      kind: kill
+    - at: 9:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:36
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:06
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:40
+      label: Get a Double Kill
+      kind: kill
+    - at: 21:06
+      label: Take down The Turret
+      kind: tower
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:18
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:46
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 24:18
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:39
+      label: Take down The Inhibitor
+    - at: 25:09
+      label: End credit
 - videoId: BAMBQmjZQZ8
   title: Zed Jungle vs Viego - VN Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1471
+  uploaded: 2026-01-09
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:33
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:40
+      label: Get a Triple Kill
+      kind: kill
+    - at: 11:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:48
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:45
+      label: Get a Double Kill
+      kind: kill
+    - at: 17:10
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:05
+      label: Hunt The Atakhan
+    - at: 24:20
+      label: End credit
 - videoId: 1lubszIdqvc
   title: Zed Jungle vs Viego - KR Grandmaster Patch 25.19
   rankClaim: Grandmaster
   patch: "25.19"
   durationSec: 1647
   region: KR
+  uploaded: 2025-09-27
 - videoId: 3igdH1R1TIY
   title: Zed Jungle vs Viego - KR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1451
   region: KR
+  uploaded: 2025-09-13
+- videoId: ZDbj0Cby5bE
+  title: Zed Jungle vs Viego - VN Grandmaster Patch 25.17
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 1682
+  uploaded: 2025-09-08
 - videoId: kUCfmsEVngA
   title: Zed vs Viego Jungle - KR Challenger - Patch 25.17 Season 15
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1441
   region: KR
-- videoId: ZDbj0Cby5bE
-  title: Zed Jungle vs Viego - VN Grandmaster Patch 25.17
-  rankClaim: Grandmaster
-  patch: "25.17"
-  durationSec: 1682
+  uploaded: 2025-09-08
 - videoId: -BJcD92nguk
   title: Zed Jungle vs Viego - KR Challenger Patch 25.16
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1731
   region: KR
+  uploaded: 2025-08-17
 - videoId: vllgabulwHE
   title: Zed Jungle vs Viego - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 2057
   region: KR
+  uploaded: 2025-08-01
 - videoId: GUOtmRc5IVE
   title: Zed Jungle vs Viego - EUW Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1765
   region: EUW
+  uploaded: 2025-05-03
 - videoId: cFeuH5ayhlI
   title: Zed Jungle vs Viego - EUW Grandmaster Patch 25.08
   rankClaim: Grandmaster
   patch: "25.8"
   durationSec: 1944
   region: EUW
+  uploaded: 2025-04-19
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:47
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 17:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 32:03
+      label: End credit
 - videoId: VfMVm246UNA
   title: Zed Jungle vs Viego - TW Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1486
+  uploaded: 2025-04-15
 - videoId: 7boUMoNSrRw
   title: Zed Jungle vs Viego - VN Master Patch 25.06
   rankClaim: Master
   patch: "25.6"
   durationSec: 1820
+  uploaded: 2025-03-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:15
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 8:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:57
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:24
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 16:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Hunt The Atakhan
+    - at: 21:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:26
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 27:56
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 29:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:30
+      label: Get a Double Kill
+      kind: kill
+    - at: 29:59
+      label: End credit

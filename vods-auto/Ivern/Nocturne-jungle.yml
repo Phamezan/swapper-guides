@@ -5,6 +5,7 @@
   patch: "26.14"
   durationSec: 1550
   region: EUW
+  uploaded: 2026-07-31
 - videoId: wNIwGKUrfmk
   title: Ivern Jungle vs Nocturne (AL Shanks) - EUW Grandmaster Patch 26.12
   rankClaim: Grandmaster
@@ -12,9 +13,80 @@
   durationSec: 1701
   region: EUW
   player: Shanks
+  uploaded: 2026-06-24
 - videoId: czmGP58d2BI
   title: Ivern Jungle vs Nocturne - NA Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1522
   region: NA
+  uploaded: 2025-12-12
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 6:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:43
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 12:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:29
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:14
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 17:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:46
+      label: Take down The Turret
+      kind: tower
+    - at: 20:59
+      label: Hunt The Atakhan
+    - at: 21:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:28
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 23:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:28
+      label: Take down The Turret
+      kind: tower
+    - at: 23:48
+      label: Take down The Inhibitor
+    - at: 25:11
+      label: End credit

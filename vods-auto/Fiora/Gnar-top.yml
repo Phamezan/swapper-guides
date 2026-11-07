@@ -5,15 +5,86 @@
   patch: "26.10"
   durationSec: 1580
   region: KR
+  uploaded: 2026-05-20
 - videoId: oArT2PqYNaU
   title: Fiora Top vs Gnar - EUW Grandmaster Patch 25.24
   rankClaim: Grandmaster
   patch: "25.24"
   durationSec: 1559
   region: EUW
+  uploaded: 2025-12-18
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 5:39
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 7:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:21
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:43
+      label: Take down The Turret
+      kind: tower
+    - at: 12:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:02
+      label: Take down The Turret
+      kind: tower
+    - at: 15:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:34
+      label: Take down The Turret
+      kind: tower
+    - at: 18:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:16
+      label: Take down The Turret
+      kind: tower
+    - at: 20:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:22
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:14
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:01
+      label: Take down The Turret
+      kind: tower
+    - at: 25:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:33
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:48
+      label: End credit
 - videoId: mN2XI8icAck
   title: Fiora Top vs Gnar - EUW Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1655
   region: EUW
+  uploaded: 2025-06-12

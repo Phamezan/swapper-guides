@@ -5,24 +5,71 @@
   patch: "26.2"
   durationSec: 1569
   region: KR
+  uploaded: 2026-01-26
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 8:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:18
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 14:45
+      label: Take down The Turret
+      kind: tower
+    - at: 15:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:37
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:32
+      label: Take down The Inhibitor
+    - at: 24:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:15
+      label: Get a Double Kill
+      kind: kill
+    - at: 25:58
+      label: End credit
 - videoId: 5rEwGBgy8QU
   title: Aurora Mid vs Galio - KR Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1557
   region: KR
+  uploaded: 2025-12-08
 - videoId: olG0ZsbTgWE
   title: Aurora vs Galio Mid - EUW Challenger - Patch 25.21 Season 15
   rankClaim: Challenger
   patch: "25.21"
   durationSec: 2141
   region: EUW
+  uploaded: 2025-10-24
 - videoId: OpGLlWT3380
   title: Aurora vs Galio Mid - KR Challenger - Patch 25.17 Season 15
   rankClaim: Challenger
   patch: "25.17"
   durationSec: 1606
   region: KR
+  uploaded: 2025-09-04
 - videoId: EQpTXzCOApo
   title: T1 Faker Aurora vs Galio [ MID ] Patch 25.1 Ranked Korea ✅
   rankClaim: Master+
@@ -31,3 +78,4 @@
   region: KR
   player: Faker
   team: T1
+  uploaded: 2025-01-15

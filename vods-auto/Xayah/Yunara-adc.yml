@@ -32,27 +32,77 @@
   patch: "26.9"
   durationSec: 1528
   region: KR
+  uploaded: 2026-05-05
+  result: L
+  moments:
+    - at: 1:48
+      label: First Blood — Graves kills Yunara
+      kind: kill
+    - at: 4:46
+      label: Xayah picks off Mel
+    - at: 5:10
+      label: Xayah takes down Yunara
+    - at: 5:39
+      label: Rakan eliminates Mel
+    - at: 8:14
+      label: Xayah picks off Mel
+    - at: 9:11
+      label: Xayah takes down Yunara
+    - at: 9:41
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 10:09
+      label: Xayah outplays Mel
+    - at: 10:59
+      label: Graves kills Mel
+      kind: kill
+    - at: 12:26
+      label: Singed kills Lee Sin
+      kind: kill
+    - at: 15:57
+      label: Red takes 2nd Dragon (Mountain)
+      kind: dragon
+    - at: 17:16
+      label: Xayah eliminates Lee Sin
+    - at: 18:51
+      label: Graves takes down Lee Sin
+    - at: 21:33
+      label: Mid Inhibitor falls (Blue)
+    - at: 21:56
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 22:32
+      label: Viktor takes down Kennen
+    - at: 22:56
+      label: Red takes Baron
+      kind: baron
+    - at: 23:53
+      label: Top Inhibitor falls (Blue)
 - videoId: nWUL3EB9nRs
   title: Xayah ADC vs Yunara - KR Grandmaster Patch 26.02
   rankClaim: Grandmaster
   patch: "26.2"
   durationSec: 1615
   region: KR
+  uploaded: 2026-01-30
 - videoId: nbGhsOIUl9U
   title: Xayah vs Yunara [ ADC ] Lol Korea Master Patch 25.24 ✅
   rankClaim: Master
   patch: "25.24"
   durationSec: 1462
   region: KR
+  uploaded: 2025-12-20
 - videoId: CVhcFISsaZQ
   title: Xayah ADC vs Yunara - EUW Challenger Patch 25.22
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1747
   region: EUW
+  uploaded: 2025-11-21
 - videoId: MDk_iZQYABI
   title: Xayah ADC vs Yunara - KR Challenger Patch 25.15
   rankClaim: Challenger
   patch: "25.15"
   durationSec: 2107
   region: KR
+  uploaded: 2025-08-04

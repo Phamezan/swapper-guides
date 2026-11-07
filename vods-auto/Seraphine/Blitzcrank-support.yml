@@ -5,9 +5,64 @@
   patch: "25.19"
   durationSec: 1525
   region: KR
+  uploaded: 2025-09-28
 - videoId: KG7lZOXlmgw
   title: Seraphine Support vs Blitzcrank - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1697
   region: KR
+  uploaded: 2025-04-10
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:25
+      label: Take down The Turret
+      kind: tower
+    - at: 23:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:53
+      label: Take down The Turret
+      kind: tower
+    - at: 27:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:43
+      label: Take down The Turret
+      kind: tower
+    - at: 27:56
+      label: End credit

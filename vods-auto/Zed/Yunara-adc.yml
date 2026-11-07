@@ -215,21 +215,157 @@
   patch: "26.6"
   durationSec: 1481
   region: KR
+  uploaded: 2026-03-29
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:51
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:59
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 21:55
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:46
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 23:12
+      label: Take down The Turret
+      kind: tower
+    - at: 23:40
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:30
+      label: End credit
 - videoId: fih8nksXggc
   title: Zed ADC vs Yunara - EUW Grandmaster Patch 26.03
   rankClaim: Grandmaster
   patch: "26.3"
   durationSec: 1821
   region: EUW
+  uploaded: 2026-02-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:55
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:33
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:05
+      label: Take down The Turret
+      kind: tower
+    - at: 20:11
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Take down The Turret
+      kind: tower
+    - at: 23:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:02
+      label: Take down The Turret
+      kind: tower
+    - at: 27:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:04
+      label: Get a Double Kill
+      kind: kill
+    - at: 30:10
+      label: End credit
 - videoId: TwstTWdBfHA
   title: Zed ADC vs Yunara - EUW Master Patch 25.24
   rankClaim: Master
   patch: "25.24"
   durationSec: 1487
   region: EUW
+  uploaded: 2025-12-30
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 10:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:44
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 12:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:16
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:29
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:23
+      label: Get a Double Kill
+      kind: kill
+    - at: 20:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:25
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 21:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:34
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:36
+      label: End credit
 - videoId: TEIQ1BUkqrY
   title: Zed ADC vs Yunara - EUW Master Patch 25.23
   rankClaim: Master
   patch: "25.23"
   durationSec: 1731
   region: EUW
+  uploaded: 2025-11-29

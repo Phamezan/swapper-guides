@@ -11,3 +11,20 @@
   cam: true
   startSec: 1375
   endSec: 2907
+- videoId: IZYELuKJH80
+  title: GANGPLANK MAKES JAX AN IRRELEVANT CHAMPION
+  rankClaim: Master+
+  patch: "26.14"
+  durationSec: 1428
+  patchEstimated: true
+  player: Solarbacca
+  uploaded: 2026-07-20
+  format: stream
+  cam: true
+  moments:
+    - at: 0:00
+      label: Game 1 (vs Jax)
+    - at: 9:18
+      label: Game 2  (vs Ryze)
+    - at: 14:31
+      label: Game 3 (vs Akali)

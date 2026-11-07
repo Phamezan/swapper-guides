@@ -5,3 +5,47 @@
   patch: "25.24"
   durationSec: 1523
   region: EUW
+  uploaded: 2025-12-11
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:51
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:46
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:21
+      label: Get a Double Kill
+      kind: kill
+    - at: 19:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:52
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 20:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:52
+      label: Hunt The Atakhan
+    - at: 22:11
+      label: Get a Double Kill
+      kind: kill
+    - at: 22:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:12
+      label: End credit

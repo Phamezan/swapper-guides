@@ -4,21 +4,72 @@
   rankClaim: Challenger
   patch: "26.7"
   durationSec: 1790
+  uploaded: 2026-04-05
 - videoId: ZOnv40rhje8
   title: Irelia Top vs Gangplank - KR Master Patch 26.06
   rankClaim: Master
   patch: "26.6"
   durationSec: 1507
   region: KR
+  uploaded: 2026-03-21
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:52
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 8:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:12
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 11:46
+      label: Take down The Turret
+      kind: tower
+    - at: 12:09
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:58
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 16:17
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 16:44
+      label: Take down The Turret
+      kind: tower
+    - at: 20:05
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:00
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:42
+      label: Take down The Turret
+      kind: tower
+    - at: 24:10
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:56
+      label: End credit
 - videoId: BgYhsjCxla0
   title: Irelia vs GangPlank Top - KR Grandmaster - Patch 25.23 Season 15
   rankClaim: Grandmaster
   patch: "25.23"
   durationSec: 1381
   region: KR
+  uploaded: 2025-11-29
 - videoId: bgCXgMqoyuk
   title: Irelia vs GangPlank Top - KR Grandmaster - Patch 25.16
   rankClaim: Grandmaster
   patch: "25.16"
   durationSec: 1321
   region: KR
+  uploaded: 2025-08-20

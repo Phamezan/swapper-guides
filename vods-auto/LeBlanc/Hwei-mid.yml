@@ -7,21 +7,72 @@
   region: EUW
   player: Vladi
   team: FNC
+  uploaded: 2026-07-10
 - videoId: M6NpLtVE5-0
   title: LeBlanc Mid vs Hwei - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster
   patch: "25.12"
   durationSec: 1441
   region: KR
+  uploaded: 2025-06-16
 - videoId: kyVw0X_yXQ8
   title: LeBlanc vs Hwei Mid - KR Master - Patch 25.7 Season 15
   rankClaim: Master
   patch: "25.7"
   durationSec: 2110
   region: KR
+  uploaded: 2025-04-12
 - videoId: HCeDq_Pbvek
   title: LeBlanc Mid vs Hwei - KR Challenger Patch 25.04
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1868
   region: KR
+  uploaded: 2025-02-23
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:58
+      label: Take down The Turret
+      kind: tower
+    - at: 18:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:29
+      label: Take down The Turret
+      kind: tower
+    - at: 27:02
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 30:47
+      label: End credit

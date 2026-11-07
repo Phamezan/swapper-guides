@@ -60,9 +60,75 @@
   patch: "26.3"
   durationSec: 1635
   region: EUW
+  uploaded: 2026-02-20
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 0:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 2:32
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:26
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:52
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:57
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:40
+      label: Take down The Turret
+      kind: tower
+    - at: 16:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 18:15
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:54
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:18
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:45
+      label: Take down The Turret
+      kind: tower
+    - at: 24:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:17
+      label: Take down The Turret
+      kind: tower
+    - at: 25:27
+      label: Take down The Inhibitor
+    - at: 25:45
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:46
+      label: Take down The Turret
+      kind: tower
+    - at: 27:04
+      label: End credit
 - videoId: LD9m_TScy-I
   title: Janna Support vs Rell - KR Grandmaster Patch 25.07
   rankClaim: Grandmaster
   patch: "25.7"
   durationSec: 1714
   region: KR
+  uploaded: 2025-04-09

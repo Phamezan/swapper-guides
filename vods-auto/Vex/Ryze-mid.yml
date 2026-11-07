@@ -5,9 +5,61 @@
   patch: "26.6"
   durationSec: 1460
   region: KR
+  uploaded: 2026-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 3:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:28
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 9:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:25
+      label: Get a Double Kill
+      kind: kill
+    - at: 14:59
+      label: Take down The Turret
+      kind: tower
+    - at: 16:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:56
+      label: Get a PENTA KILL
+      kind: kill
+    - at: 19:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:46
+      label: Take down The Turret
+      kind: tower
+    - at: 21:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:04
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 23:19
+      label: Take down The Turret
+      kind: tower
+    - at: 24:09
+      label: End credit
 - videoId: JkUMpuuA-Ew
   title: Vex Mid vs Ryze - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1534
   region: KR
+  uploaded: 2025-10-29

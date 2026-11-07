@@ -14,12 +14,53 @@
   region: KR
   player: ON
   team: BLG
+  uploaded: 2026-05-29
+  result: W
+  moments:
+    - at: 7:57
+      label: First Blood — Lucian kills Vayne
+      kind: kill
+    - at: 12:00
+      label: Nidalee eliminates Miss Fortune
+    - at: 12:24
+      label: Lucian picks off Nautilus
+    - at: 13:02
+      label: Lucian takes down Miss Fortune
+    - at: 14:24
+      label: Red takes 1st Dragon (Ocean)
+      kind: dragon
+    - at: 15:51
+      label: Milio eliminates Vayne
+    - at: 17:36
+      label: Lucian outduels Miss Fortune
+    - at: 19:49
+      label: Lucian eliminates Jayce
+    - at: 20:20
+      label: Tristana Double Kill
+      kind: kill
+    - at: 20:41
+      label: Bot Inhibitor falls (Red)
+    - at: 21:01
+      label: Blue takes 1st Dragon (Hextech)
+      kind: dragon
+    - at: 21:47
+      label: Lucian outplays Miss Fortune again
+    - at: 22:14
+      label: Blue takes Baron
+      kind: baron
+    - at: 23:05
+      label: Mid Inhibitor falls (Red)
+    - at: 23:27
+      label: Top Inhibitor falls (Red)
+    - at: 23:42
+      label: Lucian picks off Vayne
 - videoId: qIJn1N7DLLw
   title: Lucian vs Miss fortune ADC - KR Challenger - Patch 25.20 Season 15
   rankClaim: Challenger
   patch: "25.20"
   durationSec: 1576
   region: KR
+  uploaded: 2025-10-18
 - videoId: qsEeqmRubEY
   title: Lucian vs Miss Fortune ADC [ PentaKill ] Korea Challenger 1195 LP | Patch 25.20 ✅
   rankClaim: Challenger
@@ -27,9 +68,11 @@
   durationSec: 1360
   region: KR
   player: PentaKill
+  uploaded: 2025-10-18
 - videoId: -EH2iIYmIFo
   title: Lucian vs Miss Fortune ADC - KR Challenger - Patch 25.9 Season 15
   rankClaim: Challenger
   patch: "25.9"
   durationSec: 1861
   region: KR
+  uploaded: 2025-05-12

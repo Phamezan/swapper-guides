@@ -5,9 +5,92 @@
   patch: "26.4"
   durationSec: 1479
   region: KR
+  uploaded: 2026-02-22
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:36
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 6:53
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:36
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:35
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:24
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:28
+      label: End credit
 - videoId: ti5216XJN3s
   title: Blitzcrank Support vs Fiddlesticks - KR Master Patch 25.07
   rankClaim: Master
   patch: "25.7"
   durationSec: 1566
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 1:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 4:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 12:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:07
+      label: Take down The Turret
+      kind: tower
+    - at: 15:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:10
+      label: Take down The Turret
+      kind: tower
+    - at: 18:50
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:11
+      label: Take down The Turret
+      kind: tower
+    - at: 22:29
+      label: Take down The Inhibitor
+    - at: 25:45
+      label: End credit

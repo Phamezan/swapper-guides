@@ -5,9 +5,62 @@
   patch: "25.12"
   durationSec: 1572
   region: KR
+  uploaded: 2025-06-13
 - videoId: 5CEuNiVzmco
   title: Galio Mid vs Lissandra - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
   patch: "25.9"
   durationSec: 1758
   region: KR
+  uploaded: 2025-05-04
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 4:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 6:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:03
+      label: Team FIGHT
+      kind: teamfight
+    - at: 11:08
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:48
+      label: Take down The Turret
+      kind: tower
+    - at: 17:01
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:19
+      label: Get a Double Kill
+      kind: kill
+    - at: 24:00
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:39
+      label: Take down The Turret
+      kind: tower
+    - at: 27:32
+      label: Take down The Turret
+      kind: tower
+    - at: 27:48
+      label: Take down The Inhibitor
+    - at: 28:12
+      label: Take down The Turret
+      kind: tower
+    - at: 28:37
+      label: Take down The Inhibitor
+    - at: 28:57
+      label: End credit

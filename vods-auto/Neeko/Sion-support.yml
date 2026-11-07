@@ -5,3 +5,49 @@
   patch: "26.16"
   durationSec: 1655
   region: KR
+  uploaded: 2026-08-28
+  result: W
+  moments:
+    - at: 1:22
+      label: First Blood — Neeko kills Sion
+      kind: kill
+    - at: 1:34
+      label: Neeko catches Quinn
+    - at: 2:30
+      label: Neeko takes down Talon
+    - at: 3:59
+      label: Kai'Sa eliminates Quinn
+    - at: 4:30
+      label: Kai'Sa takes down Syndra
+    - at: 7:05
+      label: Kai'Sa takes down Syndra
+    - at: 8:55
+      label: Neeko picks off Syndra
+    - at: 10:19
+      label: Red takes 1st Dragon (Mountain)
+      kind: dragon
+    - at: 12:42
+      label: Kai'Sa takes down Syndra
+    - at: 13:35
+      label: Zed takes down Quinn
+    - at: 14:41
+      label: Neeko kills Quinn
+      kind: kill
+    - at: 15:50
+      label: Zed kills Sion
+      kind: kill
+    - at: 17:15
+      label: Red takes 2nd Dragon (Cloud)
+      kind: dragon
+    - at: 19:28
+      label: Kai'Sa takes down Syndra
+    - at: 22:28
+      label: Lissandra picks off Syndra
+    - at: 22:57
+      label: Red takes 3rd Dragon (Infernal)
+      kind: dragon
+    - at: 25:10
+      label: Viktor picks off Quinn
+    - at: 26:29
+      label: Neeko kills Quinn
+      kind: kill

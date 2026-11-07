@@ -6,11 +6,13 @@
   durationSec: 1825
   region: EUW
   player: DP Typhoon
+  uploaded: 2026-09-10
 - videoId: rYWAJCrcROk
   title: Kayn Jungle vs Kha'Zix - BR Challenger Patch 26.15
   rankClaim: Challenger
   patch: "26.15"
   durationSec: 1746
+  uploaded: 2026-08-05
 - videoId: gEzkOpTp0tU
   title: Kayn vs KHa'Zix Jungle - NA Challenger - Patch 16.08 Season 16
   rankClaim: Challenger
@@ -24,3 +26,4 @@
   patch: "25.19"
   durationSec: 1291
   region: KR
+  uploaded: 2025-09-27

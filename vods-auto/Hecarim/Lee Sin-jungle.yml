@@ -6,27 +6,88 @@
   durationSec: 1748
   region: EUW
   player: BGT Bicas
+  uploaded: 2026-07-09
 - videoId: XfGwgo6DUC8
   title: Hecarim Jungle vs Lee Sin - KR Master Patch 26.09
   rankClaim: Master
   patch: "26.9"
   durationSec: 1702
   region: KR
+  uploaded: 2026-05-04
 - videoId: Zq4y2TaD5z8
   title: Hecarim Jungle vs Lee Sin - KR Challenger Patch 25.19
   rankClaim: Challenger
   patch: "25.19"
   durationSec: 1422
   region: KR
+  uploaded: 2025-10-02
 - videoId: W8q1yPQ52ic
   title: Hecarim Jungle vs Lee Sin - KR Challenger Patch 25.07
   rankClaim: Challenger
   patch: "25.7"
   durationSec: 1469
   region: KR
+  uploaded: 2025-04-08
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:53
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 6:27
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 10:59
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 11:49
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:56
+      label: Take down The Turret
+      kind: tower
+    - at: 15:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 16:39
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:31
+      label: Get a Double Kill
+      kind: kill
+    - at: 18:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:26
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:38
+      label: Take down The Turret
+      kind: tower
+    - at: 21:07
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 24:08
+      label: End credit
 - videoId: 9Z67jrnftTQ
   title: Hecarim Jungle vs Lee Sin - KR Master Patch 25.04
   rankClaim: Master
   patch: "25.4"
   durationSec: 1896
   region: KR
+  uploaded: 2025-02-23

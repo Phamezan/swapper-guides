@@ -5,24 +5,28 @@
   patch: "25.23"
   durationSec: 1727
   region: KR
+  uploaded: 2025-11-25
 - videoId: qQXwFo3cK24
   title: Xerath Mid vs Orianna - KR Master Patch 25.17
   rankClaim: Master
   patch: "25.17"
   durationSec: 1725
   region: KR
+  uploaded: 2025-09-02
 - videoId: 8M3Ouz7E-18
   title: Xerath Mid vs Orianna - KR Master Patch 25.16
   rankClaim: Master
   patch: "25.16"
   durationSec: 1734
   region: KR
+  uploaded: 2025-08-21
 - videoId: RICToCRS52E
   title: Xerath Mid vs Orianna - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster
   patch: "25.14"
   durationSec: 1809
   region: KR
+  uploaded: 2025-07-23
 - videoId: gCSyC37q7BM
   title: DK ShowMaker Xerath vs Orianna [ MID ] Korea Master Patch 25.13 ✅
   rankClaim: Master
@@ -31,3 +35,4 @@
   region: KR
   player: ShowMaker
   team: DK
+  uploaded: 2025-07-04

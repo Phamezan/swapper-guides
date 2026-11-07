@@ -55,6 +55,22 @@
       kind: kill
     - at: 28:33
       label: Mid Inhibitor falls (Blue)
+- videoId: k0nUVfq6GXY
+  title: "Rank 1 Kai'sa : AP ONE SHOT Kai'sa is Back on HighElo ? Engsub ( vs MF , Xayah )"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1417
+  patchEstimated: true
+  uploaded: 2026-10-15
+  format: stream
+- videoId: PoowOzK6FLw
+  title: "Rank 1 Kai'sa : This ManA Playing Kai'sa Like an ASSASSIN - Engsub ( vs Aphe, Xayah )"
+  rankClaim: Master+
+  patch: "26.20"
+  durationSec: 1760
+  patchEstimated: true
+  uploaded: 2026-10-13
+  format: stream
 - videoId: LQh1gDbaJLE
   title: Kai'Sa vs Xayah ADC - KR Challenger - Patch 16.19 Season 16
   rankClaim: Challenger
@@ -69,6 +85,14 @@
   durationSec: 1369
   region: KR
   uploaded: 2026-09-19
+- videoId: TUL1bFONefI
+  title: "Rank 1 Kai'sa : This Dude is a FREAKING ANIMAL - Engsub ( vs Xayah )"
+  rankClaim: Master+
+  patch: "26.17"
+  durationSec: 831
+  patchEstimated: true
+  uploaded: 2026-09-05
+  format: stream
 - videoId: UyDrGiXzB7s
   title: T1 Peyz Kai'Sa vs Xayah [ ADC ] Patch 26.15 Korea Challenger 2412 LP
   rankClaim: Challenger
@@ -78,30 +102,50 @@
   player: Peyz
   team: T1
   uploaded: 2026-08-06
+- videoId: GuEXqG9Gus0
+  title: "Rank 1 Kai'sa : Insane 1v5 Taking Over Master Elo - Engsub (Kai'sa vs Aphe, Xayah)"
+  rankClaim: Master
+  patch: "26.12"
+  durationSec: 1432
+  patchEstimated: true
+  uploaded: 2026-06-14
+  format: stream
+- videoId: fGOdgIrlUdw
+  title: "Rank 1 Kai'sa : This is The Most CLEANEST Kai'sa on Super Server - Engsub ( Kai'sa vs Xayah )"
+  rankClaim: Master+
+  patch: "26.12"
+  durationSec: 933
+  patchEstimated: true
+  uploaded: 2026-06-12
+  format: stream
 - videoId: XI1N_3MVa8I
   title: Kai'Sa vs Xayah ADC - KR Challenger - Patch 25.22 Season 15
   rankClaim: Challenger
   patch: "25.22"
   durationSec: 1711
   region: KR
+  uploaded: 2025-11-18
 - videoId: KLPDU_YmWJo
   title: Kai'Sa vs Xayah ADC - KR Challenger - Patch 25.18 Season 15
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1751
   region: KR
+  uploaded: 2025-09-22
 - videoId: 7W0_iG1KpiM
   title: Kai'Sa vs Xayah ADC - KR Challenger - Patch 25.16 Season 15
   rankClaim: Challenger
   patch: "25.16"
   durationSec: 1891
   region: KR
+  uploaded: 2025-08-18
 - videoId: 9i5HNb2MXkI
   title: Kai'Sa vs Xayah ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1656
   region: KR
+  uploaded: 2025-06-27
 - videoId: n9Y4ZIuPtxo
   title: T1 Smash Kaisa vs Xayah [ ADC ] Patch 25.12 Korea Challenger
   rankClaim: Challenger
@@ -110,6 +154,7 @@
   region: KR
   player: Smash
   team: T1
+  uploaded: 2025-06-16
 - videoId: GMqauwkWKuk
   title: T1 Gumayusi Kaisa vs Xayah [ ADC ] Patch 25.10 Korea Challenger
   rankClaim: Challenger
@@ -118,12 +163,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-05-22
 - videoId: -iQU7bBTNP8
   title: Kai'Sa vs Xayah ADC - KR Challenger - Patch 25.8 Season 15
   rankClaim: Challenger
   patch: "25.8"
   durationSec: 1681
   region: KR
+  uploaded: 2025-04-26
 - videoId: mLeJItbPvoU
   title: T1 Gumayusi Kaisa vs Xayah [ ADC ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -132,6 +179,7 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-04-09
 - videoId: fsaVIpNtezM
   title: Kaisa vs Xayah ADC [ JDG Peyz ] Patch 25.5 Korea Grandmaster ✅
   rankClaim: Grandmaster
@@ -140,3 +188,4 @@
   region: KR
   player: Peyz
   team: JDG
+  uploaded: 2025-03-10

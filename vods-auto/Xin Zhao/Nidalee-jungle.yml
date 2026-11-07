@@ -58,12 +58,14 @@
   durationSec: 1677
   region: EUW
   player: VIT Lyncas
+  uploaded: 2026-09-15
 - videoId: MAaOqLPIah4
   title: Xin Zhao Jungle vs Nidalee (Natalie) - KR Grandmaster Patch 26.17
   rankClaim: Grandmaster
   patch: "26.17"
   durationSec: 1801
   region: KR
+  uploaded: 2026-09-11
 - videoId: H4leeQ5e9LI
   title: (KT Cuzz) Xin Zhao Jungle vs Nidalee - KR Challenger Patch 26.12
   rankClaim: Challenger
@@ -72,15 +74,18 @@
   region: KR
   player: Cuzz
   team: KT
+  uploaded: 2026-06-13
 - videoId: ffE4ccHE6A8
   title: Xin Zhao Jungle vs Nidalee - NA Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1572
   region: NA
+  uploaded: 2026-01-06
 - videoId: -10YUGBYSyo
   title: Xin Zhao Jungle vs Nidalee - EUW Challenger Patch 25.13
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1541
   region: EUW
+  uploaded: 2025-07-14

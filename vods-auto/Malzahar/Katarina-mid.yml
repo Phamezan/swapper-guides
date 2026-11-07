@@ -6,3 +6,52 @@
   durationSec: 1778
   region: EUW
   player: IJC Dajor
+  uploaded: 2026-05-27
+  result: L
+  moments:
+    - at: 6:20
+      label: First Blood — Malzahar kills Lee Sin
+      kind: kill
+    - at: 8:34
+      label: Malzahar outduels Pyke
+    - at: 10:56
+      label: Malzahar outplays K'Sante
+    - at: 11:08
+      label: Malzahar outplays Pyke again
+    - at: 14:39
+      label: Blue takes 1st Dragon (Cloud)
+      kind: dragon
+    - at: 16:32
+      label: Sylas kills Pyke
+      kind: kill
+    - at: 18:58
+      label: Sylas kills K'Sante
+      kind: kill
+    - at: 19:38
+      label: Red takes Baron
+      kind: baron
+    - at: 20:24
+      label: Red takes 1st Dragon (Infernal)
+      kind: dragon
+    - at: 20:34
+      label: Lucian Double Kill
+      kind: kill
+    - at: 21:06
+      label: Mid Inhibitor falls (Blue)
+    - at: 22:23
+      label: Sylas kills Pyke
+      kind: kill
+    - at: 22:52
+      label: Zed takes down Katarina
+    - at: 25:53
+      label: Lucian picks off Pyke
+    - at: 26:24
+      label: Blue takes 2nd Dragon (Ocean)
+      kind: dragon
+    - at: 27:45
+      label: Malzahar catches Caitlyn
+    - at: 27:57
+      label: Red takes 2nd Baron
+      kind: baron
+    - at: 28:58
+      label: Mid Inhibitor falls (Blue)

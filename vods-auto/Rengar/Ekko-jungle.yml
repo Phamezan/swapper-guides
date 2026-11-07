@@ -5,9 +5,82 @@
   patch: "26.2"
   durationSec: 1581
   region: KR
+  uploaded: 2026-01-28
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 2:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 3:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 4:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:31
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:14
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:46
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:57
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 10:35
+      label: Get a Double Kill
+      kind: kill
+    - at: 11:04
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:20
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 13:38
+      label: Take down The Turret
+      kind: tower
+    - at: 15:02
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 15:58
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 17:02
+      label: Hunt The Rift Herald
+      kind: herald
+    - at: 17:22
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:09
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:56
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:06
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:30
+      label: Get a Triple Kill
+      kind: kill
+    - at: 22:47
+      label: Take down The Turret
+      kind: tower
+    - at: 23:19
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:10
+      label: End credit
 - videoId: UVcxPYfCrhY
   title: Rengar Jungle vs Ekko - KR Grandmaster Patch 25.21
   rankClaim: Grandmaster
   patch: "25.21"
   durationSec: 1518
   region: KR
+  uploaded: 2025-10-30

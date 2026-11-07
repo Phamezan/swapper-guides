@@ -6,9 +6,72 @@
   durationSec: 1654
   region: EUW
   player: Oguzkhan
+  uploaded: 2026-06-15
 - videoId: 6Jn9ntrrWTM
   title: Karthus Jungle vs Naafiri - EUW Challenger Patch 25.24
   rankClaim: Challenger
   patch: "25.24"
   durationSec: 1593
   region: EUW
+  uploaded: 2025-12-16
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 7:44
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:13
+      label: Hunt The Void Grubs
+      kind: grubs
+    - at: 9:05
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 11:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:08
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 15:47
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:30
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 18:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 20:11
+      label: Hunt The Atakhan
+    - at: 20:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:03
+      label: Hunt The Dragon
+      kind: dragon
+    - at: 22:25
+      label: Team FIGHT
+      kind: teamfight
+    - at: 24:16
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:09
+      label: Hunt The Baron Nashor
+      kind: baron
+    - at: 25:34
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:22
+      label: End credit

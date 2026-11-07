@@ -5,9 +5,66 @@
   patch: "25.23"
   durationSec: 1460
   region: KR
+  uploaded: 2025-11-29
 - videoId: FS60Bf0V1u0
   title: Karma Mid vs Taliyah - NA Grandmaster Patch 25.04
   rankClaim: Grandmaster
   patch: "25.4"
   durationSec: 1672
   region: NA
+  uploaded: 2025-03-02
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 6:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 8:17
+      label: Team FIGHT
+      kind: teamfight
+    - at: 9:20
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:41
+      label: Team FIGHT
+      kind: teamfight
+    - at: 14:37
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:05
+      label: Take down The Turret
+      kind: tower
+    - at: 15:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:33
+      label: Team FIGHT
+      kind: teamfight
+    - at: 21:11
+      label: Take down The Turret
+      kind: tower
+    - at: 21:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 22:43
+      label: Team FIGHT
+      kind: teamfight
+    - at: 23:23
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 24:42
+      label: Team FIGHT
+      kind: teamfight
+    - at: 25:45
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 26:39
+      label: Team FIGHT
+      kind: teamfight
+    - at: 27:07
+      label: Take down The Inhibitor
+    - at: 27:17
+      label: Take down The Turret
+      kind: tower
+    - at: 27:31
+      label: End credit

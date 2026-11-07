@@ -15,6 +15,16 @@
   durationSec: 1836
   region: KR
   uploaded: 2026-05-08
+- videoId: Ds0cdm4AHOQ
+  title: When Teayoon Zeri Destroying Teddy Ezreal in KR Challenger Elo - Engsub
+  rankClaim: Challenger
+  patch: "26.3"
+  durationSec: 1239
+  region: KR
+  patchEstimated: true
+  player: Teddy
+  uploaded: 2026-02-10
+  format: stream
 - videoId: 0vJdLmGlj8M
   title: T1 Peyz Zeri vs Ezreal [ ADC ] Korea Master 650 LP | Patch 26.1
   rankClaim: Master
@@ -23,6 +33,7 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-18
 - videoId: F8EQLaaGdEE
   title: T1 Peyz Zeri vs Ezreal [ ADC ] Patch 26.1 Ranked Korea
   rankClaim: Master+
@@ -31,18 +42,21 @@
   region: KR
   player: Peyz
   team: T1
+  uploaded: 2026-01-12
 - videoId: 0Snw9jgaHYg
   title: Zeri ADC vs Ezreal - KR Grandmaster Patch 25.17
   rankClaim: Grandmaster
   patch: "25.17"
   durationSec: 1698
   region: KR
+  uploaded: 2025-09-01
 - videoId: WVhfxx_rKRw
   title: Zeri vs Ezreal ADC - KR Challenger - Patch 25.13 Season 15
   rankClaim: Challenger
   patch: "25.13"
   durationSec: 1546
   region: KR
+  uploaded: 2025-07-03
 - videoId: qfsxTCoTXXM
   title: Zeri vs Ezreal ADC [ DRX Teddy ] Patch 25.12 Korea Challenger
   rankClaim: Challenger
@@ -51,12 +65,14 @@
   region: KR
   player: Teddy
   team: DRX
+  uploaded: 2025-06-16
 - videoId: cRzGKxQAqqk
   title: Zeri ADC vs Ezreal - KR Grandmaster Patch 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1918
   region: KR
+  uploaded: 2025-06-07
 - videoId: n2iugEWcOVg
   title: T1 Gumayusi Zeri vs Ezreal [ ADC ] Korea Challenger Patch 25.10
   rankClaim: Challenger
@@ -65,12 +81,7 @@
   region: KR
   player: Gumayusi
   team: T1
-- videoId: SAKpP2CpSko
-  title: Zeri vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
-  rankClaim: Challenger
-  patch: "25.7"
-  durationSec: 2056
-  region: KR
+  uploaded: 2025-05-26
 - videoId: dpRMv7itijc
   title: Zeri vs Ezreal ADC [ Peyz ] Patch 25.7 Korea Challenger ✅
   rankClaim: Challenger
@@ -78,12 +89,71 @@
   durationSec: 1869
   region: KR
   player: Peyz
+  uploaded: 2025-04-04
+- videoId: SAKpP2CpSko
+  title: Zeri vs Ezreal ADC - KR Challenger - Patch 25.7 Season 15
+  rankClaim: Challenger
+  patch: "25.7"
+  durationSec: 2056
+  region: KR
+  uploaded: 2025-04-03
 - videoId: TLsYV-pPVY4
   title: Zeri ADC vs Ezreal - EUW Grandmaster Patch 25.06
   rankClaim: Grandmaster
   patch: "25.6"
   durationSec: 1816
   region: EUW
+  uploaded: 2025-03-24
+  moments:
+    - at: 0:15
+      label: Runes & Abilities
+    - at: 3:04
+      label: Team FIGHT
+      kind: teamfight
+    - at: 5:29
+      label: Team FIGHT
+      kind: teamfight
+    - at: 10:07
+      label: Team FIGHT
+      kind: teamfight
+    - at: 13:30
+      label: Team FIGHT
+      kind: teamfight
+    - at: 15:15
+      label: Take down The Turret
+      kind: tower
+    - at: 16:59
+      label: Team FIGHT
+      kind: teamfight
+    - at: 17:31
+      label: Take down The Turret
+      kind: tower
+    - at: 18:13
+      label: Team FIGHT
+      kind: teamfight
+    - at: 19:00
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 20:56
+      label: Take down The Turret
+      kind: tower
+    - at: 23:48
+      label: Team FIGHT
+      kind: teamfight
+    - at: 26:54
+      label: Get a SOLO KILL
+      kind: kill
+    - at: 27:12
+      label: Team FIGHT
+      kind: teamfight
+    - at: 28:58
+      label: Team FIGHT
+      kind: teamfight
+    - at: 29:37
+      label: Take down The Turret
+      kind: tower
+    - at: 29:55
+      label: End credit
 - videoId: MGLi2vqcXqY
   title: T1 Gumayusi Zeri vs Ezreal [ ADC ] Patch 25.5 Korea Challenger
   rankClaim: Challenger
@@ -92,12 +162,14 @@
   region: KR
   player: Gumayusi
   team: T1
+  uploaded: 2025-03-15
 - videoId: AaxQApertjo
   title: Zeri vs Ezreal ADC - KR Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
   patch: "25.4"
   durationSec: 1696
   region: KR
+  uploaded: 2025-02-24
 - videoId: RhwialATKzo
   title: Zeri vs Ezreal ADC [ Gen.G Ruler ] Korea Challenger Patch 25.3 ✅
   rankClaim: Challenger
@@ -106,3 +178,4 @@
   region: KR
   player: Ruler
   team: Gen.G
+  uploaded: 2025-02-20

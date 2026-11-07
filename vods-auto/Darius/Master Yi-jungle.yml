@@ -5,12 +5,14 @@
   patch: "25.10"
   durationSec: 1641
   region: KR
+  uploaded: 2025-05-25
 - videoId: 5nkG9Ox5oPU
   title: Darius vs Master Yi Jungle - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger
   patch: "25.5"
   durationSec: 1636
   region: KR
+  uploaded: 2025-03-07
 - videoId: 5gmjQ42lH9k
   title: Darius vs Master Yi Jungle [ KT Cuzz ] Korea Grandmaster Patch 25.5 ✅
   rankClaim: Grandmaster
@@ -19,3 +21,4 @@
   region: KR
   player: Cuzz
   team: KT
+  uploaded: 2025-03-07
