@@ -699,6 +699,15 @@
   durationSec: 1364
   region: EUNE
   uploaded: 2025-08-14
+- videoId: XYRwSzC9pjU
+  title: 🛑 XiaoMing Aatrox vs Mordekaiser (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 1217
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-08-12
+  format: stream
 - videoId: JG8WDxWMfdM
   title: AATROX vs MORDEKAISER (TOP) | 12/1/6, 1600+ games, Godlike, 42k DMG | KR Grandmaster | 25.15
   rankClaim: Grandmaster
