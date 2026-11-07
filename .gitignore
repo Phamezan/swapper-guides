@@ -1,3 +1,9 @@
 node_modules/
 dist/
 .test-tmp/
+.harvest-test-*/
+.vod-test-*/
+*.tmp
+.env
+.env.*
+!.env.example
