@@ -21,6 +21,18 @@
   durationSec: 1448
   region: KR
   uploaded: 2025-10-29
+- videoId: mGYkIKEyUBE
+  title: NEW PATCH NEW ME 25.14 - Trying to find OP champs - VOD July 17th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 21545
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-15
+  format: stream
+  cam: true
+  startSec: 14580
+  endSec: 16680
 - videoId: H3WbiC9JDBo
   title: Garen vs Riven Top - KR Grandmaster - Patch 25.8 Season 15
   rankClaim: Grandmaster
@@ -35,6 +47,18 @@
   durationSec: 1877
   region: KR
   uploaded: 2025-04-26
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 7591
+  endSec: 9371
 - videoId: uS3sH02a9gI
   title: Garen vs Riven [ TOP ] Korea Challenger Patch 25.1 ✅
   rankClaim: Challenger

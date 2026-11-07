@@ -244,6 +244,15 @@
       kind: tower
     - at: 27:00
       label: End credit
+- videoId: F-QerIWBLD0
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Vladimir | NA CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1513
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-11-08
 - videoId: To_UJksSqlM
   title: Ahri Mid vs Vladimir - TW Challenger Patch 25.15
   rankClaim: Challenger

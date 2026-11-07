@@ -154,6 +154,30 @@
   durationSec: 1531
   region: KR
   uploaded: 2025-09-08
+- videoId: iUygze6Dzcs
+  title: EMPEROR PIGGATRON CLIMBS TO GRANDMASTER - VOD July 31st 2025
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 23534
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-26
+  format: stream
+  cam: true
+  startSec: 45
+  endSec: 1695
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 11760
+  endSec: 13597
 - videoId: oKviBsnlnZ4
   title: Irelia vs Ambessa Top - KR Grandmaster - Patch 25.14 Season 15
   rankClaim: Grandmaster
@@ -186,3 +210,15 @@
   player: Doran
   team: T1
   uploaded: 2025-02-27
+- videoId: q661-pRzyDw
+  title: FIRST DAY OF SEASON 15 | CHECKING OUT ALL NEW FEATURES
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 18995
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-10
+  format: stream
+  cam: true
+  startSec: 12956
+  endSec: 15042

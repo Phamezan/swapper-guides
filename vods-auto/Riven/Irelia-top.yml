@@ -97,3 +97,27 @@
   durationSec: 1656
   region: KR
   uploaded: 2025-08-20
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 4780
+  endSec: 5857
+- videoId: 6Ug5n33BXEc
+  title: I FOUND the BEST toplaners THIS PATCH
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 13754
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-14
+  format: stream
+  cam: true
+  startSec: 12681
+  endSec: 13754

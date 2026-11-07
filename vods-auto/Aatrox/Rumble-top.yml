@@ -70,6 +70,33 @@
   player: XiaoMing
   uploaded: 2026-04-30
   format: stream
+- videoId: _3hkoxptkio
+  title: 🛑 XiaoMing Aatrox vs Rumble - Challenger - XiaoMing Aatrox Guide
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1423
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-27
+  format: stream
+- videoId: BI1LNODeYoc
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.18"
+  durationSec: 1986
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-14
+  format: stream
+- videoId: lSxBpAu4e6M
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 1794
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-08-24
+  format: stream
 - videoId: EZGnZN_YmGw
   title: Aatrox vs Rumble Top - KR Grandmaster - Patch 25.16 Season 15
   rankClaim: Grandmaster
@@ -77,6 +104,24 @@
   durationSec: 1876
   region: KR
   uploaded: 2025-08-22
+- videoId: BrL6MkwjtiE
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1509
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-07-26
+  format: stream
+- videoId: 2mmf_8LHUTs
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1764
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-07-17
+  format: stream
 - videoId: REaIwgzmm1k
   title: AATROX vs RUMBLE (TOP) | 6 solo kills | KR Master | 25.13
   rankClaim: Master
@@ -84,6 +129,15 @@
   durationSec: 1793
   region: KR
   uploaded: 2025-07-18
+- videoId: bftf4miOA9I
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.10"
+  durationSec: 1002
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-05-24
+  format: stream
 - videoId: rAOrd55BvI8
   title: AATROX vs RUMBLE (TOP) | BR Grandmaster | 25.9
   rankClaim: Grandmaster
@@ -151,3 +205,12 @@
   durationSec: 1440
   region: KR
   uploaded: 2025-03-09
+- videoId: D4WaSSnWWZ8
+  title: 🛑 XiaoMing Aatrox vs Rumble (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 1181
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-13
+  format: stream

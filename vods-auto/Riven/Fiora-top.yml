@@ -48,6 +48,18 @@
   patch: "26.8"
   durationSec: 1471
   uploaded: 2026-04-25
+- videoId: mGYkIKEyUBE
+  title: NEW PATCH NEW ME 25.14 - Trying to find OP champs - VOD July 17th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 21545
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-15
+  format: stream
+  cam: true
+  startSec: 10470
+  endSec: 12455
 - videoId: _pW_-RNtaUM
   title: Riven vs Fiora Top - EUW Grandmaster - Patch 25.12 Season 15
   rankClaim: Grandmaster
@@ -62,6 +74,30 @@
   durationSec: 1591
   region: EUW
   uploaded: 2025-06-09
+- videoId: 6cr4u46eqEY
+  title: THE CRAZIEST 1V9 CARRY GAMES I PLAYED IN CHALLENGER KOREA
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 5959
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-28
+  format: stream
+  cam: true
+  startSec: 4087
+  endSec: 5959
+- videoId: K9VRvxiAqrw
+  title: FULL DAY OF PLAYING IN KOREAN EMERALD/DIAMOND ELO
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 14362
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-02
+  format: stream
+  cam: true
+  startSec: 10376
+  endSec: 12866
 - videoId: VSdI9Iusafs
   title: Riven vs Fiora [ TOP ] Korea Grandmaster Patch 25.3 ✅
   rankClaim: Grandmaster
@@ -69,3 +105,27 @@
   durationSec: 1419
   region: KR
   uploaded: 2025-02-16
+- videoId: gD2in-GaLzY
+  title: A HARD DAY at work in HIGH ELO
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 14374
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-26
+  format: stream
+  cam: true
+  startSec: 3433
+  endSec: 5212
+- videoId: q661-pRzyDw
+  title: FIRST DAY OF SEASON 15 | CHECKING OUT ALL NEW FEATURES
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 18995
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-10
+  format: stream
+  cam: true
+  startSec: 2304
+  endSec: 4367

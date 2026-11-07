@@ -20,3 +20,39 @@
   durationSec: 1811
   region: EUW
   uploaded: 2025-08-13
+- videoId: tNdQBA4dHpk
+  title: The BEGINNER CLIMBING STARTER PACK
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 12686
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-03
+  format: stream
+  cam: true
+  startSec: 11043
+  endSec: 12686
+- videoId: P1WIl_fo0mU
+  title: FULL DAY OF EDUCATIONAL GAMES WITH URGOT IN DIAMOND/MASTER MMR
+  rankClaim: Master
+  patch: "25.2"
+  durationSec: 13324
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-30
+  format: stream
+  cam: true
+  startSec: 2076
+  endSec: 4729
+- videoId: SaeliCvXIXA
+  title: FULL DAY OF HIGH ELO AND EDUCATIONAL GAMES
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13561
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-28
+  format: stream
+  cam: true
+  startSec: 1955
+  endSec: 3182

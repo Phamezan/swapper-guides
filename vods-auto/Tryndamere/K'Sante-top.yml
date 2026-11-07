@@ -69,6 +69,16 @@
   durationSec: 1486
   region: KR
   uploaded: 2026-02-24
+- videoId: AerUUq-gD6M
+  title: Making K'Sante players SUFFER is always a fun time... (RANK 1 TRYNDAMERE)
+  rankClaim: Master+
+  patch: "25.21"
+  durationSec: 1578
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-11-04
+  format: stream
+  cam: true
 - videoId: QU7QfcGYCw4
   title: Tryndamere Top vs K'Sante - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster
@@ -83,3 +93,25 @@
   durationSec: 1301
   region: KR
   uploaded: 2025-08-22
+- videoId: Nk2U9yTfCy0
+  title: The Rank 1 Tryndamere teaches this K'Sante a valuable lesson...
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 1628
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-08-18
+  format: stream
+  cam: true
+- videoId: JHJ9TQgKjYc
+  title: Full TRYHARD games in CHALLENGER ELO PREPARING FOR KOREA
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 14368
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-26
+  format: stream
+  cam: true
+  startSec: 10218
+  endSec: 12242

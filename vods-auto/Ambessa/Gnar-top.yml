@@ -6,3 +6,15 @@
   durationSec: 1990
   region: EUW
   uploaded: 2025-06-01
+- videoId: 1t07v3rixHE
+  title: FULL DAY OF CHALLENGER ELO GAMES
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 13417
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-06
+  format: stream
+  cam: true
+  startSec: 4964
+  endSec: 6521

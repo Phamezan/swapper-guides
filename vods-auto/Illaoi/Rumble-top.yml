@@ -67,6 +67,16 @@
       kind: kill
     - at: 23:58
       label: End credit
+- videoId: e68uQW0gTG8
+  title: DirtyMobs Illaoi vs Rumble Top
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 2194
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-12-17
+  format: stream
+  cam: true
 - videoId: sZMB_9ZP9BU
   title: Illaoi Top vs Rumble - KR Master Patch 25.22
   rankClaim: Master

@@ -124,6 +124,15 @@
   durationSec: 1396
   region: KR
   uploaded: 2026-02-18
+- videoId: 1LdTfX4oibk
+  title: 🛑 XiaoMing Aatrox vs Akali (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.17"
+  durationSec: 1447
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-09
+  format: stream
 - videoId: GV4FNneJSOw
   title: AATROX vs AKALI (TOP) | 6 solo kills, Dominating | EUNE Master | 25.9
   rankClaim: Master
@@ -131,3 +140,21 @@
   durationSec: 880
   region: EUNE
   uploaded: 2025-05-13
+- videoId: mgdSqmZG4hQ
+  title: 🛑 XiaoMing Aatrox vs Akali (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1881
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-29
+  format: stream
+- videoId: tLW4K_gxNQ8
+  title: 🛑 XiaoMing Aatrox vs Akali (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1899
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-21
+  format: stream

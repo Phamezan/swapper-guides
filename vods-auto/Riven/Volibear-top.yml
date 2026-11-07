@@ -11,3 +11,27 @@
   cam: true
   startSec: 13509
   endSec: 15375
+- videoId: hV_LsSIhmSI
+  title: TRYING TO SPEEDRUN CHALLENGER - VOD August 14th 2025
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 14016
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-31
+  format: stream
+  cam: true
+  startSec: 12240
+  endSec: 13988
+- videoId: jhWcDgCBODg
+  title: FULL FOCUS Challenger Games with MUNDO & RIVEN
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 5470
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-20
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 2056

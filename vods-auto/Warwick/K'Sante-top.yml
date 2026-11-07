@@ -38,3 +38,15 @@
       kind: teamfight
     - at: 27:31
       label: End credit
+- videoId: MuXo7nYjOLM
+  title: FULL DAY OF DUOQ WITH YAMATOSDEATH IN MASTER
+  rankClaim: Master
+  patch: "25.3"
+  durationSec: 12899
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-11
+  format: stream
+  cam: true
+  startSec: 5174
+  endSec: 7427

@@ -92,3 +92,12 @@
     - at: 24:26
       label: Gragas kills Shyvana
       kind: kill
+- videoId: z0QtoK73cXQ
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Singed | NA GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 1842
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-10-17

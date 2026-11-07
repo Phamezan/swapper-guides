@@ -60,6 +60,15 @@
       kind: teamfight
     - at: 26:26
       label: End credit
+- videoId: 9OaetB0KIyA
+  title: 🛑 XiaoMing Aatrox vs ChoGath - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.23"
+  durationSec: 1718
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-11-28
+  format: stream
 - videoId: Ru8rh1QSP5g
   title: AATROX vs CHO'GATH (TOP) | 5k comeback, 50k DMG, Godlike | EUW Master | 25.20
   rankClaim: Master
@@ -74,6 +83,24 @@
   durationSec: 2375
   region: EUW
   uploaded: 2025-08-29
+- videoId: E5ksC-MZvuc
+  title: 🛑 XiaoMing Aatrox vs ChoGath - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 1801
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-07-05
+  format: stream
+- videoId: nOUjamzp0V8
+  title: 🛑 XiaoMing Aatrox vs ChoGath - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 1586
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-06-29
+  format: stream
 - videoId: iyM5VsPQAJk
   title: AATROX vs CHO'GATH (TOP) | 60k DMG | EUW Grandmaster | 25.11
   rankClaim: Grandmaster
@@ -81,3 +108,12 @@
   durationSec: 1718
   region: EUW
   uploaded: 2025-06-10
+- videoId: VU1H4ki8M5w
+  title: 🛑 XiaoMing Aatrox vs ChoGath - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1614
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-25
+  format: stream

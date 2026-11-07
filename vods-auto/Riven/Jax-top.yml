@@ -47,6 +47,30 @@
   cam: true
   startSec: 6075
   endSec: 8590
+- videoId: Kx7gvgA6Kks
+  title: SUNDAY CLIMBING SESSION WITH RIVEN AND MUNDO - VOD July 27th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 17459
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-22
+  format: stream
+  cam: true
+  startSec: 5510
+  endSec: 6840
+- videoId: pYiSUN9Rf0I
+  title: PUSH AND GET THE FANTA MENTOS 💰👀
+  rankClaim: Master+
+  patch: "25.12"
+  durationSec: 13867
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-06-13
+  format: stream
+  cam: true
+  startSec: 8971
+  endSec: 10060
 - videoId: MXySUg_-6zo
   title: Riven Top vs Jax - KR Master Patch 25.05
   rankClaim: Master
@@ -118,3 +142,27 @@
       kind: tower
     - at: 31:29
       label: End credit
+- videoId: O4nAaH13mdg
+  title: USING FUNDAMENTALS IN FULL CHALLEGNER GAMES
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 12371
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-07
+  format: stream
+  cam: true
+  startSec: 8110
+  endSec: 10547
+- videoId: ScL1bSvwHOo
+  title: Educational gameplay on Main account - Finding TheBaus in SoloQ
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 11304
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-17
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 2013

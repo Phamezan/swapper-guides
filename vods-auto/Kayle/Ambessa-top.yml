@@ -36,6 +36,42 @@
   durationSec: 1729
   region: KR
   uploaded: 2025-10-13
+- videoId: KzAL5HrBi7w
+  title: FUNDAMENTAL DOMINATION - VOD August 7th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 22225
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-28
+  format: stream
+  cam: true
+  startSec: 10282
+  endSec: 12443
+- videoId: F59xbykMI2k
+  title: FOCUS SOLOQ AND SOME VARIETY - VOD August 4th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 16796
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-28
+  format: stream
+  cam: true
+  startSec: 11465
+  endSec: 12990
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 17017
+  endSec: 18163
 - videoId: 508ZJbuQ4pg
   title: Kayle vs Ambessa [ TOP ] Korea Master Patch 25.13 ✅
   rankClaim: Master

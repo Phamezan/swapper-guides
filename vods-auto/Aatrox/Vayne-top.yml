@@ -69,6 +69,24 @@
   durationSec: 1568
   region: NA
   uploaded: 2025-12-12
+- videoId: R2u_ZpuJmhA
+  title: 🛑 XiaoMing Aatrox vs Vayne (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.20"
+  durationSec: 1320
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-20
+  format: stream
+- videoId: wIXyIALeGAU
+  title: 🛑 XiaoMing Aatrox vs Vayne – Level 1 Tricks That WIN Lane! | Aatrox Guide
+  rankClaim: Master+
+  patch: "25.20"
+  durationSec: 1690
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-15
+  format: stream
 - videoId: CrlpNXS5E4o
   title: AATROX vs VAYNE (TOP) | Legendary, 13/3/4 | KR Master | 25.17
   rankClaim: Master
@@ -104,3 +122,12 @@
   durationSec: 2165
   region: EUW
   uploaded: 2025-05-29
+- videoId: ajyk3sQEsDA
+  title: 🛑 XiaoMing Aatrox vs Vayne (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 1144
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-09
+  format: stream

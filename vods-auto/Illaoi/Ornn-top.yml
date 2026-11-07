@@ -31,6 +31,16 @@
       kind: teamfight
     - at: 13:46
       label: Game conclusion
+- videoId: MobqoXaucy0
+  title: DirtyMobs Illaoi vs Ornn Top
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1580
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-12-15
+  format: stream
+  cam: true
 - videoId: X8xgX4MHi4s
   title: Illaoi Top vs Ornn - KR Master Patch 25.23
   rankClaim: Master

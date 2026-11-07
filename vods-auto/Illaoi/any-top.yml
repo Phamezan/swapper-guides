@@ -26,6 +26,16 @@
       label: Building high damage
     - at: 20:53
       label: Closing the game
+- videoId: tjiRbhK2-ZM
+  title: The Illaoi my team needed.
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 1714
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-08-07
+  format: stream
+  cam: true
 - videoId: 8-A32T7gH3c
   title: Addressing the Illaoi Changes in Patch 25.15
   rankClaim: Master+
@@ -54,3 +64,63 @@
       label: Gameplay analysis vs Ambessa
     - at: 29:48
       label: Final thoughts
+- videoId: qNW1mh5xD4E
+  title: They were not prepared for Illaoi Time
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1666
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-07-22
+  format: stream
+  cam: true
+- videoId: _sqMqsVUfHY
+  title: VOLTAIC ILLAOI is back?
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1304
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-07-18
+  format: stream
+  cam: true
+- videoId: FFyMMKIQ_mk
+  title: The Illaoi build I've never done before
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 2214
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-07-09
+  format: stream
+  cam: true
+- videoId: To2__k_QlWE
+  title: My Illaoi became Exodia
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 1279
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-07-07
+  format: stream
+  cam: true
+- videoId: U0se2JCeXcI
+  title: ​@Thebausffs Illaoi reviewed by Rank 1 Illaoi
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 1808
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-01-24
+  format: stream
+  cam: true
+- videoId: 2qhIV1jyEXU
+  title: The Unkillable Illaoi
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1325
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-01-17
+  format: stream
+  cam: true

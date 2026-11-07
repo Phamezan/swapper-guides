@@ -22,6 +22,15 @@
   durationSec: 1730
   region: KR
   uploaded: 2025-12-24
+- videoId: _io5ypw2IY4
+  title: 🛑 XiaoMing Aatrox vs Pantheon - Challenger - XiaoMing Aatrox Guide
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1513
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-26
+  format: stream
 - videoId: S6wdlPDE7AA
   title: AATROX vs PANTHEON (TOP) | 10/3/5 | KR Master | 25.16
   rankClaim: Master

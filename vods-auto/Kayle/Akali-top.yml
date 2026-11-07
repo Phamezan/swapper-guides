@@ -14,3 +14,15 @@
   region: KR
   player: 59% Win Rate
   uploaded: 2025-08-03
+- videoId: aCWoMFbesOY
+  title: FULL DAY OF TRYING OUT KAYLE
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13440
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-27
+  format: stream
+  cam: true
+  startSec: 8664
+  endSec: 10886

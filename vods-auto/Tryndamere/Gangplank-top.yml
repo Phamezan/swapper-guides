@@ -60,6 +60,16 @@
   durationSec: 1607
   region: KR
   uploaded: 2025-10-01
+- videoId: U2wlCy8-eBA
+  title: Gangplank but if you stand on a barrel you're getting one shot... (NUCLEAR BARREL BUILD)
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 1690
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-07-02
+  format: stream
+  cam: true
 - videoId: 6ZeWP3Jv0W0
   title: Tryndamere Top vs Gangplank - KR Master Patch 25.12
   rankClaim: Master
@@ -67,3 +77,13 @@
   durationSec: 1557
   region: KR
   uploaded: 2025-06-18
+- videoId: HHT1umswTw0
+  title: This Gangplank was NOT expecting the full AP Tryndamere... (WIZARDMERE IS BACK)
+  rankClaim: Master+
+  patch: "25.10"
+  durationSec: 1970
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-05-27
+  format: stream
+  cam: true

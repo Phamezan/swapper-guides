@@ -6,3 +6,15 @@
   durationSec: 1476
   region: KR
   uploaded: 2026-05-05
+- videoId: F59xbykMI2k
+  title: FOCUS SOLOQ AND SOME VARIETY - VOD August 4th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 16796
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-28
+  format: stream
+  cam: true
+  startSec: 12990
+  endSec: 14910

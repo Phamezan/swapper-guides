@@ -78,6 +78,54 @@
   cam: true
   startSec: 29715
   endSec: 31407
+- videoId: hV_LsSIhmSI
+  title: TRYING TO SPEEDRUN CHALLENGER - VOD August 14th 2025
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 14016
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-31
+  format: stream
+  cam: true
+  startSec: 4907
+  endSec: 6701
+- videoId: mGYkIKEyUBE
+  title: NEW PATCH NEW ME 25.14 - Trying to find OP champs - VOD July 17th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 21545
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-15
+  format: stream
+  cam: true
+  startSec: 8450
+  endSec: 10470
+- videoId: STKmWOBz2wU
+  title: HITTING RANK 25 IN KOREA | THANK YOU ALL!
+  rankClaim: Master+
+  patch: "25.9"
+  durationSec: 3576
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-05-02
+  format: stream
+  cam: true
+  startSec: 11
+  endSec: 2111
+- videoId: 6cr4u46eqEY
+  title: THE CRAZIEST 1V9 CARRY GAMES I PLAYED IN CHALLENGER KOREA
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 5959
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-28
+  format: stream
+  cam: true
+  startSec: 11
+  endSec: 1919
 - videoId: qoHNiKnaQl0
   title: Riven vs Jayce Top - KR Challenger - Patch 25.7 Season 15
   rankClaim: Challenger
@@ -85,3 +133,27 @@
   durationSec: 1921
   region: KR
   uploaded: 2025-04-14
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 20037
+  endSec: 22623
+- videoId: OKNtk-5HYQ8
+  title: Full day of Educational Riven games in CHALLENGER
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 12819
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-05
+  format: stream
+  cam: true
+  startSec: 6651
+  endSec: 8882

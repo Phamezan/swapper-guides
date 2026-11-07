@@ -30,3 +30,15 @@
   durationSec: 1546
   region: NA
   uploaded: 2026-02-28
+- videoId: mGYkIKEyUBE
+  title: NEW PATCH NEW ME 25.14 - Trying to find OP champs - VOD July 17th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 21545
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-15
+  format: stream
+  cam: true
+  startSec: 50
+  endSec: 1980

@@ -14,3 +14,25 @@
   durationSec: 1591
   region: KR
   uploaded: 2026-01-10
+- videoId: L6nbncXcQzc
+  title: I got into it with a Gnar One-Trick... it was a literal blood bath of a game
+  rankClaim: Master+
+  patch: "25.12"
+  durationSec: 2373
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-06-15
+  format: stream
+  cam: true
+- videoId: WYE88yoEkD8
+  title: HOW TO PLAY THE GAME WITH FULL LOSING TEAM
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 13851
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-02
+  format: stream
+  cam: true
+  startSec: 11779
+  endSec: 13851

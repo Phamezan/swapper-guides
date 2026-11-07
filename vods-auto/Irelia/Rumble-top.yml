@@ -24,6 +24,18 @@
   player: Baicaiovo
   uploaded: 2026-04-11
   format: stream
+- videoId: DYh6IQw-5j0
+  title: FRESH START TO THE WEEK, MORE VARIETY CHAMPS - VOD August 18th 2025
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 16821
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-09-03
+  format: stream
+  cam: true
+  startSec: 12113
+  endSec: 14340
 - videoId: TMj-nPDouKs
   title: Irelia Top vs Rumble - KR Master Patch 25.10
   rankClaim: Master

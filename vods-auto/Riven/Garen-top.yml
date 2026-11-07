@@ -43,3 +43,63 @@
   region: EUW
   patchEstimated: true
   uploaded: 2026-04-29
+- videoId: P8YeMw_mC4A
+  title: PLAYING AGAINST GABUNGKING IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.9"
+  durationSec: 3954
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-05-01
+  format: stream
+  cam: true
+  startSec: 233
+  endSec: 1990
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 25
+  endSec: 2210
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 10995
+  endSec: 12357
+- videoId: 2fqLffYqNyg
+  title: Full day of EDUCATIONAL Season 1 champions in MASTER ELO
+  rankClaim: Master
+  patch: "25.3"
+  durationSec: 19950
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-19
+  format: stream
+  cam: true
+  startSec: 11471
+  endSec: 13489
+- videoId: OKNtk-5HYQ8
+  title: Full day of Educational Riven games in CHALLENGER
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 12819
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-05
+  format: stream
+  cam: true
+  startSec: 4918
+  endSec: 6651

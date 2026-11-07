@@ -8,3 +8,27 @@
   player: Zeus
   team: HLE
   uploaded: 2025-02-14
+- videoId: SaeliCvXIXA
+  title: FULL DAY OF HIGH ELO AND EDUCATIONAL GAMES
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13561
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-28
+  format: stream
+  cam: true
+  startSec: 11217
+  endSec: 13561
+- videoId: ScL1bSvwHOo
+  title: Educational gameplay on Main account - Finding TheBaus in SoloQ
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 11304
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-17
+  format: stream
+  cam: true
+  startSec: 4169
+  endSec: 6749

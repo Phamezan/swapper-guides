@@ -19,3 +19,27 @@
   region: EUW
   patchEstimated: true
   uploaded: 2026-04-11
+- videoId: 6cr4u46eqEY
+  title: THE CRAZIEST 1V9 CARRY GAMES I PLAYED IN CHALLENGER KOREA
+  rankClaim: Challenger
+  patch: "25.8"
+  durationSec: 5959
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-28
+  format: stream
+  cam: true
+  startSec: 1919
+  endSec: 4087
+- videoId: 2rSoTnAhBLw
+  title: FULL DAY OF PLAYING IN KOREAN DIAMOND/MASTER ELO
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 13151
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-03
+  format: stream
+  cam: true
+  startSec: 8500
+  endSec: 10073

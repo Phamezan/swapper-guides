@@ -27,3 +27,30 @@
   player: Faker
   uploaded: 2026-05-17
   format: stream
+- videoId: LQh8jTDPNvI
+  title: 2255LP Smolder "HanQL" His DAMAGE is so DAM BROKEN - Engsub
+  rankClaim: Master+
+  patch: "25.23"
+  durationSec: 877
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2025-11-24
+  format: stream
+- videoId: TrJ2MYIfOo4
+  title: "UNLEASH Smolder ADC: Baicaiovo's Challenger Lane & Teamfight Playbook | Engsub"
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1549
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2025-11-05
+  format: stream
+- videoId: VV82zyIeKdY
+  title: "Baicaiovo's Challenger Smolder: Advanced ADC Mechanics & Strategy (Engsub)"
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1935
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2025-10-13
+  format: stream

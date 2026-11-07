@@ -289,6 +289,15 @@
       kind: tower
     - at: 24:53
       label: End credit
+- videoId: srFQ5yPlp58
+  title: "MID.GG: [ Nisqy ] Ahri MID vs Mel | EUW GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.17"
+  durationSec: 833
+  region: EUW
+  patchEstimated: true
+  player: Nisqy
+  uploaded: 2025-09-01
 - videoId: jR1BjjhwWko
   title: Ahri vs Mel [ MID ] Lol Korea Master Patch 25.14 ✅
   rankClaim: Master

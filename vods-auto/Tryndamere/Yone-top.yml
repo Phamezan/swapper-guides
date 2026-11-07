@@ -76,3 +76,33 @@
   patch: "26.5"
   durationSec: 1644
   uploaded: 2026-03-20
+- videoId: JLukjQ5BA5s
+  title: Trash Talking Yone Gets Shut Up Real Quick By The Rank 1 Tryndamere (HE WENT 0-12)
+  rankClaim: Master+
+  patch: "25.19"
+  durationSec: 1779
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-09-24
+  format: stream
+  cam: true
+- videoId: 5gKT_JOSebE
+  title: The Story of how I created a never ending Freeze against this poor Yone (HE GOT DESTROYED)
+  rankClaim: Master+
+  patch: "25.18"
+  durationSec: 1201
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-09-12
+  format: stream
+  cam: true
+- videoId: _y6nR4WgILM
+  title: I made TFBlade go 0/5 on Yone and he wasn't happy... (RANK 1 TRYNDAMERE)
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 1763
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-02-25
+  format: stream
+  cam: true

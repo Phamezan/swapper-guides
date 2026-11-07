@@ -13,6 +13,18 @@
   durationSec: 1546
   region: KR
   uploaded: 2025-10-01
+- videoId: 5Av8ejzwYLA
+  title: SETT SMASH STUESDAY - VOD August 19th 2025
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 17377
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-09-04
+  format: stream
+  cam: true
+  startSec: 5025
+  endSec: 6730
 - videoId: WE590oVAdqU
   title: Sett Top vs Aatrox - KR Master Patch 25.10
   rankClaim: Master

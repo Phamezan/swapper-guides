@@ -13,3 +13,27 @@
   durationSec: 1481
   region: KR
   uploaded: 2025-08-14
+- videoId: eezHqHDVrt8
+  title: WATCH THIS TO CLIMB WITHOUT MAKING KILLS
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13687
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-04
+  format: stream
+  cam: true
+  startSec: 25
+  endSec: 2039
+- videoId: aCWoMFbesOY
+  title: FULL DAY OF TRYING OUT KAYLE
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13440
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-27
+  format: stream
+  cam: true
+  startSec: 2300
+  endSec: 4633

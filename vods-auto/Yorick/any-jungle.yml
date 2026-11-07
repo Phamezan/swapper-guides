@@ -9,3 +9,82 @@
   uploaded: 2026-06-14
   format: stream
   cam: true
+- videoId: G_N4PPzNH-c
+  title: The RETURN Of YORICK Jungle.. Is it still good!?
+  rankClaim: Master+
+  patch: "25.10"
+  durationSec: 2074
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-05-24
+  format: stream
+  cam: true
+  moments:
+    - at: 0:15
+      label: Yorick Game 1
+    - at: 12:15
+      label: Pre game lobby
+    - at: 14:18
+      label: Yorick Game 2
+- videoId: YoFwz1UM2Zk
+  title: THE YORICK REWORK IS HERE AND IT'S INSANE
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 1410
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-04-07
+  format: stream
+  cam: true
+- videoId: llkJ16gJqrk
+  title: MY NEW FAVORITE JUNGLER.. YORICK!!
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1799
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-03-24
+  format: stream
+  cam: true
+- videoId: 7Iq_Vu0Slxw
+  title: "RANK #1 YORICK JUNGLE COACHES BROXAH!?"
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 3593
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-03-20
+  format: stream
+  cam: true
+  moments:
+    - at: 2:00
+      label: Runes
+    - at: 2:13
+      label: Explaining Ghouls & Maiden
+    - at: 3:50
+      label: Game 1
+    - at: 28:52
+      label: How to get more Ghouls
+    - at: 32:23
+      label: Game 2
+    - at: 56:46
+      label: Showing Yorick's clear speed
+- videoId: MmjNGrqmN-I
+  title: CHAT TOLD ME TO PLAY.. YORICK JUNGLE!?
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 2472
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-02-01
+  format: stream
+  cam: true
+  moments:
+    - at: 1:56
+      label: Yorick game 1
+    - at: 20:34
+      label: Review
+    - at: 21:58
+      label: Yorick game 2
+    - at: 38:21
+      label: Review

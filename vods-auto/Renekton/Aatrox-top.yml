@@ -6,3 +6,42 @@
   durationSec: 1620
   region: EUW
   uploaded: 2026-09-27
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 9560
+  endSec: 11760
+- videoId: aLFHZKEqRI4
+  title: 🛑 XiaoMing Renekton vs Aatrox (Best Aatrox) - XiaoMing Renekton Guide
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 1900
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-15
+  format: stream
+- videoId: CaOpdAusjaU
+  title: 🛑 XiaoMing Renekton vs Aatrox (Best Aatrox) - XiaoMing Renekton Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1703
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-14
+  format: stream
+- videoId: oOVpg0A_mdE
+  title: 🛑 XiaoMing Renekton vs Aatrox (Best Aatrox) - XiaoMing Renekton Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1596
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-09
+  format: stream

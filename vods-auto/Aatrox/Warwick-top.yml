@@ -61,3 +61,58 @@
   durationSec: 1566
   region: EUW
   uploaded: 2025-10-07
+- videoId: vk7l1tsrLU8
+  title: 🛑 XiaoMing Aatrox vs Warwick - KR Server - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.18"
+  durationSec: 1033
+  region: KR
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-20
+  format: stream
+- videoId: r1mpClXgoHg
+  title: 🛑 XiaoMing Aatrox vs Warwick (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.12"
+  durationSec: 1436
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-06-15
+  format: stream
+- videoId: K24sd1dTRvU
+  title: 🛑 XiaoMing Aatrox vs Warwick - Over 20 Kills - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 1780
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-07
+  format: stream
+- videoId: 4prW-GU_Z1g
+  title: 🛑 XiaoMing Aatrox vs Warwick (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1591
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-23
+  format: stream
+- videoId: M2m93AqRbG8
+  title: 🛑 XiaoMing Aatrox vs Warwick (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1249
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-22
+  format: stream
+- videoId: Y8qlwiA-T-A
+  title: 🛑 XiaoMing Aatrox vs Warwick (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1149
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-13
+  format: stream

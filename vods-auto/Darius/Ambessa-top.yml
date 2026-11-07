@@ -139,6 +139,30 @@
   durationSec: 1836
   region: KR
   uploaded: 2025-03-31
+- videoId: ymkM3VXFiQM
+  title: HOW TO PLAY WITH STRONG EARLY GAME CHAMPIONS
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 9437
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-03
+  format: stream
+  cam: true
+  startSec: 1935
+  endSec: 4067
+- videoId: ymkM3VXFiQM
+  title: HOW TO PLAY WITH STRONG EARLY GAME CHAMPIONS
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 9437
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-03
+  format: stream
+  cam: true
+  startSec: 8180
+  endSec: 9437
 - videoId: 6PT5zFF5HFs
   title: Darius vs Ambessa Top - KR Master - Patch 15.4 Season 15
   rankClaim: Master

@@ -7,3 +7,27 @@
   region: KR
   player: Untara
   uploaded: 2026-08-04
+- videoId: KzAL5HrBi7w
+  title: FUNDAMENTAL DOMINATION - VOD August 7th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 22225
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-28
+  format: stream
+  cam: true
+  startSec: 6625
+  endSec: 8616
+- videoId: AUS8LN8t1M0
+  title: Chill session with the bros and gals - playing whatever I feel like - VOD August 3rd 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 15336
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-27
+  format: stream
+  cam: true
+  startSec: 11227
+  endSec: 13190

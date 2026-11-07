@@ -62,3 +62,13 @@
   player: Baicaiovo
   uploaded: 2026-01-10
   format: stream
+- videoId: MONAbICOUDI
+  title: I HATE MEL!!!
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1441
+  patchEstimated: true
+  player: Makkro
+  uploaded: 2025-07-17
+  format: stream
+  cam: true

@@ -11,6 +11,30 @@
   cam: true
   startSec: 13484
   endSec: 15531
+- videoId: hV_LsSIhmSI
+  title: TRYING TO SPEEDRUN CHALLENGER - VOD August 14th 2025
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 14016
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-31
+  format: stream
+  cam: true
+  startSec: 3542
+  endSec: 4907
+- videoId: mGYkIKEyUBE
+  title: NEW PATCH NEW ME 25.14 - Trying to find OP champs - VOD July 17th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 21545
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-15
+  format: stream
+  cam: true
+  startSec: 5480
+  endSec: 7310
 - videoId: 0LfPTSkrKxw
   title: Riven vs Gwen Top - EUW Challenger - Patch 25.14 Season 15
   rankClaim: Challenger

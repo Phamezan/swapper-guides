@@ -5,6 +5,18 @@
   patch: "25.24"
   durationSec: 1451
   uploaded: 2026-01-10
+- videoId: 5Av8ejzwYLA
+  title: SETT SMASH STUESDAY - VOD August 19th 2025
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 17377
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-09-04
+  format: stream
+  cam: true
+  startSec: 2986
+  endSec: 5025
 - videoId: 4Z2UsPhYINg
   title: Sett vs Urgot Top - NA Grandmaster - Patch 25.9 Season 15
   rankClaim: Grandmaster

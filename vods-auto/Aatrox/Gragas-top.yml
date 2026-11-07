@@ -59,3 +59,21 @@
   durationSec: 2160
   region: EUW
   uploaded: 2025-03-14
+- videoId: gKiw4MrskRU
+  title: 🛑 XiaoMing Aatrox vs Gragas (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 900
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-10
+  format: stream
+- videoId: fPK5v1uYaBQ
+  title: 🛑 XiaoMing Aatrox vs Gragas (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1878
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-23
+  format: stream

@@ -79,3 +79,49 @@
   uploaded: 2026-01-20
   format: stream
   cam: true
+- videoId: eP4pElBN1_w
+  title: Challenger Baicaiovo's Flawless Lee Sin Masterclass | Jungle Tactics Engsub
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1693
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2025-10-07
+  format: stream
+- videoId: 6lVyQfe6PhI
+  title: He’s BACK! Broxah's 2018 Lee Sin Is UNSTOPPABLE Again! (Ft. Midbeast)
+  rankClaim: Master+
+  patch: "25.19"
+  durationSec: 1712
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-10-06
+  format: stream
+  cam: true
+- videoId: 7s6tl6mxmZw
+  title: How I turned a Losing Game Into a Lee Sin Masterclass
+  rankClaim: Master+
+  patch: "25.19"
+  durationSec: 1232
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-09-24
+  format: stream
+  cam: true
+- videoId: JIhjT55cnvk
+  title: Is Lee Sin The BEST Jungler In Season 15? (Ft. @Noway4u)
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 2037
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-01-14
+  format: stream
+  cam: true
+  moments:
+    - at: 0:00
+      label: The duo journey begins
+    - at: 1:40
+      label: Game 1
+    - at: 14:57
+      label: Game 2

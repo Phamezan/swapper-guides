@@ -88,6 +88,15 @@
   player: XiaoMing
   uploaded: 2026-01-16
   format: stream
+- videoId: w0X0QxUB3zQ
+  title: 🛑 XiaoMing Aatrox vs Kled - Challenger - XiaoMing Aatrox Guide
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1048
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-26
+  format: stream
 - videoId: O0E4ZZpAB_8
   title: AATROX vs KLED (TOP) | Quadra, 49k DMG, 22/3/8, Dominating | NA Master | 25.12
   rankClaim: Master
@@ -95,3 +104,39 @@
   durationSec: 1869
   region: NA
   uploaded: 2025-06-25
+- videoId: WvXPvrCCTIA
+  title: 🛑 XiaoMing Aatrox vs Kled (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 1393
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-11
+  format: stream
+- videoId: NtsL3GPEs7s
+  title: 🛑 XiaoMing Aatrox vs Kled (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1165
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-29
+  format: stream
+- videoId: fyY2tLEpFWw
+  title: 🛑 XiaoMing Aatrox vs Kled (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 1403
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-31
+  format: stream
+- videoId: GZumFcJ3jUw
+  title: 🛑 XiaoMing Aatrox vs Kled (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 1684
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-24
+  format: stream

@@ -32,3 +32,15 @@
   durationSec: 2011
   region: EUW
   uploaded: 2025-09-30
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 8894
+  endSec: 10995

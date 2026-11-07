@@ -18,3 +18,33 @@
       label: Itemization and meta talk
     - at: 20:51
       label: Game state analysis
+- videoId: cYkI_fTIff4
+  title: SILENCE... FIORA PLAYER...
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 1232
+  patchEstimated: true
+  player: Makkro
+  uploaded: 2025-12-10
+  format: stream
+  cam: true
+- videoId: hrr7fnnmy2E
+  title: I GOT LOCKED FOR AN HOUR VS A FIORA
+  rankClaim: Master+
+  patch: "25.23"
+  durationSec: 1572
+  patchEstimated: true
+  player: Makkro
+  uploaded: 2025-11-22
+  format: stream
+  cam: true
+- videoId: -H5uwHNy3F4
+  title: How I met the WORST FIORA SoloQ player EVER...
+  rankClaim: Master+
+  patch: "25.13"
+  durationSec: 925
+  patchEstimated: true
+  player: Makkro
+  uploaded: 2025-06-25
+  format: stream
+  cam: true

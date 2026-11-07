@@ -12,6 +12,18 @@
   durationSec: 1861
   region: NA
   uploaded: 2026-02-27
+- videoId: q5EneSgR1LA
+  title: PART TIME STREAMER - VOD August 10th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 14005
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-29
+  format: stream
+  cam: true
+  startSec: 8418
+  endSec: 10241
 - videoId: pGGOdslsYTY
   title: Ambessa vs Sion Top - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
@@ -19,6 +31,18 @@
   durationSec: 1606
   region: KR
   uploaded: 2025-06-02
+- videoId: 1t07v3rixHE
+  title: FULL DAY OF CHALLENGER ELO GAMES
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 13417
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-06
+  format: stream
+  cam: true
+  startSec: 26
+  endSec: 1826
 - videoId: 4yBYSwd8wlY
   title: HLE Zeus Ambessa vs Sion [ TOP ] Korea Grandmaster Patch 25.3 ✅
   rankClaim: Grandmaster

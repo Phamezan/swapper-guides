@@ -6,6 +6,18 @@
   durationSec: 1485
   region: EUW
   uploaded: 2026-07-22
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 57
+  endSec: 2040
 - videoId: -rdUOs0-2VM
   title: Singed Top vs Gangplank - KR Grandmaster Patch 25.14
   rankClaim: Grandmaster

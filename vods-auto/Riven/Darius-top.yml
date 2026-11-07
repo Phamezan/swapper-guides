@@ -47,3 +47,75 @@
   cam: true
   startSec: 31407
   endSec: 33763
+- videoId: q5EneSgR1LA
+  title: PART TIME STREAMER - VOD August 10th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 14005
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-29
+  format: stream
+  cam: true
+  startSec: 11680
+  endSec: 13956
+- videoId: iUygze6Dzcs
+  title: EMPEROR PIGGATRON CLIMBS TO GRANDMASTER - VOD July 31st 2025
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 23534
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-26
+  format: stream
+  cam: true
+  startSec: 3646
+  endSec: 5140
+- videoId: iUygze6Dzcs
+  title: EMPEROR PIGGATRON CLIMBS TO GRANDMASTER - VOD July 31st 2025
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 23534
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-26
+  format: stream
+  cam: true
+  startSec: 5140
+  endSec: 6860
+- videoId: uzM3Hh8Q6Zk
+  title: YOU WON'T BELIEVE HOW CLOSE I AM TO MUNDO CHALLENGER!
+  rankClaim: Challenger
+  patch: "25.12"
+  durationSec: 14602
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-06-14
+  format: stream
+  cam: true
+  startSec: 1912
+  endSec: 3786
+- videoId: K9VRvxiAqrw
+  title: FULL DAY OF PLAYING IN KOREAN EMERALD/DIAMOND ELO
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 14362
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-02
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 2290
+- videoId: gD2in-GaLzY
+  title: A HARD DAY at work in HIGH ELO
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 14374
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-26
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 1942

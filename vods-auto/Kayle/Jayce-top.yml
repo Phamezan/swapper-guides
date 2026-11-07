@@ -14,6 +14,18 @@
   durationSec: 2087
   region: KR
   uploaded: 2025-10-27
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 18163
+  endSec: 20428
 - videoId: Krhxr7Jb2Ms
   title: Kayle Top vs Jayce - KR Master Patch 25.12
   rankClaim: Master

@@ -11,6 +11,18 @@
   cam: true
   startSec: 14551
   endSec: 16830
+- videoId: 9zTYhNCyjyA
+  title: FULL DAY OF TESTING THE NEW GWEN
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 12731
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-25
+  format: stream
+  cam: true
+  startSec: 8810
+  endSec: 11368
 - videoId: 7B3P6NT4Ysk
   title: Gwen Top vs Poppy - KR Master Patch 25.05
   rankClaim: Master

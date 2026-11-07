@@ -73,3 +73,15 @@
   durationSec: 1321
   region: KR
   uploaded: 2025-08-20
+- videoId: gDO89RNo0E8
+  title: I SPAWNED THE MUNDOPOCALYPSE
+  rankClaim: Master+
+  patch: "25.11"
+  durationSec: 12160
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-06-06
+  format: stream
+  cam: true
+  startSec: 3858
+  endSec: 6088

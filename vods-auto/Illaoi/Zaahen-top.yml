@@ -6,3 +6,13 @@
   durationSec: 1814
   region: NA
   uploaded: 2026-08-27
+- videoId: wLjhP784mr4
+  title: DirtyMobs Illaoi vs Zaahen Top
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 2106
+  patchEstimated: true
+  player: DirtyMobs
+  uploaded: 2025-12-16
+  format: stream
+  cam: true

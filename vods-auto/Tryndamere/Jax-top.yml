@@ -74,6 +74,16 @@
   durationSec: 1685
   region: KR
   uploaded: 2025-11-25
+- videoId: bwR26KXheu4
+  title: RIOT JUST BROKE JAX FOREVER! HE DID NOT NEED THIS BUFF...
+  rankClaim: Master+
+  patch: "25.19"
+  durationSec: 1558
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-09-27
+  format: stream
+  cam: true
 - videoId: iU825DBigTQ
   title: Tryndamere Top vs Jax - KR Grandmaster Patch 25.09
   rankClaim: Grandmaster
@@ -154,3 +164,13 @@
   durationSec: 1754
   region: KR
   uploaded: 2025-03-06
+- videoId: _JE6yc-kTXE
+  title: LEARN HOW TO ABSOLUTELY DESTROY JAX IN LANE (RANK 1 TRYNDAMERE) - League of Legends
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 1314
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-03-04
+  format: stream
+  cam: true

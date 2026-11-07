@@ -14,6 +14,18 @@
   durationSec: 1853
   region: KR
   uploaded: 2026-03-11
+- videoId: _Rqw8nHayi8
+  title: FULL DAY OF PLAYING GWEN IN KOREA
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 5070
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-06
+  format: stream
+  cam: true
+  startSec: 1288
+  endSec: 3183
 - videoId: A6egJC5S2Pw
   title: Gwen vs Yone Top - KR Challenger - Patch 25.6 Season 15
   rankClaim: Challenger

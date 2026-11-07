@@ -71,6 +71,30 @@
   durationSec: 2111
   region: EUW
   uploaded: 2025-09-23
+- videoId: iUygze6Dzcs
+  title: EMPEROR PIGGATRON CLIMBS TO GRANDMASTER - VOD July 31st 2025
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 23534
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-26
+  format: stream
+  cam: true
+  startSec: 8435
+  endSec: 10745
+- videoId: PRnBWuoIMdw
+  title: PUSHING TILL CHALLENGER!
+  rankClaim: Challenger
+  patch: "25.10"
+  durationSec: 18553
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-05-25
+  format: stream
+  cam: true
+  startSec: 20
+  endSec: 2035
 - videoId: 9iP9DuwFGK4
   title: Garen Top vs Jax - KR Grandmaster Patch 25.08
   rankClaim: Grandmaster
@@ -78,3 +102,15 @@
   durationSec: 1956
   region: KR
   uploaded: 2025-04-23
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 9371
+  endSec: 10702

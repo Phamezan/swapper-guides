@@ -130,6 +130,15 @@
       kind: teamfight
     - at: 28:46
       label: End credit
+- videoId: a9G2g40JHpE
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Corki | NA CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1023
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-10-11
 - videoId: FhxlqD-dVWI
   title: Ahri Mid vs Corki - BR Challenger Patch 25.17
   rankClaim: Challenger
@@ -142,6 +151,15 @@
   patch: "25.16"
   durationSec: 1811
   uploaded: 2025-08-23
+- videoId: 7Bes4UWA0bU
+  title: "MID.GG: [ Cupic ] Ahri MID vs Corki | NA CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.15"
+  durationSec: 1584
+  region: NA
+  patchEstimated: true
+  player: Cupic
+  uploaded: 2025-08-07
 - videoId: Qy8tm6oN_Wo
   title: Ahri Mid vs Corki - BR Challenger Patch 25.12
   rankClaim: Challenger

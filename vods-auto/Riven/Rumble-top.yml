@@ -128,3 +128,15 @@
   durationSec: 1776
   region: KR
   uploaded: 2025-04-16
+- videoId: OKNtk-5HYQ8
+  title: Full day of Educational Riven games in CHALLENGER
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 12819
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-05
+  format: stream
+  cam: true
+  startSec: 10779
+  endSec: 12819

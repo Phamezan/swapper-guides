@@ -86,3 +86,39 @@
       kind: teamfight
     - at: 25:13
       label: End credit
+- videoId: 1t07v3rixHE
+  title: FULL DAY OF CHALLENGER ELO GAMES
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 13417
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-06
+  format: stream
+  cam: true
+  startSec: 8450
+  endSec: 9551
+- videoId: OKNtk-5HYQ8
+  title: Full day of Educational Riven games in CHALLENGER
+  rankClaim: Challenger
+  patch: "25.2"
+  durationSec: 12819
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-05
+  format: stream
+  cam: true
+  startSec: 8882
+  endSec: 10779
+- videoId: gD2in-GaLzY
+  title: A HARD DAY at work in HIGH ELO
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 14374
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-26
+  format: stream
+  cam: true
+  startSec: 10740
+  endSec: 12752

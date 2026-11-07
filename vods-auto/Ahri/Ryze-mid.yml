@@ -336,3 +336,20 @@
   durationSec: 1638
   region: EUW
   uploaded: 2025-09-25
+- videoId: pwOQJtd5raI
+  title: "MID.GG: [ Nemesis ] Ahri MID vs Ryze | EUW CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.18"
+  durationSec: 1753
+  region: EUW
+  patchEstimated: true
+  player: Nemesis
+  uploaded: 2025-09-11
+- videoId: Th0yW6XZo_g
+  title: "MID.GG: [ Detention ] Ahri MID vs Ryze | BR MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 955
+  patchEstimated: true
+  player: Detention
+  uploaded: 2025-09-04

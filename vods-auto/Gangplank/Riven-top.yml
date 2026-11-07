@@ -41,6 +41,16 @@
   durationSec: 1561
   region: KR
   uploaded: 2025-09-29
+- videoId: ly2IBj1ZTAo
+  title: Riven Matchup Is Too Easy...
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 1657
+  patchEstimated: true
+  player: Solarbacca
+  uploaded: 2025-04-15
+  format: stream
+  cam: true
 - videoId: VkjQ0DbhBhQ
   title: GangPlank vs Riven Top - KR Challenger - Patch 25.5 Season 15
   rankClaim: Challenger

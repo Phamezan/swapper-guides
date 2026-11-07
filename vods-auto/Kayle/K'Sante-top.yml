@@ -14,6 +14,18 @@
   durationSec: 1723
   region: KR
   uploaded: 2025-11-12
+- videoId: yRcgtPuYfJE
+  title: Educational Games and Southern Bangers🤠 - VOD August 11th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 16708
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-30
+  format: stream
+  cam: true
+  startSec: 9525
+  endSec: 11325
 - videoId: PbE1ZSvwVdE
   title: Kayle Top vs K'Sante - KR Master Patch 25.13
   rankClaim: Master

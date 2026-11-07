@@ -230,6 +230,15 @@
       kind: tower
     - at: 25:54
       label: End credit
+- videoId: lVmw4e5YL2k
+  title: "MID.GG: [ LegitKorea ] Ahri SUPP vs Nami | NA MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.16"
+  durationSec: 1815
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-08-19
 - videoId: 2iMsYsyyM3Q
   title: Ahri Support vs Nami - VN Grandmaster Patch 25.15
   rankClaim: Grandmaster

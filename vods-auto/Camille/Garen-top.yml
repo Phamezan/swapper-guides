@@ -32,3 +32,15 @@
   durationSec: 1656
   region: KR
   uploaded: 2025-04-08
+- videoId: q661-pRzyDw
+  title: FIRST DAY OF SEASON 15 | CHECKING OUT ALL NEW FEATURES
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 18995
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-10
+  format: stream
+  cam: true
+  startSec: 4367
+  endSec: 5923

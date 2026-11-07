@@ -6,3 +6,39 @@
   durationSec: 1857
   region: KR
   uploaded: 2025-04-21
+- videoId: P1WIl_fo0mU
+  title: FULL DAY OF EDUCATIONAL GAMES WITH URGOT IN DIAMOND/MASTER MMR
+  rankClaim: Master
+  patch: "25.2"
+  durationSec: 13324
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-30
+  format: stream
+  cam: true
+  startSec: 11827
+  endSec: 13324
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 12180
+  endSec: 14314
+- videoId: ScL1bSvwHOo
+  title: Educational gameplay on Main account - Finding TheBaus in SoloQ
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 11304
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-17
+  format: stream
+  cam: true
+  startSec: 2013
+  endSec: 4169

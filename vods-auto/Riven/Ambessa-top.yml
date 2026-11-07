@@ -250,6 +250,102 @@
       kind: teamfight
     - at: 24:43
       label: End credit
+- videoId: KzAL5HrBi7w
+  title: FUNDAMENTAL DOMINATION - VOD August 7th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 22225
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-28
+  format: stream
+  cam: true
+  startSec: 2522
+  endSec: 4565
+- videoId: j108xXyuSi8
+  title: YOU'RE NOT SAFE IN YOUR FOUNTAIN ANYMORE! 😡💨💼
+  rankClaim: Master+
+  patch: "25.11"
+  durationSec: 14992
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-05-28
+  format: stream
+  cam: true
+  startSec: 1740
+  endSec: 3840
+- videoId: 2rSoTnAhBLw
+  title: FULL DAY OF PLAYING IN KOREAN DIAMOND/MASTER ELO
+  rankClaim: Master
+  patch: "25.7"
+  durationSec: 13151
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-03
+  format: stream
+  cam: true
+  startSec: 2117
+  endSec: 3273
+- videoId: K9VRvxiAqrw
+  title: FULL DAY OF PLAYING IN KOREAN EMERALD/DIAMOND ELO
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 14362
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-02
+  format: stream
+  cam: true
+  startSec: 2290
+  endSec: 3886
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 14525
+  endSec: 16459
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 16459
+  endSec: 18607
+- videoId: O4nAaH13mdg
+  title: USING FUNDAMENTALS IN FULL CHALLEGNER GAMES
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 12371
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-07
+  format: stream
+  cam: true
+  startSec: 3163
+  endSec: 5415
+- videoId: 1t07v3rixHE
+  title: FULL DAY OF CHALLENGER ELO GAMES
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 13417
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-06
+  format: stream
+  cam: true
+  startSec: 9551
+  endSec: 11693
 - videoId: 7YFOE4rF-FY
   title: Riven vs Ambessa Top - EUW Challenger - Patch 15.4 Season 15
   rankClaim: Challenger
@@ -257,3 +353,15 @@
   durationSec: 2220
   region: EUW
   uploaded: 2025-02-21
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 10702
+  endSec: 12180

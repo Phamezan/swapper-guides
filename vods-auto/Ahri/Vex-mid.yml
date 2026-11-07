@@ -97,3 +97,21 @@
   durationSec: 1558
   region: KR
   uploaded: 2025-11-08
+- videoId: xp4F2TNQIPc
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Vex | NA MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 2198
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-11-05
+- videoId: RYQbG7CSyok
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Vex | NA GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 2160
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-09-18

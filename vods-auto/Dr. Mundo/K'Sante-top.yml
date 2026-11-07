@@ -23,3 +23,39 @@
   cam: true
   startSec: 422
   endSec: 2017
+- videoId: tNdQBA4dHpk
+  title: The BEGINNER CLIMBING STARTER PACK
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 12686
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-03
+  format: stream
+  cam: true
+  startSec: 9391
+  endSec: 11043
+- videoId: -GfO3EPe_RU
+  title: GENTLEMAN ALOIS TEACHES YOU FUNDAMENTALS
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 10926
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-13
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 2428
+- videoId: q661-pRzyDw
+  title: FIRST DAY OF SEASON 15 | CHECKING OUT ALL NEW FEATURES
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 18995
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-10
+  format: stream
+  cam: true
+  startSec: 9265
+  endSec: 10913

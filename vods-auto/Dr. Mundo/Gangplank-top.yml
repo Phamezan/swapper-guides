@@ -11,3 +11,27 @@
   cam: true
   startSec: 12405
   endSec: 13615
+- videoId: V15lCpvlk_o
+  title: MUNDO GOES TO KOREA
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 9634
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-01
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 1797
+- videoId: V15lCpvlk_o
+  title: MUNDO GOES TO KOREA
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 9634
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-01
+  format: stream
+  cam: true
+  startSec: 1797
+  endSec: 3723

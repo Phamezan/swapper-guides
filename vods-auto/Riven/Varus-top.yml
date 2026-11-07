@@ -49,3 +49,15 @@
   durationSec: 1939
   region: KR
   uploaded: 2025-09-05
+- videoId: K9VRvxiAqrw
+  title: FULL DAY OF PLAYING IN KOREAN EMERALD/DIAMOND ELO
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 14362
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-02
+  format: stream
+  cam: true
+  startSec: 3886
+  endSec: 6226

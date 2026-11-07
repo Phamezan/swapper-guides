@@ -206,6 +206,15 @@
   player: XiaoMing
   uploaded: 2026-03-12
   format: stream
+- videoId: Dn4tOVYBkAQ
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "26.4"
+  durationSec: 1850
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2026-02-21
+  format: stream
 - videoId: 3cewgKGn0pU
   title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
   rankClaim: Master+
@@ -326,6 +335,24 @@
   durationSec: 1921
   region: EUW
   uploaded: 2025-09-24
+- videoId: zVkwTzFIeBI
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.18"
+  durationSec: 1271
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-18
+  format: stream
+- videoId: -WVfPS_jFIY
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.17"
+  durationSec: 1867
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-08-27
+  format: stream
 - videoId: mDJ5E6rgMAs
   title: AATROX vs YONE (TOP) | 16/1/1, Legendary, 7 solo kills, 2500+ games | KR Master | 25.16
   rankClaim: Master
@@ -340,6 +367,15 @@
   durationSec: 1400
   region: KR
   uploaded: 2025-08-24
+- videoId: HcdDQHBSYsE
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 1823
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-08-16
+  format: stream
 - videoId: 6r-CCqgQBwA
   title: AATROX vs YONE (TOP) | KR Master | 25.16
   rankClaim: Master
@@ -409,6 +445,15 @@
   patch: "25.13"
   durationSec: 1500
   uploaded: 2025-07-02
+- videoId: aqgCoeqQaNU
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.12"
+  durationSec: 2027
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-06-23
+  format: stream
 - videoId: uKW7QF02n0Y
   title: AATROX vs YONE (TOP) | 16/1/9, Quadra, Legendary, 43k DMG | KR Challenger | 25.12
   rankClaim: Challenger
@@ -430,12 +475,75 @@
   durationSec: 1246
   region: KR
   uploaded: 2025-06-20
+- videoId: RIYnVy-ybtA
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.12"
+  durationSec: 1709
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-06-12
+  format: stream
+- videoId: VKV4pv5ZDb4
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.11"
+  durationSec: 1278
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-06-02
+  format: stream
+- videoId: _uPMkIiX_Ig
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.11"
+  durationSec: 1420
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-06-01
+  format: stream
 - videoId: HWWDAfaRkk0
   title: AATROX vs YONE (TOP) | 69% winrate, 48k DMG, Legendary, 14/4/13 | TR Grandmaster | 25.11
   rankClaim: Grandmaster
   patch: "25.11"
   durationSec: 1889
   uploaded: 2025-06-01
+- videoId: YFtSZGSB5f8
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.9"
+  durationSec: 1597
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-05-10
+  format: stream
+- videoId: nk6MP3EOiFE
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.9"
+  durationSec: 1626
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-30
+  format: stream
+- videoId: dd4OcGOhe6c
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 1035
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-11
+  format: stream
+- videoId: QCW4tDmb-ZM
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 1536
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-09
+  format: stream
 - videoId: QCNcfcJIW38
   title: AATROX vs YONE (TOP) | 8/3/16 | KR Master | 25.7
   rankClaim: Master
@@ -443,6 +551,33 @@
   durationSec: 1733
   region: KR
   uploaded: 2025-04-08
+- videoId: Nx21Tknonns
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1552
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-31
+  format: stream
+- videoId: gujKQn7OA20
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 1264
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-27
+  format: stream
+- videoId: gFVozCPAVB0
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 1198
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-13
+  format: stream
 - videoId: jEWV7tw3wT8
   title: AATROX vs YONE (TOP) | KR Master | 25.5
   rankClaim: Master
@@ -450,3 +585,39 @@
   durationSec: 1631
   region: KR
   uploaded: 2025-03-13
+- videoId: BLzlNj6ki1Q
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 1350
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-07
+  format: stream
+- videoId: 0pNqHASJ5vc
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 1735
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-28
+  format: stream
+- videoId: SzNgfPZx3Ic
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 1647
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-21
+  format: stream
+- videoId: x2AdmhutITc
+  title: 🛑 XiaoMing Aatrox vs Yone (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 981
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-16
+  format: stream

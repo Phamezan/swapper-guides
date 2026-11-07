@@ -23,3 +23,15 @@
   cam: true
   startSec: 33763
   endSec: 36162
+- videoId: iUygze6Dzcs
+  title: EMPEROR PIGGATRON CLIMBS TO GRANDMASTER - VOD July 31st 2025
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 23534
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-26
+  format: stream
+  cam: true
+  startSec: 1695
+  endSec: 3646

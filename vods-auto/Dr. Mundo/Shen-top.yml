@@ -6,3 +6,15 @@
   durationSec: 1725
   region: EUW
   uploaded: 2026-09-15
+- videoId: -GfO3EPe_RU
+  title: GENTLEMAN ALOIS TEACHES YOU FUNDAMENTALS
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 10926
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-13
+  format: stream
+  cam: true
+  startSec: 2428
+  endSec: 3968

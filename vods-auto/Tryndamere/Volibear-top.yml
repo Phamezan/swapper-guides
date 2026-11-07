@@ -67,6 +67,16 @@
       kind: tower
     - at: 25:43
       label: End credit
+- videoId: sp9W0brfU9Q
+  title: THE MOST UNFAIR VOLIBEAR BUILD IN LEAGUE OF LEGENDS! (LEGIT 1V5 THE ENEMY TEAM)
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 1416
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-08-07
+  format: stream
+  cam: true
 - videoId: QFF8Zzgaspw
   title: Tryndamere vs Volibear [ TOP ] Lol Korea Grandmaster Patch 25.12 ✅
   rankClaim: Grandmaster
@@ -74,3 +84,13 @@
   durationSec: 1151
   region: KR
   uploaded: 2025-06-19
+- videoId: B0OLlwppjWg
+  title: I beat this Volibear so bad I actually started to feel bad for him... (HUGE TOP GAP)
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 1690
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-03-08
+  format: stream
+  cam: true

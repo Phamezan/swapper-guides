@@ -6,3 +6,15 @@
   durationSec: 1863
   region: KR
   uploaded: 2026-09-29
+- videoId: G91z6rjvnrQ
+  title: Helping you learn the fundamentals - Educational chill soloQ - VOD August 17th 2025
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 15367
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-09-02
+  format: stream
+  cam: true
+  startSec: 7996
+  endSec: 9730

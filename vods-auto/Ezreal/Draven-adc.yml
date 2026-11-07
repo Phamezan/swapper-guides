@@ -110,6 +110,15 @@
   durationSec: 1921
   region: KR
   uploaded: 2025-12-12
+- videoId: MJqTZi1W5JQ
+  title: When 2255LP Ezreal "HanQL" meet Rank 1 Draven at 1200LP Match
+  rankClaim: Master+
+  patch: "25.21"
+  durationSec: 854
+  patchEstimated: true
+  player: HanQL
+  uploaded: 2025-10-22
+  format: stream
 - videoId: 3Z9NLOhabXI
   title: Ezreal ADC vs Draven - KR Grandmaster Patch 25.18
   rankClaim: Grandmaster

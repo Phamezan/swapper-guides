@@ -232,12 +232,30 @@
   durationSec: 2087
   region: KR
   uploaded: 2025-10-29
+- videoId: 0ezVKjZodxg
+  title: "MID.GG: [ Opat04 ] Ahri MID vs Hwei | EUW CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.19"
+  durationSec: 1249
+  region: EUW
+  patchEstimated: true
+  player: Opat04
+  uploaded: 2025-10-07
 - videoId: qczty_oC1hI
   title: Ahri Mid vs Hwei - BR Challenger Patch 25.18
   rankClaim: Challenger
   patch: "25.18"
   durationSec: 1909
   uploaded: 2025-09-21
+- videoId: Rk2jBsS4OVI
+  title: "MID.GG: [ Arcsecond ] Ahri MID vs Hwei | NA MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.17"
+  durationSec: 1623
+  region: NA
+  patchEstimated: true
+  player: Arcsecond
+  uploaded: 2025-09-07
 - videoId: 5VX-_CvV-x8
   title: Ahri Mid vs Hwei - KR Challenger Patch 25.15
   rankClaim: Challenger

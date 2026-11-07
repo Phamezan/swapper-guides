@@ -41,6 +41,15 @@
   durationSec: 2058
   region: KR
   uploaded: 2025-12-15
+- videoId: vnMxB99DdaI
+  title: 🛑 XiaoMing Aatrox vs Ornn (Challenger) - XiaoMing Aatrox Guide
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1181
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-23
+  format: stream
 - videoId: Y7aZnC-HtKk
   title: AATROX vs ORNN (TOP) | 9 solo kills, 17/2/9, Legendary, 41k DMG | EUW Master | 25.20
   rankClaim: Master
@@ -48,6 +57,15 @@
   durationSec: 1292
   region: EUW
   uploaded: 2025-10-20
+- videoId: dfVrtVX-XrI
+  title: 🛑 XiaoMing Aatrox vs Ornn - Challenger - XiaoMing Aatrox Guide
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 1620
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-10-19
+  format: stream
 - videoId: Md5kaPq32QY
   title: AATROX vs ORNN (TOP) | 18/3/4, Legendary, 40k DMG | EUW Master | 25.18
   rankClaim: Master
@@ -62,6 +80,15 @@
   durationSec: 2215
   region: KR
   uploaded: 2025-09-14
+- videoId: 0HmuAxcqnAE
+  title: 🛑 XiaoMing Aatrox vs Ornn (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 1604
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-08-11
+  format: stream
 - videoId: 4ct9gWdaW2E
   title: AATROX vs ORNN (TOP) | 63k DMG, 17/3/17, Legendary | NA Master | 25.12
   rankClaim: Master
@@ -69,3 +96,67 @@
   durationSec: 2468
   region: NA
   uploaded: 2025-06-22
+- videoId: ylJp3E1DIEo
+  title: 🛑 XiaoMing Aatrox vs Ornn (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.11"
+  durationSec: 1071
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-05-30
+  format: stream
+- videoId: vR0wIbfbNPE
+  title: 🛑 XiaoMing Aatrox vs Ornn (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.9"
+  durationSec: 2233
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-05-07
+  format: stream
+- videoId: 3ntsO_9PX10
+  title: 🛑 XiaoMing Aatrox vs Ornn (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.8"
+  durationSec: 1954
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-28
+  format: stream
+- videoId: ec5cPqEc7iI
+  title: 🛑 XiaoMing Aatrox vs Ornn - Over 20 Kills (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.8"
+  durationSec: 2176
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-04-25
+  format: stream
+- videoId: cU5_IsYWYII
+  title: AATROX CAN'T PLAY AGAINST DEAD MAN'S PLATE ORNN
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 916
+  patchEstimated: true
+  player: Makkro
+  uploaded: 2025-02-25
+  format: stream
+  cam: true
+- videoId: 4fTJdqnEysg
+  title: 🛑 XiaoMing Aatrox vs Ornn (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 1545
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-20
+  format: stream
+- videoId: x117VvpfuDg
+  title: 🛑 XiaoMing Aatrox vs Ornn (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 2068
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-17
+  format: stream

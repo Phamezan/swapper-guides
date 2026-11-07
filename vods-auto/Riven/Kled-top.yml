@@ -18,3 +18,15 @@
   durationSec: 1891
   region: KR
   uploaded: 2026-03-19
+- videoId: SaeliCvXIXA
+  title: FULL DAY OF HIGH ELO AND EDUCATIONAL GAMES
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13561
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-28
+  format: stream
+  cam: true
+  startSec: 8778
+  endSec: 11217

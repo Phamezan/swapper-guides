@@ -30,6 +30,30 @@
   durationSec: 1481
   region: KR
   uploaded: 2025-11-27
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 13597
+  endSec: 14950
+- videoId: gWf3GZcEE4w
+  title: MUNDO PUSH FRIDAY - VOD July 25th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 27287
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-21
+  format: stream
+  cam: true
+  startSec: 12792
+  endSec: 14294
 - videoId: oMECP2cuF0Y
   title: Irelking Irelia vs Jayce Top - KR Challenger - Patch 25.11 Season 15
   rankClaim: Challenger
@@ -45,3 +69,15 @@
   durationSec: 1454
   region: KR
   uploaded: 2025-06-04
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 3443
+  endSec: 4780

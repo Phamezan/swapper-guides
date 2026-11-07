@@ -18,3 +18,27 @@
   durationSec: 1977
   region: KR
   uploaded: 2025-07-03
+- videoId: V15lCpvlk_o
+  title: MUNDO GOES TO KOREA
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 9634
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-01
+  format: stream
+  cam: true
+  startSec: 5262
+  endSec: 6914
+- videoId: JHJ9TQgKjYc
+  title: Full TRYHARD games in CHALLENGER ELO PREPARING FOR KOREA
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 14368
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-26
+  format: stream
+  cam: true
+  startSec: 6054
+  endSec: 7992

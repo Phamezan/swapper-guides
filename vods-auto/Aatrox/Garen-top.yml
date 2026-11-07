@@ -284,6 +284,15 @@
   durationSec: 1981
   region: KR
   uploaded: 2025-09-23
+- videoId: _2vEautk3jg
+  title: 🛑 XiaoMing Aatrox vs Garen (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.18"
+  durationSec: 1203
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-19
+  format: stream
 - videoId: jGZOgqQg9jg
   title: AATROX vs GAREN (TOP) | EUW Master | 25.18
   rankClaim: Master
@@ -298,6 +307,24 @@
   durationSec: 1448
   region: KR
   uploaded: 2025-09-15
+- videoId: iDI1xgiL7GU
+  title: 🛑 XiaoMing Aatrox vs Garen (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.18"
+  durationSec: 1197
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-10
+  format: stream
+- videoId: 8v8AE7qVNhs
+  title: 🛑 XiaoMing Aatrox vs Garen (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.17"
+  durationSec: 1785
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-09-07
+  format: stream
 - videoId: pZ1k61iW_u0
   title: AATROX vs GAREN (TOP) | 13/3/13, Legendary | KR Master | 25.17
   rankClaim: Master
@@ -353,3 +380,12 @@
   patch: "25.4"
   durationSec: 1592
   uploaded: 2025-02-22
+- videoId: -1qmPngN83M
+  title: 🛑 XiaoMing Aatrox vs Garen (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1378
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-14
+  format: stream

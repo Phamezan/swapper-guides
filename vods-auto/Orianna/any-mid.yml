@@ -41,3 +41,31 @@
   player: Baicaiovo
   uploaded: 2026-02-22
   format: stream
+- videoId: eV8xZ6XO9cc
+  title: "Baicaiovo's Challenger Orianna Masterclass: Unstoppable Mid Lane Secrets! Engsub"
+  rankClaim: Challenger
+  patch: "25.22"
+  durationSec: 1761
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2025-11-15
+  format: stream
+- videoId: 0jW0tekO6Jo
+  title: "Baicaiovo's Orianna DEMONSTRATION: Challenger Mid Lane Mastery & Teamfight Secrets (Engsub)"
+  rankClaim: Challenger
+  patch: "25.20"
+  durationSec: 2398
+  patchEstimated: true
+  player: Baicaiovo
+  uploaded: 2025-10-11
+  format: stream
+- videoId: v8REdAn1ksc
+  title: CHALLENGER ORIANNA VS SEASON 15
+  rankClaim: Challenger
+  patch: "25.1"
+  durationSec: 791
+  patchEstimated: true
+  player: Shok
+  uploaded: 2025-01-13
+  format: stream
+  cam: true

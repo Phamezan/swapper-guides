@@ -14,3 +14,27 @@
   durationSec: 2121
   region: NA
   uploaded: 2025-06-12
+- videoId: 7VljXEho3fs
+  title: CORPORATE MUNDO IS THE SECRET TO CHALLENGER! 💼
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 17355
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-06-02
+  format: stream
+  cam: true
+  startSec: 5080
+  endSec: 6095
+- videoId: JHJ9TQgKjYc
+  title: Full TRYHARD games in CHALLENGER ELO PREPARING FOR KOREA
+  rankClaim: Challenger
+  patch: "25.4"
+  durationSec: 14368
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-26
+  format: stream
+  cam: true
+  startSec: 3519
+  endSec: 6054

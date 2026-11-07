@@ -20,3 +20,15 @@
   durationSec: 1485
   region: KR
   uploaded: 2025-08-04
+- videoId: 9zTYhNCyjyA
+  title: FULL DAY OF TESTING THE NEW GWEN
+  rankClaim: Master+
+  patch: "25.6"
+  durationSec: 12731
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-25
+  format: stream
+  cam: true
+  startSec: 25
+  endSec: 2703

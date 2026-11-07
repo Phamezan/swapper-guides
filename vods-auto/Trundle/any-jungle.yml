@@ -9,3 +9,20 @@
   uploaded: 2026-02-05
   format: stream
   cam: true
+- videoId: wTZ2-itkA-I
+  title: STOMPING HIGH ELO WITH TRUNDLE... SORT OF
+  rankClaim: Master+
+  patch: "25.12"
+  durationSec: 2264
+  patchEstimated: true
+  player: Broxah
+  uploaded: 2025-06-20
+  format: stream
+  cam: true
+  moments:
+    - at: 0:40
+      label: Game 1
+    - at: 21:05
+      label: Review
+    - at: 22:21
+      label: Game 2

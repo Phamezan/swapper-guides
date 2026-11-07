@@ -176,3 +176,12 @@
   durationSec: 1576
   region: KR
   uploaded: 2026-02-06
+- videoId: EIEDn8VVERA
+  title: "MID.GG: [ Jankos ] Ahri MID vs Pantheon | EUW MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1318
+  region: EUW
+  patchEstimated: true
+  player: Jankos
+  uploaded: 2025-08-12

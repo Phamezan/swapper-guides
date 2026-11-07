@@ -30,6 +30,30 @@
   durationSec: 1560
   region: KR
   uploaded: 2026-03-11
+- videoId: Kx7gvgA6Kks
+  title: SUNDAY CLIMBING SESSION WITH RIVEN AND MUNDO - VOD July 27th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 17459
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-22
+  format: stream
+  cam: true
+  startSec: 50
+  endSec: 2160
+- videoId: mGYkIKEyUBE
+  title: NEW PATCH NEW ME 25.14 - Trying to find OP champs - VOD July 17th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 21545
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-15
+  format: stream
+  cam: true
+  startSec: 19670
+  endSec: 21485
 - videoId: MQBDzf35NWw
   title: Riven vs Gragas Top - EUW Grandmaster - Patch 25.15 Season 15
   rankClaim: Grandmaster
@@ -44,3 +68,15 @@
   durationSec: 2059
   region: KR
   uploaded: 2025-03-26
+- videoId: 6Ug5n33BXEc
+  title: I FOUND the BEST toplaners THIS PATCH
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 13754
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-14
+  format: stream
+  cam: true
+  startSec: 9292
+  endSec: 10968

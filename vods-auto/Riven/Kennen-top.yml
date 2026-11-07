@@ -23,3 +23,15 @@
   cam: true
   startSec: 20042
   endSec: 22104
+- videoId: gD2in-GaLzY
+  title: A HARD DAY at work in HIGH ELO
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 14374
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-26
+  format: stream
+  cam: true
+  startSec: 5212
+  endSec: 7359

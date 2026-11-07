@@ -129,3 +129,12 @@
   durationSec: 1451
   region: EUW
   uploaded: 2025-12-13
+- videoId: LR-UnLEvLFc
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Kassadin | NA GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.20"
+  durationSec: 2044
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-10-14

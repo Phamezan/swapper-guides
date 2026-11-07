@@ -94,3 +94,15 @@
   durationSec: 1863
   region: KR
   uploaded: 2025-08-17
+- videoId: eezHqHDVrt8
+  title: WATCH THIS TO CLIMB WITHOUT MAKING KILLS
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13687
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-04
+  format: stream
+  cam: true
+  startSec: 3321
+  endSec: 5630

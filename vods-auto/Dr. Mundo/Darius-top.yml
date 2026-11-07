@@ -43,3 +43,27 @@
   durationSec: 1796
   region: KR
   uploaded: 2025-06-08
+- videoId: 2fqLffYqNyg
+  title: Full day of EDUCATIONAL Season 1 champions in MASTER ELO
+  rankClaim: Master
+  patch: "25.3"
+  durationSec: 19950
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-19
+  format: stream
+  cam: true
+  startSec: 6510
+  endSec: 8816
+- videoId: 2qmf6anQYu4
+  title: AVERAGE START OF THE SEASON EXPERIENCE
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 12803
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-12
+  format: stream
+  cam: true
+  startSec: 9918
+  endSec: 10936

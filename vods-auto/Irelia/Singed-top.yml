@@ -20,3 +20,15 @@
   durationSec: 1680
   region: KR
   uploaded: 2025-02-26
+- videoId: DExRlmP0Jmk
+  title: FULL EDUCATIONAL DAY IN HIGH ELO
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 14314
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-21
+  format: stream
+  cam: true
+  startSec: 2110
+  endSec: 3443

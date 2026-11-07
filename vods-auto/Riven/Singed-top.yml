@@ -23,3 +23,39 @@
   cam: true
   startSec: 114
   endSec: 1872
+- videoId: Kx7gvgA6Kks
+  title: SUNDAY CLIMBING SESSION WITH RIVEN AND MUNDO - VOD July 27th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 17459
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-22
+  format: stream
+  cam: true
+  startSec: 15510
+  endSec: 17375
+- videoId: xk5uBhGL1Pw
+  title: CLIMBING 100 LP IN ONE DAY IN CHALLENGER
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 22623
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-10
+  format: stream
+  cam: true
+  startSec: 18607
+  endSec: 20037
+- videoId: ScL1bSvwHOo
+  title: Educational gameplay on Main account - Finding TheBaus in SoloQ
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 11304
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-17
+  format: stream
+  cam: true
+  startSec: 6749
+  endSec: 9721

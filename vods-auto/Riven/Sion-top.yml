@@ -70,3 +70,27 @@
   durationSec: 1831
   region: EUW
   uploaded: 2025-10-20
+- videoId: u9jPBHrHD7I
+  title: NEW RIVEN BUG?! TIME TO FIND IT! - VOD July 22nd 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 18089
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-20
+  format: stream
+  cam: true
+  startSec: 65
+  endSec: 2115
+- videoId: wtfO8F_vVkw
+  title: CORPORATE MUNDO BUSINESS PROPOSAL TO CHALLENGER 💼
+  rankClaim: Challenger
+  patch: "25.11"
+  durationSec: 21872
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-05-28
+  format: stream
+  cam: true
+  startSec: 11380
+  endSec: 13460

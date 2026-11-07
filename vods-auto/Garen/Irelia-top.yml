@@ -23,3 +23,27 @@
   cam: true
   startSec: 7282
   endSec: 9775
+- videoId: oo301dPEkd0
+  title: EDUCATIONAL VARIETY DAY, TIME TO LEARN! - VOD July 29th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 20531
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-25
+  format: stream
+  cam: true
+  startSec: 8065
+  endSec: 9560
+- videoId: P1WIl_fo0mU
+  title: FULL DAY OF EDUCATIONAL GAMES WITH URGOT IN DIAMOND/MASTER MMR
+  rankClaim: Master
+  patch: "25.2"
+  durationSec: 13324
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-30
+  format: stream
+  cam: true
+  startSec: 4729
+  endSec: 7685

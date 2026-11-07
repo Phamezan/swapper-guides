@@ -19,3 +19,13 @@
   uploaded: 2026-01-18
   format: stream
   cam: true
+- videoId: XXW4uwqgXqM
+  title: So I think Full Crit Vi might be a little busted...
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 1935
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-02-10
+  format: stream
+  cam: true

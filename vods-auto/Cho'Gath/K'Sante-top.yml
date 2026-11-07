@@ -56,3 +56,15 @@
       kind: tower
     - at: 28:41
       label: End credit
+- videoId: aCWoMFbesOY
+  title: FULL DAY OF TRYING OUT KAYLE
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 13440
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-27
+  format: stream
+  cam: true
+  startSec: 10886
+  endSec: 13118

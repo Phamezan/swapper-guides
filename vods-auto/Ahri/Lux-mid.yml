@@ -115,3 +115,12 @@
   durationSec: 1571
   region: KR
   uploaded: 2025-09-28
+- videoId: rz3SGIPkBPA
+  title: "MID.GG: [ Cody Sun ] Ahri MID vs Lux | NA GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.16"
+  durationSec: 2257
+  region: NA
+  patchEstimated: true
+  player: Cody Sun
+  uploaded: 2025-08-16

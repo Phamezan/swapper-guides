@@ -38,3 +38,15 @@
       kind: kill
     - at: 24:07
       label: End credit
+- videoId: P1WIl_fo0mU
+  title: FULL DAY OF EDUCATIONAL GAMES WITH URGOT IN DIAMOND/MASTER MMR
+  rankClaim: Master
+  patch: "25.2"
+  durationSec: 13324
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-30
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 2076

@@ -14,6 +14,18 @@
   durationSec: 1572
   region: KR
   uploaded: 2026-04-22
+- videoId: G91z6rjvnrQ
+  title: Helping you learn the fundamentals - Educational chill soloQ - VOD August 17th 2025
+  rankClaim: Master+
+  patch: "25.16"
+  durationSec: 15367
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-09-02
+  format: stream
+  cam: true
+  startSec: 4691
+  endSec: 6382
 - videoId: r1B_dLBFPdg
   title: Singed Top vs Aatrox - KR Grandmaster Patch 25.12
   rankClaim: Grandmaster

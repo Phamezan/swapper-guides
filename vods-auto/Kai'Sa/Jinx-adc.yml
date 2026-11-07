@@ -155,6 +155,23 @@
       kind: teamfight
     - at: 24:58
       label: End credit
+- videoId: lSI1vIZRBjM
+  title: When Rank 1 Kai'sa meet Rank 1 Jinx - Engsub
+  rankClaim: Master+
+  patch: "25.24"
+  durationSec: 881
+  patchEstimated: true
+  uploaded: 2025-12-07
+  format: stream
+- videoId: COyTSo45VVk
+  title: When 1600LP Kai'sa "Jz" meet Rank 1 Jinx - Engsub
+  rankClaim: Master+
+  patch: "25.23"
+  durationSec: 1002
+  patchEstimated: true
+  player: Jz
+  uploaded: 2025-11-19
+  format: stream
 - videoId: r3ZU8M1EvEs
   title: T1 Smash Kai'Sa vs Jinx ADC [ PentaKill ] Korea Challenger 1575 LP | Patch 25.20
   rankClaim: Challenger

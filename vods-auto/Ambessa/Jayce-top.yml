@@ -6,6 +6,18 @@
   durationSec: 1732
   region: KR
   uploaded: 2026-04-25
+- videoId: gWf3GZcEE4w
+  title: MUNDO PUSH FRIDAY - VOD July 25th 2025
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 27287
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-21
+  format: stream
+  cam: true
+  startSec: 9480
+  endSec: 11436
 - videoId: 6NCREsQyc4A
   title: Ambessa Top vs Jayce - KR Grandmaster Patch 25.10
   rankClaim: Grandmaster

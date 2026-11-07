@@ -392,6 +392,15 @@
   durationSec: 1638
   region: KR
   uploaded: 2025-11-11
+- videoId: tdGbmD84NS4
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Orianna | NA CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.21"
+  durationSec: 1626
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-11-01
 - videoId: 2xaKqMLvnbQ
   title: Ahri Mid vs Orianna - KR Master Patch 25.20
   rankClaim: Master
@@ -399,6 +408,15 @@
   durationSec: 1603
   region: KR
   uploaded: 2025-10-10
+- videoId: 7UQWbNnTg98
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Orianna | NA GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.18"
+  durationSec: 1773
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-09-12
 - videoId: WmooCfFq3fE
   title: Ahri Mid vs Orianna - KR Challenger Patch 25.17
   rankClaim: Challenger

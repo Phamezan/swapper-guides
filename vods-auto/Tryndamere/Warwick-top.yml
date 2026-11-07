@@ -29,6 +29,26 @@
   uploaded: 2026-07-08
   format: stream
   cam: true
+- videoId: xG3_9j3z2mw
+  title: BIG CHICKEN! TRYNDAMERE MADE WARWICK FEEL HELPLESS
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1548
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-07-26
+  format: stream
+  cam: true
+- videoId: KGjii1CJ2Fw
+  title: This Warwick thought he counter picked me... but I know the trick to beating Warwick
+  rankClaim: Master+
+  patch: "25.8"
+  durationSec: 1676
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-04-24
+  format: stream
+  cam: true
 - videoId: HlU-xscSPkk
   title: Tryndamere Top vs Warwick - KR Master Patch 25.08
   rankClaim: Master
@@ -36,3 +56,13 @@
   durationSec: 1804
   region: KR
   uploaded: 2025-04-24
+- videoId: h2Z_1fTQjrg
+  title: This Warwick thought he counter picked me... but he didn't know I'm the RANK 1 TRYND!
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 1638
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-02-07
+  format: stream
+  cam: true

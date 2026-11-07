@@ -173,6 +173,15 @@
   durationSec: 1801
   region: KR
   uploaded: 2026-03-23
+- videoId: 6szqQmBuhsc
+  title: "MID.GG: [ Cody Sun ] Ahri MID vs Riven | NA CHALLENGER | LOL Season 2025"
+  rankClaim: Challenger
+  patch: "25.16"
+  durationSec: 1666
+  region: NA
+  patchEstimated: true
+  player: Cody Sun
+  uploaded: 2025-08-13
 - videoId: M_5cQsQdNiE
   title: Ahri Mid vs Riven - BR Grandmaster Patch 25.13
   rankClaim: Grandmaster

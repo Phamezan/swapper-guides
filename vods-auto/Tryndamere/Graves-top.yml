@@ -6,3 +6,33 @@
   durationSec: 1801
   region: EUNE
   uploaded: 2026-09-28
+- videoId: 6Cc8HPAEPpo
+  title: The Most OPPRESSIVE Top Laner in Existence is... GRAVES?! (DROP 25 KILLS EASY)
+  rankClaim: Master+
+  patch: "25.19"
+  durationSec: 2120
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-10-05
+  format: stream
+  cam: true
+- videoId: EceoUGR4rDM
+  title: This Graves tried to CHEESE the Rank 1 Tryndamere and learns a valuable lesson...
+  rankClaim: Master+
+  patch: "25.17"
+  durationSec: 1986
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-09-05
+  format: stream
+  cam: true
+- videoId: Dec7Um5ktVA
+  title: When a Challenger Graves One Trick meets the RANK 1 Tryndamere (BRAWL OF THE SEASON)
+  rankClaim: Challenger
+  patch: "25.5"
+  durationSec: 2736
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-03-11
+  format: stream
+  cam: true

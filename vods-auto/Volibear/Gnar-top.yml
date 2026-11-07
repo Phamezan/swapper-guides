@@ -54,3 +54,15 @@
       kind: kill
     - at: 30:21
       label: Mid Inhibitor falls (Red)
+- videoId: FMCEtldCW7A
+  title: FULL DAY OF EDUCATIONAL VOLIBEAR CONTENT
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 15519
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-03-14
+  format: stream
+  cam: true
+  startSec: 2476
+  endSec: 4825

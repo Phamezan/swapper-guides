@@ -15,3 +15,24 @@
   player: Doran
   team: T1
   uploaded: 2025-03-15
+- videoId: uC_d815dFfA
+  title: 🛑 XiaoMing Ambessa vs Darius - XiaoMing Ambessa Guide (Best Aatrox)
+  rankClaim: Master+
+  patch: "25.5"
+  durationSec: 1532
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-03-09
+  format: stream
+- videoId: gD2in-GaLzY
+  title: A HARD DAY at work in HIGH ELO
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 14374
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-26
+  format: stream
+  cam: true
+  startSec: 1942
+  endSec: 3433

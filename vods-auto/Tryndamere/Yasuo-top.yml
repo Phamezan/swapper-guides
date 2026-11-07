@@ -79,6 +79,16 @@
   durationSec: 1671
   region: KR
   uploaded: 2025-10-31
+- videoId: RSgk2TLntbk
+  title: I beat this Yasuo so bad his entire team reports him... (HE WAS MALDING)
+  rankClaim: Master+
+  patch: "25.20"
+  durationSec: 1183
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-10-13
+  format: stream
+  cam: true
 - videoId: PO8FPaF_Jd0
   title: Tryndamere Top vs Yasuo - NA Grandmaster Patch 25.13
   rankClaim: Grandmaster
@@ -86,3 +96,23 @@
   durationSec: 1823
   region: NA
   uploaded: 2025-07-16
+- videoId: P46xcS_pTgk
+  title: This guy made a mistake picking Yasuo top against the Rank 1 Tryndamere...
+  rankClaim: Master+
+  patch: "25.11"
+  durationSec: 1492
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-06-09
+  format: stream
+  cam: true
+- videoId: nBYMUkWCF7M
+  title: I gave this Yasuo one trick a taste of the Rank 1 Tryndamere (HE GOT BULLIED)
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 1662
+  patchEstimated: true
+  player: Fogged
+  uploaded: 2025-01-30
+  format: stream
+  cam: true

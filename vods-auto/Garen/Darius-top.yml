@@ -32,3 +32,27 @@
   durationSec: 1680
   region: KR
   uploaded: 2025-08-16
+- videoId: TLL8sjp_NQM
+  title: FULL DAY OF EDUCATIONAL GAMES IN DIAMOND WITH BEGINNER TOP LANERS
+  rankClaim: Master+
+  patch: "25.4"
+  durationSec: 12188
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-27
+  format: stream
+  cam: true
+  startSec: 2661
+  endSec: 4406
+- videoId: 1hlyaUFVfc4
+  title: Cho'Gath is BROKEN after TRUE DAMAGE BUFFS
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 13737
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-06
+  format: stream
+  cam: true
+  startSec: 8977
+  endSec: 11463

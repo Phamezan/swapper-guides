@@ -59,3 +59,15 @@
   durationSec: 1331
   region: KR
   uploaded: 2025-08-01
+- videoId: MuXo7nYjOLM
+  title: FULL DAY OF DUOQ WITH YAMATOSDEATH IN MASTER
+  rankClaim: Master
+  patch: "25.3"
+  durationSec: 12899
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-11
+  format: stream
+  cam: true
+  startSec: 9423
+  endSec: 11471

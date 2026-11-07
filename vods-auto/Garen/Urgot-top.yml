@@ -6,3 +6,15 @@
   durationSec: 1865
   region: KR
   uploaded: 2025-07-05
+- videoId: tNdQBA4dHpk
+  title: The BEGINNER CLIMBING STARTER PACK
+  rankClaim: Master+
+  patch: "25.2"
+  durationSec: 12686
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-03
+  format: stream
+  cam: true
+  startSec: 2416
+  endSec: 5242

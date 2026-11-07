@@ -54,6 +54,18 @@
   durationSec: 1805
   region: KR
   uploaded: 2025-10-29
+- videoId: yRcgtPuYfJE
+  title: Educational Games and Southern Bangers🤠 - VOD August 11th 2025
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 16708
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-30
+  format: stream
+  cam: true
+  startSec: 11325
+  endSec: 13077
 - videoId: olKGOj-pOVU
   title: Riven Top vs Gangplank - KR Challenger Patch 25.11
   rankClaim: Challenger
@@ -107,3 +119,15 @@
   durationSec: 2161
   region: NA
   uploaded: 2025-04-10
+- videoId: K9VRvxiAqrw
+  title: FULL DAY OF PLAYING IN KOREAN EMERALD/DIAMOND ELO
+  rankClaim: Master+
+  patch: "25.7"
+  durationSec: 14362
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-04-02
+  format: stream
+  cam: true
+  startSec: 12866
+  endSec: 14362

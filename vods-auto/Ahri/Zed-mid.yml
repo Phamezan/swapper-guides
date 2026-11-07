@@ -390,6 +390,23 @@
   patchEstimated: true
   player: LegitKorea
   uploaded: 2026-03-29
+- videoId: 8_3PaBEgKp4
+  title: "MID.GG: [ LegitKorea ] Ahri MID vs Zed | NA MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.22"
+  durationSec: 1332
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-11-09
+- videoId: jCQ5nTWlCYE
+  title: "MID.GG: [ Detention ] Ahri MID vs Zed | BR MASTER | LOL Season 2025"
+  rankClaim: Master
+  patch: "25.15"
+  durationSec: 1415
+  patchEstimated: true
+  player: Detention
+  uploaded: 2025-08-10
 - videoId: XhJtoHYiTOU
   title: Ahri Mid vs Zed - KR Master Patch 25.14
   rankClaim: Master

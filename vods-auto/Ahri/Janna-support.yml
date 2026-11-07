@@ -118,3 +118,12 @@
   durationSec: 1792
   region: EUW
   uploaded: 2025-08-23
+- videoId: tVLBzdWlbao
+  title: "MID.GG: [ LegitKorea ] Ahri SUPP vs Janna | NA GRANDMASTER | LOL Season 2025"
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 1221
+  region: NA
+  patchEstimated: true
+  player: LegitKorea
+  uploaded: 2025-08-05

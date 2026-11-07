@@ -24,3 +24,21 @@
   durationSec: 2211
   region: KR
   uploaded: 2025-06-24
+- videoId: 5UMp3zuXC1w
+  title: 🛑 XiaoMing Aatrox vs Heimerdinger (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 1694
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-09
+  format: stream
+- videoId: iDzOmUHvZpA
+  title: 🛑 XiaoMing Aatrox vs Heimerdinger (Best Aatrox) - XiaoMing Aatrox Guide
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 1543
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-01-09
+  format: stream

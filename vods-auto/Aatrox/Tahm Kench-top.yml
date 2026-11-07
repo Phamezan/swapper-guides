@@ -68,6 +68,24 @@
   durationSec: 1576
   region: KR
   uploaded: 2025-08-03
+- videoId: U5XfMSdkI9M
+  title: 🛑 XiaoMing Aatrox vs Tahm Kench - Over 20 Kills - XiaoMing Aatrox Stream
+  rankClaim: Master+
+  patch: "25.15"
+  durationSec: 1586
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-08-01
+  format: stream
+- videoId: WmKauI6-yfo
+  title: 🛑 XiaoMing Aatrox vs Tahm Kench - XiaoMing Aatrox Stream
+  rankClaim: Master+
+  patch: "25.14"
+  durationSec: 1330
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-07-16
+  format: stream
 - videoId: BaFBfOvIJR8
   title: AATROX vs TAHM KENCH (TOP) | 44k DMG, Legendary | KR Master | 25.5
   rankClaim: Master
@@ -75,3 +93,12 @@
   durationSec: 1512
   region: KR
   uploaded: 2025-03-19
+- videoId: L_35ZN7yaws
+  title: 🛑 XiaoMing Aatrox vs Tahm Kench (Best Aatrox) - XiaoMing Aatrox Stream
+  rankClaim: Master+
+  patch: "25.3"
+  durationSec: 1032
+  patchEstimated: true
+  player: XiaoMing
+  uploaded: 2025-02-15
+  format: stream

@@ -108,6 +108,18 @@
   cam: true
   startSec: 2269
   endSec: 3709
+- videoId: iUygze6Dzcs
+  title: EMPEROR PIGGATRON CLIMBS TO GRANDMASTER - VOD July 31st 2025
+  rankClaim: Grandmaster
+  patch: "25.15"
+  durationSec: 23534
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-08-26
+  format: stream
+  cam: true
+  startSec: 10745
+  endSec: 12725
 - videoId: DYuWUU4XgAw
   title: Garen Top vs K'Sante - EUW Grandmaster Patch 25.13
   rankClaim: Grandmaster
@@ -122,3 +134,63 @@
   durationSec: 1561
   region: EUW
   uploaded: 2025-03-05
+- videoId: 2fqLffYqNyg
+  title: Full day of EDUCATIONAL Season 1 champions in MASTER ELO
+  rankClaim: Master
+  patch: "25.3"
+  durationSec: 19950
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-02-19
+  format: stream
+  cam: true
+  startSec: 3968
+  endSec: 6510
+- videoId: 6Ug5n33BXEc
+  title: I FOUND the BEST toplaners THIS PATCH
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 13754
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-14
+  format: stream
+  cam: true
+  startSec: 0
+  endSec: 1587
+- videoId: 6Ug5n33BXEc
+  title: I FOUND the BEST toplaners THIS PATCH
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 13754
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-14
+  format: stream
+  cam: true
+  startSec: 5212
+  endSec: 6756
+- videoId: 2qmf6anQYu4
+  title: AVERAGE START OF THE SEASON EXPERIENCE
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 12803
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-12
+  format: stream
+  cam: true
+  startSec: 10936
+  endSec: 12803
+- videoId: q661-pRzyDw
+  title: FIRST DAY OF SEASON 15 | CHECKING OUT ALL NEW FEATURES
+  rankClaim: Master+
+  patch: "25.1"
+  durationSec: 18995
+  patchEstimated: true
+  player: Alois
+  uploaded: 2025-01-10
+  format: stream
+  cam: true
+  startSec: 15042
+  endSec: 16944
