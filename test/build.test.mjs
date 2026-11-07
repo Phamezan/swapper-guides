@@ -56,7 +56,7 @@ test('author ranks and peak claims are validated and published, while legacy aut
 test('pilot compiles exactly to the app fixture without fixture', () => {
   const result = compile(base);
   const champion = JSON.parse(result.files.get('champions/103.json'));
-  assert.deepEqual(champion, { schema: 1, champion: 103, generatedAt, guides: [pilot] });
+  assert.deepEqual(champion, { schema: 1, champion: 103, generatedAt: '1970-01-01T00:00:00Z', guides: [pilot] });
   assert.deepEqual(result.index, {
     schema: 1, generatedAt,
     champions: { 103: { sha256: createHash('sha256').update(result.files.get('champions/103.json')).digest('hex'), guides: 1 } },
@@ -266,6 +266,15 @@ test('schema and generatedAt are compiler controlled', () => {
   assert.equal(compile(base).index.schema, 1);
   reject(change(pilotPath, text => text.replace('reviewed: false', 'reviewed: false\nschema: 2')), /unknown.*schema/);
   assert.throws(() => compileContent(base, { generatedAt: 'not a date' }), /generatedAt/);
+});
+
+test('champion bytes and hashes ignore build time and input insertion order', () => {
+  const first = compile(base);
+  const rebuilt = compileContent(new Map([...base].reverse()), { generatedAt: '2026-11-07T12:00:00Z' });
+  assert.equal(rebuilt.files.get('champions/103.json'), first.files.get('champions/103.json'));
+  assert.deepEqual(rebuilt.index.champions, first.index.champions);
+  assert.notEqual(rebuilt.index.generatedAt, first.index.generatedAt);
+  assert.notEqual(compile(change(pilotPath, text => text.replace('Levels 1–5,', 'Before level 6,'))).files.get('champions/103.json'), first.files.get('champions/103.json'));
 });
 
 test('the complete README example compiles', async () => {

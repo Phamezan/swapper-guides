@@ -181,7 +181,8 @@ export function compileContent(input, { generatedAt = new Date().toISOString(), 
     const general = entries.general.map(entry => entry.guide).sort((a, b) => a.lane.localeCompare(b.lane, 'en'));
     const vods = (entries.vods ?? []).map(({ loc, ...entry }) => entry).sort((a, b) => (a.enemy ?? 0) - (b.enemy ?? 0) || a.lane.localeCompare(b.lane, 'en'));
     // `general` is omitted when empty so matchup-only files keep their original shape.
-    const bytes = json({ schema: 1, champion, generatedAt, guides, ...general.length && { general }, ...vods.length && { vods } });
+    // Legacy apps require this field; build time belongs only in the index, outside content hashes.
+    const bytes = json({ schema: 1, champion, generatedAt: '1970-01-01T00:00:00Z', guides, ...general.length && { general }, ...vods.length && { vods } });
     const loc = (entries.guides[0] ?? entries.general[0] ?? entries.vods[0]).loc;
     if (Buffer.byteLength(bytes, 'utf8') > MAX_CHAMPION_BYTES) fail(loc, `champion ${champion} file exceeds 8 MB`);
     files.set(`champions/${champion}.json`, bytes);
