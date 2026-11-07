@@ -586,6 +586,9 @@ async function fetchDetails(root, rows, cache, details, client, approved) {
 
 export async function harvest(root, { discovery = [], cachedOnly = false, detailsOnly = false, limit = Infinity,
   client = discovery.length ? new DiscoveryClient() : new MetadataClient() } = {}) {
+  if (!cachedOnly && client instanceof MetadataClient && !client.apiKey) {
+    throw new Error('Set YOUTUBE_API_KEY to harvest YouTube metadata.');
+  }
   const published = new Set();
   const generated = path.join(root, 'vods-auto');
   for (const champion of await readdir(generated, { withFileTypes: true }).catch(error => {
