@@ -780,7 +780,8 @@
         "hKSMzaRVA24",
         "c3hHu7O1aSA",
         "oHbm9eNZ3Fo",
-        "QngjORhGD84"
+        "QngjORhGD84",
+        "ATCDVIsVqIc"
       ],
       "complete": true
     },
@@ -3945,7 +3946,9 @@
         "KGC45qhq0tw",
         "DFY6FMLiA-s",
         "jKSmdDTDUIQ",
-        "hI4LoqgxtSY"
+        "hI4LoqgxtSY",
+        "Y0cnr9kaIP8",
+        "5sdxnUCTni4"
       ],
       "complete": true
     },
@@ -15975,7 +15978,8 @@
         "orR_b0a7X_Q",
         "iRLf76vq578",
         "KiLoWw_MfPE",
-        "1VPcIiNl2Ac"
+        "1VPcIiNl2Ac",
+        "9hb_oKKjn3g"
       ],
       "complete": true
     },
@@ -34863,7 +34867,10 @@
         "GqGPV_j42cU",
         "ndVOo0WIf70",
         "Blk03kLuGFg",
-        "AKnjSTApIM8"
+        "AKnjSTApIM8",
+        "1ZEqA-p9w3I",
+        "CsNr2FRi2TQ",
+        "lG56NGlFuE8"
       ],
       "complete": true
     },
@@ -109361,7 +109368,15 @@
         "jksDZhX_gws",
         "bnjptN42gow",
         "iCxS_KS_-Uc",
-        "KHKeUUWLGqE"
+        "KHKeUUWLGqE",
+        "WVRSdFPhyro",
+        "UXSiKaCQfxE",
+        "R8_Op9doCYg",
+        "mO43A58W8kU",
+        "yJD6khs8x9E",
+        "USMyPQN5Ig8",
+        "l_VW1B2k-28",
+        "ZgTD8nZOxqw"
       ],
       "complete": true
     },
@@ -124256,7 +124271,8 @@
         "NQ4TZbQcpnk",
         "Sotjl-SPMeY",
         "_BCtEzcHj1M",
-        "MXqUAg9yd38"
+        "MXqUAg9yd38",
+        "RFhkclU5VBQ"
       ],
       "complete": true
     },
@@ -128162,7 +128178,8 @@
         "J_ByjRO1yxc",
         "639ZE06_QyE",
         "-8VLf2-a6gY",
-        "-NkQhOvidjM"
+        "-NkQhOvidjM",
+        "BvGwmGPn4QU"
       ],
       "complete": true
     },
@@ -1209167,6 +1209184,142 @@
       "uploadDate": "20261107",
       "order": 1,
       "durationSec": 1552
+    },
+    "ATCDVIsVqIc": {
+      "id": "ATCDVIsVqIc",
+      "title": "Ahri Mid vs Hwei - EUW Master Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1986
+    },
+    "Y0cnr9kaIP8": {
+      "id": "Y0cnr9kaIP8",
+      "title": "Zed SOLO KILLS Tristana | NA Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 13
+    },
+    "5sdxnUCTni4": {
+      "id": "5sdxnUCTni4",
+      "title": "Zed Jungle vs Lee Sin - VN Master Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 1697
+    },
+    "9hb_oKKjn3g": {
+      "id": "9hb_oKKjn3g",
+      "title": "T1 Peyz Ezreal vs Kai'Sa [ ADC ] Patch 26.22 Ranked Grandmaster NA",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1446
+    },
+    "1ZEqA-p9w3I": {
+      "id": "1ZEqA-p9w3I",
+      "title": "Lee Sin vs Graves Jungle - EUW Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1396
+    },
+    "CsNr2FRi2TQ": {
+      "id": "CsNr2FRi2TQ",
+      "title": "Doran Irelia vs Gnar Top - NA Master - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 2160
+    },
+    "lG56NGlFuE8": {
+      "id": "lG56NGlFuE8",
+      "title": "Ruler Ezreal vs Kai'Sa ADC - NA Master - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261107",
+      "order": 3,
+      "durationSec": 1516
+    },
+    "WVRSdFPhyro": {
+      "id": "WVRSdFPhyro",
+      "title": "Kayn Jungle vs Ekko - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1713
+    },
+    "UXSiKaCQfxE": {
+      "id": "UXSiKaCQfxE",
+      "title": "Jarvan IV Jungle vs Locke (Toji Fushiguro) - EUW Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 1786
+    },
+    "R8_Op9doCYg": {
+      "id": "R8_Op9doCYg",
+      "title": "(USE FornoReason) Gnar Top vs K'Sante - EUW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 3,
+      "durationSec": 1794
+    },
+    "mO43A58W8kU": {
+      "id": "mO43A58W8kU",
+      "title": "Kassadin Mid vs Akali - KR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 4,
+      "durationSec": 1693
+    },
+    "yJD6khs8x9E": {
+      "id": "yJD6khs8x9E",
+      "title": "(CKZ Ophelia) Alistar Support vs Rakan - KR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 5,
+      "durationSec": 1847
+    },
+    "USMyPQN5Ig8": {
+      "id": "USMyPQN5Ig8",
+      "title": "Syndra Mid vs Ahri - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 6,
+      "durationSec": 1847
+    },
+    "l_VW1B2k-28": {
+      "id": "l_VW1B2k-28",
+      "title": "(LokeN) Rakan Support vs Braum - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261107",
+      "order": 7,
+      "durationSec": 1527
+    },
+    "ZgTD8nZOxqw": {
+      "id": "ZgTD8nZOxqw",
+      "title": "(NS MihawK) Viego Jungle vs Lee Sin - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261107",
+      "order": 8,
+      "durationSec": 1671
+    },
+    "RFhkclU5VBQ": {
+      "id": "RFhkclU5VBQ",
+      "title": "🛑 XiaoMing Aatrox vs. Akali — BLOW HER UP! BLOW HER UP! BLOW HER UP!!! 💥",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 919
+    },
+    "BvGwmGPn4QU": {
+      "id": "BvGwmGPn4QU",
+      "title": "1v9 Against A Worlds Player (BLG Viper)",
+      "channel": "UCaGzBvuWK_FtOSyt2CXAp7A",
+      "uploadDate": "20261107",
+      "order": 1,
+      "durationSec": 1751
     }
   }
 }
