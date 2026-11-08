@@ -783,7 +783,8 @@
         "QngjORhGD84",
         "ATCDVIsVqIc",
         "FyTN2FvsFto",
-        "K6HNN0P5urA"
+        "K6HNN0P5urA",
+        "BsHQK-bvEqc"
       ],
       "complete": true
     },
@@ -3951,7 +3952,10 @@
         "hI4LoqgxtSY",
         "Y0cnr9kaIP8",
         "5sdxnUCTni4",
-        "j5-gy82DwHY"
+        "j5-gy82DwHY",
+        "AfBpNrBepQE",
+        "ygq8EQyP3x8",
+        "5qRU-On7qwc"
       ],
       "complete": true
     },
@@ -4609,7 +4613,8 @@
         "jVrPIEC0eKI",
         "f24eM-Aiw7M",
         "IqZdIzFGFLU",
-        "UJASbXSSihU"
+        "UJASbXSSihU",
+        "gH01tn1ijtY"
       ],
       "complete": true
     },
@@ -15984,7 +15989,8 @@
         "KiLoWw_MfPE",
         "1VPcIiNl2Ac",
         "9hb_oKKjn3g",
-        "rgAqPbCAFTI"
+        "rgAqPbCAFTI",
+        "z6LI4dCCRIU"
       ],
       "complete": true
     },
@@ -34876,7 +34882,8 @@
         "1ZEqA-p9w3I",
         "CsNr2FRi2TQ",
         "lG56NGlFuE8",
-        "yTpx7H7bx6U"
+        "yTpx7H7bx6U",
+        "z4mCfwAYHHs"
       ],
       "complete": true
     },
@@ -109389,7 +109396,16 @@
         "6xsReICGz6Y",
         "kThx6OwNtNY",
         "o5L8UZTRz8w",
-        "dA9xIuv4vNw"
+        "dA9xIuv4vNw",
+        "DE0vnorc_HA",
+        "xZXw2Nl8Vvc",
+        "VuwIecyXIZA",
+        "oO54wM_DdNU",
+        "Fntm0vtNjQs",
+        "4_86WyvjsnA",
+        "k8JLnNnNo_4",
+        "HmGXF_uo91Q",
+        "99C5X4E3evw"
       ],
       "complete": true
     },
@@ -129640,7 +129656,8 @@
         "E9n-baIbLEw",
         "f1t-MdwHXYY",
         "jllQ-LG28xM",
-        "RwXcICOwqOE"
+        "RwXcICOwqOE",
+        "K2B-0U7jSCg"
       ],
       "complete": true
     },
@@ -132324,7 +132341,11 @@
         "jqj2lihTH94",
         "s6JH9_1N8oc",
         "at1hQAHDg0w",
-        "-yFN2ZL05qo"
+        "-yFN2ZL05qo",
+        "HxnRz_W0wYE",
+        "0sxxcA7uicU",
+        "MrnwcRPRqEQ",
+        "4Ltm2KdBhdE"
       ],
       "complete": true
     },
@@ -133265,7 +133286,8 @@
         "NLcbYy9OJRQ",
         "n3cqP2_NSaU",
         "gq3xjP3ilHQ",
-        "6O3ZvLs9I64"
+        "6O3ZvLs9I64",
+        "6FKkyEynjhc"
       ],
       "complete": true
     },
@@ -133488,7 +133510,8 @@
         "ZAfHg7jcHqE",
         "EXb-X4tFSfQ",
         "q_tzsB3mqP8",
-        "Sh7P26fXF_Q"
+        "Sh7P26fXF_Q",
+        "sMixTHlw9-E"
       ],
       "complete": true
     },
@@ -134474,7 +134497,9 @@
         "oA7iLZuUWCc",
         "Ab3lZ1tRQRU",
         "MrWIeF0ct7U",
-        "Zm2LjnGSjpY"
+        "Zm2LjnGSjpY",
+        "t7m7XjYugqs",
+        "CFCMtKrSn2g"
       ],
       "complete": true
     }
@@ -1209455,6 +1209480,206 @@
       "uploadDate": "20261107",
       "order": 1,
       "durationSec": 0
+    },
+    "BsHQK-bvEqc": {
+      "id": "BsHQK-bvEqc",
+      "title": "(Gustav) Ahri Mid vs Aurora - EUW Master Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1791
+    },
+    "AfBpNrBepQE": {
+      "id": "AfBpNrBepQE",
+      "title": "Zed LV3 SOLO KILLS Qiyana | VN Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 12
+    },
+    "ygq8EQyP3x8": {
+      "id": "ygq8EQyP3x8",
+      "title": "Zed Jungle vs Bel'Veth - VN Grandmaster Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 1773
+    },
+    "5qRU-On7qwc": {
+      "id": "5qRU-On7qwc",
+      "title": "Zed SOLO KILLS Zoe | TW Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261108",
+      "order": 3,
+      "durationSec": 13
+    },
+    "gH01tn1ijtY": {
+      "id": "gH01tn1ijtY",
+      "title": "MID.GG: [ LegitKorea ] Ahri MID vs Aurora | NA MASTER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1098
+    },
+    "z6LI4dCCRIU": {
+      "id": "z6LI4dCCRIU",
+      "title": "BLG Viper Zeri vs Sivir [ ADC ] Patch 26.22 Ranked Challenger NA",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1351
+    },
+    "z4mCfwAYHHs": {
+      "id": "z4mCfwAYHHs",
+      "title": "Katarina vs Ekko Mid - EUW Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1500
+    },
+    "DE0vnorc_HA": {
+      "id": "DE0vnorc_HA",
+      "title": "Sona Support vs Neeko (Kartso) - EUW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1548
+    },
+    "xZXw2Nl8Vvc": {
+      "id": "xZXw2Nl8Vvc",
+      "title": "Ashe ADC vs Sivir - BR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 1639
+    },
+    "VuwIecyXIZA": {
+      "id": "VuwIecyXIZA",
+      "title": "Braum Support vs Nautilus - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 3,
+      "durationSec": 1677
+    },
+    "oO54wM_DdNU": {
+      "id": "oO54wM_DdNU",
+      "title": "Dr. Mundo Top vs Jayce - VN Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 4,
+      "durationSec": 1529
+    },
+    "Fntm0vtNjQs": {
+      "id": "Fntm0vtNjQs",
+      "title": "Renata Glasc Support vs Nautilus (PAIN Keine) - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 5,
+      "durationSec": 1577
+    },
+    "4_86WyvjsnA": {
+      "id": "4_86WyvjsnA",
+      "title": "Rumble Top vs Kalista - TW Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 6,
+      "durationSec": 1489
+    },
+    "k8JLnNnNo_4": {
+      "id": "k8JLnNnNo_4",
+      "title": "Kindred Jungle vs Hecarim - TW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 7,
+      "durationSec": 1747
+    },
+    "HmGXF_uo91Q": {
+      "id": "HmGXF_uo91Q",
+      "title": "Thresh Support vs Neeko - TW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 8,
+      "durationSec": 1703
+    },
+    "99C5X4E3evw": {
+      "id": "99C5X4E3evw",
+      "title": "Rell Support vs Nami - TW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261108",
+      "order": 9,
+      "durationSec": 1627
+    },
+    "K2B-0U7jSCg": {
+      "id": "K2B-0U7jSCg",
+      "title": "CHO'GATH EATS THE WORLD!!!",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1438
+    },
+    "HxnRz_W0wYE": {
+      "id": "HxnRz_W0wYE",
+      "title": "Rank 1 Ashe : His DAMAGE is LEGIT INSANE with this BUILD - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1939
+    },
+    "0sxxcA7uicU": {
+      "id": "0sxxcA7uicU",
+      "title": "(Engsub) Rank 1 Jinx : LET HIM COOK !",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 1648
+    },
+    "MrnwcRPRqEQ": {
+      "id": "MrnwcRPRqEQ",
+      "title": "Rank 1 Draven : This Dude is a KILLING SAVAGE \" ONE KILL PER MIN \" Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261108",
+      "order": 3,
+      "durationSec": 1463
+    },
+    "4Ltm2KdBhdE": {
+      "id": "4Ltm2KdBhdE",
+      "title": "\"HanQL\" 2255LP Zeri : With Runaan's His AOE DAMAGE is so Insane - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261108",
+      "order": 4,
+      "durationSec": 910
+    },
+    "6FKkyEynjhc": {
+      "id": "6FKkyEynjhc",
+      "title": "THIS IS HOW TO *STOMP* GAMES WITH ORIANNA - EDUCATIONAL GAMEPLAY",
+      "channel": "UCv7Fopr1b1301amIRI35yzA",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 1391
+    },
+    "sMixTHlw9-E": {
+      "id": "sMixTHlw9-E",
+      "title": "How To Play TALON Correctly!",
+      "channel": "UCnzE2sjqXiJLEHb6S1ioB-g",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 2274
+    },
+    "t7m7XjYugqs": {
+      "id": "t7m7XjYugqs",
+      "title": "When you Nocturne ult in and instantly know you're dead #leagueoflegends #lolclips",
+      "channel": "UCoO3LOWlgNi5A_oKlC9NUwQ",
+      "uploadDate": "20261108",
+      "order": 1,
+      "durationSec": 18
+    },
+    "CFCMtKrSn2g": {
+      "id": "CFCMtKrSn2g",
+      "title": "Tryndamere Jungle Almost Lost Me My Sanity...",
+      "channel": "UCoO3LOWlgNi5A_oKlC9NUwQ",
+      "uploadDate": "20261108",
+      "order": 2,
+      "durationSec": 1616
     }
   }
 }
