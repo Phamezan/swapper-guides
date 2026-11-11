@@ -788,7 +788,8 @@
         "JxSy8_MD9BE",
         "ZNLkfLaiVb0",
         "0xfTdZhjJjs",
-        "C3_a3gebvSg"
+        "C3_a3gebvSg",
+        "cZNSrF3DdqM"
       ],
       "complete": true
     },
@@ -3971,7 +3972,9 @@
         "RD_v43-89Yk",
         "LOqjRNvEHFI",
         "81idHZHcnHI",
-        "XC9EK2Q9fCY"
+        "XC9EK2Q9fCY",
+        "wOIZqeYMOsE",
+        "A4k15sFE4Cs"
       ],
       "complete": true
     },
@@ -16017,7 +16020,8 @@
         "reWFs4f7pes",
         "zK2iT87TS0U",
         "ZQYB_RyXhms",
-        "zQXmdA_Qytk"
+        "zQXmdA_Qytk",
+        "NaCoBJaDP5A"
       ],
       "complete": true
     },
@@ -34914,7 +34918,9 @@
         "gSzw9pp5R3w",
         "bv4guokfn4E",
         "LjsrIej__ys",
-        "hCJzHXuPGrs"
+        "hCJzHXuPGrs",
+        "1IBFDWopFdE",
+        "FM2rC6maBSc"
       ],
       "complete": true
     },
@@ -109485,7 +109491,14 @@
         "0YTC3Z4voBs",
         "vFHu5AbYCz0",
         "P2fK6knLazU",
-        "PiGSKnyCthE"
+        "PiGSKnyCthE",
+        "dms-nPowbQ4",
+        "kruhxup_e54",
+        "iVweCJ4WcT0",
+        "ZL2AuwtiIfo",
+        "klS6Jt8YXqY",
+        "6h8BvS_9mSc",
+        "trTkROSZyhI"
       ],
       "complete": true
     },
@@ -1210580,6 +1210593,110 @@
       "uploadDate": "20261110",
       "order": 1,
       "durationSec": 1494
+    },
+    "cZNSrF3DdqM": {
+      "id": "cZNSrF3DdqM",
+      "title": "(UCAM ESCIK) Ahri Mid vs Sylas (DIA Yuros) - EUW Challenger Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 1560
+    },
+    "wOIZqeYMOsE": {
+      "id": "wOIZqeYMOsE",
+      "title": "Zed SOLO KILLS Yasuo | EUW Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 13
+    },
+    "A4k15sFE4Cs": {
+      "id": "A4k15sFE4Cs",
+      "title": "Zed Mid vs Akali (HEET Paul227) - EUW Master Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261111",
+      "order": 2,
+      "durationSec": 1759
+    },
+    "NaCoBJaDP5A": {
+      "id": "NaCoBJaDP5A",
+      "title": "BLG Viper Yunara vs Mel [ ADC ] Ranked Challenger NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261110",
+      "order": 1,
+      "durationSec": 1492
+    },
+    "1IBFDWopFdE": {
+      "id": "1IBFDWopFdE",
+      "title": "Gwen vs Viktor Mid - KR Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 2400
+    },
+    "FM2rC6maBSc": {
+      "id": "FM2rC6maBSc",
+      "title": "Jhin vs Caitlyn ADC - KR Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261110",
+      "order": 2,
+      "durationSec": 1786
+    },
+    "dms-nPowbQ4": {
+      "id": "dms-nPowbQ4",
+      "title": "Xin Zhao Jungle vs Graves - TW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 1704
+    },
+    "kruhxup_e54": {
+      "id": "kruhxup_e54",
+      "title": "Fiora Top vs Rumble (Sapot) - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 2,
+      "durationSec": 1745
+    },
+    "iVweCJ4WcT0": {
+      "id": "iVweCJ4WcT0",
+      "title": "Briar Jungle vs Qiyana - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 3,
+      "durationSec": 1533
+    },
+    "ZL2AuwtiIfo": {
+      "id": "ZL2AuwtiIfo",
+      "title": "Master Yi Jungle vs Pantheon - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 4,
+      "durationSec": 1775
+    },
+    "klS6Jt8YXqY": {
+      "id": "klS6Jt8YXqY",
+      "title": "(Hyorai) Senna Support vs Leona - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 5,
+      "durationSec": 1547
+    },
+    "6h8BvS_9mSc": {
+      "id": "6h8BvS_9mSc",
+      "title": "Sett Top vs Darius - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 6,
+      "durationSec": 1614
+    },
+    "trTkROSZyhI": {
+      "id": "trTkROSZyhI",
+      "title": "Nunu & Willump Jungle vs Cho'Gath - KR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261110",
+      "order": 7,
+      "durationSec": 1464
     }
   }
 }
