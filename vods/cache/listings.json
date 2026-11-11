@@ -3974,7 +3974,9 @@
         "81idHZHcnHI",
         "XC9EK2Q9fCY",
         "wOIZqeYMOsE",
-        "A4k15sFE4Cs"
+        "A4k15sFE4Cs",
+        "LI8fWM_Brb8",
+        "7Cq-AfuZhWg"
       ],
       "complete": true
     },
@@ -4637,7 +4639,8 @@
         "afDiWwLlaK4",
         "kiJ6hoPINp0",
         "pjiOhJWVq-M",
-        "ga9-jnvl42Y"
+        "ga9-jnvl42Y",
+        "wKEh0QFQ4rQ"
       ],
       "complete": true
     },
@@ -16021,7 +16024,9 @@
         "zK2iT87TS0U",
         "ZQYB_RyXhms",
         "zQXmdA_Qytk",
-        "NaCoBJaDP5A"
+        "NaCoBJaDP5A",
+        "5hzi8D41Z_0",
+        "60DZMue4suw"
       ],
       "complete": true
     },
@@ -34920,7 +34925,10 @@
         "LjsrIej__ys",
         "hCJzHXuPGrs",
         "1IBFDWopFdE",
-        "FM2rC6maBSc"
+        "FM2rC6maBSc",
+        "5PyAhAJ4Fj4",
+        "DV4EZQ_dpX8",
+        "L3s1xBUqLdM"
       ],
       "complete": true
     },
@@ -109498,7 +109506,15 @@
         "ZL2AuwtiIfo",
         "klS6Jt8YXqY",
         "6h8BvS_9mSc",
-        "trTkROSZyhI"
+        "trTkROSZyhI",
+        "3BzjvxElOFw",
+        "8DLlhoNho-I",
+        "dVPxg_K6QZA",
+        "to8iTJPZ_R0",
+        "qMiDI4CH248",
+        "jMob-SDRows",
+        "684VMwXV5Xo",
+        "7aaihEZE8FI"
       ],
       "complete": true
     },
@@ -124397,7 +124413,8 @@
         "RFhkclU5VBQ",
         "TcQYvjQaTbA",
         "xzbTfVc_UWI",
-        "j3uSoH9pDuU"
+        "j3uSoH9pDuU",
+        "gimh7DuOxyg"
       ],
       "complete": true
     },
@@ -1210697,6 +1210714,142 @@
       "uploadDate": "20261110",
       "order": 7,
       "durationSec": 1464
+    },
+    "LI8fWM_Brb8": {
+      "id": "LI8fWM_Brb8",
+      "title": "Zed SOLO KILLS Teemo | TW Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 13
+    },
+    "7Cq-AfuZhWg": {
+      "id": "7Cq-AfuZhWg",
+      "title": "Zed Jungle vs Lee Sin - KR Challenger Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261111",
+      "order": 2,
+      "durationSec": 1876
+    },
+    "wKEh0QFQ4rQ": {
+      "id": "wKEh0QFQ4rQ",
+      "title": "MID.GG: [ dunlol ] Ahri MID vs Gragas | NA CHALLENGER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 1443
+    },
+    "5hzi8D41Z_0": {
+      "id": "5hzi8D41Z_0",
+      "title": "Cassiopeia vs Aurora MID [ Gen.G Chovy ] Ranked Grandmaster NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 1370
+    },
+    "60DZMue4suw": {
+      "id": "60DZMue4suw",
+      "title": "Yone vs Kalista MID [ Gen.G Chovy ] Ranked Grandmaster NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261111",
+      "order": 2,
+      "durationSec": 1262
+    },
+    "5PyAhAJ4Fj4": {
+      "id": "5PyAhAJ4Fj4",
+      "title": "Zed vs Orianna Mid - KR Grandmaster - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 2590
+    },
+    "DV4EZQ_dpX8": {
+      "id": "DV4EZQ_dpX8",
+      "title": "Caitlyn vs Ashe ADC - KR Grandmaster - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261111",
+      "order": 2,
+      "durationSec": 1931
+    },
+    "L3s1xBUqLdM": {
+      "id": "L3s1xBUqLdM",
+      "title": "Locke vs Maokai Jungle - KR Grandmaster - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261111",
+      "order": 3,
+      "durationSec": 1786
+    },
+    "3BzjvxElOFw": {
+      "id": "3BzjvxElOFw",
+      "title": "Riven ADC vs Zeri - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 1728
+    },
+    "8DLlhoNho-I": {
+      "id": "8DLlhoNho-I",
+      "title": "Zoe Mid vs Katarina - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 2,
+      "durationSec": 1911
+    },
+    "dVPxg_K6QZA": {
+      "id": "dVPxg_K6QZA",
+      "title": "Camille Top vs Riven (BFX Clear) - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 3,
+      "durationSec": 1876
+    },
+    "to8iTJPZ_R0": {
+      "id": "to8iTJPZ_R0",
+      "title": "Jax Top vs Olaf - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 4,
+      "durationSec": 1790
+    },
+    "qMiDI4CH248": {
+      "id": "qMiDI4CH248",
+      "title": "Nocturne Jungle vs Kindred - VN Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 5,
+      "durationSec": 1518
+    },
+    "jMob-SDRows": {
+      "id": "jMob-SDRows",
+      "title": "Urgot Top vs Jayce - VN Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 6,
+      "durationSec": 1823
+    },
+    "684VMwXV5Xo": {
+      "id": "684VMwXV5Xo",
+      "title": "Illaoi Top vs Vayne - VN Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 7,
+      "durationSec": 1763
+    },
+    "7aaihEZE8FI": {
+      "id": "7aaihEZE8FI",
+      "title": "Tahm Kench Support vs Thresh - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261111",
+      "order": 8,
+      "durationSec": 1675
+    },
+    "gimh7DuOxyg": {
+      "id": "gimh7DuOxyg",
+      "title": "🛑 XiaoMing 800 LP KR Aatrox vs. Olaf - Phase Rush + DOMINATING FROM LANE TO THE VERY END!",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261111",
+      "order": 1,
+      "durationSec": 1532
     }
   }
 }
