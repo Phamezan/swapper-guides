@@ -790,7 +790,8 @@
         "0xfTdZhjJjs",
         "C3_a3gebvSg",
         "cZNSrF3DdqM",
-        "oyJv1Aqblos"
+        "oyJv1Aqblos",
+        "oDASWOPcesg"
       ],
       "complete": true
     },
@@ -3979,7 +3980,11 @@
         "LI8fWM_Brb8",
         "7Cq-AfuZhWg",
         "2Fv-WGFrOps",
-        "F6ilZaiQOtI"
+        "F6ilZaiQOtI",
+        "BjBe2TiM0yw",
+        "3MJi-CncRdE",
+        "zGhtAMNnsdE",
+        "c6FxCdgO2A8"
       ],
       "complete": true
     },
@@ -4644,7 +4649,8 @@
         "pjiOhJWVq-M",
         "ga9-jnvl42Y",
         "wKEh0QFQ4rQ",
-        "QPgXvK3-P5U"
+        "QPgXvK3-P5U",
+        "C68Q-ujeYco"
       ],
       "complete": true
     },
@@ -16031,7 +16037,9 @@
         "NaCoBJaDP5A",
         "5hzi8D41Z_0",
         "60DZMue4suw",
-        "pdhzUVzR7mw"
+        "pdhzUVzR7mw",
+        "RXdD-AfKbuQ",
+        "j6wniK24IAg"
       ],
       "complete": true
     },
@@ -34935,7 +34943,10 @@
         "DV4EZQ_dpX8",
         "L3s1xBUqLdM",
         "dffU6qP3abo",
-        "KlJtTZZH7F4"
+        "KlJtTZZH7F4",
+        "YyDlXTGVLNg",
+        "2c05lwXmF3o",
+        "Yv78UWBBVcg"
       ],
       "complete": true
     },
@@ -109532,7 +109543,21 @@
         "iuJ0qgQfCUk",
         "VbbYAQ-iQkM",
         "MQNfPautcec",
-        "22lfre5VGQk"
+        "22lfre5VGQk",
+        "836r19BdgmA",
+        "knaNUdkFQtk",
+        "U_IPsk8bfyQ",
+        "GJnahKbuLX0",
+        "9ekzbJwra2s",
+        "V1_PHNyaFME",
+        "83f3mAgkS1Q",
+        "YFBXG03c9mc",
+        "75FFVOVXpVs",
+        "mGbysb6rpkM",
+        "85pkNFGYFiI",
+        "W7LCMAV_9YY",
+        "rHfT3RzFc0U",
+        "yuyV48hIKZ0"
       ],
       "complete": true
     },
@@ -119914,7 +119939,8 @@
         "BpcIkEtOqhE",
         "7fhB-mrqNFM",
         "QQ-oQUPovu8",
-        "521jNmj6zBQ"
+        "521jNmj6zBQ",
+        "hKR2sCXlXto"
       ],
       "complete": true
     },
@@ -124432,7 +124458,8 @@
         "TcQYvjQaTbA",
         "xzbTfVc_UWI",
         "j3uSoH9pDuU",
-        "gimh7DuOxyg"
+        "gimh7DuOxyg",
+        "5UI1dT12gqI"
       ],
       "complete": true
     },
@@ -132499,7 +132526,11 @@
         "UjuFSAMZX3Y",
         "36Hpf1fHSrA",
         "6rsK-s_BURs",
-        "FWB92I1lQFY"
+        "FWB92I1lQFY",
+        "rbuCAtW1cIM",
+        "azkeW03r8yI",
+        "KTkLyHp_iiI",
+        "xPIC2POfHsU"
       ],
       "complete": true
     },
@@ -133441,7 +133472,9 @@
         "n3cqP2_NSaU",
         "gq3xjP3ilHQ",
         "6O3ZvLs9I64",
-        "6FKkyEynjhc"
+        "6FKkyEynjhc",
+        "BGTKuvecsWE",
+        "S-oK51EbqEo"
       ],
       "complete": true
     },
@@ -1211129,6 +1211162,270 @@
       "uploadDate": "20261111",
       "order": 1,
       "durationSec": 1229
+    },
+    "oDASWOPcesg": {
+      "id": "oDASWOPcesg",
+      "title": "(Peng) Ahri Mid vs Sylas (TOG Sajator) - EUW Challenger Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1694
+    },
+    "BjBe2TiM0yw": {
+      "id": "BjBe2TiM0yw",
+      "title": "Zed SOLO KILLS Shaco | EUW Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 13
+    },
+    "3MJi-CncRdE": {
+      "id": "3MJi-CncRdE",
+      "title": "Zed Mid vs Sylas - KR Grandmaster Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261112",
+      "order": 2,
+      "durationSec": 1603
+    },
+    "zGhtAMNnsdE": {
+      "id": "zGhtAMNnsdE",
+      "title": "Zed LV3 SOLO KILLS Locke | VN Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261112",
+      "order": 3,
+      "durationSec": 13
+    },
+    "c6FxCdgO2A8": {
+      "id": "c6FxCdgO2A8",
+      "title": "Zed Mid vs Ahri - KR Grandmaster Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261112",
+      "order": 4,
+      "durationSec": 1735
+    },
+    "C68Q-ujeYco": {
+      "id": "C68Q-ujeYco",
+      "title": "MID.GG: [ LegitKorea ] Ahri TOP vs Sion | NA MASTER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 2102
+    },
+    "RXdD-AfKbuQ": {
+      "id": "RXdD-AfKbuQ",
+      "title": "BLG Viper Kai'Sa vs Xayah [ ADC ] Ranked Challenger NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1259
+    },
+    "j6wniK24IAg": {
+      "id": "j6wniK24IAg",
+      "title": "Akali vs Yasuo MID [ Gen.G Chovy ] Ranked Grandmaster NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261112",
+      "order": 2,
+      "durationSec": 1482
+    },
+    "YyDlXTGVLNg": {
+      "id": "YyDlXTGVLNg",
+      "title": "Katarina vs Talon Mid - KR Grandmaster - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1860
+    },
+    "2c05lwXmF3o": {
+      "id": "2c05lwXmF3o",
+      "title": "Graves vs Lee Sin Jungle - KR Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261112",
+      "order": 2,
+      "durationSec": 1801
+    },
+    "Yv78UWBBVcg": {
+      "id": "Yv78UWBBVcg",
+      "title": "Jhin vs Caitlyn ADC - KR Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261112",
+      "order": 3,
+      "durationSec": 2011
+    },
+    "836r19BdgmA": {
+      "id": "836r19BdgmA",
+      "title": "(Malorie) Annie Mid vs Ashe - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1907
+    },
+    "knaNUdkFQtk": {
+      "id": "knaNUdkFQtk",
+      "title": "Shaco Jungle vs Fizz - BR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 2,
+      "durationSec": 1732
+    },
+    "U_IPsk8bfyQ": {
+      "id": "U_IPsk8bfyQ",
+      "title": "Ivern Jungle vs Hecarim - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 3,
+      "durationSec": 1778
+    },
+    "GJnahKbuLX0": {
+      "id": "GJnahKbuLX0",
+      "title": "Fizz Mid vs Sylas - TW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 4,
+      "durationSec": 1746
+    },
+    "9ekzbJwra2s": {
+      "id": "9ekzbJwra2s",
+      "title": "Lucian ADC vs Kalista - NA Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 5,
+      "durationSec": 1464
+    },
+    "V1_PHNyaFME": {
+      "id": "V1_PHNyaFME",
+      "title": "Kennen Top vs Dr. Mundo - VN Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 6,
+      "durationSec": 1709
+    },
+    "83f3mAgkS1Q": {
+      "id": "83f3mAgkS1Q",
+      "title": "Tryndamere Top vs Singed - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 7,
+      "durationSec": 1425
+    },
+    "YFBXG03c9mc": {
+      "id": "YFBXG03c9mc",
+      "title": "Skarner Jungle vs Rengar - BR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 8,
+      "durationSec": 1836
+    },
+    "75FFVOVXpVs": {
+      "id": "75FFVOVXpVs",
+      "title": "(Se7en) Zed Mid vs Ambessa - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 9,
+      "durationSec": 1800
+    },
+    "mGbysb6rpkM": {
+      "id": "mGbysb6rpkM",
+      "title": "(Manda) Diana Jungle vs Master Yi - EUW Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 10,
+      "durationSec": 1656
+    },
+    "85pkNFGYFiI": {
+      "id": "85pkNFGYFiI",
+      "title": "Sion Top vs Camille - EUW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 11,
+      "durationSec": 1621
+    },
+    "W7LCMAV_9YY": {
+      "id": "W7LCMAV_9YY",
+      "title": "Zilean Support vs Bard - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 12,
+      "durationSec": 1788
+    },
+    "rHfT3RzFc0U": {
+      "id": "rHfT3RzFc0U",
+      "title": "Teemo Top vs Vayne - BR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 13,
+      "durationSec": 1761
+    },
+    "yuyV48hIKZ0": {
+      "id": "yuyV48hIKZ0",
+      "title": "Rek'Sai Jungle vs Nunu & Willump - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261112",
+      "order": 14,
+      "durationSec": 1425
+    },
+    "5UI1dT12gqI": {
+      "id": "5UI1dT12gqI",
+      "title": "🛑 XiaoMing Master Aatrox vs Fiora - Double Attack Speed Runes! The New Meta So Much Easier!",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1354
+    },
+    "hKR2sCXlXto": {
+      "id": "hKR2sCXlXto",
+      "title": "BeiFeng Qiyana vs Xerath — Diamond CN Server — Engsub",
+      "channel": "UC8_CJP1lfMjzGo_jkMW8SQg",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1588
+    },
+    "rbuCAtW1cIM": {
+      "id": "rbuCAtW1cIM",
+      "title": "Rank 1 Draven : If You Want to Master Draven, You Gotta Playing Recklessly - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 1283
+    },
+    "azkeW03r8yI": {
+      "id": "azkeW03r8yI",
+      "title": "T1 PEYZ Yunara : This BOTLANE is FREE BANANA BOY.....",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261112",
+      "order": 2,
+      "durationSec": 916
+    },
+    "KTkLyHp_iiI": {
+      "id": "KTkLyHp_iiI",
+      "title": "Deokdam : His ASHE Mechanic is so DAM CLEAN, Tearing Up KR HighElo in Just 20 Min - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261112",
+      "order": 3,
+      "durationSec": 658
+    },
+    "xPIC2POfHsU": {
+      "id": "xPIC2POfHsU",
+      "title": "T1 PEYZ : His Lucian is a BEAST in Botlane \" Rushless Combos Deleting Enemies \"",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261112",
+      "order": 4,
+      "durationSec": 1046
+    },
+    "BGTKuvecsWE": {
+      "id": "BGTKuvecsWE",
+      "title": "RIOT HAS GONE INSANE! PATCH 26.23 PREVIEW *INSANE BUFFS*",
+      "channel": "UCv7Fopr1b1301amIRI35yzA",
+      "uploadDate": "20261112",
+      "order": 1,
+      "durationSec": 861
+    },
+    "S-oK51EbqEo": {
+      "id": "S-oK51EbqEo",
+      "title": "HOW TO CARRY SOLOQ WITH AZIR - FULLY EDUCATIONAL GAMEPLAY",
+      "channel": "UCv7Fopr1b1301amIRI35yzA",
+      "uploadDate": "20261112",
+      "order": 2,
+      "durationSec": 2939
     }
   }
 }
