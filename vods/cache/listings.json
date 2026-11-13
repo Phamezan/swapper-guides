@@ -792,7 +792,8 @@
         "cZNSrF3DdqM",
         "oyJv1Aqblos",
         "oDASWOPcesg",
-        "DjkgmrfBsOA"
+        "DjkgmrfBsOA",
+        "ZXM0kHqwVJ4"
       ],
       "complete": true
     },
@@ -3987,7 +3988,9 @@
         "zGhtAMNnsdE",
         "c6FxCdgO2A8",
         "gGCkjQO59pQ",
-        "hgDRDW43_PA"
+        "hgDRDW43_PA",
+        "v8o0-WtLgeU",
+        "5HnhmPA2T8E"
       ],
       "complete": true
     },
@@ -16044,7 +16047,8 @@
         "pdhzUVzR7mw",
         "RXdD-AfKbuQ",
         "j6wniK24IAg",
-        "Px517-n_4IA"
+        "Px517-n_4IA",
+        "i8k9Yu3shwU"
       ],
       "complete": true
     },
@@ -109571,7 +109575,13 @@
         "I4qHlc2lSSQ",
         "NhwDojhEKWw",
         "x0ddIPWdAP0",
-        "YuisMtVy1SE"
+        "YuisMtVy1SE",
+        "KzngSjkb1vI",
+        "HLTjJqhMvrg",
+        "hAghHRSKj7A",
+        "oZAhTHsneFo",
+        "mEY4tdzTX10",
+        "-Rgu1Wd0ooM"
       ],
       "complete": true
     },
@@ -1211588,6 +1211598,86 @@
       "uploadDate": "20261112",
       "order": 1,
       "durationSec": 18
+    },
+    "ZXM0kHqwVJ4": {
+      "id": "ZXM0kHqwVJ4",
+      "title": "Ahri Mid vs Qiyana - KR Master Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1776
+    },
+    "v8o0-WtLgeU": {
+      "id": "v8o0-WtLgeU",
+      "title": "Zed SOLO KILLS Seraphine | VN Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 13
+    },
+    "5HnhmPA2T8E": {
+      "id": "5HnhmPA2T8E",
+      "title": "Zed Jungle vs Xin Zhao - KR Master Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261113",
+      "order": 2,
+      "durationSec": 1399
+    },
+    "i8k9Yu3shwU": {
+      "id": "i8k9Yu3shwU",
+      "title": "BLG Viper Zeri vs Jinx [ ADC ] Ranked Challenger NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1735
+    },
+    "KzngSjkb1vI": {
+      "id": "KzngSjkb1vI",
+      "title": "Elise Jungle vs Naafiri - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1433
+    },
+    "HLTjJqhMvrg": {
+      "id": "HLTjJqhMvrg",
+      "title": "(EDG sinian) Sylas Mid vs Zed - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 2,
+      "durationSec": 1774
+    },
+    "hAghHRSKj7A": {
+      "id": "hAghHRSKj7A",
+      "title": "Hwei Mid vs Yone - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 3,
+      "durationSec": 1656
+    },
+    "oZAhTHsneFo": {
+      "id": "oZAhTHsneFo",
+      "title": "Irelia Top vs Gragas - BR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 4,
+      "durationSec": 1504
+    },
+    "mEY4tdzTX10": {
+      "id": "mEY4tdzTX10",
+      "title": "Maokai Top vs Sett - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 5,
+      "durationSec": 1867
+    },
+    "-Rgu1Wd0ooM": {
+      "id": "-Rgu1Wd0ooM",
+      "title": "(Just an engineer) Ekko Jungle vs Taliyah - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 6,
+      "durationSec": 1641
     }
   }
 }
