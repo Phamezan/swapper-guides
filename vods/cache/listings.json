@@ -3990,7 +3990,9 @@
         "gGCkjQO59pQ",
         "hgDRDW43_PA",
         "v8o0-WtLgeU",
-        "5HnhmPA2T8E"
+        "5HnhmPA2T8E",
+        "4uChknIF_SY",
+        "pNxXuXO_FPc"
       ],
       "complete": true
     },
@@ -4657,7 +4659,8 @@
         "wKEh0QFQ4rQ",
         "QPgXvK3-P5U",
         "C68Q-ujeYco",
-        "QoYeihYTe1I"
+        "QoYeihYTe1I",
+        "fYJI3yIByeo"
       ],
       "complete": true
     },
@@ -16048,7 +16051,8 @@
         "RXdD-AfKbuQ",
         "j6wniK24IAg",
         "Px517-n_4IA",
-        "i8k9Yu3shwU"
+        "i8k9Yu3shwU",
+        "8aB9GD1aj0o"
       ],
       "complete": true
     },
@@ -109581,7 +109585,16 @@
         "hAghHRSKj7A",
         "oZAhTHsneFo",
         "mEY4tdzTX10",
-        "-Rgu1Wd0ooM"
+        "-Rgu1Wd0ooM",
+        "ZLTwDMxgmNk",
+        "8Ae2_qfkYAs",
+        "KV90kzTJUfo",
+        "GnsUFP0ETro",
+        "gwoObJk44vg",
+        "prqRS1fY_rs",
+        "1-wLrrjlMwk",
+        "D5j6_ISn-h8",
+        "A8WCSlBRVwM"
       ],
       "complete": true
     },
@@ -119964,7 +119977,8 @@
         "7fhB-mrqNFM",
         "QQ-oQUPovu8",
         "521jNmj6zBQ",
-        "hKR2sCXlXto"
+        "hKR2sCXlXto",
+        "PukWBuUb8G0"
       ],
       "complete": true
     },
@@ -124483,7 +124497,8 @@
         "xzbTfVc_UWI",
         "j3uSoH9pDuU",
         "gimh7DuOxyg",
-        "5UI1dT12gqI"
+        "5UI1dT12gqI",
+        "Joz8XsOZ58Q"
       ],
       "complete": true
     },
@@ -132556,7 +132571,13 @@
         "rbuCAtW1cIM",
         "azkeW03r8yI",
         "KTkLyHp_iiI",
-        "xPIC2POfHsU"
+        "xPIC2POfHsU",
+        "D2vSoAPmZTM",
+        "qskgzBrJX_k",
+        "awXu-aldvX0",
+        "UTMBu-jOHVA",
+        "IYydCxyWUBY",
+        "_b24hdOnT0U"
       ],
       "complete": true
     },
@@ -1211678,6 +1211699,174 @@
       "uploadDate": "20261113",
       "order": 6,
       "durationSec": 1641
+    },
+    "4uChknIF_SY": {
+      "id": "4uChknIF_SY",
+      "title": "Zed SOLO KILLS Akali | EUW Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 13
+    },
+    "pNxXuXO_FPc": {
+      "id": "pNxXuXO_FPc",
+      "title": "(BZ) Zed Mid vs Gragas - EUW Challenger Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261113",
+      "order": 2,
+      "durationSec": 1546
+    },
+    "fYJI3yIByeo": {
+      "id": "fYJI3yIByeo",
+      "title": "MID.GG: [ LegitKorea ] Ahri TOP vs Trundle | NA MASTER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1424
+    },
+    "8aB9GD1aj0o": {
+      "id": "8aB9GD1aj0o",
+      "title": "Taliyah vs Naafiri MID [ Gen.G Chovy ] Ranked Challenger NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1234
+    },
+    "ZLTwDMxgmNk": {
+      "id": "ZLTwDMxgmNk",
+      "title": "(CNV Sniper) Jayce Top vs Urgot - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1562
+    },
+    "8Ae2_qfkYAs": {
+      "id": "8Ae2_qfkYAs",
+      "title": "(Ali) Fiddlesticks Jungle vs Jayce - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 2,
+      "durationSec": 1628
+    },
+    "KV90kzTJUfo": {
+      "id": "KV90kzTJUfo",
+      "title": "(EDG BuLLDoG) Kog'Maw ADC vs Ezreal (Clid) - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 3,
+      "durationSec": 1785
+    },
+    "GnsUFP0ETro": {
+      "id": "GnsUFP0ETro",
+      "title": "Veigar Mid vs Kog'Maw (Inspire) - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 4,
+      "durationSec": 1871
+    },
+    "gwoObJk44vg": {
+      "id": "gwoObJk44vg",
+      "title": "Aurelion Sol Mid vs Syndra (HLE Cracker) - KR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 5,
+      "durationSec": 1664
+    },
+    "prqRS1fY_rs": {
+      "id": "prqRS1fY_rs",
+      "title": "Zac Jungle vs Taliyah (SMITE) - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 6,
+      "durationSec": 1679
+    },
+    "1-wLrrjlMwk": {
+      "id": "1-wLrrjlMwk",
+      "title": "Yone Top vs Rumble - VN Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 7,
+      "durationSec": 1877
+    },
+    "D5j6_ISn-h8": {
+      "id": "D5j6_ISn-h8",
+      "title": "Gwen Top vs Jayce - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 8,
+      "durationSec": 1449
+    },
+    "A8WCSlBRVwM": {
+      "id": "A8WCSlBRVwM",
+      "title": "Udyr Jungle vs Jarvan IV - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261113",
+      "order": 9,
+      "durationSec": 1739
+    },
+    "Joz8XsOZ58Q": {
+      "id": "Joz8XsOZ58Q",
+      "title": "🛑 XiaoMing Aatrox vs. Ambessa — BLOW HER UP! BLOW HER UP! BLOW HER UP!!! 💥",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1274
+    },
+    "PukWBuUb8G0": {
+      "id": "PukWBuUb8G0",
+      "title": "BeiFeng Qiyana vs Hwei — Diamond CN Server — Engsub",
+      "channel": "UC8_CJP1lfMjzGo_jkMW8SQg",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 958
+    },
+    "D2vSoAPmZTM": {
+      "id": "D2vSoAPmZTM",
+      "title": "Rank 1 Zeri : Gamer ... Meet The Most Cleanest Zeri Ever Alive - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261113",
+      "order": 1,
+      "durationSec": 1596
+    },
+    "qskgzBrJX_k": {
+      "id": "qskgzBrJX_k",
+      "title": "Rank 1 Kai'sa : Give Me Some Space, I Will Shoot Them Down - Engsub ( vs Mel, Yunara )",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261113",
+      "order": 2,
+      "durationSec": 1609
+    },
+    "awXu-aldvX0": {
+      "id": "awXu-aldvX0",
+      "title": "Rank 1 Aphelios : He is The LAST MAN STANDING, Used 200% His Power To Save This Game - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261113",
+      "order": 3,
+      "durationSec": 1440
+    },
+    "UTMBu-jOHVA": {
+      "id": "UTMBu-jOHVA",
+      "title": "\"HanQL\" 2255LP Ezreal : This 1v3 Outplay Counter Gank is NEXT LEVEL INSANE - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261113",
+      "order": 4,
+      "durationSec": 959
+    },
+    "IYydCxyWUBY": {
+      "id": "IYydCxyWUBY",
+      "title": "T1 PEYZ : This What Machine Gun VARUS Strategy is so BRUTAL",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261113",
+      "order": 5,
+      "durationSec": 1131
+    },
+    "_b24hdOnT0U": {
+      "id": "_b24hdOnT0U",
+      "title": "T1 PEYZ : Stormrazor Jhin is Back, Destroying NA Challenger",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261113",
+      "order": 6,
+      "durationSec": 994
     }
   }
 }
