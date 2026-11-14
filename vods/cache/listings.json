@@ -794,7 +794,8 @@
         "oDASWOPcesg",
         "DjkgmrfBsOA",
         "ZXM0kHqwVJ4",
-        "H86brfmqeTU"
+        "H86brfmqeTU",
+        "FRIFePP2Z68"
       ],
       "complete": true
     },
@@ -3995,7 +3996,9 @@
         "4uChknIF_SY",
         "pNxXuXO_FPc",
         "M62GTfhQFoc",
-        "0ebuJQ4NPMw"
+        "0ebuJQ4NPMw",
+        "IRkBG4io_ZQ",
+        "9FlJb29kqmA"
       ],
       "complete": true
     },
@@ -16057,7 +16060,8 @@
         "Px517-n_4IA",
         "i8k9Yu3shwU",
         "8aB9GD1aj0o",
-        "GYTOVlBRMkY"
+        "GYTOVlBRMkY",
+        "WsWlzYs0lyU"
       ],
       "complete": true
     },
@@ -34965,7 +34969,8 @@
         "YyDlXTGVLNg",
         "2c05lwXmF3o",
         "Yv78UWBBVcg",
-        "-to7-uleoqw"
+        "-to7-uleoqw",
+        "n9qwldEm9GI"
       ],
       "complete": true
     },
@@ -109609,7 +109614,13 @@
         "sTvCI1jeFAs",
         "z2CVe77-2F8",
         "eYGQfaiWWAU",
-        "_1IWHlNqqig"
+        "_1IWHlNqqig",
+        "naYvclIujK8",
+        "gvqV7xlJrxk",
+        "PR4NRI5LEN4",
+        "MR2CP0Gqthk",
+        "5FN8af-wYxk",
+        "QIgEobdpvUw"
       ],
       "complete": true
     },
@@ -129883,7 +129894,10 @@
         "jWmlJzKQYJ8",
         "cxE1ijX2WpE",
         "9s6fQTLoARc",
-        "qqSp8o2kCL0"
+        "qqSp8o2kCL0",
+        "yrmmHSrkLFU",
+        "XqQuaV-vu44",
+        "l1tYNJp1xYo"
       ],
       "complete": true
     },
@@ -133538,7 +133552,8 @@
         "6O3ZvLs9I64",
         "6FKkyEynjhc",
         "BGTKuvecsWE",
-        "S-oK51EbqEo"
+        "S-oK51EbqEo",
+        "svcw7UXoXmM"
       ],
       "complete": true
     },
@@ -1212029,6 +1212044,126 @@
       "uploadDate": "20261113",
       "order": 1,
       "durationSec": 1632
+    },
+    "FRIFePP2Z68": {
+      "id": "FRIFePP2Z68",
+      "title": "(KT Hwichan) Ahri Mid vs Syndra (DSG Callme) - KR Challenger Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1997
+    },
+    "IRkBG4io_ZQ": {
+      "id": "IRkBG4io_ZQ",
+      "title": "Zed QUADRA KILL | VN Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 33
+    },
+    "9FlJb29kqmA": {
+      "id": "9FlJb29kqmA",
+      "title": "Zed Jungle vs Jarvan IV - KR Grandmaster Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1694
+    },
+    "WsWlzYs0lyU": {
+      "id": "WsWlzYs0lyU",
+      "title": "Kalista vs Lucian ADC [ Gen.G Ruler ] Ranked Grandmaster NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1579
+    },
+    "n9qwldEm9GI": {
+      "id": "n9qwldEm9GI",
+      "title": "Ruler Yunara vs Lux ADC - NA Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1576
+    },
+    "naYvclIujK8": {
+      "id": "naYvclIujK8",
+      "title": "Xerath Mid vs Sylas (DSG Callme) - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1831
+    },
+    "gvqV7xlJrxk": {
+      "id": "gvqV7xlJrxk",
+      "title": "Ambessa Jungle vs Briar - BR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1568
+    },
+    "PR4NRI5LEN4": {
+      "id": "PR4NRI5LEN4",
+      "title": "(Garonaxxxx) Cho'Gath Jungle vs Lillia - EUW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 3,
+      "durationSec": 1852
+    },
+    "MR2CP0Gqthk": {
+      "id": "MR2CP0Gqthk",
+      "title": "Poppy Support vs Nami - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 4,
+      "durationSec": 1710
+    },
+    "5FN8af-wYxk": {
+      "id": "5FN8af-wYxk",
+      "title": "Zyra Jungle vs Lee Sin - KR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 5,
+      "durationSec": 1676
+    },
+    "QIgEobdpvUw": {
+      "id": "QIgEobdpvUw",
+      "title": "Kayle Top vs Viktor - VN Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 6,
+      "durationSec": 1848
+    },
+    "yrmmHSrkLFU": {
+      "id": "yrmmHSrkLFU",
+      "title": "FULL TANK CHO'GATH ONE-SHOTS EVERYONE",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 175
+    },
+    "XqQuaV-vu44": {
+      "id": "XqQuaV-vu44",
+      "title": "CHALLENGER LOBBY DIVES CHO'GATH",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 13
+    },
+    "l1tYNJp1xYo": {
+      "id": "l1tYNJp1xYo",
+      "title": "CHALLENGER CHO'GATH PENTAKILL",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261114",
+      "order": 3,
+      "durationSec": 26
+    },
+    "svcw7UXoXmM": {
+      "id": "svcw7UXoXmM",
+      "title": "HOW TO CARRY WITH NAAFIRI MID - FULLY EDUCATIONAL GAME",
+      "channel": "UCv7Fopr1b1301amIRI35yzA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1609
     }
   }
 }
