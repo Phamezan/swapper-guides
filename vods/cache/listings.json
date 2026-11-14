@@ -795,7 +795,8 @@
         "DjkgmrfBsOA",
         "ZXM0kHqwVJ4",
         "H86brfmqeTU",
-        "FRIFePP2Z68"
+        "FRIFePP2Z68",
+        "OC-BTA68PSk"
       ],
       "complete": true
     },
@@ -4000,7 +4001,9 @@
         "IRkBG4io_ZQ",
         "9FlJb29kqmA",
         "CC2t28S-Yu0",
-        "MFDdTR4LC7Q"
+        "MFDdTR4LC7Q",
+        "BhyIQaj1zHE",
+        "QXaPzYlP1A8"
       ],
       "complete": true
     },
@@ -4670,7 +4673,8 @@
         "QoYeihYTe1I",
         "fYJI3yIByeo",
         "lJNedVY4ggs",
-        "R2SWa_U3cqY"
+        "R2SWa_U3cqY",
+        "KVY5vpgEnFw"
       ],
       "complete": true
     },
@@ -16065,7 +16069,8 @@
         "8aB9GD1aj0o",
         "GYTOVlBRMkY",
         "WsWlzYs0lyU",
-        "OST5Bp0SB3k"
+        "OST5Bp0SB3k",
+        "EXIc8sfO30w"
       ],
       "complete": true
     },
@@ -109633,7 +109638,16 @@
         "uyTf_i4onao",
         "bOFnaTqVtVs",
         "4Hwy98j-Iv8",
-        "cLTPSJ3Jt2o"
+        "cLTPSJ3Jt2o",
+        "nVRRJyNW9I8",
+        "f8MA5Ar48G8",
+        "TUWcd9TsPxI",
+        "DH5evutbPPs",
+        "Egnk8tWwcr0",
+        "XTZNxnsDHqI",
+        "brv0-nsTFPc",
+        "2kXwKcpNgHg",
+        "G8N-YzdqLW0"
       ],
       "complete": true
     },
@@ -129911,7 +129925,8 @@
         "qqSp8o2kCL0",
         "yrmmHSrkLFU",
         "XqQuaV-vu44",
-        "l1tYNJp1xYo"
+        "l1tYNJp1xYo",
+        "8hXbVBPFTjY"
       ],
       "complete": true
     },
@@ -132627,7 +132642,12 @@
         "tkHyYLrb5f0",
         "8stagWYIJ4Q",
         "g5_hCnHgejY",
-        "LQmBwuyhbjA"
+        "LQmBwuyhbjA",
+        "rVKKgIHqPBk",
+        "WKLEsMV9MiE",
+        "j5SmfoeN0L4",
+        "w9q6Xw_m4Wc",
+        "76KVpmZNd2U"
       ],
       "complete": true
     },
@@ -133801,7 +133821,8 @@
         "QWUgPvVt3JQ",
         "tc16PtmQGJU",
         "VWH5cqt8AZc",
-        "d0qAQ8UlmlE"
+        "d0qAQ8UlmlE",
+        "u3xAL8x29Nw"
       ],
       "complete": true
     },
@@ -1212344,6 +1212365,174 @@
       "uploadDate": "20261114",
       "order": 1,
       "durationSec": 17
+    },
+    "OC-BTA68PSk": {
+      "id": "OC-BTA68PSk",
+      "title": "(KT Hwichan) Ahri Mid vs Akali - KR Challenger Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1612
+    },
+    "BhyIQaj1zHE": {
+      "id": "BhyIQaj1zHE",
+      "title": "Zed SOLO KILLS Diana | TW Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 13
+    },
+    "QXaPzYlP1A8": {
+      "id": "QXaPzYlP1A8",
+      "title": "Zed Mid vs Mel - NA Challenger Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1336
+    },
+    "KVY5vpgEnFw": {
+      "id": "KVY5vpgEnFw",
+      "title": "MID.GG: [ LegitKorea ] Ahri MID vs Swain | NA MASTER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1796
+    },
+    "EXIc8sfO30w": {
+      "id": "EXIc8sfO30w",
+      "title": "BLG Viper Varus vs Sivir [ ADC ] Ranked Challenger NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1461
+    },
+    "nVRRJyNW9I8": {
+      "id": "nVRRJyNW9I8",
+      "title": "Malphite Jungle vs Master Yi - BR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1487
+    },
+    "f8MA5Ar48G8": {
+      "id": "f8MA5Ar48G8",
+      "title": "Nasus Mid vs Jayce - BR Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1858
+    },
+    "TUWcd9TsPxI": {
+      "id": "TUWcd9TsPxI",
+      "title": "Morgana Jungle vs Diana - EUW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 3,
+      "durationSec": 1710
+    },
+    "DH5evutbPPs": {
+      "id": "DH5evutbPPs",
+      "title": "Warwick Jungle vs Xin Zhao - KR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 4,
+      "durationSec": 1502
+    },
+    "Egnk8tWwcr0": {
+      "id": "Egnk8tWwcr0",
+      "title": "Amumu Jungle vs Graves - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 5,
+      "durationSec": 1571
+    },
+    "XTZNxnsDHqI": {
+      "id": "XTZNxnsDHqI",
+      "title": "Gragas Top vs Renekton (RXCF BanaBeer) - EUW Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 6,
+      "durationSec": 1673
+    },
+    "brv0-nsTFPc": {
+      "id": "brv0-nsTFPc",
+      "title": "Udyr Top vs Sion - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 7,
+      "durationSec": 1554
+    },
+    "2kXwKcpNgHg": {
+      "id": "2kXwKcpNgHg",
+      "title": "(TLNP Toffe) Veigar Bot vs Xerath (Erikos) - EUW Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 8,
+      "durationSec": 1657
+    },
+    "G8N-YzdqLW0": {
+      "id": "G8N-YzdqLW0",
+      "title": "Vayne Top vs Illaoi - KR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 9,
+      "durationSec": 1682
+    },
+    "8hXbVBPFTjY": {
+      "id": "8hXbVBPFTjY",
+      "title": "THEY COULDN'T GET THEIR HANDS OFF OF ME...",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1314
+    },
+    "rVKKgIHqPBk": {
+      "id": "rVKKgIHqPBk",
+      "title": "LazyFeel : His Lucian is BLASTING KR Challenger in TeamFight",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 751
+    },
+    "WKLEsMV9MiE": {
+      "id": "WKLEsMV9MiE",
+      "title": "\"HanQL\" 2255LP Ezreal : This Machine Gun EZ Strategy is Hurting so Badly - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1234
+    },
+    "j5SmfoeN0L4": {
+      "id": "j5SmfoeN0L4",
+      "title": "T1 PEYZ : His DRAVEN is UNKILLABLE with this Kalista Support Strategy",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 3,
+      "durationSec": 975
+    },
+    "w9q6Xw_m4Wc": {
+      "id": "w9q6Xw_m4Wc",
+      "title": "Rank 1 Aphelios : His Combos is Absolutely Insane - Engsub ( vs Jhin )",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 4,
+      "durationSec": 1617
+    },
+    "76KVpmZNd2U": {
+      "id": "76KVpmZNd2U",
+      "title": "LazyFeel Zeri : 1v5 Storming Korean Challenger Elo at 2400LP Match",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 5,
+      "durationSec": 1301
+    },
+    "u3xAL8x29Nw": {
+      "id": "u3xAL8x29Nw",
+      "title": "FULL EDUCATIONAL BRUISER NOCTURNE GAMEPLAY | FREE GUIDE",
+      "channel": "UCnzE2sjqXiJLEHb6S1ioB-g",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1395
     }
   }
 }
