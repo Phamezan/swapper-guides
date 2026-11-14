@@ -3998,7 +3998,9 @@
         "M62GTfhQFoc",
         "0ebuJQ4NPMw",
         "IRkBG4io_ZQ",
-        "9FlJb29kqmA"
+        "9FlJb29kqmA",
+        "CC2t28S-Yu0",
+        "MFDdTR4LC7Q"
       ],
       "complete": true
     },
@@ -4667,7 +4669,8 @@
         "C68Q-ujeYco",
         "QoYeihYTe1I",
         "fYJI3yIByeo",
-        "lJNedVY4ggs"
+        "lJNedVY4ggs",
+        "R2SWa_U3cqY"
       ],
       "complete": true
     },
@@ -16061,7 +16064,8 @@
         "i8k9Yu3shwU",
         "8aB9GD1aj0o",
         "GYTOVlBRMkY",
-        "WsWlzYs0lyU"
+        "WsWlzYs0lyU",
+        "OST5Bp0SB3k"
       ],
       "complete": true
     },
@@ -34970,7 +34974,8 @@
         "2c05lwXmF3o",
         "Yv78UWBBVcg",
         "-to7-uleoqw",
-        "n9qwldEm9GI"
+        "n9qwldEm9GI",
+        "rmDpEMlABEc"
       ],
       "complete": true
     },
@@ -109620,7 +109625,15 @@
         "PR4NRI5LEN4",
         "MR2CP0Gqthk",
         "5FN8af-wYxk",
-        "QIgEobdpvUw"
+        "QIgEobdpvUw",
+        "fr6SOovVBBg",
+        "j-1KlQczff4",
+        "wEE-5Ix7hY8",
+        "jMsVBrtZBhM",
+        "uyTf_i4onao",
+        "bOFnaTqVtVs",
+        "4Hwy98j-Iv8",
+        "cLTPSJ3Jt2o"
       ],
       "complete": true
     },
@@ -124524,7 +124537,8 @@
         "j3uSoH9pDuU",
         "gimh7DuOxyg",
         "5UI1dT12gqI",
-        "Joz8XsOZ58Q"
+        "Joz8XsOZ58Q",
+        "t4q5rF5loIc"
       ],
       "complete": true
     },
@@ -132608,7 +132622,12 @@
         "awXu-aldvX0",
         "UTMBu-jOHVA",
         "IYydCxyWUBY",
-        "_b24hdOnT0U"
+        "_b24hdOnT0U",
+        "DhCnp2eWuFM",
+        "tkHyYLrb5f0",
+        "8stagWYIJ4Q",
+        "g5_hCnHgejY",
+        "LQmBwuyhbjA"
       ],
       "complete": true
     },
@@ -134775,7 +134794,8 @@
         "rYE21iVNaic",
         "MYR8ebzA4qM",
         "oqa7lNiFTOw",
-        "Iq9Q7sqbaFM"
+        "Iq9Q7sqbaFM",
+        "_tf5rQR6Z4M"
       ],
       "complete": true
     }
@@ -1212164,6 +1212184,166 @@
       "uploadDate": "20261114",
       "order": 1,
       "durationSec": 1609
+    },
+    "CC2t28S-Yu0": {
+      "id": "CC2t28S-Yu0",
+      "title": "(TTobias) Zed SOLO KILLS Yone | EUW Challenger Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 13
+    },
+    "MFDdTR4LC7Q": {
+      "id": "MFDdTR4LC7Q",
+      "title": "(TTobias) Zed Mid vs Katarina - EUW Challenger Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 2054
+    },
+    "R2SWa_U3cqY": {
+      "id": "R2SWa_U3cqY",
+      "title": "MID.GG: [ Stunt ] Ahri SUPP vs Karma | NA MASTER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 2611
+    },
+    "OST5Bp0SB3k": {
+      "id": "OST5Bp0SB3k",
+      "title": "Cassiopeia vs Naafiri MID [ Gen.G Chovy ] Ranked Challenger NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1789
+    },
+    "rmDpEMlABEc": {
+      "id": "rmDpEMlABEc",
+      "title": "Ezreal vs Kalista ADC - KR Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1560
+    },
+    "fr6SOovVBBg": {
+      "id": "fr6SOovVBBg",
+      "title": "(NightBringerX8) Warwick Top vs Yone - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 1620
+    },
+    "j-1KlQczff4": {
+      "id": "j-1KlQczff4",
+      "title": "Heimerdinger Top vs Jax - NA Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1689
+    },
+    "wEE-5Ix7hY8": {
+      "id": "wEE-5Ix7hY8",
+      "title": "Brand Mid vs Anivia - VN Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 3,
+      "durationSec": 1766
+    },
+    "jMsVBrtZBhM": {
+      "id": "jMsVBrtZBhM",
+      "title": "Amumu Support vs Janna - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 4,
+      "durationSec": 1736
+    },
+    "uyTf_i4onao": {
+      "id": "uyTf_i4onao",
+      "title": "Galio Support vs Leona - VN Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 5,
+      "durationSec": 1803
+    },
+    "bOFnaTqVtVs": {
+      "id": "bOFnaTqVtVs",
+      "title": "Hwei Bot vs Tristana - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 6,
+      "durationSec": 1778
+    },
+    "4Hwy98j-Iv8": {
+      "id": "4Hwy98j-Iv8",
+      "title": "Quinn Jungle vs Karthus - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 7,
+      "durationSec": 1561
+    },
+    "cLTPSJ3Jt2o": {
+      "id": "cLTPSJ3Jt2o",
+      "title": "(TOG Sajator) Vladimir Top vs Shen (FLK Deleted) - EUW Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 8,
+      "durationSec": 1413
+    },
+    "t4q5rF5loIc": {
+      "id": "t4q5rF5loIc",
+      "title": "🛑 XiaoMing Aatrox vs Illaoi - 800 LP KR  — NOT THIS GUY AGAIN?!",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 2287
+    },
+    "DhCnp2eWuFM": {
+      "id": "DhCnp2eWuFM",
+      "title": "T1 PEYZ \" One Kills Per Min ? \" His Kai'sa is Something Different",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 776
+    },
+    "tkHyYLrb5f0": {
+      "id": "tkHyYLrb5f0",
+      "title": "\"Jz\" 2000LP Yunara : His Mechanic is Ruthless, Fearless Savage - Engsub ( vs Caitlyn, Jinx )",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 2,
+      "durationSec": 1570
+    },
+    "8stagWYIJ4Q": {
+      "id": "8stagWYIJ4Q",
+      "title": "1900LP Lucian : His DAMAGE is so Disgusting, Tearing Super Server Challenger in Just 20 Min - Engsub",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 3,
+      "durationSec": 1309
+    },
+    "g5_hCnHgejY": {
+      "id": "g5_hCnHgejY",
+      "title": "Rank 1 Jinx : When You Had so Much Gold & Don't Know What to Buy - Engsub ( vs Tris, Yasuo )",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 4,
+      "durationSec": 1608
+    },
+    "LQmBwuyhbjA": {
+      "id": "LQmBwuyhbjA",
+      "title": "Rank 1 Ashe : Just Right Click and Kiting Enemy To Death ( vs Jhin, Kai'sa )",
+      "channel": "UCvJaR5dqd4oKFCS7FHOgfRw",
+      "uploadDate": "20261114",
+      "order": 5,
+      "durationSec": 1438
+    },
+    "_tf5rQR6Z4M": {
+      "id": "_tf5rQR6Z4M",
+      "title": "When you have to drag your late game carry through early game #leagueoflegends #lolclips",
+      "channel": "UCoO3LOWlgNi5A_oKlC9NUwQ",
+      "uploadDate": "20261114",
+      "order": 1,
+      "durationSec": 17
     }
   }
 }
