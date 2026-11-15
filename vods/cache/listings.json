@@ -796,7 +796,8 @@
         "ZXM0kHqwVJ4",
         "H86brfmqeTU",
         "FRIFePP2Z68",
-        "OC-BTA68PSk"
+        "OC-BTA68PSk",
+        "m4aFBuIjCao"
       ],
       "complete": true
     },
@@ -4003,7 +4004,9 @@
         "CC2t28S-Yu0",
         "MFDdTR4LC7Q",
         "BhyIQaj1zHE",
-        "QXaPzYlP1A8"
+        "QXaPzYlP1A8",
+        "t4CHN6YlFD0",
+        "KJ7ltp-zN9c"
       ],
       "complete": true
     },
@@ -16070,7 +16073,8 @@
         "GYTOVlBRMkY",
         "WsWlzYs0lyU",
         "OST5Bp0SB3k",
-        "EXIc8sfO30w"
+        "EXIc8sfO30w",
+        "fcrLWOCI4hk"
       ],
       "complete": true
     },
@@ -109647,7 +109651,14 @@
         "XTZNxnsDHqI",
         "brv0-nsTFPc",
         "2kXwKcpNgHg",
-        "G8N-YzdqLW0"
+        "G8N-YzdqLW0",
+        "92vyd0yzmT8",
+        "nS62nHpI69Y",
+        "M1SPktmM64Q",
+        "xAUsHCKXNwk",
+        "0nJYUMPsLRc",
+        "e8Vh9JeULCs",
+        "sv3xKa8STy0"
       ],
       "complete": true
     },
@@ -1212533,6 +1212544,94 @@
       "uploadDate": "20261114",
       "order": 1,
       "durationSec": 1395
+    },
+    "m4aFBuIjCao": {
+      "id": "m4aFBuIjCao",
+      "title": "(KRX AKaJe) Ahri Mid vs Xerath - KR Challenger Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261115",
+      "order": 1,
+      "durationSec": 1891
+    },
+    "t4CHN6YlFD0": {
+      "id": "t4CHN6YlFD0",
+      "title": "Zed SOLO KILLS Katarina (Raiko) | EUW Grandmaster Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261115",
+      "order": 1,
+      "durationSec": 13
+    },
+    "KJ7ltp-zN9c": {
+      "id": "KJ7ltp-zN9c",
+      "title": "Zed Support vs Xerath - BR Challenger Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261115",
+      "order": 2,
+      "durationSec": 1764
+    },
+    "fcrLWOCI4hk": {
+      "id": "fcrLWOCI4hk",
+      "title": "Kai'Sa vs Viktor ADC [ Gen.G Ruler ] Ranked Grandmaster NA | Patch 26.22",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261115",
+      "order": 1,
+      "durationSec": 1634
+    },
+    "92vyd0yzmT8": {
+      "id": "92vyd0yzmT8",
+      "title": "Mel Mid vs Veigar - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 1,
+      "durationSec": 1770
+    },
+    "nS62nHpI69Y": {
+      "id": "nS62nHpI69Y",
+      "title": "Quinn Top vs Pantheon - EUW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 2,
+      "durationSec": 1796
+    },
+    "M1SPktmM64Q": {
+      "id": "M1SPktmM64Q",
+      "title": "Cassiopeia Mid vs Yasuo - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 3,
+      "durationSec": 1855
+    },
+    "xAUsHCKXNwk": {
+      "id": "xAUsHCKXNwk",
+      "title": "Akali Mid vs Talon - VN Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 4,
+      "durationSec": 1792
+    },
+    "0nJYUMPsLRc": {
+      "id": "0nJYUMPsLRc",
+      "title": "Sejuani Top vs Vladimir - VN Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 5,
+      "durationSec": 1744
+    },
+    "e8Vh9JeULCs": {
+      "id": "e8Vh9JeULCs",
+      "title": "Maokai Support vs Lulu (BRO PlanB) - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 6,
+      "durationSec": 1500
+    },
+    "sv3xKa8STy0": {
+      "id": "sv3xKa8STy0",
+      "title": "Riven Top vs Azir - NA Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261114",
+      "order": 7,
+      "durationSec": 1754
     }
   }
 }
