@@ -798,7 +798,8 @@
         "FRIFePP2Z68",
         "OC-BTA68PSk",
         "m4aFBuIjCao",
-        "5OgsrvVd6UY"
+        "5OgsrvVd6UY",
+        "J0R_0tmY6Do"
       ],
       "complete": true
     },
@@ -4011,7 +4012,9 @@
         "XfvKLnK503w",
         "rhUjbwSGNX0",
         "D7AnVZnMQHc",
-        "PEEokIe4p28"
+        "PEEokIe4p28",
+        "O6-bpL35VFk",
+        "S_nvROENWpg"
       ],
       "complete": true
     },
@@ -34995,7 +34998,9 @@
         "-to7-uleoqw",
         "n9qwldEm9GI",
         "rmDpEMlABEc",
-        "0usRZ3LTXCA"
+        "0usRZ3LTXCA",
+        "VKuNfZnYhIU",
+        "xujhvvOCPsQ"
       ],
       "complete": true
     },
@@ -109686,7 +109691,14 @@
         "9g9E1IRx7ys",
         "EO4C1Lfq3Us",
         "is1tZMcUPJA",
-        "8m5qCCaK_Xo"
+        "8m5qCCaK_Xo",
+        "nLXS2hTApVw",
+        "vfiOc7tpilM",
+        "0OXuOTZxoCA",
+        "1xcGc9jZ5fM",
+        "yTW7VIZza_0",
+        "a4h9ln7iEuI",
+        "pCRdMJBnfhQ"
       ],
       "complete": true
     },
@@ -129968,7 +129980,8 @@
         "yrmmHSrkLFU",
         "XqQuaV-vu44",
         "l1tYNJp1xYo",
-        "8hXbVBPFTjY"
+        "8hXbVBPFTjY",
+        "ZHELelH7nSU"
       ],
       "complete": true
     },
@@ -133639,7 +133652,8 @@
         "6FKkyEynjhc",
         "BGTKuvecsWE",
         "S-oK51EbqEo",
-        "svcw7UXoXmM"
+        "svcw7UXoXmM",
+        "qwtp_KoPWpg"
       ],
       "complete": true
     },
@@ -1212974,6 +1212988,118 @@
       "uploadDate": "20261115",
       "order": 1,
       "durationSec": 1349
+    },
+    "J0R_0tmY6Do": {
+      "id": "J0R_0tmY6Do",
+      "title": "(FEC Wolorz) Ahri Mid vs Anivia - EUW Challenger Patch 26.22",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261116",
+      "order": 1,
+      "durationSec": 1393
+    },
+    "O6-bpL35VFk": {
+      "id": "O6-bpL35VFk",
+      "title": "Zed SOLO KILLS Kha'Zix | VN Master Patch 26.22 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261116",
+      "order": 1,
+      "durationSec": 13
+    },
+    "S_nvROENWpg": {
+      "id": "S_nvROENWpg",
+      "title": "(Composites) Zed Jungle vs Rengar - EUW Challenger Patch 26.22",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261116",
+      "order": 2,
+      "durationSec": 1716
+    },
+    "VKuNfZnYhIU": {
+      "id": "VKuNfZnYhIU",
+      "title": "Ruler Kalista vs Lucian ADC - NA Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261116",
+      "order": 1,
+      "durationSec": 1786
+    },
+    "xujhvvOCPsQ": {
+      "id": "xujhvvOCPsQ",
+      "title": "Jhin vs Kog'Maw ADC - KR Challenger - Patch 16.22 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261116",
+      "order": 2,
+      "durationSec": 1756
+    },
+    "nLXS2hTApVw": {
+      "id": "nLXS2hTApVw",
+      "title": "Ziggs Mid vs Galio - VN Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261116",
+      "order": 1,
+      "durationSec": 1604
+    },
+    "vfiOc7tpilM": {
+      "id": "vfiOc7tpilM",
+      "title": "Volibear Jungle vs Lee Sin - BR Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261116",
+      "order": 2,
+      "durationSec": 1551
+    },
+    "0OXuOTZxoCA": {
+      "id": "0OXuOTZxoCA",
+      "title": "Zoe Support vs Brand - VN Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261116",
+      "order": 3,
+      "durationSec": 1600
+    },
+    "1xcGc9jZ5fM": {
+      "id": "1xcGc9jZ5fM",
+      "title": "(Samurai) Irelia Mid vs Vladimir - EUW Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261116",
+      "order": 4,
+      "durationSec": 1525
+    },
+    "yTW7VIZza_0": {
+      "id": "yTW7VIZza_0",
+      "title": "Elise Support vs Seraphine - TW Master Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261116",
+      "order": 5,
+      "durationSec": 1870
+    },
+    "a4h9ln7iEuI": {
+      "id": "a4h9ln7iEuI",
+      "title": "Shyvana Top vs Cho'Gath - NA Challenger Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261116",
+      "order": 6,
+      "durationSec": 1826
+    },
+    "pCRdMJBnfhQ": {
+      "id": "pCRdMJBnfhQ",
+      "title": "Aurora Top vs Olaf - KR Grandmaster Patch 26.22",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261115",
+      "order": 7,
+      "durationSec": 1722
+    },
+    "ZHELelH7nSU": {
+      "id": "ZHELelH7nSU",
+      "title": "SUNFIRE ORNN IS LITERALLY NUCLEAR",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261115",
+      "order": 1,
+      "durationSec": 1250
+    },
+    "qwtp_KoPWpg": {
+      "id": "qwtp_KoPWpg",
+      "title": "LEAGUE OF LEGENDS: NEW DAWN - SHOK REACTS",
+      "channel": "UCv7Fopr1b1301amIRI35yzA",
+      "uploadDate": "20261116",
+      "order": 1,
+      "durationSec": 1400
     }
   }
 }
