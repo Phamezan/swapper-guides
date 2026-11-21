@@ -808,7 +808,8 @@
         "sEeVeiLnqZA",
         "hsw9YhR8uK4",
         "LNCQ-nS24HY",
-        "2_D5h0sd790"
+        "2_D5h0sd790",
+        "5fw0g6J5J_s"
       ],
       "complete": true
     },
@@ -4051,7 +4052,9 @@
         "haGURATmnbU",
         "uYSEKiTEiy0",
         "Hrl1LKBAQfk",
-        "CvRJzCrpvkc"
+        "CvRJzCrpvkc",
+        "v0RPamz3UNw",
+        "6RivA8qMSeU"
       ],
       "complete": true
     },
@@ -16151,7 +16154,8 @@
         "opMqIPWvkr4",
         "8lzETQJ6AJo",
         "vsuAn7HEZ2c",
-        "u7E0Zr8DNVE"
+        "u7E0Zr8DNVE",
+        "34d3NZ4LTf4"
       ],
       "complete": true
     },
@@ -109901,7 +109905,14 @@
         "OaDIebHIF-Y",
         "MS6j3N1RNko",
         "GKLcwUc-Dh4",
-        "ZzNQEyb1veM"
+        "ZzNQEyb1veM",
+        "f_pyUXkCdUU",
+        "J0jD7n56Xo4",
+        "Gqxy6cs8r04",
+        "pTGJFB0Ld5c",
+        "fOCRk73xvXM",
+        "F7aF8zcBnm4",
+        "pdcov7phmoI"
       ],
       "complete": true
     },
@@ -133804,7 +133815,8 @@
         "B7t0tNbubtE",
         "NhWZWdztE6I",
         "eSSn5w_Nal0",
-        "t4L89nmyicA"
+        "t4L89nmyicA",
+        "4Cb4rTdp1qQ"
       ],
       "complete": true
     },
@@ -1215557,6 +1215569,102 @@
       "uploadDate": "20261120",
       "order": 1,
       "durationSec": 1348
+    },
+    "5fw0g6J5J_s": {
+      "id": "5fw0g6J5J_s",
+      "title": "Ahri Mid vs Hwei (x9 Zilean) - EUW Master Patch 26.23",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261121",
+      "order": 1,
+      "durationSec": 1545
+    },
+    "v0RPamz3UNw": {
+      "id": "v0RPamz3UNw",
+      "title": "Zed SOLO KILLS Kassadin | TW Master Patch 26.23 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261121",
+      "order": 1,
+      "durationSec": 13
+    },
+    "6RivA8qMSeU": {
+      "id": "6RivA8qMSeU",
+      "title": "Zed Mid vs Viktor - KR Master Patch 26.23",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261121",
+      "order": 2,
+      "durationSec": 1552
+    },
+    "34d3NZ4LTf4": {
+      "id": "34d3NZ4LTf4",
+      "title": "Corki vs Xayah [ ADC ] Korea Challenger 2172 LP | Patch 26.23 ✅",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261121",
+      "order": 1,
+      "durationSec": 1359
+    },
+    "f_pyUXkCdUU": {
+      "id": "f_pyUXkCdUU",
+      "title": "Bel'Veth Jungle vs Jarvan IV - TW Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 1,
+      "durationSec": 1713
+    },
+    "J0jD7n56Xo4": {
+      "id": "J0jD7n56Xo4",
+      "title": "Gangplank Top vs Rumble - TW Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 2,
+      "durationSec": 1713
+    },
+    "Gqxy6cs8r04": {
+      "id": "Gqxy6cs8r04",
+      "title": "Taric Support vs Nautilus - TW Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 3,
+      "durationSec": 1458
+    },
+    "pTGJFB0Ld5c": {
+      "id": "pTGJFB0Ld5c",
+      "title": "Xayah ADC vs Kog'Maw - TW Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 4,
+      "durationSec": 1467
+    },
+    "fOCRk73xvXM": {
+      "id": "fOCRk73xvXM",
+      "title": "Kennen Top vs Camille - EUW Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 5,
+      "durationSec": 1705
+    },
+    "F7aF8zcBnm4": {
+      "id": "F7aF8zcBnm4",
+      "title": "Alistar Support vs Pyke - KR Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 6,
+      "durationSec": 1679
+    },
+    "pdcov7phmoI": {
+      "id": "pdcov7phmoI",
+      "title": "Darius Top vs K'Sante (NS Janus) - KR Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261121",
+      "order": 7,
+      "durationSec": 1714
+    },
+    "4Cb4rTdp1qQ": {
+      "id": "4Cb4rTdp1qQ",
+      "title": "I Heard Scratching Above My Sister’s Bed",
+      "channel": "UCGZSita438Rw3GnkLTrsX7w",
+      "uploadDate": "20261121",
+      "order": 1,
+      "durationSec": 47
     }
   }
 }
