@@ -812,7 +812,8 @@
         "5fw0g6J5J_s",
         "ecf2Ti3OL88",
         "lqjQa41vj_Q",
-        "Yx3YOOKQvwE"
+        "Yx3YOOKQvwE",
+        "O5y1IBHAGp8"
       ],
       "complete": true
     },
@@ -4067,7 +4068,9 @@
         "K1I9NpYtt7Y",
         "KDGkrGyf9IU",
         "CDy2xJ03T6g",
-        "qEyKHlWC1Pw"
+        "qEyKHlWC1Pw",
+        "CkF49YtvbKg",
+        "RqZTRoh6RoE"
       ],
       "complete": true
     },
@@ -35126,7 +35129,9 @@
         "k7QtteoP0oA",
         "qP3Wu9xFpm0",
         "eZaeuKIUh6g",
-        "6eEhacUAqpk"
+        "6eEhacUAqpk",
+        "Oa9AlJZqw7o",
+        "0LR3o6mxcKw"
       ],
       "complete": true
     },
@@ -109986,7 +109991,14 @@
         "dJAEShKnTic",
         "GjF18brLsVM",
         "01CNPMFZ-D0",
-        "BT8Cs2XF_QA"
+        "BT8Cs2XF_QA",
+        "kgI-23jU_O8",
+        "XoofqJKhCxw",
+        "4seIl1sgClU",
+        "cP4FGOHCdRg",
+        "3NUAM3tRaWA",
+        "3L8N5C6wsbA",
+        "qe0_etoJWSA"
       ],
       "complete": true
     },
@@ -124902,7 +124914,8 @@
         "vQ8gby7KnZM",
         "mfDRsOPUUAg",
         "vWdRvPcJxeM",
-        "fMEKMIkhdJk"
+        "fMEKMIkhdJk",
+        "0HhQMNYArp8"
       ],
       "complete": true
     },
@@ -133921,7 +133934,9 @@
         "4pkPBVFHqVQ",
         "XpfHu4mVnG0",
         "pMHagpECMEM",
-        "zqWH4oM8mIs"
+        "zqWH4oM8mIs",
+        "PLEMaHd4IFs",
+        "kQagmjwWW4k"
       ],
       "complete": true
     },
@@ -1216637,6 +1216652,126 @@
       "uploadDate": "20261122",
       "order": 1,
       "durationSec": 11
+    },
+    "O5y1IBHAGp8": {
+      "id": "O5y1IBHAGp8",
+      "title": "Ahri Mid vs Aurora - EUW Challenger Patch 26.23",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261123",
+      "order": 1,
+      "durationSec": 1783
+    },
+    "CkF49YtvbKg": {
+      "id": "CkF49YtvbKg",
+      "title": "Zed SOLO KILLS Yunara | EUW Grandmaster Patch 26.23 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261123",
+      "order": 1,
+      "durationSec": 21
+    },
+    "RqZTRoh6RoE": {
+      "id": "RqZTRoh6RoE",
+      "title": "Zed Jungle vs Vi - EUW Grandmaster Patch 26.23",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261123",
+      "order": 2,
+      "durationSec": 1755
+    },
+    "Oa9AlJZqw7o": {
+      "id": "Oa9AlJZqw7o",
+      "title": "Ekko vs  Galio Mid - KR Challenger - Patch 16.23 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261123",
+      "order": 1,
+      "durationSec": 1836
+    },
+    "0LR3o6mxcKw": {
+      "id": "0LR3o6mxcKw",
+      "title": "Lee Sin vs Zyra Jungle - KR Challenger - Patch 16.23 Season 16",
+      "channel": "UCejjkETjJXop6MP8eMjYL3g",
+      "uploadDate": "20261123",
+      "order": 2,
+      "durationSec": 1561
+    },
+    "kgI-23jU_O8": {
+      "id": "kgI-23jU_O8",
+      "title": "Kindred Jungle vs Lee Sin - KR Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 1,
+      "durationSec": 1630
+    },
+    "XoofqJKhCxw": {
+      "id": "XoofqJKhCxw",
+      "title": "Samira ADC vs Caitlyn - VN Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 2,
+      "durationSec": 1483
+    },
+    "4seIl1sgClU": {
+      "id": "4seIl1sgClU",
+      "title": "Yunara ADC vs Aphelios - KR Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 3,
+      "durationSec": 1804
+    },
+    "cP4FGOHCdRg": {
+      "id": "cP4FGOHCdRg",
+      "title": "Lillia Jungle vs Rek'Sai - KR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 4,
+      "durationSec": 1691
+    },
+    "3NUAM3tRaWA": {
+      "id": "3NUAM3tRaWA",
+      "title": "Pyke Support vs Thresh - VN Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 5,
+      "durationSec": 1715
+    },
+    "3L8N5C6wsbA": {
+      "id": "3L8N5C6wsbA",
+      "title": "Gnar Top vs Olaf - KR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 6,
+      "durationSec": 1411
+    },
+    "qe0_etoJWSA": {
+      "id": "qe0_etoJWSA",
+      "title": "Yuumi Support vs Rakan - KR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261123",
+      "order": 7,
+      "durationSec": 1792
+    },
+    "0HhQMNYArp8": {
+      "id": "0HhQMNYArp8",
+      "title": "🛑 XiaoMing Aatrox vs. Jayce — Phase Rush + Cut Down! The Perfect Setup to SMASH Jayce!",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261123",
+      "order": 1,
+      "durationSec": 1260
+    },
+    "PLEMaHd4IFs": {
+      "id": "PLEMaHd4IFs",
+      "title": "She Offered Me a Strawberry. That Wasn’t Payton.",
+      "channel": "UCGZSita438Rw3GnkLTrsX7w",
+      "uploadDate": "20261123",
+      "order": 1,
+      "durationSec": 59
+    },
+    "kQagmjwWW4k": {
+      "id": "kQagmjwWW4k",
+      "title": "My 10th Birthday Card Opened Blank—Until the Tornado Hit",
+      "channel": "UCGZSita438Rw3GnkLTrsX7w",
+      "uploadDate": "20261123",
+      "order": 2,
+      "durationSec": 52
     }
   }
 }
