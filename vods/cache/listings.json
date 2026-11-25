@@ -817,7 +817,8 @@
         "iXl0yhwmO6s",
         "a2NIoGKBOfA",
         "ll3L7eutbnw",
-        "7X8dX-O6KjA"
+        "7X8dX-O6KjA",
+        "iMqqVVCObpQ"
       ],
       "complete": true
     },
@@ -4086,7 +4087,11 @@
         "7rhNlkkoLNw",
         "jAhlkDYqykU",
         "xJ485wxxidY",
-        "kPsoVOfz3Rg"
+        "kPsoVOfz3Rg",
+        "FVr89KExIK8",
+        "ABLOh9H29Q4",
+        "valJeQZSatQ",
+        "HVilTHVNxT4"
       ],
       "complete": true
     },
@@ -4777,7 +4782,9 @@
         "qC7SXeTMMs0",
         "59LstN_PIUM",
         "0iy2vJGYzSM",
-        "13hdyyJjDXs"
+        "13hdyyJjDXs",
+        "hngK_9GIRJQ",
+        "eAJJ0WFUlQc"
       ],
       "complete": true
     },
@@ -16209,7 +16216,9 @@
         "B3gHi6E-7gI",
         "GGX8KmEgeRk",
         "1sZxcMTrOYE",
-        "mvHOx3RMYlk"
+        "mvHOx3RMYlk",
+        "PsMWpqfuXGg",
+        "66XOzOuucrs"
       ],
       "complete": true
     },
@@ -110082,7 +110091,21 @@
         "C0JjPkLH2_Y",
         "xWviYl6g3LA",
         "AbNS1xEO6tM",
-        "EuAm1x2p9YQ"
+        "EuAm1x2p9YQ",
+        "CmhLXelvlfA",
+        "zequdS3vQro",
+        "n14o6OP2Lhg",
+        "M1nLxaTH7BI",
+        "Tfjq3_YhUGM",
+        "hEM1QGtFPA4",
+        "giWMA8T1CRY",
+        "ejNXaBtgwWo",
+        "IF7w1eqx3oM",
+        "EAOtLh-EIz0",
+        "svtTTghIgvo",
+        "6cVqmdqs3M0",
+        "kFbvtF3XlDw",
+        "Ce-EAKOwirM"
       ],
       "complete": true
     },
@@ -125006,7 +125029,8 @@
         "eO8Mw9f53i0",
         "HDz7LrAJ5a4",
         "sTLbkg_7shk",
-        "Rkci-f40RB4"
+        "Rkci-f40RB4",
+        "PY_6Mc9i7gQ"
       ],
       "complete": true
     },
@@ -129306,7 +129330,8 @@
         "ambJB6eZJqg",
         "9Hua8L0lAss",
         "WIc15pH7nmw",
-        "4rRy0gyndyc"
+        "4rRy0gyndyc",
+        "JS2iIcmd3OQ"
       ],
       "complete": true
     },
@@ -130406,7 +130431,8 @@
         "LVzDdDK-sQY",
         "4ghnSabzXgo",
         "9pqDgyIFlDA",
-        "CqBWsAgEbYk"
+        "CqBWsAgEbYk",
+        "ehzY6s-GVaQ"
       ],
       "complete": true
     },
@@ -134412,7 +134438,8 @@
         "mm1RtZMK3DQ",
         "91Yo5JiGPC8",
         "_xzOTY385XY",
-        "TJjTIVBLOGM"
+        "TJjTIVBLOGM",
+        "MwwRgF7RKqQ"
       ],
       "complete": true
     },
@@ -1217960,6 +1217987,222 @@
       "uploadDate": "20261124",
       "order": 1,
       "durationSec": 0
+    },
+    "iMqqVVCObpQ": {
+      "id": "iMqqVVCObpQ",
+      "title": "Ahri Mid vs Galio - KR Grandmaster Patch 26.23",
+      "channel": "UCBT1vkFS4C7GlsjyNfglgrw",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1303
+    },
+    "FVr89KExIK8": {
+      "id": "FVr89KExIK8",
+      "title": "Zed SOLO KILLS Zac | BR Master Patch 26.23 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 13
+    },
+    "ABLOh9H29Q4": {
+      "id": "ABLOh9H29Q4",
+      "title": "Zed Mid vs Ekko - EUW Grandmaster Patch 26.23",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261125",
+      "order": 2,
+      "durationSec": 1507
+    },
+    "valJeQZSatQ": {
+      "id": "valJeQZSatQ",
+      "title": "Zed SOLO KILLS Kindred | VN Master Patch 26.23 #shorts",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261125",
+      "order": 3,
+      "durationSec": 13
+    },
+    "HVilTHVNxT4": {
+      "id": "HVilTHVNxT4",
+      "title": "Zed Jungle vs Jarvan IV - NA Challenger Patch 26.23",
+      "channel": "UCEflCDloIcofvi2GFQOHvPg",
+      "uploadDate": "20261125",
+      "order": 4,
+      "durationSec": 1485
+    },
+    "hngK_9GIRJQ": {
+      "id": "hngK_9GIRJQ",
+      "title": "MID.GG: [ Bwipo ] Ahri MID vs Ekko | EUW MASTER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1466
+    },
+    "eAJJ0WFUlQc": {
+      "id": "eAJJ0WFUlQc",
+      "title": "MID.GG: [ dunlol ] Ahri MID vs Sylas | NA CHALLENGER | LOL Season 2026",
+      "channel": "UCE0Lc9IJigVbujM51FqkMwg",
+      "uploadDate": "20261125",
+      "order": 2,
+      "durationSec": 1608
+    },
+    "PsMWpqfuXGg": {
+      "id": "PsMWpqfuXGg",
+      "title": "Kai'Sa vs Ezreal ADC [ Teddy ] Lol Korea Master Patch 26.23 ✅",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1495
+    },
+    "66XOzOuucrs": {
+      "id": "66XOzOuucrs",
+      "title": "Jinx vs Xayah ADC [ Teddy ] Lol Korea Master Patch 26.23 ✅",
+      "channel": "UCmgtmJxFHtwLPru3JRlki5A",
+      "uploadDate": "20261125",
+      "order": 2,
+      "durationSec": 1153
+    },
+    "CmhLXelvlfA": {
+      "id": "CmhLXelvlfA",
+      "title": "Shen Top vs Yasuo - KR Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1876
+    },
+    "zequdS3vQro": {
+      "id": "zequdS3vQro",
+      "title": "Shaco Jungle vs Skarner - KR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 2,
+      "durationSec": 1624
+    },
+    "n14o6OP2Lhg": {
+      "id": "n14o6OP2Lhg",
+      "title": "Cassiopeia Mid vs Ahri - BR Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 3,
+      "durationSec": 1784
+    },
+    "M1nLxaTH7BI": {
+      "id": "M1nLxaTH7BI",
+      "title": "Varus ADC vs Karthus - EUW Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 4,
+      "durationSec": 1724
+    },
+    "Tfjq3_YhUGM": {
+      "id": "Tfjq3_YhUGM",
+      "title": "Qiyana Jungle vs Jarvan IV - KR Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 5,
+      "durationSec": 1564
+    },
+    "hEM1QGtFPA4": {
+      "id": "hEM1QGtFPA4",
+      "title": "(RED frosty) Neeko Support vs Renata Glasc - KR Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 6,
+      "durationSec": 1598
+    },
+    "giWMA8T1CRY": {
+      "id": "giWMA8T1CRY",
+      "title": "Galio Mid vs Vladimir - KR Grandmaster Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 7,
+      "durationSec": 1563
+    },
+    "ejNXaBtgwWo": {
+      "id": "ejNXaBtgwWo",
+      "title": "Aurora Mid vs Ekko - KR Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 8,
+      "durationSec": 1502
+    },
+    "IF7w1eqx3oM": {
+      "id": "IF7w1eqx3oM",
+      "title": "Briar Jungle vs Vi - KR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 9,
+      "durationSec": 1628
+    },
+    "EAOtLh-EIz0": {
+      "id": "EAOtLh-EIz0",
+      "title": "Nunu & Willump Jungle vs Qiyana - NA Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 10,
+      "durationSec": 1562
+    },
+    "svtTTghIgvo": {
+      "id": "svtTTghIgvo",
+      "title": "Camille Top vs Nasus - NA Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 11,
+      "durationSec": 1654
+    },
+    "6cVqmdqs3M0": {
+      "id": "6cVqmdqs3M0",
+      "title": "Udyr Jungle vs Rengar - BR Challenger Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 12,
+      "durationSec": 1415
+    },
+    "kFbvtF3XlDw": {
+      "id": "kFbvtF3XlDw",
+      "title": "Yorick Top vs Olaf - BR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 13,
+      "durationSec": 1787
+    },
+    "Ce-EAKOwirM": {
+      "id": "Ce-EAKOwirM",
+      "title": "Sejuani Jungle vs Qiyana - KR Master Patch 26.23",
+      "channel": "UCsVz2qkd_oGXGC66fcH4SFA",
+      "uploadDate": "20261125",
+      "order": 14,
+      "durationSec": 1481
+    },
+    "PY_6Mc9i7gQ": {
+      "id": "PY_6Mc9i7gQ",
+      "title": "🛑 XiaoMing KR Master Aatrox vs. Yone — Aery + Cut Down Actually Feels Pretty GOOD!",
+      "channel": "UCBnsdnhdPysrE0JCjQPn-QA",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1185
+    },
+    "JS2iIcmd3OQ": {
+      "id": "JS2iIcmd3OQ",
+      "title": "HOW TO SHUT DOWN K'SANTE EVERY TIME",
+      "channel": "UC8D5uv7_R_0rc1AAb4pFB4g",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1434
+    },
+    "ehzY6s-GVaQ": {
+      "id": "ehzY6s-GVaQ",
+      "title": "THE BEST ORNN TANK BUILD IN SEASON 16",
+      "channel": "UCDKftvwXOkO_NpD6Ux7APUA",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1362
+    },
+    "MwwRgF7RKqQ": {
+      "id": "MwwRgF7RKqQ",
+      "title": "FULL EDUCATIONAL AMBESSA GAMEPLAY | FREE GUIDE",
+      "channel": "UCnzE2sjqXiJLEHb6S1ioB-g",
+      "uploadDate": "20261125",
+      "order": 1,
+      "durationSec": 1641
     }
   }
 }
